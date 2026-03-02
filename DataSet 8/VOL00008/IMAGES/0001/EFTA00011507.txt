@@ -1,0 +1,18 @@
+## Page 1 (VISION)
+
+[Error calling qwen3-vl:8b-instruct-q8_0] an error was encountered while running the model: CUDA error: out of memory
+  current device: 1, in function ggml_cuda_graph_evaluate_and_capture at //ml/backend/ggml/ggml/src/ggml-cuda/ggml-cuda.cu:3858
+  cudaGraphInstantiate(&graph->instance, graph->graph, __null, __null, 0)
+//ml/backend/ggml/ggml/src/ggml-cuda/ggml-cuda.cu:98: CUDA error
+
+## Page 2 (DOC)
+
+Thanks,
+
+[REDACTED]
+
+EFTA00011508
+
+## Structured Fields
+- Case ID: EFTA00011508
+

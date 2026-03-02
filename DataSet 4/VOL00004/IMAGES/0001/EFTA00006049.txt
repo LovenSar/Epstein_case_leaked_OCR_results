@@ -1,0 +1,168 @@
+## Page 1 (FAST)
+
+## Visible Text (verbatim)
+SCENE2GO
+Instructions for FARO SCENE Pointcloud Interactive
+
+You MUST retain the entire folder WebShare/SCENE2Go if transferred off on external harddrive,
+thumbdrive, or DVD/CD. This is a self-executable package so the entire contents of the folder need to
+stay together.
+• Locate and open the WebShare/SCENE2Go folder
+
+• If using a PC, double click on Start SCENE 2Go on Windows
+• If using a MAC, double click on Start SCENE 2Go on Mac.command
+• Once opened this is your Home page.
+• Click on the image to open the job. It may or may not populate with a map view shown on the
+right. The toggle on map click the globe icon in the upper right corner. Location will only be
+accurate if GPS coordinates were collected and retained in scan data.
+
+EFTA00006049
+
+This looks like a document page.
+
+## Page 2 (FAST)
+
+This looks like a document page.
+
+## Visible Text (verbatim)
+• When the job is loaded, you will have a screen with a top down view of the scene. You can use your mouse scroll to zoom in or out.
+
+• BEFORE selecting a scan, set up your measuring and viewing preferences
+> Click once on Settings located on the right side navigation bar
+> Click once on General
+> Select the units you prefer (normally Imperial inches or ft, and ft2)
+> Click once on OK
+
+EFTA00006050
+
+## Page 3 (FAST)
+
+## Visible Text (verbatim)
+
+- ALSO under Settings
+  > Click once on Scan View
+  > Under Visibility, Check Scan Position- Limit visibility to.
+  This reduces the number of scan positions in your view (can clutter) to only the ones closest to you. You can navigate from one scan position to another by clicking on each of the visible scan position markers. You can always return to this setting to make adjustments.
+  Good Starting Settings- Large Exterior Scene 100-150ft, Small Exterior or Structure Interiors 25-35ft, Vehicles 10-15ft.
+  > Under Visibility you also have the option to control the viewing of scan names, annotations, and other detail items.
+  > Under Panorama Image you have the option to Combine Color & Intensity.
+  This makes your image views a hybrid of your color planar image and black/white scan point data.
+  > Click OK to return to the loaded job
+
+- Return to Overview Map using the right column to navigate. Click on the scan markers to choose scan viewing options. Panorama View (spherical photo), 3D View (pointcloud), Properties (data details)
+Once in a Panorama or 3D View you can "hop" between scan position, rotate and zoom using your mouse.
+
+EFTA00006051
+
+---
+
+This appears to be a **document page** containing instructional text and screenshots.
+
+### Detailed Description and Transcribed Text
+
+The page is structured as a user manual or help guide, explaining how to configure and navigate a 3D scanning or point cloud software interface.
+
+#### First Section: Settings Configuration
+- **Instructions**:
+  - **ALSO under Settings**
+    - Click once on **Scan View**
+    - Under **Visibility**, Check **Scan Position - Limit visibility to.**
+      - *Explanatory text*: "This reduces the number of scan positions in your view (can clutter) to only the ones closest to you. You can navigate from one scan position to another by clicking on each of the visible scan position markers. You can always return to this setting to make adjustments."
+    - **Good Starting Settings** are provided: 
+      - Large Exterior Scene: 100-150ft
+      - Small Exterior or Structure Interiors: 25-35ft
+      - Vehicles: 10-15ft
+    - Under **Visibility** you can control viewing of scan names, annotations, and other detail items.
+    - Under **Panorama Image** you can choose to **Combine Color & Intensity**.
+      - *Explanatory text*: "This makes your image views a hybrid of your color planar image and black/white scan point data."
+    - **Final Action**: Click **OK** to return to the loaded job.
+
+- **Screenshot**:
+  - Two screenshots (circled in red) are shown.
+  - The first shows a list view with a horizontal slider bar (circled).
+  - The second shows a similar interface but with a different slider bar (also circled). The UI appears to be a settings menu with tabs and sliders for adjusting visibility or scan position limits.
+
+#### Second Section: Overview Map and View Options
+- **Instructions**:
+  - Return to **Overview Map** using the right column to navigate.
+  - Click on scan markers to choose scan viewing options:
+    - **Panorama View** (spherical photo)
+    - **3D View** (pointcloud)
+    - **Properties** (data details)
+  - *Explanatory text*: "Once in a Panorama or 3D View you can 'hop' between scan position, rotate and zoom using your mouse."
+
+- **Screenshot**:
+  - Two side-by-side screenshots are shown.
+  - **Left screenshot**: Shows an aerial or top-down view of a scanned area with multiple scan markers (circles) labeled with numbers. The UI on the right side has a menu with "Settings" and other options.
+  - **Right screenshot**: Shows a 3D view with labels:
+    - **Panorama View** pointing to a spherical photo of a scanned object (e.g., a vehicle or mechanical part).
+    - **PointCloud** pointing to the underlying 3D point cloud data.
+    - **Properties** pointing to a panel showing data details for the selected scan marker.
+
+#### Footer
+- A document ID or reference number is visible at the bottom right: **EFTA00006051**
+
+---
+
+The text is clearly formatted for instruction, with bullet points, sub-points, and explanatory commentary. The screenshots are annotated and serve to visually reinforce the written instructions. The overall appearance is that of a printed page from a technical manual or software guide.
+
+---
+
+This is a **document page**. The content is verbatim transcribed above with preserved formatting, including indentation and line breaks, as required.
+
+## Page 4 (FAST)
+
+## Visible Text (verbatim)
+
+- To pull a measurement:
+  > After selecting a scan position marker select Panorama (photo)
+  > Once inside the spherical image, click once on the Measure Distance located in the right side navigation bar
+  > Select a point to begin the measurement and a point to end the measurement
+  > Then click once on the OK button at the bottom right hand corner of your screen
+  > The distance should appear annotated on the measured line
+  > To clear, click once on Cancel
+  > This measurement will be stored in your Project Content
+
+- The gear in the lower left corner has more in-depth tools. The color wheel tool allows you to shift between your color image and black/white scan data points.
+
+- To navigate between scans:
+  > When in a scan view you will see other scan locations within your visibility distance.
+
+  > After selecting a scan position marker it becomes highlighted. You can select to view the Panorama (spherical photo), 3D (Point Cloud), Scan Properties or Overview Map. Once in a view you can use the box in the upper right corner to switch between 2D and 3D.
+
+EFTA00006052
+
+## Page 5 (FAST)
+
+## Visible Text (verbatim)
+
+ALSO under Project Content in the right navigation column you can view a list of all scans within the project and select viewing options from the drop down menu. This is a great tool if you are having difficulty finding a specific scan.
+
+Click once on Scan Properties and you can view the planar image and additional recorded data from the raw scan. You are brought to this same screen if you select Scan Properties off a scan icon while in a view.
+
+EFTA00006053
+
+## Page 6 (FAST)
+
+This looks like a document page.
+
+## Visible Text (verbatim)
+> Click once on Overview Map in the drop down and that scan position will be highlighted in the Overview Map.
+
+Contact the FBI Laboratory / Operational Projects Unit at any time if you have additional questions.
+
+TDDP supervisor
+(office)
+(cell)
+
+(office)
+(cell)
+
+(office)
+(cell)
+
+(office)
+(cell)
+
+EFTA00006054
+

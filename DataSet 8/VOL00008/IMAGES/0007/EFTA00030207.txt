@@ -1,0 +1,423 @@
+## Page 1 (FAST)
+
+## Visible Text (verbatim)
+
+FINANCIAL INTELLIGENCE UNIT
+
+To:
+Law Enforcement Agent Requesting SAR Backup Documentation
+From:
+Raymond Duncan, Vice President – Financial Intelligence Unit
+Cc:
+Scott McFarland, Director – Financial Intelligence Unit
+Subject:
+Supporting Documentation for Cardholder/Merchant Data Prepared for
+Law Enforcement
+
+*Disclaimer: the information provided in the accompanying spreadsheets and described below is
+provided solely for aiding investigation purposes and does not represent official American
+Express data from the respective systems of record. Official documents are maintained and have
+been/will be provided upon request.
+
+1) TABLE OF CONTENTS
+American Express Card Account Organization .................................................... 1
+Card Data Format ....................................................................................... 2
+Prepaid Card Account Organization............................................................ 3
+Reloadable Card Data Format .................................................................... 3
+Prepaid Gift Card Data Format ................................................................. 5
+Merchant Account Organization ................................................................. 6
+Merchant Data Format ............................................................................. 6
+Personal Savings Account Organization..................................................... 8
+Personal Savings Account Data Format ..................................................... 8
+
+2) AMERICAN EXPRESS CARD ACCOUNT ORGANIZATION
+
+Every American Express credit and charge card has a unique fifteen-digit number (“Card
+Number”). The first eleven digits of this number identify the credit card account (“Card Member
+Account”) to which this card belongs. For each Card Member Account there is a primary card
+member who is responsible for paying the balance on all of the supplemental cards associated
+
+5/14/2019
+AXP Restricted
+Page 1 of 9
+EFTA00030207
+
+---
+
+This appears to be a document page, specifically the first page of a formal internal document or report from the Financial Intelligence Unit (FIU) related to American Express data, prepared for law enforcement purposes. The page includes a header with the FIU logo, a memo-style header (To/From/Cc/Subject), a disclaimer, a table of contents, and the beginning of the first section (“AMERICAN EXPRESS CARD ACCOUNT ORGANIZATION”). The footer includes date, confidentiality marking, page number, and an EFTA identifier.
+
+The text is clearly typeset, with consistent formatting and structure, and appears to be an excerpt from a structured, printed or digitally generated official document rather than a photograph or diagram. The visible content is fully legible and formatted in a conventional document layout.
+
+## Page 2 (FAST)
+
+## Visible Text (verbatim)
+with the account. Up to 99 supplemental cards may be associated with a single account. If a primary card member has 10 supplemental cards, all 11 cards would have the same first 11 numbers. The last four digits of the 11 respective card accounts would be different.
+
+3) CARD DATA FORMAT (EXCEL SPREADSHEET TABS)
+
+For investigation purposes only, the Financial Intelligence Unit divides internal data on card members into several major categories: Demographic Information (“Demo”), Address, Telephone, Record of Charges (“ROC”), Payment, Wire Payments, Returned Payment, Airline, and IP Address. This data is displayed in the accompanying Excel spreadsheets with each category occupying its own tab. Within each tab, the relevant information is organized by labeled columns. If there is no information to report in a particular category, the tab will simply not appear on the spreadsheet. A general overview of the information within each tab is provided below.
+
+A. DEMO
+
+The Demo tab identifies account details and demographic information for both charge and/or credit card accounts, listing (where available) the cardholder’s name, date of birth, and social security number as well as information about the particular credit card product (Gold, Platinum, etc.).
+
+B. ADDRESS
+
+The Address tab identifies all the addresses that have been associated with each credit card and identifies the type of address (home, business, etc.).
+
+C. TELEPHONE
+
+The Telephone tab identifies all the telephone numbers that have been associated with each credit card and identifies the type of number (Home, Business, ANI). An ANI number is a phone number from which the card member or another individual called an American Express customer service center about the subject account. The number is captured automatically and the date on which the call was made is provided.
+
+D. ROC (Record of Charges or Spend)
+
+The ROC tab identifies all completed charges (including credits/returns) a credit card has made over the past five years. The tab identifies the date and amount, in U.S. Dollars, of the charge. In addition, the tab identifies the merchant at which the charge was made (the unique merchant account number, legal and d/b/a name as well as address and industry type).
+
+E. AUTHORIZATION REQUEST (“CAS”)
+
+The CAS tab identifies all the credit requests a credit card has made over the past one year. Every time a card is swiped or keyed into a card reader, a request for credit is sent to American Express and an approval code is returned. The request may be approved, denied, or pended. It is important to remember that while 90% of all credit requests are charged exactly as requested, some credit requests are not charged in the same amount or on the same day. For example, when booking a hotel room for four nights, your credit card is swiped and the amount of a four-night
+
+5/14/2019
+AXP Restricted
+Page 2 of 9
+EFTA00030208
+
+## Page 3 (FAST)
+
+## Visible Text (verbatim)
+
+stay is requested; however, your card is not charged at that time but rather at the time of check-
+out, at which time your bill might be for more or less than the original credit request. This tab
+also identifies whether the payment attempt was made by swiping or keying the card (keying
+includes internet and phone charges).
+
+F. PAYMENT
+The Payment tab identifies all the payments that have been made against a credit card balance,
+including dates and amounts, and (where available) information on the bank account on which
+the payment was drawn.
+
+G. RETURNED PAYMENT
+The Returned Payment tab identifies payments that have been posted against a credit card
+balance and subsequently returned to the payment source.
+
+H. AIRLINE
+The Airline tab identifies airline ticket charges incurred on a credit card account and contains
+information provided at the time of purchase, including the passenger’s name, departure date,
+origin airport, and destination airport. Connecting flight information, if applicable, is generally
+available in the “Itinerary” column.
+
+I. IP ADDRESS
+The IP Address tab identifies internet protocol address information captured by American
+Express systems during online account activity (including some purchases, payments, and
+account changes). If an e-mail was sent through the American Express website, the e-mail and
+the IP address from which the customer logged in may have been captured. If a customer
+purchased an item online using an American Express card and provided the merchant with an e-
+mail address as the point of contact, that address may also appear in this tab.
+
+4) PREPAID CARD ACCOUNT ORGANIZATION
+
+Every American Express prepaid card has a unique fifteen-digit number (“Card Number” or
+“CM15”). Reloadable prepaid card products allow a cardholder to add funds to the account, and
+some may be used to make ATM withdrawals, transfer money, and write checks. Prepaid card
+products also include gift cards, which are predenominated and not reloadable. Some prepaid
+products offer sub-accounts, which are established under the primarily, or “master” account for
+another person age 13 or older. The sub-account is linked to, funded by, and controlled by the
+master accountholder.
+
+5) RELOADABLE PREPAID DATA FORMAT (EXCEL SPREADSHEET TABS)
+
+For investigation purposes only, the Financial Intelligence Unit divides internal data on prepaid
+members into several major categories: Demographic Information (“Demo”), Address,
+Telephone, Peer to Peer Transactions (“P2P”), IP Address, Card Transactions, BillPay
+Transactions, Airline Transactions, Funds Load, Withdrawals, Disputes, and Customer Service
+Notes.
+
+5/14/2019
+AXP Restricted
+Page 3 of 9
+EFTA00030209
+
+## Page 4 (FAST)
+
+## Visible Text (verbatim)
+
+The Financial Intelligence Unit divides internal data on other prepaid card members into several
+major categories: Sale Info, Demographic Information (“Demo”), Redemptions (“OR_REDE”),
+Authorizations (“OR_AUTH”), Web Balance Inquiry (“OR_WEBBAL”), Direct Deposits, IVR
+Inquiry, and Airlines.
+
+This data is displayed in the accompanying Excel spreadsheets with each category occupying its
+own tab. Within each tab, the relevant information is organized by labeled columns. If there is no
+information to report in a particular category, the tab will either be blank or not appear on the
+spreadsheet. A general overview of the information within each tab is provided below.
+
+A. DEMO
+The Demo tab for prepaid accounts associates an account with an individual, listing (where
+available) their name, date of birth, social security number, and email address, as well as
+information about the specific product, account status, and account type (Master, Sub, or
+PurposeDriven (a savings account, which is linked to a master account)).
+
+B. ADDRESS
+The Address tab identifies all addresses that have been associated with each account, and
+identifies the type of address (home, business, etc.).
+
+C. TELEPHONE
+The Telephone tab identifies all telephone numbers that have been associated with each account,
+and identifies the type of number (Home, Mobile, Business, ANI, etc.). An ANI number is a
+phone number from which the card member called an American Express customer service center.
+The number is captured automatically and the date on which the call was made is provided.
+
+D. P2P
+The P2P tab provides information on all P2P transfers (transfers between prepaid accounts) sent
+and received by a particular prepaid account, including account information for all senders and
+recipients.
+
+E. IP
+The IP Address tab identifies internet protocol address information captured by American
+Express systems during online account activity.
+
+F. CARD TRANSACTIONS
+The Card Transactions tab provides information (amount, date, time, and location) on all
+transactions conducted using a prepaid account, including purchases, refunds, and ATM
+withdrawals. For purchases, the tab identifies the merchant where the card was redeemed.
+
+G. BILLPAY TRANSACTIONS
+The BillPay tab provides information on bills (e.g. credit cards, utilities, rent, etc.) paid by a
+customer using their prepaid account, including the date, transaction amount, and payee name.
+
+5/14/2019
+AXP Restricted
+Page 4 of 9
+EFTA00030210
+
+## Page 5 (FAST)
+
+## Visible Text (verbatim)
+H. AIRLINE TRANSACTIONS
+The Airline tab identifies airline ticket charges and contains information provided at the time of purchase relating to the departure date, originating airport, destination airport, and passenger names.
+
+I. FUNDS LOAD
+The Funds Load tab provides information on when, where, and how a prepaid account was funded (e.g. cash, direct deposit, credit/debit card load, etc.). Note – because in some instances the data is maintained by a third party, some credits labeled “cash” may not actually have been made via cash payment. For additional questions, please reach out to the Financial Intelligence Unit.
+
+J. WITHDRAWALS
+The Withdrawals tab provides information on money withdrawn from a prepaid account via check or ACH transfer, including the date, transaction amount, and transaction status, as well as the bank name, account number, and routing number (where applicable).
+
+K. DISPUTES
+The Disputes tab includes information on transactions disputed by the prepaid accountholder, including the dispute date, amount, reason, and resolution.
+
+L. CUSTOMER SERVICE NOTES
+The Customer Service Notes tab consists of notes recorded by customer service representatives, and often includes information regarding customer phone calls, promotional offers, changes to demographic information, and changes in account status.
+
+6) PREPAID GIFT CARDS DATA FORMAT (EXCEL SPREADSHEET TABS)
+
+A. DEMO
+The Demo tab for prepaid gift cards associates a prepaid card with an individual, and may, in limited circumstances, list their name, date of birth, social security number, address, phone number, and email address, as well as information about the product type (e.g. reloadable or single load) and the card status.
+
+B. SALE INFO
+The Sale Info tab explains when and where each prepaid card was purchased, as well as the original load value.
+
+C. TRANSACTIONS
+The Transactions tab identifies transactions conducted using a prepaid card, including purchases, refunds, value loads, promotional credits, and maintenance fees. When money is added to a prepaid card, the amount will appear under “redeem amount” as a negative number (for example, a value load of $500.00 would be notated as -$500.00).
+
+5/14/2019
+AXP Restricted
+Page 5 of 9
+EFTA00030211
+
+## Page 6 (FAST)
+
+This looks like a document page.
+
+## Visible Text (verbatim)
+D. AUTHORIZATIONS
+The Authorizations tab identifies authorization requests submitted by prepaid cards, and whether
+these requests were approved or denied (due to insufficient funds, for example). This tab also
+identifies whether the payment attempt was made by swiping or keying the card (keying includes
+internet and phone charges).
+
+E. DIRECT DEPOSIT
+The Direct Deposit tab provides additional information regarding value loads to the account
+made via direct deposit, including the business name and the employee name associated with the
+deposit.
+
+F. WEB BALANCE INQUIRY AND IVR INQUIRY
+The Web Balance and IVR (“Interactive Voice Response”) Inquiry tabs indicate when a
+customer logs in online to review their account and when customer calls in to review their
+account, respectively.
+
+G. AIRLINES
+The Airline tab identifies airline ticket charges and contains information provided at the time of
+purchase relating to the departure date, originating airport, destination airport, and passenger
+names.
+
+7) AMERICAN EXPRESS MERCHANT ACCOUNT ORGANIZATION
+Merchant accounts are established for businesses that accept American Express cards, and each
+established merchant account is issued a unique ten-digit number (“merchant account number” or
+“SE10”). Please note that “SE” is frequently used as a synonym for “merchant”; SE stands for
+“Service Establishment.” Merchant accounts are associated with an authorized signer and a
+corresponding bank account. The authorized signer serves as the point of contact for the
+merchant account, and that individual’s identifying information is stored in internal American
+Express systems, along with the bank account number provided to American Express at account
+opening.¹
+
+8) MERCHANT DATA FORMAT (EXCEL SPREADSHEET TABS)
+For investigation purposes only, the Financial Intelligence Unit divides internal data on merchant
+accounts into several major categories: Demographic Information (“SE Demo”), Record of
+Charges (“SE ROC”), Authorization Request (“SE CAS”), Merchant Fraud (“SE Fraud”),
+Merchant Billed ROC (“SE Billed Roc”), Merchant IP (“SE IP”), and Merchant Disputes (“SE
+Disputes”). This data is displayed in the accompanying Excel spreadsheet with each category
+occupying its own tab. Within each tab, the relevant information is organized by labeled
+columns. If there is no information to report in a particular category, then the tab will simply not
+appear on the spreadsheet. A general overview of the information within each tab is provided
+below.
+
+¹ The availability of bank account information varies for international merchants.
+
+5/14/2019
+AXP Restricted
+Page 6 of 9
+EFTA00030212
+
+## Page 7 (FAST)
+
+## Visible Text (verbatim)
+
+A. MERCHANT DEMO (SE DEMO)
+The Merchant Demo tab lists the unique merchant account number, the legal name of the
+business, as well as a Doing Business As name (where available). In cases where the merchant
+relationship is not proprietary (i.e., a Seller or Location merchant), additional merchant data will
+be provided in the tab. If the merchant is a Seller Merchant (that is, a third-party merchant
+account that contracts with an “aggregator merchant” that contracts directly with American
+Express to bring merchants to the American Express network), then “Seller” will appear under
+the “Searched Merchant Type” field. If the merchant is a sub-merchant (i.e., acquired under a
+third party payment processor such as Paypal or Square), then “Location” will appear under the
+“Searched Merchant Type.” The Merchant Demo tab also provides the reported address and
+telephone number for the business, as well as the name and social security number of the
+authorized signer(s) on the account. This tab further provides a correspondence address for the
+business, a general industry description of the business, and an indication of whether the account
+is open or closed.² Finally, the bank account number (if available based on merchant type³) and
+corresponding routing number for each merchant account is listed in the last column to the right
+in the Merchant Demo tab of each spreadsheet.
+
+B. MERCHANT ROC (SE_ROC – RECORD OF CHARGES OR SPEND AT THE
+MERCHANT)
+The Merchant ROC (“Record of Charge”) tab identifies all completed American Express charges
+processed by the merchant. The tab identifies the timestamp and amount, in U.S. dollars as well
+as the local amount (if outside of the U.S.) of each charge processed by the merchant. In
+addition, the tab lists the card number and the name of the cardholder that made the purchase,
+as well as some demographic information regarding that cardholder and card (including, but not
+limited to, the cardholder’s name, the card type and issuer).
+
+C. MERCHANT AUTHORIZATION REQUEST (SE_CAS)
+This tab lists all credit authorizations sent by the merchant over the past two years. Every time a
+card is swiped or keyed into a card reader, a request for credit is sent to American Express and an
+approval code is returned. The request may be approved, denied, or pended. This tab identifies
+whether the merchant processed the transaction by swiping or keying the card (keying includes
+internet and phone charges, while swiping typically indicates that the cardholder was physically
+present at the merchant at the time of the transaction).
+
+D. MERCHANT FRAUD (SE_FRAUD)
+This tab identifies all transactions processed by the merchant that were ultimately reported as
+fraudulent by a respective American Express cardholder.
+
+E. DISPUTES (SE_DISPUTES)
+The Disputes tab identifies all initiated charge disputes against a given merchant and the status of
+individual disputes.
+
+F. MERCHANT BILLED ROC (SE_BILLED_ROC)
+
+² In the case of Seller and Location merchants, the status information reflects that of the Submitting merchant, and
+not the sub-merchants.
+³ Bank account information is not available for Seller and Location merchants.
+
+5/14/2019          AXP Restricted          Page 7 of 9
+EFTA00030213
+
+## Page 8 (FAST)
+
+This appears to be a document page.
+
+## Visible Text (verbatim)
+The Merchant Billed ROC tab identifies all completed American Express charges processed by
+the merchant over the past five years. The tab identifies the date and amount, in U.S. dollars, of
+each charge processed by the merchant. In addition, the tab identifies the date and amount of the
+transaction, the card number and the name of the cardholder that made the purchase, as well as
+information regarding that cardholder (In the case of the merchant accounts pulled for the Texas
+Attorney General’s Office, please note that due to the size of some of the spreadsheets, the
+BILLED_ROC tab was not included. The majority of transactions will appear in the ROC tab).
+
+G. IP ADDRESS (SE_IP)
+The IP tab identifies internet protocol address information captured by American Express
+systems during online account activity.
+
+9) PERSONAL SAVINGS ACCOUNT ORGANIZATION
+
+American Express National Bank issues High-Yield Savings accounts (“HYSA s”) and
+Certificates of Deposit (“CDs”) to individuals. HYSA s and CDs are both referred to as Personal
+Savings Accounts (“PSAs”). Every PSA has a unique ten-digit or twelve-digit account number
+and may have up to two account holders – a primary account holder and a secondary account
+holder. Each account holder has a unique customer identification number (“Customer ID”) and
+has equal access to the PSA.
+
+10) PERSONAL SAVINGS ACCOUNT DATA FORMAT (EXCEL SPREADSHEET
+TABS)
+
+For investigation purposes only, the Financial Intelligence Unit divides internal data on PSA
+account holders into several major categories: Demographic Information (“Demo”), Address,
+Notes, Stop-Holds, Transactions, IP Address, and Linked Accounts.
+
+This data is displayed in the accompanying Excel spreadsheets with each category occupying its
+own tab. Within each tab, the relevant information is organized by labeled columns. If there is no
+information to report in a particular category, the tab will either be blank or not appear on the
+spreadsheet. A general overview of the information within each tab is provided below.
+
+A. DEMO
+The Demo tab for PSAs associates an account holder with the Customer ID, account number,
+account type, name, date of birth, social security number, employer, job title, income, as well as
+the account status, open and close dates, and maturity or renewal dates for CDs, as applicable.
+
+B. ADDRESS
+The Address tab lists all addresses, phone numbers, and email addresses that have been
+associated with each account holder, and identifies the types of addresses (e.g., mailing,
+permanent, etc.) and phone numbers (e.g., home, cell, etc.).
+
+5/14/2019
+AXP Restricted
+Page 8 of 9
+EFTA00030214
+
+## Page 9 (FAST)
+
+## Visible Text (verbatim)
+
+C. NOTES
+The Notes tab consists of notes recorded by customer service representatives, and often includes
+information regarding customer phone calls, changes to demographic information or account
+status, information regarding wire transfers, and returned transactions.
+
+D. STOP-HOLDS
+The Stop-Holds tab identifies deposits made to a PSA and their applicable hold period before the
+funds are available for withdrawal.
+
+E. TRANSACTIONS
+The Transactions tab provides information and dates for deposits, withdrawals, earned interest,
+internal transfers, account balance of the PSA(s), the method used to make the transactions, and
+external account numbers where available.
+
+F. IP
+The IP Address tab identifies internet protocol address information captured by American
+Express systems during online account activity.
+
+G. LINKED ACCOUNTS
+The Linked Accounts tab includes information for external bank accounts currently or previously
+linked to the PSA(s), including the routing number and bank account number. Each account
+holder is authorized to link up to three external bank accounts to their PSA(s). Of note the
+column “Expiration Date” identifies the date any test transactions are to be conducted for
+verification purposes. Further, the column “Bank Name” displays the account name as chosen
+by the account holder for their own recordkeeping purposes.
+
+5/14/2019
+AXP Restricted
+Page 9 of 9
+EFTA00030215
+

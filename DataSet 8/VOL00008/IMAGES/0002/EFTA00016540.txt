@@ -1,0 +1,20 @@
+## Page 1 (FAST)
+
+This image appears to be a digital screenshot or scan of an email header and associated SMTP message header information, likely from a forensic or legal document. The layout, structured fields (From, To, Subject, Date, Embedded, Sender, Message-Id, Recipient), and the presence of technical identifiers (like Message-Id) strongly indicate it is a document page, specifically an email metadata extraction.
+
+## Visible Text (verbatim)
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+Bcc: [REDACTED]
+Subject: RE: Tartaglione document request
+Date: Mon, 14 Dec 2020 17:55:11 +0000
+Embedded: RE: _Tartaglione_document_request.msg
+
+Sender: [REDACTED]
+Subject: RE: Tartaglione document request
+Message-Id: <5FD7A6F6020000DE000DFFA4@SMTP1.BOP.GOV>
+Recipient: [REDACTED]
+
+EFTA00016540
+

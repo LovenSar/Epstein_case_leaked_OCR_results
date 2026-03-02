@@ -1,0 +1,61 @@
+## Frame 1 (0.0s)
+
+This video frame captures a static interior scene from a surveillance camera, timestamped "08/10/2019 03:14:05" and labeled "160 SW 2.80" in the bottom-left corner. The room features light-colored walls and a beige carpeted floor. Prominently, there is a counter with a white top and brown trim on the left, partially enclosed by a glass partition that reveals dimly lit activity behind it (possibly storage or equipment). Adjacent to the counter sits a large blue trash can. A blue chair is positioned near the counter, and a stack of items (likely boxes or paperwork) rests on the counter’s surface.  
+
+On the right side, a tall gray door with a small window is visible, alongside a white wall with an mounted telephone and electrical outlets. A bright fluorescent ceiling light illuminates the space. No human activity is observed, as the frame is a still shot. The setting suggests an office or utility room, with the timestamp and labeling indicating it is a recorded surveillance or security camera feed.
+
+### OCR
+
+160 SW 2:80 - 08/10/2019 03:14:05
+
+## Frame 2 (3.0s)
+
+This video frame depicts an indoor office or reception area captured by a security camera, displaying a slightly tilted perspective. The scene features a **light-colored floor** (off-white or beige) and **walls** in similar neutral tones.  
+
+- **Foreground/Left Side**: A person sits partially visible near a **counter** with a white surface and brown trim. The individual appears to be engaged with a device (possibly a laptop), though details are obscured by motion blur. A **blue trash can** stands near the counter’s edge, and a **blue chair** is positioned beside it.  
+- **Middle Background**: Two **doors** are visible—one with a faded "T" symbol (likely an office or service door), the other a plain, closed door. Between them, a **wall-mounted telephone** (dark color) is mounted on the right.  
+- **Lighting**: An overhead **fluorescent light fixture** illuminates the space, casting a cool white glow.  
+- **Text Overlay**: At the bottom of the frame, a timestamp reads *"160 SW 2.80 - 08/10/2019 03:15:35"*, indicating the camera’s ID, date, and time.  
+
+The room appears sparse, with no visible people other than the seated individual, and the overall atmosphere suggests a quiet, functional workspace (e.g., a front desk or service area). No active motion or interactions are discernible beyond the seated figure, contributing to a still, mundane office scene.
+
+### OCR
+
+160 SW 2:80 - 08/10/2019 03:15:35
+
+## Frame 3 (6.0s)
+
+This video frame depicts an indoor scene, likely a service or reception area within a building (e.g., a hospital, office, or institutional facility). The setting features a beige floor, overhead fluorescent lighting, and a slightly tilted camera angle typical of security surveillance footage.  
+
+**Key elements and actions**:  
+- **Center-left**: A striped counter (orange and white) with a person wearing a blue shirt working behind it; their actions suggest interaction with items on the counter (e.g., typing, handling objects).  
+- **Left side**: A blue trash can and a black object (possibly a case or box) on the floor near the counter.  
+- **Right side**: A gray door marked with "102" (likely a room number), adjacent to a white wall with a mounted corded telephone.  
+- **Background**: A wall with vertical paneling behind the counter, and the timestamp "160 SW 2.80 - 08/10/2019 03:17:05" in the bottom-left corner.  
+
+**Scene context**: The space is functional, with standard institutional furnishings (e.g., service counter, phone, trash can) and a utilitarian layout. The lighting is artificial, and the overall atmosphere suggests a busy yet unremarkable environment, likely a lobby or administrative area. No visible movement beyond the person at the counter, which appears to be engaged in routine tasks.
+
+### OCR
+
+160 SW 2:80 - 08/10/2019 03:17:05
+
+# Final Report
+
+#Video Analysis Report
+
+## 1) Summary of actions/events organized by timeline
+- **[0.0s - 3.0s]**: Initial frame of video, showing static indoor scene (from surveillance camera perspective). Characteristics of the room include light-colored walls, beige carpet, and a counter with a white countertop and a brown border on the left, partially partitioned by glass behind which dim activity is visible (no personnel are directly visible).
+- **[3.0s - 6.0s]**: Personnel activity begins, a person gradually approaches and sits at the counter (partially visible), and the counter details transition from the initial state (white countertop) to striped.
+- **[6.0s]**: The counter has a striped design (orange and white), and there are people interacting at the counter (activity continues).
+
+## 2) OCR text is merged according to time points
+| Timestamp | OCR text |
+|-------------------------|------------------|
+| 08/10/2019 03:14:05     | 160 SW 2.80      |
+| 08/10/2019 03:15:35     | 160 SW 2.80      |
+| 08/10/2019 03:17:05     | 160 SW 2.80      |
+
+> **Note**: "2.80" in the OCR text is in decimal format (the original input of "2:80" may be a typo), and has been standardized to "2.80" to fit the context (indicating dimensions or coordinates). The OCR content is consistent across all time points, indicating that the surveillance camera tag (160 SW 2.80) is continuously displayed in the video.
+
+## 3) Overall conclusion and possible scenario description
+**Overall Conclusion**:

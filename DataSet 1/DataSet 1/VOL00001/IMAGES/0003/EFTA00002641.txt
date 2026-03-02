@@ -1,0 +1,38 @@
+## Page 1 (VISION)
+
+## Detailed Description
+
+The image displays the rear panel of a Panasonic KX-TDE100 business telephone system, revealing its internal modular architecture. The unit is housed in a black metal chassis with a hinged cover partially open, exposing the vertical array of installed circuit boards. From left to right, the boards include a power supply unit (PSU-M), followed by several interface and expansion modules. The left side panel features a white "RESET" button, a power input socket, and several warning/label stickers. On the right side, a dedicated module labeled "PCMPR" houses a blue warning sticker and includes Ethernet ports, status LEDs, and a small switch. The modular design is evident through the green ribbon cables connecting each board to the main chassis, and the black plastic retaining clips securing the cards. The overall appearance suggests a commercial-grade device, likely installed in an office environment, with visible signs of use such as minor scuffs and dust.
+
+## Visible Text (verbatim)
+
+- Panasonic KX-TDE100
+- CAUTION: Static sensitive devices used. To protect the printed circuit board from static electricity, first discharge any body static by touching the ground terminal or wear the grounded strap.
+- Model No. PSU-P1433
+- Power Supply Unit
+- INPUT: 100-120V/220-240VAC, 2.5A/1.4A 50-60Hz
+- OUTPUT: +48V = 2.4A +5V = 3.2A, -48V = 2.4A (BATTERY), +12V = 1.4A (BATTERY), 140-48V/150W
+- PRI23
+- LCOT8
+- DLC8
+- C3LC18
+- PCMPR
+- WARNING: Do Not Remove SD Card when Power Is On.
+- THIS SLOT NOT USED
+- CAUTION: This unit can be damaged if installed with the wrong card. Use only cards specified for this system.
+- RESET
+- EFT A0002641
+
+## Notable Details / Clues
+
+- The device is a modular telecommunications system, specifically a Panasonic KX-TDE100, designed for office use.
+- The power supply unit (PSU-M) is clearly labeled and shows its input/output specifications, indicating it supports both standard AC and battery backup.
+- The modular slots are labeled with identifiers like PRI23, LCOT8, DLC8, and C3LC18, suggesting different functional modules for line interface, card control, or other services.
+- The PCMPR module on the far right appears to handle primary communication and network functions, featuring Ethernet ports (10/100BASE-T and 100BASE-TX) and status LEDs.
+- The presence of green ribbon cables indicates connectivity between the modular components and the main chassis.
+- Warning labels are prominently placed for safety and proper installation.
+- The "RESET" button on the left side panel suggests a user serviceable function for system recovery.
+- The chassis has mounting holes on its outer edges, indicating it was designed for rack or wall mounting.
+- The image number "EFT A0002641" at the bottom right likely serves as an internal asset or catalog identifier.
+- The unit appears to be installed in a professional setting with visible wear, including dust accumulation and minor scratches on the chassis.
+

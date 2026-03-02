@@ -1,0 +1,288 @@
+## Page 1 (FAST)
+
+This appears to be a document page, specifically a screenshot or digital capture of an email chain, likely from an electronic discovery or legal review context.
+
+## Visible Text (verbatim)
+
+From: "████████████████████████████" <████████████████████████████>
+To: "████████████████████████████" <████████████████████████████>, "████████████████████████████" 
+Subject: FW: Epstein search warrant documents
+Date: Tue, 31 Mar 2020 17:02:32 +0000
+Embedded: Epstein_terms_for_privilege_review.msg
+
+Just FYI
+
+From: █████████████████████████
+Sent: Tuesday, March 31, 2020 13:02
+To: █████████████████ (NY) (FBI) <spwatson@fbi.gov>
+Subject: RE: Epstein search warrant documents
+
+Hey █████████████████,
+
+So far so good here, thanks – just trying to deal with the tech issues of working from home (not to mention the inability to interview witnesses!) but really can’t complain at all, the girlfriend and I are both healthy and distancing. Hope that’s true for you and yours too.
+
+In terms of the issues below, unfortunately there isn’t any progress – it’s not a delay on our end, we’ve run the taint screen and so the AUSAs and agents all have access on Relativity to the materials that █████████████████ sent over in December. We also sent the privilege taint terms to the agents a couple weeks ago so they could run the screen on whatever programs they may be using – that’s attached. We hadn’t realized that they were impeded on their review due to any taint issue, we just thought they were using Relativity, same as us.
+
+More generally though, the issue we continue to have is the same one since February. We have absolutely no sense of what █████████████████ sent to us – it’s not organized or identified by device or even by location, the documents aren’t joined with their attachments (their “families” in the terms of doc review), we can’t look at native files, etc. It’s all the issues from my March 9 email, below, which █████████████████ never responded to. And it’s only 1.4 million documents out of what are presumably tens of millions total – we haven’t gotten any version of the rest (and don’t know exactly what we’re missing, because again, we have no way to track what we’ve been given so far).
+
+If █████████████████ (and/or others at CART) are teleworking, it would be great to get help on this, because obviously weeks are going by that we could be using to review. I had been trying to push my chiefs for a meeting in early March but then obviously the world imploded! So not sure what can be done currently, but happy to discuss with anybody that would be useful.
+
+thanks as always,
+████████████████
+
+From: █████████████████ (NY) (FBI) <spwatson@fbi.gov>
+Sent: Monday, March 30, 2020 13:23
+To: █████████████████ (NY) (FBI) <spwatson@fbi.gov>
+Subject: RE: Epstein search warrant documents
+
+████████████████ hope you are doing well and more importantly feeling well! Just checking and on the status of everything, is that issue with the taint review is still on going? I’m assuming you’re doing a fair amount of tele working
+
+SSA █████████████████
+
+EFTA00032141
+
+## Page 2 (FAST)
+
+## Visible Text (verbatim)
+
+FBI New York
+
+On Mar 11, 2020 2:05 PM, " (NY) (FBI)" <spwatson@fbi.gov> wrote:
+Let's get together and hash it out, let me know what works for you this week and next and I'll get Flatley and my team there as well.
+
+From: [redacted] [mailto: [redacted]]
+Sent: Wednesday, March 11, 2020 12:03 PM
+To: [redacted] (NY) (FBI) <spwatson@fbi.gov>
+Subject: RE: Epstein search warrant documents
+
+, totally happy to chat, and it's exactly the same issues as we talked about on the phone a couple weeks ago when we first raised this -- I wonder if it makes sense to get in a room together? Otherwise it's a lot of games of telephone.
+
+But basically the way to think about it is, imagine if we had seized papers from approximately 100,000 filings cabinets in a dozen different office buildings. And then instead of keeping them organized or labeled by room, or even by office building, all 1.3 million documents (so far) just got dumped into one big pile -- except before that, any documents that had multiple parts stapled together got separated. And then if any of those documents that was larger than about 100 pages couldn't be opened. That's what we've got, just electronically.
+
+From: [redacted] (NY) (FBI) <spwatson@fbi.gov>
+Sent: Wednesday, March 11, 2020 11:15
+To: [redacted] <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+,
+I was out yesterday, let's touch base so we can get this resolved. I'm confused as to what is going on here, sounds like there are issues that you haven't been able to resolve by going direct with Flatley.
+Thanks,
+
+From: [redacted] [mailto: [redacted]]
+Sent: Monday, March 09, 2020 12:00 PM
+To: [redacted]. (NY) (FBI) <[redacted]>; [redacted] (USANYS) <[redacted]>; [redacted]
+Cc: [redacted] (USANYS) [Contractor] <Christopher.Rozier@usdoj.gov>; [redacted]
+<[redacted]>; [redacted] <[redacted]>; [redacted]. (NY) (FBI) <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+,
+Unfortunately I don't think this is very helpful to us. Did you take a look at the example spreadsheet I sent on 2/24? The excel file you sent has descriptions that don't match up to the items listed in the search warrant returns (that we sent on 2/23), and we don't have the 1B or CART numbers to be able to cross-reference. We also can't tell what you mean by "loose media" without a specific comparison to what was seized, we don't know which items you're referring to as "Windows machines," and we can't tell whether the entirety of any particular item has been transferred, or just partial. For example, it looks like we have gotten very, very few image files, which is surprising.
+
+We have also encountered some very significant problems in trying to review the more than 1 million documents we recently received:
+
+EFTA00032142
+
+## Page 3 (FAST)
+
+## Visible Text (verbatim)
+
+- The data we've received has no way to put any emails and attachments together. So if an email says, "see the attached flight records," for example, we have no way of linking that up with the records themselves. Not only is that a big problem for us in review, it's going to be a huge problem for producing the documents to defense counsel.
+
+- The load file has no link to the native file, so when we load the data to the database, there's no way to have the native files show up in the database. Because many of the files are too large to open in the viewer, it effectively means that there are many files that are completely invisible to us.
+
+- Related, the control numbers in the load file don't match up to the native files. So we have two sets of numbers and no way to match up anything—that is, even if we were to try to go hunt down every individual large file in the native files, it would be impossible.
+
+So the data that we most recently got, we need to get in a form that addresses those issues, and we likely will need to get a similar reproduction of the data we received a couple months ago. Otherwise we're sifting through more than a million documents without much rhyme or reason.
+
+I've re-attached the spreadsheet we sent last week – I think that's a good place to start in terms of our necessary record-keeping, and we need that info at the very least, as well as anything else you think would be useful. Also attaching the SW returns for reference. And again, we're happy to meet up anytime and hash all this out in person if that's useful.
+
+thanks,
+[redacted]
+
+From: [redacted]. (NY) (FBI) <[redacted]>
+Sent: Wednesday, March 04, 2020 16:36
+To: [redacted] <[redacted]>; [redacted] (USANYS) <[redacted]>;
+[redacted] (NY) (FBI) <spwatson@fbi.gov>; [redacted] (USANYS) <[redacted]>
+Cc: [redacted] (USANYS) [Contractor] <CRozier@usa.doj.gov>; [redacted] <[redacted]>;
+[redacted] <[redacted]>; [redacted] (NY) (FBI) <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+Here is a listing of what I have already handed over in load files to the US Attorney's Office for taint review. Some points of clarification: There were 9 IDE hard drives found in the Manhattan apartment, they turned out to be 3 copies of 3 drives (9 drives in total) from a July 2007 search on one of his properties. I only processed 3 (as they were all copies). All the loose media from the NY apartment is included. All the Windows machines from the NY apartment are included. Only 2 Macs from NY and 1 from the Island are included.
+
+I will have to more closely coordinate with whoever is loading up Relativity with the remaining Macs as the tool they have to be processed with does not easily re-name the load files.
+
+Spreadsheet is attached.
+
+[redacted]
+NYO CART Coordinator
+Senior Forensic Examiner
+[redacted]
+
+From: [redacted] [mailto:[redacted]]
+Sent: Tuesday, March 03, 2020 12:25 PM
+
+EFTA00032143
+
+---
+
+This appears to be a document page — specifically, a scanned or digital image of an email correspondence (with a prior email included as a reference), which has been annotated or excerpted for analysis. The text is clearly legible and structured in paragraph form with email headers and a footer identifier (EFTA00032143). The content discusses technical challenges in handling electronic evidence, particularly relating to data linking, file visibility, and metadata discrepancies, suggesting a forensic or legal context.
+
+Since the content is text-based and structured as a formal email, I will now provide the full verbatim transcription with preserved line breaks and formatting as requested.
+
+## Verbatim Transcription (Document-like)
+
+- The data we've received has no way to put any emails and attachments together. So if an email says, "see the attached flight records," for example, we have no way of linking that up with the records themselves. Not only is that a big problem for us in review, it's going to be a huge problem for producing the documents to defense counsel.
+
+- The load file has no link to the native file, so when we load the data to the database, there's no way to have the native files show up in the database. Because many of the files are too large to open in the viewer, it effectively means that there are many files that are completely invisible to us.
+
+- Related, the control numbers in the load file don't match up to the native files. So we have two sets of numbers and no way to match up anything—that is, even if we were to try to go hunt down every individual large file in the native files, it would be impossible.
+
+So the data that we most recently got, we need to get in a form that addresses those issues, and we likely will need to get a similar reproduction of the data we received a couple months ago. Otherwise we're sifting through more than a million documents without much rhyme or reason.
+
+I've re-attached the spreadsheet we sent last week – I think that's a good place to start in terms of our necessary record-keeping, and we need that info at the very least, as well as anything else you think would be useful. Also attaching the SW returns for reference. And again, we're happy to meet up anytime and hash all this out in person if that's useful.
+
+thanks,
+[redacted]
+
+From: [redacted]. (NY) (FBI) <[redacted]>
+Sent: Wednesday, March 04, 2020 16:36
+To: [redacted] <[redacted]>; [redacted] (USANYS) <[redacted]>;
+[redacted] (NY) (FBI) <spwatson@fbi.gov>; [redacted] (USANYS) <[redacted]>
+Cc: [redacted] (USANYS) [Contractor] <CRozier@usa.doj.gov>; [redacted] <[redacted]>;
+[redacted] <[redacted]>; [redacted] (NY) (FBI) <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+Here is a listing of what I have already handed over in load files to the US Attorney's Office for taint review. Some points of clarification: There were 9 IDE hard drives found in the Manhattan apartment, they turned out to be 3 copies of 3 drives (9 drives in total) from a July 2007 search on one of his properties. I only processed 3 (as they were all copies). All the loose media from the NY apartment is included. All the Windows machines from the NY apartment are included. Only 2 Macs from NY and 1 from the Island are included.
+
+I will have to more closely coordinate with whoever is loading up Relativity with the remaining Macs as the tool they have to be processed with does not easily re-name the load files.
+
+Spreadsheet is attached.
+
+[redacted]
+NYO CART Coordinator
+Senior Forensic Examiner
+[redacted]
+
+From: [redacted] [mailto:[redacted]]
+Sent: Tuesday, March 03, 2020 12:25 PM
+
+EFTA00032143
+
+## Page 4 (FAST)
+
+This looks like a document page.
+
+## Visible Text (verbatim)
+To: [redacted]. (NY) (FBI) <[redacted]>; [redacted] (USANYS) <[redacted]>; [redacted]
+[redacted] (NY) (FBI) <spwatson@fbi.gov>; [redacted] (USANYS) <[redacted]>
+Cc: [redacted] (USANYS) [Contractor] <Christopher.Rozier@usdoj.gov>; [redacted]
+<[redacted]>; [redacted] <[redacted]>; [redacted] (NY) (FBI) <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+I could do Thursday morning, but I think it would be helpful for us to get the accounting in advance of the meeting so we can figure out in advance what (if any) additional steps we need – is that possible?
+
+From: [redacted]. (NY) (FBI) <[redacted]>
+Sent: Tuesday, March 03, 2020 09:59
+To: [redacted] (USANYS) <[redacted]>; [redacted] (USANYS) <[redacted]>; [redacted]
+[redacted] (NY) (FBI) <spwatson@fbi.gov>; [redacted] (USANYS) <[redacted]>
+Cc: [redacted] (USANYS) [Contractor] <CRozier@usa.doj.gov>; [redacted] <[redacted]>; [redacted]
+<[redacted]>; [redacted] (NY) (FBI) <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+Can we do Thursday morning? My network should be back by then and I can give you a good accounting.
+
+NY CART Coordinator
+Senior Forensic Examiner
+[redacted]
+
+On Mar 2, 2020 11:15 AM, "[redacted]" <[redacted]> wrote:
+Doing the weekly check in on this – is there a time this week when everyone can meet on this?
+
+thanks,
+[redacted]
+
+From: [redacted]
+Sent: Monday, February 24, 2020 17:38
+To: [redacted]. (NY) (FBI) <[redacted]>; [redacted] (USANYS) <[redacted]>; [redacted]
+[redacted] (NY) (FBI) <spwatson@fbi.gov>; [redacted] (USANYS) <[redacted]>
+Cc: [redacted] (USANYS) [Contractor] <CRozier@usa.doj.gov>; [redacted] <[redacted]>; [redacted]
+<[redacted]>; [redacted] (NY) (FBI) <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+[redacted]
+
+Totally understand about the network issues—we can relate. I do still think it will be helpful to all sit down together to have an in-person discussion, to make sure everybody is on the same page. Are folks available for that next week? And what I think would be most helpful to facilitate that would be a spreadsheet of each separate device referenced in the two search warrant returns, with columns for whether we’ve dumped the contents, whether they’ve been reviewed and/or transferred, what portions were transferred, etc.
+
+Something roughly like the attached, with any other categories you think would be useful – and the info on the attached is mostly hypothetical, obviously, just as examples. That will help us fully understand what’s been reviewed, transferred, and received so far, and what remains.
+
+EFTA00032144
+
+## Page 5 (FAST)
+
+## Visible Text (verbatim)
+
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices – I think FBI was going to do an initial screen to make sure no CP, and since I think the answer was no, we’ll need to get those to be able to review them as well.)
+
+many thanks,
+.
+
+From: [redacted]. (NY) (FBI) <[redacted]>
+Sent: Monday, February 24, 2020 09:24
+To: [redacted] (USANYS) <[redacted]>; [redacted] (USANYS) <[redacted]>;
+[redacted] (NY) (FBI) <spwatson@fbi.gov>; [redacted] (USANYS) <[redacted]>
+Cc: [redacted] (USANYS) [Contractor] <Crozier@usa.doj.gov>; [redacted] (USANYS) <[redacted]>; [redacted] <[redacted]>; [redacted] (FBI) <[redacted]>
+Subject: RE: Epstein search warrant documents
+
+.
+
+Sorry for the delayed response. They are tearing out our old network and giving us a new one, they mandated we delete old stuff (about 400 TB worth). Now that they are working on replacing the network, we can do only local work. I should be able to give you an accounting of what is what. I can say, off the top of my head, that all windows based items from the NY search have been handed over as well as all loose media. The CDs from NY only contained pictures, no documents. There are still some Apple items from NY that need to be produced. As far as the Island stuff goes, the 1st item on your spreadsheet, the "kitchen" mac has been produced. Still working on the rest.
+
+[redacted]
+NY CART Coordinator
+Senior Forensic Examiner
+[redacted]
+
+On Feb 23, 2020 12:21 AM, "[redacted]" <[redacted]> wrote:
+
+Team,
+
+Following up on the below from last weekend, I’m still not sure how we’re addressing this so I thought it would make sense for us to all schedule a (hopefully relatively brief) meeting to all get on the same page? We didn’t hear back on which files had previously been provided, but our tech folks did their best to differentiate, and we got access to the materials yesterday and its well over a million documents, and we don’t have any idea what we’re looking at – i.e., which devices the materials came from, whether it’s full or partial results, how many more devices we have coming, etc.
+
+Based on the attached search warrant returns, it looks like from the New York mansion (the PDF) there are approximately 40 devices that would have storage (computers, hard drives, thumb drives, etc.) and that’s not even counting at least 60+ CDs. And then from the Virgin Islands (the Excel spreadsheet), at least more than 25 devices, including multiple servers / server racks.
+
+So we gotta know what we’ve already received, what remains, anticipated schedule, etc, and I know it’s a lot of moving pieces on all sides so wanted to loop in everybody at once. The case team will be in California this coming week from Tuesday through Friday, but then I think generally around the first week of March, which will hopefully be plenty of time to schedule a productive meeting.
+
+thanks all,
+.
+
+EFTA00032145
+
+## Page 6 (FAST)
+
+## Visible Text (verbatim)
+From: [REDACTED]
+Sent: Saturday, February 15, 2020 16:30
+To: [REDACTED]. (NY) (FBI) <[REDACTED]>; [REDACTED]. (NY) (FBI) <[REDACTED]>
+Cc: [REDACTED] (USANYS) [Contractor] <CRozier@usa.doj.gov>; [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Epstein search warrant documents
+
+[REDACTED]
+
+I’m not sure who’s the exact right person to ask this, so wanted to get everybody on one email chain about it — I have the hard drive that Mandy dropped off that has new Epstein search warrant materials, but it looks like there are also old materials (that I think we had previously received and uploaded??) on the hard drive, and so I’m not sure what’s new.
+
+Just generally, and [REDACTED] and I talked about this last week too, but it’s basically impossible for us to keep track of what we’re getting, and what has been completed, without some kind of identification or labeling system, along with a list of which devices have been extracted and downloaded.
+
+So for example on the hard drive currently, there are 38 folders labeled “loadFiles” through “37loadFiles” with a modified date of 11/14/19, which I think we may have already previously received — but I’m not sure, because we haven’t gotten any info on which folders match up to which devices, etc. And then there’s another folder titled “NYC024362” that has a modified date of 1/27/20, so I think that may be the materials we hadn’t previously received? That folder by itself has more than 600,000 items.
+
+I don’t want to give [REDACTED] anything that we’ve already previously received and uploaded, and I can’t tell from the folder or file names whether everything on the drive is new, or whether just additional materials were saved onto it in addition to what we already have. [REDACTED], are you able to give us some guidance on this? Ultimately what we really need is a spreadsheet of every device, whether it’s been dumped (or partially dumped), and then identifying that same info — which device, and what materials from it — are being given to us with each data transfer. Otherwise I think organizationally and for review purposes it will be a total disaster for us.
+
+We’re happy to have a meeting on this if that’s helpful — and thanks everybody for the assistance.
+
+[REDACTED]
+[REDACTED]
+Assistant U.S. Attorney
+Southern District of New York
+212.637.2415
+
+EFTA00032146
+

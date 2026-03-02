@@ -1,0 +1,24 @@
+## Page 1 (FAST)
+
+This looks like a document page.
+
+## Visible Text (verbatim)
+
+From: Mail Delivery Subsystem <MAILER-DAEMON@DJJMDJC01-PPOINT09.jcots.jutnet.net>
+To: <████████████████>
+Subject: Returned mail: see transcript for details
+Date: Wed, 14 Aug 2019 15:02:39 +0000
+Embedded: unnamed
+
+The original message was received at Wed, 14 Aug 2019 15:02:39 GMT
+from [10.187.9.62]
+
+------ The following addresses had permanent fatal errors ------
+<████████████████>
+(reason: 550 Host unknown)
+
+------ Transcript of session follows ------
+550 5.1.2 <████████████████>... Host unknown (Name server: █████████████: host not found)
+
+EFTA00032381
+

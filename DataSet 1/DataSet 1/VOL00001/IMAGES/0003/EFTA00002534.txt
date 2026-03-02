@@ -1,0 +1,41 @@
+## Page 1 (VISION)
+
+## Detailed Description
+The image displays the rear panel of a silver-colored Ubiquiti UniFi Server, positioned horizontally against a dark, textured wall or surface with a faint yellowish tint. The device is a rack-mountable server unit with a series of ports and ventilation features. On the left side, there is a black IEC power inlet labeled “Input: 100-240V, 50/60Hz.” Centered on the panel is a circular ventilation grille with a black ring and blue accents. To the right of the ventilation, there are two USB 3.0 ports (blue) labeled “USB2” and “USB1,” followed by two Ethernet ports labeled “LAN2” and “LAN1,” and a VGA video output port. The rear panel also contains regulatory compliance labels and certification marks such as CE and RoHS. The device has a sleek, metallic finish, and the overall lighting creates a slight shadow beneath the unit, suggesting the photo was taken from an elevated angle. The background surface appears slightly worn or dusty.
+
+## Visible Text (verbatim)
+UniFi SERVER
+UBIQUITI
+Mfr: UAS
+FCC ID: SMX-UASPRO
+IC: 8545A-UASPRO
+Input: 100-240V~4-24 Max. 50/60Hz
+Max Power: 150W
+This device complies with Part 15 of FCC rules.
+Operation is subject to the following 2 conditions:
+1) this device may not cause harmful interference and
+2) this device must accept any interference received,
+including interference that may cause undesired operation.
+IP6 LAN
+USB2
+USB1
+LAN2
+LAN1
+VGA
+EFTA0002534
+
+## Notable Details / Clues
+- The device is identified as a UniFi Server by Ubiquiti Networks, a company known for network infrastructure solutions.
+- The power input specifications indicate compatibility with a wide range of global voltages (100-240V) and frequencies (50/60Hz), suitable for international use.
+- The presence of dual Ethernet ports (LAN1 and LAN2) suggests it is designed for network connectivity, likely for managing multiple network segments or connections.
+- The inclusion of a VGA port indicates it has a video output for direct display connection, possibly for initial setup or local administration.
+- The USB 3.0 ports are likely used for external device connectivity or software updates, with clear labeling for identification.
+- The ventilation grille design with a circular pattern suggests an active cooling system, important for server hardware operation.
+- Regulatory compliance information (FCC Part 15, CE, RoHS) indicates adherence to international electrical and environmental standards.
+- The model number (SMX-UASPRO) and FCC/IC IDs are visible, allowing for device identification and regulatory traceability.
+- A QR code is present on the label, likely linking to product documentation, support, or firmware information.
+- The label includes a warning about potential interference, which is standard for electronic devices under FCC regulations.
+- The image ID “EFTA0002534” is present at the bottom right, suggesting it may be part of an internal inventory or documentation system.
+- The background surface has visible wear or discoloration, indicating the device may be in an operational or slightly aged environment.
+- The angle of the photograph, showing the device from above, provides a clear view of the rear panel, which is typically the interface for connecting peripherals and power.
+
