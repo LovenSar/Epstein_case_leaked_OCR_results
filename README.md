@@ -93,3 +93,8 @@ python recursive_llm_processor.py \
 ## Notes
 - Default model mapping in `recursive_llm_processor.py` currently points all stages to `qwen3-vl:8b-instruct-q8_0`.
 - You can edit `DEFAULT_MODELS` in the script if you want per-stage model customization.
+
+## Support This Project
+If you find it useful, consider supporting its maintenance and hosting:
+
+ETH: 0x550c828553e4d382cd6651c7d759317b8d615006
