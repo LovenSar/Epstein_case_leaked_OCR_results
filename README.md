@@ -22,16 +22,15 @@ See:
 Compared across all `11,924` V1/V2 file pairs:
 
 - Avg words/file: `3392.81 -> 3404.57` (`+0.35%` total words)
-- Median words/file: `388 -> 459`
-- Entity keyword hits (14-term set): `2.44 -> 4.06`
-- Expected EFTA ID coverage: `95.33% -> 100.00%`
+- Median words/file: `388 -> 459` (`+18.30%`)
+- Expected EFTA ID coverage: `95.33% -> 100.00%` (`+4.67 pp`, missing `4.67% -> 0%`)
 - Files containing date expressions: `48.23% -> 49.26%`
-- Repeated-line fraction: `0.0916 -> 0.0713` (less repetition)
+- Repeated-line fraction: `0.0916 -> 0.0713` (`-22.11%` relative)
 - Metadata coverage (`DOJ_FILE_META`): `0% -> 100%`
 
-Full metrics and dataset-level breakdown:
+Supporting public summaries:
 - `reports/version2_metrics.json`
-- `reports/version2_quality_report.md`
+- `reports/version2_merge_summary.json`
 
 ## Routing Mode (Version2)
 Version2 generation used the fast pipeline profile:
