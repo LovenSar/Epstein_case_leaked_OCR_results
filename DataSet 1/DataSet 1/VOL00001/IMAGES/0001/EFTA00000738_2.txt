@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000738.pdf ts=2026-03-05T08:13:55 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+-   **Room Layout and Structure:** The image captures a corner view of a room, likely a telecommunications closet or server room, featuring white walls and a suspended drop-ceiling grid. To the far right, a portion of a grey door frame with a silver doorknob is visible. The flooring is a speckled beige tile or linoleum.
+-   **Right-Side Equipment Rack:** Dominating the right side is a tall, black vertical rack structure (or open rails) densely populated with networking hardware. At the top right, a massive bundle of bright blue Ethernet cables (structured cabling) snakes through the air, connecting to patch panels or switches mounted near the ceiling.
+-   **Lower Rack Section:** Towards the bottom right, inside the rack structure, are stacked black chassis units resembling server blades or high-density switch stacks. Below these sits a large, dark grey rectangular device, possibly a power supply unit or a battery backup module, resting on a shelf at the floor level of the rack.
+-   **Center-Wall Main Unit:** Mounted directly onto the center of the wall is a large, black rectangular chassis (approx. 20-24 inches wide). It features a white triangular logo and text in the bottom right corner, characteristic of older Cisco networking hardware. Numerous grey cables exit the bottom of this unit, snaking downwards towards the floor.
+-   **Left-Side Wall Mounts:** To the left of the central black chassis is a vertical patch panel or interface box containing roughly 20-30 rows of small, metallic connectors (likely fiber or copper breakout ports). Below that, mounted lower on the wall, is a silver/grey box labeled "Valcom," suggesting an access control or paging system integration. Further left and lower still is a smaller black box.
+-   **Cabling Management:** A chaotic but functional web of cables characterizes the space. A large bundle of white/grey cables ascends through an open hole in the ceiling plenum at the very top center. Loose coils of grey cable lie on the floor near the bottom left corner. Blue cabling is primarily routed along the top black horizontal rails or mounted to the wall above the central unit.
+-   **Ceiling and Ventilation:** At the top center, a square ceiling tile has been removed, exposing the plenum space where bundles of grey conduit or cable management systems rise upward. Adjacent to this opening, a metallic, boxy ventilation unit with a visible circular fan grille is mounted near the ceiling junction.
+-   **Wall-Mounted Components:** Between the central large black chassis and the vertical patch panel on the left, there are several smaller devices: a small white box (possibly a power supply or interface card), a beige rack-mountable device (possibly an older modem or router component), and an orange-labeled device that appears to be a voltage or alarm indicator.
+
+## Visible Text (verbatim)
+-   **Valcom** (on the silver box, mid-left wall)
+-   **EFTA00000738** (in the bottom right corner of the image metadata)
+-   **CISCO** (faint white text/logo on the large black central chassis)
+-   **Power** (on a label near the rack equipment, partially obscured)
+
+## Notable Details / Clues
+-   **Era of Technology:** The equipment suggests an installation from the late 1990s or early 2000s. The Cisco hardware features the "mountain" logo common to that era. The Valcom box dates this room further back, as they were prominent in enterprise phone systems during that time.
+-   **Cabling Standards:** The extensive use of bright blue Cat5-style cables indicates adherence to TIA/EIA standards for horizontal wiring, likely a 100Mbps Ethernet network environment.
+-   **Plenum Access:** The open ceiling tile reveals a direct connection to the infrastructure above, suggesting this room might be below a main data hall or simply that all backbone cabling was pulled through from above.
+-   **Disorganization:** Compared to modern data centers, the cable management is quite loose. Cables hang freely from the main chassis and pool on the floor near the black box in the corner, indicating either a work-in-progress installation or an older setup that hasn't been retrofitted with under-desk cable trays.
+-   **Valcom Integration:** The presence of the "Valcom" unit (now part of Tyco/Avaya) implies this room handles not just data but voice communications and potentially access control (card readers/keypads).
+-   **Power Infrastructure:** The black box on the floor to the left lacks a label, but its position suggests it could be a UPS battery backup or a surge protector for sensitive equipment in that corner.
+

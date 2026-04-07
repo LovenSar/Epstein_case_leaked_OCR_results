@@ -1,0 +1,41 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002548.pdf ts=2026-03-05T21:03:23 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a computer hard disk drive installed within a black plastic carrier caddy, resting on a dark, metallic-looking surface. The caddy features a prominent black plastic handle on the left side designed for extraction and insertion into a server tray or enclosure. Extending from the bottom left of the caddy are two parallel rows of gold-plated metal contacts (connector pins), which appear somewhat oxidized or dirty rather than bright gold. The drive itself is enclosed in a rectangular metal casing with rounded corners, secured by four visible screws at the corners. A large white label covers most of the top surface, containing black printed text, barcodes, and regulatory symbols. The surrounding metal casing shows signs of wear, with brownish stains or oxidation spots concentrated near the bottom right corner and along the edges. To the right of the main label is a smaller, silver-colored sticker containing a serial number. A large, handwritten blue number "4" is stamped or written on the upper left portion of the white label area. The lighting appears to be direct overhead, casting slight shadows within the caddy slots and under the handle.
+
+## Visible Text (verbatim)
+**Main White Label:**
+- "106GB 10K SAS"
+- "Invergent" (vertical text)
+- "HP MODEL: DG-T48B976"
+- "HP P/N: 43615-003"
+- "CT: 28976026CWS0KS"
+- "PART NUMBER: 8F6966-035*"
+- "LOT NUMBER: #A-01-9224-S"
+- "SERIAL NUMBER: S3H6GD98" (Partial read)
+- "GPN: 375863-010"
+- "VDC: 4.50 Vdc @ 1.0 A"
+- "+12 Vdc @ 1.0 A"
+- "Firmware: HFC"
+- "ST914502S" (Partial read, likely ST314502SS or similar)
+- Regulatory symbols: "UL", "CE", "TÜV", "N176".
+
+**Right-side Silver Sticker:**
+- "SN: 2S0850VLH2"
+- Barcode strip.
+
+**Handwritten:**
+- "4" (Large blue marker).
+
+## Notable Details / Clues
+- **Brand Identification:** The label reads "Invergent," a predecessor brand of Hewlett-Packard, indicating this drive dates back to the late 1990s or early 2000s era of server hardware.
+- **Drive Specifications:** The text "146GB 10K SAS" indicates a hard drive with 146 Gigabytes of storage capacity (likely actually 143GB formatted) spinning at 10,000 RPM using the Serial Attached SCSI interface.
+- **Contact Oxidation:** The gold connector fingers on the left side show signs of use and potential corrosion, suggesting this is a used spare part or refurbished component.
+- **Staining:** There are distinct rust-colored or dirty stains on the metal chassis, particularly near the bottom right corner and under the label edges, indicating exposure to dust or moisture over time.
+- **Handwritten Marking:** The large "4" suggests an inventory control measure, likely used for sorting parts during a repair process or stocktake.
+- **Connector Type:** Although not explicitly labeled on this face, the presence of gold contacts in a row like this is characteristic of SATA or SAS drive interfaces used in enterprise servers.
+- **Part Number Cross-reference:** The GPN (Generic Part Number) 375863-010 corresponds to a specific configuration of an enterprise hard drive caddy, likely manufactured by companies like Seagate or IBM and rebranded for HP systems.
+- **Regulatory Compliance:** The presence of UL, CE, and TÜV logos confirms the device was manufactured to meet international safety and regulatory standards at the time of production.
+

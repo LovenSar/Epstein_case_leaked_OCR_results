@@ -1,0 +1,52 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029660.pdf ts=2026-03-18T10:57:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a cropped screenshot or digital printout of an email thread viewed within a standard email client interface. The layout is vertical, presenting messages in chronological order with the most recent reply at the top. The document features heavy redaction, indicated by solid black rectangular bars obscuring sensitive information such as names and specific file paths.
+
+**Top Email Block (Most Recent):**
+At the very top, the header metadata for an email response is visible. The fields "From:", "To:", and "Cc:" are present but their corresponding values are completely covered by thick black bars. The subject line begins with "Subject: RE:", followed immediately by a partial redaction box before displaying the text "3500". Below this, a specific timestamp is clearly legible: "Fri, 27 Aug 2021 22:49:18 +0000". Following a thin horizontal separator line, the body of this email contains only two short lines of text: "All set, thanks", indicating a confirmation of receipt or completion of a task.
+
+**Middle Section:**
+Immediately following the short response, there is a second horizontal separator line and then a massive, wide black rectangle that spans almost the entire width of the screen. This large redaction block likely covers an attachment, image, or a significant portion of the forwarded email history.
+
+**Bottom Email Block (Original/Forwarded):**
+Beneath the large redaction bar, another email header is partially visible. The subject line shows a redacted portion followed by "3500". Below this header, the body text begins with a salutation "Hi,". The main message requests action regarding file storage: "Would you please save the attached in [REDACTED] 3500 and witness folders on the Epstein share?" The word "Epstein" is fully legible here. The email concludes with "Thanks!" and a small, solid black rectangle at the bottom left, likely redacting a sender's signature or initial.
+
+**Footer:**
+In the bottom right corner of the page, outside the email content area, is a document control number or archive ID: "EFTA00029660".
+
+## Visible Text (verbatim)
+
+**Header Section:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: RE:[Redacted] 3500
+*   Date: Fri, 27 Aug 2021 22:49:18 +0000
+
+**Body Text:**
+*   All set, thanks
+
+**Subject Line (Lower):**
+*   Subject:[Redacted]3500
+
+**Message Body (Lower):**
+*   Hi,
+*   Would you please save the attached in [Redacted] 3500 and witness folders on the Epstein share?
+*   Thanks!
+*   [Redacted Box]
+
+**Watermark:**
+*   EFTA00029660
+
+## Notable Details / Clues
+
+*   **Subject Line Fragment:** The recurring text "3500" at the end of the subject lines suggests it is part of a file path, username (e.g., ending in .3500), or a specific reference number used within an organization.
+*   **"Epstein Share":** The mention of saving files to the "Epstein share" strongly contextualizes the document within the Jeffrey Epstein investigation or legal proceedings, indicating a network folder location.
+*   **"Witness Folders":** This phrase implies that these files are evidence or related to testimony being archived, likely for a legal trial or official investigation.
+*   **Timestamp Context:** The date (August 27, 2021) places the document nearly two years after the FBI raid on Jeffrey Epstein's Manhattan condo (July 6, 2019), suggesting this communication occurred during an active phase of the investigation or trial preparation.
+*   **Redaction Patterns:** The consistent use of black bars indicates a deliberate effort to redact PII (Personally Identifiable Information) and specific network paths, typical of public disclosures or leaked documents where identities are protected but context remains visible.
+

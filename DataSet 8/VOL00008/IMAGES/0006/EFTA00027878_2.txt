@@ -1,0 +1,99 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00027878.pdf ts=2026-03-17T18:13:51 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays an email thread viewed within a desktop application or web browser interface. The document is heavily redacted with black bars obscuring specific fields such as "From," "To," and portions of the body text. The thread consists of three distinct emails arranged vertically, representing a correspondence loop regarding a travel expense voucher.
+
+**Top Section:**
+The topmost visible part of the email shows a subject line and timestamp. Below this, a paragraph of blue hyperlinked-style text addresses a recipient named "Alex." This section discusses a tax exemption for LA County and mentions contacting "Doubletree by Hilton Santa Monica" regarding a refund. A small black box redacts what appears to be a file attachment or signature.
+
+**Middle Section:**
+Below a long horizontal black bar, the next email in the thread is visible. The text indicates a reply continuing the previous discussion. This message explains that the voucher details are "still incorrect." It cites a specific discrepancy regarding nightly lodging costs (listing $248 instead of $247) and notes that tax charges are still included despite claims of exemption. The sender requests confirmation on reimbursement methods ("maximum daily allowance rather than the actual cost"). The email is signed by an address ending in `@cwtsatotravel.com` and sent on November 20, 2019, at 10:06.
+
+**Bottom Section:**
+The bottom of the image shows the original invitation or notification email that started the chain. This message informs the traveler that "Final voucher 10810414(1)" is ready for review via "E2 Solutions." A block of structured text follows, detailing the trip specifics:
+*   **Trip ID:** 10810414
+*   **Purpose:** R20NYS13179 - U.S. v. Epstein - Witness Interview
+*   **Destination:** Santa Monica, CA, United States
+*   **Dates:** 2019-11-13 to 2019-11-15
+
+**Financial Data:**
+At the very bottom, financial figures are listed: "Voucher total expenses: 1517.64" and "Estimated trip cost: 1583.95." A unique alphanumeric code, `EFTA00027878`, is printed in the bottom right corner, likely an internal document tracking number.
+
+## Visible Text (verbatim)
+
+**Subject:** RE: Final Voucher 10810414(1) prepared by a travel arranger is pending your review
+**Date:** Wed, 20 Nov 2019 17:44:58 +0000
+
+Alex, regarding the Transient Occupancy Tax, LA County is tax exempt. I’ve contacted Doubletree by Hilton Santa Monica for a refund for those charges. Thanks for your patience in this matter.
+
+**Subject:** RE: Final Voucher 10810414(1) prepared by a travel arranger is pending your review
+
+Unfortunately this is still incorrect. First, it has the nightly lodging costs listed as $248 when in fact it was $247 – see the invoice, which is attached again. (Or please let me know if I’m supposed to be reimbursed for the maximum daily allowance rather than the actual cost.) Also it still does not include the tax.
+
+Please let me know when it is corrected and I will review it again.
+
+**From:** etravel services@cwtsatotravel.com
+**Sent:** Wednesday, November 20, 2019 10:06
+
+**Subject:** Final Voucher 10810414(1) prepared by a travel arranger is pending your review
+
+Dear [Redacted]
+
+Final voucher 10810414(1) has been prepared by your travel arranger and is ready for your review. Please log into E2 Solutions to review the document.
+
+Trip ID: 10810414
+Voucher ID: 1
+Voucher type: Final
+Traveler name: [Redacted]
+Purpose: R20NYS13179 - U.S. v. Epstein - Witness Interview
+Destination: Santa Monica, CA, United States
+Dates: 2019-11-13 - 2019-11-15
+Current status: Pending Voucher Approval
+
+Voucher total expenses: 1517.64
+Estimated trip cost: 1583.95
+
+EFTA00027878
+
+## Notable Details / Clues
+
+*   **Legal Context:** The travel purpose explicitly mentions "U.S. v. Epstein - Witness Interview," indicating this is related to legal proceedings involving Jeffrey Epstein.
+*   **Tax Dispute:** There is a clear back-and-forth regarding the "Transient Occupancy Tax." The first email states LA County is tax exempt and that the agent contacted the Doubletree by Hilton Santa Monica for a refund. The second email counters that the tax is still present on the voucher and demands correction.
+*   **Pricing Discrepancy:** The middle email highlights a specific math error, noting the nightly cost is listed as $248 when it should be $247 based on an attached invoice.
+*   **Travel Agency Identity:** The sender's email domain (`@cwtsatotravel.com`) suggests a corporate travel management company (likely CWT or similar).
+*   **System Integration:** The text mentions logging into "E2 Solutions," which is a common travel expense management software used by corporations.
+*   **Date Consistency:** All emails are dated November 20, 2019. The original email was sent at 10:06, and the replies were sent later that day (17:44 UTC).
+*   **Voucher ID:** The specific voucher being reviewed is identified as `10810414(1)`.
+*   **Redaction Extent:** While names are redacted, specific financial numbers ($248 vs $247 and total expenses of $1517.64) remain visible, suggesting these were not considered sensitive enough to black out in this specific instance.
+*   **Destination:** The trip was to Santa Monica, CA, which aligns with the hotel mentioned (Doubletree by Hilton Santa Monica).
+*   **Time Zone:** The first email date includes `+0000` (UTC), while the sent time for the middle email is EST/PST implied by the US context but specifically timestamped 10:06.
+*   **Email Status:** The bottom text indicates a status of "Pending Voucher Approval," confirming this was a work-in-progress document during that week in November 2019.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+E2 Single Sign On Login (within DOJ Network Only):
+https://dojnet.doj.gov/jmd/fs/e2-redirect.html
+
+E2 Manual Login (User ID and Password):
+https://e2.gov.cwtsatotravel.com
+
+Thank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link.
+
+Please note: Replies to this mailbox are not monitored.
+
+Some E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your email settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the emails that you receive from us.
+
+Reference ID# V0012
+This e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-mail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; any further use of such e-mail or attachments is strictly prohibited.
+
+EFTA00027879
+
+## Structured Fields
+*   **Reference ID:** V0012
+*   **Document ID / EFT Code:** EFTA00027879
+*   **Organization:** DOJ (Department of Justice), E2 Solutions
+*   **Location/Network Context:** DOJ Network
+

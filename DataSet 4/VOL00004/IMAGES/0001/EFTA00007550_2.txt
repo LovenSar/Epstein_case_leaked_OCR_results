@@ -1,0 +1,47 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007550.pdf ts=2026-03-08T23:00:32 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a high-contrast, grainy black-and-white visual field, characteristic of a scanned scientific document, likely a Western blot or autoradiogram. The composition is dominated by two main vertical sections. On the left, there is a broad area of intense, dark saturation that fades into lighter grey speckling towards the center and right. In the upper-left quadrant, faint horizontal bands are visible against the dark background, resembling protein markers or specific antibodies. The lower-left corner is almost entirely black. Moving to the right side, three white rectangular boxes with rounded corners are stacked vertically. These boxes serve as labels for the adjacent blot regions. Below the bottom-most label, in the lower-right quadrant, there is a distinct vertical column of dark, grainy texture that contrasts with the lighter area immediately to its left. A solid black horizontal bar runs across the very top edge of the image frame. The entire image possesses a noisy, halftone texture typical of printed or scanned academic figures.
+
+## Visible Text (verbatim)
+- **1B1-15a**
+- **1B1-15b**
+- **1B1-15c**
+- **EFTA00007550**
+
+## Notable Details / Clues
+- **Labeling Convention:** The text "1B1-15" followed by a letter suffix (a, b, c) suggests a series of related experimental clones, antibodies, or samples.
+- **Document ID:** The string "EFTA00007550" in the bottom right corner serves as a unique identifier for the patent or publication source (likely EPO - European Patent Office).
+- **Contrast and Noise:** The image suffers from significant digital noise and low resolution, making faint details difficult to resolve, particularly in the lighter central region.
+- **Layout Disruption:** The text boxes on the right overlap slightly with the data area of the blot, obscuring the background texture behind them.
+- **Saturation:** The left portion of the image is heavily saturated with black ink/pixels, which might indicate a strong loading control (like actin/tubulin) or a non-specific binding block.
+- **Top Marker:** The thick black bar at the top is likely part of the page border or header of the original document layout.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+IBI #15a,b,c
+Three Framed Photos -
+Cabana
+(Bulky)
+EFTA00007551
+
+## Structured Fields
+*   **Doc ID / Case ID:** IBI #15a,b,c; EFTA00007551
+*   **Location/Item:** Cabana
+*   **Description:** Three Framed Photos - (Bulky)
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+1 B1 (15-A, B, C)
+3 FRAMED PHOTOS
+CABANA
+
+EFTA00007552
+
+## Structured Fields
+- **Doc ID**: EFTA00007552
+- **Location/Item Description**: 1 B1 (15-A, B, C) / CABANA
+- **Contents**: 3 FRAMED PHOTOS
+

@@ -1,0 +1,160 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00017134.pdf ts=2026-03-13T06:33:13 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+WIRELINE
+2996479
+06/17/2020
+AT&T has queried for records from 03/01/2020 12:00:00am to 06/15/2020 11:59:59pm
+AT&T has queried for records using Eastern Time Zone. AT&T's records are stored and provided in UTC.
+
+Run Date:
+06/17/2020
+Run Time:
+18:45:32
+Voice Usage For: [REDACTED]
+
+Item | ConnDateTime (UTC) | Originating Number | Sec. Orig. | Terminating Number | Dialed Number | Elapsed Time | CIC | Call Code | Orig. Acc.
+1 | 03/01/20 19:58:27 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | [blank] | 829 | [blank]
+2 | 03/02/20 16:36:53 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:47 | 829 | [blank] | 601
+3 | 03/02/20 16:43:46 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:04 | 829 | [blank] | [blank]
+4 | 03/02/20 16:44:06 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 2:06 | 829 | [blank] | [blank]
+5 | 03/03/20 21:36:01 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 30:41 | 343 | [blank] | [blank]
+6 | 03/04/20 18:52:26 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 1:40 | 827 | [blank] | 602
+7 | 03/04/20 19:46:37 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:05 | 343 | [blank] | [blank]
+8 | 03/04/20 22:07:25 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 47:57 | 343 | [blank] | [blank]
+9 | 03/04/20 23:04:25 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:39 | 343 | [blank] | [blank]
+10 | 03/05/20 00:56:24 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | [blank]
+11 | 03/05/20 00:58:15 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:25 | 827 | [blank] | 602
+12 | 03/05/20 13:22:45 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 1:13 | 829 | [blank] | [blank]
+13 | 03/05/20 15:49:48 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:01 | 829 | [blank] | 601
+14 | 03/05/20 15:50:04 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | [blank]
+15 | 03/05/20 17:14:11 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:36 | 343 | [blank] | [blank]
+16 | 03/05/20 17:15:32 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 343 | [blank] | [blank]
+17 | 03/05/20 18:27:34 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:05 | 343 | [blank] | [blank]
+18 | 03/05/20 18:29:16 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:04 | 343 | [blank] | [blank]
+19 | 03/05/20 18:42:42 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:04 | 343 | [blank] | [blank]
+20 | 03/05/20 20:38:45 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 9:05 | 343 | [blank] | [blank]
+21 | 03/05/20 20:51:31 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 343 | [blank] | [blank]
+22 | 03/06/20 15:08:16 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 1:08 | 343 | [blank] | [blank]
+23 | 03/06/20 20:02:56 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:05 | 343 | [blank] | [blank]
+24 | 03/06/20 20:51:23 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:59 | 343 | [blank] | [blank]
+25 | 03/06/20 21:03:38 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | [blank]
+26 | 03/06/20 21:04:01 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+27 | 03/06/20 21:04:33 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:16 | 343 | [blank] | [blank]
+28 | 03/07/20 16:17:45 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+29 | 03/07/20 18:21:42 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:04 | 314 | 60 | 11
+30 | 03/07/20 18:39:48 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+31 | 03/08/20 00:01:01 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | [blank]
+32 | 03/08/20 18:09:41 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | [blank]
+33 | 03/08/20 18:23:28 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+34 | 03/09/20 00:45:22 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:01 | 829 | [blank] | 601
+35 | 03/09/20 14:52:35 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+36 | 03/09/20 15:46:24 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+37 | 03/09/20 18:49:59 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+38 | 03/10/20 17:41:33 | [REDACTED] | [REDACTED] | [REDACTED] | [REDACTED] | 0:00 | 829 | [blank] | 601
+
+AT&T Proprietary
+The information contained here is for use by authorized persons only and is not for general distribution.
+Page 1
+
+EFTA00017134
+
+## Structured Fields
+- **Document ID:** 2996479
+- **Case ID/Ref:** EFTA00017134
+- **Run Date:** 06/17/2020
+- **Run Time:** 18:45:32
+- **Organizations:** AT&T
+- **Query Start Date:** 03/01/2020
+- **Query End Date:** 06/15/2020
+- **Time Zone:** Eastern Time Zone
+- **Record Storage Time Zone:** UTC
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image is dominated by a uniform, deep black field that fills approximately 99% of the entire frame.
+- There are no visible physical objects, people, animals, or distinct architectural features within the central area.
+- No lighting sources, shadows, or highlights are present in the main visual space, creating a void-like appearance.
+- The texture of the black background is perfectly smooth with no visible grain, noise, or pixelation typical of low-resolution images.
+- A thin, barely perceptible white border or artifact runs along the absolute bottom edge of the frame where the text is located.
+- The composition is asymmetrical due to the placement of the only non-black element in the bottom right corner.
+- There are no color gradients; the image consists entirely of black pixels and white text.
+- No horizon lines, edges, or distinct boundaries can be discerned within the darkness.
+- The visual information density is extremely low, relying almost exclusively on the watermark for data.
+- It resembles a "black screen" often seen when a camera fails to capture a signal or an image file has not loaded correctly.
+
+## Visible Text (verbatim)
+- EFTA00017135
+
+## Notable Details / Clues
+- The text string "EFTA00017135" acts as a unique identifier, likely an accession number for a photo archive or digital asset management system.
+- The code suggests the image might be part of a government or organizational collection, possibly related to the European Free Trade Association (though this is speculative without more context).
+- The white text contrasts sharply with the black background, ensuring legibility despite the lack of other visual details.
+- The absence of any other content strongly implies this image may serve as a placeholder for a missing file or represents an intentionally empty frame.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The entire visual field of the image is composed of a uniform, solid black color.
+*   There are no discernible objects, physical structures, or three-dimensional forms present within the frame.
+*   No human figures, animals, or biological subjects are visible anywhere in the composition.
+*   The scene lacks depth, perspective, or horizon lines, presenting as a two-dimensional flat plane of darkness.
+*   There are no lighting effects, such as highlights, shadows, or specular reflections, visible on any surface.
+*   No textures, such as grain, noise, or fabric patterns, can be seen in the dark area.
+*   The aspect ratio of the image appears to be a standard landscape rectangle (wider than it is tall).
+*   There are no graphical borders, frames, or margins separating content from the edge of the canvas.
+*   The blackness appears absolute and opaque rather than a very dark grey or a low-light scene.
+
+## Visible Text (verbatim)
+*   EFTA00017136
+
+## Notable Details / Clues
+*   The alphanumeric string located in the bottom-right corner serves as a unique file identifier or watermark.
+*   The code begins with "EFTA," which often stands for the European Free Trade Association, though the specific meaning is not visually confirmed.
+*   This image likely represents a blank template or a placeholder where visual content failed to load.
+*   Alternatively, it could be an intentionally black cover page or a blank slide in a presentation deck.
+*   The white text contrasts sharply with the black background to ensure readability of the tracking code.
+*   No other metadata, timestamps, or headers are visible at the top or sides of the image.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The entire visual field is composed almost exclusively of a uniform, deep black color.
+- There are no discernible objects, figures, landscapes, or textures visible within the frame.
+- No light sources, shadows, gradients, or atmospheric effects are present.
+- A very narrow strip of white space runs along the extreme bottom edge of the image.
+- This white strip acts as a boundary, suggesting the black area is the primary content area of a digital file.
+- The composition is completely static and devoid of action or movement.
+- The darkness is absolute; there are no stars, faint lights, or noise visible in the black field.
+
+## Visible Text (verbatim)
+- EFTA00017137
+
+## Notable Details / Clues
+- The image appears to be a "blank" screen, a placeholder, or an error state where content failed to load.
+- Alternatively, it could represent a scene of complete darkness (pitch black).
+- The text code "EFTA00017137" functions as a unique identifier or serial number.
+- "EFTA" is a common abbreviation for the European Free Trade Association, though its relevance here is purely textual without context.
+- The numbers following the letters suggest a sequential log ID or transaction number.
+- The font used for the text is a standard, legible sans-serif typeface, likely default system font (Arial/Helvetica).
+- The placement of the text in the bottom right corner is typical for watermarks, document IDs, or footer metadata.
+- There are no other markings, logos, or graphical elements to break up the negative space.
+- The high contrast between the black background and white text ensures the code is the sole focal point.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The visual field is composed almost entirely of a uniform, deep black surface that dominates the upper and central regions of the frame. There are no discernible objects, figures, landscapes, or environmental features visible within the main body of the image. A very thin, white horizontal strip runs along the absolute bottom edge of the composition, serving as a footer area. The lighting appears flat with no shadows or gradients, indicating a lack of three-dimensional depth or subject matter. The entire expanse is devoid of texture, noise, or distinct patterns except for the alphanumeric string at the corner.
+
+## Visible Text (verbatim)
+- EFTA00017138
+
+## Notable Details / Clues
+- The text "EFTA00017138" is located specifically in the bottom-right corner of the white footer strip.
+- The font is a standard, sans-serif typeface in white color, creating high contrast against the black background.
+- The prefix "EFTA" suggests this could be an identifier related to the European Free Trade Association or a specific internal document tracking system (E-forma), though the context is not fully visible.
+- The numeric suffix "00017138" implies a sequential database entry, serial number, or unique identifier for a document.
+- The lack of any other content suggests this might be an empty placeholder image, a corrupted file, or the initial frame of a video scan before content loads.
+

@@ -1,0 +1,23 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002518.pdf ts=2026-03-05T20:44:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly upward-looking perspective of computer hardware mounted inside a standard 19-inch server rack. At the very top, a large, dark, glossy black surface dominates the upper portion of the frame, appearing to be the bottom bezel or back of a monitor or another rack-mounted unit. Below this overhang sits a primary server chassis or PC tower, secured within the rack rails. The server features a row of four drive bays on the left side; these are black rectangular slots, each topped with a small red power switch and bearing a purple and white label strip characteristic of HP hard drives. Adjacent to the drives is a wide, horizontal ventilation grille made of thin metal slats. To the right of the vents is an integrated optical drive (DVD/RW) followed by the I/O panel. The I/O panel includes several black USB ports, a blue VGA port, PS/2 style mini-connectors, and a circular power button illuminated with an orange LED, indicating the device is active. The entire assembly is screwed into a black vertical rack rail on the right side, which features mounting holes and the number "27" printed vertically to indicate the U-space. Beneath the server unit, the lower portion of the rack frame is visible, cluttered with fiber optic cabling. A dense bundle of yellow-jacketed fibers and orange-jacketed fibers dangle loosely from the top left area. At the very bottom, a patch panel or breakout box is partially visible, populated with blue-colored fiber adapter mounts and tangled strands of loose cables (yellow, orange, and blue) weaving through the rack space.
+
+## Visible Text (verbatim)
+- "HP" (faintly visible on the server faceplate near the power button area)
+- "DVD"
+- "RW"
+- "27" (on the vertical rack rail)
+- "EFTA00002518" (watermark in bottom right corner)
+
+## Notable Details / Clues
+- **Power State:** The orange LED ring on the power button is lit, confirming the server or chassis is powered on.
+- **Hardware Branding:** The purple drive labels and the layout of the I/O panel strongly suggest this is an HP ProLiant DL series server (likely Gen 8 based on the bezel style).
+- **Cable Management:** The cables in the lower section appear disorganized, with fiber optic bundles hanging freely rather than being neatly trussed or managed.
+- **Rack Positioning:** The "27" marking on the rail indicates this equipment is mounted at rack unit 27 (or potentially 28 depending on how the U-space is counted, usually the number refers to the center of the space).
+- **Cable Types:** The presence of both yellow and orange cables typically denotes Single Mode and Multimode fiber optic connections respectively.
+- **Reflections:** A warm light reflection is visible on the black surface above the server, suggesting a nearby lamp or monitor glow.
+- **Labeling:** A white asset tag sticker is present at the top right edge of the frame, but the text is out of focus and illegible.
+

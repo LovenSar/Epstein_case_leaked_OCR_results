@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016303.pdf ts=2026-03-12T22:27:14 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email interface, likely from an electronic case filing system (ECF) given the legal context. The top portion contains standard email metadata fields: "From," "To," "Cc," "Subject," "Date," and "Attachments." The "From" field is completely redacted with a black bar. The "To" field displays a specific government court email address, which is repeated in both quoted and unquoted formats (inside angle brackets). The "Cc" field is obscured by a large, tall black rectangle that spans most of the width of the text area. Below the metadata headers is a horizontal rule line separating the header from the body. The body of the message contains three paragraphs of text: a salutation, a single sentence explaining the attachment's purpose regarding a judge and a government letter, and a sign-off. At the bottom left, beneath the sign-off, is another large black rectangle obscuring what would typically be a signature block. In the bottom right corner, there is a document control number or EFT number printed in small font.
+
+## Visible Text (verbatim)
+*   **From:** [Redacted]
+*   **To:** "FreemanNYSDChambers@nysd.uscourts.gov" <FreemanNYSDChambers@nysd.uscourts.gov>
+*   **Cc:** [Redacted/Black Bar]
+*   **Subject:** Doe v. Indyke, et al., 20 Civ. 484 (DCF) (JGK)
+*   **Date:** Sat, 05 Sep 2020 02:16:54 +0000
+*   **Attachments:** 2020-09-04,_GM,_Government_letter_in_support_of_stay_application.pdf
+*   **Body Text:** "Good evening,"
+*   **Body Text:** "Attached for Judge Freeman's consideration please find a letter from the Government in support of a stay in the above-referenced matter."
+*   **Body Text:** "Respectfully submitted,"
+*   **Footer ID:** EFTA00016303
+
+## Notable Details / Clues
+*   **Court Jurisdiction:** The email address `.uscourts.gov` and `nysd` indicates this communication is for the U.S. District Court for the Southern District of New York.
+*   **Judge Identification:** The "Subject" line includes "(JGK)" which likely stands for Judge Jacqueline Kovac, and the body text explicitly mentions "Judge Freeman," confirming the recipient's judge.
+*   **Case Type:** The subject line lists "Doe v. Indyke, et al." suggesting a civil case involving privacy or anonymity (Doe).
+*   **Motion Purpose:** The attachment filename and body text indicate a request for a "stay application" supported by a "Government letter," implying the US government is intervening to pause legal proceedings.
+*   **Timestamp Discrepancy:** The date stamp shows Saturday, 05 Sep 2020 at 02:16:54 UTC. Given the +0000 timezone offset, but likely New York time intended, "Good evening" suggests the sender is localizing the time to EDT (UTC-4), making it roughly 10:16 PM on Friday or early Saturday morning.
+*   **Redaction Extent:** A significant amount of information has been scrubbed for privacy or public release compliance, including the specific sender's identity, all copy recipients, and the name/title of the person submitting the letter at the bottom.
+*   **File Naming Convention:** The attachment filename uses underscores (`_`) and dates (YYYY-MM-DD), which is a common standard for legal document retention systems to ensure sortability and archival integrity.
+*   **Sender Identity Clue:** Although redacted, the text refers to "the Government," implying the sender represents an agency like the DOJ or DHS.
+*   **Interface Elements:** The layout is stark white background with black sans-serif font, typical of email clients used for legal correspondence (like Outlook web access or a specialized ECF portal).
+

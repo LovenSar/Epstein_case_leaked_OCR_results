@@ -1,0 +1,65 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008483.pdf ts=2026-03-09T07:26:14 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, top-down photograph of a manila evidence storage envelope form titled "Chain of Custody - ELSUR Evidence Medium Storage Envelope FD-504d (Rev. 8-31-2017)". The document is situated on a plain white surface. A vertical barcode sticker with the number "E03306820" is affixed to the top right corner. Yellow caution tape fragments are visible at the bottom left and right corners, partially obscuring the text "FEDERAL". The form is filled out by hand in black ink in various locations, primarily documenting an evidence capture from video surveillance. Black rectangular redaction bars cover personal names and specific handwritten entries in the lower custody sections to protect privacy.
+
+## Visible Text (verbatim)
+**Header Section:**
+*   "Chain of Custody - ELSUR Evidence Medium Storage Envelope"
+*   "FD-504d (Rev. 8-31-2017)"
+*   "Case File #: 3IE-MM-108062"
+*   "ID #: 1"
+*   "Doc# _________"
+*   "Total # of Discs 1"
+
+**Evidence Type:**
+*   Checked boxes: "Video Surveillance", "Non-Custodial - Overt Interview", "Custodial - Interview".
+*   Boxed text next to "Other": "Tape" (or similar cursive writing).
+*   Unchecked boxes: Title III, FISA, Consensual Monitoring, Computer Trespasser, PR/TT, Aerial Surveillance, Object Tracker, Non-Custodial - Surreptitious Interview.
+
+**Enclosure & Media Type:**
+*   Checked box: "Original"
+*   Unchecked boxes: Enhanced Original, CD/DVD/Blue Ray, Hard Drive, SD Card, Other.
+
+**Intercept Info:**
+*   "Intercept Date(s): 04/24/2007"
+*   "Location: LOB, FL"
+*   "Download Date: 04/24/2007"
+*   "Download Time: 5:40PM" (Handwriting is slightly ambiguous, possibly 5:45 PM)
+*   "Title III/CM Interceptees - [x] Listed Below or [ ] See Attached"
+
+**Interceptee List:**
+*   "Johunn Miller"
+*   "James Eisenberg"
+*   "[Name Redacted]" (Covered by black bar)
+
+**Custody Sections:**
+*   **Accepted Custody Column 1:**
+    *   Date: "3/14/25" (or possibly 9/11/07, handwriting is difficult to decipher clearly).
+    *   Time: "9:33AM"
+    *   Reason: "remove from storage"
+*   **Released Custody Column 1:**
+    *   Date: "9/11/07" (The '0' is faint but implied by context).
+    *   Time: "9:38AM"
+    *   Reason: "Change Out"
+*   **Accepted Custody Column 2:**
+    *   Date: "9/11/25" (Again, handwriting suggests this year or illegible script).
+    *   Time: "9:33AM"
+    *   Reason: "accepted"
+
+**Bottom Corner Text:**
+*   Bottom Left Tape: "AU OF..."
+*   Bottom Right Tape: "...DERU"
+*   Image Watermark/ID (bottom right): "EFTA00008483"
+
+## Notable Details / Clues
+*   **Evidence Subject:** The form documents the collection of evidence related to "Video Surveillance" and interviews. An "Other" checkbox is marked with the handwritten note "Tape," suggesting audio tape was also collected alongside video.
+*   **Location:** The intercept took place at "LOB, FL," likely referring to a specific location within an agency in Florida (e.g., Land Overlook Branch or similar internal code).
+*   **Date Discrepancy/Cleanliness:** While the intercept date is clearly 04/24/2007, some dates in the custody log section appear to read "9/11/25" or "3/14/25". This is highly unusual for a 2007 document unless it is a future-dated form or the handwriting is extremely illegible (perhaps writing 2007 but looking like 25). Given the context of federal evidence, a date like 2025 would be impossible, suggesting either a notation error, a very messy "0", or perhaps the year is being written as '12' or similar. However, the release reason "Change Out" implies rotating storage equipment or media.
+*   **Redactions:** There are multiple black bars covering print names in the custody transfer section, indicating that specific personnel handling the evidence have been intentionally obscured for privacy or security reasons in this image.
+*   **Custody Reasoning:** The reason "remove from storage" and "Change Out" suggests this envelope was retrieved from a cold storage unit and likely re-keyed or moved to a different physical location or secure container, rather than being actively monitored at that moment.
+*   **Time Precision:** The times recorded (9:33 AM, 9:38 AM) are precise to the minute, suggesting strict chain of custody protocols were followed during the morning shift on April 24th, 2007.
+*   **Barcode ID:** The vertical barcode "E03306820" serves as a unique identifier for scanning into the ELSUR (Electronic Lawful Surveillance) database.
+

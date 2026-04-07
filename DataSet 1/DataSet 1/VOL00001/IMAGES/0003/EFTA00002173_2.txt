@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002173.pdf ts=2026-03-05T18:07:26 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a flat-lay arrangement of four white envelopes or sheets of paper placed on a grey, wood-grain surface. Each envelope contains identification documents related to a single individual, predominantly featuring a woman with dark hair.
+
+*   **Top Left Envelope:** Contains two cards stacked vertically. The top card is a Florida Driver's License or ID showing a photo of the woman and the word "Florida" in the top left corner; personal details are redacted. Below it is a blue BDO Bank Debit card with the Mastercard logo visible.
+*   **Top Right Envelope:** Contains two documents. The top document appears to be a Philippines Passport cover or similar official ID, featuring a large graphic of an eagle holding a shield with a sun (resembling the Philippine flag) in gold and red on a blue background. Underneath is the biographical data page of a Philippine Passport, showing the same woman's photo, passport number details, and machine-readable zone text. An immigration stamp is visible in the top left corner of this bio page.
+*   **Bottom Left Envelope:** Contains a single document: a United States Permanent Resident Card ("Green Card"). It features the Statue of Liberty graphic on the right and shows the same woman's photo. The text "PERMANENT RESIDENT" and "UNITED STATES OF AMERICA" are visible.
+*   **Bottom Right Sheet:** This is a loose sheet rather than inside an envelope, placed below the others. It is an official "CERTIFICATE OF MARRIAGE" from the Philippines. It contains typed information, checkboxes for civil status (indicating "Single"), and signatures.
+
+## Visible Text (verbatim)
+*   **Top Left Card:** "Florida", "BDO", "Debit", "MasterCard".
+*   **Top Right Passport Page:** "REPUBLIKA NG PILIPINAS | REPUBLIC OF THE PHILIPPINES", "PASSPORT", "P<PHLTRESTIZA...", "DFA MANILA", "05 OCT 2021" (Expiry).
+*   **Bottom Left Card:** "UNITED STATES OF AMERICA", "PERMANENT RESIDENT".
+*   **Bottom Right Marriage Certificate:**
+    *   Header: "CERTIFICATE OF MARRIAGE"
+    *   Authority: "OFFICE OF THE CIVIL REGISTRAR GENERAL", "REPUBLIC OF THE PHILIPPINES"
+    *   Location Stamp: "MANILA CITY HALL"
+    *   Names visible: "Philip Anthony Baker", "Nyla [Last Name redacted]"
+    *   Date: "JANUARY 10, 2015" (or similar year)
+    *   Footer/Signatures: "LISA GRACE S. BERSALES, PH.D.", "National Statistics and Civil Registrar General", "Philippine Statistics Authority".
+
+## Notable Details / Clues
+*   **Subject Consistency:** All documents feature the same female subject, indicating a collection of identity papers for one person.
+*   **Immigration Path:** The documents suggest a migration history from the Philippines (Birth/Passport) to the USA (Green Card -> Florida ID).
+*   **Spousal Information:** The marriage certificate lists a husband named "Philip Anthony Baker" born in "New Zealand" and a wife (the subject) born in the "Philippines". This indicates an interracial/multi-national marriage.
+*   **Document Validity:** The Philippine Passport expiry date is visible as "05 OCT 2021", suggesting the photo of this document was taken prior to October 2021.
+*   **Redaction Security:** Personal information such as full names on cards, card numbers, and dates of birth are heavily redacted with black bars for privacy in the photograph.
+*   **Official Stamps:** The marriage certificate has multiple official stamps, including one from "Manila City Hall" and a blue circular stamp at the top left indicating official registration status.
+*   **Watermark/Code:** A code "EFTA00002173" is printed in the bottom right corner of the entire image file.
+

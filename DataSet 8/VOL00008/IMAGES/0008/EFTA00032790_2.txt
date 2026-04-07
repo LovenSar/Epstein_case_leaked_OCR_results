@@ -1,0 +1,85 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032790.pdf ts=2026-03-19T20:34:14 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document, likely an electronic court filing or a forwarded email chain, heavily redacted for privacy. The layout consists of four distinct email headers stacked vertically in reverse chronological order (newest at the top), followed by large black bars obscuring the body text of each corresponding message.
+
+At the very top, there is a header block for the most recent correspondence (April 16, 2021, roughly 4:17 PM). This entry lists subject matter regarding "Pretrial Motions" and an "AJN Order." It specifies two PDF attachments related to "Exhibit_11" and "Proposed_Redactions." Below this header is a solid black rectangle.
+
+The second email block from the top corresponds to a message sent at 12:03 PM. It mirrors the subject line of the top email ("RE: AJN Order - Pretrial Motions") and shows standard email fields like "From," "Sent," and "To," all of which are partially obscured by black bars.
+
+The third block down is a message sent at 12:02 PM. Its header structure is identical to the others, with redacted sender and recipient information, though the recipient list includes the tag "(USANYS)." Another black bar obscures the body text below this header.
+
+The bottom-most block represents the original or earliest email in this specific thread sequence, sent at 11:57 AM. It lacks the "RE:" prefix in the subject line, suggesting it is the initiating email regarding the "AJN Order - Pretrial Motions." Similar to the other sections, black bars cover the sender, recipients, and body content. A case or document identification number appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Section:**
+*   `From: "[REDACTED]" <[REDACTED]>`
+*   `To: "[REDACTED] (USANYS)" <[REDACTED]>, "[REDACTED]"`
+*   `Subject: RE: AJN Order - Pretrial Motions`
+*   `Date: Fri, 16 Apr 2021 16:17:05 +0000`
+*   `Attachments: Exhibit_11_(Proposed_Redactions_Per_Second_Order).pdf;`
+*   `Exhibit_11_(Proposed_Redactions_Per_Order).pdf`
+
+**Second Email Block:**
+*   `From: [REDACTED] (USANYS) <[REDACTED]>`
+*   `Sent: Friday, April 16, 2021 12:03 PM`
+*   `To: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED]`
+*   `Subject: RE: AJN Order - Pretrial Motions`
+
+**Third Email Block:**
+*   `From: [REDACTED] <[REDACTED]>`
+*   `Sent: Friday, April 16, 2021 12:02 PM`
+*   `To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] <[REDACTED]>; ...`
+*   `Subject: RE: AJN Order - Pretrial Motions`
+
+**Bottom Email Block:**
+*   `From: [REDACTED] (USANYS) <[REDACTED]>`
+*   `Sent: Friday, April 16, 2021 11:57 AM`
+*   `To: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; ...`
+*   `Subject: AJN Order - Pretrial Motions`
+
+**Footer:**
+*   `EFTA00032790`
+
+## Notable Details / Clues
+*   **Privacy Redaction:** Extensive black bars are used to obscure personal names, email addresses, and the content of the emails. This is typical for documents filed in public court dockets where sensitive information must be removed.
+*   **Case Reference:** The recurring phrase "AJN Order" likely refers to a specific case order number or identifier (e.g., Case Number AJ-N).
+*   **Timestamp Sequence:** The timestamps indicate a rapid exchange of communications occurring within 20 minutes between 11:57 AM and 12:03 PM on April 16, 2021.
+*   **Legal Context:** The subject lines "Pretrial Motions" and the attachment titles mentioning "Redactions Per Second Order" strongly suggest this is a civil litigation document where parties are submitting motions to strike redactions or clarify order language.
+*   **Server/Zone Info:** The top date includes `+0000`, indicating Coordinated Universal Time (UTC), while the lower dates use local time formatting ("Friday... PM"), suggesting different clients or timezone settings.
+*   **Recipient Tag:** The tag `(USANYS)` appears on the "From" lines of the middle and bottom emails. This likely stands for "United States Attorney's Office - Southern District of New York," indicating government involvement.
+*   **Attachment Names:** The specific naming convention `Exhibit_11_(...)` suggests these documents are part of an exhibit list, further confirming a legal discovery or filing context.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image displays a digital document page with a predominantly white background.
+- A large, solid black rectangular block obscures the top section of the page, spanning nearly the full width. This area likely originally contained a header, seal, or subject line that has been redacted.
+- Directly below the large black rectangle is a smaller, narrower black rectangular block, indicating a partial redaction of a name or specific title above it.
+- To the left of the main white space, there is a small text block aligned with the left margin, situated just below the small redaction box.
+- The text identifies the sender as an "Assistant United States Attorney" within the "United States Attorney's Office."
+- The specific jurisdiction is identified as the "Southern District of New York."
+- The mailing address provided is "One St. Andrew's Plaza," located in Manhattan, New York.
+- Below the street address is the zip code "10007."
+- A label reading "Tel:" appears below the zip code, followed immediately by a second black redaction box obscuring the phone number.
+- In the bottom right corner of the page, there is a faint alphanumeric string printed in small font.
+- The document appears to be part of a legal filing or official correspondence.
+
+## Visible Text (verbatim)
+- Assistant United States Attorney
+- United States Attorney's Office
+- Southern District of New York
+- One St. Andrew's Plaza
+- New York, New York 10007
+- Tel: [Redacted]
+- EFTA00032791
+
+## Notable Details / Clues
+- **Redaction Strategy:** There are two distinct instances of blacking out information. The top box covers a large area (likely a header), while the middle box covers a likely name, and the bottom box covers a telephone number.
+- **Geographic Context:** The address "One St. Andrew's Plaza" corresponds to the actual headquarters of the U.S. Attorney for the Southern District of New York, which is located near Grand Central Terminal.
+- **Tracking ID:** The code "EFTA00032791" in the footer stands for Electronic Filing Tracking Application number, which is used by federal courts (specifically SDNY) to track documents uploaded through their electronic case filing system (ECF).
+- **Document Status:** The presence of redactions suggests this document is from a publicly docketed case where sensitive personal information has been removed before release.
+- **Formatting:** The text block uses a standard monospace or sans-serif font typical of digital court filings, rather than a typewriter font often seen in older paper documents.
+

@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002526.pdf ts=2026-03-05T20:48:43 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Equipment Stack:** The core of the image features a vertical stack of silver-grey 19-inch rack-mountable networking equipment, likely Cisco switches or routers, characterized by their metal chassis and front-facing ventilation slots and ports.
+*   **Cabling Chaos:** A dense "rat's nest" of cables obscures much of the equipment. The dominant colors are bright blue Ethernet cables running vertically down the right side and horizontally across the middle, contrasted against white and black cables.
+*   **Top Cabling:** A thick orange cable runs horizontally across the very top edge of the frame, while thinner yellow and multi-colored (red/green/blue) wires dangle loosely near the center-left.
+*   **Right-Side Vertical Mess:** On the right, a chaotic mix of black, white, blue, and orange cables hangs vertically, plugged into ports on the rack-mounted units. Some cables appear zip-tied together, while others are loose.
+*   **Bottom Right Coiling:** A distinct bundle of thick white Ethernet cables is coiled loosely in the bottom right corner, disconnected from the main vertical runs.
+*   **Power Supplies:** Black brick-style power supply units hang off the front edge of the lower black unit, with thick black power cords trailing down and away to the right.
+*   **Lower Unit Chassis:** The bottom-most piece of equipment is a black chassis featuring a distinctive honeycomb-pattern ventilation grille on its faceplate.
+*   **Left-Side Shadowed Area:** To the far left, in deep shadow, sits a large, dark object—possibly a desktop computer tower or another piece of networking hardware—with a thick yellow cable running vertically alongside it.
+*   **Wall Mounting:** In the upper left background, a white rectangular device is mounted to a wooden-paneled wall. It appears to be an environmental sensor or alarm panel (possibly Honeywell branding is faintly discernible).
+*   **Room Structure:** The room features unfinished walls with dark wood paneling on the upper half and white-painted cinder blocks or brick on the lower half. A lampshade is partially visible in the extreme top-left corner, providing the primary light source.
+*   **Port Details:** On the front face of the silver switches, various port markings and labels are visible but blurred by depth of field and cable obstruction.
+
+## Visible Text (verbatim)
+*   **Bottom Right Corner:** "EFTA00002526"
+*   **Right-Side Unit:** "22", "1" (Visible on the black unit's faceplate, likely port or slot indicators).
+*   **Top Left Device:** Faint text is present but illegible due to resolution; potentially "Honeywell" logo shape.
+
+## Notable Details / Clues
+*   **Cable Management Failure:** The setup indicates a lack of cable management infrastructure (trays, Velcro ties), resulting in wires dangling freely and creating fire hazards or airflow obstructions.
+*   **Mixed Cabling Standards:** The presence of older thick-sheathed orange cables alongside standard blue/white RJ45 Ethernet cables suggests a legacy network or a makeshift cabling solution.
+*   **Overcrowded Rack:** The equipment is stacked directly on top of one another, likely exceeding the designed weight capacity of the rack shelf without proper rails.
+*   **Power Density:** Multiple power cords converge at the bottom right, suggesting high power consumption in this small footprint area.
+

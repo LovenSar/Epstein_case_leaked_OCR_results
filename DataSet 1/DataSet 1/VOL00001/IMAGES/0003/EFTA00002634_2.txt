@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002634.pdf ts=2026-03-05T21:43:55 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly high-angle view of a network server rack situated in what appears to be an unfinished utility room or basement. The central focus is a black metal equipment rack populated with networking hardware and a chaotic array of cabling. At the top of the rack, a dense tangle of Ethernet cables descends—predominantly blue, yellow, white, and orange twisted-pair cables that hang loosely from cable ties attached to the rack rails. These cables snake downwards, connecting to the devices within the rack.
+
+Inside the upper portion of the rack sits a beige/metallic chassis, identifiable as a Panasonic Business Router/Modem. This unit features multiple line card slots, most of which are populated with interface cards featuring metallic connectors and blue/green protective covers on their ports. A white "RESET" sticker is adhered to the black panel housing the left side of this unit. Below the main chassis sits a second black device, appearing to be a TP-LINK router or modem, recognizable by its logo and row of Ethernet/LAN ports along the front edge.
+
+To the right of the server rack, mounted on a rough plywood wall with visible knots and grain, are two grey metal enclosure boxes hanging from the wall. A white power adapter hangs loosely near the top right corner, dangling near the cable tray. The left side of the image shows the side of the rack where mounting points (numbered 30 through 41) are visible vertically along the rail. In the background, a black wire cable ladder runs diagonally across the ceiling junction. Several loose white power cords dangle from the ceiling area near the wall-mounted boxes. The bottom of the image shows the top edge of a dark surface (likely a desk or cabinet), which is covered in a layer of dust.
+
+## Visible Text
+- "Panasonic" (on the gold line cards)
+- "RESET" (white sticker on the left panel)
+- "TP-LINK" (logo on the black unit below)
+- "TL-E850..." (partial model number visible on TP-LINK device)
+- "SafeStream Gigabit Multi-Mode VoIP Router" (text partially visible on TP-LINK unit)
+- "EFTA00002634" (watermark in bottom right corner)
+
+## Notable Details / Clues
+- **Cable Management:** The cabling appears disorganized, with many blue and yellow cables hanging freely without proper vertical management sleeves or trays, suggesting a DIY or temporary setup rather than a enterprise-grade installation.
+- **Hardware Mix:** The combination of Panasonic (often used in commercial ISP modems) and TP-LINK (consumer-grade networking) suggests a hybrid home office or server environment.
+- **Color Coding:** The use of yellow and orange cables alongside standard blue/white ones is interesting; yellow typically denotes FiOS connections, while orange/red often denotes DSL, though here they seem mixed indiscriminately.
+- **Mounting Points:** The rack rails are numbered (visible 30-41 on the left), indicating a standard 19-inch rack unit depth and spacing.
+- **Dust Accumulation:** The dusty surface at the bottom implies the equipment has not been cleaned recently or is in an environment with poor air filtration.
+- **Wall Construction:** The use of raw plywood for walls indicates this is likely a basement, garage, or temporary space converted for technology housing.
+- **Power Supply:** The dangling white object near the top right appears to be a power supply brick or similar peripheral device hanging upside down by its cord, indicating potential clutter or poor cable routing.
+

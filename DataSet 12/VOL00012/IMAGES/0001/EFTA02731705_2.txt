@@ -1,0 +1,41 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731705.pdf ts=2026-03-06T18:05:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a vertical screenshot of a mobile device running a camera or surveillance viewing application. The interface is split between a live video feed occupying the upper two-thirds and a dark-mode control panel covering the bottom third.
+
+**Scene Context:**
+*   **Environment:** The view is outdoors, depicting a marina or boatyard filled with docked vessels.
+*   **Foreground Object:** A white sailboat dominates the center of the frame. Its white hull extends diagonally from the bottom right towards the center. Vertical masts and rigging structures rise above the boat, appearing somewhat blurred due to zoom or focus.
+*   **Mid-ground Activity:** Inside the cockpit area of the white sailboat, a person is seated. They are wearing a high-visibility yellow safety vest over darker clothing. The individual appears to be facing slightly right.
+*   **Redaction:** A solid black square covers the face and upper torso of the person in the yellow vest, obscuring their identity.
+*   **Background Elements:** Behind the primary boat, other white hulls and tall masts are visible. Further back, there is greenery suggesting trees or bushes on a shore, and a hint of a structure with a reddish roof in the upper right corner.
+
+**Interface/UI Controls:**
+*   **Zoom Control:** Near the top of the black panel, a horizontal slider bar features a yellow circle handle positioned far to the right, indicating a high zoom level. To the left are a magnifying glass icon and a minus sign; to the right is a plus sign.
+*   **Top Icon Row (Left to Right):**
+    *   A camera flip/rotation icon inside a dark circle.
+    *   A "sun" icon with rays, likely for adjusting brightness or exposure, highlighted in yellow.
+    *   A half-moon shape icon, indicating exposure adjustment or night mode settings, also highlighted in yellow.
+    *   An icon showing two overlapping circles (likely filters or overlays).
+    *   A flashlight/torch icon.
+*   **Bottom Icon Row:**
+    *   On the far left, a gear icon inside a circle, representing settings.
+    *   In the center bottom is a large white circular shutter button with an inner dot.
+    *   On the far right, an icon resembling two stacked sheets or a folder (likely for saving or switching views).
+
+## Visible Text (verbatim)
+
+EFTA02731705
+
+## Notable Details / Clues
+
+*   **Censorship Marker:** The black square over the person's face is a deliberate redaction box, implying this image might be from an investigation or sensitive recording where PII needs protection.
+*   **Active Settings:** The yellow color on the magnifying glass icon, the slider handle, the sun icon, and the half-moon icon suggests that zoom and brightness/exposure tools are currently engaged or selected by the user.
+*   **Device ID:** The text "EFTA02731705" in the bottom right corner resembles a specific camera stream identifier, MAC address partial, or case file number associated with the recording device.
+*   **Blur Quality:** The video feed appears low-resolution or heavily pixelated, consistent with security camera feeds viewed through a zoom interface on a phone.
+*   **Android Interface:** The white horizontal bar at the very bottom of the screen indicates a gesture area common in modern Android operating systems (like Samsung One UI).
+*   **Lighting Conditions:** The scene is relatively flat in lighting, suggesting an overcast day or that the camera is shooting into partial shade near the marina.
+

@@ -1,0 +1,45 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0011/EFTA00038726.pdf ts=2026-03-19T23:15:25 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image is a screenshot of an iMessage conversation displayed on an iPhone in dark mode. The interface shows a messaging thread between the user (sending blue bubbles) and another party (sending gray bubbles). Several names and sections of text are redacted with black bars.
+
+-   **Status Bar:** At the very top, the status bar displays signal strength bars, the carrier "AT&T", indicators for "LTE" and a "VPN" connection, the time "15:39", and a battery level of "58%".
+-   **Navigation Header:** Below the status bar is a dark header area with a back arrow pointing left containing the number "3" in a blue circle. Centered below this is a blacked-out rectangular area where a profile picture or attachment would typically appear.
+-   **Message Chronology (Top Section):** The visible chat history appears somewhat disjointed chronologically.
+    -   There is a date header reading "Aug 11, 2020, 16:52".
+    -   Below this is a gray message bubble starting with lowercase text ("here."). It reads: "Call me when you can re: a witness you are trying to reach." The sender's name is redacted.
+    -   Below that section, a new date header appears reading "Wed, Aug 11, 12:35". This timestamp is chronologically earlier than the one above it.
+    -   A blue bubble from the user reads: "Can I call you later?"
+-   **Middle Exchanges:**
+    -   The recipient replies in gray: "I'll text you the info."
+    -   The user responds in blue: "Ok thanks".
+-   **Bottom Message Block:** A large, final visible message from the recipient appears at the bottom. It begins with a redacted name area. The text reads: "That's her email address. She knows you are going to email her and that you are good." It continues: "Ok another note, Several of [redacted] friends are turning on her because of this case. She wanted me to talk with you about some of".
+-   **Input Interface:** The bottom of the screen shows the input bar with a camera icon, an App Store button, and an "iMessage" search text field. To the right is a microphone button for voice messages.
+-   **Home Screen Dock:** Below the message input bar is the iOS dock containing six icons: Photos, App Store, Messages (with an emoji picker overlay visible), Health (red heart icon), Safari (pink/red compass icon), and Google Maps.
+-   **Watermark:** In the bottom right corner outside the app interface is a document ID: "EFTA00038726".
+
+## Visible Text (verbatim)
+
+**Status Bar:** AT&T LTE VPN 15:39 58%
+**Message Headers:** iMessage Aug 11, 2020, 16:52 / Wed, Aug 11, 12:35
+**Gray Bubble 1:** here. Call me when you can re: a witness you are trying to reach.
+**Blue Bubble 1:** Can I call you later?
+**Gray Bubble 2:** I’ll text you the info.
+**Blue Bubble 2:** Ok thanks
+**Gray Bubble 3:** That’s her email address. She knows you are going to email her and that you are good.
+**Gray Bubble 3 (continued):** Ok another note, Several of [REDACTED] friends are turning on her because of this case. She wanted me to talk with you about some of
+**Input Bar:** iMessage
+
+## Notable Details / Clues
+
+-   **Legal Context:** The conversation explicitly discusses "a witness" and a "case," indicating legal proceedings, likely defense-related given the phrase "turning on her."
+-   **Social Fallout:** The message mentions friends "turning on her because of this case," suggesting character attacks or defamation occurring within the recipient's social circle.
+-   **Redactions:** Multiple instances of black bars obscure names and specific text in the second gray bubble, indicating an effort to anonymize the sender or sensitive details.
+-   **Chronological Dissonance:** The screenshot displays a header date of 16:52 (4:52 PM) *above* a message dated 12:35 (Noon). This suggests the user may have scrolled up to retrieve chat history or is viewing a forwarded thread where dates appear as headers for blocks of time.
+-   **Carrier/Network:** The use of AT&T and LTE VPN suggests the phone is on a major US carrier, possibly using a specific proxy service or secure tunnel.
+-   **Dark Mode:** The interface uses the system-wide "Dark Mode," evident from the black background behind the bubbles.
+-   **Incomplete Thought:** The final text ends abruptly ("about some of"), suggesting the screenshot was taken mid-conversation before a reply or attachment could be seen.
+

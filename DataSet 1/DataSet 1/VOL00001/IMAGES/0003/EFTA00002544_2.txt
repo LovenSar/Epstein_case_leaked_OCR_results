@@ -1,0 +1,43 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002544.pdf ts=2026-03-05T21:01:15 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a detached hard drive enclosure tray, specifically designed for a server environment. The object is rectangular with rounded corners and features a silver metallic casing that shields the internal platters. On the left side (from the viewer's perspective), there is a black plastic handle or lever mechanism attached via a screw, used to slide the drive in and out of a server backplane. Extending from the bottom edge is a row of gold-plated pins, which are the data connection points for the motherboard or RAID controller. The surface of the metal casing shows signs of wear, with visible dust accumulation, particularly around the right edge and corners. A large white label dominates the top section, containing various barcodes and alphanumeric codes. To the right of the main label, there is a smaller white sticker containing the serial number. The entire object rests on a flat, grey, textured surface that appears to be a workbench or floor.
+
+## Visible Text (verbatim)
+**Primary Label:**
+- HP Logo (stylized 'hp' in oval).
+- "146GB 10K SAS"
+- "HP MODEL: DG146BB976"
+- "HP P/N: 438155-603" (partially obscured/hard to read precisely, likely ending in -603)
+- "CT: 2897926CWSDMT"
+- "GPN: 375863-010"
+- A large handwritten black marker symbol resembling an "L" or "7" above the GPN barcode.
+- "LOT NUMBER: #A-01-020-6*"
+- "PART NUMBER: #F6668-035*"
+- "VOC APPS: CSO LOT +5 1.0"
+- "+12 0.3"
+- "SERIAL NUMBER: *3NRB3-HR9*"
+- "MAN: S884CSA9E73CFC7C"
+- "FIRMWARE HPDC ST9146602SS"
+- "PRODUCT OF SINGAPORE"
+
+**Secondary Label (Right Side):**
+- "SN: 2SD56YVLFH"
+- "3U" (likely a lot or batch marker)
+- "3105048" (Fiscal Year / Week code)
+- "D09CJ7"
+
+## Notable Details / Clues
+- **Enterprise Grade:** The label identifies the drive as a "10K SAS" drive. 10,000 RPM spindle speed and Serial Attached SCSI interface indicate this is an enterprise-grade hard drive, optimized for high-performance servers rather than consumer desktops.
+- **Capacity:** It is a 146GB drive, which suggests the hardware is quite older (likely early 2000s to mid-2000s technology), as this capacity was standard enterprise size around 2005-2007.
+- **Model Identification:** The model number "DG146BB976" corresponds to an HP SAS drive, likely installed in a ProLiant server (such as a DL380 or ML series).
+- **Connector Pins:** The row of gold fingers visible at the bottom indicates this is a 3.5-inch form factor drive plugged directly into a backplane rather than a slimline 2.5-inch drive.
+- **Handling Marking:** The large handwritten black marker on the label (resembling an "L") suggests inventory tracking or sorting in a warehouse or repair shop environment.
+- **Firmware/Revision:** The code "ST9146602SS" likely refers to the internal firmware revision or specific PCB variant for this drive model.
+- **Manufacturing Origin:** The text "PRODUCT OF SINGAPORE" indicates where the drive was assembled or finalized before shipping.
+- **Voltage Specs:** The text "+12 0.3" refers to the voltage input specifications (standard +12V logic, with a specific tolerance or rail spec of 0.3V).
+- **Condition:** The metal casing is scratched and dusty, suggesting it has been removed from service and stored for some time.
+- **Safety/Certifications:** Various regulatory symbols are visible near the bottom right (FCC, CE, TUV), certifying compliance with international electrical safety standards.
+

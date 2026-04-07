@@ -1,0 +1,106 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015972.pdf ts=2026-03-12T20:09:26 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed or screenshot view of an email thread involving legal personnel, heavily redacted for privacy. The document is white with black text and black rectangular bars obscuring personal names and email addresses, though a specific agency tag "(USANYS)" remains visible next to many redacted blocks.
+
+The layout consists of four distinct message blocks arranged vertically:
+1.  **Top Message:** A reply ("RE:") regarding discovery access disparities. It contains a paragraph of text discussing the volume of discovery material for "Maxwell" versus "Rivera." The date stamp reads "Mon, 21 Dec 2020".
+2.  **Second Message (Middle-Top):** Sent at 4:47 PM on December 21, 2020. It continues the discussion on discovery volume, mentioning the seizure of "60 some devices" and an "entire FBI file."
+3.  **Third Message (Middle-Bottom):** Sent at 4:42 PM on December 21, 2020. This message asks for a status update on a "draft declaration" before a submission deadline of "12/31". It references differences between "MCC and MDC" and housing situations.
+4.  **Bottom Message (Header Only):** A fourth email header is visible at the very bottom, sent at 4:35 PM on December 21, 2020. Its body text is not fully shown or is part of a footer area.
+
+The subject line remains consistent across all visible headers: "RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera". At the bottom right corner, a document control number "EFTA00015972" is visible in small grey text.
+
+## Visible Text (verbatim)
+**Subject:** RE: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera
+**Date:** Mon, 21 Dec 2020 21:55:26 +0000
+**Body:** Yes, I highlighted the huge volume of discovery for Maxwell when I spoke with [Redacted] this morning. That volume was a significant driver in our team’s decision to request that she receive so much time to review her discovery. Based on my read of the transcript from this morning’s Rivera conference, it sounds like Rivera is not even using all the time he has now. By contrast, my understanding is that Maxwell is using up the full time she has been given.
+
+**Sent:** Monday, December 21, 2020 4:47 PM
+**Body:** I’d also look into potential differences in the volume of discovery. No idea what your case entails, [Redacted], but in Maxwell we have produced truly enormous volumes of material (we seized 60 some devices during the investigation, for example, in addition to an entire FBI file from the prior Florida investigation...) that may explain some of this.
+
+**Sent:** Monday, December 21, 2020 4:42 PM
+**Body:** Thanks, [Redacted]. Can you keep me posted on what we think will be the substance of the draft declaration when you know (that is, before we are submitting anything on 12/31)? And how much of this is attributable to differences between MCC and MDC, as well as specific differences in their housing situations?
+
+**Sent:** Monday, December 21, 2020 4:35 PM
+*(Body text not visible)*
+
+**Footer:** EFTA00015972
+
+## Notable Details / Clues
+-   **Redaction Pattern:** Personal names are blacked out with solid black bars, but the text "(USANYS)" appears frequently next to them, indicating the sender/receiver is affiliated with the United States Attorney's Northern District of New York (or similar).
+-   **Case Context:** The emails reference "Ghislaine Maxwell" and "Justin Rivera," individuals central to the high-profile Jeffrey Epstein sex trafficking case investigations.
+-   **Subject Matter:** The thread focuses heavily on procedural fairness regarding legal discovery—specifically, why one defendant (Maxwell) was given massive amounts of discovery material while another (Rivera) received less, despite similar timelines.
+-   **Agency Terminology:** The text mentions "MCC and MDC." In this legal context, these likely refer to Metropolitan Correctional Center and Metropolitan Detention Center, where defendants in the NYC area are held.
+-   **Timeline:** All emails occurred on December 21, 2020, within a very short window (between 4:35 PM and roughly 9:55 PM UTC). This suggests a rapid back-and-forth discussion, likely regarding a court filing or hearing preparation ("draft declaration") with a hard deadline approaching (Dec 31).
+-   **Investigation Scale:** The email mentions seizing "60 some devices" and an "entire FBI file from the prior Florida investigation," highlighting the scale of data production involved in the prosecution's case.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>; [REDACTED]
+[REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>; [REDACTED]
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED] (USANYS)
+<[REDACTED]>
+Cc: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS)
+<[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS)
+<[REDACTED]>; [REDACTED] (USANYS) 1 <[REDACTED]>
+Subject: Disparities in Counsel and Discovery Access for Ghislaine Maxwell and Justin Rivera
+
+All:
+
+I wanted to bring to your attention a recent issue that’s surfaced in United States v. Rivera et al., a sex trafficking case pending before Judge Engelmayer. As I’ll describe in more detail below, Judge Engelmayer has asked us to submit a declaration from the BOP explaining why the discovery and counsel access accommodations provided to Ghislaine Maxwell (detained at the MDC outside the general population) cannot be extended to Justin Rivera (detained at the MCC in the general population).
+
+Justin Rivera was charged in February 2019 with sex trafficking conspiracy. He’s been detained at the MCC since April 2019 on consent (he’s also serving a state sentence). His trial, which was originally scheduled for April 2019, is expected to start on February 16, 2020. In July 2020, he had new counsel appointed, citing an irreconcilable breakdown with his former counsel.
+
+Since this fall, Judge Engelmayer has become increasingly frustrated with the MCC’s treatment of Rivera. In particular, he’s cited their failure to provide Rivera with adequate accommodations to review discovery and meet with his lawyers, who refuse to visit Rivera at the MCC for personal health concerns. We have two court orders in place to address these issues: (1) a laptop order, which requires the MCC to provide Rivera access to a laptop for three hours per day; and (2) a videoconference order, which requires the MCC to make available four hours of videoconferencing each week, in addition to any telephone or videoconference calls obtained through the Federal Defenders.
+
+At the moment, there’s not a concern, at least from Judge Engelmayer, that the amount of time Rivera has for videoconferences and electronic discovery review is insufficient for trial preparation, although defense counsel has stated that they may request more time in the future. However, in a letter last night and during a court conference this morning (transcript attached), defense counsel cited the accommodations that the MDC has provided to Maxwell, describing them as “strikingly different and far superior” to those afforded to Rivera. Defense counsel further suggested that Rivera was being treated differently on account of his race, gender and class. Judge Engelmayer stated that the disparity in access “jumped off the page” and that the optics were “terrible,” and asked us to explain the rationale for the differing treatment. After conferring with [REDACTED] and [REDACTED] before our conference, we explained our understanding that the disparity comes down to the fact that Maxwell and Rivera have very different housing situations, with Maxwell’s situation being more amenable to greater access to electronic discovery review and legal visits.
+
+Judge Engelmayer asked us to submit a declaration, from an appropriate person at the BOP, explaining in more detail why the accommodations provided to Maxwell cannot be extended to Rivera.
+Based on the recent bail opposition in the Maxwell case, I believe the differences in counsel/discovery access are as follows:
+
+Accommodation | Maxwell | Rivera
+---|---|---
+
+EFTA00015973
+
+## Structured Fields
+
+*   **Case ID:** United States v. Rivera et al.
+*   **Judge:** Judge Engelmayer
+*   **Names:** Ghislaine Maxwell, Justin Rivera
+*   **Locations/Institutions:** BOP (Bureau of Prisons), MDC (Maximum Security Facility - implied by context of Maxwell's location), MCC (Metropolitan Correctional Center)
+*   **Organizations:** Federal Defenders, United States
+*   **Date References:** February 2019, April 2019, July 2020, February 16, 2020
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+| Review of electronic discovery (NB: each defendant has laptop access) | 13 hours per day/7 days per week (91 hours total) | 3 hours per day/7 days per week (21 hours total) |
+| :--- | :--- | :--- |
+| Counsel visits (by video) | 3 hours per day/5 days per week (15 hours total) | Four hours per week (plus an additional two hours scheduled through the Federal Defenders) (6 hours total) |
+| Weekend legal calls | As needed | Not available |
+
+The declaration is due by December 31. Because Judge Engelmayer’s request implicates at least two criminal cases, and potentially the ongoing civil litigation with the MCC, we wanted to make sure that you were all aware of this issue. We are also happy to set up a call to discuss this further. In the meantime, we are working with [REDACTED] to identify the appropriate declarant and draft an explanation for the Court.
+
+Best,
+[REDACTED]
+[REDACTED] [REDACTED]
+Assistant United States Attorney
+United States Attorney’s Office for the Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+Tel: [REDACTED]
+[REDACTED]
+
+EFTA00015974
+
+## Structured Fields
+*   **Date:** December 31 (Declaration due date)
+*   **Location:** New York, NY 10007; Southern District of New York
+*   **Names:** Judge Engelmayer
+*   **Organizations:** United States Attorney’s Office for the Southern District of New York; Federal Defenders; MCC
+*   **Doc ID:** EFTA00015974
+*   **Case Reference (implicit):** "implicates at least two criminal cases"
+

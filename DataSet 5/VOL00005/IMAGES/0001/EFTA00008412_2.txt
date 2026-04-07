@@ -1,0 +1,37 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008412.pdf ts=2026-03-09T06:41:26 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, overhead view of digital forensic evidence being prepared for storage or transport. The scene is set on a speckled granite or laminate countertop featuring a mix of grey, brown, and white flecks. Dominating the upper portion of the frame is a large, flat-brown manila folder or evidence envelope, partially open and folded over at the top. Nestled inside the bottom fold of this folder is a clear, heavy-duty plastic zip-lock evidence bag. The bag features a red zipper pull area running horizontally across the middle. Inside the bag, visible through the translucent plastic, is a rectangular hard drive enclosure wrapped in silver anti-static foil packaging. A bright yellow printed label is adhered to the front of the plastic bag. Below the evidence bag, a white sheet of paper is partially visible, tucked beneath the folder flap. The lighting casts soft shadows inside the curve of the folder and around the plastic bag.
+
+## Visible Text (verbatim)
+**On the Red Zipper Tape (partially visible):**
+- "DENCE"
+- "EVIDENCE"
+- "EVI..."
+- Handwritten on tape: "PC"
+
+**On the Yellow Label:**
+- "9QA-NY-3151227 Request ID 112048 1B34"
+- "08/12/2019 NYC027713 PC Derivative Copy"
+- "One (1) Seagate Barracuda 1000 GB hard drive ST1000DM003, S/N S1D5GK3P containing the Clone Copy of 1B16 hard drive /Seagate Constellation ES 500GB HDD ST500NM0011, S/N Z1M1PZ07), collected via Tableau TX-1 S/N 000ECC58017194"
+- Text below yellow label (faint): "...destination disk..." and partial barcode numbers.
+
+**On the Folder Flap (upside down relative to viewer):**
+- Star logo symbol
+- "SMEAD"
+- "No. 156501"
+- "UPC 71907"
+
+## Notable Details / Clues
+- **Forensic Context:** The presence of the "EVIDENCE" bag, specific serial numbers (S/N), and a Request ID indicates this is part of a legal or criminal investigation chain of custody.
+- **Data Integrity:** The label specifies this is a "PC Derivative Copy," meaning it is an image clone of an original drive used for analysis, ensuring the original evidence remains untouched.
+- **Hardware Specifics:** The evidence contains two specific drives: a Seagate Barracuda 1000GB (ST1000DM003) and a Seagate Constellation ES 500GB HDD (ST500NM0011).
+- **Collection Method:** The drive was collected using a "Tableau TX-1," which is a specific forensic acquisition tool or imager.
+- **Case Identification:** The Request ID "112048" and Case/Project code "9QA-NY-3151227" allow for cross-referencing in a larger database.
+- **Date Stamp:** The date "08/12/2019" establishes the timeline of when this specific drive copy was generated or seized.
+- **Handwritten Annotation:** The handwritten "PC" on the tape likely serves as a quick shorthand for "Personal Computer" or a case file reference.
+- **Faint Tracking Label:** Beneath the yellow label, there is fainter printed text that appears to be a barcode and tracking number (ending in "...1CH162"), suggesting double-layered tracking systems.
+- **Anti-Static Wrapping:** The silver foil visible inside the bag confirms standard anti-static protocols were used to prevent damage to the electronic components during transport.
+

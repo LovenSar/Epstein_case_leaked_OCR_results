@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002543.pdf ts=2026-03-05T21:00:30 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the interior of a server hard drive carrier or backplane assembly, likely removed from a rack-mounted chassis, lying flat on a grey surface. The unit is oriented upside down relative to standard operation, with the drive bays facing up. Six 3.5-inch drive bays are arranged in two columns and three rows on the left side of the metal chassis. Five of these bays contain hard drive trays secured by black plastic locking handles (carriages). The top-right bay contains a drive labeled "1", the bottom-right bay contains a drive labeled "3", the top-left bay contains a drive labeled "4", the middle-left bay contains a drive labeled "5", and the bottom-left bay contains a drive labeled "6". The middle-right bay appears to contain a silver backplate or an empty tray mechanism rather than a hard drive PCB facing up. A standard black power cord with a two-prong plug hangs loosely from the bottom edge of the chassis. On the right side, several flat black cables (likely SAS or SATA) are routed out from the rear connection points. A white asset tag with a barcode hangs from the top-right corner of the rear edge. The right portion of the chassis features two sections of perforated ventilation holes.
+
+## Visible Text (verbatim)
+**Handwritten Note (on yellow post-it paper):**
+*   "Zone B"
+*   "Building A"
+*   "Room E"
+*   "Carrie Crot"
+*   "Zengduan Smith"
+*   "G Bay w/ 140 GB drive"
+*   Grid of numbers:
+    *   Top row box: "1", "3"
+    *   Middle row box: "2", "4"
+    *   Bottom row box: "5", "6"
+*   Additional text: "Sunny in bed storage?" (Illegible cursive below names)
+**Hard Drive Labels:**
+*   "HP" logo visible on drive labels.
+*   Various serial numbers and barcodes (e.g., CE markings, recycling symbols).
+
+## Notable Details / Clues
+- **Drive Scattering:** The physical placement of the drives does not perfectly match the order of the handwritten grid; for instance, Drive 4 is top-left while the grid places "4" in the middle right column.
+- **Empty/Silver Bay:** The middle-right bay (Row 2, Column 2) appears distinct from the others as it shows a shiny metal backplate, suggesting Drive 2 might be missing or that bay is currently empty/blanked out, yet the grid lists "2".
+- **Asset Tag:** A white RFID/barcode asset tag is attached to the rear cable cluster on the right side.
+- **Orientation:** The power cord plug is dangling naturally downwards, indicating gravity and loose mounting.
+- **Wear:** The metal chassis shows signs of wear, with scuffs near the drive handles and some debris or residue near the bottom left hinge area.
+- **Drive Branding:** Most visible drives bear the HP (Hewlett Packard) logo on their labels.
+- **Grid Logic:** The handwritten grid organizes the drives into pairs or logical groups (1/3, 2/4, 5/6), suggesting a RAID configuration or mapping exercise is being documented.
+

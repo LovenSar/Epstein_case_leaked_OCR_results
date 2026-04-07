@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00027859.pdf ts=2026-03-17T18:01:44 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Based on the image provided, here are the structured fields extracted from the emails:
+
+**Header 1 (Outer Email):**
+*   **To:** `[REDACTED]`
+*   **Date:** Wed Aug 14 2019 03:03:15 EDT (implied from context or standard header, but text is redacted in `From`, Date fields are usually present. Wait, the `From` and `Date` are not visible for the outer email, only `To` and `Subject`).
+*   **Subject:** Fwd: Reuters: Prison Guards Skipped Mandatory Checks Before Epstein Death
+*   **Content Snippet:** The text below is "Begin forwarded message:".
+
+**Header 2 (Forwarded Message / Inner Email):**
+*   **From:** `KAYLEE DAVIS`
+*   **Date:** Sun, 11 Aug 2019 02:32:09 +0000 (which is August 10, 2019 at 10:30:56 PM EDT)
+*   **To:**
+    *   `"[REDACTED]" (USANYS)" <[REDACTED]` -> Wait, looking at the To field again. It is wrapped.
+    *   Line 1: `[REDACTED]`
+    *   Date Line: `<[REDACTED], [REDACTED]>`, "[REDACTED]" (USANYS)" <[REDACTED]>` -> No, looking at the To field of the inner email.
+    *   The text is wrapped. It lists multiple recipients.
+    *   Recipient 1: `[REDACTED]` (USANYS) `<[REDACTED]>`
+    *   Recipient 2: `[REDACTED]` (USANYS) `<[REDACTED]>`
+    *   The text is redacted. I will just transcribe the visible text structure.
+*   **Subject:** Reuters: Prison Guards Skipped Mandatory Checks Before Epstein Death
+
+**Content of Inner Email:**
+*   **Body Text:** A URL is present: `https://www.breitbart.com/politics/2019/08/10/report-prison-guards-skipped-mandatory-checks-before-jeffrey-epsteins-death/`
+*   **Footer:** `EFTA00027859`
+

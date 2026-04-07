@@ -1,0 +1,48 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003041.pdf ts=2026-03-06T00:32:31 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-resolution shot of a paper document titled "Emergency Contact Form" from a company identified as "LSJE, LLC". The document is oriented sideways in the photograph, with the header text running vertically down the right side of the frame (relative to the viewer) and the form fields extending towards the left. The form appears to be filled out by hand in pencil or pen, with various sections redacted using thick black marker or digital blurring for privacy.
+
+The top section (header area) contains the company name "LSJE, LLC" in large bold font, followed by an address: "6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348". Below the address is a phone number field that has been blacked out, and an email address: "thesaintjames.group@gmail.com". The title of the form, "Emergency Contact Form," is printed below the contact info.
+
+The form fields are arranged in columns. Key fields include "Today's Date" (filled as 4-2-20-19), "Employee Name" (filled as "Drews Allgiste"), and various address fields. Notably, a long handwritten entry reading "St Thomas - VI 00802" is written vertically in the address section, seemingly occupying the space for physical or mailing addresses. Several boxes are completely blacked out, obscuring information such as cell phone numbers, email addresses (partially), and parts of the mailing address.
+
+The bottom section (bottom left of the rotated image) contains medical and emergency contact information. There is a field for "Current Medications" which is covered by a long black bar with a checkbox for "Unknown" at the bottom. A section for "In case of emergency, please contact:" lists a name "Beverly" and relationship "Sister", though the phone number is redacted. Another section asks for a Doctor's Name and Phone, which are left blank. The footer text reads "This information is for your safety and the safety of others."
+
+## Visible Text (verbatim)
+*   **Header:** "LSJE, LLC"
+*   **Address:** "6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348"
+*   **Phone:** "[Redacted]"
+*   **E-mail:** "thesaintjames.group@gmail.com"
+*   **Form Title:** "Emergency Contact Form"
+*   **Today's Date:** "4-2-20-19"
+*   **Start Date:** "4-2-20-19"
+*   **Employee Name:** "Drews Allgiste" (handwritten)
+*   **Date of Birth:** "[Redacted]"
+*   **Physical Address:** "(Blank/Partially Obscured)"
+*   **Vertical Text in Address Field:** "St Thomas - VI 00802" (Handwritten vertically)
+*   **Mailing Address:** "[Redacted]"
+*   **Cell Phone:** "[Redacted]"
+*   **E-mail:** "(Blank)"
+*   **Title/Position:** "Sailor and..." (Handwriting is illegible/partially obscured, looks like "Sailor and 5th...") -> *Correction: Looking closely at crop 2, the text next to Title/Position looks like "Sailor and Sth..." but it is very messy. I will describe it as illegible handwriting.*
+*   **Doctor's Name:** "(Blank)"
+*   **Doctor's Phone:** "(Blank)"
+*   **Current Medications:** "[Redacted]"
+*   **Unknown Checkbox:** unchecked
+*   **Emergency Contact Name:** "Beverly"
+*   **Emergency Contact Relationship:** "Sister"
+*   **Emergency Contact Phone:** "[Redacted]"
+*   **Footer:** "This information is for your safety and the safety of others."
+*   **Bottom Right Corner ID:** "EFTA00003041"
+
+## Notable Details / Clues
+*   **Date:** The form is dated April 2, 2019 ("4-2-20-19").
+*   **Location:** The company is located in St. Thomas, US Virgin Islands (indicated by the "VI" area code and address).
+*   **Redactions:** Significant privacy protection has been applied; phone numbers for the employee and emergency contact are hidden, as is the date of birth.
+*   **Handwriting Style:** The handwriting is cursive and somewhat difficult to decipher in some fields (like Title/Position), while others like "Drews Allgiste" and "Beverly" are clearer.
+*   **Address Discrepancy:** The vertical text "St Thomas - VI 00802" in the address section matches the zip code of the company headquarters, suggesting the employee might be living there or it was an error/copy-paste from the header.
+*   **Job Title/Hint:** The handwriting in the Title/Position field is extremely difficult to read but appears to start with "Sailor...", hinting at a maritime or naval context, though it's illegible.
+*   **Document Type:** It is specifically an "Emergency Contact Form," likely required for employment or insurance purposes within that organization.
+

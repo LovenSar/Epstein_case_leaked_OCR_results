@@ -1,0 +1,46 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00013494.pdf ts=2026-03-11T16:25:51 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```text
+From: "[REDACTED]" (USAFLS) </O=USA/OU=FLS/CN=RECIPIENTS/CN=[REDACTED]>
+To: "Acosta, Alex (USAFLS)" <[REDACTED]>
+Subject: FW: Epstein
+Date: Thu, 06 Sep 2007 22:01:10 +0000
+Importance: Normal
+Attachments: Conf_Plea_Negotiations_final.wpd
+
+fyi
+
+From: [REDACTED]. (USAFLS)
+Sent: Thursday, September 06, 2007 5:47 PM
+To: [REDACTED] (USAFLS)
+Subject: RE: Epstein
+
+Hi [REDACTED] – Funny you should ask. I have been wondering the same thing. Here is the term sheet and guidelines calculation that we provided at the last meeting. You and [REDACTED] and I had also discussed a possible federal plea to an Information charging a 371 conspiracy, with a Rule 11 plea with a two-year cap, but I think [REDACTED] must have asked Alex about it and it was nixed. Just to be prepared for tomorrow, I was just starting to draft a Rule 11 plea agreement in case Alex changes his mind and a formal non-prosecution agreement containing the state plea terms. As soon as those are ready, I will e-mail them to you.
+
+There are three concerns that I hope we can address tomorrow. First, that there is an absolute drop-dead date for accepting or rejecting because it is strategically important that we indict before the end of September, which means presenting the indictment on September 25th. Second, the agents and I have not reached out to the victims to get their approval, which as [REDACTED] politely reminded me, is required under the law. And third, I do not want to make any promises about allowing Epstein to self-surrender because I still believe that we have a good chance of getting him detained.
+
+On another note, Junior got a call today from the Palm Beach Police Chief because he got information that there will be an article released tomorrow about our meeting and that Epstein is going to plead to a state charge and the Chief wanted to know if the victims had been consulted about the deal. There has been some coverage in the New York press about Ken Starr, but I haven’t seen anything local yet.
+
+[REDACTED]
+Assistant U.S. Attorney
+[REDACTED]
+
+From: [REDACTED] (USAFLS)
+Sent: Thursday, September 06, 2007 5:35 PM
+To: [REDACTED]. (USAFLS)
+Subject: Epstein
+
+Please refresh my recollection. What is the “deal” on the table?
+```
+
+## Structured Fields
+- **Date:** Thu, 06 Sep 2007 (Main email), Thursday, September 06, 2007 5:47 PM & 5:35 PM (Embedded emails)
+- **Subject:** FW: Epstein / RE: Epstein / Epstein
+- **Organization:** USAFLS (U.S. Attorney for the Southern District of Florida implied by context/location references), Palm Beach Police Department
+- **Location:** New York, Palm Beach
+- **Names:** Acosta, Alex; Junior; Ken Starr
+- **Case/Doc ID:** EFTA00013494
+- **Attachment:** Conf_Plea_Negotiations_final.wpd
+

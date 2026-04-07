@@ -1,0 +1,374 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00009767.pdf ts=2026-03-09T20:26:51 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+MCC NEW YORK                  MCC NEW YORK
+SPECIAL HOUSING UNIT          SPECIAL HOUSING UNIT
+
+MCC NEW YORK
+SPECIAL HOUSING UNIT
+30 MINUTE CHECK SHEET L-TIER
+DATE: 08/09/2019
+
+| TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12:00-12:30 AM | 1201 | 1202 | [REDACTED] | 6:00-8:30 AM | 802 | 803 | [REDACTED] | 4:00-4:30 PM | 401 | 402 | [REDACTED] |
+| 12:30-1:00 AM | 1233 | 1234 | [REDACTED] | 6:30-9:00 AM | 836 | 837 | [REDACTED] | 4:30-5:00 PM | 433 | 437 | [REDACTED] |
+| 1:00-1:30 AM | 103 | 104 | [REDACTED] | 9:00-9:30 AM | 908 | 905 | [REDACTED] | 5:00-5:30 PM | 503 | 504 | [REDACTED] |
+| 1:30-2:00 AM | 131 | 132 | [REDACTED] | 9:30-10:00 AM | 940 | 941 | [REDACTED] | 5:30-6:00 PM | 531 | 532 | [REDACTED] |
+| 2:00-2:30 AM | 201 | 202 | [REDACTED] | 10:00-10:30 AM | 1001 | 1012 | [REDACTED] | 6:00-6:30 PM | 601 | 602 | [REDACTED] |
+| 2:30-3:00 AM | 235 | 236 | [REDACTED] | 10:30-11:00 AM | 1046 | 1049 | [REDACTED] | 6:30-7:00 PM | 635 | 636 | [REDACTED] |
+| 3:00-3:30 AM | 301 | 302 | [REDACTED] | 11:00-11:30 AM | 1108 | 1109 | [REDACTED] | 7:00-7:30 PM | 701 | 704 | [REDACTED] |
+| 3:30-4:00 AM | 333 | 334 | [REDACTED] | 11:30-12:00 PM | 1138 | 1139 | [REDACTED] | 7:30-8:00 PM | 733 | 734 | [REDACTED] |
+| 4:00-4:30 AM | 406 | 407 | [REDACTED] | 12:00-12:30 PM | 1213 | 1214 | [REDACTED] | 8:00-8:30 PM | 806 | 808 | [REDACTED] |
+| 4:30-5:00 AM | 430 | 431 | [REDACTED] | 12:30-1:00 PM | 1238 | 1239 | [REDACTED] | 8:30-9:00 PM | 830 | 82 | [REDACTED] |
+| 5:00-5:30 AM | 500 | 501 | [REDACTED] | 1:00-1:30 PM | 108 | 109 | [REDACTED] | 9:00-9:30 PM | 900 | 901 | [REDACTED] |
+| 5:30-6:00 AM | 533 | 534 | [REDACTED] | 1:30-2:00 PM | 140 | 141 | [REDACTED] | 9:30-10:00 PM | 955 | 934 | [REDACTED] |
+| 6:00-6:30 AM | 602 | 603 | [REDACTED] | 2:00-2:30 PM | 206 | 207 | [REDACTED] | 10:00-10:30 PM | 1002 | 100 | [REDACTED] |
+| 6:30-7:00 AM | 632 | 633 | [REDACTED] | 2:30-3:00 PM | | | | 10:30-11:00 PM | 1032 | 103 | [REDACTED] |
+| 7:00-7:30 AM | 702 | 703 | [REDACTED] | 3:00-3:30 PM | | | | 11:00-11:30 PM | 1102 | 1103 | [REDACTED] |
+| 7:30-8:00 AM | 731 | 732 | [REDACTED] | 3:30-4:00 PM | | | | 11:30-12:00 PM | 1131 | 1132 | [REDACTED] |
+
+MORNING WATCH
+OPERATIONS
+LIEUTENANT   DAY WATCH
+OPERATIONS
+LIEUTENANT   EVENING WATCH
+OPERATIONS
+LIEUTENANT
+
+A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. – 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am – 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.
+
+REVIEWED BY MORNING WATCH LIEUTENANT _________________
+CAPTAIN _________________
+
+EFTA00009767
+
+## Structured Fields
+*   **Date:** 08/09/2019
+*   **Location/Organization:** MCC NEW YORK SPECIAL HOUSING UNIT
+*   **Document Type:** 30 MINUTE CHECK SHEET L-TIER
+*   **Document ID:** EFTA00009767
+*   **Roles Mentioned:** MORNING WATCH OPERATIONS LIEUTENANT, DAY WATCH OPERATIONS LIEUTENANT, EVENING WATCH OPERATIONS LIEUTENANT, CAPTAIN
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+MCC NEW YORK
+SPECIAL HOUSING UNIT
+30 MINUTE CHECK SHEET
+M-TIER
+
+DATE: 08/09/2019
+
+| TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12:00-12:30 AM | `(12)03` | `(12)04` | [REDACTED] | 8:00-8:30 AM | `(8)11` | `(8)12` | [REDACTED] | 4:00-4:30 PM | `4(08)` | `4(04)` | [REDACTED] |
+| 12:30-1:00 AM | `(12)35` | `(12)36` | [REDACTED] | 8:30-9:00 AM | `(8)38` | `(8)39` | [REDACTED] | 4:30-5:00 PM | `4(35)` | `4(90)` | [REDACTED] |
+| 1:00-1:30 AM | `(1)05` | `(1)06` | [REDACTED] | 9:00-9:30 AM | `9(16)` | `9(45)` | [REDACTED] | 5:00-5:30 PM | `5(05)` | `5(04)` | [REDACTED] |
+| 1:30-2:00 AM | `(1)33` | `(1)34` | [REDACTED] | 9:30-10:00 AM | `9(46)` | `9(45)` | [REDACTED] | 5:30-6:00 PM | `5(33)` | `5(34)` | [REDACTED] |
+| 2:00-2:30 AM | `(2)03` | `(2)04` | [REDACTED] | 10:00-10:30 AM | `10(10)` | `10(11)` | [REDACTED] | 6:00-6:30 PM | `6(08)` | `6(04)` | [REDACTED] |
+| 2:30-3:00 AM | `(2)37` | `(2)38` | [REDACTED] | 10:30-11:00 AM | `10(37)` | `10(38)` | [REDACTED] | 6:30-7:00 PM | `6(37)` | `6(38)` | [REDACTED] |
+| 3:00-3:30 AM | `(3)03` | `(3)04` | [REDACTED] | 11:00-11:30 AM | `11(09)` | `11(09)` | [REDACTED] | 7:00-7:30 PM | `7(03)` | `7(04)` | [REDACTED] |
+| 3:30-4:00 AM | `(3)35` | `(3)36` | [REDACTED] | 11:30-12:00 AM | `11(50)` | `11(51)` | [REDACTED] | 7:30-8:00 PM | `7(35)` | `7(36)` | [REDACTED] |
+| 4:00-4:30 AM | `(4)08` | `(4)09` | [REDACTED] | 12:00-12:30 PM | `12(10)` | `12(11)` | [REDACTED] | 8:00-8:30 PM | `8(08)` | `8(09)` | [REDACTED] |
+| 4:30-5:00 AM | `(4)32` | `(4)33` | [REDACTED] | 12:30-1:00 PM | `12(38)` | `12(39)` | [REDACTED] | 8:30-9:00 PM | `8(02)` | `8(33)` | [REDACTED] |
+| 5:00-5:30 AM | `(5)02` | `(5)03` | [REDACTED] | 1:00-1:30 PM | `1(08)` | `1(09)` | [REDACTED] | 9:00-9:30 PM | `9(02)` | `9(03)` | [REDACTED] |
+| 5:30-6:00 AM | `(5)35` | `(5)36` | [REDACTED] | 1:30-2:00 PM | `1(37)` | `1(38)` | [REDACTED] | 9:30-10:00 PM | `9(35)` | `9(34)` | [REDACTED] |
+| 6:00-6:30 AM | `(6)04` | `(6)05` | [REDACTED] | 2:00-2:30 PM | `2(1)` | `2(12)` | [REDACTED] | 10:00-10:30 PM | `10(04)` | `10(65)` | [REDACTED] |
+| 6:30-7:00 AM | `(6)34` | `(6)35` | [REDACTED] | 2:30-3:00 PM | | | [REDACTED] | 10:30-11:00 PM | `10(34)` | `10(65)` | [REDACTED] |
+| 7:00-7:30 AM | `(7)04` | `(7)05` | [REDACTED] | 3:00-3:30 PM | | | [REDACTED] | 11:00-11:30 PM | `11(04)` | `11(05)` | [REDACTED] |
+| 7:30-8:00 AM | `(7)33` | `(7)34` | [REDACTED] | 3:30-4:00 PM | | | [REDACTED] | 11:30-12:00 PM | `11(33)` | `11(32)` | [REDACTED] |
+
+| MORNING WATCH OPERATIONS LIEUTENANT | DAY WATCH OPERATIONS LIEUTENANT | EVENING WATCH OPERATIONS LIEUTENANT |
+| :--- | :--- | :--- |
+| [REDACTED] | [REDACTED] | [REDACTED] |
+
+A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. – 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am – 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.
+
+REVIEWED BY MORNING WATCH LIEUTENANT ____________________
+CAPTAIN _______________________________________________
+
+EFTA00009768
+
+## Structured Fields
+- **Date**: 08/09/2019
+- **Location/Unit**: MCC NEW YORK SPECIAL HOUSING UNIT
+- **Document Type**: 30 MINUTE CHECK SHEET (M-TIER)
+- **Doc ID**: EFTA00009768
+- **Organization**: MCC New York
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+MCC NEW YORK
+SPECIAL HOUSING UNIT
+30 MINUTE CHECK SHEET
+ZA TIER-J
+
+DATE: 08/09/2019
+
+| TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12:00-12:30 AM | 12c5 | 12c6 | [REDACTED] | 8:00-8:30 AM | 806 | 807 | [REDACTED] | 4:00-4:30 PM | 405 | 406 | [REDACTED] |
+| 12:30- 1:00 AM | 1237 | 1238 | [REDACTED] | 8:30- 9:00 AM | 839 | 840 | [REDACTED] | 4:30-5:00 PM | 437 | 438 | [REDACTED] |
+| 1:00-1:30 AM | 107 | 108 | [REDACTED] | 9:00-9:30 AM | 911 | 912 | [REDACTED] | 5:00 -5:30 PM | 5c4 | 505 | [REDACTED] |
+| 1:30-2:00 AM | 135 | 136 | [REDACTED] | 9:30-10:00 AM | 941 | 942 | [REDACTED] | 5:30-6:00 PM | 535 | 536 | [REDACTED] |
+| 2:00-2:30 AM | 2c5 | 2c6 | [REDACTED] | 10:00-10:30 AM | 1011 | 1012 | [REDACTED] | 6:00-6:30 PM | 605 | 606 | [REDACTED] |
+| 2:30-3:00 AM | 239 | 240 | [REDACTED] | 10:30-11:00 AM | 1037 | 1038 | [REDACTED] | 6:30-7:00 PM | 639 | 640 | [REDACTED] |
+| 3:00-3:30 AM | 3c5 | 3c4 | [REDACTED] | 11:00-11:30 AM | 1106 | 1107 | [REDACTED] | 7:00-7:30 PM | 705 | 706 | [REDACTED] |
+| 3:30-4:00 AM | 337 | 338 | [REDACTED] | 11:30-12:00 AM | 1149 | 1150 | [REDACTED] | 7:30-8:00 PM | 737 | 738 | [REDACTED] |
+| 4:00-4:30 AM | 410 | 411 | [REDACTED] | 12:00-12:30 PM | 1211 | 1212 | [REDACTED] | 8:00-8:30 PM | 810 | 811 | [REDACTED] |
+| 4:30-5:00 AM | 434 | 435 | [REDACTED] | 12:30- 1:00 PM | 1250 | 1251 | [REDACTED] | 8:30- 9:00 PM | 834 | 835 | [REDACTED] |
+| 5:00 -5:30 AM | 5c4 | 5c5 | [REDACTED] | 1:00-1:30 PM | 108 | 109 | [REDACTED] | 9:00-9:30 PM | 904 | 905 | [REDACTED] |
+| 5:30-6:00 AM | 537 | 536 | [REDACTED] | 1:30-2:00 PM | 148 | 149 | [REDACTED] | 9:30-10:00 PM | 937 | 938 | [REDACTED] |
+| 6:00-6:30 AM | 6c6 | 6c7 | [REDACTED] | 2:00-2:30 PM | 210 | 211 | [REDACTED] | 10:00-10:30 PM | 10c0 | 10c1 | [REDACTED] |
+| 6:30-7:00 AM | 636 | 637 | [REDACTED] | 2:30-3:00 PM | | | | 10:30-11:00 PM | 1030 | 1031 | [REDACTED] |
+| 7:00-7:30 AM | 707 | 706 | [REDACTED] | 3:00-3:30 PM | | | | 11:00-11:30 PM | | | |
+| 7:30-8:00 AM | 735 | 736 | [REDACTED] | 3:30-4:00 PM | | | | 11:30-12:00 PM | | | |
+
+[REDACTED] MORNING WATCH OPERATIONS LIEUTENANT
+[REDACTED] DAY WATCH OPERATIONS LIEUTENANT
+[REDACTED] EVENING WATCH OPERATIONS LIEUTENANT
+
+A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. – 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am – 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.
+
+REVIEWED BY MORNING WATCH LIEUTENANT _________________________
+CAPTAIN _______________________________________________________
+```
+
+## Structured Fields
+- **Location:** MCC NEW YORK
+- **Unit/Department:** SPECIAL HOUSING UNIT
+- **Document Type:** 30 MINUTE CHECK SHEET
+- **Identifier/Zone:** ZA TIER-J
+- **Date:** 08/09/2019
+- **Document ID:** EFTA00009769
+</think>
+
+```markdown
+MCC NEW YORK
+SPECIAL HOUSING UNIT
+30 MINUTE CHECK SHEET
+ZA TIER-J
+
+DATE: 08/09/2019
+
+| TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12:00-12:30 AM | 12c5 | 12c6 | [REDACTED] | 8:00-8:30 AM | 806 | 807 | [REDACTED] | 4:00-4:30 PM | 405 | 406 | [REDACTED] |
+| 12:30- 1:00 AM | 1237 | 1238 | [REDACTED] | 8:30- 9:00 AM | 839 | 840 | [REDACTED] | 4:30-5:00 PM | 437 | 438 | [REDACTED] |
+| 1:00-1:30 AM | 107 | 108 | [REDACTED] | 9:00-9:30 AM | 911 | 912 | [REDACTED] | 5:00 -5:30 PM | 5c4 | 505 | [REDACTED] |
+| 1:30-2:00 AM | 135 | 136 | [REDACTED] | 9:30-10:00 AM | 941 | 942 | [REDACTED] | 5:30-6:00 PM | 535 | 536 | [REDACTED] |
+| 2:00-2:30 AM | 2c5 | 2c6 | [REDACTED] | 10:00-10:30 AM | 1011 | 1012 | [REDACTED] | 6:00-6:30 PM | 605 | 606 | [REDACTED] |
+| 2:30-3:00 AM | 239 | 240 | [REDACTED] | 10:30-11:00 AM | 1037 | 1038 | [REDACTED] | 6:30-7:00 PM | 639 | 640 | [REDACTED] |
+| 3:00-3:30 AM | 3c5 | 3c4 | [REDACTED] | 11:00-11:30 AM | 1106 | 1107 | [REDACTED] | 7:00-7:30 PM | 705 | 706 | [REDACTED] |
+| 3:30-4:00 AM | 337 | 338 | [REDACTED] | 11:30-12:00 AM | 1149 | 1150 | [REDACTED] | 7:30-8:00 PM | 737 | 738 | [REDACTED] |
+| 4:00-4:30 AM | 410 | 411 | [REDACTED] | 12:00-12:30 PM | 1211 | 1212 | [REDACTED] | 8:00-8:30 PM | 810 | 811 | [REDACTED] |
+| 4:30-5:00 AM | 434 | 435 | [REDACTED] | 12:30- 1:00 PM | 1250 | 1251 | [REDACTED] | 8:30- 9:00 PM | 834 | 835 | [REDACTED] |
+| 5:00 -5:30 AM | 5c4 | 5c5 | [REDACTED] | 1:00-1:30 PM | 108 | 109 | [REDACTED] | 9:00-9:30 PM | 904 | 905 | [REDACTED] |
+| 5:30-6:00 AM | 537 | 536 | [REDACTED] | 1:30-2:00 PM | 148 | 149 | [REDACTED] | 9:30-10:00 PM | 937 | 938 | [REDACTED] |
+| 6:00-6:30 AM | 6c6 | 6c7 | [REDACTED] | 2:00-2:30 PM | 210 | 211 | [REDACTED] | 10:00-10:30 PM | 10c0 | 10c1 | [REDACTED] |
+| 6:30-7:00 AM | 636 | 637 | [REDACTED] | 2:30-3:00 PM | | | | 10:30-11:00 PM | 1030 | 1031 | [REDACTED] |
+| 7:00-7:30 AM | 707 | 706 | [REDACTED] | 3:00-3:30 PM | | | | 11:00-11:30 PM | | | |
+| 7:30-8:00 AM | 735 | 736 | [REDACTED] | 3:30-4:00 PM | | | | 11:30-12:00 PM | | | |
+
+[REDACTED] MORNING WATCH OPERATIONS LIEUTENANT
+[REDACTED] DAY WATCH OPERATIONS LIEUTENANT
+[REDACTED] EVENING WATCH OPERATIONS LIEUTENANT
+
+A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. – 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am – 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.
+
+REVIEWED BY MORNING WATCH LIEUTENANT _________________________
+CAPTAIN _______________________________________________________
+```
+
+## Structured Fields
+- **Location:** MCC NEW YORK
+- **Unit/Department:** SPECIAL HOUSING UNIT
+- **Document Type:** 30 MINUTE CHECK SHEET
+- **Identifier/Zone:** ZA TIER-J
+- **Date:** 08/09/2019
+- **Document ID:** EFTA00009769
+- **Roles Listed:** MORNING WATCH OPERATIONS LIEUTENANT, DAY WATCH OPERATIONS LIEUTENANT, EVENING WATCH OPERATIONS LIEUTENANT, CAPTAIN
+```
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+MCC NEW YORK
+SPECIAL HOUSING UNIT
+30 MINUTE CHECK SHEET
+ZA
+TIER-K
+
+DATE: 08/09/2019
+
+| TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12:00-12:30 AM | 1229 | 1258 | [REDACTED] | 8:00-8:30 AM | 805 | 806 | [REDACTED] | 4:00-4:30 PM | 409 | 408 | [REDACTED] |
+| 12:30- 1:00 AM | 1239 | 1240 | [REDACTED] | 8:30- 9:00 AM | 857 | 838 | [REDACTED] | 4:30-5:00 PM | 409 | 410 | [REDACTED] |
+| 1:00-1:30 AM | 149 | 110 | [REDACTED] | 9:00-9:30 AM | 914 | 912 | [REDACTED] | 5:00 -5:30 PM | 509 | 510 | [REDACTED] |
+| 1:30-2:00 AM | 137 | 138 | [REDACTED] | 9:30-10:00 AM | 938 | 937 | [REDACTED] | 5:30-6:00 PM | 537 | 538 | [REDACTED] |
+| 2:00-2:30 AM | 207 | 208 | [REDACTED] | 10:00-10:30 AM | 1011 | 1012 | [REDACTED] | 6:00-6:30 PM | 657 | 608 | [REDACTED] |
+| 2:30-3:00 AM | 241 | 240 | [REDACTED] | 10:30-11:00 AM | 1046 | 1049 | [REDACTED] | 6:30-7:00 PM | 641 | 642 | [REDACTED] |
+| 3:00-3:30 AM | 307 | 308 | [REDACTED] | 11:00-11:30 AM | 15 | 16 | [REDACTED] | 7:00-7:30 PM | 707 | 708 | [REDACTED] |
+| 3:30-4:00 AM | 339 | 340 | [REDACTED] | 11:30-12:00 AM | 139 | 146 | [REDACTED] | 7:30-8:00 PM | 739 | 740 | [REDACTED] |
+| 4:00-4:30 AM | 412 | 413 | [REDACTED] | 12:00-12:30 PM | 1211 | 1212 | [REDACTED] | 8:00-8:30 PM | 812 | 813 | [REDACTED] |
+| 4:30-5:00 AM | 434 | 437 | [REDACTED] | 12:30- 1:00 PM | 1248 | 1249 | [REDACTED] | 8:30- 9:00 PM | 836 | 837 | [REDACTED] |
+| 5:00 -5:30 AM | 506 | 507 | [REDACTED] | 1:00-1:30 PM | 11 | 12 | [REDACTED] | 9:00-9:30 PM | 906 | 914 | [REDACTED] |
+| 5:30-6:00 AM | 534 | 540 | [REDACTED] | 1:30-2:00 PM | 60 | 51 | [REDACTED] | 9:30-10:00 PM | 991 | 940 | [REDACTED] |
+| 6:00-6:30 AM | 628 | 629 | [REDACTED] | 2:00-2:30 PM | 206 | 209 | [REDACTED] | 10:00-10:30 PM | 1058 | 100 | [REDACTED] |
+| 6:30-7:00 AM | 658 | 637 | [REDACTED] | 2:30-3:00 PM | [REDACTED] | [REDACTED] | 10:30-11:00 PM | 1058 | 10 | [REDACTED] |
+| 7:00-7:30 AM | 707 | 708 | [REDACTED] | 3:00-3:30 PM | [REDACTED] | [REDACTED] | 11:00-11:30 PM | [REDACTED] | [REDACTED] | [REDACTED] |
+| 7:30-8:00 AM | 737 | 738 | [REDACTED] | 3:30-4:00 PM | [REDACTED] | [REDACTED] | 11:30-12:00 PM | [REDACTED] | [REDACTED] | [REDACTED] |
+
+MORNING WATCH OPERATIONS LIEUTENANT [REDACTED]
+DAY WATCH OPERATIONS LIEUTENANT [REDACTED]
+EVENING WATCH OPERATIONS LIEUTENANT [REDACTED]
+
+A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. - 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am - 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.
+
+REVIEWED BY MORNING WATCH LIEUTENANT _________________
+CAPTAIN ____________________
+
+EFTA00009770
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+MCC NEW YORK
+SPECIAL HOUSING UNIT
+30 MINUTE CHECK SHEET
+ZA
+TIER-G
+
+DATE: 08/09/2019
+
+| TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE | TIME FRAME | TIME START | TIME END | SIGNATURE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12:00-12:30 AM | 12:09 | 12:10 | [REDACTED] | 8:00-8:30 AM | 8:08 | 8:09 | [REDACTED] | 4:00-4:30 PM | 4:09 | 4:10 | [REDACTED] |
+| 12:30- 1:00 AM | 12:41 | 12:42 | | 8:30- 9:00 AM | 8:50 | 8:51 | | 4:30-5:00 PM | 4:41 | 4:42 | |
+| 1:00-1:30 AM | 1:11 | 1:12 | | 9:00-9:30 AM | 9:11 | 9:12 | | 5:00 -5:30 PM | 5:11 | 5:12 | |
+| 1:30-2:00 AM | 1:34 | 1:40 | | 9:30-10:00 AM | 9:46 | 9:45 | | 5:30-6:00 PM | 5:35 | 5:34 | |
+| 2:00-2:30 AM | 2:09 | 2:10 | | 10:00-10:30 AM | 10:10 | 10:11 | | 6:00-6:30 PM | 6:09 | 6:09 | |
+| 2:30-3:00 AM | 2:43 | 2:44 | | 10:30-11:00 AM | 10:40 | 10:41 | | 6:30-7:00 PM | 6:43 | 6:44 | |
+| 3:00-3:30 AM | 3:09 | 3:10 | | 11:00-11:30 AM | 11:18 | 11:19 | | 7:00-7:30 PM | 7:09 | 7:10 | |
+| 3:30-4:00 AM | 3:44 | 3:42 | | 11:30-12:00 AM | 11:50 | 11:51 | | 7:30-8:00 PM | 7:41 | 7:41 | |
+| 4:00-4:30 AM | 4:14 | 4:15 | | 12:00-12:30 PM | 12:11 | 12:12 | | 8:00-8:30 PM | 8:14 | 8:15 | |
+| 4:30-5:00 AM | 4:36 | 4:39 | | 12:30- 1:00 PM | 12:33 | 12:41 | | 8:30- 9:00 PM | 8:38 | 8:39 | |
+| 5:00 -5:30 AM | 5:08 | 5:09 | | 1:00-1:30 PM | 1:08 | 1:09 | | 9:00-9:30 PM | 9:08 | 9:09 | |
+| 5:30-6:00 AM | 5:41 | 5:42 | | 1:30-2:00 PM | 1:35 | 1:37 | | 9:30-10:00 PM | 9:41 | 9:49 | |
+| 6:00-6:30 AM | 6:10 | 6:11 | | 2:00-2:30 PM | 2:11 | 2:12 | | 10:00-10:30 PM | 10:10 | 10:11 | |
+| 6:30-7:00 AM | 6:40 | 6:41 | | 2:30-3:00 PM | | | | 10:30-11:00 PM | 10:40 | 10:41 | |
+| 7:00-7:30 AM | 7:09 | 7:10 | | 3:00-3:30 PM | | | | 11:00-11:30 PM | | | |
+| 7:30-8:00 AM | 7:39 | 7:40 | | 3:30-4:00 PM | | | | 11:30-12:00 PM | | | |
+
+MORNING WATCH OPERATIONS LIEUTENANT [REDACTED]                                      DAY WATCH OPERATIONS LIEUTENANT [REDACTED]                                        EVENING WATCH OPERATIONS LIEUTENANT [REDACTED]
+
+A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. – 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am – 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented.
+
+REVIEWED BY MORNING WATCH LIEUTENANT _________________________
+CAPTAIN _________________________
+
+EFTA00009771
+
+## Structured Fields
+- **Organization:** MCC NEW YORK SPECIAL HOUSING UNIT
+- **Document Type:** 30 MINUTE CHECK SHEET
+- **Unit/Classification:** ZA TIER-G
+- **Date:** 08/09/2019
+- **Doc ID:** EFTA00009771
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+The provided image displays a document titled "MCC NEW YORK SPECIAL HOUSING UNIT", specifically for "Tier-H". It is an incident log tracking movement and activity within a secure facility (likely prison) during a 24-hour period on August 09, 2019. The form is divided into three main time block columns (Left, Middle, Right), corresponding to Morning Watch, Day Watch, and Evening Watch periods, though the middle block appears to cover late morning/early afternoon only.
+
+Here is the transcription of the document:
+
+**Header Information:**
+- **Agency/MCC:** MCC NEW YORK SPECIAL HOUSING UNIT
+- **Tier/House Number:** Tier-H
+- **Date:** 08/09/2019
+- **Time Frame (Top Left):** Time Frame (Left Block): 12:00 AM - 8:00 AM
+- **Time Frame (Top Middle):** Time Frame (Middle Block): 8:00 AM - ~1:30 PM (Gaps exist)
+- **Time Frame (Top Right):** Time Frame (Right Block): 4:00 PM - 12:00 AM (Midnight)
+
+---
+
+### **Main Grid Table**
+*(Columns represent the three shifts/blocks)*
+
+#### **Left Block (Morning Watch)**
+*   **12:00-12:30 AM:** 12:11 / 12:12
+*   **12:30-1:00 AM:** 12:13 / 12:14
+*   **1:00-1:30 AM:** 1:13 / 1:14 *(Note: Written as "1113" and "114", interpreted as times)*
+*   **1:30-2:00 AM:** 1:11 / 1:12 *(Written as "111" and "112")*
+*   **2:00-2:30 AM:** 2:11 / 2:12
+*   **2:30-3:00 AM:** 2:15 / 2:16
+*   **3:00-3:30 AM:** 3:11 / 3:12
+*   **3:30-4:00 AM:** 3:13 / 3:14
+*   **4:00-4:30 AM:** 4:12 / 4:13
+*   **5:00-5:30 AM:** 5:10 / 5:11
+*   **6:00-6:30 AM:** 6:12 / 6:13
+*   **7:00-7:30 AM:** *Blank*
+
+#### **Middle Block (Day Watch - Partial)**
+*   **8:00-8:30 AM:** 8:13 / 8:14
+*   **8:30-9:00 AM:** 8:52 / 8:63 *(Note: Handwriting is unusual, possibly times 8:52 and a typo
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a security log sheet titled "MCC NEW YORK SPECIAL HOUSING UNIT 30 MINUTE CHECK SHEET ZB". The document is formatted with a header featuring the "MCC NEW York" logo and "SHU SPECIAL HOUSING UNIT" branding in the top corners. Below the title is a handwritten date field reading "8-9-19", indicating August 9, 2019.
+
+The main body of the document consists of a large table divided into three primary columns, representing different shifts or watch periods. Each column follows an identical structure with headers: "TIME FRAME", "TIME START", "TIME END", and "SIGNATURE".
+*   **Left Column (Morning Shift):** Records times from 12:00 AM to 7:30 AM. The handwritten entries in the "Time Start" and "Time End" columns are blue ink, recording specific minutes (e.g., 12:09, 12:36).
+*   **Middle Column (Day Watch):** Records times from 8:00 AM to approximately 3:50 PM. Handwritten entries track intervals like 8:13, 8:48, and continuing upward through the afternoon.
+*   **Right Column (Evening Shift):** Records times from 4:00 PM to approximately 11:57 PM. Entries include times such as 4:05, 4:32, and ending near midnight.
+
+Significant portions of the document are obscured by thick black bars (redactions). Specifically, the "SIGNATURE" columns for all three time blocks are completely blacked out. Additionally, a large black rectangle obscures the text between the middle column's data and the footer instructions, as well as parts of the signature lines at the bottom.
+
+Below the table is a paragraph of printed text outlining procedural requirements for observing inmates in "continuous locked down status." This text explains that staff must observe inmates at least twice per hour (e.g., 12:00-12:30 and 12:30-1:00).
+
+At the very bottom, there are sections for signatures labeled "MORNING WATCH OPERATIONS LIEUTENANT", "DAY WATCH OPERATIONS LIEUTENANT", and "EVENING WATCH OPERATIONS LIEUTENANT". Below that, fields for "REVIEWED BY MORNING WATCH LIEUTENANT" and "CAPTAIN" are present but largely obscured or blank. A document identification number, "EFTA00009773", is printed in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+*   "MCC NEW YORK"
+*   "SPECIAL HOUSING UNIT"
+*   "SHU" (Logo text)
+*   "SPECIAL HOUSING UNIT"
+*   "30 MINUTE CHECK SHEET"
+*   "ZB"
+*   "DATE: 8-9-19"
+
+**Table Columns Headers:**
+*   "TIME FRAME", "TIME START", "TIME END", "SIGNATURE" (repeated three times across the page).
+
+**Footer Instructions:**
+*   "MORNING WATCH OPERATIONS LIEUTENANT"
+*   "DAY WATCH OPERATIONS LIEUTENANT"
+*   "EVENING WATCH OPERATIONS LIEUTENANT"
+*   "A staff member must observe all inmates confined in a continuous locked down status, such as administrative detention or disciplinary segregation, at least once in the first 30 minute period of the hour (example, 12:00 a.m. – 12:30 a.m.) followed by another round in the second 30 minutes period of the same hour (example, 12:30 am – 1:00 a.m.), thus ensuring an inmate is observed at least twice per hour. These rounds are to be conducted on an irregular schedule and no more than 40 minutes apart. All observations must be documented."
+*   "REVIEWED BY MORNING WATCH LIEUTENANT"
+*   "CAPTAIN"
+
+**Bottom Right:**
+*   "EFTA00009773"
+
+## Notable Details / Clues
+*   **Date Context:** The date 8-9-19 places the log on August 9, 2019.
+*   **Handwriting Consistency:** The handwritten times are written in blue ballpoint ink and appear to be entered legibly and systematically every 30 minutes or so within the hour slots.
+*   **Redaction Pattern:** The signatures are heavily redacted, suggesting a privacy concern or that the specific staff members are being withheld from this specific view of the document (perhaps for public record purposes where identity is protected).
+*   **Document ID:** The string "EFTA00009773" at the bottom right likely corresponds to an Internal Revenue Service (IRS) or federal document tracking number, suggesting this form might be related to a federal facility (MCC usually stands for Metropolitan Correctional Center).
+*   **Operational Rigor:** The text explicitly mandates "irregular schedule" for rounds within a 40-minute window to prevent inmates from predicting guard movements, indicating high-security protocols.
+*   **Partial Data Visibility:** While the start/end times are visible, the signatures themselves are illegible due to the black boxes, preventing identification of which officer was present during those specific shifts.
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[ILLEGIBLE]
+[ILLEGIBLE]
+[ILLEGIBLE]
+EFTA00009774
+
+## Structured Fields
+- **Case ID**: EFTA00009774
+

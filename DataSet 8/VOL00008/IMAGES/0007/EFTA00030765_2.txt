@@ -1,0 +1,116 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030765.pdf ts=2026-03-18T22:25:55 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital email thread interface, likely from a legal discovery or case management system given the redaction style and document ID in the corner. The view is vertically scrolling, showing a chain of four distinct emails stacked one above the other.
+
+**Header Structure:**
+Each email block begins with standard internet headers (From, Sent/Date, To, Cc, Subject) which are partially visible, while the main body text of each email is entirely obscured by large, horizontal black rectangles spanning the full width of the message window.
+
+**Chronology:**
+The emails appear in chronological order from oldest to newest at the bottom up (standard for email threads).
+1.  **Earliest Email (Bottom):** Dated Monday, July 12, 2021, sent at 5:25 PM. The subject line indicates a reply ("RE:") regarding "Edwards Pottinger Touhy Requests."
+2.  **Second Email:** Dated Monday, July 12, 2021, sent at 5:30 PM (roughly 5 minutes later). It also references the same requests and uses a "RE:" subject line. The recipient is listed as an entity labeled "(USANYS)".
+3.  **Third Email:** Dated Tuesday, July 13, 2021, sent at 2:14 PM. This email is marked with "FW:" (Forward). It explicitly addresses a recipient named "McEnany, John (USANYS)." There is also a "Cc" line with multiple redacted entries.
+4.  **Latest Email (Top):** Dated Monday, July 19, 2021, at roughly 21:04:25 (UTC). This email contains an attachment named "Scan_40.pdf". The body is obscured.
+
+**Redaction Pattern:**
+Sensitive information—likely names, email addresses, and the content of the correspondence—has been heavily redacted using black bars. However, specific metadata remains visible, such as the domain/organization suffix "(USANYS)" appearing in almost every header field. The subject lines consistently end with a surname "Doe" preceded by a redacted block.
+
+## Visible Text (verbatim)
+**Top Email Header:**
+*   `From: "[...]") <[...]>`
+*   `To: "..." (USANYS)" <[...]>`
+*   `Subject: FW: Edwards Pottinger Touhy Requests - [Redacted] Doe`
+*   `Date: Mon, 19 Jul 2021 21:04:25 +0000`
+*   `Attachments: Scan_40.pdf`
+
+**Second Email Header:**
+*   `From: [...] (USANYS) <[...]>`
+*   `Sent: Tuesday, July 13, 2021 2:14 PM`
+*   `To: McEnany, John (USANYS) <[...]>`
+*   `Cc: [Redacted] <[Redacted]>; [Redacted]) <[Redacted]>`
+*   `Subject: FW: Edwards Pottinger Touhy Requests - [Redacted] Doe`
+
+**Third Email Header:**
+*   `From: [...] (USANYS) <[...]>`
+*   `Sent: Monday, July 12, 2021 5:30 PM`
+*   `To: [...] (USANYS) <[...]>`
+*   `Subject: RE: Edwards Pottinger Touhy Requests - [Redacted] Doe`
+
+**Fourth Email Header:**
+*   `From: [...] (USANYS) <[...]>`
+*   `Sent: Monday, July 12, 2021 5:25 PM`
+*   `To: [...] (USANYS) <[...]>`
+*   `Subject: Re: Edwards Pottinger Touhy Requests - [Redacted] Doe`
+
+**Footer Text:**
+*   `On Jul 12, 2021, at 5:20 PM, [...] (USANYS) <[...]> wrote:`
+*   `EFTA00030765` (located in bottom right corner)
+
+## Notable Details / Clues
+*   **Subject Matter:** The subject line "Edwards Pottinger Touhy Requests" is a significant legal keyword. It refers to a specific type of Freedom of Information Act (FOIA) request or administrative disclosure, often associated with the U.S. Department of Justice or similar agencies, utilizing the name of a former Attorney General's FOIA official.
+*   **Organization:** The repeated tag `(USANYS)` likely stands for a specific division, possibly "U.S. Army North - Yorktown" or a local government office (e.g., United States Attorney Northern York County), though context confirms it is an internal handle used in this document.
+*   **Urgency/Sequence:** The emails from July 12 show rapid-fire communication (sent at 5:20 PM, 5:25 PM, and 5:30 PM within a 10-minute window), suggesting a tight deadline or urgent exchange regarding these requests.
+*   **Attachments:** The final email includes an attachment `Scan_40.pdf`, implying a larger collection of documents (Scans 1-39 presumably exist in previous emails not shown) has been attached for review.
+*   **Document ID:** The reference number `EFTA00030765` in the footer suggests this is part of a formal evidence package or legal filing, indexed under that ID.
+*   **Recipient Specificity:** In the second email (July 13), "McEnany, John" is specifically named in the To field, whereas other recipients remain fully redacted across all emails.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email client interface, specifically showing a thread of correspondence. The layout is divided into two distinct email blocks separated by horizontal lines, with large black redaction boxes obscuring significant portions of the content and headers.
+
+At the very top, there is a wide, solid black rectangular block covering what appears to be a header or attachment preview from the most recent message in the thread. Directly beneath this black box is the header for that first email. The "From" field shows a redacted name followed by the domain "(USANYS)". The timestamp indicates it was sent on Thursday, July 8, 2021, at 4:13 PM. The "To" and "Cc" fields are heavily redacted with black bars, though the recipient domain is listed as (USANYS). The subject line reads "FW: Edwards Pottinger Touhy Requests - [Redacted Bar] Doe".
+
+Below this header block is another wide, solid black rectangular area, likely obscuring the main body text of that forwarded email.
+
+Underneath the second black box is the header for the originating or earlier email in the thread. This header is largely legible. The sender is identified as "Maria Kelljchian" with a partially redacted email address. The timestamp is Thursday, July 8, 2021, at 3:59 PM, roughly 14 minutes prior to the first header's message. The "To" field lists a recipient with a "(USANYS)" domain and a redacted sub-field. The "Cc" field clearly lists two names with email addresses: "Brad Edwards <brad@epllc.com>" and "Brittany Henderson <brittany@epllc.com>". The subject line mirrors the top one: "RE: Edwards Pottinger Touhy Requests - [Redacted Bar] Doe".
+
+The body of this email contains a brief professional message starting with "Good afternoon. Please see attached from Brad Edwards." It ends with a sign-off "Thank you, Maria" followed by her signature block. The signature block features a blue hyperlinked text indicating an image attachment labeled `<image001.png>`. The contact information is presented in a standard business card format, with the name and title in bold blue text.
+
+In the bottom right corner of the white space, outside the main email content area, is a document control number or tracking ID: "EFTA00030766".
+
+## Visible Text (verbatim)
+**Top Header Section:**
+*   From: [Redacted] (USANYS)
+*   Sent: Thursday, July 8, 2021 4:13 PM
+*   To: [Redacted] (USANYS) <[Redacted]>
+*   Subject: FW: Edwards Pottinger Touhy Requests - [Redacted] Doe
+
+**Middle Header Section:**
+*   From: Maria Kelljchian <[Redacted]>
+*   Sent: Thursday, July 8, 2021 3:59 PM
+*   To: [Redacted] (USANYS) <[Redacted]>
+*   Cc: Brad Edwards <brad@epllc.com>; Brittany Henderson <brittany@epllc.com>
+*   Subject: RE: Edwards Pottinger Touhy Requests - [Redacted] Doe
+
+**Email Body:**
+*   Good afternoon. Please see attached from Brad Edwards.
+*   Thank you,
+*   Maria
+
+**Signature Block:**
+*   <image001.png>
+*   **Maria W. Kelljchian**
+*   **Florida Registered Paralegal**
+*   425 North Andrews Avenue, Suite 2
+*   Fort Lauderdale, Florida 33301
+*   Direct Dial: 954-323-2074
+*   Office: 954-524-2820 | Facsimile: 954-524-2822
+*   [Redacted Bar] | www.epllc.com
+
+**Footer:**
+*   EFTA00030766
+
+## Notable Details / Clues
+*   **Redactions:** The top email block has heavy redaction (black bars) over the sender's name, recipient names, and a portion of the subject line. This suggests privacy filtering or sensitive information masking typical of legal documents.
+*   **Domain Identifiers:** The presence of "(USANYS)" in the headers indicates these emails are from the United States Administrative Office of the US Courts (Southern District of New York) electronic district court system.
+*   **Legal Context:** The subject line "Edwards Pottinger Touhy Requests" strongly implies a legal setting involving discovery or privacy requests, specifically referencing the "Touhy Memorandum," which governs the release of information by federal court staff in that jurisdiction.
+*   **Professional Designation:** Maria Kelljchian identifies as a "Florida Registered Paralegal," indicating her specific professional licensure status.
+*   **Email Domain Consistency:** The Cc'd addresses use the domain `epllc.com`, which matches the website link at the bottom (`www.epllc.com`), likely standing for "Edwards Pottinger LLP" based on the subject line context.
+*   **Time Sequence:** The emails were sent in rapid succession within 14 minutes of each other on the same day (July 8, 2021).
+*   **Signature Image:** The text `<image001.png>` suggests there was a digital business card or image attachment intended to accompany the email signature.
+*   **Contact Info:** The phone numbers provided are area code 954, consistent with the Fort Lauderdale, Florida address listed.
+

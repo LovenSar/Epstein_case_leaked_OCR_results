@@ -1,0 +1,387 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007600.pdf ts=2026-03-08T23:25:54 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+WOOD TECHNOLOGY
+METAL TECHNOLOGY
+
+PLEASE REMIT TO:
+WOOD TECHNOLOGY INC.
+[REDACTED]
+CONOVER, NC 28613
+PHONE [REDACTED]
+FAX [REDACTED]
+
+SOLD TO
+CSN STORES, INC,
+DBA: RACKS AND STANDS
+[REDACTED BAR]
+BOSTON, MA 02116
+
+INVOICE
+42700
+DATE 03/29/05
+PAGE 1
+DUNS #61-284-1759
+
+SHIP TO
+[REDACTED BAR]
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+(D) [REDACTED BAR] (E)
+
+| CUST. NO. | ACK NO. | DATE SHIPPED | SHIPPED VIA | SALESMAN | F.O.B. | TERMS | YOUR ORDER NO. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1204- 1 | 39710 | 03/29/05 | UPS-RES | | | CC | [REDACTED BAR] |
+
+| SHIPPED | BACK ORDERED | DESCRIPTION | PKG | PRICE | AMOUNT |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 EA | | TO 1260 E EBONY CD STORAGE TOWER<br>1 CARTONS @ 0.00# = 0# | 1 | [REDACTED] | [REDACTED] |
+
+1 UNITS SHIPPED
+
+EFTA00007600
+```
+
+## Structured Fields
+- **Doc ID:** 42700
+- **Date:** 03/29/05
+- **DUNS Number:** #61-284-1759
+- **Vendor:** WOOD TECHNOLOGY INC. (Conover, NC)
+- **Sold To:** CSN STORES, INC (DBA: RACKS AND STANDS) - Boston, MA 02116
+- **Ship To:** 358 El Brillo Way - Palm Beach, FL 33480
+- **Customer No:** 1204-1
+- **Ack No:** 39710
+- **Shipped Via:** UPS-RES
+- **Description:** CD STORAGE TOWER (TO 1260 E EBONY)
+- **Quantity:** 1 CARTONS / 1 EA
+- **Terms:** CC
+</think>
+
+```markdown
+WOOD TECHNOLOGY
+METAL TECHNOLOGY
+
+PLEASE REMIT TO:
+WOOD TECHNOLOGY INC.
+[REDACTED]
+CONOVER, NC 28613
+PHONE [REDACTED]
+FAX [REDACTED]
+
+SOLD TO
+CSN STORES, INC,
+DBA: RACKS AND STANDS
+[REDACTED BAR]
+BOSTON, MA 02116
+
+INVOICE
+42700
+DATE 03/29/05
+PAGE 1
+DUNS #61-284-1759
+
+SHIP TO
+[REDACTED BAR]
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+(D) [REDACTED BAR] (E)
+
+| CUST. NO. | ACK NO. | DATE SHIPPED | SHIPPED VIA | SALESMAN | F.O.B. | TERMS | YOUR ORDER NO. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1204- 1 | 39710 | 03/29/05 | UPS-RES | | | CC | [REDACTED BAR] |
+
+| SHIPPED | BACK ORDERED | DESCRIPTION | PKG | PRICE | AMOUNT |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 EA | | TO 1260 E EBONY CD STORAGE TOWER<br>1 CARTONS @ 0.00# = 0# | 1 | [REDACTED] | [REDACTED] |
+
+1 UNITS SHIPPED
+
+EFTA00007600
+```
+
+## Structured Fields
+- **Doc ID:** 42700 (Invoice)
+- **Date:** 03/29/05
+- **DUNS Number:** #61-284-1759
+- **Vendor Organization:** WOOD TECHNOLOGY INC. (Located in Conover, NC)
+- **Customer Organization:** CSN STORES, INC (DBA: RACKS AND STANDS) located in Boston, MA 02116
+- **Bill To Address:** 358 El Brillo Way, Palm Beach, FL 33480
+- **Customer No:** 1204-1
+- **Ack No:** 39710
+- **Shipped Via:** UPS-RES
+- **Product Description:** CD STORAGE TOWER (TO 1260 E EBONY)
+- **Quantity Shipped:** 1 EA (1 CARTONS)
+- **Terms:** CC
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+MSN Hotmail - Message
+#4
+http://by12fd.bay12.hotmail.msn.com/cgi-bin/getmsg?msg=MSG1111..
+MSN Home | My MSN | Hotmail | Shopping | Money | People & Chat Sign Out
+Web Search: [Search Box] [Go]
+
+match.com
+msFind singles in your area [Broken Heart Icon]
+Hotmail
+[Logo] Today | Mail | Calendar | Contacts
+hotmail.com
+Reply | Reply All | Forward | Put in Folder | Print View | Save Address
+Options | Help
+Free Newsletters
+
+From : auto-confirm@amazon.com <auto-confirm@amazon.com>
+Sent : Monday, March 21, 2005 3:25 AM
+To : [REDACTED]
+Subject : Your Order with Amazon.com
+Trash | Inbox
+
+amazon.com and you're done.
+VIEW CART | WISH LIST | YOUR ACCOUNT | HELP
+
+Thanks for your order, [REDACTED] [REDACTED]
+
+Want to track your order status?
+Learn how with our animated demo!
+
+Did you know you can view and edit your orders online, 24 hours a day? Click Your Account to:
+*   Access "Where's My Stuff?"
+*   Combine orders
+*   Change payment method
+*   Change shipping address
+*   Cancel unshipped items
+*   Change gift messaging
+*   Do much more...
+
+Purchasing Information:
+E-mail Address: [REDACTED]
+Billing Address: ghislaine maxwell
+[REDACTED]
+new york, new york 10022 United States
+Shipping Address: [REDACTED]
+new york, ny 10021 United States
+
+Order Grand Total: $29.94
+Earn 3% rewards on your Amazon.com purchases with the Amazon Visa Card. Learn More
+
+Order Summary:
+Shipping Details: (order will arrive in 1 shipment)
+Order #: [REDACTED]
+Shipping Method: One-Day Shipping
+Shipping Preference: Group my items into as few shipments as possible
+
+1 of 2
+3/24/2005 9:36
+EFTA00007601
+msn.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+amazon.com.
+Amazon.com
+1850 Mercer Rd.
+Lexington, KY 40511
+
+Jeffrey Epstein
+358 El Brillo Way
+Palm Beach, Florida 33480
+USA
+
+http://www.amazon.com
+
+Billing Address:
+Jeffrey Epstein
+358 El Brillo Way
+Palm Beach, Florida 33480
+USA
+
+Shipping Address:
+Jeffrey Epstein
+358 El Brillo Way
+Palm Beach, Florida 33480
+USA
+
+Your order of September 4, 2005 (Order ID 103-1737820-4508648)
+
+Qty. Item Item Price Total
+1 IN THIS SHIPMENT
+SM 101: A Realistic Introduction $16.47 $16.47
+Wiseman, Jay --- Paperback
+(** C-2 **) 0963976389
+1 SlaveCraft: Roadmaps for Erotic Servitude---Principles, Skills and Tools $15.95 $15.95
+Baldwin, Guy --- Paperback
+(** C-2 **) 1881943143
+1 Training With Miss Abernathy: A Workbook for Erotic Slaves and Their $11.95 $11.95
+Owners
+Abernathy, Christina --- Paperback
+(** C-2 **), 1890159077
+
+Subtotal $44.37
+Shipping & Handling $24.46
+Order Total $68.83
+Paid via Amex $68.83
+Balance due $0.00
+
+This shipment completes your order.
+
+6/rbrd57708/-3-//SORTEExtFastTrack/next/2436223/0912-19:30/0911-19:45/mreed Box or Pad: BCLIB 12X9X2 .
+
+EFTA00007602
+
+Your Account
+For detailed information about this and other orders, please visit Your Account. You can also print invoices, change your e-mail address and payment settings, alter your communication preferences, and much more - 24 hours a day - at http://www.amazon.com/your-account.
+
+Returns Are Easy!
+Visit http://www.amazon.com/returns to return any item - including gifts - in unopened or original condition within 30 days for a full refund (other restrictions apply). Please have your order ID ready.
+
+Thanks for shopping at Amazon.com, and please come again!
+
+amazon.com
+and you're done.
+
+## Structured Fields
+- **Date**: September 4, 2005
+- **Order ID**: 103-1737820-4508648
+- **Customer Name**: Jeffrey Epstein
+- **Location**: Palm Beach, Florida 33480, USA
+- **Organization**: Amazon.com
+- **Document ID (Footer)**: EFTA00007602
+- **Tracking/Reference Code**: rbrd57708
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx | Ship Manager [REDACTED]
+Page 1 of 1
+
+From: Origin ID: (212)750-9895
+[REDACTED]
+JEFFREY L. EPSTEIN
+NEW YORK, NY 10022
+
+FedEx Express
+[BARCODE]
+CLS6513E50B/13
+
+Ship Date: 19SEP05
+Actual Wgt: 2 LB
+System#: 1513884/INET2200
+Account#: S ********
+REF: mail
+[BARCODE]
+Delivery Address Bar Code
+
+SHIP TO: (561)832-0232 BILL SENDER
+Jeffrey Epstein
+358 El Brillo Way
+Palm Beach, FL 33480
+
+[BARCODE]
+PRIO... ORNIGHT
+TRK# [REDACTED] [REDACTED] [REDACTED] FORM 0201
+FLL .. AA
+33480 -FL-US RES
+XH LNAA
+[BARCODE]
+
+TUE Deliver By: 20SEP05
+
+Shipping Label! Your shipment is complete
+1. Use the 'Print' feature from your browser to send this page to your laser or inkjet printer.
+2. Fold the printed page along the horizontal line.
+3. Place label in shipping pouch and affix it to your shipment so that the barcode portion of the label can be read and scanned.
+
+Warning: Use only the printed original label for shipping. Using a photocopy of this label for shipping purposes is fraudulent and could result in additional billing charges, along with the cancellation of your FedEx account number.
+Use of this system constitutes your agreement to the service conditions in the current FedEx Service Guide, available on fedex.com. FedEx will not be responsible for any claim in excess of $100 per package, whether the result of loss, damage, delay, non-delivery, misdelivery, or misinformation, unless you declare a higher value, pay an additional charge, document your actual loss and file a timely claim. Limitations found in the current FedEx Service Guide apply. Your right to recover from FedEx for any loss, including intrinsic value of the package, loss of sales, income interest, profit, attorney's fees, costs, and other forms of damage whether direct, incidental, consequential, or special is limited to the greater of $100 or the authorized declared value. Recovery cannot exceed actual documented loss. Maximum for items of extraordinary value is $500, e.g. jewelry, precious metals, negotiable instruments and other items listed in our Service Guide. Written claims must be filed within strict time limits, see current FedEx Service Guide.
+
+https://www.fedex.com/cgi-bin/ship_it/unity/3IiUv5FiRx0IcUq2BcRw0HbQr4AgXt6IaUr... 9/19/2005
+EFTA00007603
+
+## Structured Fields
+- **Date**: Ship Date: 19SEP05; Deliver By: 20SEP05; Print Date: 9/19/2005
+- **Names**: Jeffrey Epstein (Ship To), Bill Sender
+- **Locations**: New York, NY 10022; Palm Beach, FL 33480; FLL (Fort Lauderdale)
+- **Organization**: FedEx
+- **Doc IDs**: System#: 1513884; Account#: S********; Tracking: 33480; EFTA00007603
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Davis Street
+ San Francisco, CA 94111 . Postmaster: Please deliver September 19, 20
+ U.S. POSTAGE PAID THE SHARPER IMAGE
+ #P128 227 337# KEY: KJQ57255
+ [REDACTED] 5-DIGIT 3348E GARDENS IN PALM BEACH.
+ OR CURRENT RESIDENT
+ 358 EL BRILLO WAY
+ PALM BEACH FL 33480
+|||||||...
+ SHOP OUR STORES:
+ 001 PIIIGALLERIA AT FT LAUDERDALE
+ 70748 TOWN CENTER AT BOCA RATON
+ SAWGRASS MILLS OUTLET
+ THE MALL AT WELLINGTON GREEN
+ 21052
+
+## Structured Fields
+- **Date**: September 19, 20[cut off] / [stamp date: 3, 200[cut off]]
+- **Case ID**: #P128 227 337# / EFTA00007604
+- **Key/ID**: KJQ57255
+- **Locations**: San Francisco, CA 94111; Palm Beach Gardens (Zip likely 33410 implied); Ft Lauderdale (Galleria); Boca Raton Town Center (Zip likely 33432); Sawgrass Mills Outlet; Wellington Green (Mall).
+- **Address**: 358 El Brillo Way, Palm Beach FL 33480.
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Structured Fields
+- **Organization**: Town of Palm Beach Police Department
+- **Case ID**: 05-368 PRO
+- **Evidence Tag/Document ID**: KL-231
+- **Officer Name**: Act (partially redacted)
+- **Price observed**: $99.95, $49.95
+- **Website visible**: sharperimage.com
+
+---
+
+Town of Palm Beach Police Depa
+POLICE
+EVIDENCE
+CASE # 05-368 PRO
+CONTENTS
+
+Item | Quantity | Desc
+---|---|---
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+Suspect:
+Officer: Act - [REDACTED]
+Lab #:
+KL-231
+
+...res 25 x 1... 90
+N002 $99.95
+
+ur-Foam Silver
+icles Are Naturally
+ti-Mold, Anti-Microb
+le your fe
+Foam Silver
+is — such as adh
+atural anti-mite
+t style.,
+e makes it ea
+ut havin e
+he outer s
+ethane; you can wear these
+h pair comes in its own mesh
+Specify S, M, L or XL Small
+rm (women's 9-10; men's 8-9);
+1) or X-Large (men's 12-13)
+Silver Slippers
+$49.95
+sharperimage.com"
+

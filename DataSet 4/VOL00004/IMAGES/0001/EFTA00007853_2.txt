@@ -1,0 +1,113 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007853.pdf ts=2026-03-09T01:34:09 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+ARCHITECT
+[REDACTED] NEW YORK CITY 10025
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+## Structured Fields
+- **Doc ID**: EFTA00007853
+- **Location**: NEW YORK CITY 10025
+- **Organization**: ARCHITECT
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+ARCHITECT
+[REDACTED] NEW YORK CITY 10025
+EFTA00007854
+
+## Structured Fields
+- **Location**: New York City 10025
+- **Role/Title**: Architect
+- **Document ID**: EFTA00007854
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[Image fragment: Top strip with horizontal lines and a rectangle]
+EXIST 8' HIGH CBS WALL
+CHARRETTE
+
+- NEW RETRACTABLE
+A - MOTORIZED
+
+POOL NOTES
+CONSTRUCT NEW POOL WALL TO SQUARE OFF POOL ABANDON OLD STEPS, FILL AND COVER OVER WITH CONCRETE & TRAVERTINE PAVING TO MATCH. CONSTRUCT NEW STEPS
+
+REMOVE EXISTING TILE @ WATER LINE, INSTALL NEW TILE. REPAIR LEAK & RESURFACE ENTIRE INTERIOR OF POOL
+
+EPSTEIN RESIDENCE
+358 El Brillo Way
+Palm Beach, Florida
+
+[REDACTED]
+ARCHITECT
+[REDACTED]
+NEW YORK, NEW YORK
+1 0 0 2 1
+
+EFTA00007855
+
+## Structured Fields
+*   **Location:** Palm Beach, Florida; New York, New York
+*   **Project/Name:** EPSTEIN RESIDENCE
+*   **Address:** 358 El Brillo Way
+*   **Case ID / Doc ID:** EFTA00007855
+*   **Date Code:** 1 0 0 2 1 (Likely October 2, 2001 or similar format)
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EPSTEIN
+RESIDENCE
+358 EL BRILLO WAY
+PALM BEACH FLA.
+
+## Structured Fields
+*   **Names:** Epstein (Residence)
+*   **Locations:** Palm Beach, FLA; New York, New York
+*   **Document ID:** EFTA00007856
+*   **Zip Code:** 10021
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EPSTEIN RESIDENCE
+
+358 El Brillo Way
+Palm Beach, Florida
+
+[REDACTED]
+ARCHITECT
+
+NEW YORK, NEW YORK 10021
+
+TEL: [REDACTED]
+FAX: [REDACTED]
+
+[REDACTED]
+ASSOCIATED ARCHITECT
+
+[REDACTED]
+WEST PALM BEACH, FLA.
+
+[REDACTED]
+
+EFTA00007857
+
+## Structured Fields
+*   **Location:** Palm Beach, Florida; NEW YORK, NEW YORK 10021; WEST PALM BEACH, FLA.
+*   **Organization/Entity:** EPSTEIN RESIDENCE; ARCHITECT; ASSOCIATED ARCHITECT
+*   **Doc ID:** EFTA00007857
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[ILLEGIBLE] 5-281
+EFTA00007858
+
+## Structured Fields
+*   **Doc ID**: EFTA00007858
+*   **Page/Ref Number**: 5-281 (or S-281)
+

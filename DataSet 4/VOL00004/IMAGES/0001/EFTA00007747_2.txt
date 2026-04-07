@@ -1,0 +1,118 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007747.pdf ts=2026-03-09T00:33:47 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EVIDENCE
+FEDERAL BUREAU OF INVESTIGATION
+[scribble] EVIDENCE FEDERAL BUREAU OF INVESTIGATION FEDI...
+
+## Structured Fields
+- Organization: Federal Bureau of Investigation (FBI)
+- Doc ID: EFTA00007747
+- Stamp Text: EVIDENCE / FEDERAL BUREAU OF INVESTIGATION (multiple instances)
+- Scribble: Date stamp or cancellation mark over the central area
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image presents a vertical rectangular composition dominated entirely by a solid, pitch-black field.
+- This black area occupies approximately 90% to 95% of the frame, suggesting an underexposed slide, a dark object against a black background, or a blank film mount.
+- In the upper right corner, there is a sharp white rectangular label adhered to the surface.
+- The main content area has rounded corners at the top left and top right, characteristic of standard photographic mounts (such as 2x3 or 3x4 inch acetates).
+- Along the very top edge of the frame, there are faint, horizontal speckles and debris marks, likely dust on a film reel or scanner artifacts common in archival photography.
+- The bottom right corner features a white margin outside the black image area where reference text is placed.
+- The lighting is uneven, with the label appearing bright white (possibly overexposed) while the rest of the frame remains in deep shadow or total darkness.
+- The texture of the black field is uniform and devoid of detail, implying either opacity or a lack of light reflection.
+
+## Visible Text (verbatim)
+**1B7-14**
+**EFTA00007748**
+
+## Notable Details / Clues
+- The alphanumeric code "1B7-14" serves as an accession number or catalog identifier for this specific slide within a larger collection.
+- The string "EFTA00007748" is a standard archival reference ID, likely originating from the East Film Technical Archive (often associated with US federal document releases via the Freedom of Information Act).
+- The absence of any visual imagery in the black field indicates that either no image was present on this specific frame, or the subject matter was entirely dark.
+- The white label contrasts starkly against the black background, utilizing high-key printing to ensure legibility of the catalog number.
+- This appears to be a microfilm frame scan rather than a direct photograph of a scene, evidenced by the paper-like texture of the label and the specific ID code format.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, front-facing shot of a single sheet of bright pink paper, likely a notice or label attached to an envelope or file folder. The paper fills the entire frame, suggesting it is roughly standard letter size. The background is a uniform, solid hot-pink color without texture or pattern. Black text is printed centrally on the page using a bold, sans-serif typeface. The text is arranged in two distinct blocks separated by a large vertical gap of negative space. The top block serves as a statement confirming that physical contents have been scanned. The bottom block serves as a disclaimer regarding the omission of original film negatives or other media formats. In the bottom left corner, there is smaller, non-bold text indicating a template code and date. In the extreme bottom right corner, outside the pink area but visible against the white background of the scan frame, is a numeric alphanumeric identifier, likely a Bates number or archival accession ID. The top edge of the paper shows a slight shadow or fold line, indicating it has been tucked into packaging.
+
+## Visible Text (verbatim)
+**Top Block:**
+"All documents and
+Photographs
+Enclosed have been
+Digitized."
+
+**Middle/Bottom Block:**
+"Negatives and/or
+media have not
+been captured."
+
+**Footer Left:**
+"DL-02 Media v0.1
+April 2018"
+
+**Footer Right:**
+"EFTA00007749"
+
+## Notable Details / Clues
+*   **Archival Context:** The text explicitly mentions "Enclosed," implying this notice is placed inside a physical package (likely a manila envelope) containing records for transfer or storage.
+*   **Digital Replacement:** The primary function of the sheet is to inform the recipient that they are receiving electronic copies rather than the original paper documents and photos.
+*   **Specific Exclusion:** There is a crucial warning regarding "Negatives," indicating that while color photos or documents might be digitized, the master black-and-white negatives were likely left behind in the archive or discarded.
+*   **Template Standardization:** The code "DL-02 Media v0.1" suggests this is a standardized form used by an organization (possibly NARA or a similar government body) to maintain consistency across thousands of digitization projects.
+*   **Date of Notice:** The date "April 2018" places the creation of these specific notices in the late 2010s, during a peak period for massive document digitization projects (such as Freedom of Information Act requests).
+*   **Tracking ID:** The string "EFTA00007749" at the bottom right appears to be an internal tracking number used by the agency handling the records, possibly standing for a specific office or collection code.
+*   **Contrast and Legibility:** The high contrast between the black text and pink background ensures visibility even if ink is faded or if scanned at lower resolutions, though it can be visually striking compared to standard white paper notices.
+*   **Typography Hierarchy:** The font size decreases slightly for the second block of text ("Negatives and/or..."), drawing visual attention first to the positive statement about digitization before delivering the negative news about missing media.
+*   **Version Control:** The "v0.1" suffix on the template code indicates that this is an initial or early version of the standard notice, suggesting it may have been updated in later years as guidelines changed.
+*   **Media Ambiguity:** The phrase "media have not been captured" is broad enough to include audio tapes, video reels, or magnetic strips, though "Negatives" strongly implies photographic film negatives.
+*   **Physical State:** The paper appears slightly curled at the top right edge, a common artifact of placing stiff label stock inside soft cardboard boxes for archival storage.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+023655
+05-1079
+128521
+[REDACTED]
+
+14
+
+## Structured Fields
+- **Doc ID:** EFTA00007750
+- **Case/Tracking Numbers:** 05-1079, 128521, 023655
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+CD
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007751
+
+## Structured Fields
+- **Date**: July 27, 2020
+- **Doc ID**: EFTA00007751
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PBP D Case # 05-368
+Digital Voice Recording
+Proof # 05-1079
+Statement to / Rodriguez
+S tatement [scribble] / [REDACTED]
+3125JR142LA897 A1 (Center Hub)
+
+## Structured Fields
+*   **Case ID:** PBP D Case #05-368
+*   **Proof #:** 05-1079
+*   **Name:** Rodriguez
+*   **Document Footer ID:** EFTA00007752
+

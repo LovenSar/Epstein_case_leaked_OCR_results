@@ -1,0 +1,69 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00017094.pdf ts=2026-03-13T06:11:25 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, specifically an email chain or a scanned correspondence involving legal proceedings. The layout is vertical with distinct sections separated by horizontal lines or spacing.
+
+**Top Section:**
+At the very top, there is a header block typical of an email interface. Portions of this header are heavily redacted with solid black rectangular bars obscuring personal information like "From", "To", and "Cc" fields. Below these redactions, visible metadata includes the Subject Line regarding a legal case ("US v. Tartaglione"), a timestamp from September 10, 2019, and an attachment filename. Directly beneath the header line, there is a line of blue hyperlink-style text stating that the New York Times has joined a request to unseal letters.
+
+**Middle Section:**
+Below the blue text, there is a small redacted block followed by the title "Assistant United States Attorney" in blue text. Another redacted black bar sits beneath this title, suggesting an email address or digital signature has been obscured.
+
+**Bottom Section:**
+This section contains the body of the primary email message. It features standard email headers with redactions. The "From" field identifies the sender as "Sumar, Al-Amy...". The "Sent" date is Tuesday, September 10, 2019, at 4:46 PM. The "To" and main body recipient fields are covered by large black bars. The "Cc" field lists "David McCraw". The subject line repeats the legal case reference.
+The body of the text begins with "All," followed by a paragraph explaining that an attached letter on behalf of the New York Times Company and reporter Ben Weiser was sent to the Court via fax. The email closes with "Regards," followed by a signature block for Al-Amyn Sumar from the Legal Department of The New York Times Company in New York, NY. Parts of the contact information at the bottom are redacted.
+In the bottom right corner, a document control number is visible: EFTA00017094.
+
+## Visible Text (verbatim)
+**Top Header:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: FW: US v. Tartaglione, 16-cr-832 - Unsealing of Records
+Date: Tue, 10 Sep 2019 20:56:29 +0000
+Attachments: NYTLEGAL-_64879-v2-Tartaglione_Access_Letter.pdf
+
+**Blue Text:**
+See attached. The NY Times has joined in the request to unseal the letters.
+
+**Middle Section:**
+[Redacted Name/Title]
+Assistant United States Attorney
+[Redacted Email]
+
+**Bottom Header:**
+From: Sumar, Al-Amy [Redacted]
+Sent: Tuesday, September 10, 2019 4:46 PM
+To: [Redacted Block]
+Cc: David McCraw [Redacted Block]
+Subject: US v. Tartaglione, 16-cr-832 - Unsealing of Records
+
+**Body Text:**
+All,
+
+Attached is a letter on behalf of the New York Times Company and reporter Ben Weiser regarding the above-referenced case, which was sent to the Court today by fax.
+
+Regards,
+
+[Redacted Line]
+Al-Amyn Sumar
+Legal Department
+The New York Times Company
+[Redacted Line]
+New York, NY 10018
+[Redacted Block]
+
+**Footer:**
+EFTA00017094
+
+## Notable Details / Clues
+*   **Legal Context:** The document pertains to the case *US v. Tartaglione*, with docket number 16-cr-832. This is a criminal case (indicated by "cr").
+*   **Purpose:** The correspondence is specifically about "Unsealing of Records," which is a legal procedure in US courts to make sealed documents public access.
+*   **Key Players:** The New York Times Company, reporter Ben Weiser, and Assistant United States Attorney are identified as participants. David McCraw is Cc'd.
+*   **Date of Action:** The emails were sent on Tuesday, September 10, 2019. The time stamps are in UTC (+0000) for the forwarded header and local EST/EDT implied for the body (4:46 PM).
+*   **Redaction Pattern:** Sensitive information (names, email addresses, specific addresses) is consistently blacked out with solid rectangular masks.
+*   **Document ID:** The bottom right corner contains a reference code "EFTA00017094", likely an Electronic File Tracking Authorization number used by the court or government agency to track the file.
+*   **Fax Mention:** The email body explicitly mentions that the attachment was sent to the Court "today by fax," suggesting a multi-channel communication strategy (email + fax).
+

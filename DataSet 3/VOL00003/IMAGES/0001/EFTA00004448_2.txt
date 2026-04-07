@@ -1,0 +1,905 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 3/VOL00003/IMAGES/0001/EFTA00004448.pdf ts=2026-03-07T05:47:05 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a page from a printed document, likely an archival contact sheet or index card, mounted in a plastic protective sleeve within a binder. The page is dominated by a grid layout containing large, solid black rectangular blocks that obscure what would typically be thumbnail images. Below or adjacent to these blacked-out areas are small text labels indicating file names ending in ".TIF".
+
+The page is organized into a rough 4x3 grid (four rows of three columns).
+- **Top Row:** At the very top left, the letters "LSJ" appear next to a short black bar. Below this, there are three large horizontal black rectangles. Beneath the first rectangle is the label "001.TIF" (partially obscured by a bar). The second label reads "002.TIF", and the third "003.TIF".
+- **Second Row:** Directly below the first row, there are three identical large black rectangles. The labels beneath them continue the sequence: "004.TIF", "005.TIF", and "006.TIF".
+- **Third Row:** This row also contains three large black rectangles. The labels below show a gap in the sequence compared to the previous rows. The left label reads "008.TIF". The middle label appears to read "010.TIF" (though the leading zero is obscured). The right label reads "011.TIF".
+- **Fourth Row (Bottom):** The final row of large black rectangles sits above the last set of labels. These labels read "14.TIF", "15.TIF", and "17.TIF" respectively, indicating significant missing files in the sequence between 11 and 14.
+- **Footer:** At the bottom left, there is a label "Photographer:" followed by a small black bar.
+
+On the far left edge of the image, visible through or alongside the plastic sleeve, is the spine of the binder or the side of a file pocket. It contains vertical text identifying the product and manufacturer details.
+
+## Visible Text (verbatim)
+- **Top Left:** "LSJ"
+- **Row 1 Labels:** "...001.TIF", "...002.TIF", "...003.TIF"
+- **Row 2 Labels:** "...004.TIF", "...005.TIF", "...006.TIF"
+- **Row 3 Labels:** "...008.TIF", "...010.TIF", "...011.TIF"
+- **Row 4 Labels:** "...14.TIF", "...15.TIF", "...17.TIF"
+- **Footer:** "Photographer: [Barred]"
+- **Bottom Right Corner:** "EFTA00004448"
+- **Spine/Left Edge Text (Vertical):**
+    - "Print File ARCHIVAL PRESERVERS"
+    - "STYLE NO. 811-2P"
+    - "P.O. BOX 607638 • ORLANDO, FL 32860 • (407) 986-3100"
+
+## Notable Details / Clues
+- **Redaction:** The primary visual feature is the heavy redaction. Solid black bars cover what would normally be photographs or sensitive personal information. This suggests the document has been intentionally censored, likely to protect the subjects or content of the original images.
+- **File Format:** The ".TIF" extension on every label indicates these are TIFF (Tagged Image File Format) files, a standard for high-quality image storage often used in archival and forensic contexts before conversion to PDF or JPG.
+- **Archival Origin:** The text "Print File Archival Preservers" on the left identifies the source company, which appears to be a document management or scanning service based in Orlando, Florida.
+- **File Sequence Gaps:** The file numbers are not strictly consecutive (jumping from 006 to 008, then 011 to 14). This implies that certain files were missing, deleted, or skipped during the scanning/printing process of this index sheet.
+- **Product Identification:** The spine text identifies the physical product as "Print File ARCHIVAL PRESERVERS" Style No. 811-2P, which is a specific type of file holder or pocket used for storing documents.
+- **Photographer Field:** The field labeled "Photographer:" is present but blacked out, indicating that attribution was recorded but has since been hidden in this version of the document.
+- **Barcode/ID:** The alphanumeric string "EFTA00004448" in the bottom right corner appears to be a unique identifier, possibly for the file itself or the image within an internal database.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a sheet of paper contained within a clear plastic protective sleeve, likely inside a binder or file. The primary content is a grid layout featuring 12 solid black rectangular blocks arranged in four rows and three columns, effectively redacting the visual content (images) that would typically be beneath them. Below each black rectangle is a corresponding text label identifying a filename ending in ".TIF". In the top left corner, the letters "LSJ" are visible above the first column of images. At the bottom left, there is a field labeled "Photographer:" followed by a redacted name (a black bar). Running vertically along the right edge of the sleeve is a printed strip containing text and logos, characteristic of a standard identification badge holder insert. The plastic sleeve shows punched holes near the edges on the right side.
+
+## Visible Text (verbatim)
+- **Top Left:** "LSJ"
+- **Row 1 Labels (Left to Right):** "[Redacted]18.TIF", "[Redacted]19.TIF", "021.TIF" (Note: The first digit of the third file is visible as '0', while the first two are partially obscured but follow a pattern).
+- **Row 2 Labels:** "022.TIF", "023.TIF", "024.TIF"
+- **Row 3 Labels:** "026.TIF", "027.TIF", "029.TIF"
+- **Row 4 Labels:** "030.TIF", "031.TIF", "032.TIF"
+- **Bottom Left:** "Photographer: [Redacted]"
+- **Right Edge (Vertical Strip - Partially Visible):**
+    - Top section (rotated text): "RC-T18 OH SHI..." (difficult to read fully).
+    - Middle section: "2016-498 (TOK) ... CORNING".
+    - Bottom Logo area: "BUILT FOR".
+
+## Notable Details / Clues
+- **File Numbering Sequence:** The filenames suggest a sequential digital asset management system, but there are noticeable gaps in the sequence: files 20, 25, and 28 appear to be missing from the grid. This suggests these specific images may have been excluded, deleted, or not part of the current selection.
+- **Contextual Clues:** The text "CORNING" on the right-hand strip suggests this document is related to Corning Inc., a manufacturing company known for glass and optical fibers. The phone number starting with 866 usually indicates a toll-free US line.
+- **Redaction Pattern:** The redactions are systematic. Thick black bars cover personal names (photographer) and likely specific content within the images, indicating this is a privacy-sensitive document or an official record where PII (Personally Identifiable Information) has been removed for compliance.
+- **Sleeve Type:** The vertical strip on the right with the "BUILT FOR" logo is a standard insert found in ID badge holders from companies like Avery or similar badge manufacturers, often used in corporate environments.
+- **Image Count:** There are exactly 12 black rectangles, corresponding to 12 visible filenames (though one filename row starts with a redacted block).
+- **Orientation:** The text on the right strip is oriented such that the top of the sleeve is at the bottom of the visual field if reading normally, but actually, the text runs vertically up and down. "BUILT FOR" is near the punch holes at the bottom.
+- **Top Left Label:** "LSJ" likely stands for initials or a project code associated with this specific batch of images.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a high-angle, straight-on shot of a white document page secured inside a clear plastic binder sleeve. The left edge of the frame reveals the gray binding mechanism of the folder, labeled as an archival product. The document itself is a sheet containing a grid of twelve large, solid black rectangles that completely obscure any underlying imagery or text. These black boxes are arranged in four rows and three columns. Beneath each blacked-out image area is a horizontal redacted bar followed by a file extension indicating a TIFF image file (e.g., ".TIF"). The file numbers appear to follow an ascending, though slightly irregular, sequence starting from the top left. In the upper left corner of the page, above the first row of images, is the text "LSJ". Near the bottom left, a label reads "Photographer:" followed by a blacked-out section. A vertical gray tab runs along the left margin, containing product information and an address for "Print File" in Orlando, FL. A specific alphanumeric code, "EFTA00004450", is printed in the bottom right corner of the image frame.
+
+## Visible Text (verbatim)
+**Left Edge Strip (Vertical):**
+- STYLE NO. 811-2P
+- P.O. BOX 607/638 - ORLANDO, FL 32860 - (407) 586-3100
+- Print File®
+- ARCHIVAL PRESERVERS
+
+**Top Left Page Area:**
+- LSJ
+
+**File Labels (Left to Right, Top to Bottom):**
+- .033.TIF
+- .034.TIF
+- .035.TIF
+- .036.TIF
+- .038.TIF
+- .040.TIF
+- .041.TIF
+- .043.TIF
+- .044.TIF
+- .045.TIF
+- .046.TIF
+- .047.TIF
+
+**Bottom Left:**
+- Photographer: [Redacted Bar]
+
+**Bottom Right Corner:**
+- EFTA00004450
+
+## Notable Details / Clues
+- **Redaction Pattern:** Every image slot and most text fields (including the file prefixes and the photographer's name) are heavily redacted with solid black rectangles, likely for privacy or security reasons.
+- **File Sequence:** The visible numbers (.033 through .047) suggest a chronological export of files, though there are gaps in the sequence (e.g., between 35 and 36, and between 40 and 41), implying some files may have been skipped, deleted, or belong to a different case.
+- **Evidence Tag:** The code "EFTA00004450" at the bottom right resembles a Bates number or an exhibit tag often found in legal discovery documents or law enforcement evidence logs.
+- **Product Branding:** The left strip identifies the binder as a "Print File ARCHIVAL PRESERVERS," suggesting this document is part of a physical file archive intended for long-term storage.
+- **Layout Rigidity:** The strict grid layout implies this is an automated printout or a generated report sheet rather than a manually assembled scrapbook.
+- **Location Context:** The address on the side strip places the origin of the archival material in Orlando, Florida.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document, likely a contact sheet or index of digital files, encased within a clear plastic protective sleeve attached to a binder. The document is oriented vertically (portrait) and features a grid layout obscuring most visual content with black rectangular redactions.
+
+On the left side of the page, there are four rows of content arranged in three columns. Each row consists of a large black rectangle obscuring an image or graphic, followed immediately below it by a smaller black bar containing partial text labels ending in ".TIF". At the very top left corner, the letters "LSJ" are visible next to a short black bar. At the bottom left, the word "Photographer:" is printed in a sans-serif font, followed by a blacked-out block of text.
+
+On the far right edge of the image, running vertically along the edge of the plastic sleeve, is a silver-colored binder tab or label strip. It contains small, dark text printed vertically. The text appears to include alphanumeric codes and possibly names, though much of it is blurry or cut off by the frame. The entire page is surrounded by the reflective glare of the plastic sleeve, particularly noticeable along the left and right edges.
+
+## Visible Text (verbatim)
+**Top Left Header:**
+- "LSJ"
+
+**File Labels (Left to Right, Top to Bottom):**
+- "...048.TIF"
+- "...049.TIF"
+- "...050.TIF"
+- "...051.TIF"
+- "...053.TIF"
+- "...056.TIF"
+- "...061.TIF"
+- "...062.TIF"
+- "...064.TIF"
+- "...065.TIF"
+- "...068.TIF"
+- "...069.TIF"
+
+**Bottom Left:**
+- "Photographer:" (followed by redacted text)
+
+**Binder Tab (Vertical text on the right edge):**
+- "4G-178 ON LITTE" (Top segment)
+- "0015-898 (TOP) - OASIS JR. OPARINO - 62AV03 X08 0.Y" (Middle segment)
+- "ERNECHEIR JAHWADA" (Bottom segment near the logo)
+
+**Footer:**
+- "EFTA00004451"
+
+## Notable Details / Clues
+- **File Sequence:** The visible text labels in the filenames form a numerical sequence (ending in numbers like 048, 049, 050), suggesting this is a batch of digitized documents or images from a continuous scan or file collection.
+- **Redaction Pattern:** The redactions are systematic. Large rectangles cover what were likely photographs, while narrower bars cover the filenames, specifically hiding the first part of the filename but leaving the extension (.TIF) and final numbers visible.
+- **Binder Tab Orientation:** The text on the right-hand tab is oriented to be read from top to bottom if holding the folder upright by the left side, or the text itself is printed vertically up the side.
+- **Gibberish Text:** The text on the binder tab ("ERNECHEIR JAHWADA") appears nonsensical or highly specific/encoded, suggesting it might be a watermark, a fake label for a dataset, or heavily obscured text that remains legible only in parts.
+- **Top Header:** The "LSJ" at the top left could stand for an organization acronym, a case number prefix, or a photographer's initials (though this conflicts with the redacted "Photographer:" field).
+- **Plastic Sleeve:** The physical object is inside a clear vinyl or polypropylene sheet standard for office binders, indicated by the three punch holes visible on the tab.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical close-up of a printed document inserted into a clear, plastic archival sleeve within a binder or portfolio. The document is primarily white paper containing a grid layout of redacted content. The layout consists of three columns and four rows, featuring solid black rectangular blocks that completely obscure the visual content at each position (likely photographs). Beneath each black block is a text label indicating a digital file name. The text begins with a small black bar obscuring the start of the filename, followed by a number (ranging from 070 to 083) and the extension ".TIF". At the very top left, the name "Jennifer Smith LSJ" is printed. At the bottom left, the label "Photographer:" appears next to another obscured black rectangle. The plastic sleeve itself runs along the entire left edge of the image, featuring vertical text branding for "Print File Archival Preservers," an address in Orlando, FL, a phone number, and a style number. Two visible hole punch marks are present on the sleeve along the left margin. In the bottom right corner of the image frame, outside the paper but within the image bounds, a dark alphanumeric code is visible.
+
+## Visible Text (verbatim)
+**Top Header:**
+Jennifer Smith LSJ
+
+**File Labels (Left to Right, Top to Bottom):**
+...070.TIF
+...072.TIF
+...073.TIF
+...074.TIF
+...075.TIF
+...077.TIF
+...078.TIF
+...079.TIF
+...080.TIF
+...081.TIF
+...082.TIF
+...083.TIF
+
+**Bottom Left:**
+Photographer: [OBSERVED BY BLACK RECT]
+
+**Left Margin (Sleeve Branding):**
+Print File®
+ARCHIVAL PRESERVERS
+STYLE NO. 811-2P
+P.O. BOX 607638 - ORLANDO, FL 32860 - (407) 886-3100
+
+**Bottom Right Corner:**
+EFTA00004452
+
+## Notable Details / Clues
+*   **Redaction Pattern:** The consistent use of solid black rectangles suggests this document has been intentionally processed to hide sensitive information, likely for privacy protection or public redaction standards (e.g., hiding a person's face).
+*   **File Naming Convention:** The ".TIF" extension indicates these are TIFF image files, standard for high-quality archival photography. The file numbers suggest a sequential batch processing, though there is a gap between 073 and 074, and between 075 and 077 (missing 076).
+*   **Archival Context:** The sleeve branding "Print File Archival Preservers" indicates this is an original print or a scan of a physical print kept in a professional archival storage system.
+*   **Identity Masking:** The text "Jennifer Smith LSJ" at the top identifies the subject, but her photograph and any accompanying notes are fully blacked out. Similarly, the photographer's name is redacted.
+*   **Document ID:** The code "EFTA00004452" at the bottom right appears to be an external tracking or inventory ID, likely from the dataset or archive management system that processed this image.
+*   **Software Interface:** The layout strongly resembles a "contact sheet" verification print generated by photo editing software (like Photoshop or Lightroom) where filenames are displayed below thumbnails of the images.
+*   **Physical Condition:** The paper appears crisp and clean, while the plastic sleeve shows some glare on the left edge, reflecting the light source. The binding holes are punched into the top and bottom areas of the sleeve.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a white sheet of paper, likely a contact sheet or proof page for a digital imaging workflow, placed inside a clear plastic protective sleeve within a binder or album. The page is organized into a grid layout containing 12 distinct rectangular panels arranged in four rows and three columns. Each panel features a large, solid black rectangle obscuring the visual content of a photograph or image. Beneath each black rectangle is a text line indicating a file name ending in ".TIF", though the beginning of these filenames is redacted with a black bar.
+
+The grid progresses numerically but contains an interruption in sequence:
+- **Row 1:** Contains files labeled ...085.TIF, ...086.TIF, and ...087.TIF.
+- **Row 2:** Contains files labeled ...088.TIF, ...089.TIF, and ...090.TIF.
+- **Row 3:** Jumps to files labeled ...093.TIF, ...094.TIF, and ...095.TIF (skipping the 091 and 092 sequence).
+- **Row 4:** Continues with files labeled ...096.TIF, ...097.TIF, and ...098.TIF.
+
+Along the left edge of the page, at the very top, there is a small text snippet "LSJ" next to a redacted black bar. At the bottom left, the label "Photographer:" appears followed by another redacted black bar. To the right of the paper sheet, inside the clear plastic sleeve, is a vertical gray manufacturer tab or label running along the edge. This tab features black text printed vertically and contains identification codes related to Bates numbering or archival tracking (e.g., "...TC-45S..."). The bottom right corner of the digital image file itself bears an archive watermark or ID number: "EFTA00004453".
+
+## Visible Text (verbatim)
+- Top left corner text: "LSJ"
+- File name labels (partial):
+    - "...085.TIF"
+    - "...086.TIF"
+    - "...087.TIF"
+    - "...088.TIF"
+    - "...089.TIF"
+    - "...090.TIF"
+    - "...093.TIF"
+    - "...094.TIF"
+    - "...095.TIF"
+    - "...096.TIF"
+    - "...097.TIF"
+    - "...098.TIF"
+- Bottom left label: "Photographer:" (followed by redacted text)
+- Vertical text on the right plastic tab (reading upwards from bottom to top):
+    - "VACUUM SEALING"
+    - "DURAPACK" (Logo/Brand)
+    - "09TC-45S (ROH) - 04622 A 0094/150 - #62703 XOB .O.5"
+    - "SPC.176 OHL JI 3B" (Top section text, partially obscured/rotated)
+- Bottom right corner image watermark: "EFTA00004453"
+
+## Notable Details / Clues
+- **File Format:** The images are saved in the TIFF format (.TIF), commonly used for high-quality archival or scanned documents.
+- **Redaction Strategy:** Systematic black bars are used to cover sensitive metadata (likely case numbers, full filenames, and photographer names) while preserving the sequence of images.
+- **Numbering Anomaly:** There is a distinct gap in the file numbering between Row 2 (ending in .090) and Row 3 (starting with .093), suggesting either missing files were cropped out or the batch selection was not contiguous.
+- **Archival Context:** The "Durapack" sleeve and the vertical Bates-stamp style text suggest this document is part of a legal discovery package, government archive, or secure recordkeeping system.
+- **ID Number:** The code "EFTA00004453" indicates this specific image has been cataloged into a database, likely related to an investigation given the heavy redaction.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document page encased in a clear plastic archival sleeve with three punch holes along the left edge. The page is organized as a grid of redacted content, likely a printout of a digital file list or index. The layout consists of four main rows of content areas and a header section at the very top. Each content area features a large, solid black rectangular block obscuring the primary visual information (likely images). Beneath or beside these large blocks are smaller black bars with text fragments visible to their right.
+
+The document appears to be an index for image files, indicated by the ".TIF" file extensions visible in the filenames. The redaction style is uniform across the page, using solid black rectangles of varying sizes to cover specific information. The plastic sleeve on the left bears printed text identifying it as a product from "Print File Archival Preservers" located in Orlando, FL. The top left corner of the paper contains the letters "LSJ" next to a long black bar. At the bottom left, there is a field labeled "Photographer:" which is followed by a blacked-out area.
+
+## Visible Text (verbatim)
+**Sleeve Spine (Vertical, from top to bottom):**
+- STYLE NO. 811-2P
+- Print File ARCHIVAL PRESERVERS
+- P.O. BOX 607638 - ORLANDO, FL 32860 - (407) 886-3100
+
+**Document Content:**
+- LSJ (Top left corner)
+- ...00.TIF (Next to top-left redaction area)
+- ...101.TIF (Center top row)
+- ...102.TIF (Right top row)
+- ...03.TIF (Left, second visual row down)
+- ...04.TIF (Center, second visual row down)
+- ...05.TIF (Right, second visual row down)
+- ...06.TIF (Left, third visual row down)
+- ...07.TIF (Center, third visual row down)
+- ...08.TIF (Right, third visual row down)
+- ...09.TIF (Left, bottom visual row)
+- ...12.TIF (Center, bottom visual row)
+- ...13.TIF (Right, bottom visual row)
+- Photographer:
+
+## Notable Details / Clues
+- **File Extensions:** The recurring ".TIF" suffix confirms these are Tagged Image File Format files, commonly used for high-quality document printing and archival.
+- **Numbering Sequence:** The visible filename numbers show a somewhat irregular sequence (...00, ...101, ...102) followed by consecutive integers (...03, ...04, ...05... ...09), then skipping to ...12 and ...13. This suggests either specific file filtering or missing pages/files in the source directory.
+- **Redaction Consistency:** The black bars are distinct between the large image redactions and the smaller filename obfuscation, indicating a templated design for this sheet.
+- **Location Data:** The address "Orlando, FL" on the sleeve provides geographic context for the source of the document preservation equipment.
+- **Layout Grid:** The content is arranged in a roughly 3-column grid. The top row has irregular sizing compared to the subsequent uniform rows below it.
+- **Obscured Text:** Most filenames are partially cut off by black bars on the left, leaving only the ending numbers and file extension visible (e.g., "101.TIF", "09.TIF").
+- **Product ID:** The spine includes a specific style number "811-2P," which could be used to identify the exact model or type of archival sleeve.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a sheet of white paper inserted into a clear plastic binder sleeve or document protector. The paper contains a grid layout consisting of 12 large, solid black rectangles arranged in 4 rows and 3 columns. These black shapes act as redactions, obscuring what appear to be photographs or documents behind them.
+
+Below each black rectangle is a line of text indicating a filename, ending in ".TIF". A horizontal black redaction bar covers the beginning of most filenames, hiding the file extension's preceding numbers or letters.
+
+**Layout:**
+- **Top Row:** Three black rectangles with labels partially visible as "...14.TIF", "...15.TIF", and "...16.TIF". Above the top-left rectangle is partial text reading "LSJ".
+- **Second Row:** Three black rectangles labeled "...18.TIF", "...19.TIF", and "...20.TIF". (Note: File 17 appears to be missing from the sequence).
+- **Third Row:** Three black rectangles. The labels are partially obscured but appear to read "...21.TIF" (though visually it looks like "121.TIF"), "...22.TIF" (visually looking like "122.TIF"), and "23.TIF".
+- **Fourth Row:** Three black rectangles labeled "...24.TIF", "...25.TIF", and "...26.TIF".
+
+**Periphery:**
+- **Right Edge:** The plastic sleeve has three circular punched holes vertically aligned. Inside the plastic, on the right edge of the paper (or visible through the sleeve), is a grey strip with vertical text. This includes the "Pilot" logo and partial phone numbers/contact info.
+- **Bottom Left:** There is a label reading "Photographer:" followed by a redaction bar.
+
+## Visible Text (verbatim)
+**Top Header:**
+- LSJ
+
+**Row 1 Labels:**
+- ...14.TIF
+- ...15.TIF
+- ...16.TIF
+
+**Row 2 Labels:**
+- ...18.TIF
+- ...19.TIF
+- ...20.TIF (The '2' is visible, preceding digits obscured)
+
+**Row 3 Labels:**
+- ...121.TIF (Note: The '1' appears as a distinct character before the redaction block ends or starts, possibly reading 21 or 121 depending on interpretation of the bar) -> *Correction*: Looking closely, the text is aligned with the end of the bar. It looks like `...21.TIF` but with a stray mark or artifact. Wait, looking at crop 4, it clearly says `121.TIF`. I will transcribe what is visible.
+- ...122.TIF (Same as above)
+- 23.TIF
+
+**Row 4 Labels:**
+- ...24.TIF
+- ...25.TIF
+- 26.TIF
+
+**Footer:**
+- Photographer: [Redacted]
+
+**Side Strip Text (Vertical):**
+- Pilot
+- ...0912...
+- ...M
+
+## Notable Details / Clues
+- **Redaction Pattern:** The redactions are consistent horizontal bars placed at the start of the filenames, suggesting a batch processing of digital files (TIFF images).
+- **Sequence Gap:** There is a gap in the numerical sequence between file 16 and 18. File 17 is absent from the grid.
+- **Visual Artifacts:** In the third row, the labels for columns 1 and 2 visually appear to have an extra '1' (reading as "121" and "122"), which deviates from the standard double-digit pattern of the other files (e.g., 14-16, 23-26). This may be a visual artifact of the redaction bar or a specific filing convention (e.g., 021 vs 21).
+- **Plastic Sleeve:** The document is inside a standard three-ring binder plastic sheet. The "Pilot" branding suggests this might be stationery from Pilot Flying J or a similar retailer, though the text is cut off.
+- **Photographer Field:** The bottom left field indicates that the source of these images (a photographer) has been redacted, implying legal or privacy protection for the creator's identity.
+- **File Format:** The .TIF extension indicates Tagged Image File Format, commonly used for archival or high-quality scanning purposes.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed contact sheet or film strip output containing a grid of twelve individual images arranged in four rows and three columns. Every single image area has been completely obscured by solid black rectangular redaction boxes, rendering the visual content invisible. Below each blacked-out image is a line of text indicating the file name or caption, though the beginning of these filenames is partially covered by shorter black bars.
+
+The contact sheet is encased in a transparent plastic archival sleeve within a 3-ring binder. Along the left vertical edge of this sleeve, printed text identifies the brand and location: "Print File® ARCHIVAL PRESERVERS," followed by an Orlando, Florida address and phone number. Three dark circular holes from the binder rings are visible along the far left margin of the page. At the bottom left of the grid area, a field labeled "Photographer:" is present, with the text following it redacted by a small black box. A document identification code, "EFTA00004456," appears in white text at the extreme bottom right corner of the image frame.
+
+## Visible Text (verbatim)
+- **Top Center/Left:** "LSJ"
+- **Row 1 Filenames:** "...27.TIF", "...28.TIF", "...29.TIF"
+- **Row 2 Filenames:** "...30.TIF", "...31.TIF", "...32.TIF"
+- **Row 3 Filenames:** "...33.TIF", "...34.TIF", "...35.TIF" (Note: The bars for 34 and 35 appear split into two segments)
+- **Row 4 Filenames:** "...36.TIF", "...37.TIF", "...38.TIF"
+- **Bottom Left Label:** "Photographer:" followed by redacted text.
+- **Vertical Sidebar Text:**
+    - "Print File®"
+    - "ARCHIVAL PRESERVERS"
+    - "P.O. BOX 607638 • ORLANDO, FL 32860 • (407) 886-2100"
+    - "STYLE NO. 811-2P"
+- **Bottom Right Corner:** "EFTA00004456"
+
+## Notable Details / Clues
+- **Redaction Level:** The content is heavily censored; not only are the images hidden, but the full file paths or names (likely containing a prefix like "IMG_" or a timestamp) are partially obscured by black bars directly above them.
+- **File Extension:** All filenames end in ".TIF", indicating these are tagged image file format prints, commonly used for photo proofing before printing hard copies.
+- **Archival Context:** The inclusion of the "Print File" sleeve and binder holes suggests this document is being stored in an organized collection or legal archive.
+- **Image Count:** The sequence runs from file ending in 27 through 38, implying a continuous batch of photos was processed.
+- **Header Label:** The text "LSJ" at the top might stand for an initials (e.g., Legal Secretary Jones or similar), though it is unverified without further context.
+
+## Page 10 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document, likely a printout from an archival database or evidence management system, enclosed within a clear plastic three-ring binder pocket. The document features a grid layout consisting of four distinct rows of content, arranged in columns. Each row contains three large, solid black rectangles which serve as placeholders for photographs; these are completely redacted, obscuring the actual visual evidence. Beneath each group of three images are corresponding text labels ending in ".TIF", indicating digital image file extensions (Tagged Image File Format).
+
+To the left of each label is a horizontal black bar, which appears to be a redaction covering a name, description, or other metadata. In the top left corner, the text "LSJ" is visible next to two small black bars. At the bottom left of the page, the word "Photographer:" is printed, followed by another blacked-out bar indicating a redacted name. On the right edge of the document, inside the binder pocket, vertical text is visible on the plastic sleeve, displaying an address and phone number associated with San Francisco (area code 415). A case or identifier number "EFTA00004457" appears in the bottom right corner.
+
+## Visible Text (verbatim)
+*   **Top Left:** "LSJ"
+*   **Row 1 Labels:** "...39.TIF", "...40.TIF", "...41.TIF"
+*   **Row 2 Labels:** "...42.TIF", "...43.TIF", "...144.TIF" (Note: The '1' in 144 is visible, creating a numbering sequence jump from 43).
+*   **Row 3 Labels:** "...145.TIF", "...146.TIF", "...147.TIF"
+*   **Row 4 Labels:** "...148.TIF", "...149.TIF", "...150.TIF"
+*   **Bottom Left:** "Photographer:" followed by a black box.
+*   **Binder Spine (Vertical):** Partially visible text including address lines ending in "...94102", phone number "(415) 888-2100", and a logo or brand name appearing to be "Smith & Wesson" or similar near the bottom.
+*   **Bottom Right Corner:** "EFTA00004457"
+
+## Notable Details / Clues
+*   **Redaction Pattern:** Every text field containing potential personal identifiers (names, descriptions) is covered by a solid black rectangle, while the image placeholders themselves are also blacked out. This suggests the document is a privacy-scrubbed version of an original evidence sheet.
+*   **File Numbering Anomaly:** The file numbers jump significantly from 43 to 144. This could indicate a gap in the file sequence (e.g., other files not shown or deleted) or that this printout combines files from different batches or case numbers.
+*   **Jurisdiction Code:** "LSJ" likely stands for a specific police department or jurisdiction (possibly Los Angeles Sheriff's Department), though standard acronyms vary.
+*   **Digital Evidence Archive:** The use of ".TIF" extensions confirms these are digital files, likely high-resolution scans or raw camera files used in legal contexts.
+*   **Geographic Location:** The phone number on the binder spine "(415)..." and address "San Francisco CA 94102" place the physical storage location in San Francisco.
+*   **Grid Consistency:** Despite the numbering jump, the layout remains consistent with three columns of images per row, suggesting a standard report format used by the agency.
+*   **Binder Branding:** The plastic sleeve has branding text running vertically (upside down relative to the document text), typical of commercial office binders or archival sleeves.
+
+## Page 11 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a white sheet of paper contained within a clear plastic protective sleeve, situated inside a binder or album. The document serves as a visual index, featuring a grid layout of large, black rectangular blocks that obscure the primary content (likely photographs). Beneath each blacked-out block is a small label containing text and a file extension.
+
+On the left edge, the printed border of the archival sleeve is visible, featuring branding and contact information running vertically. The layout consists of three main rows. The top row features three large blocks with labels corresponding to files ending in "51.TIF", "52.TIF", and "53.TIF". The middle row mirrors this with blocks labeled "54.TIF", "55.TIF", and "56.TIF". The bottom row contains two blocks, labeled "57.TIF" and "58.TIF," leaving the bottom right area empty. In the top left corner, above the first column of blocks, is a small label with the text "LSJ" next to a redacted area. At the very bottom left, the word "Photographer" appears next to a blacked-out section, presumably containing a name.
+
+## Visible Text (verbatim)
+**On the Archival Sleeve (Left Edge):**
+*   "STYLE NO. 811-2P"
+*   "Print File"
+*   "ARCHIVAL PRESERVERS"
+*   "P.O. BOX 607438 • ORLANDO, FL 32860 • (407) 886-3100"
+
+**On the Document Page:**
+*   "LSJ" (Top left corner)
+*   "51.TIF" (Below top-left block)
+*   "[Redacted] 52.TIF" (Below top-middle block)
+*   "[Redacted] 53.TIF" (Below top-right block)
+*   "54.TIF" (Below middle-left block)
+*   "55.TIF" (Below middle-middle block)
+*   "56.TIF" (Below middle-right block)
+*   "57.TIF" (Below bottom-left block)
+*   "58.TIF" (Below bottom-middle block)
+*   "Photographer" (Bottom left)
+
+## Notable Details / Clues
+*   **File Format:** The labels end in ".TIF", indicating these are TIFF image files, a common format for archival scanning of documents and photographs.
+*   **Redaction:** The content is heavily redacted using solid black bars, likely to protect privacy or sensitive information associated with the images or the photographer's identity.
+*   **Geographic Location:** The sleeve provides an address in Orlando, Florida, which may indicate where these files were processed or stored.
+*   **Sequential Numbering:** The file names (51 through 58) suggest this is part of a larger sequence of digital assets being reviewed or released.
+*   **Initials/Acronym:** The text "LSJ" at the top left likely represents initials associated with the document, subject, or case.
+*   **Page Structure:** The asymmetry in the bottom row (only two images instead of three) suggests the end of a set or a specific selection criteria was used for this page.
+*   **Brand Identity:** "The Print File" is a known company specializing in digital asset management and archival preservation, confirming the professional context of these documents.
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+
+CD
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00004459
+
+## Structured Fields
+*   **Date:** July 27, 2020
+*   **Doc ID:** EFTA00004459
+*   **Handwritten Description:** CD
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+(Apple Logo)
+Photos
+[REDACTED]
+DVD-R                     4.7GB
+                          2x speed
+                           DVD R
+[REDACTED]
+LSJ 9/03.
+© 2003 Apple Computer, Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple Computer, Inc. Registered in the U.S. and other countries. Made in Japan. S91434-A
+
+EFTA00004460
+
+## Structured Fields
+- **Date:** 2003 (Copyright), 9/03 (Handwritten)
+- **Case ID / Doc ID:** EFTA00004460
+- **Organization:** Apple Computer, Inc.
+- **Media Type:** DVD-R
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PRINT FILE
+STYLE NO. 811-2P
+P.O. BOX 607/638 • ORLANDO, FL 32860 • (407) 889-3100
+
+## Unredacted Text Content
+[REDACTED]
+.JPG
+[JPG with . at start]
+JPG
+[REDACTED]3.JPG
+[REDACTED]4.JPG
+[REDACTED]00.JPG
+[REDACTED]01.JPG
+[REDACTED]02.JPG
+[REDACTED]03.JPG
+[REDACTED]04.JPG
+[REDACTED]05.JPG
+[REDACTED]06.JPG
+Photographer: [REDACTED]
+
+EFTA00004461
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+[Yellow Note Placeholder]     [Yellow Note Placeholder]     [Yellow Note Placeholder]
+[REDACTED]07.JPG             [REDACTED]08.JPG             [REDACTED]09.JPG
+[Yellow Note Placeholder]     [Yellow Note Placeholder]     [Image with Redaction]
+[REDACTED]...0.JPG           [REDACTED]11.JPG             [REDACTED]...2.JPG
+[Image with Redaction]        [Image with Redaction]        [Black Box Image]
+[REDACTED]13.JPG             [REDACTED]14.JPG             [REDACTED]15.JPG
+[Black Box]                   [Black Box]                   [Black Box]
+[REDACTED]16.JPG             [REDACTED]17.JPG             [REDACTED]18.JPG
+Photographer: [REDACTED]
+
+## Structured Fields
+- **Document ID:** EFTA00004462 (Bottom right corner)
+- **Sleeve Brand:** PAPERMATE (Right margin vertical text)
+- **Sleeve Part Number:** 05-119 COM STTE (Right margin vertical text, reversed)
+- **Photographer Name:** [REDACTED]
+
+## Page 16 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical sheet of white paper encased within a clear plastic archival sleeve, likely part of a binder or folder system. The paper features a grid layout containing multiple redacted entries, suggesting a printout of digital files where the visual content has been blacked out for privacy or security.
+
+The layout consists of roughly three columns and four rows of content blocks.
+*   **Redaction Pattern:** Each entry in the grid features a large, solid black rectangle obscuring what would be an image or photo thumbnail. Beneath each black rectangle is a small black bar covering the beginning of a text filename (ending in `.JPG`).
+*   **Grid Arrangement:**
+    *   **Top Row:** There are three large black image blocks. Below them, partially obscured filenames end in `9.JPG`, `0.JPG`, and `1.JPG`.
+    *   **Second Row:** Three similar large black image blocks. Filenames below read `.22.JPG` (left), `.3.JPG` (middle), and `.4.JPG` (right).
+    *   **Third Row:** Three large black image blocks. Filenames below read `.5.JPG`, `.6.JPG`, and `.7.JPG`.
+    *   **Bottom Area:** Two large black image blocks are present in the bottom left and center columns. The right column is empty at this level. Below these, filenames end in `.8.JPG` (left) and `.9.JPG` (middle).
+*   **Left Edge Strip:** Along the left edge of the plastic sleeve, vertical text is visible. It identifies the product as a "Print File ARCHIVAL PRESERVERS" and includes a style number and address/phone information for Orlando, FL.
+*   **Bottom Section:** In the bottom left corner, below the last image, the text "Photographer:" is visible, followed by a small black bar obscuring the name.
+
+## Visible Text (verbatim)
+**Left Sleeve Strip (Vertical):**
+- "Print File" (Logo)
+- "ARCHIVAL PRESERVERS"
+- "STYLE NO. 8111-2P"
+- "P.O. BOX 607638 - ORLANDO, FL 32860 - (407) 866-3100"
+
+**Bottom Left:**
+- "Photographer: [Bar]"
+
+**Filenames (Suffixes visible):**
+- ".9.JPG"
+- ".0.JPG"
+- ".1.JPG"
+- "22.JPG" (The number 22 is visible next to a bar)
+- ".3.JPG" (Likely 23, with the '2' obscured or part of the bar logic) -> *Correction: Looking closely at crop 4, it reads "23.JPG" but the first digit is covered/obscured by context. Wait, actually looking at the full image row 2 middle... it looks like ".3.JPG". Row 2 left is ".22.JPG".*
+- ".4.JPG"
+- ".5.JPG"
+- ".6.JPG"
+- ".7.JPG"
+- ".8.JPG"
+- ".9.JPG"
+
+**Bottom Right Corner:**
+- "EFTA00004463"
+
+## Notable Details / Clues
+*   **Sequencing Logic:** The filenames suggest a sequential numbering of digital assets. The visible digits (e.g., `22`, `23` inferred, up to `29`) imply a batch of files numbered roughly from the 10s or 20s upwards. The sequence jumps slightly in the display (ending in 9/0/1 then starting with 22), which might indicate that earlier files were on a previous sheet or deleted, or simply that the printing stopped.
+*   **Redaction Strategy:** The use of uniform black bars indicates automated or standardized redaction software was likely used to protect sensitive visual content (the photos) and personal information (the photographer's name). The filenames are partially retained to help index the files even after their content is removed.
+*   **Archival Context:** The "Print File" branding suggests this document is a physical printout created specifically for long-term storage or legal evidence, rather than a casual screenshot.
+*   **File Format:** All files use the standard `.JPG` extension, indicating common image file types.
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+STYLE NO. 811-2P
+P.O. BOX 607638 • ORLANDO, FL 32860 • (407) 886-3100
+PrintFile®
+ARCHIVAL PRESERVERS
+
+[REDACTED], LSJ
+
+[REDACTED]
+DSCF0001_1.TIF
+                     [REDACTED]
+DSCF0002_1.TIF
+                     [REDACTED]
+DSCF0003_1.TIF
+
+[REDACTED]
+DSCF0004_1.TIF
+                     [REDACTED]
+DSCF0005_1.TIF
+                     [REDACTED]
+DSCF0006_1.TIF
+
+[REDACTED]
+DSCF0007_1.TIF
+                     [REDACTED]
+DSCF0008_1.TIF
+                     [REDACTED]
+DSCF0009_1.TIF
+
+EFTA00004464
+
+## Structured Fields
+- **Document ID**: EFTA00004464
+- **Organization**: PrintFile (Archival Preservers)
+- **Location**: Orlando, FL 32860
+- **Style No**: 811-2P
+- **Filenames**: DSCF0001_1.TIF through DSCF0009_1.TIF
+- **Header Text**: LSJ
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED], LSJ
+
+DSCF0010_1.TIF   DSCF0011_1.TIF   DSCF0012_1.TIF
+
+DSCF0013_1.TIF   DSCF0014_1.TIF   DSCF0015_1.TIF
+
+DSCF0016_1.TIF   DSCF0017_1.TIF   DSCF0018_1.TIF
+
+EFTA00004465
+
+## Structured Fields
+- **Document ID:** EFTA00004465
+- **Labels/Filenames:**
+  - DSCF0010_1.TIF
+  - DSCF0011_1.TIF
+  - DSCF0012_1.TIF
+  - DSCF0013_1.TIF
+  - DSCF0014_1.TIF
+  - DSCF0015_1.TIF
+  - DSCF0016_1.TIF
+  - DSCF0017_1.TIF
+  - DSCF0018_1.TIF
+- **Header Fragment:** LSJ
+- **Spine Text (Vertical):** Safilo, VIGILANZ MERKELBERG
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED], LSJ
+
+| Print File ARCHIVAL PRESERVERS STYLE NO. 811-2P P.O. BOX 607638 • ORLANDO, FL 32860 • (407) 886-3100 | DSCF0020_1.TIF | DSCF0021_1.TIF | DSCF0022_1.TIF |
+|---|---|---|---|
+| DSCF0023_1.TIF | DSCF0024_1.TIF | DSCF0025_1.TIF |
+| DSCF0026_1.TIF | DSCF0027_1.TIF | DSCF0028_1.TIF |
+
+## Structured Fields
+- **Document ID:** EFTA00004466
+- **Style No:** 811-2P
+- **Organization:** Print File Archival Preservers
+- **Location:** ORLANDO, FL 32860
+- **Phone:** (407) 886-3100
+- **Person/Initials:** LSJ
+
+## Page 20 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED], LSJ
+
+[image]                              [image]                              [image]
+DSCF0029_1.TIF      DSCF0030_1.TIF                      DSCF0031_1.TIF
+
+[image]                              [image]                              [image]
+DSCF0032_1.TIF      DSCF0033_1.TIF                      DSCF0034_1.TIF
+
+[image]                              [image]                              [image]
+DSCF0035_1.TIF      DSCF0037_1.TIF                      DSCF0038_1.TIF
+
+SF-17-16
+[ILLEGIBLE]
+UNITED STATES [ILLEGIBLE]
+
+## Structured Fields
+*   **Doc ID:** EFTA00004467
+*   **Date:** 05/12/08
+*   **Names/Organizations:** LSJ, JEFFERSON, UNITED STATES
+*   **File Names:** DSCF0029_1.TIF, DSCF0030_1.TIF, DSCF0031_1.TIF, DSCF0032_1.TIF, DSCF0033_1.TIF, DSCF0034_1.TIF, DSCF0035_1.TIF, DSCF0037_1.TIF, DSCF0038_1.TIF
+
+## Page 21 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED], LSJ
+
+DSCF0039_1.TIF                      DSCF0040_1.TIF                      DSCF0041_1.TIF
+
+DSCF0042_1.TIF                      DSCF0043_1.TIF                      DSCF0044_1.TIF
+
+DSCF0045_1.TIF                      DSCF0046_1.TIF
+
+
+
+## Structured Fields
+- Doc IDs: DSCF0039_1.TIF, DSCF0040_1.TIF, DSCF0041_1.TIF, DSCF0042_1.TIF, DSCF0043_1.TIF, DSCF0044_1.TIF, DSCF0045_1.TIF, DSCF0046_1.TIF
+- Location: ORLANDO, FL
+- Organization: PrintFile Archival Preservers
+- Style No.: 811-2P
+- Page ID: EFTA00004468
+- Initials/Names: LSJ (likely associated with the blacked out text)
+
+## Page 22 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+
+DSCF0008_1.TIF
+DSCF0009_1.TIF
+DSCF0010_1.TIF
+DSCF0011_1.TIF
+
+DSCF0012_1.TIF
+DSCF0013_1.TIF
+DSCF0014_1.TIF
+DSCF0015_1.TIF
+
+DSCF0016_1.TIF
+DSCF0017_1.TIF
+DSCF0018_1.TIF
+DSCF0019_1.TIF
+
+DSCF0020_1.TIF
+DSCF0021_1.TIF
+DSCF0022_1.TIF
+DSCF0023_1.TIF
+
+DSCF0020_1.TIF
+Photographers: [REDACTED]
+
+## Structured Fields
+*   **Location/Cities mentioned:** China, Paris, Stockholm
+*   **Document ID (Footer):** EFTA00004469
+*   **Organization:** PrintFile® Archival Preservers
+*   **Address:** P.O. BOX 607638 • ORLANDO, FL 32860
+*   **Phone:** (407) 886-3100
+*   **Style No:** 811-2P
+
+## Page 23 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+
+DSCF0024_1.TIF                              DSCF0025_1.TIF                              DSCF0026_1.TIF                              DSCF0028_1.TIF
+
+DSCF0029_1.TIF                              DSCF0030_1.TIF                              DSCF0031_1.TIF                              DSCF0032_1.TIF
+
+DSCF0033_1.TIF                              DSCF0034_1.TIF                              DSCF0035_1.TIF                              DSCF0036_1.TIF
+
+DSCF0037_1.TIF                              DSCF0038_1.TIF                              DSCF0039_1.TIF                              DSCF0040_1.TIF
+
+Photographers: [REDACTED]
+
+DC-178 ON BUTTE
+
+5407 BOX 60,6918 • ORHON 2 22200 - (40) 698-23100
+VICHART MERCIER
+blueink®
+
+EFTA00004470
+
+## Structured Fields
+- **Header Location/Topics:** China, Paris, Stockholm
+- **Document ID:** EFTA00004470
+- **Photographers:** [REDACTED]
+- **Binder Tab Text (Vertical):** DC-178 ON BUTTE, 5407 BOX 60,6918 • ORHON 2 22200 - (40) 698-23100, VICHART MERCIER, blueink®
+
+## Page 24 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+
+DSCF0041_1.TIF    DSCF0042_1.TIF    DSCF0043_1.TIF    DSCF0044_1.TIF
+
+DSCF0045_1.TIF    DSCF0046_1.TIF    DSCF0047_1.TIF    DSCF0048_1.TIF
+
+DSCF0049_1.TIF    DSCF0050_1.TIF    DSCF0051_1.TIF    DSCF0052_1.TIF
+
+DSCF0053_1.TIF    DSCF0054_1.TIF    DSCF0055_1.TIF    DSCF0056_1.TIF
+
+Photographers: [REDACTED]
+
+EFTA00004471
+## Structured Fields
+- Locations: China, Paris, Stockholm
+- Document ID (Watermark): EFTA00004471
+- Organizations: PrintFile
+
+## Page 25 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+
+DSCF0057_1.TIF      DSCF0058_1.TIF      DSCF0059_1.TIF      DSCF0060_1.TIF
+
+DSCF0061_1.TIF      DSCF0062_1.TIF      DSCF0063_1.TIF      DSCF0064_1.TIF
+
+DSCF0065_1.TIF      DSCF0066_1.TIF      DSCF0067_1.TIF      DSCF0068_1.TIF
+
+DSCF0069_1.TIF      DSCF0070_1.TIF      DSCF0071_1.TIF      DSCF0072_1.TIF
+
+Photographers: AM/SK
+
+## Structured Fields
+- **Locations:** China, Paris, Stockholm
+- **File IDs/Doc IDs:** EFTA00004472, DSCF0057_1.TIF, DSCF0058_1.TIF, DSCF0059_1.TIF, DSCF0060_1.TIF, DSCF0061_1.TIF, DSCF0062_1.TIF, DSCF0063_1.TIF, DSCF0064_1.TIF, DSCF0065_1.TIF, DSCF0066_1.TIF, DSCF0067_1.TIF, DSCF0068_1.TIF, DSCF0069_1.TIF, DSCF0070_1.TIF, DSCF0071_1.TIF, DSCF0072_1.TIF
+- **Photographers:** AM/SK
+- **Spine/Album Info:** Dutch Album, Reversal Layout, (716-488) (TO), 13012 • 80356 N. DAVIS • OHIOVILLE • OHIO USA, 911-3B
+
+## Page 26 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+
+STYLE NO. 811-2P
+Print File ARCHIVAL PRESERVERS
+D.P.OX 607638 • ORLANDO, FL 32860 • (407) 886-3100
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| [Image] | [Image] | [Black Box] | [Image] |
+| DSCF0073_1.TIF | DSCF0074_1.TIF | DSCF0075_1.TIF | DSCF0076_1.TIF |
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| [Image] | [Image] | [Image] | [Image] |
+| IMG_4613.JPG | IMG_4614.JPG | IMG_4615.JPG | IMG_4616.JPG |
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| [Image] | [Image] | [Image] | [Image] |
+| IMG_4617.JPG | IMG_4618.JPG | IMG_4619.JPG | IMG_4620.JPG |
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| [Image] | [Image] | [Image] | [Image] |
+| IMG_4621.JPG | IMG_4622.JPG | IMG_4623.JPG | IMG_4624.JPG |
+
+Photographers: [REDACTED]
+
+EFTA00004473
+
+## Structured Fields
+- **Locations:** China, Paris, Stockholm
+- **Document ID:** EFTA00004473
+- **Organization:** Print File Archival Preservers
+- **Address/Contact:** D.P.OX 607638, ORLANDO, FL 32860, (407) 886-3100
+- **Style No:** 811-2P
+- **File Formats:** .TIF, .JPG
+
+## Page 27 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+IMG_4625.JPG    IMG_4626.JPG    IMG_4627.JPG    IMG_4628.JPG
+IMG_4629.JPG    IMG_4630.JPG    IMG_4631.JPG    IMG_4632.JPG
+IMG_4633.JPG    IMG_4634.JPG    IMG_4635.JPG    IMG_4636.JPG
+IMG_4637.JPG    [REDACTED]      IMG_4638.JPG    IMG_4639.JPG    IMG_4640.JPG
+Photographers:
+[REDACTED]
+
+## Structured Fields
+- Locations mentioned in header: China, Paris, Stockholm
+- File IDs observed:
+  - IMG_4625.JPG
+  - IMG_4626.JPG
+  - IMG_4627.JPG
+  - IMG_4628.JPG
+  - IMG_4629.JPG
+  - IMG_4630.JPG
+  - IMG_4631.JPG
+  - IMG_4632.JPG
+  - IMG_4633.JPG
+  - IMG_4634.JPG
+  - IMG_4635.JPG
+  - IMG_4636.JPG
+  - IMG_4637.JPG
+  - IMG_4638.JPG
+  - IMG_4639.JPG
+  - IMG_4640.JPG
+- Redacted section containing the word "Photographers" followed by a black box.
+- Document ID in footer: EFTA00004474
+
+## Page 28 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+
+STYLE NO. 811-2P
+P.O. BOX 60/632 - ORLANDO, FL 32860 - (407) 886-3100
+Print File ARCHIVAL PRESERVERS
+
+IMG_4641.JPG          IMG_4642.JPG    IMG_4644.JPG    IMG_4647.JPG
+
+IM_ _4648.JPG       IMG_4649.JPG   IMG_4650.JPG    IMG_4651.JPG
+
+IMG_4652.JPG        IMG_4653.JPG    IMG_4654.JPG    IMG_4655.JPG
+
+IMG_4656.JPG      IMG_4657.JPG    IMG_4658.JPG    IMG_4659.JPG
+
+Photographers: [REDACTED]
+
+## Structured Fields
+- **Locations mentioned:** China, Paris, Stockholm
+- **Document/Style ID:** Print File STYLE NO. 811-2P
+- **Organization:** Print File ARCHIVAL PRESERVERS
+- **Address:** P.O. BOX 60/632 - ORLANDO, FL 32860 - (407) 886-3100
+- **Case ID:** EFTA00004475
+
+## Page 29 (DOC) [TAG:DOJ_CLEAN_V2]
+
+China, Paris, Stockholm
+
+IMG_4660.JPG             IMG_4661.JPG             IMG_4662.JPG             IMG_4663.JPG
+
+IMG_4664.JPG             IMG_4665.JPG             IMG_4666.JPG             IMG_4667.JPG
+
+IMG_4668.JPG             IMG_4669.JPG             IMG_4670.JPG             IMG_4671.JPG
+
+IMG_4672.JPG
+Photographers: [REDACTED]
+
+SE-1/18 .ON LIFE
+2007-438 (TOS) - OASIS B GOMALO - BEATOS XIB O.Y
+EFT A 0000 4476
+
+## Structured Fields
+- **Locations:** China, Paris, Stockholm
+- **Image IDs:** IMG_4660.JPG through IMG_4672.JPG
+- **Case/Document ID:** EFT A 0000 4476
+- **Date on spine strip:** 1/18 (possibly January 18th) or 2007 (from vertical text "2007-438")
+- **Organization/Entity on spine:** OASIS (possibly Office of Art and Special Investigations?)
+- **Names on spine:** GOMALO, BEATOS (possibly names associated with the case)
+- **Photographers:** [REDACTED]
+

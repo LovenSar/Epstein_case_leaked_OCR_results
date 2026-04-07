@@ -1,0 +1,40 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002172.pdf ts=2026-03-05T18:05:19 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays four identity documents arranged in a grid-like fashion on a wooden surface. 
+
+*   **Top Left:** A piece of white paper is labeled "CURRENT PASSPORTS" in handwritten pencil at the top. Laminated over this sheet are two cards. The bottom card is a New Zealand passport data page showing a photo of an older Caucasian male with short grey hair and the name "BAKER PHILIP ANTHONY". Above it is a laminated overlay card titled "SECURITY ELEMENTS" which displays magnified graphics of holograms and map features from the passport.
+*   **Top Right:** A white piece of paper holds a New Zealand Driver's License attached to it. The card has a green background with the NZ flag and gold foil details. The name "BAKER PHILIP ANTHONY" is printed at the top, matching the passport photo.
+*   **Bottom Left:** A long, yellowed form is titled "REPUBLIC OF THE PHILIPPINES CERTIFICATE OF LIVE BIRTH." It features a blue seal in the corner and various typewritten fields with handwritten entries. Key visible names include "ANTONIO G..." in the Father's Name field and "Hyla Lacson Tresita" (handwritten) appearing in the center/left area. A date of registration near the bottom reads "5-17-84".
+*   **Bottom Right:** A white sheet of paper contains a standard blue-bordered US Social Security card. The name "MYLA LACSON TRESITA" is printed on the card, while the 9-digit number area is redacted with a black bar.
+
+## Visible Text (verbatim)
+*   **Top Left (Handwritten Label):** "CURENT PASSPORTS" (possibly intended as Current).
+*   **Passport Overlay:** "SECURITY ELEMENTS | KAUPUNGA KAUPAPA MAHI".
+*   **Passport Data Page:**
+    *   "NEW ZEALAND | AOTEOA"
+    *   "TYPE P N Z L"
+    *   "BAKER"
+    *   "PHILIP ANTHONY"
+    *   Dates: "17 JUN 2015" ... "17 JUN 2020"
+    *   Machine readable zone bottom: "<<<<<<<<<<<<<<<<<<<86" (ends with 86).
+*   **Driver's License:** "NEW ZEALAND DRIVER LICENCE", "BAKER, PHILIP ANTHONY".
+*   **Birth Certificate:**
+    *   Header: "REPUBLIC OF THE PHILIPPINES ... CERTIFICATE OF LIVE BIRTH"
+    *   Father's Name field: "ANTONIO G..." (partially obscured).
+    *   Center handwritten name area: "HILA LACSON TRESITA".
+    *   Bottom right date stamp: "5-17-84".
+    *   Signature/Text at bottom: "Lisa Grace S. Bersales", "National Statistician and Civil Registrar General Philippine Statistics Authority".
+*   **Social Security Card:**
+    *   Header: "SOCIAL SECURITY".
+    *   Name: "MYLA LACSON TRESITA".
+
+## Notable Details / Clues
+1.  **Identity Discrepancies:** There is a significant spelling variation in the middle name on the birth certificate vs the social security card ("HILA" vs "MYLA"), though the last name and father/middle surnames match ("Lacson Tresita").
+2.  **Date Gaps:** The New Zealand passport was valid from 2015 to 2020, but the Philippine birth certificate was registered on May 17, 1984—nearly 30 years prior to the passport's issue date. This suggests a history of delayed documentation or immigration status changes.
+3.  **Family Connection:** The father listed on the birth certificate (Antonio G.) is phonetically very close to the first name of the New Zealand passport holder (Philip Anthony/Baker). This may imply "Philip" was his English nickname or this is an adopted child scenario, or the documents belong to a husband and wife pair.
+4.  **Document Aging:** The birth certificate has a yellowed tint characteristic of older PSA forms from the 80s, while the New Zealand documents are more modern (plastic card format).
+5.  **Redaction Patterns:** Sensitive information is handled differently; the passport and driver's license have black bars over specific data fields, while the Social Security card has a large block over the number field.
+

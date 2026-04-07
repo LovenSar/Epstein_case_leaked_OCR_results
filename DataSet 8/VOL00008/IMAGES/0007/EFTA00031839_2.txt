@@ -1,0 +1,120 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031839.pdf ts=2026-03-19T10:07:55 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a printed or digital copy of an email thread regarding legal proceedings, specifically a "Monday Grand Jury." The document is structured vertically with several distinct email headers and message bodies separated by horizontal lines or spacing.
+
+At the very top, the header fields "From:", "To:", and "Cc:" are present but heavily redacted with thick black bars obscuring all personal information. Below this, the Subject line reads "RE: Monday Grand Jury" and the Date is listed as "Fri, 26 Jun 2020 17:48:40 +0000".
+
+Beneath a horizontal separator line, there is a brief introductory note: "See below. Adding [redacted name]." followed by the date reference "Monday 6/29".
+
+Below this text is a data table with five columns. The column headers are "AUSA", "Case/USAO", "Time", "Indictment (Y/N?)", and "Seal/Arrest warrant?".
+- The first row of the table contains a redacted block in the "AUSA" column. In the "Case/USAO" column, it lists "Ghislaine Maxwell, 2018R01618". The "Time" column specifies "10:00-11:30 Conf. Room A". The "Indictment" column has a "Y".
+- The second row of the table is mostly blank but lists the time "11:30-12:00" and an "Y" in the indictment column.
+
+Following the table, there is another email header block where all names are redacted. It shows a message sent on Friday, June 26, 2020, at 1:01 PM with the subject "RE: Monday Grand Jury". The body text "Hi All," and "Fyi, please see below. Thanks" (in blue hyperlink style font) are visible.
+
+The final section at the bottom is another email header, likely from an earlier time on the same day (sent 11:03 AM), with a subject line "Monday Grand Jury". The body text welcomes recipients to White Plains and provides instructions for the day. It includes a bulleted list of logistical details such as wearing masks on the 3rd floor, parking arrangements involving an agent named Dion, and access to office resources like copiers.
+
+In the bottom right corner, there is a document identification number: "EFTA00031839".
+
+## Visible Text (verbatim)
+
+**Header Block 1:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Monday Grand Jury
+Date: Fri, 26 Jun 2020 17:48:40 +0000
+
+**Body Section 1:**
+See below. Adding [Black Box]
+Monday 6/29
+
+**Table Content:**
+AUSA | Case/USAO | Time | Indictment (Y/N?) | Seal/Arrest warrant?
+[Black Box] | Ghislaine Maxwell, 2018R01618 | 10:00-11:30 Conf. Room A | Y | [Blank]
+[Blank] | [Blank] | 11:30-12:00 | Y | [Blank]
+
+**Header Block 2:**
+From: [Redacted]
+Sent: Friday, June 26, 2020 1:01 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Monday Grand Jury
+Hi All,
+Fyi, please see below. Thanks
+
+**Header Block 3:**
+From: [Redacted]
+Sent: Friday, June 26, 2020 11:03 AM
+To: [Redacted]
+Cc: [Redacted]
+Subject: Monday Grand Jury
+
+**Body Section 2:**
+Welcome to White Plains. Here is the schedule for Monday. Please reply with the case name and USAO number for your case. This schedule may change and cases will likely be added. Please do your best to stick to your allotted time. A couple of pieces of information for the day in case you haven’t been to White Plains:
+*   Please arrive early and wear a mask as you enter the courthouse. Come to the 3rd floor. We will have fresh masks available when you arrive.
+*   Please have your agents park in the street or use the municipal lot near the Courthouse.
+*   Dion will provide you with your room assignment for the day if you need a place to prep or do other work.
+*   You’ll have access to copiers and computers to you copy/print/email.
+
+**Footer:**
+EFTA00031839
+
+## Notable Details / Clues
+
+- **Legal Context:** The document clearly pertains to the United States Attorney's Office (USAO), indicated by the column header and text instructions like "reply with... USAO number."
+- **Specific Case:** The case involves "Ghislaine Maxwell" with docket number "2018R01618," which links directly to the criminal charges arising from the Jeffrey Epstein sex trafficking scandal.
+- **Indictment Status:** The table explicitly marks an "Y" under "Indictment (Y/N?)" for Ghislaine Maxwell, suggesting the filing of formal charges or a grand jury finding.
+- **Location:** The emails reference "White Plains," which is where the Southern District of New York courthouse is located.
+- **COVID-19 Protocols:** Instructions to "wear a mask as you enter the courthouse" and mentions of "fresh masks available" place the document strictly in the early pandemic era (confirmed by the 2020 date).
+- **Logistics:** Specific logistical details mention an agent named "Dion" who handles room assignments, suggesting a specific support team or coordinator involved.
+- **Security/Privacy:** Extensive redaction of names and email addresses is present, indicating this document was likely leaked or handled with strict confidentiality protocols, typical for grand jury matters.
+- **Document ID:** The footer code "EFTA00031839" suggests a formal evidentiary filing or tracking number associated with a legal case.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+• You must fill out a slip before you enter the grand jury which we’ll provide.
+• The grand jury session will be held on the first floor in the jury assembly room.
+• There is an Elmo and laptop hookup in the GJ room.
+• After you vote your indictment bring it back to the third floor where it will be scanned and emailed to the duty magistrate. The last person will have to do the returns at the end of the day. If you need arrest warrants and/or sealing please don’t forget to provide the warrants and the reasons for the sealing to them.
+
+Monday 6/29
+
+| AUSA | Case/USAO | Time | Indictment (Y/N?) | Seal/Arrest warrant? |
+| :--- | :--- | :--- | :--- | :--- |
+| [REDACTED] | | 10:00-11:30<br>Conf. Room A | Y | |
+| | | | | |
+| | | | | |
+| | | | | |
+
+## Structured Fields
+*   **Date:** Monday 6/29
+*   **Location:** Jury assembly room (first floor), GJ room, third floor, Conf. Room A
+*   **Organization:** USAO (United States Attorney's Office)
+*   **Document ID:** EFTA00031840
+</think>
+
+• You must fill out a slip before you enter the grand jury which we’ll provide.
+• The grand jury session will be held on the first floor in the jury assembly room.
+• There is an Elmo and laptop hookup in the GJ room.
+• After you vote your indictment bring it back to the third floor where it will be scanned and emailed to the duty magistrate. The last person will have to do the returns at the end of the day. If you need arrest warrants and/or sealing please don’t forget to provide the warrants and the reasons for the sealing to them.
+
+Monday 6/29
+
+| AUSA | Case/USAO | Time | Indictment (Y/N?) | Seal/Arrest warrant? |
+| :--- | :--- | :--- | :--- | :--- |
+| [REDACTED] | | 10:00-11:30<br>Conf. Room A | Y | |
+| | | | | |
+| | | | | |
+| | | | | |
+
+## Structured Fields
+*   **Date:** Monday 6/29
+*   **Location:** Jury assembly room (first floor), GJ room, third floor, Conf. Room A
+*   **Organization:** USAO (United States Attorney's Office)
+*   **Document ID:** EFTA00031840
+

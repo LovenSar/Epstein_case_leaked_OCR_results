@@ -1,0 +1,36 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015087.pdf ts=2026-03-12T12:52:02 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a formal government document titled "Additional Inquiry Response," originating from a joint effort between the Federal Bureau of Investigation and the New York State Division of Criminal Justice Services. The document is dated October 6, 2021, at 2:44 PM in the upper left corner. A horizontal grey line separates the header information from the body. Below the main title, specific agency identifiers are present: an ORI code printed in red and the FBI location printed in purple. A block of text provides the physical address for the New York State Division of Criminal Justice Services located in Albany, including a toll-free telephone number. The document is signed by Michael C. Green, Executive Deputy Commissioner.
+
+The central portion of the document features a section titled "III Information," marked with a green circular bullet point and a red upward-pointing arrow icon. Following an introductory sentence regarding a search request for the Interstate Identification Index (III), the vast majority of the page—specifically a large rectangular area—is obscured by a solid black bar, indicating that sensitive data (such as fingerprints or arrest records) has been redacted from this view. Below this black rectangle, standard boilerplate text in all-caps explains that the full records can be obtained via the NCIC transaction system. The document concludes with an "END" marker on the left and page numbering in the bottom right corner.
+
+## Visible Text (verbatim)
+- 10/6/21, 2:44 PM
+- III/FBI/State Delayed Response
+- Additional Inquiry Response
+- ORI: NYFBINY00
+- Federal Bureau of Investigation - New York
+- New York State Division of Criminal Justice Services
+- Alfred E. Smith Building, 80 South Swan St.
+- Albany, New York 12210. Tel:1-800-262-DCJS
+- Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+- III Information
+- The following information is provided in response to your request for a search of the III based on:
+- THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION INDEX BY USING THE APPROPRIATE NCIC TRANSACTION.
+- END
+- 1/1
+- EFTA00015087
+
+## Notable Details / Clues
+- **Redaction:** The large black box covering the central part of the document indicates that the actual search results—likely a list of fingerprints, photographs, or criminal history records—were not visible in this specific copy.
+- **Agency Collaboration:** The header "III/FBI/State Delayed Response" and the dual agency signatures suggest a cross-jurisdictional inquiry involving federal and state law enforcement databases.
+- **"III" Reference:** The text repeatedly mentions "III," which stands for Interstate Identification Index, primarily used for storing fingerprint records.
+- **NCIC Mention:** The footer explicitly references the National Crime Information Center (NCIC), indicating how a user can technically retrieve the unredacted data if authorized.
+- **Color Coding:** Specific use of colors for emphasis: red text is used for the ORI number (Office of Inspector Registration Identifier), and purple is used for the Federal Bureau of Investigation branding line.
+- **Delayed Response:** The header "III/FBI/State Delayed Response" suggests this document was generated after a standard immediate query, likely because the initial search yielded no instant match or required manual review from a state/federal archive.
+- **Date Context:** The date (10/6/21) places this in the modern era of digital record keeping and remote electronic inquiries rather than paper-file searches.
+- **Document ID:** The bottom right code "EFTA00015087" serves as a unique tracking number for this specific PDF or transmission within an internal system.
+

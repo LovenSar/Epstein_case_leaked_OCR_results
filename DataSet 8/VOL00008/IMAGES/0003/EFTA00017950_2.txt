@@ -1,0 +1,96 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00017950.pdf ts=2026-03-13T14:17:28 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: [REDACTED]
+Subject: FW: MCC Video Extraction
+Date: Mon, 09 Mar 2020 21:30:40 +0000
+
+See below.....
+[REDACTED]
+Special Agent
+FBI New York Field Office
+Violent Crimes Task Force
+[REDACTED]
+
+From [REDACTED]
+Sent: Wednesday, August 14, 2019 5:48 PM
+To: [REDACTED]
+Subject: Fwd: MCC Video Extraction
+FYSA
+[REDACTED]
+Special Agent
+FBI New York | C-19
+Violent Crimes Task Force
+[REDACTED]
+
+---------- Forwarded message ----------
+From: [REDACTED]
+Date: Aug 14, 2019 5:04 PM
+Subject: Fwd: MCC Video Extraction
+To: [REDACTED]
+Cc:
+
+-
+---------- Forwarded message ----------
+From: [REDACTED]
+Date: Aug 14, 2019 3:14 PM
+Subject: MCC Video Extraction
+To: [REDACTED]
+[REDACTED]
+Cc: [REDACTED]
+[REDACTED]
+
+Technical Update:
+At 12:30 pm today I met [REDACTED], the new Acting Warden of the MCC. Due to the transition of personnel at the MCC there has been some miscommunication between the MCC, the FBI, and the video surveillance vendor NiceVision. After speaking with NYO EM and then talking with [REDACTED], the following is the plan to extract all relevant video surveillance from the MCC, which also allows for the MCC to maintain a video surveillance system for security purposes.
+
+As a quick background, the MCC has two (2) DVR surveillance systems which provide coverage for the entirety of
+
+EFTA00017950
+## Structured Fields
+- **Date**: Mon, 09 Mar 2020; Wednesday, August 14, 2019; Aug 14, 2019
+- **Subject**: FW: MCC Video Extraction; Fwd: MCC Video Extraction
+- **Organization/Location**: FBI New York Field Office; FBI New York | C-19; Violent Crimes Task Force; MCC (Metropolitan Correctional Center); NiceVision; NYO EM
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+the facility. Each system, DVR system #1 and DVR system #2, contain sixteen (16) hard drives which recorded the activity captured by the associated cameras. According to MCC staff, on 07/29/19, DVR system #2 had two to three hard drives fail causing most of that system to stop recording. Two of the three camera feeds of obvious interest resided on DVR system #2, meaning they were not recording at the time of the suicide on 08/10/19. Long before the hard drive failures and the suicide of the subject, the MCC had contracted with NiceVision to replace the antiquated system being utilized by the facility. NiceVision arrived at the MCC on Monday 08/12/19 to begin work on the installation. NiceVision has not completed the work on the system because they have not had access to the equipment room since FAVU arrived later that same day to export video from a camera feed on the working DVR system #1.
+
+After consultation with NYO CART and OTD, it has been determined the best chance for the FBI to extract and review video surveillance footage is to remove DVR system #2 immediately.
+This system is currently being extracted with the permission of MCC Acting Warden [REDACTED]. A member of NY CART will transport this system down to OTD today where a team from DFAS-DSAU will be waiting to receive and attempt a rebuild of the failed hard drives. This will be necessary in order for us to reconstitute the system later when we receive DVR system #1 at OTD.
+
+Another team from FBI FAVU is currently on-site working on exporting video from the third camera of interest connected to DVR system #1, which is currently operational and being utilized by the MCC. We will continue to export video from this camera back through at least 07/23/19, the date of the first alleged suicide attempt. Review has begun on this camera by C-19 and SDNY. At the same time C-19 will maintain a 24-7 presence in the equipment room to ensure integrity of the system and to also allow access for simultaneous work by NiceVision to complete the install of the new video surveillance system. NiceVision is currently once again working on the install and estimated a completion of the work as early as tomorrow (8/15/19). Once the new system is operational and FAVU has completed the download from the one known camera of interest residing on DVR system #1, we will collect it and send that down to OTD. We anticipate we could send down DVR system #1 down within the next two days. This will potentially allow us to reconstitute both systems down at OTD where we can determine what video is present. Then we will review the entirety of the recorded video surveillance for evidentiary purposes.
+
+It should be noted that the 30 day over-write in these systems were suspended for DVR system #1 and DVR system #2 on 08/12/19 and 08/10/19, respectively. Also of note, beside the attempt to rebuild the failed hard drives, there is a significant chance the hard drives pulled from DVR #2 on 08/10/19, are corrupted and/or encrypted since they were extracted while the system was running. We will know more about this issue once we can reconstitute the system and review. It is estimated the work described in this communication may take several weeks to complete. After all efforts have been made the possibility exists the rebuild of the hard drives and reconstitution of the systems may ultimately fail to produce the desired outcome.
+
+[REDACTED]
+
+EFTA00017951
+## Structured Fields
+- **Dates:**
+    - 07/29/19 (Hard drive failure date)
+    - 08/10/19 (Suicide date; hard drives removed)
+    - 08/12/19 (NiceVision arrival; over-write suspended for DVR #1 and #2)
+    - 07/23/19 (Alleged suicide attempt date; video export endpoint)
+    - 8/15/19 (Estimated completion of NiceVision install)
+- **Case IDs / Doc IDs:** EFTA00017951
+- **Locations:**
+    - MCC (Metropolitan Correctional Center?)
+    - OTD (likely a forensic lab location)
+    - Equipment room (at MCC)
+- **Organizations:**
+    - FBI
+    - FAVU (FBI Artifacts Video Unit)
+    - NiceVision
+    - NYO CART
+    - SDNY (Southern District of New York, likely implied by C-19 context)
+    - C-19
+    - DFAS-DSAU
+- **Names/Entities:**
+    - DVR system #1
+    - DVR system #2
+    - MCC Acting Warden [REDACTED]
+    - Suicide subject (unnamed, referred to as "the subject")
+    - Hard drives (16 total per system)
+

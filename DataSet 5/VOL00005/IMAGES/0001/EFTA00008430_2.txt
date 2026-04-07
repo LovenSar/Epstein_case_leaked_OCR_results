@@ -1,0 +1,37 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008430.pdf ts=2026-03-09T06:51:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down, close-up view of a sealed plastic zip-lock bag containing computer hardware components, resting on a speckled countertop. The primary subject is a metallic drive enclosure or cage, likely designed for server racks or DVR (Digital Video Recorder) units, which houses two stacked 3.5-inch hard drives. The entire assembly is encased in clear, thin plastic packaging that shows significant glare and reflection from overhead lighting. The contents inside the bag are oriented upside down relative to the viewer. Through the plastic, silver metal mounting brackets and screws are visible on the left and right sides of the drive cage. At the very top of the internal metal structure (which is physically the bottom due to orientation), a red component is faintly visible, possibly a heatsink fan shroud or part of the casing. The background consists of a brown corrugated cardboard box flap at the top and a white piece of paper or label card beneath the plastic bag. The countertop surface features a granite-like pattern with black, white, and grey chips.
+
+## Visible Text (verbatim)
+**On the Cardboard Box (Top Edge, Inverted):**
+- "SMED"
+- "No. 10958L"
+- "UPC 71067"
+- "SMEAD.com - Assembled in Mexico"
+
+**Handwritten on the Plastic Bag:**
+- "Clone #11" (written in black marker on the upper drive label area)
+- Scribbled circles/markings near the top seal of the bag.
+
+**On the Drive Label (Inverted Text):**
+- "Seagate"
+- "Barracuda"
+- "DVR 2 DISK ARRAY"
+- "1000GB"
+- Barcode area label: "NYC027748"
+- Small text indicating "NEW YORK CART LAB" near the barcode.
+
+## Notable Details / Clues
+- **Storage Capacity:** The label explicitly states "1000GB," indicating a 1 Terabyte capacity per drive (or total, depending on the specific model of cage).
+- **Specific Application:** The text "DVR 2 DISK ARRAY" identifies the hardware specifically as an enclosure built for video surveillance systems.
+- **Batch Identification:** The handwritten note "Clone #11" suggests these drives are part of a larger inventory batch intended for data cloning or backup operations.
+- **Condition:** The drives appear brand new and uninstalled, still within their anti-static or standard shipping bag (the plastic looks like a generic zip-lock rather than specialized foam packaging).
+- **Brand Identification:** The prominent "Seagate" logo identifies the manufacturer of the hard disk drives.
+- **Model Series:** The "Barracuda" text indicates the specific product line, known for being high-capacity desktop and server drives.
+- **Inventory Markings:** The cardboard box in the background features a shipping label with an internal control number ("No. 10958L"), suggesting this is part of a larger commercial shipment.
+- **Orientation:** The entire assembly inside the bag is inverted, which can make reading the small print on the barcode difficult but does not obscure the main identification text.
+- **Location Markings:** Near the barcode on the drive label, "NYC027748" suggests a connection to New York City, possibly indicating the origin of the inventory or the facility where it was processed (labeled "New York Cart Lab").
+

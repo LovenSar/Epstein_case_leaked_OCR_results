@@ -1,0 +1,49 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002514.pdf ts=2026-03-05T20:42:37 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of a Western Digital Enterprise hard disk drive (HDD) resting on a scratched, grey metallic surface, likely a workbench or floor. The drive is encased in its standard 3.5-inch metal chassis with a brushed aluminum finish. It is secured within a black plastic mounting bracket or caddy, which features a silver-colored SATA connector interface visible on the left side. A white manufacturer’s label adheres to the center-top of the casing, partially obscured by a secondary yellow "Enterprise Storage" sticker on the right. The drive is oriented with the data connector facing the left edge of the frame. Four screws are visible securing the casing at the corners (top-left, top-right, bottom-right) and near the bottom-center. A handwritten black marker number "2" is visible on the lower right side of the metal casing. The lighting creates soft reflections on the metallic surface of the drive and casts a subtle shadow beneath the unit towards the bottom left.
+
+## Visible Text (verbatim)
+*   **Main Logo Block:** "Western Digital", "www.westerndigital.com", "WD RE4", "500GB"
+*   **Serial/Component Info:**
+    *   "S/N : WMAYP6101653"
+    *   "CT: 2CEHE003H409JC"
+    *   "GPN: 657753-006"
+    *   "P/N: 658083 - 001"
+    *   "FW: HPG1"
+*   **Model/MDL Info:**
+    *   "SATA"
+    *   "7200RPM"
+    *   "MDL: M80500GCHE"
+    *   "WD MDL: WD5003ABYX-70CZLA0"
+*   **Warranty/Notes:** "Do not cover any drive details. Product warranty will be void if seal label or cover is removed or damaged."
+*   **Technical Specs:**
+    *   "LBA : 976773168"
+    *   "5VDC : 0.65A"
+    *   "12VDC : 0.30A"
+    *   "DATE: 26 MAY 2013"
+*   **Batch/Location:**
+    *   "DCN : HGRNHTJC6"
+    *   "DCX : 0C0SZ66L1"
+    *   "R/N : 771702"
+    *   "U.S. Patents: 6178056, 5956196, 6289484, 6263459"
+    *   "Product of Malaysia"
+    *   "Canada ICES-003 Class B"
+    *   "RoHS"
+*   **Regulatory/Compliance Marks:** "ATATA", "CE", "UL/cUL", "FCC ID: D30116", "E07569", "N3465".
+*   **Yellow Sticker Text:** "Enterprise Storage", "SN: 2Y532518R8", "DP", "768WF3", "WAT-1702", "KCC-REM".
+*   **Address/Bottom Text:** "Western Digital N.L., B.V., Livanees 2, NL-1118 DS Sipfhol-Zuid ZRP"
+
+## Notable Details / Clues
+*   **Product Type:** The label explicitly identifies this as a "WD RE4", which was a model designed for desktops (Retail), though the yellow sticker claims "Enterprise Storage."
+*   **Manufacturing Date:** The production date is clearly listed as May 26, 2013.
+*   **Region:** The text "Product of Malaysia" and the UL/ICES logos indicate North American compliance markets.
+*   **Firmware Version:** The firmware revision code is listed as "HPG1".
+*   **Warranty Warning:** There is specific text warning that the warranty will be void if the seal or cover label is removed or damaged, implying a sealed unit intended for end-user retail.
+*   **Connector Type:** The gold-plated pins on the left indicate a standard SATA data and power connector (the 7-pin connector).
+*   **Handwritten Marking:** The black marker "2" suggests this drive might have been part of an inventory batch, repair queue, or test unit where items were numbered.
+*   **Sticker Placement:** The yellow sticker overlays the regulatory information slightly but leaves the critical serial number (SN) and DP (Data Plate) code visible on the right side.
+*   **Dust/Condition:** There is a small smudge or dust particle near the top edge of the casing, just outside the metal frame area.
+

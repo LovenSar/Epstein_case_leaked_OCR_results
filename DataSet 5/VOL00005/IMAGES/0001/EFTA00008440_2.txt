@@ -1,0 +1,37 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008440.pdf ts=2026-03-09T06:56:11 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of an open, standard brown cardboard evidence box resting on a speckled, terrazzo-like surface (brown, blue, and white flecks). The box lid is flipped upwards and backwards, revealing the contents inside. The interior of the box contains a sealed, pinkish-tinted anti-static plastic evidence bag. Inside the bag is a rectangular computer hard drive (HDD), likely a 3.5-inch desktop model given its aspect ratio. Affixed to the front of the plastic bag is a bright yellow information label containing case details and equipment specifications. The box itself bears an inverted logo and text near the bottom edge, identifying the manufacturer as "SMEAD." Beneath the evidence box flaps, partially visible, are white pieces of paper and the edge of a clear plastic protective sleeve. A thin, dark wire or string extends downwards from near the right side of the bag area.
+
+## Visible Text (verbatim)
+**On the Yellow Label:**
+"90A-NY-3151227 Request ID 112048 1B22"
+"08/12/2019 NYC027701 PC Derivative Copy"
+"One (1) Seagate Barracuda 1000GB HDD"
+"ST1000DM003. S/N S1D85PLA, containing the"
+"Clone Copy of 1B1 hard drive (Seagate Barracuda"
+"500GB HDD, ST500DM002. S/N Z3T6CJJA)."
+"collected via Tableau TX-1. S/N:"
+"000ECC56017139. F2862257"
+
+**On the Red Seal Strip:**
+"EVIDENCE" (Visible but mirrored/reversed)
+
+**On the Box Lid (Inverted):**
+"SMEAD"
+"No. 1056EL UPC 71007"
+
+## Notable Details / Clues
+*   **Evidence Status:** The item is clearly forensic evidence, indicated by the sealed "EVIDENCE" bag and the chain-of-custody yellow label.
+*   **Date of Collection:** The document was processed or collected on August 12, 2019 (08/12/2019).
+*   **Case Identification:** The case identifier appears to be "90A-NY-3151227," suggesting a specific criminal investigation number.
+*   **Derivative Copy:** The text "PC Derivative Copy" suggests that this specific drive is not the original suspect's drive, but a forensic duplicate (a clone) created for analysis.
+*   **Drive Specifications:** The evidence bag contains a 1TB Seagate Barracuda drive (Model ST1000DM003). The label notes it contains a "Clone Copy of 1B1 hard drive."
+*   **Original Source Drive Reference:** The text references a source drive: "Seagate Barracuda 500GB HDD, Model ST500DM002" with Serial Number Z3T6CJJA. This implies the 1TB drive was used to image or clone the data from this specific smaller drive.
+*   **Collection Tool:** The evidence was collected using a "Tableau TX-1," which is a specific brand of anti-static Faraday bag used to prevent electromagnetic interference and static damage during digital forensics.
+*   **Serial Numbering:** There are two distinct serial numbers visible on the label: "S1D85PLA" for the 1TB drive in the bag, and "Z3T6CJJA" for the referenced 500GB drive.
+*   **Inventory Tag:** The number "1B22" likely refers to an inventory bin or shelf location within the forensic lab.
+*   **Surface Texture:** The surface beneath the box is a hard, speckled material typical of school hallways or institutional countertops (vinyl composition tile).
+

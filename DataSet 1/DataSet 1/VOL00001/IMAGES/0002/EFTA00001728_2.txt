@@ -1,0 +1,82 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001728.pdf ts=2026-03-05T14:27:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document, likely an employee roster or department directory, attached to a gray, textured wall. The paper is enclosed in a clear protective plastic sleeve, evidenced by the slight glare and reflection across the surface. The document is formatted as a three-column grid table.
+
+The leftmost column lists employee names under a red header labeled "Employees." A vertical black bar (redaction) covers the entire middle column labeled "Phone Number" for the majority of the rows, obscuring personal contact information. The rightmost column lists job titles or departments. The bottom section of the list is partially obscured by additional black boxes covering employee names in the first and second columns from the bottom, though job titles remain visible.
+
+The document appears to belong to a construction, industrial, or maritime facility, indicated by terms like "Wreckshop," "Barge Mate," "Boat Captain," and "Heavy Machinery Operator." The paper shows slight curling at the top edge where it is taped. A faint red text "Management & Office:" is visible in the bottom left corner, suggesting a section header for that area of the list.
+
+## Visible Text (verbatim)
+**Headers:**
+- Phone Number
+- Department
+- Employees (Red text)
+- Management & Office: (Red text, partial)
+- EFTA00001728 (Watermark/Stamp bottom right)
+
+**List Content (Left Column - Name | Right Column - Department):**
+- Ashielle Etienne | Wreckshop
+- Boniface Laudat | Carpenter
+- Charles Dick | Plumber
+- Cristobal Herrera | Irrigation
+- Cuthbert Titre | Pools, JE bikes & R/O
+- Dale Mark | Wreckshop
+- Danny Etienne | MC, Electrician & Plumber
+- Danny Boodram | Stone Mason
+- David Alves | Barge Mate & Extra help
+- Dupson Donissaint | Landscape Manager
+- Fabian John | Landscaper
+- Felito Joseph | Heavy Machinery Operator
+- Gael Leatham | Landscaper
+- Garth Eugene | Houseman & Extra help
+- Gerry A. Titre | Pools, JE bikes & Trash
+- Gusneme Dalce | Landscaper & Stone Mason
+- Hilian Bedminster | Painter
+- James Cesar | Carpentry
+- Justina De La Cruz | Housekeeping
+- Keshaun Williams | Electrician Assistant
+- Kevin Alexander | Houseman & Extra help
+- Leida Hernandez | Housekeeper
+- Luckner Legner | Landscaper
+- Maurice Bedminster | Carpenter
+- Miosotis C. Marte | Housekeeper
+- Nicholas Victorin | Landscaper
+- Onel Pierresaint | Landscaper & Stone Mason
+- Oriole Joseph TJ. (handwritten) | Painter
+- Patrick Cena | Boat Captain
+- Philemon Alcine | Stone Mason Helper
+- Peter Elie | Construction
+- Peter St. Omer | Landscaper & HM Operator
+- Randy T. Amparo del Rio | Boat Captain
+- Ronald Joseph | Landscaper
+- Sheridan E. Elizee | Wreckshop Manager
+- [Obscured] | Housekeeper
+- [Obscured] | Head Carpenter
+- Sylvester Gaillard | Heavy Machinery Operator (Note: Alignment is slightly complex due to redaction, likely corresponds to this row or the one above)
+- Pierre Jules | (Department obscured/cut off or blank) -> *Correction*: Looking closely at grid lines, "Pierre Jules" aligns with a row where the department is obscured or "Head Carpenter" aligns with the black box. Let's look strictly at visible text alignment.
+    - Row with "Sylvester Gaillard": Department "Heavy Machinery Operator" is aligned with it? No, looking at the lines, "Sylvester Gaillard" is above "Pierre Jules".
+    - Row with "Head Carpenter": To its left is a black box.
+    - Row with "Heavy Machinery Operator": To its left is "Sylvester Gaillard" (or potentially obscured name).
+    - Row with "Carpenter": To its left is "Brian Bates".
+
+*Refined Bottom Section Observation:*
+- Row: [Black Box] | Head Carpenter
+- Row: Sylvester Gaillard | Heavy Machinery Operator
+- Row: Pierre Jules | [Blank/Obscured] -> Actually, looking very closely at the bottom right, the text "Heavy Machinery Operator" is aligned with "Sylvester Gaillard". The text "Carpenter" is aligned with "Brian Bates".
+- Row: Brian Bates | [Cut off/End of list]
+
+**Handwritten Annotation:**
+- Next to "Oriole Joseph": "TJ." (in black marker)
+
+## Notable Details / Clues
+- **Redaction Extent:** The middle column is almost entirely blacked out with a thick black marker, suggesting privacy protection for phone numbers. A separate, smaller black box obscures names near the bottom of the list.
+- **Handwritten Note:** Next to "Oriole Joseph," someone has written "TJ." in black ink, possibly an initial or a note about a shift/time.
+- **Job Diversity:** The roles span skilled trades (Plumber, Carpenter, Stone Mason), management (Landscape Manager, Wreckshop Manager), and utility roles (Irrigation, Electrician).
+- **Specific Terminology:** Terms like "JE bikes" likely refer to John Deere construction equipment/bikes. "HM Operator" likely stands for Heavy Machinery Operator.
+- **Watermark:** The code "EFTA00001728" in the bottom right corner suggests this document might be part of a larger collection, a docket number, or part of a database like the Electronic Federal Tax Accounting system (though unlikely given the content), or simply an internal filing code.
+- **Formatting:** The "Employees" and "Management & Office:" headers are printed in red, distinguishing them from the black body text.
+- **Physical Condition:** The paper is taped to a surface, indicating it is a temporary display, likely in a breakroom or tool crib of the facility described.
+

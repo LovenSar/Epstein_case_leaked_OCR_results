@@ -1,0 +1,52 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000476.pdf ts=2026-03-05T06:36:01 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-angle shot of several financial documents resting on a dark, textured surface, likely a wooden table. The lighting creates soft shadows and glare on the paper surfaces. The primary focus is a white printed document titled "JEFFREY E. EPSTEIN CASH DISBURSEMENTS FOR THE PERIOD SEP 1, 2006 - SEP 30, 2006." This document features a column-based layout listing dates, numerical references (Num), entity names, descriptions of what the payment relates to, amounts (mostly negative indicating disbursement), and running balances. Several names in the "Name" column are redacted with black ink blocks. Underneath this main sheet, there is a stack of other papers rotated roughly 90 degrees counter-clockwise, revealing fragments of text related to real estate, permits, and specific rooms like a "Master Bedroom Ceiling." In the upper right corner, partially underneath the documents, lies an orange envelope and a small postcard featuring a red "STOP" sign.
+
+## Visible Text (verbatim)
+**Main Document Header:**
+- JEFFREY E. EPSTEIN
+- CASH DISBURSEMENTS
+- FOR THE PERIOD SEP 1, 2006 - SEP 30, 2006
+- Columns: Date, Num, Name, Relates to, Amount, Running Balance
+
+**Main Document Data Entries (selected visible lines):**
+- 09/19/2006 | 8737 | N. A. Property, Inc. | JE Employee Benefits - Sep 2006
+- 09/06/2006 | 8685 | Columbia University
+- 09/07/2006 | 8687 | Justin Krebs
+- 09/13/2006 | 8714 | Time Warner Cable
+- 09/19/2006 | 8725 | Time Warner Cable
+- 09/19/2006 | 8742 | Jocar Transporters, Inc.
+- 09/19/2006 | 8743 | Tropical shipping
+- 09/19/2006 | 8739 | Thomas J. Magnani D.D.S.
+- 09/19/2006 | 8740 | Thomas J. Magnani D.D.S.
+- 09/26/2006 | 8747 | Salome N. Rallis
+- Wire | Black, Srebnick, Kornspan & Stumpf, P.A. | total to date 1,325,000
+- Wire | Gerald B. Lefcourt, P.C. | total to date 875,000
+- Wire | Investigative Management Group | total to date 100,000 from JE
+- 09/07/2006 | 1128 | Virgin Islands Bureau of Internal Revenue | 3rd Quarter Estimated Taxes
+
+**Side Documents (Left Side):**
+- Headers: Select A View, Category, Chart of Accounts
+- Text: "Pinto", "241 1998 Suburban", "55 Bank Permits", "109 Docks"
+- Text: "Unpaid Fees of 20% on Purchases a"
+- Text: "Colors 'Traditional Moroccan Suite'"
+- Text: "Filing to NY and LSI Containers"
+- Text: "Rance for Louisa Miller Sculpture (3,774.08)"
+- Text: "ing - Master Bedroom Ceiling"
+
+**Footer:**
+- EFTA0000476
+
+## Notable Details / Clues
+- **Document Identity:** The main document is explicitly identified as a cash disbursement report for Jeffrey E. Epstein for September 2006.
+- **Redactions:** Multiple names in the "Name" column are blacked out (redacted), suggesting sensitive or private individuals involved in transactions such as Thomas J. Magnani and an entity near Salome N. Rallis.
+- **Financial Scale:** The document lists significant transaction volumes, including lines noting "total to date 1,325,000" and a final total disbursement of "(2,424,425.06)".
+- **Nature of Expenses:** The list mixes standard business expenses (Time Warner Cable shipping) with what appear to be high-value wire transfers to law firms ("Black, Srebnick...") and individual accounts.
+- **Real Estate Connection:** The papers underneath the main sheet mention specific details like "Louisa Miller Sculpture," "Master Bedroom Ceiling," and "Traditional Moroccan Suite," implying these documents relate to property maintenance or real estate transactions, possibly involving a residence in the Virgin Islands (referenced by the IVIR entry).
+- **Official Watermark/ID:** The code "EFTA0000476" in the bottom right corner suggests this is an archival or evidentiary document from a legal investigation.
+- **Payment Methods:** The document lists various payment methods including "Wire," "Gift," and direct credit card payments (American Express, Colonial Bank) visible at the bottom.
+- **Vendor Diversity:** The list of payees includes educational institutions (Columbia University), cable companies, law firms, shipping companies ("Jocar Transporters"), and medical professionals.
+

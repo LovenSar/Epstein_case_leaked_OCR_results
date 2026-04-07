@@ -1,0 +1,23 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007615.pdf ts=2026-03-08T23:33:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a high-contrast, black-and-white graphic that resembles a degraded film frame or a heavily processed scan of a physical document. The composition is dominated by a large, dark arch-shaped structure occupying the upper two-thirds of the frame, creating a "window" effect.
+
+The central area beneath the arch is a stark, featureless white rectangle, suggesting a missing element, an overexposed area, or a blank space where content has been obscured. Flanking this white void are two dark, textured vertical panels on the left and right sides. These panels exhibit significant visual noise and grain, characteristic of low-resolution scans or film emulsion.
+
+On the far left edge, beneath the arch's left support, there are several blurry, white, organic shapes that resemble fingers or hands reaching toward the structure from the left side; these forms are partially obscured by vertical streaks. Along the bottom edge of the dark left and right pillars, there are distinct "drip" artifacts—thin vertical black lines extending downward into the white space, mimicking melting paint or film scratches. The top edge of the image is cluttered with horizontal scan lines and digital noise.
+
+## Visible Text (verbatim)
+*   **Top Right Corner:** "!B6 1Cd" (Handwritten or stamped, oriented upright relative to the top border).
+*   **Left Edge (Vertical):** "...NE & CO." (Partial text visible running vertically upwards along the far left margin).
+*   **Bottom Right Watermark:** "EFTA00007615"
+
+## Notable Details / Clues
+*   **Visual Artifacts:** The image suffers from severe thresholding effects, converting mid-tones to pure black or white. This results in the loss of texture within the dark areas and the complete erasure of detail in the white area.
+*   **Structural Asymmetry:** While generally arch-like, the structure is asymmetrical; the "drip" artifacts are heavier on the left side but present on both. The white shapes on the left suggest a physical object (like hands) interacting with the frame, but they are cut off by the edge.
+*   **Document ID:** The code "EFTA00007615" indicates this is likely a digitized archival document, possibly related to European Free Trade Association records given the EFTA prefix.
+*   **Handwriting Style:** The text in the top right corner appears to be written in a cursive or hurried handwriting style, distinct from the printed font of the watermark and edge text.
+*   **Edge Damage:** The far right edge of the image shows vertical streaking and fading, suggesting physical wear on the original media (like a film negative or photograph).
+

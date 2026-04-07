@@ -1,0 +1,41 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021384.pdf ts=2026-03-14T23:40:02 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, heavily redacted with black bars to conceal personal identifiers and file names. The interface appears to be Microsoft Outlook or a similar standard email client. The thread consists of a forwarded message (indicated by "FW:" in the subject) and the original message beneath it.
+
+At the top, the header information is visible but mostly obscured. The "From", "To", and "Cc" fields are covered by wide black bars. Below these fields is the subject line reading "Subject: FW: New 302s". A date and time stamp is clearly visible: "Thu, 25 Feb 2021 02:19:51 +0000". Beneath the date is a section labeled "Attachments:", followed by a very large black rectangle obscuring the filenames. To the immediate left of this black bar, a vertical column of small white icons is visible, likely representing multiple attached files in a standard email viewer.
+
+A thin horizontal line separates the header from the body of the email. The first message body begins with "Hi" followed immediately by a short black bar hiding the recipient's name or last initial. The text requests the recipient to save "attached 302s" into specific folders on a network drive named "USvEpstein share drive". Below this request is the sign-off "Thanks," followed by a large, rectangular black block hiding the sender's signature/name. To the right of this section, there is a small, isolated dash character.
+
+Below the first message is a second, larger black rectangular redaction that obscures another header line (likely showing a "Subject: New 302s"). Underneath this obstruction is the text body of the original email or a subsequent response. This text explains that the attached files are "additional 302s that have been serialized since the last batch we gave you." It invites the recipient to reach out with questions and ends with "Thanks," followed by another black bar hiding the name. At the bottom right corner of the image, outside the email content area, is a document identification number: "EFTA00021384".
+
+## Visible Text (verbatim)
+- From: [Black Bar]
+- To: [Black Bar]
+- Cc: [Black Bar]
+- Subject: FW: New 302s
+- Date: Thu, 25 Feb 2021 02:19:51 +0000
+- Attachments: [Black Bar]
+- Hi [Black Bar]
+- Would you please save the attached 302s in the relevant witness folders on the USvEpstein share drive?
+- Thanks,
+- [Black Bar]
+- -
+- [Large Black Box Obscuring Text]
+- Subject: New 302s
+- Attached are additional 302s that have been serialized since the last batch we gave you. Feel free to reach out with any questions.
+- Thanks,
+- [Black Bar]
+- EFTA00021384
+
+## Notable Details / Clues
+- **"302s" Context:** In a law enforcement context, a "Form 302" is an arrest report or interrogation report. The emails are transferring serialized versions of these reports.
+- **Specific Legal Case:** The text explicitly references the "USvEpstein share drive." This confirms the document is related to the federal prosecution of Jeffrey Epstein (United States v. Epstein).
+- **Data Exfiltration/Transfer:** The language suggests a systematic transfer of data ("save the attached 302s," "since the last batch we gave you") between two parties, likely involving legal teams or law enforcement personnel.
+- **Redaction Method:** The redactions are uniform black bars, typical of privacy masking in news screenshots or leaked documents. One redaction has a jagged, torn edge on the bottom left.
+- **Timestamp:** The date is February 25, 2021, which places this evidence during the height of public interest in the Epstein case after Ghislaine Maxwell's trial began.
+- **Document ID:** The code "EFTA00021384" at the bottom suggests this document belongs to an official archive or leak site (possibly related to the FBI leaks from 2021).
+- **Network Drive Name:** The specific naming convention "USvEpstein share drive" indicates a designated secure storage area for this specific case's digital evidence.
+

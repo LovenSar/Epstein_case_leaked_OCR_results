@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00026644.pdf ts=2026-03-17T06:54:05 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Event: Epstein defense bail submission due
+----------------------------------
+Start Date: 2019-07-11 16:00:00 +0000
+End Date: 2019-07-11 16:30:00 +0000
+Organizer: [REDACTED] <[REDACTED]>
+Location: Berman
+Class: X-PERSONAL
+Date Created: 2019-07-08 20:52:14 +0000
+Date Modified: 2019-07-08 20:52:14 +0000
+Priority: 5
+DTSTAMP: 2019-07-08 20:41:41 +0000
+Attendee: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Alarm: Display the following message 15m before start
+| Reminder
+
+EFTA00026644
+
+## Structured Fields
+*   **Date Created/Modified:** 2019-07-08
+*   **Event Start Date:** 2019-07-11 16:00:00
+*   **Event End Date:** 2019-07-11 16:30:00
+*   **Location:** Berman
+*   **Priority:** 5
+*   **Alarm Offset:** 15m before start
+*   **Document ID/Reference:** EFTA00026644
+

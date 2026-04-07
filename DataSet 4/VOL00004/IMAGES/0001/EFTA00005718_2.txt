@@ -1,0 +1,329 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00005718.pdf ts=2026-03-07T17:03:36 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]      [REDACTED]
+                   Astoria, Queens
+
+Cell [REDACTED]        ADDRESS: [REDACTED]
+                           [REDACTED] ASTORIA NY 11106
+
+## Structured Fields
+- **Location**: Astoria, Queens; Astoria NY 11106
+- **Document ID**: EFTA00005718
+- **Fields**: Cell (redacted), Address (redacted/street address redacted)
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image consists almost entirely of a uniform, solid black field that fills the vast majority of the frame.
+- There are no visible objects, subjects, people, or environmental backgrounds present within the visual field.
+- No lighting details, shadows, or gradients are apparent other than those necessary to render the white text legible against the background.
+- The composition is a vertical orientation typical of a standard document page (portrait mode).
+- A very faint, thin white border is visible along the right edge of the image, likely indicating the physical edge of a scanned paper sheet or a digital margin.
+- A small sliver of white space appears at the bottom right corner, framing the text area.
+- The texture appears flat and devoid of any noise or grain usually found in photographic images; it looks purely digital or high-contrast.
+- The lack of visible content suggests this is likely a blank page from a printed document that was scanned without picking up text, or an intentional placeholder image.
+- There are no graphical elements, logos, illustrations, or charts visible anywhere in the frame.
+- The visual information density is near zero, consisting only of the binary contrast between black pixels and white characters.
+
+## Visible Text (verbatim)
+- EFTA00005719
+
+## Notable Details / Clues
+- The alphanumeric string "EFTA00005719" serves as a Bates number or document identifier.
+- "EFTA" likely refers to the European Free Trade Association, indicating this is likely from a legal transcript or court filing (possibly Iceland, Liechtenstein, Norway, or Switzerland).
+- The specific suffix "5719" suggests this is page 5719 of a massive document set or transcript.
+- The formatting—white text on a black background—is standard for OCR-processed documents or transcripts where blank pages retain their black color in PDF viewers.
+- The text is positioned in the bottom right corner, a common location for footers and page numbers.
+- The font size is relatively small compared to the height of the image, occupying perhaps 10% of the total vertical space.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The primary visual field consists entirely of a solid, featureless black background that fills approximately 99% of the frame.
+*   A thin, uniform white margin runs vertically along the entire right-hand edge of the document.
+*   A small strip of white space appears at the very bottom right corner, distinct from the main body of the image.
+*   The black area is completely uniform with no gradients, noise, or hidden faint markings visible to the naked eye.
+*   There are no graphical elements, images, charts, or tables present within the visual data.
+*   The layout mimics a standard A4 or letter-sized page format, but only the right-side footer area is clearly defined by the white border.
+*   The vast darkness suggests this is either an intentionally blank cover page, a redacted document where content has been obscured, or a technical error in image capture where the sensor received no signal.
+
+## Visible Text (verbatim)
+EFTA00005720
+
+## Notable Details / Clues
+*   The alphanumeric string "EFTA00005720" is located at the extreme bottom right of the white footer area.
+*   The text is printed in a small, sans-serif font, typical of document tracking numbers or Bates numbers used in legal or administrative proceedings.
+*   The prefix "EFTA" likely stands for the European Free Trade Association, suggesting this document may be related to an international treaty or trade organization context.
+*   Since the text is visible on what appears to be a black background, it resembles a footer printed on the back of a page or on a page intentionally left blank.
+*   The high contrast between the white text and the white margin (if the text were lighter) would be standard, but here the text sits on white paper against a black void.
+*   There are no other dates, names, or titles visible to provide context beyond the ID number.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The primary visual field is completely dominated by a uniform black background that covers 99% of the frame.
+*   There are no visible objects, people, or subjects depicted in the scene.
+*   No distinct shapes, lines, or textures are distinguishable within the dark void.
+*   The lighting appears non-existent as there are no highlights or shadows present.
+*   The image lacks any discernible boundaries or edges other than the container of the image file itself.
+
+## Visible Text (verbatim)
+*   Located in the extreme bottom right corner of the page.
+*   The text reads: **EFTA00005721**
+*   The characters are rendered in white against the black background.
+*   The font style appears to be a clean, monospaced or sans-serif typeface typical of document tracking numbers.
+
+## Notable Details / Clues
+*   This alphanumeric string functions as an identification code rather than a caption.
+*   The prefix "EFTA" suggests a reference to the European Free Trade Association or a similar organizational coding system.
+*   The numeric suffix "00005721" indicates a specific instance number, likely an accession page or document footer.
+*   The placement in the corner is standard for metadata stamps on official paperwork.
+*   The stark contrast between the white text and black background suggests high-contrast printing or digital rendering.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image is dominated entirely by a uniform, solid black field that occupies roughly 98% of the visual space.
+*   There are no discernible photographs, illustrations, or graphical elements present in the main body of the document.
+*   The background appears to be flat with no texture or grain visible within the dark area.
+*   The composition is stark, suggesting that either an error occurred during image capture or the content has been intentionally redacted.
+*   The layout implies a standard page orientation, likely A4 or Letter size based on aspect ratio.
+*   The blackness extends almost to the absolute edges of the canvas, creating a frameless look until the text appears.
+*   There are no visible shadows, gradients, or variations in the darkness level across the page.
+
+## Visible Text (verbatim)
+*   **EFTA00005722**
+
+## Notable Details / Clues
+*   **Text Location:** The alphanumeric string is positioned in the bottom right corner of the image.
+*   **Text Formatting:** The text is rendered in a white, sans-serif font, providing high contrast against the black background.
+*   **Document Identification Style:** The prefix "EFTA" combined with a numeric sequence is characteristic of Bates numbers or document IDs used by the Electronic Deposition System (EDIS) for legal proceedings.
+*   **Redaction Indicator:** The solid blackness suggests this may be an excerpt from a larger document where specific portions (names, addresses, or other sensitive details) have been redacted out.
+*   **Image Integrity:** Aside from the text overlay, the image appears to be a single, flat layer without noise artifacts common in older camera captures.
+*   **Character Count:** The identifier consists of six letters followed by seven digits (EFTA00005722).
+*   **Spacing:** The characters are spaced evenly and tightly, typical of automated metadata stamps added to legal files.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image presents a vertically oriented rectangular frame, characteristic of a standard document page.
+- The vast majority of the visual field is obscured by an intense, uniform darkness, appearing as a solid black background.
+- A thin, bright white margin or border frames the dark central area on all four sides (top, bottom, left, and right).
+- There are no visible photographs, illustrations, signatures, or printed lines within the main content area.
+- The lighting conditions appear completely absent or blocked out in the center, suggesting either a failed scan, a page that didn't print, or intentional redaction with black ink.
+- The texture appears flat and featureless, lacking paper grain or shadows that would suggest a physical object.
+- The composition is centered around the empty black void, drawing no attention to any specific focal point.
+- The white border provides a stark contrast to the dark interior, defining the edges of the document clearly.
+- There is a complete lack of color variation; the image consists almost entirely of black (#000000 or very close to it) and white (#FFFFFF).
+- No other objects, people, or environmental context are present in the frame.
+
+## Visible Text (verbatim)
+- EFTA00005723
+
+## Notable Details / Clues
+- The alphanumeric string "EFTA00005723" is located in the extreme bottom right corner of the page.
+- This identifier likely serves as a document control number, accession ID, or archival reference code.
+- The prefix "EFTA" often corresponds to the European Free Trade Association, suggesting this might be a legal or official document from that jurisdiction.
+- The absence of content could indicate that the original text has been digitally blacked out for privacy or confidentiality reasons.
+- Alternatively, it could represent a technical artifact where the scanner failed to capture the page image, resulting in a "black" negative or error state.
+- The font of the identifier is small, sans-serif, and right-aligned, typical for footer metadata on official forms.
+- There are no visible page numbers other than this unique ID code.
+- The uniformity of the black suggests it is a digital overlay or a very high-opacity ink mark rather than a shadow.
+- If this is a redacted document, the original information has been completely removed without leaving any trace of underlying text.
+- The presence of the white border suggests this is a scan or photograph of a physical sheet of paper.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image consists almost entirely of a solid, uniform black field that fills the majority of the frame.
+*   There are no discernible objects, people, landscapes, or textures visible within the main body of the image.
+*   The black area appears to be a flat surface or a void with zero depth perception.
+*   A thin white border frames the right and bottom edges slightly differently, suggesting the boundaries of the digital image file.
+*   The lighting in the scene is effectively non-existent for 99% of the visual space.
+*   The composition is extremely minimalistic, dominated by negative space.
+*   No shadows or gradients are visible to indicate a light source within the black area itself.
+
+## Visible Text (verbatim)
+*   EFTA00005724 (Located in the bottom right corner, printed in small white sans-serif font).
+
+## Notable Details / Clues
+*   The prefix "EFTA" often refers to the European Free Trade Association, suggesting this might be a cover page or back page from an official document related to that organization.
+*   The sequence "00005724" functions as a unique identifier, possibly a file number, case ID, or reference code.
+*   The presence of only this single alphanumeric string implies the image is likely a scanned document where the content has ended or it is a blank spacer page between sections.
+*   The text placement at the very bottom edge is typical for footer information in official forms or reports.
+*   The stark contrast between the black background and white text suggests a deliberate design choice to keep the area clean of distractions, common in legal or administrative formatting.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Dominant Visual:** The primary feature of the image is a vast, uniform expanse of solid black color that occupies nearly the entire frame, suggesting a blank page or an area filled with redaction ink.
+*   **Absence of Imagery:** There are no photographs, diagrams, graphs, charts, or illustrations visible anywhere in the main body of the document.
+*   **Texture and Lighting:** The surface appears perfectly flat and devoid of texture, grain, or lighting gradients; it is a monotone dark field.
+*   **Scanner Artifacts:** Along the extreme bottom edge, there is a narrow strip of white background, indicating this is likely a digital capture of a physical paper document on a scanner bed, where the text overlay sits on a standard white margin.
+*   **Page Structure:** The layout implies this is a full-page view, likely representing an empty sheet (such as a back cover or divider) within a larger PDF or printed file.
+*   **Spatial Composition:** The visual weight is entirely negative; there are no focal points, objects, or figures to distract the eye from the void of the black space.
+*   **Color Palette:** The image utilizes a binary palette consisting almost exclusively of deep blacks (the document content) and stark whites (the scanner border/margin), with only the text adding high contrast.
+
+## Visible Text (verbatim)
+*   EFTA00005725
+
+## Notable Details / Clues
+*   **Document Identification:** The alphanumeric string "EFTA00005725" functions as a Bates number or case identifier, commonly used in legal proceedings to track pages of evidence or documents.
+*   **"EFTA" Prefix:** This prefix typically stands for the EEA Free Trade Agreement, suggesting the document originates from a body dealing with European economic law, an archive using that nomenclature, or is related to EU/EEA trade relations.
+*   **Redaction Indicator:** The pitch-black background could indicate that text was intentionally obscured (redacted) for privacy or security reasons before scanning/uploading, leaving only the standard automated document tracking number visible in the footer area.
+*   **File Integrity:** This page likely represents a "ghost page" in a PDF file—pages generated by software formatting but devoid of actual content—or it is the blank back page of a report.
+*   **Numbering Sequence:** The sequence "0005725" suggests this is not the first page of a document, indicating there are thousands of preceding pages or a high volume of filings involved in this specific set.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image is dominated by a solid black field that fills approximately 99% of the visual frame.
+*   There are no photographs, illustrations, charts, or graphical elements visible in the main body of the document.
+*   The lack of imagery suggests this is likely a page from a scanned document where sensitive content has been redacted (blacked out) or the page was otherwise blank.
+*   A thin white border is visible along the very bottom edge of the image, which typically indicates the physical edge of a paper document during scanning.
+*   The black color is uniform and deep, with no gradients or shading visible within the main body.
+*   There is no texture suggesting wood grain, paper fibers, or digital noise within the black areas; it appears digitally flat.
+*   No other text, headlines, footers, or headers are present in the upper or left portions of the page.
+*   The composition is extremely sparse, consisting only of the black background and a single alphanumeric identifier.
+
+## Visible Text (verbatim)
+*   **EFTA00005726**
+
+## Notable Details / Clues
+*   **Location:** The text "EFTA00005726" is situated in the bottom right corner of the page.
+*   **Alignment:** It is right-aligned and positioned very close to the bottom margin, just above the white scanning border.
+*   **Font Style:** The characters appear to be a standard sans-serif font, common for document identifiers.
+*   **Character Composition:** The string begins with uppercase letters "EFTA" followed by a sequence of seven digits "00005726".
+*   **Contextual Usage:** This format (Alpha prefix + numeric suffix) is highly characteristic of a Bates number or a Document ID used in legal discovery processes.
+*   **Redaction Indicator:** The presence of this ID on an otherwise black image strongly implies that the content of the page has been obscured, likely to remove personally identifiable information (PII) or confidential material.
+*   **Color Contrast:** The text is white, providing high contrast against the black background to ensure the document ID remains legible for tracking and filing purposes.
+*   **Scale:** The text is very small relative to the page size, occupying perhaps 1-2% of the total area.
+*   **Spelling:** "EFTA" likely stands for an acronym relevant to the organization (e.g., European Free Trade Association, though in this context it is purely a label).
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[Department of Justice Seal]
+
+U.S. Department of Justice
+
+United States Attorney
+
+Southern District of New York
+
+The Silvio J. Mollo Building
+One Saint Andrew’s Plaza
+New York, New York 10007
+
+July 5, 2019
+
+Re: Grand Jury Subpoena
+
+Please be advised that the accompanying grand jury subpoena has been issued in connection with an official criminal investigation of a suspected felony being conducted by a federal grand jury. The Government hereby requests that you voluntarily refrain from disclosing the existence of the subpoena to any third party. While you are under no obligation to comply with our request, we are requesting you not to make any disclosure in order to preserve the confidentiality of the investigation and because disclosure of the existence of this investigation might interfere with and impede the investigation.
+
+Moreover, if you intend to disclose the existence of this subpoena to a third party, please let me know before making any such disclosure.
+
+Thank you for your cooperation in this matter.
+
+Very truly yours,
+
+GEOFFREY S. BERMAN
+
+[REDACTED]
+
+By:
+[REDACTED] / [REDACTED] / [REDACTED]
+
+Assistant United States Attorneys
+
+[REDACTED]
+
+EFTA00005727
+
+## Structured Fields
+- **Date:** July 5, 2019
+- **Organization:** U.S. Department of Justice, United States Attorney (Southern District of New York)
+- **Name:** GEOFFREY S. BERMAN
+- **Location:** The Silvio J. Mollo Building, One Saint Andrew's Plaza, New York, New York 10007
+- **Doc ID:** EFTA00005727
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Grand Jury Subpoena
+United States District Court
+SOUTHERN DISTRICT OF NEW YORK
+
+TO: [REDACTED]
+
+GREETINGS:
+
+WE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York, New York, in the Southern District of New York, at the following date, time and place:
+
+Appearance Date: July 24, 2019                  Appearance Time: 10:00 a.m.
+to testify and give evidence in regard to an alleged violation of:
+18 U.S.C. §§ 1591, 2421, 2422, 2423, 371
+and not to depart the Grand Jury without leave thereof, or of the United States Attorney, and that you bring with you and produce at the above time and place the following:
+**See attached Advice of Rights**
+
+Failure to attend and produce any items hereby demanded will constitute contempt of court and will subject you to civil sanctions and criminal penalties, in addition to other penalties of the Law.
+
+DATED: New York, New York July 5, 2019
+G S B-
+GEOFFREY S. BERMAN
+[REDACTED] the
+York
+Assistant United States Attorneys
+One St. Andrew's Plaza
+New York, New York 10007
+Telephone: [REDACTED]
+
+(Seal and Signature block)
+UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW YORK
+[Handwritten scribble over seal]
+
+rev. 02.01.12
+EFTA00005728
+
+## Structured Fields
+- **Document Type:** Grand Jury Subpoena
+- **Court:** United States District Court, Southern District of New York
+- **Date Dated:** July 5, 2019
+- **Appearance Date:** July 24, 2019
+- **Appearance Time:** 10:00 a.m.
+- **Location:** United States Courthouse, 40 Foley Square, Room 220, Manhattan, New York, NY
+- **Legal Authority:** 18 U.S.C. §§ 1591, 2421, 2422, 2423, 371
+- **Signatory Name:** Geoffrey S. Berman
+- **Signatory Title:** Assistant United States Attorneys
+- **Document ID:** EFTA00005728
+- **Revision Date:** 02.01.12
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Advice of Rights
+
+1. You may refuse to answer any question if a truthful answer to the question would tend to incriminate you.
+
+2. Anything that you do say may be used against you by the grand jury or in a subsequent legal proceeding.
+
+3. If you have a lawyer, the grand jury will permit you a reasonable opportunity to step outside the grand jury room to consult with your lawyer if you so desire.
+
+4. If you would like a lawyer but do not have funds to retain one, you may make an application to the United States Magistrate Judge who will decide whether to appoint a lawyer to represent you.
+
+## Structured Fields
+- **Document ID:** EFTA00005729
+- **Title/Subject:** Advice of Rights
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 1 of 1
+[REDACTED]
+[REDACTED]
+https://www.ejustice.ny.gov/wps/PA_DMVPhotoService/FetchImageServlet?imageId=4790... 6/5/2019                                                                                                                    EFTA00005730
+
+## Structured Fields
+- **Date**: 6/5/2019
+- **Organization**: ejustice.ny.gov (New York State Office of Court Administration)
+- **Doc ID**: EFTA00005730
+- **Image ID**: 4790...
+

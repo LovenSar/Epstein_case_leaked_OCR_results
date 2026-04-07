@@ -1,0 +1,35 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016616.pdf ts=2026-03-13T00:48:53 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document, likely a screenshot or printout of an email chain, featuring significant redactions in the form of solid black bars obscuring sensitive information. The layout consists of three main vertical sections: a primary email header at the top, a brief message body, and an embedded email header below a horizontal divider line.
+
+At the very top, the header fields "From" and "To" are present but obscured by black rectangles. Below this, the subject line is clearly visible in bold text. The date stamp is precise to the second in UTC time (+0000). An attachment list follows immediately underneath. A thin horizontal line separates this initial email block from the body text.
+
+The body text is a single sentence informing the recipient about an attached transcript. Following this message, another horizontal line indicates a forwarded message embedded within the current email. This second header block begins with "From" and "Sent," with the timestamp showing 3:03 PM on November 23, 2021. The "To" and "Cc" fields are heavily blacked out with wide bars. Below this embedded header is another large black rectangular redaction that covers what would be the body of that specific forwarded email or attachment preview.
+
+In the bottom right corner of the white space, a document identification number is printed in small font. Throughout the document, the redactions are uniform—solid black rectangles that completely hide text, likely names, addresses, or other private identifiers to protect witness or victim privacy.
+
+## Visible Text (verbatim)
+- From [Redacted]
+- To [Redacted]
+- Subject: FW: US V Maxwell
+- Date: Tue, 23 Nov 2021 20:13:33 +0000
+- Attachments: LBNAMAXT.PDF
+- Transcript from today's conference is attached.
+- From: [Redacted]
+- Sent: Tuesday, November 23, 2021 3:03 PM
+- To: [Redacted]
+- Cc: [Redacted]
+- Subject: FW: US V Maxwell
+- EFTA00016616
+
+## Notable Details / Clues
+- **Legal Context:** The subject line "FW: US V Maxwell" strongly suggests this is part of a legal case, specifically United States v. Maxwell.
+- **Attachment Filename:** The attachment "LBNAMAXT.PDF" appears to be an acronym containing initials (possibly "LBN") and the surname "MAX," matching the subject line.
+- **Time Zone Discrepancy:** The main email is timestamped at 20:13:33 UTC (8:13 PM), while the embedded forwarded message shows a time of 3:03 PM, indicating either a different time zone for the sender of the original message or a local system clock difference.
+- **Privacy Redaction:** The heavy use of black bars indicates this is an official court document where identifying information has been intentionally obscured (redacted) before release or printing, common in federal court filings.
+- **Exhibit Number:** The text "EFTA00016616" in the corner is likely an Exhibit Identification number used to catalog evidence in a trial file system.
+- **Forwarded Chain:** The use of "FW:" (Forward) in the subject line confirms that this document is a relayed copy, meaning it may not be the original source but rather a copy passed along a chain of command or legal team members.
+

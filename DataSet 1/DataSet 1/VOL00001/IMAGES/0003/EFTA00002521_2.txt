@@ -1,0 +1,37 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002521.pdf ts=2026-03-05T20:46:25 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image captures a close-up, eye-level shot taken inside a computer server rack or data center environment. The central focus is a human hand clad in a textured black nitrile glove holding up a rectangular paper tag attached to a thin white string. The tag features a printed information label with a light grey background and black text, which appears slightly dusty on the right edge. Above the hand, the metallic silver chassis of a server rack is visible, featuring mounting screws and a red plastic component on the far left. Below the tag, a blue Ethernet cable runs horizontally across the bottom of the frame, while blurred yellow and orange wires are visible in the dark background. The lighting is somewhat dim, likely artificial overhead or flashlight illumination focused specifically on the label to make it legible against the shadowed interior of the equipment.
+
+## Visible Text (verbatim)
+
+**On the Label:**
+*   **Header:** iLO 2 Default Network Settings
+*   **Field 1:** Server Serial Number: MXQ824A1RJ
+*   **Barcode Row 1:** [Barcode under Serial Number]
+*   **Field 2:** User Name: Administrator
+*   **Field 3:** DNS Name: ILOMXQ824A1RJ
+*   **Barcode Row 2:** [Barcode under DNS Name]
+*   **Field 4:** Password: 5U5CNHGG
+*   **Barcode Row 3:** [Barcode under Password]
+
+**Watermark (Bottom Right Corner):**
+*   EFTA00002521
+
+## Notable Details / Clues
+
+*   **Security Vulnerability:** The label explicitly displays default network settings for an iLO (Integrated Lights-Out) management card, providing the username "Administrator" and a password "5U5CNHGG," creating a significant security risk if left attached to the hardware.
+*   **Hardware Identification:** The server serial number "MXQ824A1RJ" provides unique identification for this specific chassis unit within the data center inventory.
+*   **DNS Mapping:** The DNS name matches the serial number prefix ("ILOMX..."), a common configuration practice to ensure the management port resolves correctly on the network without manual IP configuration.
+*   **Maintenance Context:** The use of black nitrile gloves suggests a professional maintenance, installation, or forensic context where contamination or static discharge protection is required.
+*   **Tag Condition:** The tag shows signs of wear; there are faint smudges and dirt marks on the right side of the paper backing, suggesting it may have been hanging for some time or handled in a dusty environment.
+*   **Attachment Method:** A white string is threaded through a hole near the left edge of the tag (indicated by a reddish circle), likely intended to prevent loss if attached to a cable loop or rack rail.
+*   **Rack Infrastructure:** The background reveals typical data center infrastructure, including the perforated metal rails of the chassis and various cabling management loops in yellow, blue, and orange.
+*   **Visual Hierarchy:** The text is arranged with the most critical networking information (DNS/Password) at the bottom, likely to be read last by a technician setting up the device on the network.
+*   **iLO Generation:** The text "iLO 2" indicates this is an HP/Intel server using the second generation of their Integrated Lights-Out management technology.
+*   **Barcode Functionality:** Three distinct barcodes are present, likely for automated inventory scanning of the serial number, and perhaps secondary identification codes for the network credentials.
+*   **Red Component:** On the top left, a red plastic piece is visible on the chassis, possibly part of a power supply connector or a cable tie mount, contrasting with the grey metal and black glove.
+

@@ -1,0 +1,47 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030157.pdf ts=2026-03-18T16:20:50 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an electronic email message, likely taken from an archive or leak given the heavy redaction. The top section shows standard email header fields including "From," "To," "Subject," "Date," and "Importance." The sender's and recipient's names are heavily obscured by black rectangular censorship bars, though partial identifiers like "(USANYS)" remain visible in the sender field. The subject line references an "Epstein investigation" and a "prosecution memo." Below the headers, a thin horizontal line separates the metadata from the message body. A short snippet of blue hyperlink text reading "Thanks. Much appreciated." is visible before a massive black rectangle obfuscates the rest of the email content. Beneath this large block is another black rectangular area, separated by a white gap, further obscuring any attachments or continuation text. The document features a unique identifier code in the bottom right corner.
+
+## Visible Text (verbatim)
+- From: "[REDACTED] (USANYS)" <[REDACTED]>
+- To: "[REDACTED])" <[REDACTED]>
+- Subject: RE: RE: Epstein investigation, prosecution memo
+- Date: Thu, 20 Jun 2019 17:26:08 +0000
+- Importance: Normal
+- Thanks. Much appreciated.
+- EFTA00030157
+
+## Notable Details / Clues
+- **Document Context:** The subject line explicitly mentions "Epstein investigation," linking this document to the high-profile legal proceedings and subsequent leaks involving Jeffrey Epstein.
+- **Date Significance:** The timestamp (June 20, 2019) places the communication during a critical period of the FBI and Attorney General investigations into Epstein's associates.
+- **Sender Identifier:** The partial text "(USANYS)" in the "From" line likely refers to the United States Attorney's Office for the Northern District of New York, where Epstein’s case was handled (SDNY).
+- **Redaction Style:** The use of standard black censorship bars suggests this is a leaked or declassified document intended for restricted access.
+- **Email Headers:** The header fields include typical angle brackets `<` and `>` associated with email routing addresses, though the specific addresses are hidden.
+- **Hyperlink Text:** The phrase "Thanks. Much appreciated." appears in blue, indicating it was originally a clickable hyperlink within the email body.
+- **Document ID:** The code "EFTA00030157" suggests an external filing or archive reference number, possibly from the Federal Bureau of Investigation (FBI) or Department of Justice.
+- **Visual Layout:** There are two distinct large black blocks obscuring the content; the top one is wider than it is tall, while the bottom block appears to extend nearly the full width of the page below a white separator gap.
+- **Font and Formatting:** The text uses a standard serif font for headers (Times New Roman or similar) and a sans-serif font for the email body text area, typical of legacy email clients like Outlook or older web interfaces.
+- **Time Zone:** The timestamp includes "+0000," indicating Coordinated Universal Time (UTC), common in federal government communications.
+- **Importance Setting:** The "Normal" importance setting implies this was not marked as urgent or high-priority at the moment of transmission, despite the sensitive subject matter.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image is dominated by a large, solid black rectangle positioned at the very top of the frame.
+- This black block spans nearly the entire width of the page, leaving only a narrow white margin on the far left and right edges.
+- The majority of the document (approximately 80% or more of the vertical space) consists of empty white background.
+- There are no discernible patterns, textures, or gradients within either the black area or the white area; both are uniform in tone.
+- No images, charts, graphs, or other visual data are visible below the black rectangle.
+
+## Visible Text (verbatim)
+- **EFTA00030158**
+
+## Notable Details / Clues
+- The text "EFTA" is likely an abbreviation for the European Free Trade Association.
+- The alphanumeric string ending in "158" appears to be a unique document identifier, file reference number, or case number.
+- The solid black rectangle at the top suggests either a redacted section of sensitive information, a placeholder for a missing image, or a cover graphic that failed to render transparently.
+- There is no other typographic content (titles, headers, body text) visible on this page.
+

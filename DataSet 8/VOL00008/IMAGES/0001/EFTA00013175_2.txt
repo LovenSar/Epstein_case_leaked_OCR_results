@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00013175.pdf ts=2026-03-11T12:58:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email chain, heavily redacted for privacy. The document is oriented in portrait mode with a white background and black text. At the top, there are standard email header fields (From, To, Subject, Date) where the specific names are blacked out but the domain identifier "(USANYS)" is visible in the From and To fields, indicating United States Attorney New York System. The subject line reads "FW: Request" and the date is stamped for Friday, October 4, 2019.
+
+Below the top header is a snippet of email body text that is partially obscured by a thick black bar. Visible fragments read "Other than Epstein, we would have [Redacted] Anything else?". Following this is another forwarded email block (indicated by an earlier timestamp) where the sender and sent time are redacted, but a subject line "RE: Request" is visible alongside blue hyperlink text reading "Please respond by the end of the day. Thanks!".
+
+The final section shows the bottom-most email in the chain. The header indicates it was sent on Thursday, October 03, 2019. A large black rectangle obscures the majority of the body of this specific email. Beneath that obstruction, readable text begins with a salutation "Chiefs," followed by a paragraph requesting data from various units regarding human trafficking interviews over the past year. The text notes that answers may be rough or zero for some units. A signature block at the bottom features a redacted name but clearly displays professional titles: "Assistant United States Attorney," "Human Trafficking Co-Coordinator," and unit details including "Money Laundering & Transnational Criminal Enterprise Unit" within the "Southern District of New York." A document ID number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Header Block:**
+From: "[REDACTED] (USANYS)" <[REDACTED]>
+To: "[REDACTED] (USANYS)" <[REDACTED]>
+Subject: FW: Request
+Date: Fri, 04 Oct 2019 20:02:50 +0000
+
+**Middle Text Block:**
+Other than Epstein, we would have [Redacted] Anything else?
+From: [Redacted]
+Sent: Friday, October 4, 2019 4:01 PM
+Cc: [REDACTED]
+Subject: RE: Request
+Please respond by the end of the day. Thanks!
+
+**Bottom Header Block:**
+From: [Redacted]
+Sent: Thursday, October 03, 2019 12:37 PM
+Subject: Request
+
+**Body Text (Bottom Section):**
+Chiefs,
+
+If you could reach out to your unit and find out, on average, about how many unique victims or potential victims of human trafficking (adult or minor) your unit has interviewed in the past year we would appreciate it. It doesn’t matter if the case was charged. We are trying to get a sense of volume. We realize the answer will be rough and likely zero for some units. If you could get back to us by COB Friday we would appreciate it.
+
+Thanks,
+
+[REDACTED]
+Assistant United States Attorney
+Human Trafficking Co-Coordinator
+Money Laundering & Transnational Criminal Enterprise Unit
+Southern District of New York
+
+**Footer:**
+EFTA00013175
+
+## Notable Details / Clues
+*   **Legal Context:** The email originates from the Southern District of New York (SDNY), a major federal court district often associated with high-profile white-collar and criminal cases.
+*   **Epstein Connection:** The mention of "Epstein" at the top suggests a link to the Jeffrey Epstein federal investigation, which was active in this jurisdiction around October 2019.
+*   **Data Collection Goal:** The email is a standard operating procedure (SOP) data request designed to aggregate statistics ("get a sense of volume") on human trafficking cases handled by different units within the department.
+*   **Urgency:** The sender sets a tight deadline ("end of the day" and "COB Friday"), indicating a need for prompt administrative coordination.
+*   **Job Titles:** The signature reveals the specific role is "Human Trafficking Co-Coordinator" within the "Money Laundering & Transnational Criminal Enterprise Unit," highlighting the intersection of financial crimes and trafficking investigations.
+*   **Inclusivity in Data:** The request specifically asks to count both "adult or minor" victims and notes that it "doesn’t matter if the case was charged," suggesting they want raw interview data regardless of prosecution outcomes.
+*   **Redaction Level:** The redactions are heavy on personal names but light on organizational structure (Unit, District, Job Titles), allowing analysts to understand the hierarchy while protecting identities.
+*   **Timestamp Discrepancy:** The forwarded email (top block) was sent at 4:01 PM on Friday, Oct 4th, likely forwarding a message received earlier that day or late on Thursday to meet the "COB Friday" deadline mentioned in the final email.
+*   **Document ID:** The code "EFTA00013175" in the corner suggests this is part of a formal evidentiary record or public disclosure (likely an EFT - Electronic Filed Transaction or similar legal docket).
+*   **Tone:** The tone is bureaucratic yet appreciative ("we would appreciate it"), typical of internal government communications.
+

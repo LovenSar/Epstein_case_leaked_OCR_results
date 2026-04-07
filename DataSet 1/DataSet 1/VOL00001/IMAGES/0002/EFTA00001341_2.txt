@@ -1,0 +1,38 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001341.pdf ts=2026-03-05T11:56:27 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a black server cabinet or network rack standing upright indoors, likely within an office or technical control room. The front door of the rack is swung open to the left, revealing the interior mounting rail and equipment. On top of the rack sits a light-colored laminate surface cluttered with personal and utility items. To the right of the rack is a desk surface with a partial view of a keyboard and monitor. At the bottom, lying on the grey striped carpet, is a black perforated metal panel that appears to be a blanking plate or filter removed from the bottom of the rack.
+
+Inside the rack, several pieces of networking and computing hardware are stacked vertically:
+- **Top Level:** A network switch or router is mounted highest up, featuring rows of ports and illuminated blue status LEDs.
+- **Second Level:** Below the top switch is a black unit labeled "NITEK". It appears to be an expansion chassis or similar networking hardware.
+- **Third Level:** Beneath the NITEK unit is another piece of equipment with a grey front panel. Several bright blue Ethernet cables are plugged into its rear, cascading downwards. Text on the side partially reads "VIDEO... DISTRIBUTER".
+- **Fourth Level:** A black computer tower (blower style cooling) sits in an empty half-rack space or shelf below the third unit. It has a visible HP logo and a yellow sticky note attached to the front with illegible handwriting.
+- **Fifth Level:** Below the HP tower is a large, wide black chassis featuring a prominent blue "X" logo on the top left corner.
+- **Bottom Levels:** Underneath the large "X" chassis are two stacked modular units or blade servers. The lowest visible unit inside the rack bears an "APC" logo.
+- **Floor Item:** A long, black, perforated metal strip lies flat on the carpet in front of the rack, likely a filter cover that was removed.
+- **Door Interior:** Attached to the inside of the open rack door is a white document featuring a grid or table layout.
+
+The lighting suggests flash photography, creating strong reflections on the plastic bottles and the top of the monitor. The cables are somewhat disorganized but mostly managed with velcro ties. A cardboard box is partially visible in the bottom right corner.
+
+## Visible Text (verbatim)
+- "MARSHAL" (on the hat brim)
+- "COTTON POPLIN" (on the dark bottle label)
+- "Purell" (partially visible on sanitizer bottle)
+- "Winsted" (on the rack frame top left)
+- "NITEK" (on the second shelf unit)
+- "VIDEO... DISTRIBUTER" (partial text on third shelf unit)
+- "HP" (logo on the tower computer)
+- "APC" (on the lowest internal unit)
+- "EFTA00001341" (in bottom right corner)
+
+## Notable Details / Clues
+- **Hygiene/Context:** The presence of hand sanitizer ("Purell") and a candle/perfume bottle on top suggests this is an occupied workspace used for extended periods.
+- **Cabling:** A bundle of blue Ethernet cables connects the upper networking gear to the lower video distribution unit, indicating a specific data path (likely IP-CAM or surveillance setup given the "Video Distributer" label).
+- **Equipment Mix:** The rack contains a mix of consumer/office IT gear (HP PC tower) and professional enterprise network gear (APC UPS/Switching equipment), suggesting a makeshift or transitional IT setup.
+- **Rack Hardware:** The rack itself is labeled "Winsted," a brand often found in older industrial or custom server racks.
+- **Documentation:** A paper document clipped to the inside of the door implies that rack configuration or asset tracking was being maintained, though the text is too blurry to read.
+- **Floor Clutter:** The removal of the bottom blanking panel suggests maintenance work was recently performed or the panel fell out/broke.
+

@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031678.pdf ts=2026-03-19T08:24:26 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED], [REDACTED]. (NY) (FBI)" <[REDACTED]>
+To: [REDACTED] (USANYS)" <[REDACTED], " [REDACTED], [REDACTED] (USANYS)".
+(OIG)" <[REDACTED], "[REDACTED] (USANYS)"
+Cc: "[REDACTED], [REDACTED] O. (NY) (OGA)" <[REDACTED]>
+Subject: [REDACTED] 302
+Date: Fri, 30 Aug 2019 16:55:06 +0000
+Attachments: [REDACTED].pdf
+
+-----------------------------------------------------------------------------
+
+Finalized 302 of [REDACTED] ([REDACTED] and [REDACTED] - I Know you guys already have this.... but not sure about [REDACTED] and
+[REDACTED]
+[REDACTED]
+Special Agent
+FBI New York Field Office
+Violent Crimes Task Force
+[REDACTED]
+
+## Structured Fields
+- **Date:** Fri, 30 Aug 2019 16:55:06 +0000
+- **Subject (Partial):** ... 302
+- **From Domain:** (NY) (FBI)
+- **To Domains:** (USANYS), (OIG), (USANYS)
+- **Cc Domain:** (NY) (OGA)
+- **Organization:** FBI New York Field Office, Violent Crimes Task Force
+- **Attachment Type:** .pdf
+- **Document ID:** EFTA00031678
+

@@ -1,0 +1,25 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008458.pdf ts=2026-03-09T07:08:15 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of an open cardboard shipping box resting on a speckled, grey-and-white terrazzo or granite countertop. Inside the center of the box lies a computer hard drive component encased in a thick, clear, air-filled plastic antistatic bag. The box itself is standard brown corrugated cardboard with its top flaps folded back outwards. The left and right interior faces of the box feature vertical rows of small, evenly spaced perforation dots near the inner edges. Beneath the plastic bag, a white envelope or paper document is partially visible at the bottom edge of the frame.
+
+The object inside the bag is a rectangular metal chassis, typical of a 3.5-inch enterprise-grade hard drive. Through the crinkled plastic, one can see multiple circular mounting holes around the perimeter and along the center, suggesting it is designed for a hot-swap bay. The top portion of the internal label on the drive is visible through the plastic; it features the "Seagate" logo in the upper left corner. Below the logo, there are lines of technical specification text, though partially obscured by reflections on the plastic. Towards the bottom center of the metal chassis, a stamped alphanumeric identifier is visible directly on the surface. A piece of blue tape or a blue sticker covers the lower section of the label area.
+
+## Visible Text (verbatim)
+- Top box flap (inverted): "SMEAD", vertical bars symbol, "No. 1056EL"
+- Inside drive label: "Seagate" (logo text)
+- Inside drive label (red text): "BAY 1" (or similar)
+- Stamped on chassis: "P 128 06004"
+- Box flap small print: "UNIC..." (partially visible upside down numbers/letters)
+
+## Notable Details / Clues
+- **Manufacturer Identification:** The box is branded with "SMEAD," a well-known manufacturer of archival and office storage solutions, suggesting this item was shipped via an office supply company or purchased from them.
+- **Hardware Type:** The object is clearly a Seagate hard drive, indicated by the logo on the chassis. The presence of heavy-duty metal mounting brackets suggests it is an enterprise-class SAS (Serial Attached SCSI) drive rather than a standard consumer SATA drive.
+- **Packaging Security:** The drive is sealed inside a vacuum-sealed style plastic bag to prevent dust ingress and physical damage during shipping, which is common for high-value electronics like data storage units.
+- **Bay Configuration:** The text "BAY 1" on the label indicates this drive is pre-configured or intended for installation into a specific numbered drive bay within a server chassis (e.g., a Dell PowerEdge or similar enterprise server).
+- **Asset/Serial Tracking:** The number stamped directly onto the metal casing ("P 128 06004") acts as a unique serial identifier, crucial for inventory management and warranty tracking.
+- **Condition:** The plastic bag appears slightly inflated and creased, indicating normal handling rather than damage. The cardboard box shows no signs of crushing or moisture damage.
+- **Countertop:** The surface beneath the box is a polished stone surface with grey and white flecks, providing high contrast to the brown box.
+

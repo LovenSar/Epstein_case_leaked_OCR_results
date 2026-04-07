@@ -1,0 +1,37 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015125.pdf ts=2026-03-12T13:06:57 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the header and footer portions of an official government document, dominated by a large central redaction box. At the very top left corner, a timestamp reads "10/6/21, 12:40 PM". Centered just below this is the text "III/FBI/State Delayed Response". Below that, in bold black font, is the main title "Additional Inquiry Response". Immediately underneath the title, in red text, is an Office of Research and Analysis identifier "ORI: NYFBINY00", followed by the agency name "Federal Bureau of Investigation - New York" also in red. A decorative horizontal line separates this header block from the rest of the page.
+
+Below the line, there is a section titled "III Information" marked with a small green circular icon to the left and a red arrow pointing upwards to the right. Below this marker lies a massive, solid black rectangle that covers the central content of the document entirely. This area is likely where the specific case details or text response would normally appear but has been intentionally obscured. Beneath the black box, on the left side, is the word "END".
+
+At the bottom right corner, there is pagination text reading "1/1", indicating this is a single-page transmission. Directly below that is an alphanumeric string "EFTA00015125", which serves as a document tracking or Bates number. The header also includes address information for the New York State Division of Criminal Justice Services located at the Alfred E. Smith Building in Albany, New York, along with a toll-free telephone number. A name, "Michael C.Green," is listed near the bottom of the letterhead area as an Executive Deputy Commissioner.
+
+## Visible Text (verbatim)
+- **Top Left:** 10/6/21, 12:40 PM
+- **Top Center/Right:** III/FBI/State Delayed Response
+- **Main Title:** Additional Inquiry Response
+- **Red Text Block:** ORI: NYFBINY00 / Federal Bureau of Investigation - New York
+- **Address Block:**
+  - New York State Division of Criminal Justice Services
+  - Alfred E. Smith Building, 80 South Swan St.
+  - Albany, New York 12210. Tel:1-800-262-DCJS
+- **Official Name:** Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+- **Section Header:** III Information (preceded by a green icon)
+- **Bottom Left:** END
+- **Bottom Right Pagination:** 1/1
+- **Document ID:** EFTA00015125
+
+## Notable Details / Clues
+- **Redaction Extent:** The central black box is almost the entire size of the document, suggesting that the substantive content (the actual response text) has been completely hidden, leaving only the letterhead and administrative data visible.
+- **Joint Agency Involvement:** The header "III/FBI/State Delayed Response" implies a collaboration or a hand-off between federal (FBI) and state (New York State Division of Criminal Justice Services) authorities regarding an investigation.
+- **Document Type:** The title "Additional Inquiry Response" suggests this is not the initial report but rather a follow-up document requested during an investigation, likely via FOIA or a similar public records request.
+- **Date Context:** The timestamp "10/6/21" places the document in 2021.
+- **Official Presence:** Unlike typical redactions where all names are hidden, the name of Michael C.Green is visible, indicating this might be a cover sheet or an administrative transmission rather than the investigative file itself.
+- **Geographic Specificity:** The ORI code "NYFBINY00" specifically identifies the FBI field office in New York, narrowing the jurisdiction of the response.
+- **Contact Information:** The inclusion of a 1-800 number (1-800-262-DCJS) provides a public contact line for the Division of Criminal Justice Services.
+- **Formatting Cues:** The use of red text for specific identifiers (ORI, Agency Name) is a common formatting convention in FBI reports to distinguish metadata from the main narrative body.
+- **Status Indicators:** The phrase "Delayed Response" in the top right suggests this document was part of a timeline tracking system where agency responses are logged by date and delay status.
+

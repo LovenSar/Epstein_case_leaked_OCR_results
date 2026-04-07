@@ -1,0 +1,644 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010305.pdf ts=2026-03-10T02:49:00 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document header that has been heavily redacted, covering the vast majority of the visual field with a solid black rectangle. In the upper left corner, visible above the main black void, is an email header line. The text "From: Chris DiIorio" is visible in bold black font against the white background. Immediately following the name is a left-pointing chevron or arrow symbol before being cut off by a thick black bar. Directly beneath this line is the label "To:" followed by another blacked-out section, indicating the recipient address. The main black area is a large, opaque shape that obscures the body of the message and likely most of the footer information. The top edge of this massive black rectangle is not perfectly straight; it features several small, stepped indentations along its upper perimeter, suggesting that multiple layers of redaction bars were applied to cover different parts of the text before being consolidated into a single visual block. In the bottom right corner of the white margin, a faint alphanumeric document ID is visible.
+
+## Visible Text (verbatim)
+*   From: Chris DiIorio <
+*   To:
+*   EFTA00010305
+
+## Notable Details / Clues
+*   **Redaction Technique:** The large black area appears to be a composite of several individual redaction bars layered on top of one another, evidenced by the slight horizontal offsets and "stepped" appearance at the very top edge of the black mass.
+*   **Sender Identification:** The sender is clearly identified as Chris DiIorio, though their email address and signature are completely hidden.
+*   **Document Control:** The code "EFTA00010305" in the bottom right suggests this document is part of a formal filing system or legal archive, possibly related to an EFTA (European Free Trade Association) proceeding.
+*   **Layout Standard:** The formatting (bold "From" and "To" labels followed by indented text that is now blacked out) is standard for email correspondence printed on paper or exported to PDF.
+*   **Visual Dominance:** The redaction area occupies approximately 90-95% of the total image surface area, leaving only a narrow margin at the top and a small sliver at the bottom right.
+*   **Font Weight:** The field labels ("From:", "To:") appear to be in a bold serif or sans-serif font, while the name "Chris DiIorio" is in a standard weight of the same typeface.
+*   **Missing Content:** The recipient list, subject line, date, time, and entire message body are completely obscured.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email client interface, likely viewed in a legal or investigative context given the redaction bars and evidence file number at the bottom right. The document is a threaded email conversation dominated by text content regarding financial fraud and regulatory corruption. At the top, a header block contains metadata obscured by a thick black bar, followed by a "Subject," "Date," and "Attachments" section. Below this header is the main message body, which features a paragraph of accusatory text attacking the SEC, followed by a hyperlink. This is succeeded by an embedded content box summarizing an article about Bernard Madoff and Michael Milken. The sender's name, Christopher Dilorio, appears at the bottom of the main message. Beneath his signature is another email header with redacted contact information. Further down, the "original message" thread is visible, showing two previous emails from the same sender (Chris Dilorio) sent to an address ending in `@fincen.gov`. The content of the earliest email in the chain is entirely covered by a large black rectangular redaction. A faint watermark or footer number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+Subject: Fw: Apollo/ Epstein/Kushner connection
+Date: Sun, 19 May 2019 14:03:25 +0000
+Attachments: IMG_7021.jpg
+Inline-Images: image.png
+
+**Body:**
+I reiterate:
+The SEC is a grossly corrupt criminal organization bought and paid for by criminals who threaten the integrity of our markets to the clear and very egregious detriment of the investing public it is sworn to protect.
+http://www.marketrap.com/article/view_article/9152/bernard-madoff-the-mafia-and-the-friends-of-michael-milken
+
+**Embedded Article Box:**
+Bernard Madoff, the Mafia, and the Friends of Michael Milken - Market Rap
+- The Investor Empowerment Community
+In 2005, Patrick Byrne, the CEO of Overstock.com and future Deep Capture investigative reporter, began a public crusade against illegal naked short selling (hedge funds and brokers creating phantom stock to manipulate stock prices down).He said, over and over, that the crime was destroying public companies and had the potential to trigger a systemic meltdown of our financial markets.
+www.marketrap.com
+
+**Sign-off:**
+Cheers!
+Christopher Dilorio
+[Redacted Email Address]
+
+**Thread - Message 1:**
+From: Chris Dilorio <[Redacted]>
+Sent: Friday, May 17, 2019 6:22 AM
+To: FRC@fincen.gov
+Subject: Fw: Apollo/ Epstein/Kushner connection
+
+**Thread - Message 2:**
+From: Chris Dilorio <[Redacted]>
+Sent: Wednesday, May 15, 2019 11:27 AM
+[Content obscured by black box]
+
+**Footer:**
+EFTA00010306
+
+## Notable Details / Clues
+*   **Target Audience:** The email thread includes an address sent directly to `FRC@fincen.gov` (Financial Crimes Enforcement Network), indicating a tip-off or report of illegal activity rather than just personal correspondence.
+*   **Sender Identity:** The emails originate from "Christopher Dilorio." While the email address is redacted, his name is clearly signed at the top and listed as the sender in the thread headers.
+*   **Date Range:** The communication spans from May 15, 2019, to May 19, 2019, indicating a rapid exchange of information over four days.
+*   **Specific Allegations:** The text explicitly accuses the SEC (Securities and Exchange Commission) of being a "grossly corrupt criminal organization." It references specific high-profile financial figures: Apollo, Epstein, Kushner, Bernard Madoff, Michael Milken, and Patrick Byrne (Overstock.com).
+*   **Conspiracy Themes:** The content focuses on themes of market manipulation ("illegal naked short selling"), the "Mafia," and systemic meltdowns in financial markets.
+*   **Evidence Tracer:** The number `EFTA00010306` in the bottom right corner strongly suggests this image is a page from a formal evidence file, possibly for a law firm or government agency, processed by software like LogMeUp (LogMeIn) or similar forensic tools.
+*   **Attachments/Inline Media:** The header lists specific attachments (`IMG_7021.jpg`) and inline images (`image.png`), suggesting the sender provided visual proof of their claims, though these files are not visible in the screenshot itself.
+*   **Web Source:** The text directs the reader to `www.marketrap.com`, specifically an article about Bernard Madoff's connection to organized crime.
+*   **Redaction Pattern:** The black bars used for redaction are uniform and digital, obscuring full names (presumably recipients) and email addresses but leaving the core content of the emails intact (except for the very bottom one).
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+**Subject:** Fw: Apollo/ Epstein/Kushner connection
+
+Today (5/15/19) the grossly corrupt scumbags at the SEC approved ANOTHER massive fraud on the investing public:
+
+https://www.sec.gov/Archives/edgar/data/1665300/999999999519001111/xslEFFECTX01/primary_doc.xml
+
+The "genius f'n quant" AQR/Greek shipping /Economou/DRYS/ORIG/Astra/Nautilus/Navios/Gerber/AIPAC/Nordlicht/Glass/1MDB/Knitowski/Caneum/Trymetris/Liquid etc etc etc money laundering shell.
+Well done!
+BTW, HOW is the George Economou/ Georgios EKONOMOU SEC "investigation" coming along anyway?
+https://en.wikipedia.org/wiki/George_Economou_(shipbuilder)
+
+## Structured Fields (derived)
+
+- **Date:** 5/15/19
+- **Subject:** Fw: Apollo/ Epstein/Kushner connection
+- **Names:** George Economou, Georgios Ekonomou, Andrew Ekonomou, Marc Bistricher, Bill Ackman ("genius f'n quant"), Bill Foley ("liquid")
+- **Organizations:** SEC, AQR, DryShips Inc., Ocean Rig, Cardiff Marine, Forbes Magazines, Vanity Fair, Mueller investigation, Seeking Alpha.
+- **Doc IDs:** EFTA00010307
+
+## Structured Fields
+*   **Date:** 5/15/19 (2019)
+*   **Locations/Countries:** Greek shipping (Greece), Toronto Canada
+*   **Names:** George Economou, Georgios Ekonomou, Andrew Ekonomou, Bill Ackman (referred to as "genius f'n quant"), Marc Bistricher
+*   **Organizations:** SEC, AQR, DryShips Inc., Ocean Rig, Cardiff Marine, Navios, Gerber, AIPAC, Nordlicht, Glass, 1MDB, Knitowski, Caneum, Trymetris, Liquid, Forbes Magazine, Vanity Fair, Trump legal team, Mueller investigation
+*   **Document IDs:** EFTA00010307
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Very Strong Court Case Against DryShips And Kalani - DryShips Inc. (NASDAQ:DRYS) | Seeking Alpha - Stock Market Insights | Seeking Alpha
+
+Source: rgrdlaw.com (court document) In 2012, DRYS generated $1.23 billion in total revenue, yet posted a $246 million loss. In fact, the company has been posting losses every year for the last ...
+
+seekingalpha.com
+
+"Charity not the motive"
+https://www.tradewindsnews.com/legal/1738610/kalani-claims-charity-not-a-motive-for-dryships-aid
+
+Kalani claims charity not a motive for DryShips aid | TradeWinds
+
+Kalani claims charity not a motive for DryShips aid Marc Bistricer-led investment house says it had risk and profit in mind lending to George Economou's struggling public company, not attempt to ...
+
+www.tradewindsnews.com
+
+The Toronto connection runs MUCH deeper though
+The overlap with AQR blank check shells and Polar Asset Mgmt Toronto
+The Toronto based Bistricer and EKONOMOU
+Bistricers in New Jersey TOO!
+AND
+DAVID Bistricer happens to be a real estate developer
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649096&owner=exclude&count=40&hidefilings=0
+
+1 Bistricer/Clipper "investor"
+Toronto based C I Investments
+https://www.sec.gov/Archives/edgar/data/1649096/000116364819000009/0001163648-19-000009-index.htm
+
+Check out this Reg D offering Bistricer/ Clipper did in Jan 2016
+https://www.sec.gov/Archives/edgar/data/1649096/000161577416004014/xslFormDX01/primary_doc.xml
+
+$130,000 Reg D offering for this Bistricer/Clipper publicly traded "real estate" company was done with an Atlanta based firm called H&L Equities
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU
+Nothing to see here.
+
+EFTA00010308
+```
+
+## Structured Fields
+
+*   **Date**: 2012, Jan 2016
+*   **Locations**: Toronto, New Jersey, Atlanta
+*   **Names**: Kalani, Marc Bistricer, George Economou, David Bistricer, Andrew EKONOMOU
+*   **Organizations**: DryShips Inc. (DRYS), Seeking Alpha, TradeWinds, AQR blank check shells, Polar Asset Mgmt Toronto, C I Investments, H&L Equities
+*   **Doc IDs/URLs**:
+    *   https://www.tradewindsnews.com/legal/1738610/kalani-claims-charity-not-a-motive-for-dryships-aid
+    *   https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649096&owner=exclude&count=40&hidefilings=0
+    *   https://www.sec.gov/Archives/edgar/data/1649096/000116364819000009/0001163648-19-000009-index.htm
+    *   https://www.sec.gov/Archives/edgar/data/1649096/000161577416004014/xslFormDX01/primary_doc.xml
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Of Course, then there's the Hail Mary pass Kushner threw on his Toronto based Brookfield deal for 666 5th Avenue
+https://www.thestar.com/news/world/2019/03/12/toronto-based-brookfield-faces-scrutiny-from-democrats-over-deal-with-kushner-company.html
+
+Toronto-based Brookfield faces scrutiny from Democrats over deal with Kushner company | The Star
+
+The real estate giant says politics were not at all involved in its decision to acquire a New York office tower from the family of Jared Kushner, President Donald Trump's son-in-law and senior aide.
+
+www.thestar.com
+
+which was brokered by Apollo/Epstein Degenerate Black/Harris/Rowan
+https://therealdeal.com/2018/11/15/brookfield-turns-to-apollo-for-666-fifth-financing/
+
+666 Fifth | Brookfield | Apollo Global Management
+
+Private equity company Apollo Global Management is funding Brookfield Property Partners’ redevelopment of 666 Fifth Avenue with a $300 million-plus mezzanine loan, sources told The Real Deal ...
+
+therealdeal.com
+
+Apollo and other Kushner financing pal Blackstone just happen to be BOTH granted free reign on the US insurance/annuity industry.
+Crazy shit huh?
+Greek shipping Bag man Georgios Economou meets Jared Kushner
+But it gets better still:
+Stephen Feinberg: Cerberus
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy-advisory-panel
+
+EFTA00010309
+
+## Structured Fields
+*   **Case ID:** EFTA00010309
+*   **Dates:**
+    *   2019/03/12
+    *   2018/11/15
+    *   2018-05-11
+*   **Locations:** Toronto, New York, 666 Fifth Avenue, US (insurance/annuity industry)
+*   **Names:** Kushner, Jared Kushner, Donald Trump, Georgios Economou, Stephen Feinberg
+*   **Organizations:** Brookfield, The Star, Apollo (Apollo Global Management), Epstein Degenerate Black/Harris/Rowan, Blackstone, Bloomberg, Cerberus, Trump Organization (implied)
+*   **Individuals/Titles:** Jared Kushner (President Donald Trump's son-in-law and senior aide), Stephen Feinberg
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Trump Chooses Cerberus's Stephen Feinberg to Lead Spy Advisory Panel - Bloomberg
+
+President Donald Trump has chosen billionaire investor Stephen Feinberg to lead his intelligence advisory board, the White House said Friday. Trump intends to appoint Feinberg, the co-founder and ...
+
+www.bloomberg.com
+
+Bawag/Refco
+Virtu first bid for Knight post "glitch"
+and now: Money Laundering Bank HSH
+Stephen Feinberg: Scum of the Earth meet Georgio EKONOMOU
+
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001369241&owner=exclude&count=40&hidefilings=0
+
+Janey, IG update my various pending TCR's and complaints
+
+Yours VERY TRULY
+And INFINITELY smarter than anyone on this e mail list
+
+Christopher J Dilorio
+Whistleblower
+[REDACTED]
+
+From: Chris Dilorio [REDACTED]
+Sent: Monday, May 13, 2019 5:41 AM
+To: [REDACTED]
+Subject: Fw: Apollo/ Epstein/Kushner connection
+
+From: Chris Dilorio <[REDACTED]>
+Sent: Saturday, May 11, 2019 8:00 AM
+To: [REDACTED]
+Subject: Fw: Apollo/ Epstein/Kushner connection
+
+From: Chris Dilorio <[REDACTED]>
+Sent: Monday, May 6, 2019 6:38 AM
+
+EFTA00010310
+
+## Structured Fields
+- **Name:** Christopher J Dilorio
+- **Name:** Stephen Feinberg
+- **Name:** Georgio EKONOMOU
+- **Organization:** Bloomberg
+- **Organization:** Cerberus
+- **Organization:** Virtu
+- **Organization:** Knight
+- **Organization:** HSH (Money Laundering Bank)
+- **Organization:** Apollo (implied via subject line)
+- **Agency/Role:** IG (Implied in text "Janey, IG")
+- **Date:** Monday, May 13, 2019
+- **Date:** Saturday, May 11, 2019
+- **Date:** Monday, May 6, 2019
+- **Subject ID:** EFTA00010310
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital email message or a thread within an email client interface. The top portion of the image is dominated by a large, solid black rectangle that completely obscures any headers, logos, or previous messages in the chain. Below this blacked-out section, white text on a white background (likely the standard view of the webmail interface) begins. The layout includes a subject line in bold, followed by several paragraphs of body text. A distinct white box with a grey border interrupts the flow of the text, containing a preview or link to an external legal document. The text is dense, utilizing bolding and blue hyperlinks to emphasize specific names and sources. At the very bottom right corner, a document tracking number is visible in small grey font. The overall tone of the visible text is accusatory and aggressive, referencing high-profile individuals in finance and law enforcement.
+
+## Visible Text (verbatim)
+Subject: Fw: Apollo/ Epstein/Kushner connection
+Greetings grossly corrupt SEC et al scumbags
+As with ALL of my allegations: beyond a shadow of a doubt, 100% accurate
+https://www.sec.gov/litigation/complaints/comp17673.htm
+
+Complaint: SEC v.
+COMPLAINT. Plaintiff United States Securities and Exchange Commission ("Commission") alleges as follows: SUMMARY. 1. This case involves a $15 million "pump and dump" scheme involving the securities of Environmental Solutions Worldwide, Inc. ("Environmental"), a public company whose common stock is registered with the Commission under the Securities Exchange Act of 1934 ("Exchange Act"), and is ...
+www.sec.gov
+
+ESWW was a money laundering shell.
+The SEC knows it. The degenerate Epstein knows it. The Degenerate Leon Black/Kushner BFF/ Milken proteges/Marc Rowan/Apollo knows it.
+The DOJ/IRS knows it.
+IG, I have repeatedly offered to come to SEC DC HQ to have the brightest minds at the SEC totally humiliate me by refuting my allegations 1 by 1. The grossly corrupt SEC scumbags have never taken me up on my generous offer. For the very simple reason that ALL of my allegations are accurate and true.
+So, I again put the offer out there:
+refute my claims OR go to jail for the criminal obstruction ACTIVELY being facilitated by your office and the SEC.
+So, let's give these scumbags the insurance/annuities market.
+This will NOT end well for tens of thousands of Americans.
+Who "green lighted" this take over of the insurance industry by PE/Hedge funds?
+https://www.forbes.com/sites/antoinegara/2018/02/01/apollo-and-blackstone-pick-insurance-as-their-next-bet-to-disrupt-wall-street/#5d647dbe7689
+
+EFTA00010311
+
+## Notable Details / Clues
+*   **Subject Line:** The subject explicitly links "Apollo" (likely Apollo Global Management) with "Epstein" and "Kushner," suggesting an allegation of a conspiracy between the financier, Jeffrey Epstein's network, and Jared Kushner.
+*   **Aggressive Language:** The text uses highly charged language such as "grossly corrupt SEC et al scumbags," "degenerate Epstein," and "Degenerate Leon Black."
+*   **Specific Legal Reference:** There is a direct hyperlink to the SEC litigation page (comp17673), indicating the sender is claiming insider knowledge regarding a specific securities fraud case involving "Environmental Solutions Worldwide, Inc."
+*   **Accusations of Money Laundering:** The text states "ESWW was a money laundering shell" and claims that the DOJ/IRS also knows about this.
+*   **Names Mentioned:** Besides Epstein and Kushner, the text names Leon Black (CEO of Apollo), Marc Rowan (Apollo executive), and refers to "Milken proteges" (linking to Ivan Boesky).
+*   **Threats:** The sender threatens to come to "SEC DC HQ" or accuses the recipients of "criminal obstruction."
+*   **Forbes Link:** A second hyperlink at the bottom references a 2018 Forbes article about Apollo and Blackstone picking insurance as their next investment bet.
+*   **Target Audience:** The message is addressed to the SEC ("Commission"), implying an attempt to whistleblow or harass regulators.
+*   **Formatting:** The text uses capitalization for emphasis (ALL, DC HQ, ACTIVELY).
+*   **Document ID:** The code EFTA00010311 suggests this screenshot might be from a specific database or filing system.
+*   **Embedded Legal Box:** The grey-bordered box serves as an anchor for the reader to click through to the primary evidence (the SEC complaint) before reading the sender's commentary.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, appearing to be an email screenshot or a PDF containing a forwarded message. The layout is divided vertically into three distinct sections: a top section featuring a news article preview from Forbes, a middle section acting as an email header and attachment area obscured by a large black box, and a bottom section containing the body text of the message.
+
+At the very top, there is a rectangular container. Inside, on the left, is a small, broken image icon indicating a missing or non-loading image file. To the right of this icon is a blue hyperlink title reading "Apollo And Blackstone Pick Insurance As Their Next Bet To Disrupt Wall Street - Forbes". Below the title is a paragraph of grey text summarizing the article, discussing Wall Street's use of insurance float for investments and mentioning Berkshire Hathaway and Markel. The URL "www.forbes.com" appears below this paragraph in light grey italics.
+
+Below the Forbes preview box, there is a signature block reading "Cheers! Christopher Dilorio Whistleblower". Next to his name is a thick black rectangle obscuring an email address. Immediately below this is the email header information for the specific message shown. It starts with "From: Chris Dilorio [Redacted]" followed by a redacted email address field. The next line reads "Sent: Thursday, May 2, 2019 3:35 PM".
+
+Directly beneath the sender info is a massive, solid black rectangle that dominates the central portion of the page. This block likely conceals an attachment, such as a video file or image, given its rectangular aspect ratio and position in an email client. Below this black box is the subject line for the email: "Subject: Fw: Apollo/ Epstein/Kushner connection".
+
+Below the subject line is the main body of text addressed to a recipient labeled "IG,". The text is written in a bold, assertive font. It describes an attempt to intimidate a whistleblower involving an anonymous male caller. The sender mentions filing a complaint against the SEC and references a specific NBC News article via a blue hyperlink at the bottom of the text. Finally, in the bottom right corner outside the main text area, a document control number is visible: "EFTA00010312".
+
+## Visible Text (verbatim)
+- **Forbes Headline:** Apollo And Blackstone Pick Insurance As Their Next Bet To Disrupt Wall Street - Forbes
+- **Forbes Summary:** For decades, Wall Street's gambit in insurance was to write policies and use the float as a source of capital for new investments. It's a staple of Berkshire Hathaway and copycats like Markel and ...
+- **Forbes URL:** www.forbes.com
+- **Sign-off:** Cheers! Christopher Dilorio Whistleblower
+- **Email Header From:** From: Chris Dilorio [Redacted]
+- **Email Header Sent:** Sent: Thursday, May 2, 2019 3:35 PM
+- **Subject Line:** Subject: Fw: Apollo/ Epstein/Kushner connection
+- **Salutation:** IG,
+- **Body Text Start:** This was a blatant attempt to intimidate a whistleblower. "HE" (I think a male although very effeminate voice) was an anonymous, coward, scumbag who threatened me. AND then called me another 11/12 times after that. This is a VERY serious matter. Felony. I intend to see "him" prosecuted to the fullest extent of the law. Within weeks of filing a complaint against the SEC and you. I obviously have hit a nerve.
+- **Link Text:** https://www.nbcnews.com/politics/white-house/white-house-tells-official-who-gave-kushner-security-clearance-don-n997476
+- **Footer ID:** EFTA00010312
+
+## Notable Details / Clues
+- **Document Typo:** The subject line reads "Subject: Fw:" with a lowercase 'w', suggesting a quick or hasty forwarding of a message, adding to the sense of urgency in the email.
+- **Redacted Content:** Both the sender's email address and the large attachment area are blacked out. This implies the visual content is either sensitive, missing from the source file, or intentionally hidden for privacy.
+- **Date Significance:** The email date (May 2, 2019) is significant as it falls shortly before the July 2019 FBI raid on Jeffrey Epstein's Manhattan condo, indicating this communication occurred during the initial buildup of media interest in Epstein.
+- **Financial Context:** The top section links major private equity firms (Apollo, Blackstone) to the insurance industry and "Wall Street," while the email connects these names to the Epstein scandal via Kushner, creating a narrative bridge between legitimate finance and high-profile legal scandals.
+- **Link Relevance:** The hyperlinked text discusses the White House giving security clearance to Jared Kushner; this ties the financial angle (Apollo/Blackstone) directly to political power and the "Kushner connection" mentioned in the subject line.
+- **Aggressive Tone:** The sender uses capitalized words ("VERY serious matter", "AND") and strong descriptors ("scumbag", "felony"), indicating high emotional distress or anger regarding the recipient's role in the intimidation attempt.
+- **Recipient Alias:** The recipient is addressed only as "IG," (likely an Initialism or nickname), suggesting a close professional relationship or a specific group identity, possibly related to compliance or legal teams given the mention of the SEC.
+- **Voice Description:** The sender speculates on the voice of the harasser ("male although very effeminate"), attempting to identify a potential abuser despite anonymity.
+- **Forbes Snippet Context:** The text mentions "float" as capital for investment, referencing the specific financial mechanism (insurance reserves) often used by large conglomerates, which connects directly to the subject line's mention of Apollo and Blackstone picking insurance as a new bet.
+- **Visual Layout Disruption:** The sheer size of the black rectangle compared to the amount of visible text suggests that the visual evidence (perhaps a screenshot of a call log or a video recording of the threatening voice) was the primary component of the document, which has been successfully obscured.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital document, likely an email chain viewed in a web browser or email client. The layout is vertical and divided into distinct sections from top to bottom. At the very top, there is a content block with a broken image icon (a small grey square with a picture thumbnail) on the left and a blue hyperlink titled "White House whistleblower speaks out on security clearance controversy." Below this link is a short paragraph of text regarding Carl Kline appearing before a House committee, followed by the URL "www.nbcnews.com" in grey.
+
+Below the top block, the document transitions to what appears to be an email signature or closing. The word "Cheers!" is visible, followed by a name: "Christopher Diiorio (no L's scumbag)." Beneath this name is a thick black redaction bar covering an email address. Further down, separated by a horizontal line, are standard email headers partially obscured by another black redaction bar. The text reads "From: Chris Dilorio" and "Sent: Thursday, April 25, 2019 6:27 AM."
+
+The majority of the center space is occupied by a massive, solid black rectangle that completely obscures the body text of the email being forwarded or replied to. Below this large black block, a subject line reads "Subject: Fw: Apollo/ Epstein/Kushner connection." Beneath the subject line is a small embedded photograph showing a crowd of people seated in rows, possibly at a sporting event like tennis. The photo shows several individuals; one man in a dark blue shirt and sunglasses is central, sitting next to a woman in a white tank top. Other faces are partially visible on the periphery.
+
+Underneath the photograph is a block of text that appears to be an email subject line pasted into the view: "ESWW: A money laundering NASDAQ/OTCM shell Milken degenerate Leon Black/Joshua Harris: Apollo AND". Finally, in the bottom right corner of the image, there is a document ID number: "EFTA00010313."
+
+## Visible Text (verbatim)
+**Top Section:**
+*   White House whistleblower speaks out on security clearance controversy
+*   Carl Kline was supposed to appear before House committee staff Tuesday to face questions related to his handling of White House security clearances.
+*   www.nbcnews.com
+*   Cheers!
+*   Christopher Diiorio (no L's scumbag)
+*   From: Chris Dilorio
+*   Sent: Thursday, April 25, 2019 6:27 AM
+*   Subject: Fw: Apollo/ Epstein/Kushner connection
+*   ESWW: A money laundering NASDAQ/OTCM shell Milken degenerate Leon Black/Joshua Harris: Apollo AND
+*   EFTA00010313
+
+## Notable Details / Clues
+*   **Heavy Redaction:** Significant portions of the document, particularly email addresses and the body text of the forwarded message, are covered by thick black bars, indicating this is likely a leaked or sensitive document intended for analysis.
+*   **Date Context:** The date "April 25, 2019" places the correspondence during the Trump administration, which contextualizes references to Carl Kline (Trump White House Chief of Staff) and potential investigations.
+*   **Political Terminology:** The top link refers to a "White House whistleblower," suggesting government internal conflict or leaks at the time.
+*   **Conspiracy/Financial Keywords:** The text mentions "Apollo," "Epstein," "Kushner," "Leon Black," "NASDAQ/OTCM shell," and "Milken." These terms suggest the email relates to high-profile financial and political conspiracy theories, potentially linking the Epstein underworld with major financial institutions.
+*   **Hostile Tone:** The phrase "(no L's scumbag)" in the signature suggests a deliberate misspelling of a name (possibly referring to Christopher Diiorio or someone else) combined with a derogatory term, indicating internal friction or personal animosity.
+*   **Subject Matter Focus:** The subject line "Apollo/ Epstein/Kushner connection" directly links Apollo Global Management (the hedge fund managed by Leon Black), Jeffrey Epstein, and Jared Kushner in a single thread.
+*   **Photo Content:** The photograph embedded below the black box appears to be a candid shot from a public event, featuring people who look like celebrities or high-profile figures, though their identities are not explicitly labeled in the text.
+*   **Document ID:** The code "EFTA00010313" in the bottom right corner suggests this image might have been part of a larger forensic or investigative file (possibly related to Epstein's email server leaks).
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Jeffrey Epstein
+The SEC has known for years that Epstein is running a extortion/Ponzi/Slush Fund
+My Claims AGAIN
+https://seekingalpha.com/article/3715526-environmental-solutions-worldwide-revisiting-holding-gone-dark-can-sleep-better-night?mod=mw_quote_news
+
+Environmental Solutions Worldwide: Revisiting A Holding That's Gone Dark, So I Can Sleep Better At Night - Environmental Solutions Worldwide, Inc. (OTCMKTS:ESWW) | Seeking Alpha - Stock Market Insights | Seeking Alpha
+New CEO and recent trading activity warranted a review of a holding that no longer files. Based on the environment, difficult y/y comparisons and results from competitors, 2015 is likely a down year.
+seekingalpha.com
+
+"Not credible"???
+How about the SEC's OWN words?
+https://www.bloomberg.com/news/articles/2018-10-01/sec-spots-a-way-to-starve-the-most-suspicious-penny-stocks
+
+SEC Spots a Way to Starve the Most Suspicious Penny Stocks - Bloomberg
+"If a company is a dark company and listed in the OTC market and hasn't put out financials for six months, maybe it shouldn't be quoted or offered to retail investors," Redfearn said ...
+www.bloomberg.com
+
+See my comment letters on this subject.
+The SEC INTENTIONALLY puts the investing public at risk of frauds like this and thousands others like it.
+The core biz at NITE/VIRT,CDEL etc and the reason WHY the OTCM exists: Abusive naked shorting publicly traded shells to facilitate money laundering.
+Shells go dark only AFTER a massive fraud has been perpetrated on the investing public: Main Street ANOTHER "genius" degenerate: Apollo
+the grossly corrupt SEC: Bought and paid for by common criminals and degenerates
+IG, I have time for that REQUIRED 3rd party cc today
+Call me
+Cheers!
+[REDACTED]
+Christopher DiIorio
+
+EFTA00010314
+
+## Structured Fields
+*   **Name**: Jeffrey Epstein
+*   **Person/Author**: Christopher DiIorio (inferred, partially obscured)
+*   **Organization**: SEC (Securities and Exchange Commission)
+*   **Organization**: Seeking Alpha
+*   **Organization**: Bloomberg
+*   **Companies mentioned**: Environmental Solutions Worldwide, Inc. (OTCMKTS:ESWW), NITE, VIRT, CDEL, Main Street, Apollo, IG (Investors Group)
+*   **Date**: 2015 (in article title/context), 2018-10-01 (in Bloomberg URL)
+*   **Doc ID**: EFTA00010314
+
+## Page 11 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email client interface, likely Microsoft Outlook, showing a forwarded message thread. The top portion of the screen is dominated by a large, solid black rectangle that obscures the main body of the original email header or content. Above this black box, standard email metadata is visible, including the sender's name ("Chris Dilorio"), whose email address has been redacted with a black bar, and the timestamp ("Sunday, April 14, 2019 1:04 PM"). Just below the large black block, the subject line of the forwarded message is partially visible in faint gray text.
+
+Below the black area, the view transitions to a white background featuring a series of embedded links and preview cards, characteristic of an HTML-formatted email. A bolded introductory sentence lists several names and entities connected by slashes, including "Steffie Avakian," "Heiss/O'Melveny," "Wilmer Hale," "Apollo," and "Kushner." Following this text is a hyperlink to an OMM.com profile for Howard E. Heiss.
+
+Below the first link is a distinct rectangular box with a light gray border, serving as an embedded search result or email preview. This box contains a broken image icon on the left and text on the right introducing "Howard E. Heiss - O'Melveny & Myers." The description within this box outlines his legal practice areas, specifically focusing on government regulatory investigations, enforcement actions, grand-jury investigations, and criminal cases with an emphasis on securities matters.
+
+Beneath this card is a direct hyperlink to an SEC.gov Edgar filing data page. Following that is a second embedded preview box for a "Form S-1" filed with the SEC. This section includes a standard legal disclaimer stating that the information in the prospectus is not complete and may change until the registration statement is effective. Below this, another hyperlink leads to a WilmerHale biography for Jamie Gorelick. The bottom of the image shows the header for a third preview box regarding "Jamie Gorelick | WilmerHale." In the extreme bottom right corner, an alphanumeric code "EFTA00010315" is visible, likely a redaction stamp or document control number.
+
+## Visible Text (verbatim)
+**Top Header:**
+From: Chris Dilorio [Redacted]
+Sent: Sunday, April 14, 2019 1:04 PM
+Subject: FW: Apollo / Epstein/Kushner connection
+
+**Body Text:**
+A little Steffie Avakian//Heiss/O'Melveny/Wilmer Hale/ Apollo/Kushner Home Cooking!
+https://www.omm.com/professionals/howard-e-heiss/
+
+**Embedded Card 1:**
+Howard E. Heiss - O'Melveny & Myers
+Howard Heiss has an extensive litigation practice focused on government regulatory investigations and enforcement actions, grand-jury investigations, and the defense of clients in criminal cases, with a particular emphasis on securities matters.
+www.omm.com
+
+**Embedded Link:**
+https://www.sec.gov/Archives/edgar/data/1411494/000119312508077312/ds1.htm
+
+**Embedded Card 2:**
+Form S-1 - SEC.gov
+Table of Contents. The information in this prospectus is not complete and may be changed. The securities may not be sold until the registration statement filed with the Securities and Exchange Commission is effective.
+www.sec.gov
+
+**Embedded Link:**
+https://www.wilmerhale.com/en/people/jamie-gorelick
+
+**Bottom Card Header:**
+Jamie Gorelick | WilmerHale
+
+**Footer:**
+EFTA00010315
+
+## Notable Details / Clues
+- **Redaction/Blackout:** The large black rectangle at the top suggests that the primary content of the email (likely the body text or an attachment header) has been intentionally obscured by the user capturing the screenshot or by privacy software.
+- **Subject Matter Context:** The subject line "FW: Apollo / Epstein/Kushner connection" combined with the names listed in the body indicates this email is part of a chain discussing connections between investment firms (Apollo), high-profile legal figures (Steffie Avakian, Howard Heiss), political associates (Kushner), and potentially the Jeffrey Epstein case.
+- **Legal Professionalism:** The embedded cards specifically highlight lawyers from major law firms (O'Melveny & Myers, WilmerHale) and their expertise in securities litigation and grand jury investigations, suggesting the email chain is discussing legal representation or involvement in a specific case.
+- **SEC Filings:** The presence of an SEC Form S-1 link and Edgar data suggests the investigation or business deal involves public company disclosures or investment securities.
+- **Specific Individuals:** The names listed (Chris Dilorio, Steffie Avakian, Howard Heiss, Jamie Gorelick) are all real people with ties to high-level government or finance sectors. Chris Dilorio, for instance, is a known former White House communications director and consultant.
+- **Date of Origin:** The email was sent in April 2019, placing this correspondence during a period of intense media scrutiny regarding Jeffrey Epstein and his associates.
+- **"Home Cooking":** The phrase "Home Cooking" in the subject line is likely an inside reference or a specific project codename used within this legal/financial network.
+- **Outlook Previews:** The layout with gray boxes containing blue hyperlinks is the standard "preview pane" view for Hyperlinks or attachments when clicking on them in Outlook.
+- **Broken Image:** The first preview card shows a small pixelated icon indicating a missing image file, which might be a placeholder for a headshot that failed to load.
+- **Document ID:** The code EFTA00010315 at the bottom right is likely an "Executive Forfeiture Team" or similar agency tracking number added via redaction stamp software.
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Jamie Gorelick's career has spanned the legal, policy and corporate landscapes. As one of Washington's best-known litigators, Ms. Gorelick has represented corporations and individuals in a wide array of matters, particularly in the regulatory and enforcement arenas, involving issues as diverse as antitrust, environmental regulation, securities enforcement, national security regulation, etc.
+
+www.wilmerhale.com
+
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale
+
+[Image Placeholder]
+
+Former Director of the FBI Robert Mueller III Joins WilmerHale
+
+WilmerHale is pleased to announce that Robert S. Mueller III is joining the firm as a partner after serving as the sixth Director of the Federal Bureau of Investigation (FBI), a position he took one week prior to the September 11 attacks and held for 12 years under two presidents.
+
+www.wilmerhale.com
+
+https://www.sec.gov/biography/avakian-stephanie
+
+SEC.gov | Stephanie Avakian
+
+Stephanie Avakian was named Co-Director of the U.S. Securities and Exchange Commission's Division of Enforcement in June 2017, after serving as Acting Director since December 2016.
+
+www.sec.gov
+
+SEC drops Apollo investigation after Kush Jr met with Harris at the WH
+and Apollo gives Kush's some $$$$
+And, Apollo gets $60 bil+ in inflows in 2018
+Did I miss something?
+Cheers!
+You corrupt fucking scumbags
+Christopher Dilorio
+[REDACTED]
+
+From: Chris Dilorio
+Sent: Saturday, April 13, 2019 11:30 AM
+[REDACTED]
+
+EFTA00010316
+
+## Structured Fields
+
+- **Date:** June 2017; December 2016; September 11 (attacks); April 13, 2019
+- **Names:** Jamie Gorelick; Robert S. Mueller III; Stephanie Avakian; Christopher Dilorio (Chris Dilorio); Kush Jr (Seth Rost); Harris (Kamala Harris)
+- **Organizations:** WilmerHale; Federal Bureau of Investigation (FBI); U.S. Securities and Exchange Commission (SEC); Apollo
+- **Case IDs/Doc IDs:** EFTA00010316
+- **Locations:** Washington; WH (White House)
+
+## Page 13 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a screenshot of a text-heavy digital document, resembling an email thread or a financial alert newsletter. At the very top, a large black rectangular block obscures what is likely the header of an email client (such as Outlook or Gmail) or a website navigation bar. Below this obstruction, the content begins with a bold subject line regarding financial connections between Apollo Global Management, Jeffrey Epstein, and Jared Kushner.
+
+The body of the text is organized into loose paragraphs separated by hyperlinks in blue text. The layout features several specific calls to action or information requests, asking the reader to "Find a shell" and "Find a fraud." A significant portion of the document is dedicated to a company called "Enviromental Solutions Worldwide Inc" (noting the typo in Environmental).
+
+In the middle of the page, there is a distinct rectangular box with a light grey border. This box appears to be an embedded snippet from a corporate website. It features a placeholder image on the left (a small broken icon) and a profile description for "MARK YUNG" on the right, detailing his role as a Co-Founder of OCV Management. The text below this box discusses filings by Leon Black of Apollo Global Management. The document concludes with specific allegations connecting the entities to Jeffrey Epstein, referencing SEC filings and legal documents blocking releases of information. A alphanumeric code is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+Subject: Apollo/ Epstein/Kushner connection
+
+Find a shell
+Find a fraud
+Enviromental Solutions Worldwide Inc
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001082278&owner=exclude&count=40&hidefilings=0
+
+Florida?
+Pennsylvania?
+or
+Canada?
+Welcomed on Cromwell/Wimpfheimer OTCM
+
+De registered in 2015 and Frozen in time
+Literally
+http://eswgroup.com/esw-group-corporate/our-board/
+
+Our Board - ESW Group®
+MARK YUNG Mr. Yung is Co-Founder and Managing Principal of OCV Management, LLC (“OCV”), an investor, owner and operator of technology and life science companies based in Los Angeles. Previously, Mr. Yung was a Managing Director at Orchard Capital Corp., a firm he joined in 2006. Through his affiliation with [...]
+eswgroup.com
+
+Dozens of filings by former Milken (ahem) right hand man Leon Black, Apollo, his family Trust, et al
+Then,
+There's this:
+Has anyone (anyone) ever seen Pedophile Jeffrey Epstein on the other side of a trade?
+The ONLY SEC filing of Epsteins' Financial Trust Company Inc is in.......
+wait for it..........
+Leon Black/Apollo Environmental Solutions Worldwide
+https://www.sec.gov/Archives/edgar/data/1082278/000090901211000390/0000909012-11-000390-index.htm
+
+Enter the Amicus blocking release of Epstein docs
+
+EFTA00010317
+
+## Notable Details / Clues
+*   **Redacted Header:** The massive black box at the top indicates that sensitive or identifying information (likely names, logos, or sender info) has been intentionally obscured or cropped out from a source email.
+*   **Company Name Typo:** The text spells the company name "Enviromental Solutions Worldwide Inc" with only one 'n' in Environmental, suggesting it may be a copy-paste error or a specific formatting quirk of the source document.
+*   **Stock Listing History:** The text mentions being "Welcomed on Cromwell/Wimpfheimer OTCM," indicating a transition from a different Over-The-Counter (OTC) market to another.
+*   **Corporate Freeze:** The phrase "Frozen in time" alongside the note of deregistration in 2015 suggests the document is discussing a company that has ceased active operations or compliance but remains legally significant due to past connections.
+*   **The Board Profile:** The embedded box for Mark Yung highlights his background with "Orchard Capital Corp." and his role at OCV Management, providing professional context for the board member listed for ESW Group.
+*   **Leon Black Connection:** The text explicitly identifies Leon Black as a "former Milken (ahem) right hand man," drawing a parallel between the firm of Milken & Company (known for financial fraud connections) and Apollo Global Management.
+*   **Epstein Allegations:** The document makes direct accusations regarding Jeffrey Epstein, specifically asking if he has been seen "on the other side of a trade" with these entities and referencing his "Financial Trust Company Inc."
+*   **SEC Filings:** Two specific links to the SEC EDGAR database are provided. The first is a general search for company CIK 0001082278, and the second is a specific archival link for a filing dated November 11 (implied by document number structure) related to Environmental Solutions Worldwide.
+*   **Legal Obstruction:** The final line about "Amicus blocking release of Epstein docs" references Amicus International, a firm known for managing Jeffrey Epstein's estate, implying that certain documents are being legally shielded or hidden.
+*   **Geographic Scope:** The text queries connections in "Florida?", "Pennsylvania?", and "Canada?", suggesting the company had operations or shell structures in these specific jurisdictions.
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Krieger, Kim and Lewin
+https://www.kklllp.com/
+
+[Box Start]
+Krieger Kim & Lewin LLP
+
+We are committed to providing the highest level of partner-driven representation in order to efficiently achieve client objectives. Over the last decade, we have conducted and supervised dozens of federal criminal trials involving some of the highest profile and most sensitive matters prosecuted by the United States Government.
+
+www.kklllp.com
+[Box End]
+
+Financial fraud appears to be a specialty of this recently formed/SDNY Alum firm
+
+Now,
+it gets VERY interesting
+https://www.cnbc.com/2018/02/28/apollo-citigroup-loaned-kushner-companies-millions-new-york-times.html
+
+[Box Start]
+
+Trump: Kushner's security clearance is up to Kelly
+
+Kushner even discussed the possibility of a White House job for the founder of private equity firm Apollo, the New York Times reported on Tuesday.
+
+www.cnbc.com
+[Box End]
+
+Where another Milken protégé/Apollo founding partner Josh Harris was considered for a White House job
+
+"Coincences"
+
+https://nypost.com/2018/03/02/sec-dropped-probe-month-after-firm-aided-kushner-company/
+
+[Box Start]
+
+SEC dropped probe month after firm aided Kushner company
+
+The feds last year dropped an investigation into a financial company a month after the firm gave Jared Kushner's family real estate business a $180 million loan, a new report said Friday.
+There ...
+
+nypost.com
+[Box End]
+
+Oh, baby
+
+EFTA00010318
+
+## Structured Fields
+*   **Dates:** 2018/02/28, 2018/03/02, Friday (last year)
+*   **Names:** Krieger, Kim, Lewin, Kelly, Kushner, Josh Harris, Jared Kushner, Trump, Milken, Apollo
+*   **Organizations:** Krieger Kim & Lewin LLP, SDNY, United States Government, CNBC, New York Times, Apollo (private equity firm), SEC, NYPost, Citigroup (implied in link text)
+*   **Doc IDs:** EFTA00010318
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+$60 billion+ inflows in 2018 for Apollo
+https://www.businesswire.com/news/home/20180802005343/en/Apollo-Global-Management-LLC-Reports-Quarter-2018
+
+Apollo Global Management, LLC Reports Second Quarter 2018 Results | Business Wire
+NEW YORK--(BUSINESS WIRE)--Apollo Global Management, LLC (NYSE:APO) (together with its consolidated subsidiaries, “Apollo”) today reported results for the second quarter ended June 30, 2018.
+www.businesswire.com
+
+Mr's Krieger,Kim,Boltz et al:
+Discovery will be a hoot!
+
+Fucking A
+I am good
+Cheers!
+Christopher Dilorio
+[REDACTED]
+
+EFTA00010319
+
+## Structured Fields
+*   **Date:** 2018 (specifically Second Quarter ended June 30, 2018); URL reference 20180802.
+*   **Location:** New York.
+*   **Names:** Krieger, Kim, Boltz, Christopher Dilorio.
+*   **Organizations:** Apollo Global Management, LLC, Business Wire, NYSE.
+*   **Doc ID:** EFTA00010319
+

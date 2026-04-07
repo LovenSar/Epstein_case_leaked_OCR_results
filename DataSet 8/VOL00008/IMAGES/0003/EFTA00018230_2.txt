@@ -1,0 +1,79 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018230.pdf ts=2026-03-13T16:53:29 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital notification document, specifically an email confirmation from a United States federal court system. At the very top is the standard email header information, including the sender address from "cmecf@ca2.uscourts.gov", a redacted recipient field, and a subject line referencing case number 21-770. Below this header is a disclaimer note regarding Public Access Users and PACER fees.
+
+The main body of the document identifies the court as the "Court of Appeals, 2nd Circuit." A section titled "Notice of Docket Activity" details a transaction filed on April 5, 2021, associated with the case "United States of America v. Maxwell." The central piece of information lies in the "Docket Text" section, which states that a "DEFECTIVE DOCUMENT" was filed. Specifically, it refers to an "Acknowledgment and Notice of Appearance" on behalf of Appellant Ghislaine Maxwell.
+
+Following this text is a large black rectangular block obscuring the list of email addresses to whom the notice will be mailed. Below the redaction, there is a section listing associated documents. This includes the document description ("Defective_Document_Notice"), an original filename containing the path `/opt/ACECF/live/forms/TammyTorres...`, and a long "Electronic Document Stamp" with timestamps and hash codes. At the bottom right corner is a small reference ID "EFTA00018230". A second black rectangle at the very bottom obscures the "Recipients" list of that specific notice document.
+
+## Visible Text (verbatim)
+**Email Header:**
+From: "cmecf@ca2.uscourts.gov" <cmecf@ca2.uscourts.gov>
+To: <[Redacted]>
+Subject: 21-770 United States of America v. Maxwell "Defective Document FILED"
+Date: Mon, 05 Apr 2021 19:20:21 +0000
+
+**Body Note:**
+***NOTE TO PUBLIC ACCESS USERS*** Judicial Conference of the United States policy permits attorneys of record and parties in a case (including pro se litigants) to receive one free electronic copy of all documents filed electronically, if receipt is required by law or directed by the flier. PACER access fees apply to all other users. To avoid later charges, download a copy of each document during this first viewing.
+
+**Court Header:**
+Court of Appeals, 2nd Circuit
+
+**Docket Activity Section:**
+Notice of Docket Activity
+The following transaction was filed on 04/05/2021
+Case Name: United States of America v. Maxwell
+Case Number: 21-770
+Document(s): Document(s)
+
+**Docket Text Section:**
+Docket Text:
+DEFECTIVE DOCUMENT, Acknowledgment and Notice of Appearance, [32], on behalf of Appellant Ghislaine Maxwell, FILED.[3070417] [21-770]
+
+Notice will be electronically mailed to:
+[Large Black Redacted Box]
+
+**Technical Data Section:**
+The following document(s) are associated with this transaction:
+Document Description: Defective_Document_Notice
+Original Filename:
+/opt/ACECF/live/forms/TammyTorres_21770_3070417_Defective_Document_Note_142.pdf
+Electronic Document Stamp:
+[STAMP acecfStamp_ID=1161632333 [Date=04/05/2021] [FileNumber=3070417-0]
+[82ac9d6638f4343e945c759f77acc6c8e4e4d8343df706156a85e0abeacb8b5b67869ed37fa359c625853ed7b4b22
+b5ad7f3705c9d7151eb0697a6f103035bae]]
+
+Recipients:
+[Large Black Redacted Box]
+
+**Footer:**
+EFTA00018230
+
+## Notable Details / Clues
+*   **Case Context:** The document pertains to a high-profile legal case involving Ghislaine Maxwell (Case No. 21-770), indicating this is related to her appeal proceedings in the Second Circuit Court of Appeals.
+*   **Nature of Filing:** The text "DEFECTIVE DOCUMENT... FILED" indicates that the court rejected or flagged a filing made by an attorney, rather than accepting it into the official docket at that moment. This is likely a form notice sent automatically when a document fails validation checks.
+*   **Attorney Identity:** The original filename contains the name "TammyTorres," strongly suggesting that Tammy Torres is the attorney (or representative) for the Appellant who submitted the defective filing or received this notification.
+*   **Date of Activity:** All dates in the header and footer (April 5, 2021) correspond with the timestamp in the subject line, providing a consistent timeline of events.
+*   **Technical Metadata:** The "Electronic Document Stamp" provides a unique ID (`acecfStamp_ID=1161632333`) and a long hash code, which serves as a digital signature or checksum to verify the integrity of the document record within the court's electronic filing system (CEFMS).
+*   **Filing Fee Warning:** The bolded note at the top warns "Public Access Users" that they will be charged PACER fees for this document unless they are an attorney of record, advising them to download a copy immediately to save bandwidth and avoid charges later.
+*   **Redactions:** Two significant black boxes redact sensitive information: the original recipient's email address in the header and the full list of recipients at the bottom, likely to protect privacy in this public archive.
+*   **Document Description:** The specific document generated for this notice is labeled `Defective_Document_Notice`, confirming this is not the legal document itself (the Appearance), but rather the court's automated response explaining why it was rejected.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+EFTA00018231
+
+## Structured Fields
+- Doc ID: EFTA00018231
+</think>
+
+[REDACTED]
+EFTA00018231
+
+## Structured Fields
+- Document ID: EFTA00018231
+

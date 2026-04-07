@@ -1,0 +1,56 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018256.pdf ts=2026-03-13T17:04:33 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: SDNY NEWS CLIPS, OCTOBER 28, 2020
+Date: Thu, 29 Oct 2020 00:53:11 +0000
+Inline-Images: image001.png
+
+SDNY PRESS CLIPPINGS
+
+MAXWELL
+FOX: https://www.foxnews.com/media/nancy-grace-ghislaine-maxwell-jail-release-movement
+POST: https://nypost.com/2020/10/28/epstein-accuser-starts-foundation-for-victims-of-sexual-abuse/
+
+NAJIBULLAH
+NYT: https://www.nytimes.com/2020/10/28/world/asia/rohde-afghanistan-kidnap-arrest.html
+REUTERS: https://uk.reuters.com/article/uk-usa-justice-kidnapping-idUKKBN27D2VY
+ALJAZEERA: https://www.aljazeera.com/news/2020/10/28/charges-unsealed-in-2008-kidnapping-of-journalists-in-afghanistan
+
+PARNAS, ET AL
+NBC: https://www.cnbc.com/2020/10/28/lev-parnas-partner-david-correia-set-to-plead-guilty.html
+ABC: https://abcnews.go.com/Politics/wireStory/change-plea-scheduled-rudy-giuliani-related-case-73879218
+NYT: https://www.nytimes.com/2020/10/28/nyregion/david-correia-guilty-rudy-giuliani.html
+
+MATTERS OF INTEREST:
+POST: https://nypost.com/2020/10/28/suspect-in-firebombing-of-nypd-patrol-car-faces-federal-charges/
+FOX: https://www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories
+YAHOO: https://sports.yahoo.com/giuliani-gets-irate-after-fox-newss-kennedy-questions-his-hunter-biden-allegations-you-better-apologize-070119082.html
+LAW360: https://www.law360.com/construction/articles/1323464/feds-say-border-wall-group-can-t-intervene-in-bannon-case
+YAHOO!: https://news.yahoo.com/former-york-city-accountant-admitted-035342976.html
+LAW.COM: https://www.law.com/newyorklawjournal/2020/10/28/can-you-see-me-now-lessons-learned-from-virtual-proceedings/
+LAW.COM: https://www.law.com/nationallawjournal/2020/10/28/in-ted-cruzs-fec-suit-judges-question-whether-campaign-restriction-stop-corruption/
+WSJ: https://www.wsj.com/articles/puerto-rico-judge-says-no-to-insider-trading-probe-calling-accusations-sensational-11603927033
+PROPUBLICA: https://www.propublica.org/article/top-fec-officials-undisclosed-ties-to-trump-raise-concerns-over-agency-neutrality
+OK: https://okmagazine.com/news/fyre-fest-billy-mcfarland-solitary-confinement-prison-dumpster-fyre-podcast/
+
+## Structured Fields
+- **Date:** October 28, 2020 (Clips Date), October 29, 2020 (Email Sent Date)
+- **Locations:** Afghanistan, New York City (implied by SDNY/NYPD references), Puerto Rico (in WSJ link)
+- **Names/Organizations:**
+    - Maxwell (Nancy Grace Ghislaine)
+    - Epstein (accuser/foundation)
+    - Najibullah
+    - Rohde (Associated with Afghanistan kidnapping arrest in NYT link)
+    - Parnas, Lev
+    - Correal, David
+    - Giuliani, Rudy
+    - Cruz, Ted
+    - Bannon
+    - Dorsey (Twitter CEO)
+    - Billy McFarland (Fyre Fest)
+- **Document ID:** EFTA00018256
+

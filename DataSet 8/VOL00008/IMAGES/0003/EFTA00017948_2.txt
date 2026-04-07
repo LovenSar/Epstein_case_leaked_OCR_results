@@ -1,0 +1,41 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00017948.pdf ts=2026-03-13T14:16:57 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: [REDACTED]
+Subject: FW: DVR Update
+Date: Mon, 09 Mar 2020 21:59:42 +0000
+___________________________________________________________________________________
+
+[REDACTED]
+Special Agent
+FBI New York Field Office
+Violent Crimes Task Force
+
+From: [REDACTED]
+Sent: Tuesday, September 17, 2019 12:43 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: DVR Update
+
+Just got an update from OTD, Digital Forensic Analysis Unit (DFAU), [REDACTED]
+DVR 1 has been up and running since the last update. DFAU received the password from the MCC Contractor earlier this morning. They are reviewing the data now. (NFI)
+DVR 2 (the cameras that covered the MCC SHU) is currently not running. The MCC Contractor has been approved to enter the OTD Lab and start working with DFAU tomorrow to get DVR 2 running. More to follow...
+
+[REDACTED]
+Special Agent
+FBI New York | C-19
+Violent Crimes Task Force
+
+EFTA00017948
+
+## Structured Fields
+*   **Date (Outer Email):** Mon, 09 Mar 2020
+*   **Date (Inner Email):** Tuesday, September 17, 2019
+*   **Agency:** FBI New York Field Office, Violent Crimes Task Force
+*   **Unit/Division:** OTD (Office of the Director?), Digital Forensic Analysis Unit (DFAU)
+*   **Contractor:** MCC Contractor
+*   **Document ID:** EFTA00017948
+*   **Subject Matter:** DVR Update, CCTV footage (DVR 1, DVR 2), MCC SHU cameras.
+

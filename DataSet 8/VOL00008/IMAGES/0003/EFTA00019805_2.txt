@@ -1,0 +1,496 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019805.pdf ts=2026-03-14T06:46:36 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PP37                                                               Page 1 of 1
+NYMHM 531.01 *                                                    *    08-10-2019
+PAGE 001 OF 001 *                                                 ADM-REL * 10:40:24
+REG NO..: [76318-054] NAME....: EPSTEIN, JEFFREY EDWARD
+CATEGORY: [ARS] FUNCTION: [DIS] FORMAT: [ ]
+FCL ASSIGNMENT DESCRIPTION              START DATE/TIME STOP DATE/TIME
+NYM L HOSP USM ESC TRP TO LOC HOSP W/RETN-USM 08-10-2019 0747 CURRENT
+NYM A-PRE PRE-SENT ADMIT, ADULT         07-08-2019 1749 08-10-2019 0747
+NYM COURT COURT APPEARANCE W/SCHED RETRN 07-08-2019 0920 07-08-2019 1749
+NYM A-PRE PRE-SENT ADMIT, ADULT         07-06-2019 2124 07-08-2019 0920
+G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED
+https://bop.tcp.doj.gov:9049/SENTRY/J1PP160.do   8/10/2019
+                                                        EFTA00019805
+
+## Structured Fields
+- **Date:** 08-10-2019, 10:40:24, 07-08-2019, 08-10-2019, 07-06-2019
+- **Reg No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Category:** ARS
+- **Function:** DIS
+- **Facility/Location:** L HOSP USM (Local Hospital, United States Marine), LOC HOSP W/RETN-USM
+- **Document Type:** INMATE HISTORY (ADM-REL)
+- **Transaction ID:** G0005
+- **Report ID:** EFTA00019805
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PP37                                        Page 1 of 1
+NYMHM 531.01 *                          INMATE HISTORY                     *    08-10-2019
+PAGE 001 OF 001 *                        QUARTERS                                  *    10:41:01
+
+REG NO.: [76318-054] NAME....: EPSTEIN, JEFFREY EDWARD
+CATEGORY: [QTR] FUNCTION: DIS FORMAT:
+
+FCL ASSIGNMENT DESCRIPTION              START DATE/TIME STOP DATE/TIME
+NYM Z04-206LAD HOUSE Z/RANGE 04/BED 206L AD      07-29-2019 1221      08-10-2019 0747
+NYM H01-001L HOUSE H/RANGE 01/BED 001L           07-23-2019 0324      07-29-2019 1221
+NYM Z05-124LAD HOUSE Z/RANGE 05/BED 124L AD      07-10-2019 1526      07-23-2019 0324
+NYM H01-001L HOUSE H/RANGE 01/BED 001L           07-08-2019 1803      07-10-2019 1526
+NYM Z02-201LAD HOUSE Z/RANGE 02/BED 201L AD      07-08-2019 1749      07-08-2019 1803
+NYM Z02-201LAD HOUSE Z/RANGE 02/BED 201L AD      07-07-2019 1920      07-08-2019 0920
+NYM E06-547U HOUSE E/RANGE 06/BED 547U           07-06-2019 2136      07-07-2019 1920
+NYM R01-001L HOUSE R/RANGE 01/BED 001L           07-06-2019 2124      07-06-2019 2136
+
+G0005 TRANSACTION SUCCESSFULLY COMPLETED - CONTINUE PROCESSING IF DESIRED
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PP160.do                              8/10/2019
+                                                                            EFTA00019806
+
+## Structured Fields
+- **Reg No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Date of Record (Top Right):** 08-10-2019 10:41:01
+- **Document Date (Bottom Right):** 8/10/2019
+- **Document ID (Bottom Right):** EFTA00019806
+- **FCL Codes:** NYM, Z04-206LAD, H01-001L, Z05-124LAD, Z02-201LAD, E06-547U, R01-001L
+- **Categories:** QTR (Quarters)
+- **Function:** DIS (Discharge? Detention?)
+- **Assignment Descriptions:** HOUSE Z/RANGE, HOUSE H/RANGE, HOUSE R/RANGE, HOUSE E/RANGE. Bed numbers 206L, 001L, 124L, 201L, 547U.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PP10                                                                                      Page 1 of 1
+NYMHM 535.07 *                                    CIM CLEARANCE AND SEPARATEE DATA *               08-10-2019
+PAGE 001 OF 001 *                                  *                                      10:31:37
+
+REGISTER NO: 76318-054 NAME: EPSTEIN, JEFFREY EDWARD
+
+REGISTER           FIRST      ARS ARS       ARS       ARS    QTR
+NUMBER             LAST NAME  NAME          FCL ASSIGN DATE    TIME   ASSIGN
+
+76318-054 EPSTEIN  JEFFREY       NYM L HOSP USM 08-10-2019 0747
+
+*****              FOI EXEMPT
+P0011              THIS INMATE HAS NO CMC ASSIGNMENTS
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG20.do    8/10/2019
+                                                                 EFTA00019807
+
+## Structured Fields
+- **Date:** 08-10-2019, 8/10/2019
+- **Register No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD (First Name: JEFFREY)
+- **Location/Assign:** NYM L HOSP USM
+- **Time:** 0747
+- **Document ID/Ref:** PP10, P0011
+- **Agency/System:** bop.tcp.doj.gov
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+NYMHM 535.03 *                                           INMATE PROFILE                          *       08-10-2019
+PAGE 001 OF 001                                             REG                                      09:28:51
+76318-054
+
+REGNO: 76318-054                                         FUNCTION: PRT DOB/AGE.: [REDACTED] / 66
+NAME.: EPSTEIN, JEFFREY EDWARD                            R/S/ETH.: W/M/O                         WALSH: YES
+RSP.: NYM-NEW YORK MCC                                     MILEAGE.: 5 MILES
+PHONE:[REDACTED]                                          FAX:[REDACTED]
+
+ARS ASSIGNMENT..: ESC TRP TO LOC HOSP W/RETN-USM        FBI NO..:
+ARS DATE/TIME...: 08-10-2019/0747                          INS NO..:
+PROJ REL METHOD: UNKNOWN                                  SSN.....:[REDACTED]
+PROJ REL DATE..: UNKNOWN                                   PSYCH: NO                                DETAINER: NO    CMC.: NO
+
+                 -                                         RELEASE DESTINATION                     - - - - - -
+AGENCY......................:
+DST ASSIGNMENT.............:
+ADDRESS.....................: [REDACTED]
+
+OFFN/CHG RMKS: SEX TRAFFICKING CONSP.
+OFFN/CHG RMKS: SEX TRAFFICKING OF MINORS
+
+       FACL CATEGORY          -  -  -  -   CURRENT ASSIGNMENT      -  -  -  -  -    EFF DATE    TIME
+NYM ADM-REL    L HOSP USM     ESC TRP TO LOC HOSP W/RETN-USM    08-10-2019  0747
+NYM CARE LEVEL CARE1-MH      CARE1-MENTAL HEALTH          07-08-2019  0934
+NYM CASE MGT   CFSA          CERT FOOD SINCERITY APPROVAL 07-19-2019  1209
+NYM CUSTODY    IN            IN CUSTODY                 07-06-2019  2124
+NYM EDUC INFO  GED UNK       GED STATUS UNKNOWN         07-06-2019  2124
+NYM FIN RESP   UNASSG        FINANC RESP-UNASSIGNED     07-06-2019  2124
+NYM LEVEL      UNASSG        UNASSIGNED                 07-06-2019  2124
+NYM MED DY ST  NOT MED CL    NOT MEDICALLY CLEARED      07-06-2019  2124
+NYM RELIGION   UNKNOWN       RELIGION UNKNOWN           07-06-2019  2124
+NYM SECUR THRT RAPE H       HISTORY OF COMMITTING RAPE 07-10-2019  1455
+
+G0000                                                      TRANSACTION SUCCESSFULLY COMPLETED
+
+EFTA00019808
+```
+
+## Structured Fields
+*   **Date:** 08-10-2019 (Header/Stamp), 07-06-2019, 07-08-2019, 07-19-2019, 07-10-2019
+*   **Case ID:** NYMHM 535.03, REGNO: 76318-054, EFTA00019808 (Bottom right)
+*   **Name:** EPSTEIN, JEFFREY EDWARD
+*   **Location/Assignment:** NYM-NEW YORK MCC, LOC HOSP USM (Local Hospital), L HOSP
+*   **Organizations:** NYMHM (New York Mental Health Institute?), WALSH (program/waiver status)
+*   **Race/Ethnicity/Sex:** W/M/O (White/Male/Other or similar category)
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PPG0                                              Page 1 of 1
+NYMHM 600.00 *        SECURITY/DESIGNATION   *       08-10-2019
+PAGE 001 OF 001 *      DATA                   *       09:29:48
+
+REGNO: |76318-054     NAME: EPSTEIN, JEFFREY EDWARD   ORG:
+RC/SEX/AGE: W/M/66    FORM D/T:                       RES: NEW YORK, NY 10021
+OFFN/CHG..: SEX TRAFFICKING CONSP.
+                 SEX TRAFFICKING OF MINORS
+CUSTODY..: IN     BIL:             CITIZENSHIP: UNITED STATES OF AMERICA
+CIM CONS.:                                               USM:
+JUDGE....:       RECFACL/PGM:                  VOLSUR:
+VS DT/LOC:                                              MOS REL:      SEVERITY:
+CHP/CHS/S:                                             ESCAPES.:
+DETAINER.:                                            HGC:
+DRUG/ALC.:                                     AGE:        EDUC LV:
+PUB SAFTY:                                        TOTAL:       SEC LVL:
+CCM RMKS.:                                           CAR MD/MH:             OMDT REF:
+
+P5110            DESIGNATION RECORD DOES NOT EXIST FOR THIS INMATE
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG00.do                      8/10/2019
+                                                                    EFTA00019809
+
+## Structured Fields
+- **Date:** 08-10-2019, 8/10/2019
+- **Case ID / Regno:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Location / Res:** NEW YORK, NY 10021
+- **Charge:** SEX TRAFFICKING CONSP. / SEX TRAFFICKING OF MINORS
+- **Custody Status:** IN
+- **Citizenship:** UNITED STATES OF AMERICA
+- **Document ID:** PPG0, EFTA00019809
+- **URL:** https://bop.tcp.doj.gov:9049/SENTRY/J1PPG00.do
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PD15                                                 Page 1 of 1
+NYMHM *                                             INMATE DISCIPLINE DATA *           08-10-2019
+PAGE 001 OF 001 *                                  CHRONOLOGICAL DISCIPLINARY RECORD * 09:30:45
+REGISTER NO: |76318-054| NAME..: EPSTEIN, JEFFREY EDWARD
+FUNCTION...: |DIS| FORMAT: |CHRONO| LIMIT TO [ ] MOS PRIOR TO |08-10-2019|
+          RSP OF: NYM-NEW YORK MCC
+
+G5463                                                 NO ENTRIES EXIST IN CHRONOLOGICAL LOG FOR TIME PERIOD REQUESTED
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do     8/10/2019
+                                                          EFTA00019810
+
+## Structured Fields
+- **Date**: 08-10-2019 / 8/10/2019
+- **Register No**: 76318-054
+- **Name**: EPSTEIN, JEFFREY EDWARD
+- **Location/Facility**: NYM-NEW YORK MCC (New York Maximum Correctional Center)
+- **Document ID/Code**: G5463 / EFTA00019810
+- **Function Code**: DIS
+- **Format**: CHRONO
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PD15
+Page 1 of 1
+NYMHM *                               * 08-10-2019
+PAGE 001 OF 001 * INMATE DISCIPLINE DATA PENDING REPORTS * 09:30:56
+REGISTER NO: 76318-054 NAME..: EPSTEIN, JEFFREY EDWARD
+FUNCTION...: DIS FORMAT: PENDING LIMIT TO     MOS PRIOR TO 08-10-2019
+RSP OF: NYM-NEW YORK MCC
+
+G5464 NO PENDING INCIDENT REPORTS EXIST FOR ABOVE INMATE
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do   8/10/2019
+EFTA00019811
+
+## Structured Fields
+* **Date:** 08-10-2019 / 8/10/2019
+* **Time:** 09:30:56
+* **Name:** EPSTEIN, JEFFREY EDWARD
+* **Register No:** 76318-054
+* **Function:** DIS
+* **RSP OF:** NYM-NEW YORK MCC
+* **Location:** NYC (implied by NYM)
+* **Document ID:** EFTA00019811
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PSCD
+Page 1 of 1
+
+NYMHH 540.23 *
+PAGE 001 OF 001 *
+SENTENCE MONITORING
+COMPUTATION DATA
+AS OF 08-10-2019
+* * 08-10-2019
+09:31:27
+
+REGNO..: |76318-054 NAME: EPSTEIN, JEFFREY EDWARD
+COMP NO: [Blank] ALL CURR COMPS(Y/N): |Y ALL PRIOR COMPS(Y/N): |Y
+FUNC...: |PRT
+
+S0057 INMATE HAS NO CURRENT OR PRIOR SENTENCE DATA
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PSCD0.do
+8/10/2019
+EFTA00019812
+
+## Structured Fields
+- **Document ID**: EFTA00019812
+- **Date**: 08-10-2019 / 8/10/2019
+- **Time**: 09:31:27
+- **Regno**: 76318-054
+- **Name**: EPSTEIN, JEFFREY EDWARD
+- **Report Type**: SENTENCE MONITORING - COMPUTATION DATA (PSCD)
+- **Status Message**: INMATE HAS NO CURRENT OR PRIOR SENTENCE DATA
+- **Source URL**: https://bop.tcp.doj.gov:9049/SENTRY/J1PSCD0.do
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NYMHH 533*01 *                                    DEPARTMENT OF JUSTICE                          *       08-10-2019
+PAGE 001 *                                   ASSIGNMENT HISTORY REPORT                      *   09:31:50
+
+REG NO: 76318-054 NAME: EPSTEIN                                       JEFFREY      EDWARD
+
+     ADM-REL
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                ESC TRP TO LOC HOSP W/RETN-USM   08-10-2019 0747 CURRENT
+NEW YORK MCC                PRE-SENT ADMIT, ADULT           07-08-2019 1749     08-10-2019
+NEW YORK MCC                COURT APPEARANCE W/SCHED RETRN   07-08-2019 0920    07-08-2019
+NEW YORK MCC                PRE-SENT ADMIT, ADULT           07-06-2019 2124     07-08-2019
+
+      CARE LEVEL
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                CARE1-MENTAL HEALTH             07-08-2019 0934 CURRENT
+
+     COR COUNSL
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                VACANT                          10-19-2019 1805    07-22-2019
+NEW YORK MCC                UNASSIGNED ADMISSION            07-08-2019 1749    10-19-2019
+
+      CASE MGT
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                CERT FOOD SINCERITY APPROVAL    07-19-2019 1209 CURRENT
+
+       CASEWORKER
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                UNASSIGNED ADMISSION            07-08-2019 1749    07-22-2019
+
+       CUSTODY
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+
+      EDUC INFO
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+
+       FIN RESP
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                FINANCR RESP-UNASSIGNED         07-06-2019 2124 CURRENT
+
+        LEVEL
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+
+       MED DY ST
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                SUICIDE WATCH                   07-23-2019 0140    07-24-2019
+
+       OUTCOUNT
+RESPONSIBILITY OF:          - - - -ASSIGNMENTS        - - - -   START DATE/TIME STOP DATE
+NEW YORK MCC                ATTORNEY VISIT                 08-09-2019 1455    08-09-2019
+NEW YORK MCC                ATTORNEY VISIT                 08-08-2019 1514    08-08-2019
+NEW YORK MCC                ATTORNEY VISIT                 08-07-2019 1527    08-07-2019
+NEW YORK MCC                ATTORNEY VISIT                 08-06-2019 1537    08-06-2019
+NEW YORK MCC                ATTORNEY VISIT                 08-05-2019 1518    08-05-2019
+
+G0002                      MORE PAGES TO FOLLOW . . .
+
+## Structured Fields
+- **Date:** 08-10-2019 (Report Date), 07-08-2019, 07-06-2019, 10-19-2019, 07-19-2019, 07-23-2019, 07-24-2019, 08-09-2019, 08-08-2019, 08-07-2019, 08-06-2019, 08-05-2019
+- **Case ID / Reg No:** 76318-054
+- **Name:** EPSTEIN JEFFREY EDWARD
+- **Location:** NEW YORK MCC (New York Mental Health Center)
+- **Organization:** DEPARTMENT OF JUSTICE
+- **Document ID:** EFTA00019813
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NYMHM 533*01 *                                     DEPARTMENT OF JUSTICE                                   *     08-10-2019
+PAGE 002                                         ASSIGNMENT HISTORY REPORT                                  *     09:31:50
+                                                                                                                            
+OUTCOUNT
+RESPONSIBILITY OF:   - - - - -ASSIGNMENTS   - - - -   START DATE/TIME   STOP DATE
+NEW YORK MCC         ATTORNEY VISIT                     08-04-2019 1557    08-04-2019
+NEW YORK MCC         ATTORNEY VISIT                     08-04-2019 0957    08-04-2019
+NEW YORK MCC         ATTORNEY VISIT                     08-03-2019 1555    08-03-2019
+NEW YORK MCC         ATTORNEY VISIT                     08-03-2019 0926    08-03-2019
+NEW YORK MCC         ATTORNEY VISIT                     08-02-2019 1522    08-02-2019
+NEW YORK MCC         ATTORNEY VISIT                     08-01-2019 1550    08-01-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-31-2019 1534    07-31-2019
+NEW YORK MCC         COURT-SOUTHERN DISTRICT N.Y.      07-31-2019 0926    07-31-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-30-2019 1523    07-30-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-29-2019 1607    07-29-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-28-2019 1551    07-28-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-28-2019 0938    07-28-2019
+NEW YORK MCC         HOSPITAL                           07-28-2019 0934    07-28-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-27-2019 1456    07-27-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-27-2019 0934    07-27-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-26-2019 1508    07-26-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-25-2019 1524    07-25-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-24-2019 1537    07-24-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-23-2019 1528    07-23-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-22-2019 1551    07-22-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-21-2019 1536    07-21-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-21-2019 0947    07-21-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-20-2019 1445    07-20-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-20-2019 0900    07-20-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-19-2019 1442    07-19-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-18-2019 1537    07-18-2019
+NEW YORK MCC         COURT-SOUTHERN DISTRICT N.Y.      07-18-2019 0859    07-18-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-17-2019 1611    07-17-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-16-2019 1653    07-16-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-15-2019 1456    07-15-2019
+NEW YORK MCC         COURT-SOUTHERN DISTRICT N.Y.      07-15-2019 0900    07-15-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-14-2019 1511    07-14-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-14-2019 0957    07-14-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-13-2019 1459    07-13-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-12-2019 1507    07-12-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-11-2019 1510    07-11-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-10-2019 1533    07-10-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-09-2019 1510    07-09-2019
+NEW YORK MCC         ATTORNEY VISIT                     07-07-2019 1600    07-07-2019
+
+QUARTERS
+RESPONSIBILITY OF:   - - - - -ASSIGNMENTS   - - - -   START DATE/TIME   STOP DATE
+NEW YORK MCC         HOUSE Z/RANGE 04/BED 206L AD      07-29-2019 1221    08-10-2019
+NEW YORK MCC         HOUSE H/RANGE 01/BED 001L         07-23-2019 0324    07-29-2019
+NEW YORK MCC         HOUSE Z/RANGE 05/BED 124L AD      07-10-2019 1526    07-23-2019
+NEW YORK MCC         HOUSE H/RANGE 01/BED 001L         07-08-2019 1803    07-10-2019
+NEW YORK MCC         HOUSE Z/RANGE 02/BED 201L AD      07-08-2019 1749    07-08-2019
+NEW YORK MCC         HOUSE Z/RANGE 02/BED 201L AD      07-07-2019 1920    07-08-2019
+
+G0002                   MORE PAGES TO FOLLOW . . .
+                                                                    EFTA00019814
+
+## Structured Fields
+- **Case ID/Reference:** NYMHM 533*01, PAGE 002, G0002
+- **Document ID:** EFTA00019814
+- **Organization:** DEPARTMENT OF JUSTICE
+- **Date Range:** 07-07-2019 to 08-10-2019
+- **Location:** NEW YORK MCC, COURT-SOUTHERN DISTRICT N.Y., HOSPITAL, HOUSE Z/RANGE/H/RANGE (Bed numbers 001L, 201L AD, 206L AD, 124L AD)
+- **Timestamp:** 09:31:50
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NEW YORK MCC HOUSE R/RANGE 01/BED 001L 07-06-2019 2124 07-06-...
+RELIGION
+RESPONSIBILITY OF: - - - - -ASSIGNMENTS - - - - STAR. DATE/TIME STOP DATE
+NEW YORK MCC RELIGION UNKNOWN 07-06-2019 2124 CURRENT
+
+SECOND RSP
+RESPONSIBILITY OF: - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+
+SECUR THRT
+RESPONSIBILITY OF: - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC HISTORY OF COMMITTING RAPE 07-10-2019 1455 CURRENT
+
+UNIT
+RESPONSIBILITY OF: - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC UNIT MGR. [REDACTED] EXT 07-22-2019 1806 08-10-2019
+NEW YORK MCC [REDACTED] UNIT MANAGER 07-08-2019 1749 07-22-2019
+NEW YORK MCC [REDACTED] UNIT MANAGER 07-06-2019 2124 07-08-2019
+
+WRK DETAIL
+RESPONSIBILITY OF: - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC UNASSIGNED WORK DETAIL 07-08-2019 1749 08-10-2019
+NEW YORK MCC UNASSIGNED WORK DETAIL 07-06-2019 2124 07-08-2019
+
+G0000 TRANSACTION SUCCESSFULLY COMPLETED
+
+## Structured Fields
+*   **Date**: 07-06-2019, 07-10-2019, 07-22-2019, 08-10-2019, 07-08-2019
+*   **Time**: 2124, 1455, 1806, 1749
+*   **Organization/Location**: NEW YORK MCC, HOUSE R/RANGE 01/BED 001L
+*   **Roles/Assignments**: RELIGION UNKNOWN, UNIT MGR., UNIT MANAGER, UNASSIGNED WORK DETAIL
+*   **Security Note**: HISTORY OF COMMITTING RAPE
+*   **Doc ID**: EFTA00019815
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NYMHM 533*01 *
+PAGE 003
+
+DEPARTMENT OF JUSTICE
+ASSIGNMENT HISTORY REPORT
+
+QUARTERS
+RESPONSIBILITY OF:    - - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC          HOUSE E/RANGE 06/BED 547U     07-06-2019 2136 07-07-2019
+
+## Structured Fields
+- **Date:** 08-10-2019 (Report Date), 09:31:50 (Report Time)
+- **Case ID / Doc ID:** NYMHM 533*01, PAGE 003
+- **Location:** NEW YORK MCC
+- **Assignment/Bed:** HOUSE E/RANGE 06/BED 547U
+- **Start Date/Time:** 07-06-2019 2136
+- **Stop Date:** 07-07-2019
+- **Organization:** DEPARTMENT OF JUSTICE
+- **File Number:** EFTA00019816
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NYMHM 533*01 *                                      DEPARTMENT OF JUSTICE                    *      08-10-2019
+PAGE 003 *                                              ASSIGNMENT HISTORY REPORT          *       09:31:50
+
+QUARTERS
+RESPONSIBILITY OF: - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC                  HOUSE E/RANGE 06/BED 547U              07-06-2019 2136    07-07-2019
+NEW YORK MCC                  HOUSE R/RANGE 01/BED 001L              07-06-2019 2124    07-06-2019
+
+RELIGION
+RESPONSIBILITY OF: - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC                  RELIGION UNKNOWN                       07-06-2019 2124    CURRENT
+
+SECOND RSP
+RESPONSIBILITY OF: - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+
+SECUR THRT
+RESPONSIBILITY OF: - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC                  HISTORY OF COMMITTING RAPE            07-10-2019 1455    CURRENT
+
+UNIT
+RESPONSIBILITY OF: - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC                  UNT MGR. [REDACTED] EXT [REDACTED]   07-22-2019 1806    08-10-2019
+NEW YORK MCC                  [REDACTED] UNIT MANAGER               07-08-2019 1749    07-22-2019
+NEW YORK MCC                  [REDACTED] UNIT MANAGER               07-06-2019 2124    07-08-2019
+
+WRK DETAIL
+RESPONSIBILITY OF: - - - -ASSIGNMENTS - - - - START DATE/TIME STOP DATE
+NEW YORK MCC                  UNASSIGNED WORK DETAIL                07-08-2019 1749    08-10-2019
+NEW YORK MCC                  UNASSIGNED WORK DETAIL                07-06-2019 2124    07-08-2019
+
+G0000 TRANSACTION SUCCESSFULLY COMPLETED
+
+## Structured Fields
+- **Date/Time of Report**: 08-10-2019 09:31:50
+- **Document ID**: EFTA00019817
+- **Case/File Identifier**: NYMHM 533*01
+- **Agency**: DEPARTMENT OF JUSTICE
+- **Location/Facility**: NEW YORK MCC (Maximum Correctional Center)
+- **Religion Status**: RELIGION UNKNOWN
+- **Security History**: HISTORY OF COMMITTING RAPE
+- **Assignment Types**: QUARTERS, RELIGION, SECOND RSP, SECUR THRT, UNIT, WRK DETAIL
+- **Bed Assignments**: HOUSE E/RANGE 06/BED 547U, HOUSE R/RANGE 01/BED 001L
+- **Unit Roles**: UNT MGR. (Ext), UNIT MANAGER
+- **Status Dates**: 07-06-2019 to 08-10-2019
+

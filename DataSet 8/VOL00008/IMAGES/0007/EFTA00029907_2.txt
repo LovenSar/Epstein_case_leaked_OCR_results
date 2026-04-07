@@ -1,0 +1,139 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029907.pdf ts=2026-03-18T13:44:20 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7/20/2021
+FD-1087
+**31E-MM-108062 - 1B4**
+
+Evidence Item: 31E-MM-108062 -- 1B4
+Evidence Type: General
+Description: (U//FOUO) One box containing: 1) WHITE PAPER A. PBPD 05-381(1) 2) WHITE PAPER JET BLUE RECEIPT (2) 3) WHITE PAPER JU. (3) 4) WHITE PAPER JO. (4) 5) MESSAGE M.H. (5) 6) WHITE PAPER H. S. (6) 7) WHITE PAPER A. (7) 8) WHITE PAPER J.S. (8) 9) WHITE PAPER H. (9) 10) WHITE PAPER ST. BARTHS (10) 11) MESSAGE - G. (11) 12) MESSAGE - J.L.......................................(12) 13) WHITE PAPER - F. (13) 14) MESSAGE S. (14) 15) MESSAGE - J.L. (15) 16) MESSAGE J.L. GIRL (16) 17) WHITE PAPER - S. (17) 18) WHITE PAPER #S (18) 19) WHITE PAPER - J. (19) 20) WHITE PAPER - J. (20) 21) WHITE PAPER (917) (21) 22) WHITE PAPER D.M. (22) 23) PHONE # PRINT OUT (23)
+Location: E03707388 - ECR8
+E4640430 - ECR8, I4
+Barcode: E6516714
+
+Details
+
+Collected On: 08/28/2006 8:00 AM                                    Receipt Item #: None
+CATS ID #: None                                                  CATS Abandonment #: None
+FBI Seizure #: None                                              Abandonment #: None
+
+Storage Location                                                    Discovery Location
+Holding Office: NY - NEW YORK                                      Area: Unavailable in data migrated from ACS
+Finalized By: [REDACTED]                                          Seizing Individual: None
+Last Inventory: 07/20/2021 12:00 AM                               Other Seizing Individual: [REDACTED]
+                                                                   Specific: Unavailable in data migrated from ACS
+                                                                   Collected By: [REDACTED]
+
+Retention
+Retention: Missing
+Legal Caveats
+None
+Chain of Custody
+Shipping Log
+History
+Acquisition Event
+
+Acquisition Event: (U//FOUO) Items migrated on 2006-08-28
+Collected From: (U//FOUO) DET. [REDACTED]
+
+345 SOUTH COUNTY ROAD
+PALM BEACH, FL, 33480
+
+Receipt Given: No
+
+https://sentinel.fbinet.fbi/lavender##/Cases/2383628                  1/2
+SDNY_GM_02753564
+EFTA00029907
+
+## Structured Fields
+- **Date:** 7/20/2021, 08/28/2006, 07/20/2021, 2006-08-28
+- **Case ID/Item ID:** 31E-MM-108062 - 1B4, FD-1087
+- **Location:** NY - NEW YORK, 345 SOUTH COUNTY ROAD PALM BEACH, FL, 33480
+- **Document IDs:** E03707388, E6516714, E4640430
+- **Organization:** FBI (implied by URL), ACS
+- **Status:** U//FOUO (Unclassified // For Official Use Only)
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7/20/2021                                                     FD-1087
+Holding Office: MM - MIAMI
+Evidence Log: Missing
+Missing
+
+https://sentinel.fbinet.fbi/lavender///Cases/2383628                              2/2
+
+SDNY_GM_02753565
+EFTA00029908
+
+## Structured Fields
+- **Date**: 7/20/2021
+- **Document ID**: FD-1087
+- **Holding Office**: MM - MIAMI
+- **Evidence Log Status**: Missing
+- **Case URL**: https://sentinel.fbinet.fbi/lavender///Cases/2383628
+- **Page Number**: 2/2
+- **Bureau ID**: SDNY_GM_02753565
+- **System/Agency ID**: EFTA00029908
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned copy of a legal or law enforcement document titled "Chain of Custody FD-192." The document features a standard form layout with fields for recording individuals who handled evidence, along with dates and times. A significant portion of the document, roughly the middle 70%, is obscured by a large, solid black rectangular redaction box. Below this main redaction, the form continues with blank lines for signatures and printed names. Near the bottom left-center, a smaller, square black redaction box covers specific text within one of the "Printed Name" fields. A large, illegible handwriting in blue ink diagonally traverses the lower section of the page. The document rests on a white background, showing some dust specks and scanning artifacts along the left margin. At the very bottom right, internal tracking codes are visible in gray text.
+
+## Visible Text (verbatim)
+- **Header:** "Chain of Custody FD-192"
+- **Top Left:** "Case ID : 31E-MM-108062"
+- **Top Middle/Right:** "1B4", "Barcode ." (followed by a scribbled-out string)
+- **Handwritten Top Right:** "E6576714" (and some illegible text below it)
+- **Form Fields (Repeated):** "Accepted By:", "Printed Name:", "Reason:...", "Signature:", "Date/Time:"
+- **Bottom Center Text:** "WEAPONS CHECKED & CLEARED BY FIREARMS INSTRUCTOR"
+- **Footer Lines:** "Printed Name:................ Signature:........... Date:......"
+- **Footer Code 1:** "SDNY_GM_02753566"
+- **Footer Code 2:** "EFTA00029909"
+- **Blue Handwriting:** Appears to read "Colyh" followed by numbers, possibly "14/9" or a date.
+
+## Notable Details / Clues
+- **Document Function:** This is an evidence handling log (Chain of Custody), specifically used for weapons or firearms, as indicated by the final section text.
+- **Redaction Strategy:** The form relies heavily on black-box redactions to hide personal information (names) and specific reasons for transfer, likely for privacy compliance (HIPAA/FERPA/GDPR equivalent).
+- **Case Identifier:** The Case ID "31E-MM-108062" provides a unique reference for this specific evidence packet.
+- **Barcoding:** There are references to barcode tracking ("Barcode .") suggesting digital asset management integration.
+- **Handwritten Annotation:** The blue ink writing near the bottom suggests manual intervention, perhaps an approval or a date added later by an administrator.
+- **Organizational Codes:** The footer codes "SDNY" typically refers to the Southern District of New York (Department of Justice), and "GM" could refer to General Management, though in this specific context, it might be an internal agency code.
+- **Blank Sections:** Despite the redactions, many fields like "Signature" and "Date/Time" are left blank in the visible lower sections, suggesting this form may not have been fully completed or was a template used for comparison.
+- **Scanning Quality:** The image quality is slightly degraded with vertical banding (moire pattern) on the right side, indicating it was likely scanned from a hard copy rather than being a direct PDF export.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical legal document titled "EVIDENCE CHAIN OF CUSTODY." The top portion of the form is heavily obscured by a large black redaction box, hiding specific signatures and names. To the immediate right of this redacted area, a column for "Date and Time" contains several handwritten entries in cursive script. Below the redaction, the form repeats a grid structure designed for tracking the transfer of evidence. Each row in this lower section is divided into four main columns: "Relinquished Custody" (containing fields for Signature, Printed Name/Agency, and Reason), a central column for "Date and Time," "Accepted Custody" (also containing Signature, Printed Name/Agency, Reason fields), and a final column for "Date and Time." The lower half of the document consists entirely of blank sections following this alternating pattern. At the very bottom, there is footer information including a Case ID, an IB number, a handwritten barcode, and a disclaimer stating the form is incomplete without reference to another specific form (FD-1087). Small alphanumeric codes appear in the bottom right corner.
+
+## Visible Text (verbatim)
+*   **Header:** "EVIDENCE CHAIN OF CUSTODY" (Partial, cut off at top)
+*   **Column Headers (Repeating):** "Relinquished", "Signature", "Printed Name/Agency", "Reason", "Date and Time", "Accepted Custody", "Date and Time".
+*   **Handwritten Entries (Right Column):**
+    *   "6/18/19"
+    *   "2:30p" (approximate)
+    *   "6/18/19"
+    *   "3:45p"
+    *   "7/26/19"
+    *   "220 pm" (or similar cursive notation)
+*   **Footer Data:**
+    *   "Case ID: 31E-MM-108062"
+    *   "IB: 4"
+    *   "Barcode: E651671Y"
+*   **Disclaimer:** "This form is incomplete without reference to the FD-1087."
+*   **Bottom Right Codes:** "SDNY_GM_02753567", "EFTA00029910"
+
+## Notable Details / Clues
+*   **Redaction:** A significant portion of the upper-middle document is blacked out, indicating sensitive personal information (PII) has been redacted for privacy, likely names and signatures of individuals handing over or receiving the evidence.
+*   **Date Discontinuity:** The handwritten dates jump from June 18, 2019, to July 26, 2019, suggesting a gap in custody transfers not recorded on this specific sheet or a significant time lapse.
+*   **Form Structure:** The alternating "Relinquished" and "Accepted" columns suggest a back-and-forth transfer of physical items, with one party passing an item to another, requiring both signatures and a reason for the transfer.
+*   **Barcode:** There is a handwritten number "E651671Y" next to the printed "Barcode:" label.
+*   **Agency Reference:** The code "SDNY" at the bottom right likely refers to the Southern District of New York, suggesting this document originates from or relates to federal investigations in that jurisdiction.
+*   **Incomplete Warning:** The text "This form is incomplete without reference to the FD-1087" implies this is a supplementary log sheet rather than the primary evidence form itself.
+*   **Time Format:** The handwritten times use an alphanumeric format (e.g., "3:45p"), mixing standard clock time with a 'p' for afternoon/PM.
+*   **Grid Lines:** Faint horizontal and vertical lines divide the document into distinct input cells, typical of bureaucratic tracking forms.
+*   **Blank Lower Section:** The bottom 60% of the page is blank space intended for future custody transfers, indicating this sheet was generated before the final chain of events occurred or has ample space for continued use.
+

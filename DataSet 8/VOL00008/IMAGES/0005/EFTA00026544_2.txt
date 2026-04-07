@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00026544.pdf ts=2026-03-17T05:54:44 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED], [REDACTED] (USANYS)" <[REDACTED]>
+To: "[REDACTED]" <[REDACTED]>
+Subject:
+Date: Wed, 08 Jan 2020 17:44:35 +0000
+Attachments: 2020.01.08_letter_to_KMK_re_MCC_tape.docx
+
+<----------------------------------------------------------
+
+[REDACTED] . [REDACTED]
+Co-Chief, Narcotics Unit
+United States Attorney's Office
+Southern District of New York
+One Saint Andrew's Plaza
+New York, New York 10007
+Tel: [REDACTED]
+[REDACTED]
+
+EFTA00026544
+
+## Structured Fields
+- **Date**: Wed, 08 Jan 2020 17:44:35 +0000
+- **Attachment**: 2020.01.08_letter_to_KMK_re_MCC_tape.docx
+- **Organization**: United States Attorney's Office, Southern District of New York
+- **Unit/Role**: Co-Chief, Narcotics Unit
+- **Email Domain/Sender Group**: (USANYS)
+- **Location**: One Saint Andrew's Plaza, New York, New York 10007
+- **Case ID Reference**: KMK (derived from attachment filename)
+- **Document ID**: EFTA00026544
+

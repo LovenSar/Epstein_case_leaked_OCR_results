@@ -1,0 +1,63 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003070.pdf ts=2026-03-06T00:47:26 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-angle shot of an "Emergency Contact Form" document placed inside a ring binder. The binder is positioned against a dark, textured background that appears to be a floor or desk surface with scattered dust or debris. Three silver metal binder rings are visible along the left margin, holding clear plastic sleeves (though this specific sheet seems directly in contact with the plastic).
+
+The document is a standard business form with pre-printed labels and lined boxes for entries. The top section features the company header "LSJE, LLC" followed by an address in St. Thomas, VI (US Virgin Islands). Below the header is the underlined title "Emergency Contact Form". The form is divided into two main columns of input fields.
+
+The first column on the left contains the date of the form ("01/11/18"), the employee name ("Sylvester Gaillard"), physical and mailing addresses (with street portions redacted), cell phone number (partially redacted), email, title/position ("Supervisor"), allergies ("None"), blood type (completely redacted box), current medications ("Diabetic Medications"), and a primary doctor's name ("Dr. Alah").
+
+The second column on the right contains start date, date of birth (redacted), "phone (other)" (blank), marital status ("Single"), driver’s license number (redacted), and doctor's phone numbers (blank). The bottom section is dedicated to emergency contacts, with the first relationship listed as "Mother." Large black rectangular bars have been used to redact sensitive information such as street addresses, phone numbers, and blood type data. A disclaimer at the bottom warns that the information is for safety.
+
+## Visible Text (verbatim)
+**Header Section:**
+- LSJE, LLC
+- 6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348
+- Phone: [Redacted] E-mail: thesaintjames.group@gmail.com
+
+**Form Title:**
+- Emergency Contact Form
+
+**Field Labels and Entries (Left Column):**
+- Today's Date: 01/11/18
+- Employee Name: Sylvester Gaillard
+- Physical Address: [Redacted] St Thomas, VI
+- Mailing Address: [Redacted] St Thomas, VI
+- Cell Phone: [Redacted Box]
+- E-mail: [Blank Box]
+- Title/Position: Supervisor
+- Allergies or Health Concerns: None
+- Blood type: [Blacked Out Box]
+- Current Medications: Diabetic Medications
+- Doctor's Name: Dr. Alah
+
+**Field Labels and Entries (Right Column):**
+- Start Date: [Blank Box]
+- Date of Birth: [Redacted Box]
+- Phone (other): [Blank Box]
+- Marital Status: Single
+- Driver’s License No: [Redacted Box]
+- Doctor's Phone: [Blank Box]
+
+**Emergency Contact Section:**
+- In case of emergency, please contact:
+- Name: [Redacted Box] Relationship: Mother Phone: [Redacted Box]
+- Name: [Blank Box] Relationship: [Blank Box] Phone: [Blank Box]
+
+**Footer & Watermark:**
+- This information is for your safety and the safety of others.
+- EFTA00003070 (Bottom Right Corner)
+- Unknown (Checkbox label next to blood type field, unchecked)
+
+## Notable Details / Clues
+*   **Location Context:** The address "St. Thomas, VI" indicates the document belongs to an organization operating in the U.S. Virgin Islands.
+*   **Redaction Patterns:** Sensitive data like addresses, phone numbers, and license numbers are obscured with solid black rectangles rather than blurring, suggesting this image might be from a surveillance camera or intended for privacy protection where the original was heavily edited, or simply a digital copy that was intentionally blurred using a brush tool.
+*   **Medical History:** The form explicitly lists "Diabetic Medications" under current medications and notes "None" for allergies, indicating specific health monitoring protocols for this employee.
+*   **Date of Record:** The form is dated January 11, 2018 ("01/11/18"), suggesting the photo or data entry predates two decades ago unless it is a future-dated hypothetical document (unlikely).
+*   **Contact Relationship:** Despite other phone numbers being blank or redacted, a contact named "Mother" has been listed, with her name and phone number partially visible through the redaction.
+*   **Job Title:** The employee holds the position of "Supervisor," which might explain why this specific form was filed in a binder (perhaps for a specific department).
+*   **Checkbox State:** Next to the blood type field, there is a checkbox labeled "Unknown." This box is empty, implying that despite the blood type input area being blacked out, the system did not mark it as known or unknown by default, or the text was overwritten.
+*   **File Code:** The code "EFTA00003070" in the bottom right corner resembles an Employee File Tracking Access number or a document ID used for internal record keeping.
+

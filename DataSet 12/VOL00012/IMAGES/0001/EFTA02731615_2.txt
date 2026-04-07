@@ -1,0 +1,46 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731615.pdf ts=2026-03-06T17:23:03 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot or digital scan of an email thread consisting of three distinct messages stacked vertically on a white background. The layout is standard for desktop email clients, with headers (From, To, Subject, Date) aligned to the left and bodies following below horizontal dividing lines. Large, solid black rectangular bars are superimposed over various fields—likely names, phone numbers, or sensitive document sections—obscuring specific identity information.
+
+The thread begins at the top with a message responding to an update regarding a "Spinoff interview from Maxwell." Following this is a middle email providing a status update that mentions scheduling difficulties involving a victim's attorney and sets a tentative date for May 18th. The final, longest email at the bottom contains a formal request to interview a witness related to the "Maxwell case" for the purpose of deciding on opening an investigation. This bottom message identifies the sender's organization as the "U.S. Attorney's Office, Southern District of New York." At the very bottom right corner, outside the main email content area, a document identification number is visible.
+
+## Visible Text (verbatim)
+**Email 1:**
+*   **From:** [Redacted]
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** RE: Spinoff interview from Maxwell
+*   **Date:** Wednesday, May 12, 2021 4:06:48 PM
+*   **Body Text:** "Great, thank you for the update." [Large Black Box]
+
+**Email 2:**
+*   **Subject:** RE: Spinoff interview from Maxwell
+*   **Body Text:** "Hi [Redacted], Just following up on this. It took a bit to sort out with [Redacted] and the victim’s attorney, but the interview is tentatively scheduled for next Tuesday, 5/18. I will keep you posted. Thanks, [Redacted]"
+
+**Email 3:**
+*   **Subject:** Spinoff interview from Maxwell
+*   **Body Text:** "Hi [Redacted], We’d like to ask you to interview a witness that would be a spin-off from the Maxwell case, in order to decide whether we should open an investigation. [Redacted] can fill you in on the details, and [Redacted] will be the agent who sits in on the interview. Please let us know if you have any questions or would like to discuss. Thanks very much! [Redacted] [Redacted] U.S. Attorney's Office Southern District of New York [Redacted]"
+
+**Footer:**
+*   "EFTA02731615"
+
+## Notable Details / Clues
+*   **Case Context:** The communications revolve around the "Maxwell case," which refers to the high-profile Jeffrey Epstein sex trafficking case where Ghislaine Maxwell was a key defendant. This is a "spin-off" investigation related to that case.
+*   **Timeline:** The earliest visible email date is May 12, 2021. A follow-up interview is tentatively set for "next Tuesday," which corresponds to May 18, 2021 (since May 12, 2021 was a Wednesday).
+*   **Jurisdiction:** The U.S. Attorney's Office involved is located in the Southern District of New York, the federal district where the original Maxwell/Epstein case took place.
+*   **Purpose of Investigation:** The emails explicitly state the goal is to "decide whether we should open an investigation" based on the witness interview. This suggests a preliminary or investigative step rather than standard procedure for a known victim (which might have already occurred).
+*   **Redaction Pattern:** Almost all proper nouns are redacted, likely including the names of the prosecutors, the victims/witnesses being interviewed, and other involved attorneys, except for "Maxwell" and "victim's attorney."
+*   **Formatting:** The use of horizontal grey lines separating the emails indicates a standard email client interface (like Outlook or Apple Mail) where messages are pasted or forwarded in a single thread.
+*   **Document ID:** The code "EFTA02731615" at the bottom suggests this image was taken from a docket system, likely PACER (Public Access to Court Electronic Records), used for accessing federal court documents.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+EFTA02731616
+
+## Structured Fields
+- Document ID: EFTA02731616
+

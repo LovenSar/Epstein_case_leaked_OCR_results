@@ -1,0 +1,50 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003045.pdf ts=2026-03-06T00:35:57 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly high-angle shot of a document titled "Emergency Contact Form," enclosed within a clear plastic sleeve inside a silver ring binder. The binder rings are visible along the left edge against a dark, speckled countertop background. The document features a professional letterhead for an entity named "LSJE, LLC" located in St. Thomas, VI. The form is structured with fields arranged in two columns. Most personal identifiers (phone numbers, specific addresses, dates of birth, license numbers) are heavily redacted with thick black bars to protect privacy. The employee identified is "Carlos L Rodriguez," listed with the title/position of "Captain." A significant portion of the form regarding medical history is filled out as empty ("None" for medications), except for a doctor named "Dr. Livingston." The blood type section shows an 'X' marked in the "Unknown" box. At the bottom, there is a section for emergency contacts, identifying one person as a "Wife," though their name and phone number are obscured by redaction boxes. A document control code "EFTA00003045" is printed in the bottom right corner.
+
+## Visible Text (verbatim)
+*   **Header:** LSJE, LLC
+*   **Address Line:** 6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348
+*   **Contact Line:** Phone: [Redacted] E-mail: thesaintjames.group@gmail.com
+*   **Form Title:** Emergency Contact Form
+*   **Field 1 (Top Left):** Today's Date: 10/15/18
+*   **Field 2 (Top Right):** Start Date: [Empty Box]
+*   **Field 3 (Name):** Employee Name: Carlos L Rodriguez
+*   **Field 4 (DOB):** Date of Birth: [Redacted Box]
+*   **Field 5 (Address):** Physical Address: [Redacted] St Thomas, VI 00802
+*   **Field 6 (Mailing):** Mailing Address: 6501 Red Hook Plaza
+*   **Field 7 (Cell):** Cell Phone: [Redacted]
+*   **Field 8 (Phone Other):** Phone (other): [Empty Box]
+*   **Field 9 (Email):** E-mail: [Redacted]
+*   **Field 10 (Marital):** Marital Status: Married
+*   **Field 11 (Title):** Title/Position: Captain
+*   **Field 12 (License):** Driver's License No: [Redacted Box]
+*   **Field 13 (Allergies):** Allergies or Health Concerns: [Empty Box]
+*   **Field 14 (Blood Type Labels):** A-, A+, AB-, AB+, B-, B+, O-, O+, Unknown
+*   **Field 15 (Medication):** Current Medications: None
+*   **Field 16 (Doctor 1 Name):** Doctor's Name: Dr. Livingston
+*   **Field 17 (Doctor 1 Phone):** Doctor's Phone: [Redacted]
+*   **Field 18 (Doctor 2 Name):** Doctor's Name: [Empty Box]
+*   **Field 19 (Doctor 2 Phone):** Doctor's Phone: [Empty Box]
+*   **Section Header:** In case of emergency, please contact:
+*   **Contact 1 Name:** Name: [Redacted]
+*   **Contact 1 Relation:** Relationship: Wife
+*   **Contact 1 Phone:** Phone: [Redacted]
+*   **Contact 2 (Empty):** Name: [Empty Box], Relationship: [Empty Box], Phone: [Empty Box]
+*   **Footer Text:** This information is for your safety and the safety of others.
+*   **Bottom Right Code:** EFTA00003045
+
+## Notable Details / Clues
+*   **Date Context:** The form was filled out or dated October 15, 2018 (10/15/18).
+*   **Location:** The entity operates in the US Virgin Islands, evidenced by "St. Thomas" and postal code suffixes like "VI".
+*   **Privacy Measures:** Approximately 60% of the form fields contain black bars indicating sensitive data has been masked, specifically phone numbers, specific addresses, license numbers, and the primary emergency contact's name/phone.
+*   **Medical Status:** The employee indicates they have no current medications ("None") but their blood type is listed as "Unknown."
+*   **Role:** The title "Captain" suggests a leadership role, potentially in maritime or emergency services, fitting with the St. Thomas location.
+*   **Marital Status:** The employee lists their marital status as "Married."
+*   **Medical Provider:** A specific doctor is listed by name only ("Dr. Livingston"), while all other contact info for medical personnel is blank.
+*   **Redaction Pattern:** The redactions on the physical address and mailing address leave partial context clues (zip code 00802 is visible in both).
+*   **Binder:** The document is physically stored in a three-ring binder, suggesting it is part of an active employee file or HR manual.
+

@@ -1,0 +1,41 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002905.pdf ts=2026-03-05T23:36:09 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Subject:** The image displays a close-up, high-resolution view of the bottom rear chassis of a silver consumer electronic device, specifically a laptop computer.
+*   **Material and Finish:** The surface is made of brushed aluminum or metal with a matte, non-reflective texture that shows fine grain.
+*   **Lighting:** A soft light source from above creates a highlight gradient across the center of the metallic plate, fading into shadows toward the edges.
+*   **Regulatory Symbols:** A horizontal row of stamped compliance icons is located in the upper third of the visible area. This includes the FCC logo, CE marking, a circled exclamation point for safety warnings, a rectangle with "VCI" (Video Communication Industry) inside, the crossed-out wheeled bin (WEEE directive), a triangle with a checkmark (EAC symbol), and the CSA US certification mark.
+*   **Text Block:** Below the symbols is two lines of small, dark text containing manufacturing origin, model numbers, voltage ratings, and regulatory IDs.
+*   **Barcode Area:** Centered below the text block is a standard linear barcode (1D).
+*   **Serial Data:** Underneath the barcode are two specific alphanumeric fields: "Serial No." and "EMC No."
+*   **Chassis Structure:** Below the silver metal plate, there is a dark black strip, likely part of the laptop's hinge area or lower bezel.
+*   **Background:** The very bottom edge shows a blurry, out-of-focus brown surface, likely a wooden desk or table.
+*   **Watermark:** A faint alphanumeric code "EFTA00002905" is visible in the extreme bottom right corner.
+
+## Visible Text (verbatim)
+**Regulatory Symbols:**
+FC CE ⚠️ VCI [crossed-out bin] EAC CSA® US
+
+**Main Text Block:**
+Designed by Apple in California Assembled in China Model Number: A1419 100-240V~, 50-60Hz 4A. Apparaten skall anslutas till jordat nätuttag. CAN ICES-3 (B)/NMB-3(B) Contains FCC ID: QDS-BRCM1070 and IC: 4324A-BRCM1070
+
+**Barcode Label Text:**
+Serial No.: C02NM1M0FY14 EMC No.: 2806
+
+**Bottom Right Overlay:**
+EFTA00002905
+
+## Notable Details / Clues
+*   **Model Identification:** The Model Number "A1419" identifies this device as a MacBook Pro (Retina, 13-inch, Early 2015).
+*   **Power Specifications:** The text lists a wide input voltage range of 100-240V and a current draw of 4A, indicating an 80 Plus Gold or similar high-efficiency power adapter was used.
+*   **Multilingual Warning:** The phrase "Apparaten skall anslutas till jordat nätuttag" is Swedish for "The device must be connected to a grounded power outlet," suggesting this specific unit may have been labeled for a Scandinavian market or includes mandatory Swedish regulatory text.
+*   **Canadian Compliance:** The inclusion of "CAN ICES-3 (B)/NMB-3(B)" and the "IC: 4324A..." ID confirms compliance with Canadian Interference-Causing Equipment Standards.
+*   **FCC Identification:** The FCC ID "QDS-BRCM1070" points to a Broadcom BCM4334 chip, which was standard wireless hardware for this MacBook Pro model.
+*   **EMC Number:** The EMC No.: 2806 is the European Electromagnetic Compatibility number used for tracking compliance documentation within the EU.
+*   **CSA US Certification:** The logo with "US" underneath indicates certification by Underwriters Laboratories (UL), a requirement for safety in North American markets.
+*   **WEEE Compliance:** The crossed-out trash bin symbol explicitly informs the user that the battery and device must be recycled separately, not thrown in regular trash.
+*   **Date Clue:** The serial number segment "M0FY14" (Month 6 / June Year 2014) suggests the manufacturing date of the component or the unit itself was around June 2014, consistent with an Early 2015 model release.
+*   **Design Origin:** The "Designed by Apple in California Assembled in China" text confirms the device's global supply chain and corporate origin.
+

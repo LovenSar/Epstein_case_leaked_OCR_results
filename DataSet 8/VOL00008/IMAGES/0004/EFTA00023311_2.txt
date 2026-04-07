@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00023311.pdf ts=2026-03-15T20:14:10 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: Lyft Ride Receipt <no-reply@lyftmail.com>
+To: [REDACTED]
+Subject: Your ride with [REDACTED] on February 26
+Date: Wed, 26 Feb 2020 23:52:08 +0000
+
+![Image Icon] lyft
+
+FEBRUARY 26, 2020 AT 10:51 AM
+Thanks for riding with
+[REDACTED]
+[Large Black Box]
+
+Lyft fare (11.29mi, 39m 49s)                                      $27.59
+Tip                                                                                      $4.14
+-------------------------------------------------------------------
+![Image Icon] [REDACTED]                                        **$31.73**
+
+[Placeholder Box: Ride Map]
+
+**Pickup** 10:51 AM
+Los Angeles Int'l Airport, Los Angeles, CA
+
+**Drop-off** 11:30 AM
+[REDACTED]
+
+FAVORITE DRIVER
+TIP DRIVER
+FIND LOST ITEM
+
+EFTA00023311
+
+## Structured Fields
+- **Date:** February 26, 2020
+- **Time:** 10:51 AM (Pickup) - 11:30 AM (Drop-off)
+- **Organization:** Lyft
+- **Pickup Location:** Los Angeles Int'l Airport, Los Angeles, CA
+- **Total Amount:** $31.73
+- **Fare:** $27.59
+- **Tip:** $4.14
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+REQUEST REVIEW
+Review price in the Lyft app help tab
+
+Help Center
+
+Receipt #1376271668412774216
+We never share your address with your driver after a ride. Learn more about our commitment to safety.
+© Mapbox © OpenStreetMap Improve this map
+
+© 2020 Lyft, Inc.
+548 Market St., P.O. Box 68514
+San Francisco, CA 94104
+CPUC ID No. TCP0032513 - P
+
+Work at Lyft
+Become a Driver
+
+EFTA00023312
+
+## Structured Fields
+*   **Organization:** Lyft, Inc.
+*   **Address:** 548 Market St., P.O. Box 68514, San Francisco, CA 94104
+*   **Receipt Number:** #1376271668412774216
+*   **CPUC ID No.:** TCP0032513 - P
+*   **Document ID (Footer):** EFTA00023312
+*   **Copyright Year:** 2020
+

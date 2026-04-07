@@ -1,0 +1,148 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015935.pdf ts=2026-03-12T19:55:07 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence thread, heavily redacted to protect privacy. The document is structured vertically with three main sections: a reply email at the top, the original email thread below it, and an attachment summary footer at the bottom.
+
+The top section shows headers for a newer message dated Wednesday, November 20, 2019. The sender's name, recipient address, and carbon copy fields are obscured by black rectangles. The subject line is "RE: Deutsche Bank Production." An attachment filename is listed as `2019.11.19_DB_Submission_to_SDNY.pdf`.
+
+Below a horizontal separator line, the body of the first email appears in blue text (likely indicating an external sender or formatted mail). The text explains that a file included in a "Sharefile link" was mislabeled and provides a corrected copy. It apologizes for confusion. This section ends with "Best," followed by a redacted signature block.
+
+The next section, separated by another horizontal line, displays the headers for an older email sent on Tuesday, November 19, 2019. The sender and recipient information are blacked out. The Cc field shows a partial email address starting with `<jdi`. The subject is "Deutsche Bank Production."
+
+The body of this original message states that it represents Deutsche Bank responding to a July 11, 2019 subpoena. It mentions a link containing additional documents, a cover letter, and an updated production index. It notes a password will be sent separately. The message ends with "Regards," followed by another redacted signature block.
+
+At the very bottom, a gray box labeled "Citrix Attachments" lists three specific files: a PDF submission to NYAG, an Excel spreadsheet (Appendix A), and a PDF appendix (Appendix B). Their file sizes in KB are listed to the right. An expiration date of May 17, 2020 is visible. A document control number "EFTA00015935" is printed in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header Section:**
+- From: [Redacted]
+- To: [Redacted]
+- Cc: [Redacted]
+- Subject: RE: Deutsche Bank Production
+- Date: Wed, 20 Nov 2019 14:29:54 +0000
+- Attachments: 2019.11.19_DB_Submission_to_SDNY.pdf
+
+**Body of First Email:**
+- Following up on last night's submission, we realized that one of the files included in the Sharefile link we provided was mislabeled. The correct file was provided, but the file name was in error—a corrected copy is attached for your records. Apologies for any confusion, and please let us know if you have any questions.
+- Best,
+- [Redacted Signature]
+
+**Header of Second Email:**
+- From: [Redacted]
+- Sent: Tuesday, November 19, 2019 10:35 PM
+- To: [Redacted]
+- Cc: [Redacted <jdi...]
+- Subject: Deutsche Bank Production
+
+**Body of Second Email:**
+- On behalf of our client, Deutsche Bank, the link below contains an additional production of documents in response to your July 11, 2019 subpoena. Also attached is the accompanying cover letter for today's production, as well as an updated version of the production index we previously provided. I will send the password shortly under separate cover.
+- Please do not hesitate to reach out if you have any questions.
+- Regards,
+- [Redacted Signature]
+
+**Footer Attachments:**
+- Citrix Attachments | Expires May 17, 2020
+- 2019.11.19 DB Submission to NYAG.pdf (155.3 KB)
+- Appendix A.xlsx (229.2 KB)
+- Appendix B.pdf (174.5 KB)
+
+**Footer Corner:**
+- EFTA00015935
+
+## Notable Details / Clues
+- The correspondence involves a legal discovery process, indicated by terms like "production of documents," "subpoena," and "index."
+- The first email acts as a correction to the previous day's (Nov 19) submission regarding file labeling errors.
+- The attachment list includes a PDF specifically addressed to "NYAG" (likely New York Attorney General), suggesting a government investigation context.
+- The Citrix watermark suggests the email was accessed or forwarded through a Citrix environment or viewer.
+- The document ID `EFTA00015935` implies this screenshot is part of an evidentiary record or legal discovery file (e.g., EFT = Electronic File Transfer).
+- The redacted "From" and "To" fields suggest that the sender might be under different client guidelines than the recipient, a common practice in legal email chains.
+- The date progression shows a rapid turnaround: Original message sent late night Tuesday (10:35 PM), reply received shortly after on Wednesday morning.
+</think>
+
+## Detailed Description
+The image provided is a screenshot of an email correspondence thread displayed within a web or desktop email client interface. The layout consists of three distinct vertical sections.
+
+**Top Section:** This area displays the header information for a reply message. The fields "From:", "To:", and "Cc:" are obscured by black rectangular redaction marks. Below these fields, the subject line reads "RE: Deutsche Bank Production". The date is listed as "Wed, 20 Nov 2019 14:29:54 +0000". An attachment is listed immediately below the headers: `2019.11.19_DB_Submission_to_SDNY.pdf`.
+
+**Middle Section:** Separated from the top section by a thin horizontal rule, this area contains the body of the first (most recent) email. The text is rendered in blue, distinguishing it as new text within a thread. A black rectangle obscures the top portion of the body before the text begins. The text reads: "Following up on last night's submission, we realized that one of the files included in the Sharefile link we provided was mislabeled. The correct file was provided, but the file name was in error—a corrected copy is attached for your records. Apologies for any confusion, and please let us know if you have any questions." The email closes with "Best," followed by a large redacted signature block area.
+
+Below this first body section is another thin horizontal rule. Following that are the headers for the second (original) email. Again, the sender and recipient details are blacked out. The subject line reads "Deutsche Bank Production". The date is "Tuesday, November 19, 2019". The Cc field reveals a partial email address starting with `<jdi`.
+
+**Lower Section:** This section contains the body of the original forwarded email. A redacted block at the top obscures the signature header. The text reads: "On behalf of our client, Deutsche Bank, the link below contains an additional production of documents in response to your July 11, 2019 subpoena. Also attached is the accompanying cover letter for today's production, as well as an updated version of the production index we previously provided. I will send the password shortly under separate cover." A second paragraph follows: "Please do not hesitate to reach out if you have any questions." The sign-off is "Regards," followed by another redacted signature block.
+
+**Footer Section:** At the bottom of the page is a gray box titled "Citrix Attachments" with an expiration date of May 17, 2020. Inside this box are three file listings:
+1. `2019.11.19 DB Submission to NYAG.pdf` (155.3 KB)
+2. `Appendix A.xlsx` (229.2 KB)
+3. `Appendix B.pdf` (174.5 KB)
+
+Finally, in the bottom right corner of the white space, a document control number "EFTA00015935" is visible in gray text.
+
+## Visible Text (verbatim)
+**Top Headers:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Deutsche Bank Production
+Date: Wed, 20 Nov 2019 14:29:54 +0000
+Attachments: 2019.11.19_DB_Submission_to_SDNY.pdf
+
+**First Email Body:**
+Following up on last night's submission, we realized that one of the files included in the Sharefile link we provided was mislabeled. The correct file was provided, but the file name was in error—a corrected copy is attached for your records. Apologies for any confusion, and please let us know if you have any questions.
+Best,
+
+**Second Email Headers:**
+From: [Redacted]
+Sent: Tuesday, November 19, 2019 10:35 PM
+To: [Redacted]
+Cc: [Redacted <jdi...]
+Subject: Deutsche Bank Production
+
+**Second Email Body:**
+On behalf of our client, Deutsche Bank, the link below contains an additional production of documents in response to your July 11, 2019 subpoena. Also attached is the accompanying cover letter for today's production, as well as an updated version of the production index we previously provided. I will send the password shortly under separate cover.
+Please do not hesitate to reach out if you have any questions.
+Regards,
+
+**Citrix Attachments Footer:**
+Citrix Attachments Expires May 17, 2020
+2019.11.19 DB Submission to NYAG.pdf 155.3 KB
+Appendix A.xlsx 229.2 KB
+Appendix B.pdf 174.5 KB
+
+**Footer ID:**
+EFTA00015935
+
+## Notable Details / Clues
+- The email thread documents a legal discovery process involving Deutsche Bank and a subpoena issued on July 11, 2019.
+- The first email serves as a correction, noting a specific error in file naming within a "Sharefile link."
+- The attachment list includes an Excel spreadsheet ("Appendix A.xlsx") alongside PDFs, suggesting detailed data indexing common in litigation support.
+- One attachment is specifically addressed to "NYAG" (New York Attorney General), indicating the production is for a state government entity.
+- The document ID "EFTA00015935" suggests this screenshot is part of an organized electronic discovery file.
+- The timestamps indicate a tight turnaround, with the original email sent late at night (10:35 PM) and a reply/correction made within roughly 4 hours on the next day.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Citrix Attachments                                    Expires May 17, 2020
+
+DB-SDNY-Prod011.zip                                     287.3 MB
+
+Download Attachments
+
+[REDACTED]uses Citrix Files to share documents securely.
+
+
+[REDACTED]
+
+The information contained in this e-mail message is intended only for the personal and confidential use of the recipient(s) named above. If you have received this communication in error, please notify us immediately by e-mail, and delete the original message.
+
+
+
+EFTA00015936
+## Structured Fields
+- **Date**: May 17, 2020 (Expiration date)
+- **File ID**: DB-SDNY-Prod011.zip
+- **File Size**: 287.3 MB
+- **Organization/Service**: Citrix Files
+- **Reference Number**: EFTA00015936
+

@@ -1,0 +1,22 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002869.pdf ts=2026-03-05T23:23:28 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the interior of a black, open-server rack or audio rack system, partially populated with networking and high-fidelity audio equipment. At the very top, inside the rack frame, two large cooling fans are mounted to the overhead shelf; these feature white circular grilles and appear to be part of an Uninterruptible Power Supply (UPS) unit or a dedicated cooling assembly. Below the fans sits a white network switch or router unit labeled "FPOLE NDC." This device is heavily connected to a dense cluster of cabling. Notable among the cables are several blue fiber optic connectors plugged into the left side of the top device, while numerous Ethernet cables in yellow, white, and light blue snake downwards and across the rack face. Immediately below this network hardware is a black power distribution strip (PDU) featuring multiple standard AC power outlets and a red "SPD" indicator light. Below the PDU is a large silver-grey rack-mount chassis, possibly an audio processor or equalizer, distinguished by a long horizontal array of small vertical sliders or buttons along its front face. Underneath that sits a large, high-end amplifier or receiver with a brushed aluminum faceplate; it features a black "NAD" logo on the far left, a rectangular dark display screen in the center (currently off), and a large, prominent rotary volume knob on the right side. Beneath the NAD unit is a black power conditioning unit branded "FURMAN." This bottom-most device features two large black control knobs, a fuse access panel on the left, and text indicating it is an "Ultra Linear Power Conditioner." The rack rails are standard 19-inch black steel, showing screw holes for mounting. To the far right, the inner vertical rail of the rack structure is visible with mounting slots. The bottom of the image shows a perforated metal shelf or drawer front, partially obscuring the very bottom equipment. A watermark "EFTA00002869" is present in the bottom right corner.
+
+## Visible Text (verbatim)
+*   FPOLE NDC
+*   SPD
+*   NAD
+*   FURMAN
+*   Ultra Linear Power Conditioner
+*   EFTA00002869
+
+## Notable Details / Clues
+- **Hybrid Usage:** The rack appears to serve a dual purpose, hosting both networking gear (the top white switch and fiber optics) and high-end Hi-Fi audio equipment (the NAD amplifier and Furman power conditioner).
+- **Cabling Management:** While functional, the cabling is somewhat untidy, with cables running vertically down the front of the rack rather than being strictly organized behind panels.
+- **Power Safety:** The presence of a dedicated SPD (Surge Protection Device) strip and a Furman Ultra Linear Power Conditioner indicates a need for strict power management and surge protection, typical for sensitive audio equipment or network switches.
+- **Cooling:** The fans at the top are mounted directly to the rack frame rather than inside a specific unit, suggesting either a custom cooling solution or a large UPS battery bank requiring additional airflow.
+- **Equipment Brands:** The visible brands (NAD and Furman) are well-known in the professional audio industry, suggesting this is likely an AV integration setup for a commercial space, studio, or audiophile home theater rather than a standard IT server room.
+

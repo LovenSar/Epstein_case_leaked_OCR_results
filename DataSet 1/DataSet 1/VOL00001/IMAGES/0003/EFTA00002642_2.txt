@@ -1,0 +1,65 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002642.pdf ts=2026-03-05T21:47:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image presents a close-up, high-angle view of the interior of an electronic chassis, likely part of a telecommunications switchboard or phone system (specifically a Panasonic KX-TDA unit). The central focus is a gold-colored circuit board installed vertically, identified as a Power Supply Unit. To the immediate left is a dark, matte-black surface with a silver vertical tab and a white "RESET" label at the bottom. To the right are adjacent gold-colored modules containing various interface ports and status indicators.
+
+The central power supply card features a large, printed specification sticker. It includes input/output voltage ratings (ranging from 100-240V input), serial number barcodes, certification logos (UL, SAA, CSA), and multilingual safety warnings about grounding. Below the sticker, the physical controls are located: a black rocker power switch labeled "- POWER" on the left and a standard IEC C14 AC power inlet socket on the right. Above the sticker is a small green LED indicator light and a screw head labeled "GROUND." The bottom of the card shows mounting brackets with metallic fingers (labeled "YC") designed to press against contacts in the chassis backplane.
+
+To the right of the power supply card, a vertical metal shield or spacer separates the PSU from the next module. This area has a white warning label reading "THIS SLOT NOT USED" and a cautionary note about covering unused slots with blank covers to prevent electromagnetic interference (EMI). Further right is a populated module labeled "PRI 23" at the top and "LCOT8" near the top edge. This module features an RJ45-style Ethernet port labeled "LINE" and a larger, black rectangular interface connector below it. The bottom edge of these modules reveals green circuit traces and several mounting screws securing the card to the chassis rails.
+
+## Visible Text (verbatim)
+
+**Main Label (Center Left):**
+- PSU-M (Top left corner of card)
+- Panasonic
+- Model No. PSLP1433
+- Power Supply Unit
+- INPUT | 100-130V/200-240V~ | 2.5A/1.4A | 50/60Hz
+- OUTPUT | +40V == 2.4 A | +15V == 3.2A
+- | +30V == 0.73A | +15VPT == 3.84A
+- | +40V == 0.4A (BATTERY)
+- | 140.4W/156W
+- C US E190503 (UL Logo)
+- [Symbol] (SAA Logo)
+- [CSA Mark] S (CSA Logo) 189922
+- KSc
+- SERIAL NO.
+- KX-TDA0104
+- 9LCCD005398
+- Distributed by Panasonic Consumer Electronics Company, Division of Panasonic Corporation of North America, Secaucus, NJ 07094 Made in Thailand
+- Laite on liitettävä suojamaadoituskoskettimilla varustettuun pistorasiaan. (Finnish grounding warning)
+- Apparatet må tilkoples jordat stikkontakt. (Swedish grounding warning)
+- Apparaten skall anslutas till jordat uttag. (Swedish grounding warning)
+
+**Side Warning Label:**
+- THIS SLOT NOT USED
+- CAUTION: Be sure to cover each slot in which no optional service card is installed by using a Blank Slot Cover. Failure to install the Blank Slot Cover may cause electromagnetic interference.
+- TDE200-C2A
+
+**Top Edge Labels:**
+- PRI 23 | CARD STATUS | •SYNC-ERR | •RAI | •AIS | •SYNC | •D-LINK
+- LCOT8 | CARD STATUS
+
+**Right Side Labels:**
+- LINE (next to RJ45 port)
+- PFT (next to large connector)
+- LINE (below the large connector)
+- YC (Bottom mounting bracket label)
+
+**Bottom Right Watermark/ID:**
+- EFTA00002642
+
+## Notable Details / Clues
+
+*   **Model Identification:** The serial number "KX-TDA0104" confirms this is a Panasonic KX-TDA 104 digital PBX (Private Branch Exchange) system.
+*   **Power Specifications:** The label indicates a dual-output power supply supporting 156W, which suggests it powers multiple expansion cards or line interface modules typical of these large phone systems.
+*   **"Made in Thailand":** This indicates the manufacturing origin of the specific unit, common for Panasonic electronic components distributed globally.
+*   **EMI Shielding:** The "THIS SLOT NOT USED" label and the corresponding caution text highlight a specific engineering requirement: unused slots in a rack-mounted system must be covered with metal blanking plates to shield sensitive electronics from electromagnetic interference radiating from other active modules.
+*   **Grounding Warnings:** The multilingual warnings (Finnish, Swedish) suggest the device is intended for export to or distribution within Nordic countries like Finland or Sweden.
+*   **Mounting Mechanism:** The cards use a standard half-height mounting system with thumbscrews at the bottom (labeled YC), allowing them to be pulled out of the chassis rails easily for maintenance.
+*   **Interface Variety:** The presence of an RJ45 "LINE" port and a larger DB-style connector on the right suggests connectivity options for external monitoring or connection to specific Panasonic line cards (like the LCOT mentioned in the top label).
+*   **Status Indicators:** While faint, small LED indicators are visible near the status headers (CARD STATUS), which would flash different colors (Green/Red) to indicate if a card is operational or has an error.
+

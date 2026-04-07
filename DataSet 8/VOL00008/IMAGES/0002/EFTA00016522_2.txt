@@ -1,0 +1,172 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016522.pdf ts=2026-03-13T00:02:44 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+User: AJUSTICE                              PALM BEACH POLICE DEPARTMENT                           08/11/2020
+
+FLORIDA CITATION REPORT
+
+Citation #: 010398P                                                  Related Case #:
+
+Court Information
+Court: Criminal Justice Complex                                           Date/Time:
+3228 GUN CLUB ROAD
+
+Violator
+Name: Maxwell, Ghislaine                              Race: W     Sex: F      DOB: [REDACTED]          Age: 34
+Address: [REDACTED]                                                                             Phone #: [REDACTED]
+PALM BEACH, FL 00003-3480
+DL #/State: [REDACTED]    UK
+Employer:
+
+Vehicle Information
+Lic. Plate #/State: RAS85L FL                               Lic. Year: 0                       Vehicle Type: AUTOMOBILE
+Veh. Year: 1986                                             Make: MERZ                        Model:
+
+Citation Information
+Citation Date: January 13, 1996, Saturday             Time: 15:10
+Issued On:
+Issued By: (999000)                                          Agency: PBPD                    District:
+Location: [REDACTED], PALM BEACH                         Unlawful Speed:                 Applicable Speed: 0                BAC:
+Charge: TC037 DRIVER LICENSE NOT CARRIED
+
+Officer Notes
+HTE Case Reference #: (196000000).
+Issued By: (0280650)
+Entered By: (0279290)
+Search Information: SHIFT 2
+HTE Ordinance #: 322.15
+
+r_citaff                                                                    EFTA00016522
+
+## Structured Fields
+- **Date:** 08/11/2020 (Header), January 13, 1996 (Citation Date)
+- **Citation #:** 010398P
+- **Name:** Maxwell, Ghislaine
+- **Age:** 34
+- **Race:** W
+- **Sex:** F
+- **Vehicle Plate:** RAS85L FL
+- **Vehicle Year:** 1986
+- **Vehicle Make:** MERZ
+- **Charge:** TC037 DRIVER LICENSE NOT CARRIED
+- **Agency:** PBPD (Palm Beach Police Department)
+- **Case Reference:** 196000000
+- **Location:** Palm Beach, FL
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+User: AJUSTICE PALM BEACH POLICE DEPARTMENT 08/11/2020
+
+FLORIDA CITATION REPORT
+
+Citation #: 45195 Related Case #:
+
+Court Information
+Court: Criminal Justice Complex Date/Time:
+3228 GUN CLUB ROAD
+
+Violator
+Name: Maxwell, Ghislaine Race: W Sex: F DOB: Age: 34
+Address: PALM BEACH, FL 00003-3480 Phone #:
+DL #/State: UK Employer:
+
+Vehicle Information
+Lic. Plate #/State: RAG85Z FL Lic. Year: 0 Vehicle Type: AUTOMOBILE
+Veh. Year: 1986 Make: MERC Model:
+
+Citation Information
+Citation Date: January 13, 1996, Saturday Time: 15:10
+Issued On: Issued By: (999000) Agency: PBPD District:
+Location: PALM BEACH Unlawful Speed: Applicable Speed: 0 BAC:
+Charge: TC004 WRITTEN WARNING TRAFFIC
+
+Officer Notes
+HTE Case Reference #: (196000000).
+Issued By: (0280650)
+Search Information: SHIFT 2
+HTE Ordinance #: PASSING DOUBLE YELLOW
+
+Citation Intersection: COCOANUT ROW PALM BEACH, FL 000033480
+
+r_citatl
+EFTA00016523
+
+## Structured Fields
+- **Date:** 08/11/2020 (Report Generation), January 13, 1996 (Citation Date)
+- **Time:** 15:10
+- **Citation Number:** 45195
+- **Case Reference ID:** HTE Case Reference # (196000000)
+- **Name:** Maxwell, Ghislaine
+- **Location/Court:** Criminal Justice Complex, 3228 GUN CLUB ROAD; COCOANUT ROW PALM BEACH, FL 000033480
+- **Agency:** PBPD (Palm Beach Police Department)
+- **License Plate:** RAG85Z FL
+- **Vehicle Year/Make:** 1986 MERC
+- **Charge:** TC004 WRITTEN WARNING TRAFFIC
+- **Officer Badge/Issued By ID:** (0280650)
+- **Search Information:** SHIFT 2
+- **Ordinance:** PASSING DOUBLE YELLOW
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+User: AJJUSTICE
+Palm Beach Police Department
+08/11/2020
+FLORIDA CITATION REPORT
+48058
+[REDACTED]
+Citation #: 48058
+Related Case #: [REDACTED]
+Court Information
+Court: Criminal Justice Complex
+3228 GUN CLUB ROAD
+Date/Time: [REDACTED]
+Violator
+Name: Maxwell, Ghislaine
+Address: [REDACTED]
+DL #/State: [REDACTED] UK
+Employer: [REDACTED]
+Race: W
+Sex: F
+DOB: [REDACTED]
+Phone #: [REDACTED]
+Age: 34
+Vehicle Information
+Lic. Plate #/State: RAS85L FL
+Veh. Year: 1986
+Make: MERC
+Model: [REDACTED]
+Lic. Year: 0
+Vehicle Type: AUTOMOBILE
+Citation Information
+Citation Date: August 10, 1996, Saturday
+Issued On: [REDACTED]
+Issued By: (999000)
+Location: ROYAL PALM WY, PALM BEACH
+Unlawful Speed: [REDACTED]
+Applicable Speed: 0
+Charge: TC004 WRITTEN WARNING TRAFFIC
+Time: 05:05
+Agency: PBPD
+District: [REDACTED]
+BAC: [REDACTED]
+Officer Notes
+HTE Case Reference #: (196000000).
+Issued By: (0273160)
+Entered By: (0279360)
+Search Information: SHIFT 2
+HTE Ordinance #: NO LEFT TURN
+Citation Intersection: S COUNTY RD PALM BEACH, FL 000033480
+r_citafl
+EFTA00016524
+
+## Structured Fields
+*   **Date:** 08/11/2020 (Header Date), August 10, 1996 (Citation Date)
+*   **Case ID/Citation #:** 48058
+*   **Court:** Criminal Justice Complex, 3228 Gun Club Road
+*   **Agency:** PBPD (Palm Beach Police Department)
+*   **Violator Name:** Maxwell, Ghislaine
+*   **Location:** Royal Palm Wy, Palm Beach / S County Rd, Palm Beach FL 000033480
+*   **Charge:** TC004 Written Warning Traffic
+*   **Vehicle:** Merc Automobile (1986), Plate RAS85L FL
+

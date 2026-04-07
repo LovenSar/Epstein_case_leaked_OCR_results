@@ -1,0 +1,506 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731556.pdf ts=2026-03-06T16:59:10 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image displays a digitally reproduced document page that is heavily redacted using solid black blocks to obscure sensitive information.
+*   In the upper right quadrant, there is a date range printed in small sans-serif font reading "September 4 - September 30, 2012".
+*   Directly beneath the date range is a medium-sized horizontal black rectangle obscuring text that would likely contain header information or account titles.
+*   Below that first redaction block, the text "CITIGOLD SERVICES" is visible in small, capitalized letters, identifying the financial institution.
+*   Immediately below the "CITIGOLD SERVICES" text is a second medium-sized horizontal black rectangle.
+*   To the right of the main date header, the text "Page 1 of 6" is visible, indicating this is part of a multi-page statement or report.
+*   Further to the top right corner, near the edge, there is a small, isolated black square obscuring a piece of information.
+*   In the upper left area of the page, separated from the right-hand column of redactions, is a single medium-sized horizontal black rectangle floating in open white space.
+*   Dominating the lower half of the entire document is a very large, wide black rectangle that spans almost the full width of the paper.
+*   This massive redaction block likely covers critical financial data such as loan balances, interest charges, or payment history tables.
+*   In the absolute bottom right corner of the white margin, there is a distinct alphanumeric code printed in grey/black text.
+
+## Visible Text (verbatim)
+*   September 4 - September 30, 2012
+*   Page 1 of 6
+*   CITIGOLD SERVICES
+*   EFTA02731556
+
+## Notable Details / Clues
+*   **Document Type:** The text "CITIGOLD SERVICES" combined with the EFTA code (Electronic Funds Transfer Act) strongly suggests this is a statement from Citibank, likely a mortgage servicer statement or a credit card billing cycle.
+*   **Timeframe:** The date range covers exactly one week (September 4th to September 30th), which is typical for partial month statements generated for delinquent accounts or specific reporting periods.
+*   **Redaction Pattern:** The redactions are systematic. Small boxes at the top likely cover account numbers, names, or addresses. The large block at the bottom obscures the actual transactional data and final balance calculations.
+*   **Regulatory Context:** The presence of an EFTA code (EFTA02731556) indicates this document is subject to U.S. banking regulations regarding electronic funds transfers, often found on credit card monthly statements or ATM withdrawal slips.
+*   **Privacy Masking:** The use of solid black blocks rather than whiteouts suggests this is a redacted copy intended for release while maintaining privacy (possibly for public disclosure in a lawsuit or regulatory filing).
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a heavily redacted financial document, likely a bank statement or electronic funds transfer (EFT) deposit slip. The document is dominated by two large, solid black rectangular blocks that obscure the header information at the top and the footer/remaining transaction history at the bottom.
+
+In the center of the document, separated between the two black blocks, is a narrow horizontal strip containing specific banking data. This visible section lists two line items. On the far left edge, adjacent to the first line item but partially obscured by the redaction border, the word "Checking" is faintly visible, indicating the account type.
+
+The top right corner contains document metadata indicating the date range of the report (September 4 - September 30, 2012) and the page number (Page 2 of 6). A specific transaction ID code is visible in the bottom right corner. The visible text within the central strip details an opening balance dated 09/04/12 and a subsequent incoming wire transfer dated 09/05/12 for a significant amount.
+
+## Visible Text (verbatim)
+- **Top Right:** September 4 - September 30, 2012
+- **Top Right:** Page 2 of 6
+- **Left Edge Strip:** Checking
+- **Row 1 Date:** 09/04/12
+- **Row 1 Description:** Opening Balance
+- **Row 2 Date:** 09/05/12
+- **Row 2 Description:** Incoming Wire Transfer
+- **Row 2 Details:** WIRE FROM LEON D BLACK
+- **Row 2 Amount:** 60,000.00
+- **Bottom Right ID:** EFTA02731557
+
+## Notable Details / Clues
+- **Large Transaction:** The visible transaction is for $60,000.00, suggesting a substantial transfer or new funding of an account.
+- **Wire Transfer Source:** The money is explicitly described as coming "FROM LEON D BLACK".
+- **Document Continuity:** Being "Page 2 of 6" implies this is part of a larger multi-page statement, likely generated by an online banking portal rather than a physical paper statement.
+- **Opening Balance Entry:** There is a line for "Opening Balance" on 09/04/12. In many banking systems, if an account starts with zero money (like a checking account opened fresh), the opening balance is listed as 0.00, though the digits are not clearly legible here due to resolution.
+- **Date Discrepancy/Causality:** The "Opening Balance" is dated Sept 4th, but the large deposit ("Incoming Wire Transfer") happens on Sept 5th. This suggests the account was open on the 4th (perhaps with a zero balance) before the funds arrived.
+- **Redaction Level:** The aggressive redaction obscures critical identifying information such as the bank name, account holder's name, address, and previous transaction history, which is typical for privacy-protected documents released publicly or to auditors.
+- **EFT Reference:** The code "EFTA02731557" at the bottom right follows a standard format for Electronic Funds Transfer Agreement IDs used by banks (often starting with EFTA).
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document that appears to be heavily redacted, featuring a large, solid black rectangular area dominating the central and lower portions of the page. At the very top right, there is metadata indicating the date range covered by the document content is "September 4 - September 30, 2012," which is partially obscured by a thick black horizontal bar directly beneath it. To the immediate right of the date header is a small black square obscuring another element, followed by text reading "Page 3 of 6." On the far left edge, a grey horizontal strip spans nearly the width of the page, containing the faint words "Checking" on the left and "Continued" towards the center, suggesting this is a continuing section of a financial account statement. At the bottom right corner, a specific identification number, "EFTA02731558," is printed in small black text against the white background. The rest of the page is blank white space surrounding these elements and the massive blacked-out section.
+
+## Visible Text (verbatim)
+- September 4 - September 30, 2012
+- Page 3 of 6
+- Checking
+- Continued
+- EFTA02731558
+
+## Notable Details / Clues
+- **Heavy Redaction:** The primary content of the document is covered by a large, opaque black rectangle, rendering the central data completely illegible.
+- **Account Type:** The word "Checking" in the grey header bar indicates that the underlying data pertains to a checking account transaction history or balance.
+- **Document Status:** The word "Continued" implies this page is not the first in a sequence, suggesting previous pages exist (likely covering dates prior to September 4).
+- **Date Range:** The visible date range at the top suggests the document captures nearly a full month of activity in late September 2012.
+- **Page Numbering:** The text "Page 3 of 6" indicates this is part of a multi-page report or statement, placing it near the middle of the total document set.
+- **Official Identification:** The alphanumeric code "EFTA02731558" in the footer is characteristic of leaked documents related to the Early Terminated Foreclosure Act (EFTA) scandal or similar government releases.
+- **Header Layout:** The text elements are right-aligned and top-right aligned, typical of spreadsheet exports or financial reporting software headers.
+- **Redacted Header:** The black bar under the date suggests that a title, logo, or specific account name was intentionally hidden from public view.
+- **Grey Tab Style:** The grey strip at the top mimics the look of a tabbed browser interface or a section header in a spreadsheet program like Microsoft Excel.
+- **Date Specificity:** The document is specifically for the week of September 4th through the 30th, which may correspond to a specific weekly reporting period.
+- **Visual Noise:** Aside from the redaction bars, there is no background noise or watermark visible in the white spaces.
+- **Spatial Arrangement:** The blacked-out area is centrally placed but extends fully vertically, obscuring what would typically be column headers and row data in a financial table.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a digital document screenshot that appears to be heavily redacted, obscuring the majority of its content with a solid black rectangle. The layout suggests a spreadsheet interface, likely from an application like Microsoft Excel or Google Sheets, displaying a financial record. At the very top center, the text "September 4 - September 30, 2012" is visible, indicating the time period covered by the document section below. To the right of the date, near the top edge, the pagination "Page 4 of 6" is printed in a small font. Above this pagination and date text are black rectangular bars, presumably covering sensitive header information like a bank logo or account title. Spanning the width just below the top margin is a grey, textured horizontal bar that resembles a tab row in a spreadsheet application; within this grey area on the left side, the words "Checking" and "Continued" are faintly visible in dark text. The central and largest portion of the image is dominated by a massive black void that covers the body of the table or data rows, preventing any view of transaction details, numbers, or column headers other than what might be hinted at in the grey tab area. Below the main content area, separated by white space, is an alphanumeric identification code located in the bottom right corner.
+
+## Visible Text (verbatim)
+- September 4 - September 30, 2012
+- Page 4 of 6
+- Checking
+- Continued
+- EFTA02731559
+
+## Notable Details / Clues
+- **Document Type:** The words "Checking" and "Continued" strongly suggest this is a bank statement or financial ledger, specifically focusing on checking account transactions.
+- **Redaction Pattern:** The content is intentionally hidden by black bars. There are distinct redaction boxes at the top (covering header info) and one massive box covering the data rows. This pattern is typical of documents released by government agencies (like the CIA or FBI) where sensitive financial data has been scrubbed but the document structure remains.
+- **Date Range:** The specific dates "September 4 - September 30, 2012" define a nearly full month of transactions for this entry.
+- **Pagination:** Being "Page 4 of 6" implies this is an excerpt from a longer statement or report, likely a multi-page PDF or document export.
+- **Identifier Code:** The string "EFTA02731559" in the bottom right corner is a classic redaction stamp number used by US intelligence agencies to track declassified documents that still contain certain levels of sensitivity.
+- **Interface Elements:** The grey bar at the top with tabs labeled "Checking" and "Continued" mimics the visual style of an Excel window where users can click between different sheets (tabs).
+- **Missing Information:** The black bars completely obscure specific account numbers, transaction dates within the month, merchant names, amounts, and ending balances.
+- **Resolution/Quality:** The image is high contrast with sharp text, suggesting it was digitized from a scanned paper document or a screen capture of a high-resolution display.
+- **Layout Structure:** Despite the blackouts, the alignment suggests a standard tabular format where columns would typically align vertically (Date, Description, Debit, Credit).
+- **Visual Hierarchy:** The header information (date and page number) remains visible, prioritizing document metadata over the sensitive content which has been fully blacked out.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a stark, high-contrast digital document set against a plain white background. The dominant feature is a massive, solid black rectangle occupying the central and lower portion of the frame, effectively obliterating the main body of whatever content was originally there. Above this void is a thin, textured gray horizontal bar spanning nearly the entire width of the upper section; on the far left of this bar, the word "Savings" is faintly visible in small text. In the upper right quadrant, there is a cluster of header information and redaction marks. Specifically, the date range "September 4 - September 30, 2012" is printed in gray text just above a smaller black rectangular block that obscures underlying content. To the right of the date, the page count "Page 5 of 6" is clearly legible. Further to the right edge, another solid black box covers a section of the header, likely hiding a logo or account title. At the very bottom right corner, isolated from the main redacted area, is an alphanumeric identification code printed in black. The overall appearance suggests a redacted screenshot or scan of a financial statement or bank report where sensitive data has been intentionally blacked out.
+
+## Visible Text (verbatim)
+*   **Savings** (located inside the gray header bar at the top left)
+*   **September 4 - September 30, 2012** (located in the upper area, partially near redaction blocks)
+*   **Page 5 of 6** (located in the upper right area)
+*   **EFTA02731560** (located at the bottom right corner)
+
+## Notable Details / Clues
+*   **Contextual Inference:** The presence of the word "Savings" combined with a date range and page count strongly implies this is a snapshot from an online banking portal or a printed bank statement.
+*   **Redaction Methodology:** The document uses two methods of obscuring information: gray bars (likely indicating section headers or less sensitive info) and solid black blocks (indicating highly sensitive information like account numbers, balances, or transaction details).
+*   **File Identifier:** The code "EFTA02731560" at the bottom right suggests an Electronic Filing Transaction Agreement number, often associated with IRS tax forms or financial regulatory filings.
+*   **Date Specificity:** The specific date range (September 4-30, 2012) indicates this is historical data from a decade ago, likely an archived record.
+*   **Pagination:** The text "Page 5 of 6" indicates this is near the end of a short document, which might suggest a simplified statement or a specific report type rather than a full transaction history.
+*   **Visual Layout:** The layout mimics a standard spreadsheet or web interface design typical of financial software from the early 2010s (e.g., MS Money, Quicken, or legacy banking sites).
+*   **Text Legibility:** The header text ("Savings") appears to be inside a distinct tab or selection box, common in dropdown menu interfaces.
+*   **Date Formatting:** The date uses "Month Day - Month Day, Year" format, typical for US financial reports.
+*   **OCR Quality:** The text is relatively crisp despite the heavy blacking out, suggesting a high-quality scan or direct screenshot.
+*   **Absence of Data:** Apart from the headers and page ID, no numerical values (dollar amounts) or account numbers are visible, confirming total redaction of financial figures.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image displays a digital document with a stark white background that has been heavily redacted using solid black bars.
+*   In the upper-left quadrant, there is a medium-sized horizontal black rectangle obscuring text or an image.
+*   Just to the left of the vertical center line and slightly lower than the other top elements is another medium-sized black rectangular block.
+*   In the upper-right corner, there is a small, compact black square or short rectangle positioned at the very edge.
+*   Directly below the top-right edge, text reads "April 1 - April 30, 2013" sitting immediately above a long horizontal black bar.
+*   To the immediate right of the date bar, the pagination marker "Page 1 of 6" is visible in small grey font.
+*   Below the date and page number cluster, the text "CITIGOLD SERVICES" appears in uppercase sans-serif font.
+*   Beneath the "CITIGOLD SERVICES" text is another long horizontal black bar, similar in length to the one above it but obscuring different content.
+*   Dominating the lower half of the document is a massive, landscape-oriented black rectangle that spans nearly the entire width of the page.
+*   This large bottom redaction completely hides the main body of the document, likely containing financial figures, account details, or transaction histories.
+
+## Visible Text (verbatim)
+*   April 1 - April 30, 2013
+*   Page 1 of 6
+*   CITIGOLD SERVICES
+*   EFTA02731561
+
+## Notable Details / Clues
+*   **Document Identity:** The text "CITIGOLD SERVICES" indicates this is likely a statement or transaction record from Citibank's premium banking tier, now discontinued.
+*   **Timeframe:** The date range "April 1 - April 30, 2013" confirms the document covers an entire month in the past decade.
+*   **Redaction Pattern:** The redactions are uniform and solid black, typical of automated privacy filters used in public court filings or released documents to hide sensitive PII (Personally Identifiable Information).
+*   **Case ID:** The alphanumeric string "EFTA02731561" at the bottom right appears to be a specific filing reference number, likely related to an Electronic Fund Transfer Act dispute or similar legal case.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- **Document Layout:** The image depicts a digital document, likely a financial statement or bank transaction record, which has been heavily redacted for privacy or security purposes.
+- **Top Header Region:** Located in the upper right quadrant are two distinct pieces of text. The left piece indicates a specific time frame ("April 1 - April 30, 2013"), while the right piece identifies the pagination ("Page 2 of 6"). Above these texts is a small, rectangular black bar obscuring a likely header or logo.
+- **Central Redaction Block:** A massive, solid black rectangle dominates the upper-middle section of the page, spanning nearly the entire width and height of the content area below the header. This block covers what would typically be account information, summaries, or lists of transactions.
+- **Middle Separator Strip:** Nestled between the upper black rectangle and the lower black rectangle is a thin, horizontal strip with a textured gray appearance. On the far left edge of this strip, the word "Checking" is faintly visible in dark text.
+- **Bottom Redaction Block:** Below the gray separator is another large, solid black rectangle that occupies the majority of the lower half of the document, further obscuring any remaining data such as totals or footer information.
+- **Footer Identifier:** In the bottom right corner, outside the main white content area but within the image frame, is a string of alphanumeric characters serving as an identification code for the document.
+- **Background:** The underlying background appears to be standard white paper, typical of printed financial statements.
+
+## Visible Text (verbatim)
+- April 1 - April 30, 2013
+- Page 2 of 6
+- Checking
+- EFTA02731562
+
+## Notable Details / Clues
+- **Date Range:** The dates "April 1 - April 30, 2013" establish the specific monthly reporting period for this statement.
+- **Pagination:** "Page 2 of 6" indicates that this is a multi-page document set, suggesting a comprehensive account history.
+- **Account Type:** The fragment "Checking" confirms that the document pertains specifically to a checking account, likely within a larger portfolio or bank statement package.
+- **Redaction Extent:** The redactions are extremely heavy; only the header metadata and a single category label ("Checking") are visible, implying all sensitive data (balances, transaction details, routing numbers) has been blacked out.
+- **Document ID:** The code "EFTA02731562" follows a format often used in Electronic Funds Transfer Act documentation or internal bank transaction tracking systems.
+- **Orientation:** The text is horizontal and upright, suggesting a standard landscape orientation document that was scanned or photographed flat.
+- **Gray Strip Texture:** The gray strip containing the word "Checking" appears to have a slightly different texture or lighting than the surrounding white background, possibly indicating a header row in a table layout or a distinct tab element.
+- **Missing Context:** Without the visible data sections obscured by black bars, it is impossible to determine the specific bank, account holder name, or final account balance.
+- **Privacy Measures:** The presence of these heavy black bars suggests the document was prepared for public release (e.g., court proceedings, regulatory investigation) where sensitive financial privacy must be protected.
+- **Timeframe Specificity:** The date is precise to the day, narrowing the scope of the financial data reviewed or reported to exactly one month in 2013.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital scan or photocopy of a financial document, specifically appearing to be a checking account statement or ledger page. The layout is horizontal with significant portions of the content obscured by heavy black rectangular bars, indicating redaction for privacy or security purposes. At the top right corner, the text indicates a date range of "April 1 - April 30, 2013" and identifies the document as "Page 3 of 6." Below this header area is a gray horizontal bar containing the labels "Checking" and "Continued" on the far left. The majority of the central page area is covered by two massive black rectangles—one spanning almost the entire width below the gray bar and another covering the bottom section. Separating these black areas is a narrow white strip that reveals a single line of transaction data. This visible strip shows an entry dated 04/04/13 labeled as an "Incoming Wire Transfer" with a description starting with "WIRE FROM LEON D BLAC..." and an amount of "15,000.00" aligned to the right margin. At the very bottom right corner, outside the main document area, is a reference code or tracking number.
+
+## Visible Text (verbatim)
+*   April 1 - April 30, 2013
+*   Page 3 of 6
+*   Checking
+*   Continued
+*   04/04/13
+*   Incoming Wire Transfer
+*   WIRE FROM LEON D BLAC
+*   15,000.00
+*   EFTA02731563
+
+## Notable Details / Clues
+*   **Redaction Strategy:** The document has been heavily edited with black bars, likely to protect account numbers, balances, or other sensitive transaction details while leaving one specific incoming wire transfer visible.
+*   **Transaction Amount:** The visible transaction is for exactly 15,000.00 dollars (or equivalent currency), suggesting a significant financial movement rather than typical daily spending.
+*   **Source Name:** The transaction originates from "LEON D BLAC...", which likely refers to a person named Leon D Black or similar surname starting with Black.
+*   **Date Alignment:** The visible transaction date (04/04/13) falls squarely within the stated reporting period of April 1 - April 30, 2013.
+*   **Document Continuity:** The header text "Continued" suggests that this page is part of a longer sequence, likely showing transactions that spill over from a previous page or continue onto a subsequent one not fully shown here.
+*   **Reference ID:** The string "EFTA02731563" at the bottom right appears to be an EFT (Electronic Funds Transfer) case number or a unique identifier for the record in a legal or banking database.
+*   **Formatting Artifacts:** There is a slight white line or border separating the visible transaction row from the black overlay, suggesting this might be a screenshot from software where data is being masked.
+*   **Currency Format:** The amount uses standard accounting formatting with a decimal point and two places (00).
+*   **Page Numbering:** Being "Page 3 of 6" indicates this is the middle third of the full statement, implying a substantial number of transactions occurred during that month.
+*   **Missing Header Info:** Specific account numbers, current balances, or fee information are completely obscured by the top black bar.
+*   **Transaction Direction:** The text "Incoming Wire Transfer" clearly distinguishes this entry as a deposit rather than a withdrawal or check payment.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document that has been heavily redacted or obscured. The vast majority of the visual field, occupying roughly the bottom 85% of the frame, is a solid, opaque black rectangle, indicating missing data or intentional concealment. Above this black mass is a narrow, horizontal strip with a textured grey background. Within this strip, small white text is visible on the far left reading "Checking" followed immediately by "Continued", suggesting a column header in a spreadsheet or financial report.
+
+Above this grey header strip, in the upper right quadrant of the white page area, there are two lines of metadata. The first line reads "April 1 - April 30, 2013", indicating a specific date range for the data that is presumably contained within the redacted section below. To the right of this date is the text "Page 4 of 6". Above these texts are solid black rectangular blocks used to redact other information. In the bottom right corner of the entire image, distinct from the document content, is a small alphanumeric code in black text against the white background.
+
+## Visible Text (verbatim)
+*   **Header Strip:** "Checking Continued"
+*   **Date Range:** "April 1 - April 30, 2013"
+*   **Page Number:** "Page 4 of 6"
+*   **Document ID/Stamp:** "EFTA02731564"
+
+## Notable Details / Clues
+- **Redaction Status:** The content corresponding to the date range April 1 - April 30, 2013 is entirely obscured by a black box, rendering the financial or data details unreadable.
+- **Document Continuity:** The phrase "Checking Continued" suggests this document is part of a larger series or table that has been scrolling horizontally or split across multiple pages/panels.
+- **Pagination:** The text "Page 4 of 6" indicates this is an intermediate page in a multi-page PDF or printed report, suggesting a longer total document exists.
+- **Document Classification:** The alphanumeric string "EFTA02731564" in the corner resembles a Bates number or an internal tracking ID often found in legal discovery documents, government reports, or official archives (specifically EFTA suggests Economic Free Trade Agreement related documentation).
+- **Interface Elements:** The "Checking Continued" header strongly implies this is a screenshot from spreadsheet software like Microsoft Excel or Google Sheets, likely printed to PDF.
+- **Date Range Context:** The specific date range covers the entire month of April in 2013, implying a monthly summary or statement was redacted.
+- **Visual Noise/Texture:** The grey strip containing "Checking Continued" has a distinct horizontal line pattern, typical of screen captures from older monitors or low-resolution printouts.
+- **Layout Structure:** The document follows a standard header/footer layout common in official reports, with metadata (dates, page numbers) separated from the main content body.
+- **Missing Information:** Due to the large black box, no account balances, transaction lists, or signatures can be identified.
+- **Text Alignment:** The text "April 1 - April 30, 2013" and "Page 4 of 6" appear slightly misaligned or floating, typical of OCR errors or poorly generated PDF headers.
+
+## Page 10 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image displays a digital document background that is stark white in color.
+*   Dominating the lower half of the frame is a massive, wide horizontal black rectangle that obscures the majority of the content below it.
+*   This large redaction box spans nearly 90% of the document width and sits roughly halfway down the vertical axis.
+*   In the upper section, there are several smaller, isolated black rectangular bars used to redact specific pieces of information.
+*   One small horizontal bar is positioned in the middle-left area, floating independently in white space.
+*   Another group of two stacked horizontal bars appears in the upper-right quadrant.
+*   A third, smaller rectangular bar is located near the very top right edge of the page.
+*   All redaction bars are solid black with sharp, rectangular edges, indicating digital censorship or masking rather than physical crossing out.
+
+## Visible Text (verbatim)
+*   **Top Right (above upper bar):** "July 1 - July 31, 2013"
+*   **Right Side (upper right):** "Page 1 of 10"
+*   **Above the wider upper-right bar:** "CITIGOLD SERVICES"
+*   **Bottom Right Corner:** "EFTA02731565"
+
+## Notable Details / Clues
+*   The date range "July 1 - July 31, 2013" strongly suggests this document is a monthly financial statement or transaction record.
+*   The text "CITIGOLD SERVICES" identifies the financial institution or brokerage firm involved in the account.
+*   The identifier "EFTA02731565" at the bottom right appears to be an Electronic Funds Transfer Application reference number or a docket number for a legal filing.
+*   The page marker "Page 1 of 10" indicates this is part of a larger, multi-page document submission.
+*   The layout suggests standard banking software formatting where account details are at the top and transaction history follows in a table format (which is largely redacted).
+*   The placement of the date usually aligns with a header block for a statement period.
+*   The "CITIGOLD" branding points specifically to an investment account managed by Citibank or a related entity.
+*   The large black box at the bottom likely covers a detailed table containing specific transaction dates, amounts, and payee names which are typically sensitive.
+*   The smaller redaction boxes in the header area likely hide specific account numbers, customer names, or interest rates.
+*   The file ID at the bottom suggests this document has been indexed by a legal database or government entity (EFTA often stands for Electronic Funds Transfer Act context).
+*   The high contrast of the black bars against the white paper implies this is a scan or a PDF export from a computer system, likely submitted for public record with privacy filters applied.
+
+## Page 11 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document page that has been heavily redacted with solid black bars, obscuring most of the underlying content. The layout suggests a structured report or financial statement, likely from a spreadsheet application given the grid-like appearance of the header area. At the top center, above a large black rectangle, is a date range indicator. To the right of this, near the top edge, is text indicating the page number within a larger document sequence. Adjacent to the page number is a smaller blacked-out box. Dominating the upper portion of the page is a massive, wide horizontal black rectangle that spans nearly the entire width of the content area. Separating this upper section from the lower section is a thin, light gray horizontal band. On the far left edge of this gray band, a faint label is visible. Below this gray separator lies another large black rectangular area that occupies the bottom half of the document's main body. In the absolute bottom right corner of the white background, there is a distinct alphanumeric code printed in a standard sans-serif font.
+
+## Visible Text (verbatim)
+*   July 1 - July 31, 2013
+*   Page 2 of 10
+*   Checking
+*   EFTA02731566
+
+## Notable Details / Clues
+*   **Date Range:** The text "July 1 - July 31, 2013" indicates that the document covers a specific one-month period.
+*   **Page Numbering:** "Page 2 of 10" suggests this is part of a multi-page report or statement, and we are viewing the early section.
+*   **Account Type:** The label "Checking" within the gray strip implies this document relates to a bank account or financial transaction record.
+*   **Redaction Level:** The extensive use of black bars (covering roughly 80-90% of the visual area) indicates highly sensitive information has been redacted, typical of public records under FOIA requests, legal depositions, or privacy-redacted data sets.
+*   **Document ID:** The code "EFTA02731566" at the bottom right likely serves as a unique identifier for the document within a specific agency's database (possibly related to EFTA - European Free Trade Association, though context is limited).
+*   **Visual Artifacts:** There are faint gray lines visible within the black bars, suggesting they were digitally stamped over existing text or data in a software application.
+*   **Color Palette:** The image is primarily monochromatic, utilizing white background, pure black for redactions and text, light gray for the separator strip, and very small amounts of off-white text.
+*   **Typography:** The visible text uses a standard, non-serif typeface (likely Arial or Helvetica) typical of Microsoft Word or Excel headers.
+*   **Layout Structure:** The presence of a header (date, page number) and specific section labels ("Checking") points to a standardized template used for generating reports.
+*   **Orientation:** The text is aligned horizontally, reading left-to-right, consistent with standard English document formatting.
+
+## Page 12 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a heavily redacted document, dominated by a large, solid black rectangle that obscures the central content area. Above this blacked-out section, there are small headers and graphical bars indicating specific dates and page numbering. At the very top left corner, situated just above the main black block, is a long grey horizontal bar containing faint text on its left side. Two distinct black rectangular blocks (redaction bars) float near the top right, partially obscuring or sitting next to text. A document identification number is printed in white against the white background at the bottom right corner of the image.
+
+## Visible Text (verbatim)
+*   **Top Center:** "July 1 - July 31, 2013"
+*   **Top Right:** "Page 3 of 10"
+*   **Inside Grey Header Bar (Left to Right):** "Checking", "Continued"
+*   **Bottom Right Corner:** "EFTA02731567"
+
+## Notable Details / Clues
+*   **Document Type:** The text "Checking Continued" strongly suggests this is a banking statement or financial ledger specifically for a checking account.
+*   **Date Range:** The header explicitly states the period covered is the month of July in 2013.
+*   **Redaction Strategy:** Large, opaque black blocks are used to hide sensitive information, such as transaction amounts, balances, and account numbers, which is standard for privacy protection in financial documents.
+*   **Page Context:** The text "Page 3 of 10" indicates this is a multi-page report, suggesting a comprehensive monthly statement rather than a short bill.
+*   **Identifier Code:** The alphanumeric string "EFTA02731567" at the bottom right appears to be an official document control number or case file ID.
+*   **Header Continuity:** The grey bar with the text "Checking Continued" implies that the table or data list starts or continues from a previous page, confirming the sequential nature of the document.
+*   **Layout Structure:** Despite the obscuration, the layout mimics a standard financial spreadsheet with column headers (like date and amounts) located at the top before the redaction begins.
+*   **Visual Consistency:** The black bars used for redaction are uniform in color (pure black) but vary in length, indicating different levels of sensitivity or arbitrary masking during digitization.
+
+## Page 13 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a heavily redacted digital document, likely a spreadsheet or financial statement exported as an image. The composition is dominated by a massive black rectangular overlay that obscures approximately 90% of the visual information in the center and lower portions of the frame. Above this main obstruction lies a horizontal grey band resembling a user interface tab or header row. In the upper right corner, against the white background, are two smaller redacted blocks accompanied by visible metadata. The bottom right corner features a unique alphanumeric identifier string on a white background. The overall aesthetic is high-contrast black and white, typical of document scanning or redaction software output.
+
+## Visible Text (verbatim)
+*   **Top Center:** "July 1 - July 31, 2013"
+*   **Top Right:** "Page 4 of 10"
+*   **Grey Band (Left side):** "Checking Continued"
+*   **Bottom Right Corner:** "EFTA02731568"
+
+## Notable Details / Clues
+*   **Date Range:** The text "July 1 - July 31, 2013" indicates this document covers a specific one-month financial period in mid-2013.
+*   **Pagination:** The label "Page 4 of 10" suggests this is a segment of a larger, multi-page report or transcript, specifically the fourth page.
+*   **Document Type Clue:** The text "Checking Continued" in the grey header bar strongly implies this is a bank account ledger, a statement of account, or a financial record for a checking account, and that the list of transactions continues on subsequent pages or tabs.
+*   **Redaction Artifact:** The black rectangles appear to be digital masks placed over specific areas (likely names, addresses, or account numbers), rather than physical paper covers, evidenced by the clean edges and the fact that text like "July 1" remains visible just above one of the bars.
+*   **Document ID Format:** The string "EFTA02731568" at the bottom follows a format common in legal documents or Freedom of Information Act (FOIA) releases (where EFTA often stands for Electronic Federal Tax Accounting), used for tracking and indexing records.
+*   **UI Elements:** The grey bar labeled "Checking Continued" resembles a floating tab found in spreadsheet software (like Excel or Google Sheets) when viewing multiple sheets simultaneously.
+*   **Layout Alignment:** The text "July 1 - July 31, 2013" and "Page 4 of 10" are right-aligned relative to the redacted blocks, suggesting they might be part of a header row that was partially obscured or separated from the main table body.
+*   **Absence of Data:** Due to the large black box, no numerical data (balances, transactions) or column headers (Date, Description, Debit/Credit) are visible.
+*   **Resolution/Quality:** The text appears sharp and legible, suggesting a digital origin rather than a photocopy of a physical paper document.
+*   **Color Profile:** The image is strictly grayscale/black-and-white, lacking the color usually found in original financial statements (which often use greens for credits and reds/debts).
+*   **Space Usage:** The black redaction box takes up significantly more vertical space than the grey header bar, indicating a high density of sensitive information that was removed.
+
+## Page 14 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document page that has been heavily redacted. The central and lower portion of the page is dominated by a large, solid black rectangle, obscuring the primary content of the document. Above this large black area, there is a long, horizontal grey bar running across the width of the page. At the far left end of this grey bar, the word "Checking" is visible, followed by the word "Continued" towards the center-right.
+
+At the very top right corner of the page, outside the main content area but above the black rectangle, there are date headers and a page indicator. Specifically, the text "July 1 - July 31, 2013" appears above a smaller black rectangular bar used to obscure underlying text. To the right of that, the text "Page 5 of 10" is visible next to another solid black square, likely redacting a logo or additional header information. In the bottom right corner of the entire image, separated by white space from the main document area, is a distinct alphanumeric string. The overall layout suggests this is a screenshot of a digital record, likely a financial statement or a court filing containing sensitive data that has been blacked out for privacy or security reasons.
+
+## Visible Text (verbatim)
+- **Top Center/Right:** "July 1 - July 31, 2013"
+- **Top Right:** "Page 5 of 10"
+- **Grey Header Strip:** "Checking" ... "Continued"
+- **Bottom Right Corner:** "EFTA02731569"
+
+## Notable Details / Clues
+-   **Redaction Pattern:** The use of solid black bars indicates a deliberate attempt to hide information. There are two distinct redaction levels: a large block covering the main body and smaller blocks at the top likely covering header details like account names or transaction lists.
+-   **Time Period:** The document specifically covers a one-month period in mid-2013, suggesting this is a monthly statement or report.
+-   **Pagination Context:** Being "Page 5 of 10" implies there are approximately 8 other pages of data associated with this record, suggesting a detailed and lengthy financial account or log.
+-   **Account Type:** The label "Checking" strongly suggests this document relates to a bank checking account activity or a similar liquid asset ledger.
+-   **File Reference Number:** The code "EFTA02731569" at the bottom right resembles a government docket number, a case file identifier, or an internal tracking ID used by a federal agency or legal body.
+-   **Continuation Indicator:** The word "Continued" suggests that the data being viewed is ongoing, possibly spanning multiple pages or sections within this specific report.
+-   **Grey Separator:** The grey strip containing "Checking" and "Continued" appears to serve as a section header for a table of transactions that lies entirely beneath the blackout.
+-   **Aspect Ratio:** The image has a standard landscape orientation typical of printed financial documents viewed on a screen or scanned into a PDF viewer.
+
+## Page 15 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a section of a financial document or bank statement that has been heavily redacted with large black bars to obscure sensitive information. The layout consists of a header area at the top and a massive blacked-out body. A narrow strip of the original document is visible through the redaction, revealing a single transaction line item. The document appears to be part of a multi-page set, indicated by the page number in the top right. A footer containing an alphanumeric code is present at the very bottom right. The visual quality suggests a scanned copy from a legal or financial filing where privacy details have been blacked out.
+
+## Visible Text (verbatim)
+- **Top Right Header:** "July 1 - July 31, 2013"
+- **Top Right Pagination:** "Page 6 of 10"
+- **Left Header Bar:** "Checking", "Continued"
+- **Visible Transaction Row:**
+    - Date: "07/25/13"
+    - Description 1: "Incoming Wire Transfer"
+    - Description 2: "WIRE FROM LEON D BLACK"
+    - Amount (Right side): "145,000.00"
+- **Footer Code:** "EFTA02731570"
+
+## Notable Details / Clues
+- **Redaction Extent:** The vast majority of the page is obscured by a solid black rectangle starting below the header and extending to the bottom edge, covering account numbers, balances, and likely other transaction details.
+- **Transaction Specifics:** A specific incoming wire transfer dated July 25, 2013, for $145,000.00 is visible from an entity or individual named "LEON D BLACK".
+- **Date Range:** The statement covers a one-month period ending on July 31, 2013.
+- **Document Continuity:** The header notes "Checking Continued," suggesting this is not the start of a new account section but a continuation of an existing list.
+- **Footer Identifier:** The code "EFTA02731570" at the bottom suggests this document might be part of a specific regulatory filing system (possibly related to Foreign Bank and Financial Account Reports or similar financial disclosures).
+- **Amount Formatting:** The dollar amount is formatted with commas and two decimal places ($145,000.00), indicating a standard currency format.
+- **Gray Background Header:** The top bar has a textured gray background behind the text "Checking Continued," typical of banking software printouts.
+
+## Page 16 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped, partially redacted document, likely a financial statement or legal affidavit related to banking. The top section features a white background with small, sans-serif black text. At the very top center, a date range is visible just above a horizontal black redaction bar. To the right of the central area, a page number indicator appears next to a smaller black rectangle. Immediately below this header area runs a distinct, lighter grey horizontal strip that spans nearly the full width of the frame; within this strip, two words are legible on the far left side ("Checking" and "Continued"). The majority of the image (the lower 85%) is obscured by a single, massive black rectangle that acts as a heavy redaction mask. At the very bottom right corner, outside the main content area but inside the white margin, a unique alphanumeric tracking number is printed in small font.
+
+## Visible Text (verbatim)
+*   "July 1 - July 31, 2013"
+*   "Page 7 of 10"
+*   "Checking"
+*   "Continued"
+*   "EFTA02731571"
+
+## Notable Details / Clues
+*   **Document Context:** The words "Checking" and "Continued" on the grey strip strongly indicate this is a multi-page bank statement, specifically showing the account balance or transaction ledger for a checking account.
+*   **Date Range:** The header specifies the document covers the month of July 2013.
+*   **Pagination Status:** The text "Page 7 of 10" indicates the viewer is looking at a mid-to-late section of a roughly ten-page document.
+*   **Redaction Strategy:** The primary redaction is an extremely large black block covering the main body, suggesting highly sensitive information (such as account numbers, transaction details, or signatures) has been blacked out for privacy or legal reasons. There are additional smaller black bars at the top obscuring what appears to be a title or header name.
+*   **EFT Number:** The code "EFTA02731571" at the bottom right is formatted like an Electronic Funds Transfer authorization number, further confirming this relates to banking transactions.
+*   **Visual Structure:** The grey strip serves as a visual separator between the document header metadata and the main redacted content area.
+*   **Implied Content:** Although hidden, the presence of "Page 7" implies that previous pages contained headers or account summaries, and future pages might contain concluding balances or signatures.
+*   **Color Palette:** The image is high-contrast monochrome (black text/shapes on a white/light grey background), typical of fax scans or low-resolution PDF exports.
+*   **Typography:** The font is utilitarian and small, consistent with standard administrative forms like IRS Form 870 or bank statements.
+
+## Page 17 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital scan or screenshot of a financial document, heavily redacted with solid black rectangular blocks that obscure specific data points. The background is stark white. At the top right, metadata indicates the date range covered by the statement ("July 1 - July 31, 2013") and identifies this as "Page 8 of 10". Below the top date bar, there is a grey header strip containing the words "Checking" and "Continued." Beneath this strip lies a massive black rectangle that fills the majority of the upper half of the visual field. Separating this section from the bottom section is a narrower grey strip on the left side labeled "Savings." Below the "Savings" strip is a second, equally large black rectangle filling the lower portion of the document. In the bottom right corner, a distinct alphanumeric tracking code is visible. The overall appearance suggests a privacy-filtered version of a bank statement where account balances and transaction details have been removed for public viewing or archival purposes.
+
+## Visible Text (verbatim)
+- July 1 - July 31, 2013
+- Page 8 of 10
+- Checking
+- Continued
+- Savings
+- EFTA02731572
+
+## Notable Details / Clues
+- **Redaction Strategy:** The use of solid black blocks indicates that sensitive Personally Identifiable Information (PII) and financial data (likely account numbers, transaction amounts, and names) have been intentionally hidden.
+- **Document Continuity:** The header "Continued" suggests this is not the start of the statement but a continuation from a previous page or section of the same document.
+- **Account Types:** The visible headers clearly distinguish between two different account types: "Checking" (top) and "Savings" (bottom).
+- **Timeframe:** The document specifically covers the month of July in the year 2013.
+- **Pagination:** Being "Page 8 of 10" indicates this is near the end of the full document set, suggesting the redactions might apply to summary information at the end of statements.
+- **Tracking Code:** The code "EFTA02731572" in the bottom right likely serves as an electronic filing tracking number or a unique identifier for the case or document in a legal or government archive system.
+- **Layout Structure:** The document utilizes distinct grey bands to demarcate different sections (account types) within the paginated view.
+- **Visual Hierarchy:** The headers are much smaller than the large blacked-out areas, implying that the bulk of the information (the actual data) has been removed rather than just the labels.
+- **Positional Clues:** The top black rectangle obscures what would likely be the "Checking" account details. The bottom black rectangle obscures the "Savings" account details.
+- **Font Consistency:** The visible text appears in a standard serif font, typical of legal documents or formal government reports (like Freedom of Information Act redactions).
+- **Date Alignment:** The date range is aligned to the right side of the header area, which is a common formatting style for ledger-style statements.
+
+## Page 18 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a heavily redacted digital document on a white background. The layout consists of distinct black rectangular blocks obscuring significant portions of text. In the upper right quadrant, there is a small black rectangle at the very top edge. Directly below and to the left of this small block is a long horizontal black bar with the text "July 1 - July 31, 2014" visible in tiny font just above its top edge. To the immediate right of this date bar is the text "Page 1 of 7". Below the date section is another long horizontal black bar. Just above this lower black bar, the text "CITIGOLD SERVICES" is faintly visible in capital letters. To the left of the "CITIGOLD SERVICES" block sits a medium-sized black rectangle. Dominating the lower half of the image is a massive, wide black rectangle that spans nearly the full width of the page, obscuring what would likely be the main financial data or account details.
+
+## Visible Text (verbatim)
+*   July 1 - July 31, 2014
+*   Page 1 of 7
+*   CITIGOLD SERVICES
+*   EFTA02731573
+
+## Notable Details / Clues
+- **Document Type:** The presence of "CITIGOLD SERVICES" and a date range suggests this is a bank statement or transaction ledger from Citibank.
+- **Redaction Pattern:** The black bars are not random; they systematically cover specific fields (likely amounts, account numbers, and names) typical of financial privacy redactions.
+- **Date Range:** The document covers a monthly cycle from July 1 to July 31, 2014.
+- **Page Indicator:** The text "Page 1 of 7" indicates this is the first page of a multi-page document set.
+- **Document ID:** The code "EFTA02731573" at the bottom right appears to be an Electronic Funds Transfer Authorization or a similar transaction tracking number identifier.
+- **Spacing:** The top portion has significant white space between the redacted headers and the large black block below, suggesting the bulk of the document's content is hidden in the lower section.
+- **Font Style:** The visible text is sans-serif, consistent with standard banking software printouts or online banking statements.
+- **Text Legibility:** The header text "CITIGOLD SERVICES" is very small and greyed out, contrasting with the bold white (or light) text usually found in headers of redacted documents where metadata remains visible.
+- **Orientation:** The document is oriented horizontally (landscape).
+- **Privacy Level:** The extent of the black bars indicates a high level of privacy masking, protecting sensitive financial information from view.
+
+## Page 19 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document or screenshot that has been heavily redacted for privacy or security purposes. At the very top right corner, small black text indicates a date range spanning from "July 1 - July 31, 2014," situated just above a solid black rectangular block that obscures additional information. To the right of that date range, another small text element reads "Page 2 of 7," indicating this is part of a multi-page document set. Below these header elements lies a long, grey horizontal bar running across the top width of the main content area, containing the label "Fees & Rates Detail" on the left side. The vast majority of the visual space below this grey bar is consumed by a massive, solid black rectangle that covers nearly the entire central portion of the image, completely hiding any underlying text, tables, or images that would typically be present in such a report. In the extreme bottom right corner, outside the main document window, a reference number is printed in black text against the white background.
+
+## Visible Text (verbatim)
+*   July 1 - July 31, 2014
+*   Page 2 of 7
+*   Fees & Rates Detail
+*   EFTA02731574
+
+## Notable Details / Clues
+*   The document appears to be a financial statement or ledger, specifically labeled under "Fees & Rates Detail."
+*   The date stamp confirms the data covers a single month in July 2014.
+*   The redaction is extremely aggressive; almost all substantive content (likely financial figures or account names) has been blacked out.
+*   The page numbering ("Page 2 of 7") suggests this document is part of a smaller, manageable set or a specific section of a larger report.
+*   The reference number "EFTA02731574" follows the format of an Exhibit File Tracking Act (EFTA) number, which is standard for documents filed with the U.S. Department of Justice during legal proceedings.
+*   The grey bar at the top resembles a browser tab or a file tab in a document management system, suggesting this was a screenshot taken from a web-based review tool.
+*   There are no visible images, charts, or data points; the visual field is dominated by white background (headers/footers) and black blocks (content).
+*   The layout suggests a standard PDF viewer or word processing interface where the main body of text has been intentionally obscured by an overlay.
+
+## Page 20 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a heavily redacted segment of a financial document, likely a bank statement. The layout is characterized by large, solid black rectangular blocks obscuring the majority of the information. At the very top center, a small block of text indicates a date range covering "July 1 - July 31, 2014." To the right of that date, the page number reads "Page 5 of 7." Immediately below this header section is a long, thin gray bar containing the text "Checking" on the left and "Continued" next to it. Beneath the gray bar is a thick black rectangle that covers the top portion of the transaction list. Just peeking out from underneath the upper black block is a single visible line of data. This line begins with the date "07/30/14," followed by the description "Incoming Wire Transfer." The memo line reads "WIRE FROM LEON D BLACK," and aligned to the far right is the amount "$500,000.00" (displayed as 500,000.00). Below this visible transaction line is a massive black rectangle that dominates the lower two-thirds of the image, completely hiding any account balance, running totals, or subsequent transactions for the rest of July. In the bottom right corner, outside the main document area, is a unique identifier code: "EFTA02731575."
+
+## Visible Text (verbatim)
+- **Top Center:** July 1 - July 31, 2014
+- **Top Right:** Page 5 of 7
+- **Gray Header Bar:** Checking, Continued
+- **Transaction Line:** 07/30/14, Incoming Wire Transfer, WIRE FROM LEON D BLACK, 500,000.00
+- **Bottom Right ID:** EFTA02731575
+
+## Notable Details / Clues
+- **Redaction Level:** The document is heavily censored, likely to hide sensitive account numbers, previous transaction history, and closing balances. Only one specific transaction entry remains visible near the top.
+- **Transaction Amount:** The visible transaction shows a substantial sum of exactly 500,000.00 (likely USD given the format).
+- **Sender Name:** The incoming wire is explicitly traced to an individual named "LEON D BLACK."
+- **Date Specificity:** The specific transaction occurred on July 30, 2014, near the end of the statement period indicated at the top.
+- **Document Continuity:** The header "Checking Continued" suggests this page is a continuation of a previous list of transactions from an earlier page in the monthly statement.
+- **Page Context:** Being "Page 5 of 7" indicates this is a standard multi-page printout or PDF export, not just a single receipt or check image.
+- **Regulatory Marker:** The ID code at the bottom ends in "EFTA," which refers to the Electronic Fund Transfer Act, confirming this is an official US bank statement required to provide transfer details to consumers.
+- **Layout Structure:** The visible text line aligns with standard banking column layouts: Date on the far left, Description in the middle, and Amount on the right.
+- **Visual Contrast:** The stark contrast between the white background of the document and the solid black blocks highlights exactly which data points are being withheld or emphasized (in this case, only the incoming wire).
+- **Font Style:** The text is rendered in a standard sans-serif typeface typical of banking software interfaces (like QuickBooks or online banking portals).
+

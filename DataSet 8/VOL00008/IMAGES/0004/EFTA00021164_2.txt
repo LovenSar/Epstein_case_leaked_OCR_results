@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021164.pdf ts=2026-03-14T21:52:02 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, likely an email thread or a compiled file containing press clippings. The upper two-thirds of the page are obscured by a large, solid black rectangular block, which appears to be a redaction covering sensitive information such as sender and recipient details or the main body text.
+
+In the top left corner, immediately above the black box, two truncated headers are visible: "From:" and "To:". Below the black box is a horizontal rule (a long thin black line) that separates the redacted section from the metadata and content below.
+
+Below the rule, on the left side, is the subject line of the communication, indicating the date "AUGUST 14, 2020". Directly beneath that is a timestamp field showing "Fri, 14 Aug 2020 16:31:29 +0000".
+
+The lower section of the document lists news sources and headlines. The first entry is underlined by the name "DONNELL RUSSELL" followed by the label "ABC:" and a blue hyperlink URL pointing to an ABC news story about prosecutors charging people in the R. Kelly case. Below this, the header "MAXWELL:" introduces another link labeled "Vanity Fair:", which is also a blue hyperlink referencing a story about Ghislaine Maxwell being denied a prison transfer. The text "MATTERS OF INTEREST" appears at the bottom left. A small alphanumeric identification code is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**From:**
+**To:**
+
+Subject: SDNY DAILY PRESS CLIPS - AUGUST 14, 2020
+Date: Fri, 14 Aug 2020 16:31:29 +0000
+
+DONNELL RUSSELL
+ABC: https://wgntv.com/news/chicago-news/prosecutors-charge-3-with-threatening-women-in-r-kelly-case/
+
+MAXWELL:
+Vanity Fair: https://www.vanityfair.com/style/2020/08/ghislaine-maxwell-denied-prison-move
+
+MATTERS OF INTEREST
+
+EFTA00021164
+
+## Notable Details / Clues
+- **Redaction:** The large black box indicates that the document has been deliberately edited to hide specific names or communication details, suggesting a formal or sensitive context (likely legal or law enforcement).
+- **Context of Content:** The text links provide context for the investigation: one concerns the Jerry Sandusky/R. Kelly case ("prosecutors-charge-3-with-threatening-women-in-r-kelly-case"), and the other concerns Ghislaine Maxwell ("ghislaine-maxwell-denied-prison-move").
+- **Date Significance:** The date August 14, 2020, places this document during a critical period in high-profile legal cases involving sexual abuse allegations.
+- **Document ID:** The code "EFTA00021164" at the bottom right suggests this is part of a digitized archive or an official file system (possibly related to law enforcement or court filings, where "EFT" often denotes electronic filing).
+- **Source Diversity:** The links show a mix of cable news (ABC) and lifestyle/culture journalism (Vanity Fair), indicating the breadth of press coverage being monitored.
+- **Timestamp:** The precise time "16:31:29" suggests this is an automated digest or a specific email received at that exact moment.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+POLITICO: https://www.politico.com/news/magazine/2020/08/14/want-to-cure-nra-corruption-let-a-gun-loving-democrat-run-it-395005
+
+GOTHAMIST: https://gothamist.com/news/misconduct-complaints-pile-de-blasio-orders-deeper-cuts-nypd-oversight-board
+
+NY POST: https://nypost.com/2020/08/13/nypd-uses-misleading-footage-to-explain-inaction-during-teen-beatdown/
+
+FOX: https://www.foxnews.com/politics/barr-durham-report-development-friday-election-timing
+
+DAILY MAIL: https://www.dailymail.co.uk/news/article-8625217/Trump-hints-FIRING-FBI-director-Chris-Wray-claims-covering-Russia-probe.html
+
+WAPO: https://www.washingtonpost.com/business/2020/08/14/top-dhs-officials-wolf-cuccinelli-are-not-legally-eligible-serve-their-current-roles-congressional-watchdog-agency-finds/
+
+ProPublica: https://www.propublica.org/article/electionland-2020-usps-chaos-election-cybersecurity-august-voting-and-more
+
+https://www.propublica.org/article/local-officials-say-a-nursing-home-dumped-residents-to-die-at-hospitals
+
+The Blast: https://theblast.com/c/tekaishi-6ix9ine-69-snoop-dogg-los-angeles-dangerous-gangs-video-photos-nobu-malibu-bloods
+
+https://www.cshub.com/attacks/articles/incident-of-the-week-garmin-pays-10-million-to-ransomware-hackers-who-rendered-systems-useless
+
+NYT: https://www.nytimes.com/2020/08/14/nyregion/donald-trump-taxes-cyrus-vance.html
+
+Sent from my iPad
+
+EFTA00021165
+## Structured Fields
+
+*   **Date:** 2020/08/14 (Politico, Dailymail, Washingtonpost, Propublica, NYTimes), 2020/08/13 (NY Post)
+*   **Names/Organizations:** POLITICO, GOTHAMIST, NY POST, FOX, DAILY MAIL, WAPO, ProPublica, The Blast, CSHub, NYT (New York Times), Chris Wray, Donald Trump, Cyrus Vance, Wolf Cuccinelli, Snoop Dogg, Nobu Malibu Bloods.
+*   **Locations:** NYC/NYPD, Los Angeles, NY Region.
+*   **Topic Keywords:** NRA corruption, NYPD misconduct, Barr/Durham report, FBI firing, DHS officials, USPS election cybersecurity, Nursing home dumping, Tekashi 6ix9ine/Los Angeles gangs, Garmin ransomware, Trump taxes.
+*   **Doc ID (Footer):** EFTA00021165
+

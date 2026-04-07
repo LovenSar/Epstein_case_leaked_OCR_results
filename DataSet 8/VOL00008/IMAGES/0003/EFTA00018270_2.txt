@@ -1,0 +1,60 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018270.pdf ts=2026-03-13T17:13:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot or printout of an email thread set against a plain white background. The document contains two distinct email messages, one responding to the other, with significant portions redacted by solid black rectangular bars. The top section represents the latest response email, showing headers for "From," "To," "Cc," and "Bcc" which are entirely obscured by black bars. Below these headers, the subject line reads "Re: Next week events" and the date is listed as "Fri, 12 Jul 2019." The importance is set to "Normal."
+
+The body of this top email begins with a brief inquiry asking if there is a bail hearing on Monday, followed by the automated note "Sent from my iPhone." A quote block follows, citing a message received on July 12, 2019, at 5:36 PM from a sender whose name is blacked out. Below this citation is a blue hyperlink text stating "Monday – Bail hearing for Epstein, 10am before Judge Berman." A large, wide black bar obscures the content immediately following this link.
+
+Below this section, separated by a thin horizontal line, is the previous email in the chain. This message header shows a "Sent" time of Friday, July 12, 2019, at 8:35 AM. The body text addresses "Good morning all" and requests updates for next week. It is signed off by "Laura." A postscript (P.S.) mentions Pecan Pie Day and Be a Dork Day. At the very bottom left, there is a signature block where the specific name is redacted, but the title "Chief, Criminal Division," agency "United States Attorney’s Office, SDNY," and phone number "(212) 637-1117" are visible. A black bar at the very bottom edge and another code in the bottom right corner complete the document.
+
+## Visible Text (verbatim)
+**Top Email:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Bcc: [Redacted]
+Subject: Re: Next week events
+Date: Fri, 12 Jul 2019 21:55:47 +0000
+Importance: Normal
+
+There’s a bail hearing on Monday?
+Sent from my iPhone
+On Jul 12, 2019, at 5:36 PM, [Redacted] wrote:
+Monday – Bail hearing for Epstein, 10am before Judge Berman
+[Large Redacted Block]
+
+**Previous Email:**
+From: [Redacted]
+Sent: Friday, July 12, 2019 8:35 AM
+To: [Redacted]
+Subject: Next week events
+
+Good morning all. As always, please don’t forget to get me your updates for next week sometime today.
+Thanks,
+Laura
+
+P.S. I didn’t feel like wishing anyone Happy Pecan Pie Day (although, of course, you should partake if you celebrate), but of course, Monday is Be a Dork Day, so you could get a jump on planning your outfits now.
+
+[Redacted]
+Chief, Criminal Division
+United States Attorney’s Office, SDNY
+(212) 637-1117
+[Redacted]
+
+**Footer:**
+EFTA00018270
+
+## Notable Details / Clues
+*   **Date Context:** The emails were sent on Friday, July 12, 2019.
+*   **Legal Subject:** The email thread concerns a "bail hearing" for an individual named "Epstein" (likely Jeffrey Epstein).
+*   **Judicial Involvement:** Judge Berman is mentioned as presiding over the hearing at 10 AM.
+*   **Sender Authority:** The sender, Laura, holds the title of "Chief, Criminal Division" for the "United States Attorney’s Office, SDNY" (Southern District of New York).
+*   **Casual Tone:** Despite the serious legal subject matter, the sender includes a P.S. about holiday greetings (Pecan Pie Day and Be a Dork Day), suggesting a somewhat casual office culture or specific internal traditions.
+*   **Redaction Level:** Sensitive identifying information (names of recipients, specific addresses, or perhaps the specific name associated with "Laura" or the recipient) is heavily redacted to protect privacy or legal privilege.
+*   **Exhibit Tag:** The code "EFTA00018270" in the bottom right corner suggests this document has been cataloged as an exhibit in a legal case (likely related to the Epstein investigation).
+*   **Platform Origin:** One of the messages was sent directly from an iPhone ("Sent from my iPhone"), indicating immediate mobile access.
+*   **Time Difference:** The top email date includes "+0000" (UTC), while the US phone number implies a New York time zone location.
+*   **Response Chain:** The thread shows a quick response cycle, with the "iPhone" message arriving at 5:36 PM following the main email sent at 8:35 AM the same day.
+

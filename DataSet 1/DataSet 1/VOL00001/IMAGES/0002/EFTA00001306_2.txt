@@ -1,0 +1,24 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001306.pdf ts=2026-03-05T11:43:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a densely packed server and network infrastructure setup located in a utility or closet room. A tall, black open-frame rack dominates the center-right of the frame. The top half of this rack is heavily populated with networking hardware; a dense bundle of bright blue ethernet patch cables (likely Cat5 or Cat6) snakes through the upper section, intermingled with thinner white and grey management cables. Below the main network switch area, there is a lower shelf containing what appear to be stacked server chassis or blade servers sitting loosely rather than on rails.
+
+To the left of the main rack, mounted against a white wall, are several pieces of industrial electronics. A large, dark grey box with a triangular logo (possibly "Magma" or similar) sits centrally on the wall. Below this unit are two electrical panels: a smaller grey junction box and a larger beige distribution board with toggle switches, labeled with an orange sticker. Heavy bundles of grey data cables loop along the baseboard on the far left floor.
+
+Above the equipment, near the ceiling tiles, a rectangular silver air conditioning or ventilation unit is mounted directly to the wall structure, featuring a circular fan intake. The ceiling shows exposed metal framing and conduit. On the right side, a white door stands slightly ajar, revealing a glimpse of a black-and-white checkered floor outside. The door features a silver round doorknob.
+
+## Visible Text (verbatim)
+- **Door Sticker:** "Cisco Systems" (white text on black background)
+- **Wall Sticker:** Orange rectangular label with illegible white text.
+- **Equipment Logo:** A small triangular logo on the large wall-mounted black box (unreadable).
+
+## Notable Details / Clues
+- **Cable Management:** The blue ethernet cables are not neatly managed but appear somewhat tangled, indicating a high-density data center connection point or a legacy setup where cabling was added haphazardly.
+- **Power and Data Separation:** There is a distinct separation between the heavy grey power/data cables running along the wall and the lighter signal cables within the rack.
+- **Branding Clue:** The "Cisco Systems" sticker on the door, which also features a graphic resembling an Apple logo combined with a sound wave/equalizer, suggests this server room may host a hybrid infrastructure or was used for integration projects between Cisco networking gear and Apple servers (such as those running Mac OS X Server).
+- **Industrial Aesthetics:** The room has a utilitarian feel, characterized by beige wall-to-wall carpeting (common in office buildings of the 90s/2000s), exposed ceiling infrastructure, and metal conduit.
+- **Equipment Placement:** Unlike modern "hot rack" standards where equipment is mounted vertically on rails, several pieces of equipment (like the server stack at the bottom) are sitting horizontally on open shelves, suggesting a custom or older build-out.
+- **Airflow/Heating:** The presence of the wall-mounted AC unit directly above the electronics indicates a need for cooling in a confined space, likely due to the heat generation of the server racks.
+

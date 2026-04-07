@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008482.pdf ts=2026-03-09T07:25:15 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertically oriented, yellow manila evidence custody document, specifically an "ELSUR Evidence Medium Storage Envelope" (Form FD-504d). The document is filled out by hand in black ink and features pre-printed checkboxes and lines. A white rectangular barcode sticker is affixed to the right side, and yellow paper tape with vertical text runs down the right edge. The top portion of the form contains administrative data including a Case File number and handwritten item identification. Below this are sections for selecting evidence types (with checkboxes for Video Surveillance and Non-Custodial interviews marked), enclosure type (Original), and media type (CD/DVD/Blue Ray). Key dates are listed for interception (8/14/19) and download (12/1/22), along with a location field that is partially redacted but followed by "New York, NY". The middle section identifies an interceptee named "Shahata Harris." The lower half of the form consists of a chain-of-custody log with two columns: "Accepted Custody" and "Released Custody." There are three rows of entries here; most names are obscured by black rectangular bars for privacy. Dates in these logs range from early 2022 to early 2023, indicating movement or storage events. A small alphanumeric reference code is visible in the bottom right corner outside the main form area.
+
+## Visible Text (verbatim)
+**Top Section:**
+*   "Chain of Custody - ELSUR Evidence Medium Storage Envelope FD-504d (Rev. 8-31-2017)"
+*   "Item # 89294"
+*   "Case File #: 90C-NY-3154599"
+*   "ID #: 1"
+*   "Case Agent/Task Force Officer: SA [REDACTED]"
+
+**Evidence Type Checkboxes:**
+*   "Title III" (Unchecked)
+*   "FISA" (Unchecked)
+*   "Consensual Monitoring" (Unchecked)
+*   "Computer Trespass" (Unchecked)
+*   "Video Surveillance" (Checked with an 'X')
+*   "PR/TT" (Unchecked)
+*   "Aerial Surveillance" (Unchecked)
+*   "Object T[RESERVED]" (Unchecked - partially cut off)
+*   "Non-Custodial - Overt Interview" (Checked with an 'X')
+*   "Custodial - Interview" (Unchecked)
+*   "Non-Custodial - Surreptitious Interview" (Unchecked)
+*   "Other" (Unchecked)
+
+**Enclosure/Media:**
+*   "Enclosure: Original" (Checked)
+*   "Enhanced Original" (Unchecked)
+*   "Media Type: CD/DVD/Blue Ray" (Checked)
+*   "Hard Drive" (Unchecked)
+*   "SD Card" (Unchecked)
+*   "Other" (Unchecked)
+
+**Dates and Location:**
+*   "Intercept Date(s): 8/14/19"
+*   "Location: [REDACTED] New York, NY"
+*   "Download Date: 12/1/22"
+*   "Download Time: 12:25 pm"
+
+**Interceptee Info:**
+*   "Title III/CM Interceptees - [Checked] Listed Below or [Checked] See Attached" (Both boxes appear to have checkmarks, though typically one is selected).
+*   Name written on lines: "Shahata Harris"
+
+**Barcode Sticker:**
+*   "E6586399"
+
+**Custody Logs (Left Column: Accepted Custody / Right Column: Released Custody):**
+*   *Row 1 Left:* Date: "6/19/22", Time: "12:25", Reason: "FELSUR"
+*   *Row 1 Right:* Date: "11/3/23", Time: "10:24 am", Reason: "ELSUR"
+*   *Row 2 Left:* Date: "1/13/22", Time: "10:28 am", Reason: "evidence control"
+*   *Row 2 Right:* Date: "1/13/23", Time: "10:27 am", Reason: "storage"
+*   *Row 3 Left:* Date: "2/8/22", Time: "4:07 pm", Reason: "Duplication"
+*   *Row 3 Right:* Date: "1/29/23" (approx), Time: "4:26 pm", Reason: "storage"
+
+**Tape Text (Right Edge):**
+*   "EVIDENCE FEDERAL" (Vertical text)
+
+**Bottom Corner:**
+*   "EFTA00008482"
+
+## Notable Details / Clues
+*   **Redactions:** Several fields, particularly names in the custody logs and the specific location/address within New York, have been blacked out with digital or physical markers (though here they look like digital redaction bars overlaid on a photo).
+*   **Date Discrepancy:** The "Intercept Date" is listed as 8/14/19, but the "Download Date" is 12/1/22. This suggests the evidence was stored for approximately three years before being downloaded/accessed.
+*   **Chain of Custody Complexity:** The custody logs show multiple entries in both "Accepted" and "Released" columns with different dates (some in 2022, some in 2023). This indicates the item moved between locations or processing centers over time. For instance, an item was accepted on 1/13/22 and released on 1/13/23, suggesting a full year of custody.
+*   **Reason Codes:** The reasons for acceptance/release include "FELSUR" (likely Federal ELSUR), "ELSUR", "evidence control", "storage", and "Duplication". This suggests the item was copied or transferred between secure storage units.
+*   **Media Type:** Despite being a "Medium Storage Envelope," the media is identified as "CD/DVD/Blue Ray," which is an optical disc format, not typically stored on hard drives (though that checkbox is available).
+*   **Interceptee:** The name "Shahata Harris" is associated with the intercept, likely indicating the subject of surveillance or the owner of the device captured.
+*   **Barcode:** The unique identifier E6586399 on the sticker links to the physical envelope containing this evidence bag.
+

@@ -1,0 +1,53 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008487.pdf ts=2026-03-09T07:29:12 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled shot of a yellow FBI Evidence Envelope, specifically form FD-504b (Rev. 8-17-01), titled "Chain of Custody-ELSUR Evidence Envelope." The document is filled out in black ink and features several redacted sections covered by black rectangles. A strip of bright yellow "EVIDENCE INVESTIGATION" tape seals the bottom portion of the envelope.
+
+The top section identifies the enclosure type as an "Original" (checked box) with no medium specified (Magnetic Tape, Computer Disk, Printed Material are all unchecked). The Case File number is handwritten as "72-MM-11387" and the ID number is "ID-4". The Case Agent's name is obscured by a redaction bar.
+
+The middle section details a "Consensual Monitoring Intercept" (checked box) with CM# 5548. It is specified as a Telephonic (TCM) intercept. The location is handwritten as "West Palm Beach, FL." The intercept date and data transfer date are both listed as "11/03/09," with a transfer time of "2:59pm."
+
+Below the location, under "Consensual: List Interceptees Below," a list of names is handwritten. The first line appears to correct a name: "Paul Bruno" is crossed out, and "Paul Santino" is written next to it. The second name listed is "Alfredo Rodriguez."
+
+The bottom section, partially covered by yellow tape, tracks the custody chain. Two entries are visible above the tape.
+-   **First entry (Accepted Custody):** Dated 11/03/09 at 2:59p for "Evidence." The corresponding Released Custody box on the right is dated 11/03/09 at 4pm with a reason starting with "Transfer" and a log number.
+-   **Second entry:** Dated 10/26/09 (or similar) at 7:30am for "Evidence entered." The corresponding Released box is dated later that same day at 7:31pm for "Storage."
+-   A barcode label in the bottom right corner reads "E02782876."
+
+## Visible Text (verbatim)
+**Header:** Chain of Custody-ELSUR Evidence Envelope FD-504b (Rev. 8-17-01)
+**Enclosure:** [X] Original □ Duplicate □ Enhanced Original
+**Medium:** □ Magnetic Tape □ Computer Disk □ Printed Material
+**Case File#:** 72-MM-11387
+**ID#:** ID-4
+**Agt. Supervising Title III Intercepts:**
+**[ ] Court Authorized Intercept - Source/Symbol#:**
+**[X] Consensual Monitoring Intercept - CM# (if assigned):** cm# 5548
+**[X] Telephonic (TCM) [ ] Nontelephonic (NTCM)**
+**If NTMC Specify Device Used:**
+**[ ] Recording of an Interview**
+**[ ] Volunteered/Subpoenaed Medium - Not FBI ELSUR**
+**[ ] Other Type of Recording/Interception, Specify:**
+**Intercept Date:** 11/03/09 **Place:** West Palm Beach, FL
+**Data Transferred for Permanent Storage - Date:** 11/03/09 **Time:** 2:59pm
+**[X] Consensual: List Interceptees Below** **□ Court Authorized: Enter “See Log” Below**
+**[Crossed out text] Paul Bruno Paul Santino**
+**Alfredo Rodriguez**
+**[Boxed Out Signature Area]** Date: 11/03/09 Time: 2:59p Reason: Evidence
+**[Boxed Out Signature Area]** Date: [Redacted] Time: 4pm Reason: Transfer 8712409220310
+**[Boxed Out Signature Area]** Date: 10/26/09 (illegible) Time: 7:30am Reason: Evidence entered
+**[Boxed Out Signature Area]** Date: 10/26/09 (illegible) Time: 7:31pm Reason: Storage
+**[Tape Text]** EVIDENCE INVESTIGATION
+**Barcode Label:** E02782876
+
+## Notable Details / Clues
+-   **Form Type:** This is an FBI EL-SUR (Electronic Surveillance) evidence envelope, indicating it is used for electronic surveillance data collection and chain of custody.
+-   **Date Discrepancy:** There is a custody entry dated 10/26/09 and another dated 11/03/09, suggesting the envelope was opened or processed days prior to the actual interception on November 3rd.
+-   **Name Correction:** The name "Paul Bruno" is crossed out next to "Paul Santino," indicating an administrative correction of the interceptee's identity.
+-   **Redactions:** Specific case agent names and signature blocks are blacked out for privacy or legal compliance.
+-   **Custody Flow:** The document shows a hand-off from "Evidence" entry (morning) to "Storage" (evening) on Oct 26, then an interception event on Nov 3 in West Palm Beach, FL which was immediately entered into permanent storage and released for transfer.
+-   **Barcode:** A standard evidence tracking barcode (E02782876) is present at the bottom.
+-   **Tape Seal:** The yellow tape seals the bottom edge, likely added later to secure the envelope after initial custody entries were made.
+

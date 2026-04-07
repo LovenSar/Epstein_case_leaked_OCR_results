@@ -1,0 +1,143 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007565.pdf ts=2026-03-08T23:05:14 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The primary subject is a large, dark-colored rectangular object that dominates the entire frame, appearing to be a closed file folder or portfolio.
+*   A white rectangular label is adhered to the upper right quadrant of the dark surface.
+*   The texture of the main object is grainy and uniform, consistent with paper cardstock or manila material under flash lighting.
+*   A faint horizontal seam or fold line runs across the middle of the image, suggesting the location where the front cover of the folder closes.
+*   At the very top edge of the frame, there is a slight curve and shadowing, characteristic of the opening tab on a standing file folder.
+*   The lighting creates a subtle vignette effect, with the image appearing slightly brighter at the top margins compared to the lower sections.
+*   A thin white border frames the central dark area, indicating that this is likely a scan or a printout of a physical document.
+
+## Visible Text (verbatim)
+*   **1B3-1** (Printed in bold, black font on the white label in the top right).
+*   **EFTA00007565** (Printed in small text at the very bottom right corner).
+
+## Notable Details / Clues
+*   The alphanumeric code "1B3-1" likely serves as a classification key, section number, or inventory tag for an archive.
+*   The specific ID string "EFTA00007565" suggests this document is part of a digitized government record collection, potentially related to the Freedom of Information Act (FOIA).
+*   The folder appears to be empty or containing documents that do not show through the dark cover.
+*   There are no visible stamps, handwritten notes, or wax seals on the main face of the folder shown.
+*   The image quality has high contrast, rendering deep shadows and light whites with little mid-tone detail.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+
+WAS NOT
+SCANNED
+
+DESCRIPTION
+Evidence bag
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+
+## Structured Fields
+- Date: July 27, 2020
+- Document ID: EFTA00007566
+- Description: Evidence bag
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical, clear plastic zip-seal evidence bag standing against a solid black background. Affixed to the center of the bag is a white rectangular label used for chain-of-custody documentation. The label features official police insignia and printed headers at the top. Below the header area, there are fields for case numbers and property IDs, which have been filled in by hand. A section titled "CONTENTS" contains a grid with columns for Item, Quantity, and Description. In this specific entry, the description "micro" is handwritten. The lower half of the label features a thick black rectangular redaction box that obscures sensitive information, likely suspect names or officer signatures. Below the redaction, the date "03-14-05" is handwritten. At the very bottom left of the label, a code "KL-231" is printed.
+
+## Visible Text (verbatim)
+**Top Left:**
+*   Barcode number: `022602`
+*   Logo text (partial): `FLORIDA DEPARTMENT OF LAW ENFORCEMENT`, `POLICE`
+
+**Main Header:**
+*   `Town of Palm Beach Police Department`
+*   `EVIDENCE`
+
+**Case/Property Fields:**
+*   `CASE # 05-368`
+*   `PROPERTY # 05-237`
+*   Crossed-out number below property #: `128137` (with an arrow pointing down)
+*   `CONTENTS`
+
+**Grid Headers:**
+*   `Item`
+*   `Quantity`
+*   `Description`
+
+**Grid Content:**
+*   Column 1: `( ` (handwritten parenthesis-like mark)
+*   Column 2: `( ` (handwritten parenthesis-like mark)
+*   Column 3: `micro`
+
+**Redaction Area:**
+*   Left edge text: `Suspe` (likely Suspect)
+*   Below redaction left text: `Officer` (followed by illegible initials/signature)
+
+**Bottom Right/Left:**
+*   `Date: 03-14-05`
+*   `Lab #:`
+*   Bottom Left Code: `KL-231`
+
+**Image Footer:**
+*   `EFTA00007567`
+
+## Notable Details / Clues
+*   **Location:** The document explicitly identifies the jurisdiction as the "Town of Palm Beach Police Department," located in Florida.
+*   **Evidence Type:** The handwritten description "micro" is ambiguous but likely refers to microscopic evidence (slides), microfilm, or a micro-item. It is the only item listed in the contents table.
+*   **Administrative Change:** Under the "PROPERTY #" field, the number `128137` has been crossed out with a squiggly line and an arrow pointing downward toward the active number `05-237`. This indicates a renumbering or correction was made to the physical evidence bag's identifier.
+*   **Date of Collection/Processing:** The date written is March 14, 2005 (`03-14-05`), placing this document in the mid-2000s.
+*   **Redaction:** A solid black box has been applied over the "Suspect" and "Officer" fields, likely for privacy or to hide case-sensitive details regarding the individuals involved.
+*   **Internal Coding:** The code `KL-231` at the bottom left is likely an internal inventory number or a specific form template ID used by the department.
+*   **Barcode:** A small barcode sticker at the top bears the number `022602`, which serves as a unique identifier for scanning systems.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+
+Mini Audio Cassette
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007568
+
+## Structured Fields
+*   Date: July 27, 2020
+*   Doc ID: EFTA00007568
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical composition set against a solid, matte black background. Two distinct objects are centered vertically, appearing to be photographed for documentation or identification purposes. The top object is a white rectangular label adhered inside a clear plastic sleeve. Below it sits a standard compact audio cassette tape in a transparent case with a white paper insert. The lighting is flat, casting minimal shadows, suggesting an indoor studio setup or a scan of a physical document.
+
+## Visible Text (verbatim)
+**Top Label:**
+- Top line checkboxes and text: "MEETING [ ] MEMO [ ] OTHERS ( )"
+- First field label: "A:"
+- Second field label: "B:"
+- Bottom right corner code: "Z401-00D-11"
+
+**Cassette:**
+- Small print top left: "Made in Mexico"
+- Center brand logo: "SONY"
+- Sub-brand/series: "MICRO"
+- Model number: "MC-60" (or potentially MC-90, appearing as an 8 or 6)
+- Side indicator: "A"
+- Handwritten text (blue ink) on the left: "07-345" (possibly a date or serial code)
+- Handwritten text (red/brown ink) on the right: Scribbled numbers resembling "Y-001" and "05-27"
+- Obscured area at bottom: A solid black rectangular bar covers the word "title".
+
+**Image Footer:**
+- Bottom right corner ID: "EFTA00007569"
+
+## Notable Details / Clues
+- **Usage Context:** The label explicitly offers checkboxes for "MEETING," "MEMO," and "OTHERS," indicating this cassette was likely used to record a meeting or a dictation memo.
+- **Fields A and B:** The presence of fields labeled "A" and "B" on the label suggests that two speakers were recorded, or perhaps the tape had two sides (Side A and Side B), although the cassette itself is marked with a large "A" on the window indicating it is currently on Side A.
+- **Cassette Type:** The "MC-60" designator identifies this as a Sony Micro-Cassette format, which was standard for office dictation equipment (Dictaphones).
+- **Handwritten Annotations:** There are handwritten notations in the top corners of the cassette label. The blue ink on the left and red/brown ink on the right likely represent dates or tracking numbers relevant to the recording's archival process.
+- **Blackout Bar:** A thick black bar is digitally applied (or physically stuck) over the "title" field of the cassette, redacting any subject matter information for privacy or security classification.
+- **Label Code:** The code "Z401-00D-11" on the label appears to be an internal cataloging number or part number for the specific record type.
+- **Origin:** The text "Made in Mexico" on the cassette indicates the manufacturing location of the tape shell.
+

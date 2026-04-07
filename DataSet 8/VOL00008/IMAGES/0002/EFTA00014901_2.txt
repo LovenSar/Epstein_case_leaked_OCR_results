@@ -1,0 +1,70 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014901.pdf ts=2026-03-12T11:31:15 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, likely from a corporate or legal email client such as Microsoft Outlook. The document contains three distinct message blocks arranged chronologically with the oldest message at the bottom and the most recent reply at the top. Significant portions of sensitive information, specifically names and specific subject line identifiers, are redacted with solid black bars.
+
+The primary email at the bottom appears to be a logistical update from a prosecution team member regarding a court date. It outlines specific courtroom locations for overflow viewing, lists other legal staff groups (AUSAS, PARALEGALS, INVESTIGATORS) in the "To" field, and provides timing details for a trial proceeding starting at 8:30 a.m. The email addresses Ghislaine Maxwell as the defendant in the context of sexual exploitation charges.
+
+The middle block is a brief email sent roughly two hours after the first. It offers encouragement to the legal team ("Good luck ladies! I have no doubt you will rock it."), suggesting a supportive atmosphere among colleagues before the proceedings begin.
+
+The topmost message is a reply chain indicating agreement with the sentiment of the previous emails ("I second that – go team"). The footer of the document contains a unique alphanumeric identifier, suggesting this document has been archived or filed under a specific case number.
+
+## Visible Text (verbatim)
+
+**Top Email Block:**
+Subject: RE: United States v. Ghislaine Maxwell -- [REDACTED] opens
+Date: Mon, 29 Nov 2021 15:16:37 +0000
+Body: I second that – go team.
+
+**Middle Email Block:**
+From: [REDACTED]
+Sent: Monday, November 29, 2021 9:33 AM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: FW: United States v. Ghislaine Maxwell -- [REDACTED] opens
+Body: Good luck ladies! I have no doubt you will rock it.
+
+**Bottom Email Block:**
+From: [REDACTED]
+Sent: Sunday, November 28, 2021 9:59 AM
+To: USANYS-CRIMINAL AUSAS <[REDACTED]>; USANYS-CRIMINAL PARALEGALS <[REDACTED]>; [REDACTED]; USANYS-INVESTIGATORS <[REDACTED]>
+Cc: [REDACTED]
+Subject: United States v. Ghislaine Maxwell -- [REDACTED] opens
+
+Body Text:
+There are prosecutors who would be afraid to charge a case that would require them to prove sex crimes that took place in 1994. If you want to find them, you’ll have to go to Florida. This is the Southern District of New York.
+
+It is never too late for justice. Sometimes, you just have to have faith in the power of the truth and hope twelve jurors will do the right thing. At this trial, brave women will take the witness stand and the truth will come out: Ghislaine Maxwell sexually exploited underage girls. She caused unspeakable harm to vulnerable kids. It is time to hold her accountable.
+
+[REDACTED] will open in the morning. Please come support. Details below. Updates to follow.
+Main courtroom: 40 Foley, courtroom 318
+Overflow courtrooms: 110, 506, 905, and 906. There is also a conference room on the first floor (room 130) that has a very small monitor with a live feed just for our office.
+Timing: we’ll start at 8:30 a.m. with peremptory challenges, and we expect to go straight to preliminary instructions and opening statements. In order to get a seat, we’d recommend that you go over early.
+
+[REDACTED]
+
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+
+**Footer:**
+EFTA0014901
+
+## Notable Details / Clues
+
+*   **Case Context:** The emails relate to the federal trial of Ghislaine Maxwell, a British businesswoman convicted of sex trafficking and child sexual abuse material charges.
+*   **Specific Charges/Context:** The email explicitly mentions proving "sex crimes that took place in 1994," referencing the early stages of the abuse allegations which Maxwell allegedly orchestrated over decades.
+*   **Jurisdiction:** The location is clearly identified as the Southern District of New York (SDNY), located at One Saint Andrew's Plaza.
+*   **Legal Roles:** The "To" and "Cc" fields identify specific internal legal teams: Criminal AUSAS (Assistant United States Attorneys), Paralegals, and Investigators, indicating a collaborative team effort.
+*   **Logistical Precision:** The email provides specific room numbers for the main courtroom (318) and overflow courts (110, 506, 905, 906), as well as a conference room with a live feed monitor, suggesting remote or monitored viewing options for staff.
+*   **Timing:** The trial proceedings are scheduled to start at 8:30 a.m. specifically for "peremptory challenges," which occurs before preliminary instructions and opening statements.
+*   **Tone of Communication:** Despite the gravity of the charges (sexual exploitation of children), the internal communication tone is encouraging ("go team," "rock it"), reflecting morale building among the legal staff.
+*   **Redaction Pattern:** The redactions hide specific names, likely the identities of the Assistant US Attorneys sending the emails and other individuals on the list, prioritizing privacy while leaving the core case details visible.
+*   **Date Discrepancy:** The email mentions prosecutors who would be "afraid to charge a case... in 1994," implying a comparison between the older Florida statutes/cases and the current New York proceedings.
+*   **Courtroom Location Detail:** The address "One Saint Andrew's Plaza" confirms this is the specific SDNY courthouse, distinct from other federal courthouses in NYC.
+*   **Remote Access Capability:** The mention of a "conference room on the first floor (room 130) that has a very small monitor with a live feed just for our office" indicates that at least one team member will be watching remotely or needs specific equipment to see the proceedings.
+*   **Document ID:** The footer code "EFTA0014901" suggests this is part of an archived legal discovery set or evidence log.
+

@@ -1,0 +1,63 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006364.pdf ts=2026-03-07T21:48:55 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Jane Doe#10
+( [REDACTED] )
+
+## Structured Fields
+*   **Name:** Jane Doe
+*   **Identifier:** #10
+*   **Document ID:** EFTA00006364
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+0, A 147
+10:30 [REDACTED]
+[REDACTED]
+on fri- day
+around 2 alaw
+
+Jeffrey E. E        1 #
+                     10-10-70
+
+## Structured Fields
+*   **Date:** 10-10-70 (October 10, 1970)
+*   **Time:** 10:30
+*   **Case ID / Doc ID:** 0, A 147; EFTA00006365
+*   **Name:** Jeffrey E. E
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+O.V.A 81
+
+IMPORTANT MESSAGE
+FOR Jeffrey
+DATE 12-04 TIME 2:55 A.M.
+M [REDACTED]
+from [REDACTED]
+
+TELEPHONED | PLEASE CALL
+CAME TO SEE YOU | WILL CALL AGAIN
+WANTS TO SEE YOU | RUSH
+RETURNED YOUR CALL | SPECIAL ATTENTION
+
+MESSAGE
+[REDACTED] would
+like to work @ 4:00 pm
+if possible...
+[REDACTED] is scheduled
+for [5:00 today] (Note: The text "for 5:00 today" appears inside brackets [])
+
+SIGNED the ... 1184
+movie is @ 7:30
+
+## Structured Fields
+*   **Date:** 12-04
+*   **Time:** 2:55 A.M.
+*   **Document ID/Number:** 1184
+*   **Recipient (FOR):** Jeffrey
+*   **Sender (FROM):** [REDACTED]
+*   **Message Content:** "would like to work @ 4:00 pm if possible... [Redacted] is scheduled for 5:00 today."
+*   **Note:** "movie is @ 7:30"
+

@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002636.pdf ts=2026-03-05T21:44:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Server Rack:** A tall, black 19-inch server rack dominates the left-center foreground, housing various network equipment including switches and patch panels with numerous ports visible in the center column.
+*   **Chaotic Cabling:** An extensive tangle of network cables hangs from the top of the rack and along the wall; prominent colors include bright blue Ethernet cables, yellow fiber optic strands, orange or red cables, and white cabling.
+*   **Wire Management:** Metal ladder-style wire trays are mounted horizontally along the upper sections of the walls on both the left and right sides to route cables towards the ceiling or rack.
+*   **Wall Construction:** The lower two-thirds of the walls are covered with large sheets of unfinished plywood, likely for security or fire protection, while the upper section reveals painted white cinder block masonry.
+*   **Ceiling and Ventilation:** The ceiling is a raw concrete slab; two thick, white insulated flexible ducts run from the ceiling towards the back right corner, accompanied by an industrial exhaust fan mounted high on the left wall near the ceiling junction.
+*   **Electrical Infrastructure:** A vertical metal conduit runs down the wall next to the fan, connecting to power sources, while two gray metal electrical enclosure boxes are mounted on the plywood to the right of the server rack.
+*   **Furniture and Clutter:** In the bottom right corner, a black metal table or desk holds a crumpled bright lime-green piece of clothing or fabric and some papers, with dark computer towers or equipment visible underneath the table surface.
+*   **Lighting Conditions:** The room is illuminated by artificial overhead lighting that casts soft shadows beneath the rack and the desk, suggesting an interior utility closet or server room environment.
+*   **Upper Cabling Bundle:** A thick bundle of black and white cables ascends from the top of the rack towards the ceiling ducts, secured loosely before entering the conduit space.
+*   **Equipment Faceplate:** The top faceplate of the rack equipment features a red logo (APC) and several small, blurry labels indicating device types or port assignments.
+*   **Plywood Details:** The wooden boards show signs of wear, including visible knots and nail holes, particularly noticeable on the board to the right where the gray boxes are mounted.
+
+## Visible Text (verbatim)
+- "APC" (Logo on top server unit)
+- "EFTA00002636" (Image ID in bottom right corner)
+- "MPC-FORM 18" (Partial label on rack faceplate, slightly blurry)
+
+## Notable Details / Clues
+*   **Security Measures:** The extensive use of plywood sheathing over the cinder block walls suggests this room is a secure or restricted area where fire or physical security is a primary concern.
+*   **Improvised Organization:** The cables are not strictly managed; they hang in loose bunches secured with velcro ties rather than being neatly routed into the overhead trays, implying active work or limited space management.
+*   **Industrial Ventilation:** The presence of the large, rusty-looking fan and insulated ducting indicates this is an unconditioned or heavily ventilated space, typical for server rooms that generate significant heat.
+*   **Legacy Equipment:** The mix of patch cables and the industrial fan suggests older infrastructure or a repurposed space (like a basement) rather than a modern, climate-controlled data center.
+

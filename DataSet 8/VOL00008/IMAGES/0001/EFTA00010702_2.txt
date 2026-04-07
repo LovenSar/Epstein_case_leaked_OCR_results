@@ -1,0 +1,333 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010702.pdf ts=2026-03-10T07:05:58 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED] <[REDACTED]>
+To: "[REDACTED]" <[REDACTED]>
+Subject: FW: Aircraft info
+Date: Mon, 04 Oct 2021 19:56:46 +0000
+Attachments: SIMPLE_FLIGHT_PLANS_N331JE_(2010-2020).xlsx;
+SIMPLE_FLIGHT_PLANS_N491GM_(2000-2009).xlsx;
+SIMPLE_FLIGHT_PLANS_N491GM_(2010-2020).xlsx;
+SIMPLE_FLIGHT_PLANS_N722JE_(2010-2014).xlsx;
+SIMPLE_FLIGHT_PLANS_N722JE_(2015-2020).xlsx
+
+---
+
+From: [REDACTED] (FAA) <[REDACTED]>
+Sent: Tuesday, January 28, 2020 12:05 PM
+To: [REDACTED]. (NY) (FBI) <[REDACTED]>
+Cc: [REDACTED]; [REDACTED]. (NY) (FBI) <[REDACTED]>
+Subject: RE: Aircraft info
+
+[REDACTED],
+
+I am sending some of the Flight Plan information that you requested. This information pertains to the helicopters that we discussed, including N491GM (for which we are still uncertain on the exact dates of ownership.) I hope that there is some useful information in here. Hopefully, you have someone who is good with Excel. That’s the best way to be able to analyze or quickly find the information you might be looking for.
+
+I have included a few notes here to help you understand the information, but if you have questions, you can give me a call.
+
+The first thing you are probably going to wonder about are the dates which are part of the Dept Time, Dest Time columns, but also system tracking dates (more easily understandable) all the way to the right. You’ll eventually notice that the earliest information on this batch of information is from 2007. It was around that time that we started keeping these records.
+
+The Airport Codes are the ICAO codes. The easiest way to figure out the departure and destination is to either google the airport identifier or use the list at this site: https://en.wikipedia.org/wiki/ICAO_airport_code
+
+All airports in the continental US begin with the ICAO code K. So if you see a three letter code, it is likely in the US, and would be prefaced with “K” in the ICAO code. For example, BOS (Boston Logan International Airport is KBOS). JFK is JKFK.
+
+All times (DEPT TIME, DEST TIME, ETA) are in Universal Coordinated Time (UTC) which we use in aviation. The format in these columns is: CDDTTT. “C” is an internal code, “DD” is the day, and “TTTT” is the time, UTC, in 24-hour format.
+
+DEPT DOM and DEST DOM reflect whether the Departure or Destination locations are Domestic. This should provide some context for the airport codes, but I left that in, since international flights should have (are required to file) eAPIs information, and these columns might make it easier for you to find those flights.
+
+The FIX column isn’t likely to be very helpful, but it refers to navigational fixes. It could provide additional clues to understanding where the flight went, but your best bet is to focus on the Dept and Dest. FIX has some very specific scenarios where it may be useful, but generally speaking it isn’t worth a lot of time and energy, since the dept./dest. and times and dates are more relevant. The same is true with the ROUTE column.
+
+EFTA00010702
+
+## Structured Fields
+- **Date**: Mon, 04 Oct 2021; Tuesday, January 28, 2020
+- **Subject**: FW: Aircraft info; RE: Aircraft info
+- **Case/Document IDs (from Attachments)**: N331JE, N491GM, N722JE
+- **Organizations**: FAA, FBI
+- **Locations (Airports mentioned)**: BOS (Boston Logan International Airport), JFK
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+The MSG TYPE corresponds to the following Codes:
+
+ARR - Arrival
+AM    Amendment
+CHG Change
+CNL Cancel
+DEP Departure
+DFP Defense Flight Plan (DVFR)
+DM    Departure
+FP    Flight Plan
+FPL  Flight Plan
+LCM Lockheed Message (normally that a callsign received a verbal briefing)
+UZ    Border crossing
+
+Hopefully you will all be able to find some decent leads or solidify some of your timelines of interest based on the information provided.
+
+V/r,
+[REDACTED]
+Special Agent
+Law Enforcement Assistance Program (LEAP)
+Federal Aviation Administration, [REDACTED]
+Office: [REDACTED]
+Cell: [REDACTED]
+
+From: [REDACTED] (FAA)
+Sent: Tuesday, January 14, 2020 11:26 AM
+To: [REDACTED], . (NY) (FBI) <[REDACTED]>
+Cc:[REDACTED];[REDACTED]. (NY) (FBI) <[REDACTED]>
+Subject: RE: Aircraft info
+
+[REDACTED],
+
+Please call when you get this information.
+
+I have attached Registration information for N331JE and N722JE. N722JE is the entire aircraft registration file. N331JE is just the section that appeared to contain all relevant information to your case. I can give you the entire file if you think there is more that might be applicable, and certified copies of the entire files can be obtained if they need to be used in court. In my experience, sending the entire aircraft registration file from the start usually is daunting for the investigators, and leads to tons of questions just trying to figure out what might be relevant. Sometimes aircraft files are 300 pages or more, and that can be frustrating when maybe only 20 were relevant to the SUBJECT.
+
+I have also attached the LLC Documents for Hyperion Air LLC which is the registered owner for both N331JE and N722JE.
+
+I have attached the Airman File for the SUBJECT, which is encrypted due to PII. I will send the password in a follow-on e-mail. I looked at the medical file, but I believe the information contained therein has limited value to your investigation. I have created a separate encrypted document with only the information that may be helpful, so that you can evaluate potentially relevant information while maintaining medical privacy. If the information in the airman file or the document I created turns out to be critical evidence for your case, then certified copies of the airman and/or medical file can be obtained at a later date.
+
+As I mentioned previously, I want to clarify some details regarding the helicopters. What I found appeared to be slightly different from what was included in the original e-mail to me below.
+
+EFTA00010703
+
+## Structured Fields
+- **Date:** Tuesday, January 14, 2020
+- **Time:** 11:26 AM
+- **Organizations:** FAA (Federal Aviation Administration), FBI, LEAP (Law Enforcement Assistance Program), Hyperion Air LLC
+- **Locations:** (NY)
+- **Aircraft IDs:** N331JE, N722JE
+- **Document Reference ID:** EFTA00010703
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+N722JE
+nicknamed Air Ghislaine 2
+Helicopter
+Sikorsky S-76C
+Aircraft Serial Number: 760750
+
+Date Current Registration issued: 17 July 2019
+Current Registered Owner: Hyperion Air LLC
+Current Registration Signed By: [REDACTED]
+
+Aircraft Purchased from: ASI Wings LLC
+Date of Purchase: 13 June 2019
+Seller Signature: James D. Clark
+
+Special Registration Number Issued on: Paperwork not properly submitted by requestor
+Requested Special Registration Number: N162AE
+Date Requested Special Registration Number: 16 September 2011 (one year authorization)
+
+Bill of Sale: 18 July 2011
+Aircraft Purchased by ASI Wings, LLC from: Freedom Air International, Inc
+
+Aircraft Registered by: Freedom Air International, Inc
+Registration of Aircraft on 02 August 2010 Signed By: Darren K. Indyke
+
+Name Change To: Shmitka Air Inc
+Name Change From: Air Ghislaine Inc
+Date of Registered Owner Name Change: 11 February 2010
+
+Requested Special Registration Number: N722JE
+Special Registration Number Issued on: 10 March 2010
+Date Requested Special Registration Number: 11 February 2010
+
+Aircraft Registered by: Air Ghislaine, Inc.
+Registration of Aircraft on 29 December 2008 Signed By: [REDACTED]
+Aircraft Purchased from Sikorsky on: 30 December 2008
+Aircraft Assigned Registration Number: N750A
+
+N331JE
+Helicopter
+Bell 430
+Aircraft Serial Number: 49078
+
+Date Current Registration issued: 19 November 2019
+Current Registered Owner: Hyperion Air, LLC
+Current Registration Signed By: [REDACTED]
+
+Aircraft Purchased from: Hyperion Air, Inc.
+Date of Purchase: 12 August 2013
+Seller Signature: Darren K. Indyke
+
+Special Registration Number Placed on Aircraft: 25 June 2012
+Requested Special Registration Number: N331JE
+
+EFTA00010704
+
+## Structured Fields
+- **Aircraft IDs**: N722JE, N331JE
+- **Nicknames**: Air Ghislaine 2
+- **Manufacturer/Model 1**: Sikorsky S-76C
+- **Manufacturer/Model 2**: Bell 430
+- **Serial Numbers**: 760750, 49078
+- **Current Owners**: Hyperion Air LLC, Hyperion Air, LLC
+- **Previous Owners/Organizations**: ASI Wings LLC, Freedom Air International, Inc, Shmitka Air Inc, Air Ghislaine Inc, Hyperion Air, Inc.
+- **Key Personnel**: James D. Clark (Seller), Darren K. Indyke (Seller/Registered By)
+- **Document ID**: EFTA00010704
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Special Registration Number Issued on: 04 June 2012
+Date Requested Special Registration Number: 22 May 2012
+
+Aircraft Purchased from: Bovale Developments, Inc.
+Date of Purchase: 06 March 2012
+Seller Signature: William P. Merriam Jr
+
+Aircraft Registration Number: N901RL
+
+N491GM
+Helicopter
+Bell 407
+
+I have not yet been able to identify the serial number for N491GM which should lead to the registration documents. If you know who the aircraft was sold to, or what registration number it currently uses, I would be able to obtain those documents.
+
+Finally, does this surname have any relevance to your case (potential pilot of one of the aircraft)? VAN HEURCK
+
+V/r,
+[REDACTED]
+
+Law Enforcement Assistance Program (LEAP)
+Federal Aviation Administration, [REDACTED]
+Office: [REDACTED]
+Cell: [REDACTED]
+
+From: [REDACTED]. (NY) (FBI) <[REDACTED]>
+Sent: Friday, December 6, 2019 1:18 PM
+To: [REDACTED] (FAA) <[REDACTED]>
+Cc: [REDACTED] ([REDACTED]) <[REDACTED]>; [REDACTED]. (NY) (FBI) <[REDACTED]>
+Subject: Aircraft info
+
+Hi [REDACTED],
+
+It was nice talking with you yesterday. Thanks for your assistance with this. Please see the below email of aircraft information.
+
+Below are the aircrafts we believe Maxwell has/had been using. The helicopter we know that she personally piloted, while the jets we know her to be a passenger. You’ll notice some of the aircrafts will be associated with Jeffrey Epstein, as she traveled with him frequently. Any information you are able to provide would be helpful. If there is additional passenger manifests for each of these aircrafts we’d like to know that as well. I know we discussed that sometimes that’s not available. As you can imagine, this case is high profile, so I appreciate any discretion you can make on your part.
+
+Please let me know if I left something out that would be able to assist you in any way.
+
+Thanks again,
+[REDACTED]
+
+[REDACTED]
+Special Agent
+FBI New York
+Child Exploitation/Human Trafficking
+C: [REDACTED]
+O: [REDACTED]
+
+EFTA00010705
+
+## Structured Fields
+- **Date Issued:** 04 June 2012
+- **Date Requested:** 22 May 2012
+- **Date of Purchase:** 06 March 2012
+- **Seller Name:** William P. Merriam Jr
+- **Aircraft Registration Number (N):** N901RL
+- **Aircraft Registration Number:** N491GM
+- **Aircraft Type:** Helicopter, Bell 407
+- **Vendor:** Bovale Developments, Inc.
+- **Surname Investigated:** VAN HEURCK
+- **Associated Individuals:** Maxwell, Jeffrey Epstein
+- **Agency:** Federal Aviation Administration (FAA), FBI New York
+- **Case Team:** Law Enforcement Assistance Program (LEAP) / Child Exploitation/Human Trafficking
+- **Document ID:** EFTA00010705
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]. (NY) (FBI)
+Sent: Friday, December 06, 2019 1:02 PM
+To: [REDACTED]. (NY) (FBI) <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: Aircraft info
+
+Hello!
+
+Below is the info for the helicopters and the private jet.
+
+**Name:** Ghislaine Noelle Maxwell
+*   Certificate: Private Pilot
+*   Date of Issue: 10/2/2007
+    *   Helicopter: Rotorcraft
+        *   Sikorsky S-76C; nicknamed Air Ghislaine 2
+    *   Likely Serial Number: 760750
+        *   States certificate was issued on 7/17/2019
+
+*   **Helicopter Info:**
+    *   Tail Number: N722JE
+    *   Type: 2008 Keystone Helicopter S-76C
+    *   Prior Registration: Freedom Air International Inc, [REDACTED] Wilmington, DE[REDACTED]
+    *   Old Tail Number: N331JE
+        *   Serial Number: 49078
+        *   States certificate was issued on 9/6/2013
+
+**2nd Helicopter:**
+*   Bell Jet Ranger
+*   Tail Number: N491GM
+*   Nicknamed: Air Ghislaine 1
+
+**Private Jet:**
+*   Tail Number: N212JE
+    *   Serial Number: 5173
+    *   Type: GV SP (G550) Fixed Wing Multi Engine
+    *   Certificate Issued: 3/31/2017
+*   Tail Number: N120JE
+    *   Serial Number: 1085
+    *   Type: G-IV Fixed Wing Multi Engine
+    *   Certificate Issued: 5/30/2013
+*   Tail Number: N909JE
+    *   Serial Number: 151
+    *   Type: G1159B
+    *   Certificate Issued: 11/18/2013
+*   Tail Number: N908JE
+    *   Serial Number: 20115
+    *   Type: Boeing 727-31
+    *   Certificate Issued: 1/25/2001
+
+Let me know if you need anything else,
+[REDACTED]
+
+EFTA00010706
+
+## Structured Fields
+
+*   **From:** (NY) (FBI) [Redacted Name]
+*   **Sent Date:** Friday, December 06, 2019
+*   **Subject:** Aircraft info
+*   **Name:** Ghislaine Noelle Maxwell
+*   **Certificate Type:** Private Pilot
+*   **Certificate Issue Date:** 10/2/2007
+*   **Helicopter 1 Model:** Sikorsky S-76C
+*   **Helicopter 1 Nickname:** Air Ghislaine 2
+*   **Helicopter 1 Serial Number:** 760750
+*   **Helicopter 1 State Certificate Date:** 7/17/2019
+*   **Helicopter 1 Tail Number:** N722JE
+*   **Helicopter 1 Type:** 2008 Keystone Helicopter S-76C
+*   **Prior Registration Company:** Freedom Air International Inc.
+*   **Helicopter 1 Old Tail Number:** N331JE
+*   **Old Tail Serial Number:** 49078
+*   **Old State Certificate Date:** 9/6/2013
+*   **Helicopter 2 Model:** Bell Jet Ranger
+*   **Helicopter 2 Tail Number:** N491GM
+*   **Helicopter 2 Nickname:** Air Ghislaine 1
+*   **Private Jet 1 Tail Number:** N212JE
+*   **Private Jet 1 Serial Number:** 5173
+*   **Private Jet 1 Type:** GV SP (G550) Fixed Wing Multi Engine
+*   **Private Jet 1 Certificate Date:** 3/31/2017
+*   **Private Jet 2 Tail Number:** N120JE
+*   **Private Jet 2 Serial Number:** 1085
+*   **Private Jet 2 Type:** G-IV Fixed Wing Multi Engine
+*   **Private Jet 2 Certificate Date:** 5/30/2013
+*   **Private Jet 3 Tail Number:** N909JE
+*   **Private Jet 3 Serial Number:** 151
+*   **Private Jet 3 Type:** G1159B
+*   **Private Jet 3 Certificate Date:** 11/18/2013
+*   **Private Jet 4 Tail Number:** N908JE
+*   **Private Jet 4 Serial Number:** 20115
+*   **Private Jet 4 Type:** Boeing 727-31
+*   **Private Jet 4 Certificate Date:** 1/25/2001
+*   **Document ID:** EFTA00010706
+

@@ -1,0 +1,104 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031095.pdf ts=2026-03-19T02:04:48 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: PAE and Litigation priorities
+Date: Wed, 14 Oct 2020 14:25:58 +0000
+
+The PAE issue of case prioritization seems to be getting worse and we wanted to get your thoughts. The [REDACTED] was put on the priority list back in September but the team is unfortunately now back to getting the answer from PAE/database managers that there are only 2 priority cases that is taking up all of the PAE resources, Epstein and 377 Union Street. The [REDACTED] team sent search warrant returns to PAE on 9/22 and followed up yesterday to see if there was any ETA on getting them loaded and were told no. I completely understand that not all jobs can be a rush job but am hopeful that we can find a way for some of the PAE bandwidth to be reserved to load data in the normal course. If there could be a set expectation in terms of a timeline by which PAE is expected to load data in the normal course, I think that would be helpful guidance for us to provide to our unit so they can plan accordingly.
+Happy to discuss.
+Thanks,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, September 11, 2020 1:47 PM
+To: [REDACTED]
+Subject: Fwd: PAE and Litigation priorities Another
+
+Sent from my iPad
+
+Begin forwarded message:
+
+From: [REDACTED]
+Date: August 28, 2020 at 10:24:45 AM EDT
+To: [REDACTED]
+Subject: Re: PAE and Litigation priorities
+
+Yes, of course.
+
+On Aug 28, 2020, at 10:02 AM, [REDACTED] wrote:
+
+[REDACTED]
+Can we chat on Monday. PAE is looking to us to help them set priorities. As you can see [REDACTED] has hounded them and now 377 Union Street is their number one priority. [REDACTED] also hounds them. Between the two, they monopolize IT/Litigation Support to the detriment of other AUSAs.
+Sorry to bother you on vacation. Hope it has been restful.
+
+From: [REDACTED]
+Sent: Friday, August 28, 2020 9:31 AM
+
+EFTA00031095
+
+## Structured Fields
+*   **Dates:** Wed, 14 Oct 2020; Friday, September 11, 2020; August 28, 2020 (10:24:45 AM EDT); August 28, 2020 (10:02 AM); Friday, August 28, 2020 9:31 AM.
+*   **Case ID / Doc ID:** EFTA00031095
+*   **Organizations / Entities:** PAE (Public Access E-Repository/EDIS context likely), IT/Litigation Support, AUSAs.
+*   **Locations / Priorities:** 377 Union Street, Epstein.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot or printout of an email thread, likely from a legal or corporate environment given the reference to "AUSA" (Assistant United States Attorneys) and "Relativity." The layout consists of a vertical stack of email messages with headers (From, To, Sent, Subject) and body text. A significant portion of personal names and specific contact information has been redacted with solid black bars. The content focuses on project management issues regarding data processing for various legal cases.
+
+The top section features an email responding to a request about "PAE," listing specific high-priority cases in a numbered list (1-6) where key case titles are highlighted in yellow. This email details a backlog of work ("limit capacity mode") and sets up a meeting with the SDNY working committee.
+
+Below this, there is a cluster of three shorter emails sent on Thursday, August 27, 2020. These messages express frustration about delays and "fire drills" involving an entity or person referred to as "PAE." The text alternates between black and blue coloring. The final email at the bottom contains a formal complaint regarding response times (weeks instead of days) hindering investigations. It is signed by an Assistant United States Attorney from the Southern District of New York. A document control number "EFTA00031096" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Email:**
+- Subject: RE: PAE
+- "just met with [redacted] and in addition to the priorities listed below, we have an number of other cases that are hot as well. Currently 377 Union is the priority PAE is working on due to a proposed September production date set by the AUSA. Due to the data size and complexity, other requests are still being worked on by in a limit capacity mode. Grisel will reach out to PAE to get a sense of when they can address [redacted] request."
+- "Also, are you available Monday morning to chat about PAE, requests and the updates to the meeting we held with the SDNY working committee."
+- "PAE also mentioned there are other "hot" cases they're working on:"
+    1. **We Build the Wall** [redacted] Data must be processed and uploaded to Relativity asap to begin privilege review
+    2. **Epstein** [redacted] Data must be processed and uploaded to Relativity asap to begin privilege review
+    3. **PPI** [redacted] AUSA mentioned to SDNY PM there's a court deadline.
+    4. **Keefe v US FDA** [redacted]: court deadline to produce every 25th of the month
+    5. **US v Jain** [redacted] allegedly a deadline to produce by August 28th
+    6. **377 Union Street:** 5 HDs of mixed data. Duplicate data, issues with load files, data disorganized
+
+**Middle Emails:**
+- Subject: RE: PAE Or starting them.
+- From: [redacted] Sent: Thursday, August 27, 2020 2:59 PM
+- From: [redacted] Sent: Thursday, August 27, 2020 2:59 PM Subject: RE: PAE
+- Body: "Well, she's always putting out fires"
+- From: [redacted] Sent: Thursday, August 27, 2020 2:54 PM Subject: FW: PAE
+- Body (Blue Text): "[Redacted bar] It is always a fire drill with her. Always [redacted bar] will have [redacted bar] call PAE tomorrow to determine if there is a problem there or here." Ed
+
+**Bottom Email:**
+- From: [redacted] Sent: Thursday, August 27, 2020 2:52 PM
+- Subject: PAE
+- Body: "PAE is taking much longer to respond to my requests to move potentially privileged documents out of databases; weeks instead of days, which is affecting the ability of AUSAs to access their evidence in a number of investigations and prosecutions. Do you know what is causing the delays? And how long it is expected to continue? And if there is any way that I can assist, please let me know. Thanks [redacted bar]"
+- Signature: "Assistant United States Attorney / Southern District of New York / One St. Andrews Plaza, Room 929"
+- Footer: "EFTA00031096"
+
+## Notable Details / Clues
+- **Dates:** All visible emails with timestamps share the date "Thursday, August 27, 2020," indicating a rapid exchange on that specific day.
+- **Redactions:** The redacted text often hides names associated with the cases or internal project managers.
+- **Highlighted Cases:** The yellow highlighting draws attention to high-profile or sensitive cases: "We Build the Wall" (likely related to border policies given the 2020 date), "Epstein," "PPI" (Project Panama Investigation?), "Keefe v US FDA," and "US v Jain."
+- **Vendor/PAR Issue:** The repeated references to "PAE" (Public Affairs Engineering, a common vendor in e-discovery) and complaints about them suggest this is an internal email chain regarding vendor performance or delays.
+- **Urgency:** Phrases like "hot cases," "limit capacity mode," "fire drill," and "asap" indicate high pressure and potential legal deadlines (specifically mentions of September production dates).
+- **Specific Complaint:** The bottom email explicitly contrasts expected response times ("days") with actual times ("weeks"), framing the delays as a risk to ongoing prosecutions.
+- **Location:** The signature block places the correspondence in the Southern District of New York at One St. Andrews Plaza.
+- **Technical Issues:** Case #6 mentions "5 HDs of mixed data" and "duplicate data," pointing to technical e-discovery logistics problems.
+- **Communication Style:** The tone shifts from professional/procedural in the top email to frustrated/complaining in the lower emails ("putting out fires," "fire drill").
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+New York, NY 10007
+[REDACTED]
+## Structured Fields
+*   **Location:** New York, NY 10007
+*   **Doc ID:** EFTA00031097
+

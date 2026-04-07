@@ -1,0 +1,68 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016320.pdf ts=2026-03-12T22:37:51 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Instagram Business Record                                             Page 1
+**Service** Instagram
+**Target** 1322128817
+**Account Identifier** ghislainemaxwell
+**Account Type** InstagramUser
+**Generated** 2020-01-04 21:03:00 UTC
+**Date Range** 2019-08-08 00:00:00 UTC to 2019-12-11 23:59:59 UTC
+**Ncmec Reports** NCMEC Cybertips: NCMEC cybertip reports associated to the account of the sender.
+**Definition** CyberTip ID: Unique identifier associated with the cybertip.
+Time: Date and time the NCMEC cybertip was sent.
+Responsible Id: Identification number of the sender's Facebook account associated with the NCMEC cybertip report.
+**NCMEC CyberTip Numbers** No responsive records located
+**Name Definition** Name: Name provided by the account holder.
+First: First name provided by the account holder.
+Middle: Middle name provided by the account holder.
+Last: Last name provided by the account holder.
+**Name**              First Ghislaine Maxwell
+**Emails Definition** Registered Email Addresses: Displays a list of registered email addresses. To "register" an address, it requires confirmation by the account holder.
+**Registered Email Addresses** [REDACTED]
+**Vanity Definition** Vanity: Username associated with the account.
+**Vanity Name** ghislainemaxwell
+**Registration Date Definition** Registration Date: Date and time of account creation.
+**Registration Date** 2014-05-10 17:10:23 UTC
+**Registration Ip Definition** IP address associated with account creation.
+**Registration Ip** 69.203.141.229
+
+## Structured Fields
+*   **Date Generated:** 2020-01-04 21:03:00 UTC
+*   **Date Range:** 2019-08-08 00:00:00 UTC to 2019-12-11 23:59:59 UTC
+*   **Registration Date:** 2014-05-10 17:10:23 UTC
+*   **Account Identifier (Target ID):** 1322128817
+*   **Vanity Name (Username):** ghislainemaxwell
+*   **Name:** Ghislaine Maxwell (First)
+*   **Registration IP:** 69.203.141.229
+*   **Document ID:** EFTA00016320
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Instagram Business Record                                          Page 2
+
+**Account End Date Definition** Account End Date: Displays the status of the account at the time the records were generated.
+
+**Account Closure Date** **Account Still** true **Active**
+
+**Phone Numbers Definition** Phone numbers: Phone number(s) provided by the account holder. "Verified" indicates the account holder responded to a text sent to the listed phone number.
+
+**Phone Numbers** No responsive records located
+
+**Logins Definition** Logins: Information collected at the time the account was logged into. IP Address: IP address associated to the login. Time: Date and time of the login. Location: Location of the login.
+
+**Logins** **IP Address** 104.219.99.170 **Time** 2019-08-15 00:41:29 UTC
+**IP Address** 104.219.99.170 **Time** 2019-08-14 21:31:18 UTC
+
+## Structured Fields
+- **Document Type:** Instagram Business Record
+- **Page Number:** Page 2
+- **Document ID:** EFTA00016321
+- **Organization:** Instagram
+- **Status:** Active (Account Still: true)
+- **Login Dates/Times:**
+  - 2019-08-15 00:41:29 UTC
+  - 2019-08-14 21:31:18 UTC
+- **IP Address:** 104.219.99.170
+

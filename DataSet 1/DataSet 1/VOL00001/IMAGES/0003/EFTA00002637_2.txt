@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002637.pdf ts=2026-03-05T21:45:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, low-angle view of a corner in an industrial or utility room containing network infrastructure and electrical equipment. On the left side, a black server rack unit dominates the foreground, housing stacked networking devices. The top stack consists of three silver-faced units branded with "UniFi" technology: the top unit is labeled "NDC-FIREWALL-ROUTER," followed by an "NDC-SWITCH-24," and below that an "NDC-FOSW-16." A dense tangle of Ethernet cables—including blue, white, and orange—emerges from the rear ports of these devices. A small white wireless adapter is plugged into a port on the right side of the upper chassis. Beneath the APC-branded rack equipment, there is a larger black chassis with vertical slots; a white label reading "Panasonic" is visible on the leftmost module within this lower unit, alongside a "RESET" button indicator. To the right of the server rack, the wall is unfinished, featuring exposed concrete or cinder block at the top. White PVC pipes run along the ceiling corner. A metal wire cable tray (wireway) is mounted diagonally down the upper right wall, holding loose white cables and a coiled bundle of black cable. Below the wireway, a large sheet of plywood is mounted to the wall as backing for two grey electrical junction boxes situated at the bottom right.
+
+## Visible Text (verbatim)
+- APC
+- NDC-FIREWALL-ROUTER
+- NDC-SWITCH-24
+- NDC-FOSW-16
+- UniFi (logo text)
+- Panasonic
+- RESET
+- EFTA00002637
+
+## Notable Details / Clues
+- **Hardware Configuration:** The equipment utilizes Ubiquiti Networks (UniFi) networking gear, specifically the NDC series, suggesting a business-grade small-to-medium enterprise setup.
+- **Cabling Chaos:** There is a distinct contrast between the organized metal wireway on the wall and the disorganized, dense cable management at the back of the server rack, where cables are not neatly bundled.
+- **Location Context:** The presence of exposed PVC piping, unfinished ceiling material, and plywood backing suggests this room is in a basement, attic, or utility closet that has not been fully finished for aesthetic purposes.
+- **Wireless Coverage:** A white wireless bridge (likely a UniFi Wireless Bridge or similar WAP unit) is attached directly to the rack face, indicating an attempt to provide wireless connectivity from this wired backbone.
+- **Electrical Enclosures:** The two grey boxes at the bottom right appear to be standard NEMA electrical junction boxes, possibly serving as power outlets or junction points for building wiring rather than IT equipment.
+- **Labeling:** Warning and caution labels are partially visible on the lower Panasonic chassis and the APC rack bezel, though the specific text is largely illegible due to the angle.
+- **Pipe Routing:** The white PVC pipes are taped or glued directly to the corner where two ceiling/soffit sections meet, suggesting older HVAC or plumbing infrastructure repurposed for routing cables or ventilation.
+- **Power/Reset Indicators:** The "RESET" label on the bottom-left chassis indicates a manual reset button, common on industrial networking or telecommunications hardware.
+- **Chassis Structure:** The lower equipment features green vertical bars near the bottom edge, which may be status LEDs, filters, or mounting guides for expansion cards.
+- **Coiled Cable:** A specific bundle of black cable is neatly coiled and hanging within the wireway, distinct from the loose cables running along the tray.
+- **Orientation:** The photo is taken from a low angle looking up and to the right, emphasizing the height of the rack and the vertical run of the wall.
+

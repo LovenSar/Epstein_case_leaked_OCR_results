@@ -1,0 +1,61 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025292.pdf ts=2026-03-16T18:45:10 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing three distinct messages stacked vertically, typical of an Outlook or similar corporate client interface. The document is heavily redacted; almost all names and specific contact details have been obscured by thick, horizontal black bars.
+
+At the top of the document is the header for the most recent email (sent late at night in UTC). It indicates a sender associated with "USANYS" emailing a recipient group that includes an entity labeled "(NY) (FBI)". A large black rectangle obscures the body of this first message.
+
+Below a separator line, the middle section shows a second email header. This message was sent on Tuesday, October 12, 2021, at 3:30 PM. It is marked as a continuation ("FW") and lists a recipient with "(USANYS)" in their address field. Another black rectangle covers the content of this middle email.
+
+The bottom section displays the third email header in the chain, which appears to be the earliest of the three shown (chronologically). It was sent on Tuesday, October 12, 2021, at 3:19 PM. The subject line indicates an external message regarding a voicemail follow-up. A very large black rectangle covers the entire body of this bottom message, likely to obscure sensitive information or attachments.
+
+In the bottom right corner, a unique document control number is visible: "EFTA00025292".
+
+## Visible Text (verbatim)
+**Top Header:**
+*   From: "[REDACTED] (USANYS)" <[REDACTED]>
+*   To: "[REDACTED]" <[REDACTED]>; [REDACTED](NY) (FBI)"
+*   Cc: "[REDACTED]" <[REDACTED]>
+*   Subject: FW: [EXTERNAL] Follow up to voicemail-[REDACTED]
+*   Date: Tue, 12 Oct 2021 23:32:20 +0000
+
+**Middle Header:**
+*   From: [REDACTED] <[REDACTED]>
+*   Sent: Tuesday, October 12, 2021 3:30 PM
+*   To: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+*   Subject: FW: [EXTERNAL] Follow up to voicemail-[REDACTED]
+
+**Bottom Header:**
+*   From: [REDACTED] <[REDACTED]>
+*   Sent: Tuesday, October 12, 2021 3:19 PM
+*   To: [REDACTED]
+*   Subject: [EXTERNAL] Follow up to voicemail-[REDACTED]
+
+**Footer:**
+*   EFTA00025292
+
+## Notable Details / Clues
+*   **Law Enforcement Involvement:** The top header explicitly lists "(NY) (FBI)" in the "To" field, indicating that law enforcement officials in New York are recipients of this correspondence.
+*   **Organization Identity:** The acronym "USANYS" appears twice as part of an email address; this likely refers to a US-based organization or airport authority (common abbreviations for US airports).
+*   **External Flagging:** Both middle and bottom emails are tagged with "[EXTERNAL]", suggesting the original sender was outside the recipient's corporate firewall, triggering security notices.
+*   **Time Sequence:** The email chain reveals a tight conversation window between roughly 3:19 PM and 23:32 UTC (late afternoon/evening).
+*   **Voicemail Context:** The subject lines repeatedly reference "Follow up to voicemail," indicating that the email correspondence is triggered by missed phone calls or voice messages left on machines.
+*   **Forwarded Messages:** The "FW:" prefix in the top two headers indicates a chain of forwarded emails, meaning information was being passed along between different parties.
+*   **Redaction Pattern:** The redactions are inconsistent; while names are blacked out, specific identifiers like "(FBI)" and "(USANYS)" remain visible, suggesting these labels are crucial for classification.
+*   **Formatting:** The headers use a standard, left-aligned sans-serif font typical of email clients.
+*   **Document ID:** The alphanumeric string "EFTA00025292" suggests this image is part of a larger evidentiary document or case file.
+*   **Missing Content:** The actual text bodies of the emails are completely blacked out, preventing analysis of the specific instructions or information discussed in the investigation.
+*   **Date Consistency:** All three messages share the same date (Tuesday, October 12, 2021), confirming they are part of a single day's rapid exchange.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+
+EFTA00025293
+
+## Structured Fields
+*   **Doc ID**: EFTA00025293
+

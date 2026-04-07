@@ -1,0 +1,151 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032148.pdf ts=2026-03-19T13:42:37 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+(X)
+Page 1 of 1
+[REDACTED] - Suicide Watch/Psych Observation Update
+From: [REDACTED]
+To: Suicide Watch/Psych Observation Update
+Date: 7/30/2019 12:30 PM
+Subject: Suicide Watch/Psych Observation Update
+Inmate Epstein #76318-054 is being taken off of Psych Observation and needs to be housed with an appropriate cellmate.
+Suicide Watch
+None
+Psych Observation
+None
+Thank you,
+[REDACTED]
+
+file:///C:/Users/bop18967/AppData/Local/Temp/1/XPgrpwise/5D403854NYMDOM1NY... 8/13/2019
+EFTA00032148
+
+## Structured Fields
+- Date: 7/30/2019
+- Document Date (Footer): 8/13/2019
+- Inmate Name: Epstein
+- Inmate ID: #76318-054
+- Subject: Suicide Watch/Psych Observation Update
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a single page of a digital document, likely an email viewer or e-discovery export, titled "Page 1 of 3" in the upper right corner. At the top left, header statistics indicate that there are 71 total recipients for the correspondence being displayed. These are broken down into two categories: 27 "Acknowledged" and 44 "Response Pending." A large, solid black rectangular bar occupies the entire left vertical portion of the document, redacting the names of the email recipients. To the right of this black bar is a column of text listing the status of each individual recipient. The list consists primarily of the phrases "Read" and "Response Pending," arranged in a non-random sequence. At the bottom of the page, a computer file path is visible, indicating the source location on a Windows system (C:/Users/bop18967...), along with a date stamp of 8/14/2019. A Bates number "EFTA00032149" appears in the bottom right corner, suggesting this is part of a legal or official filing record.
+
+## Visible Text (verbatim)
+**Header:**
+Page 1 of 3
+Recipients: 71 Acknowledged: 27, Response Pending: 44
+
+**Body List (Top to Bottom):**
+Read
+Read
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Read
+Response Pending
+Read
+Response Pending
+Read
+Response Pending
+Response Pending
+Read
+Read
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Read
+Response Pending
+Response Pending
+Response Pending
+Read
+Response Pending
+Read
+Read
+Response Pending
+
+**Footer:**
+file:///C:/Users/bop18967/AppData/Local/Temp/2/XPgrpwise/5D403854NYMDOM1NY... 8/14/2019
+EFTA00032149
+
+## Notable Details / Clues
+- **Redaction:** The black bar effectively hides the identities of all 71 recipients, implying privacy concerns or legal privilege regarding the email distribution list.
+- **High Volume:** The discrepancy between the total number of recipients (71) and acknowledged ones (27) indicates a low engagement rate for this specific communication (44 people have not yet responded).
+- **Software Interface:** The text "XPgrpwise" in the file path suggests the use of Electron for Discovery (EDIS), which is standard software for processing electronic discovery materials.
+- **Document Control:** The Bates number (EFTA00032149) and page count ("Page 1 of 3") confirm this document has been indexed and prepared for official review or litigation.
+- **Date Context:** The footer date "8/14/2019" provides a specific timeframe for the metadata associated with this screenshot.
+- **Status Pattern:** The list shows "Read" statuses interspersed with multiple "Response Pending" statuses, suggesting a mix of recipients who viewed the email but did not reply, and those who have neither read nor responded yet.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is a screenshot of a document viewer displaying what appears to be an email status log or message view from page 2 of 3. A tall, solid black rectangular block obscures the left third of the screen vertically, hiding content such as sender/receiver names or subject lines. To the right of this blacked-out section is a single column of text listing various system statuses, predominantly "Read" and "Response Pending." At the bottom of the page, there are metadata sections including an "Attachments" count (User: 0, System: 2), a "Send Options" header, a file system path located at the very bottom left indicating a Windows environment, and a document reference number in the bottom right corner. The font throughout is a standard serif typeface, likely Times New Roman or similar, used for legal or formal documentation (eDiscovery).
+
+## Visible Text (verbatim)
+**Header:**
+Page 2 of 3
+
+**Main List (Top to Bottom):**
+Read
+Response Pending
+Response Pending
+Response Pending
+Read
+Read
+Response Pending
+Read
+Read
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Response Pending
+Read
+Read
+Response Pending (This line appears lighter/faded, possibly reading "Transferred" or just formatted differently)
+Read
+Response Pending
+Read
+Read
+Read
+
+**Footer:**
+Attachments: User: 0, System: 2
+Send Options:
+file:///C:/Users/bop18967/AppData/Local/Temp/2/XPgrpwise/5D403854NYMDOMINY...
+8/14/2019
+EFTA00032150
+
+## Notable Details / Clues
+- **Redaction:** The black bar completely hides the recipient list, suggesting this document was created to review email correspondence where sensitive header information (like names or subjects) needed to be redacted for privacy or discovery processes.
+- **System Log Nature:** The column of text acts as a system log, tracking the reading status of emails. A high frequency of "Response Pending" suggests a large volume of unread or action-required messages were processed during this session.
+- **"Transferred" Status:** In the lower-middle section (below the second block of reads), there is a line that appears in a lighter grey color compared to the black text above and below it. This anomaly distinguishes it from the standard "Response Pending" lines, indicating a different action (Transfer) was taken on that specific message.
+- **File Path Analysis:** The path `file:///C:/Users/bop18967...` reveals this is a Windows operating system capture. The username fragment `bop18967` implies a corporate or academic network, and the folder structure (`AppData/Local/Temp/2/XPgrpwise`) suggests the use of GroupWise, an email groupware solution.
+- **Date:** The timestamp 8/14/2019 places the document's generation in mid-August 2019.
+- **Document ID:** The string `EFTA00032150` in the bottom right corner is likely an internal reference number, case number, or Bates number for a legal discovery file (EFTA likely stands for an organization name like Employment and Family Training Association).
+- **Attachment Count:** "User: 0, System: 2" indicates that while the specific user attached no files, a system agent or process sent/processed two items.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 3 of 3
+
+file:///C:/Users/bop18967/AppData/Local/Temp/2/XPgrpwise/5D403854NYMDOM1NY...   8/14/2019
+
+EFTA00032151
+
+## Structured Fields
+*   **Date:** 8/14/2019
+*   **Document ID:** EFTA00032151
+*   **Page Count:** Page 3 of 3
+

@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002420.pdf ts=2026-03-05T19:58:04 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- **Setting and Environment**: The image depicts the interior of a cluttered telecommunications closet, server room, or network equipment cabinet. The lighting is artificial and creates deep shadows, suggesting flash photography in a somewhat dark space.
+- **Upper Wire Management**: At the very top, a black wire management tray spans horizontally across the frame. Cables hang down from this tray in a disorganized manner.
+- **Top Left Corner**: A thick black cable is coiled in a loop hanging near the top left corner, adjacent to a white wall plate or outlet cover.
+- **Vertical Cable Runs**: Along the left wall, several yellow ethernet cables run vertically downwards, secured by clips or ties (though the specific clamps are obscured).
+- **Rear Wall Boarding**: A large sheet of brown plywood is mounted directly onto the back wall, likely to conceal messy wiring or equipment mounted behind it.
+- **Wall-Mounted Enclosures**: Mounted on this plywood board are two grey, rectangular metal enclosures (possibly breakers, relays, or small network interface boxes) positioned side-by-side in the upper center.
+- **Central Network Equipment**: In the middle of the frame, a long, black horizontal device (resembling a switch or router) rests on a metal rail or shelf.
+- **Equipment Ports**: On the rear faceplate of the central black device, bright yellow ports are visible, indicating the presence of Small Form-factor Pluggable (SFP) optical transceivers.
+- **Right-Side Server**: To the right, a tall grey server chassis stands vertically. It features ventilation holes and a vertical handle on the front door.
+- **Lower Cabling Tangle**: The right side of the lower section is filled with a chaotic mix of blue and white ethernet cables hanging loosely.
+- **Orange Cabling**: Several bright orange cables (distinct from the yellow ones above) run horizontally across the lower middle section, crossing in front of other equipment.
+- **Lower Hardware**: Below the central shelf, another piece of black hardware is visible, featuring a distinct circular white vent on its side.
+- **Asset Tagging**: A small white rectangular tag hangs from a bundle of cables near the center-left; it has a red mark near the top but no legible text other than that symbol.
+
+## Visible Text (verbatim)
+- Bottom Right Corner: `EFTA00002420`
+
+## Notable Details / Clues
+- **Improvisation**: The use of a large plywood board to cover the back wall suggests this might be a temporary setup, a repurposed space, or an effort to hide disorganized cabling.
+- **Cable Management Issues**: The cables are generally unsecured and hanging loose (dangling), which can lead to tripping hazards or physical damage to the connections.
+- **Asset Identification**: The presence of the hanging white tag with a red punch implies that IT personnel attempt to track individual equipment, even amidst the clutter.
+- **Power Infrastructure**: The sheer volume of black cables suggests high power consumption, typical of servers and networking gear.
+- **Color Coding**: There is a distinct use of color-coded cabling (yellow for data/power in this specific bundle, blue/white for standard ethernet), though the organization is poor.
+- **Ventilation**: The circular white vent on the lower equipment indicates active cooling requirements for the hardware below.
+

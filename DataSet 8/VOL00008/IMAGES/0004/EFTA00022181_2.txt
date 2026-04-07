@@ -1,0 +1,67 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00022181.pdf ts=2026-03-15T06:41:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email thread regarding a federal criminal trial. The document is structured as a forward with multiple replies nested within.
+
+At the very top, the header of a forwarded email is visible but heavily redacted. Black bars obscure the "From" and "To" fields. The subject line indicates the case is "United States v. Ghislaine Maxwell," followed by a redacted section and the word "opens." The date stamp reads "Mon, 29 Nov 2021."
+
+Below a horizontal separator line, there is a brief encouraging message: "Good luck!!! Proud of you guys!!!"
+
+Following this is the primary email header. The "From" field is redacted, but the "Sent" time is listed as "Monday, November 29, 2021 12:59 PM." The "Cc" field reveals government-affiliated addresses, specifically listing "USANYS-CRIMINAL AUSAS," "USANYS-CRIMINAL PARALEGALS," and "USANYS-INVESTIGATORS," all ending in "@usa.doi.gov" or similar domains. The subject line mirrors the top email: "Re: United States v. Ghislaine Maxwell."
+
+The body of this middle email is written from a mobile device, indicated by the footer "Sent from my iPhone." The text announces that the jury has been selected ("We (finally!) have our jury") and that preliminary instructions are in progress. It mentions court will resume/open after lunch around 1:45.
+
+Below this section is a timestamped quote referencing an email sent "On Nov 28, 2021." This quoted text contains the bulk of the information. It includes a paragraph criticizing prosecutors in other districts (specifically mentioning Florida) for being afraid to charge crimes occurring in 1994, asserting that those willing to do so are found in the Southern District of New York. A second paragraph serves as a moral statement about justice and the trial's potential to reveal truth about Ghislaine Maxwell exploiting underage girls.
+
+Further down, logistical details for attending the court session are provided. It lists the "Main courtroom" as room 318 at 40 Foley. It lists overflow courrooms (110, 506, 905, 906) and a specific conference room (room 130) with a monitor for a live feed. A schedule is provided, noting an expected start time of 8:30 a.m. with peremptory challenges.
+
+The email concludes with a signature block identifying the sender as an "Assistant United States Attorney" for the "Southern District of New York," located at "One Saint Andrew's Plaza, New York, NY 10007." A final redacted black bar sits at the bottom, followed by a document reference number in the footer.
+
+## Visible Text (verbatim)
+**Top Section:**
+- Subject: FW: United States v. Ghislaine Maxwell -- [redacted] opens
+- Date: Mon, 29 Nov 2021 18:02:01 +0000
+- Good luck!!! Proud of you guys!!!
+
+**Main Email Header:**
+- From: [redacted]
+- Sent: Monday, November 29, 2021 12:59 PM
+- To: [redacted]
+- Cc: USANYS-CRIMINAL AUSAS <USANYS-CRIMINALAUSAS@usa.doi.gov>; USANYS-CRIMINAL PARALEGALS <USANYSCRIMINALPARALEGALS@usa.doi.gov>; USANYS-INVESTIGATORS <USANYS- INVESTIGATORS@usa.doi.gov>; [redacted]
+- Subject: Re: United States v. Ghislaine Maxwell -- [redacted] opens
+
+**Main Email Body:**
+- We (finally!) have our jury. Preliminary instructions are happening now, and [redacted] will open after lunch, around 1:45. Come support!
+- Sent from my iPhone
+- On Nov 28, 2021, at 9:59 AM
+
+**Quoted Text:**
+- There are prosecutors who would be afraid to charge a case that would require them to prove sex crimes that took place in 1994. If you want to find them, you’ll have to go to Florida. This is the Southern District of New York.
+- It is never too late for justice. Sometimes, you just have to have faith in the power of the truth and hope twelve jurors will do the right thing. At this trial, brave women will take the witness stand and the truth will come out: Ghislaine Maxwell sexually exploited underage girls. She caused unspeakable harm to vulnerable kids. It is time to hold her accountable.
+- [redacted name] will open in the morning. Please come support. Details below. Updates to follow.
+- Main courtroom: 40 Foley, courtroom 318
+- Overflow courtsrooms: 110, 506, 905, and 906. There is also a conference room on the first floor (room 130) that has a very small monitor with a live feed just for our office.
+- Timing: we’ll start at 8:30 a.m. with peremptory challenges, and we expect to go straight to preliminary instructions and opening statements. In order to get a seat, we’d recommend that you go over early.
+- [redacted name]
+- Assistant United States Attorney
+- Southern District of New York
+- One Saint Andrew’s Plaza
+- New York, NY 10007
+
+**Footer:**
+- EFTA00022181
+
+## Notable Details / Clues
+- **Government Authority:** The email chain is clearly from a U.S. government attorney, evidenced by the "@usa.doi.gov" and "@usa.justice.gov" style addresses (implied by context) in the Cc field.
+- **Case Context:** The trial is explicitly identified as *United States v. Ghislaine Maxwell*. This is a high-profile federal case involving sex trafficking charges.
+- **Geographic Specificity:** The email identifies the location as the "Southern District of New York" and specifically mentions "40 Foley," which is a well-known address for the U.S. Attorney's Office in Manhattan (located in the Trump Building).
+- **Date Context:** The dates are late November 2021, placing this during the second phase of the Maxwell trial.
+- **Political/Professional Contrast:** The text explicitly contrasts the Southern District of New York with Florida, stating that Florida prosecutors would be "afraid to charge a case" involving sex crimes from 1994, suggesting a critique of prosecutorial standards elsewhere.
+- **Emotional Tone:** The sender is visibly passionate and supportive of the prosecution ("It is time to hold her accountable," "brave women will take the witness stand").
+- **Logistical Specificity:** Detailed instructions for supporters include specific room numbers (318, 110, 506, etc.) and a specific instruction to get there early ("recommend that you go over early") due to seating limitations.
+- **Technology:** The "Sent from my iPhone" indicator shows the sender was likely in court or mobile at the time of sending.
+- **Redaction:** Significant portions of the sender's name and recipient names are redacted with black bars, protecting identities while keeping the content public or semi-public (if this is a leaked/internal doc).
+- **Document ID:** The string "EFTA00022181" in the bottom right suggests this image might be part of a larger file management system or evidence logging system.
+

@@ -1,0 +1,188 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006043.pdf ts=2026-03-07T19:36:19 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Media
+[REDACTED]
+cell [REDACTED] Newark Division
+[cell] [REDACTED]
+[REDACTED]
+
+## Structured Fields
+- **Location**: Newark (from handwritten note "Newark Division")
+- **Doc ID**: EFTA00006043
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+CD's (8)
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+
+EFTA00006044
+
+## Structured Fields
+- Date: July 27, 2020
+- Document ID: EFTA00006044
+- Item Description: CD's (8)
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+72-MM-113327
+SONY
+ID5
+10/29/04
+
+[REDACTED]
+
+72-MM-113327
+ID6
+10/28/04
+
+[REDACTED]
+
+EFTA00006045
+
+## Structured Fields
+- **Case ID:** 72-MM-113327
+- **ID (Disc 1):** ID5
+- **Date (Disc 1):** 10/29/04
+- **ID (Disc 2):** ID6
+- **Date (Disc 2):** 10/28/04
+- **Document ID:** EFTA00006045
+- **Manufacturer:** SONY
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+**Top Disc:**
+72-MM-113327
+SONY
+(CD-R)
+(103)
+11/21/09
+
+[REDACTED]
+
+**Bottom Disc:**
+72-MM-113327
+104
+11/18/09 (or 11/13/09 - looks like an 8 or 3)
+[REDACTED]
+
+## Structured Fields
+*   **Case ID / Document ID:** EFTA00006046
+*   **Media ID:** 72-MM-113327
+*   **Date (Disc 103):** 11/21/09
+*   **Date (Disc 104):** 11/18/09 (Likely, or 11/13/09)
+*   **Organization:** SONY
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+# Top Disc Label
+
+72-MM-113327
+ID1
+[REDACTED]
+11/3/09
+
+# Bottom Disc Label
+
+Agency: FBI
+Office: MM  Date: 11/3/09
+Case No.: 72-mm-113327  DVD No.: 102
+Original [ ]
+Copy [x]
+Video .AVI [x]
+Image MJPEG [ ]
+Wave File [ ]
+
+Security Classification:
+
+Comment:
+
+Agent:
+
+EFTA00006047
+```
+
+## Structured Fields
+- **Agency**: FBI
+- **Date**: 11/3/09
+- **Office**: MM
+- **Case No.**: 72-MM-113327
+- **DVD No.**: 102
+- **File Type**: Video .AVI
+- **Copy Status**: Copy
+- **Document ID (Footer)**: EFTA00006047
+</think>
+
+```markdown
+# Top Disc Label
+
+72-MM-113327
+ID1
+[REDACTED]
+11/3/09
+
+# Bottom Disc Label
+
+Agency: FBI
+Office: MM  Date: 11/3/09
+Case No.: 72-mm-113327  DVD No.: 102
+Original [ ]
+Copy [x]
+Video .AVI [x]
+Image MJPEG [ ]
+Wave File [ ]
+
+Security Classification:
+
+Comment:
+
+Agent:
+
+EFTA00006047
+```
+
+## Structured Fields
+- **Agency**: FBI
+- **Date**: 11/3/09
+- **Office**: MM
+- **Case No.**: 72-MM-113327
+- **DVD No.**: 102
+- **File Type**: Video .AVI
+- **Copy Status**: Copy
+- **Document ID (Footer)**: EFTA00006047
+```
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a high-contrast, black-and-white photograph featuring two optical media discs (likely CDs or DVDs) arranged vertically one above the other. The disc on top has a highly reflective, silver surface typical of pressed optical media, showing significant glare and light reflections across its face. It appears to be resting on top of another object, partially encased in a plastic sleeve or holder. The disc below it is encased within a clear plastic jewel case sleeve; the disc surface itself is very light or white, suggesting it might be a recordable media (CD-R) or simply the side without the printed label. This bottom disc sits inside a square-ish plastic tray or insert visible through the transparent cover of the case. To the far left of the image, a thick, solid black vertical bar runs from top to bottom, likely representing the margin of the original document page this scan came from. The background is primarily white but exhibits heavy grain and noise typical of scanned documents.
+
+## Visible Text (verbatim)
+**Top Disc:**
+*   Printed/Handwritten near top edge: "31E-MM-108..." (digits are faint and partially obscured).
+*   Handwritten near center hole: "101".
+*   Handwritten below "101": "Copy".
+
+**Bottom Disc:**
+*   First line of text: "31E-MM-108062".
+*   Second line of text: "72-MM-113327".
+
+**Footer/Overlay:**
+*   Bottom right corner reference ID: "EFTA00006048".
+
+## Notable Details / Clues
+*   **Military/Government Context:** The alphanumeric codes (specifically the "MM" likely standing for Military Manual) suggest these are official documents or manuals used by military or government organizations.
+*   **Archival Nature:** The word "Copy" handwritten on the top disc and the specific serial-like numbers suggest these items have been duplicated, cataloged, or filed for preservation.
+*   **Specific Numbering:** The bottom disc contains two distinct identifiers: one starting with 31E (likely matching the obscured text on the top disc) and another starting with 72, possibly indicating a series number or a different related volume.
+*   **Image Quality:** The image is monochromatic and grainy, typical of faxed or scanned evidence documents, explaining the lower resolution and high contrast.
+*   **Object Orientation:** The discs are stacked such that the top disc is face-up (reflective side visible) while the bottom one is housed in its case, implying a storage or filing setup.
+*   **Handwriting Style:** The text "101 Copy" on the top disc appears to be written with a standard pen, while the text on the bottom disc looks bold and darker, possibly written with a marker.
+

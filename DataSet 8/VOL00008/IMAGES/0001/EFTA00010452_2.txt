@@ -1,0 +1,58 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010452.pdf ts=2026-03-10T04:18:31 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email chain thread with significant redactions obscuring personal identifiable information. The document is oriented vertically and contains three distinct email messages stacked chronologically from newest at the top to oldest at the bottom (or vice-versa depending on viewing style, but the headers indicate a sequence).
+
+At the very top, there is a header block standard for email clients. Below this, the first visible text link reads "Subpoena attached." followed by a large horizontal black bar that likely covers an image or signature.
+
+The middle section contains a second email entry. It has a header with redacted sender and recipient information, dated Saturday, April 04, 2020. The body text discusses a missed call attempt and asks to speak Monday morning. It also requests a copy of a document left at the office, noting that the sender was "ordered to work at home," suggesting a pandemic-era context. Below this text is another large black rectangular redaction box.
+
+The bottom section shows the oldest visible email in the thread, dated Friday, April 03, 2020. It serves as a follow-up to a voice mail. The text asks the recipient to call back. This section is followed by one final large black redaction box at the bottom. A document identification number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+- **Header Block:**
+    - From: [Redacted]
+    - To: [Redacted]
+    - Subject: RE: FirstBank Puerto Rico
+    - Date: Sat, 04 Apr 2020 17:34:07 +0000
+    - Attachments: 2019-12-31,[Redacted]_Puerto_Rico.pdf
+- **First Text Segment:**
+    - Subpoena attached.
+- **Middle Email Header:**
+    - From: [Redacted]
+    - Sent: Saturday, April 04, 2020 08:20
+    - To: [Redacted]
+    - Subject: FW: FirstBank Puerto Rico
+- **Middle Email Body:**
+    - "Hey [Redacted]. Sorry I missed your call back. I tried you again later yesterday but we couldn’t connect. No huge rush – can we speak Monday morning? If so, what’s a good time?"
+    - "In the meantime, it would help if you could email me a copy of the [Redacted]. I think all I have is a hard copy which I believe I left back at the office before we were ordered to work at home."
+    - "Thank you and enjoy the weekend."
+- **Bottom Email Header:**
+    - From: [Redacted]
+    - Sent: Friday, April 03, 2020 9:59 AM
+    - To: [Redacted]
+    - Subject: FirstBank Puerto Rico
+- **Bottom Email Body:**
+    - "Good morning [Redacted]. I just left you a voice mail. When you have a couple of minutes, please call me on [Redacted]."
+    - "Thanks."
+- **Footer:**
+    - EFTA00010452
+
+## Notable Details / Clues
+- **Legal Context:** The text "Subpoena attached" strongly suggests this document is part of legal discovery or a court case.
+- **Redaction Strategy:** Names, phone numbers, and specific document titles are heavily blacked out using rectangular blocks, standard practice for privacy in public records.
+- **Document ID:** The code "EFTA00010452" in the bottom right suggests this is an official record or case file (possibly related to EFTA - Employee Federal Tax Account or similar entity).
+- **Pandemic Context:** The phrase "ordered to work at home" in the middle email body, combined with the dates (April 2020), places the correspondence firmly within the early phase of the COVID-19 pandemic.
+- **File Naming:** An attachment named "2019-12-31,[Redacted]_Puerto_Rico.pdf" indicates a financial or annual record from the end of 2019 related to FirstBank Puerto Rico.
+- **Time Stamps:** The emails are close together in time, spanning late Friday (April 3) and early Saturday morning (April 4), indicating an urgent but polite attempt to connect.
+- **Missing Information:** The sender's names and phone numbers are entirely obscured, preventing identification of the specific individuals involved despite the context clues.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+## Structured Fields
+- **Doc ID**: EFTA00010453
+

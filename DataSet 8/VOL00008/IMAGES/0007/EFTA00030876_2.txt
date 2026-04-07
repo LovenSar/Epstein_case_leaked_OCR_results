@@ -1,0 +1,80 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030876.pdf ts=2026-03-18T23:55:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread regarding the logistical coordination of a secure delivery involving physical storage media ("drives"). The document is a standard white-background email client interface with black text. A significant portion of the header information (sender and recipient names) is obscured by solid black rectangular redaction bars. The email chain takes place on Monday, January 11, 2021.
+
+The top section of the email body is a reply confirming a meeting time. The sender states they will meet outside an area designated as "ISA" at 11:30 AM. A phone number placeholder is redacted in this confirmation. Below this is a separator line indicating an "Original Message." The original message, sent earlier on the same day (10:47 AM), requests a pickup for drives. The sender proposes either running to meet the recipient around 11:30 or bringing the drives directly after 12:00 PM. A potential typo is visible in the time "12-1230."
+
+The lower section of the image contains a long quote from an earlier message, indicated by `>` characters on the left margin. This historical email introduces the context: the FBI has agreed to deliver "two new drives" from their office to an "MDC" (likely Metropolitan Correctional Center or similar facility) for Ghislaine Maxwell. The date of this original FBI coordination email is visible as 1/8/2021. The text mentions a "Special Agent" who will be coordinating, though their name is redacted.
+
+## Visible Text (verbatim)
+**Header Information:**
+Subject: RE: Maxwell drive delivery Monday 1/11
+Date: Mon, 11 Jan 2021 16:12:38 +0000
+
+**Body - First Email:**
+Hi [Redacted]
+Yes, I will meet you outside ISA at 11:30 today. If anything comes up, please feel free to give me a call at [Redacted]. Thank you!
+
+-----Original Message-----
+From: [Redacted]
+Sent: Monday, January 11, 2021 10:47 AM
+To: [Redacted]
+Cc: [Redacted]
+Subject: Re: Maxwell drive delivery Monday 1/11
+[Redacted],
+I will be picking up the drives today. Are you available to run out to me around 11:30?
+[Redacted] or [Redacted] ideally I'd be bringing the drives directly to you after pick up. Are you available around 12-1230?
+Feel free to call me at [Redacted] [Redacted]
+[Redacted]
+
+**Body - Quoted History:**
+> On Jan 11, 2021, at 09:48, [Redacted] wrote:
+> > It will be myself or [Redacted].
+> > Best,
+> [Redacted] -
+>>>> [Redacted Block] 1/8/2021 2:20 PM >>>>
+> Good afternoon,
+> > The FBI has very kindly agreed to deliver two new drives from my
+> office to the MDC for Ghislaine Maxwell on Monday, January 11th. I've
+> cc'd Special Agent [Redacted] who will be coordinating the delivery.
+> Would you please let us know what time the FBI should plan to make the
+> delivery and who will be available to receive the drives on Monday?
+> Thank you all very much for your help.
+> Best,
+> [Redacted]
+
+**Footer:**
+EFTA00030876
+
+## Notable Details / Clues
+- **Subject Matter:** The email concerns a sensitive physical delivery ("drives") related to the Ghislaine Maxwell case or detention (MDC).
+- **Agency Involvement:** The FBI is explicitly mentioned as the entity delivering the items.
+- **Specific Terminology:** The phrase "ISA" likely refers to an International Secure Area or similar restricted zone within a facility.
+- **Date Discrepancy/Typo:** The sender requests availability at "12-1230," which is a clear typographical error for 12:30 PM.
+- **Quoted Timestamp:** The bottom-most quoted email has a timestamp ending in "/2021 2:20", likely indicating February 8th (1/8 usually means Jan 8, but the slash placement can be ambiguous), whereas the main thread is January 11th.
+- **Redaction Pattern:** Names and phone numbers are consistently blacked out with rectangular blocks, suggesting this document has been processed for privacy or security clearance before release.
+- **Document ID:** The code "EFTA00030876" in the bottom right suggests this is part of a government or legal file collection (likely an FBI internal tracking number).
+- **Sender Tone:** The tone is professional but urgent, coordinating logistics for a specific time window ("today").
+- **Coordinate Person:** A "Special Agent" is cc'd specifically to coordinate the delivery, highlighting the high-security nature of the transaction.
+- **Location Context:** The meeting spot is described as "outside ISA," implying an outdoor designated point in a facility where visitors are permitted or expected.
+- **Communication Channels:** Multiple phone numbers and call-back options were offered for flexibility ("If anything comes up...").
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+>[REDACTED]
+>
+>Assistant United States Attorney
+>Southern District of New York
+
+>[REDACTED]
+>[REDACTED]
+>[REDACTED]
+>[REDACTED]
+
+## Structured Fields
+- **Organization**: Assistant United States Attorney, Southern District of New York
+- **Doc ID**: EFTA00030877
+

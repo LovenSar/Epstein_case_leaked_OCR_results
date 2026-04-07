@@ -1,0 +1,19 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014580.pdf ts=2026-03-12T03:21:56 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```json
+{
+  "Date/Case ID/Location/Names/Organizations/Doc IDs": {
+    "Date": "Sat, 03 Aug 2019 22:31:51 +0000",
+    "Case ID": "EFTA00014580",
+    "Location": "SDNY",
+    "Names": "[REDACTED]",
+    "Organizations": "SDNY, AUSA(s)",
+    "Doc IDs": "EFTA00014580"
+  },
+  "Transcription": {
+    "header": "From: \"[REDACTED])\" <[REDACTED]>\nTo: \"[REDACTED])\" <[REDACTED]>\nSubject: Automatic reply: SDNY Grand Jury Subpoena Dated July 5, 2019 issued to [REDACTED] [REDACTED]\nDate: Sat, 03 Aug 2019 22:31:51 +0000",
+    "body": "I will be out of the office on vacation until Monday, August 12th. Although I will have access to email during my absence, my responses may be delayed. For urgent matters, please contact the other AUSA(s) on the case, or [REDACTED] \n[REDACTED] or",
+    "footer": "EFTA00014580
+

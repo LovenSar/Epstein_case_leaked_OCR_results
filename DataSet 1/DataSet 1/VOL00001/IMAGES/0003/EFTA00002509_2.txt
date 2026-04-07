@@ -1,0 +1,27 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002509.pdf ts=2026-03-05T20:38:51 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a large, rectangular piece of industrial hardware, likely a server chassis backplate or power distribution unit cover, resting horizontally on a grey surface. The object is constructed from a metallic sheet, possibly aluminum, with a matte silver finish that is heavily marked by fingerprints, dust specks, and smudges, particularly across the center where a bright glare from an overhead light source reflects.
+
+The chassis is visually divided into two distinct zones by a vertical seam running down the right side. The left two-thirds of the panel is a smooth, blank expanse featuring several warning labels. Near the top left, there is a black plastic latch or handle mechanism situated between two yellow safety stickers. Below that, near the bottom left corner, sits another yellow and black warning sticker regarding surface temperature.
+
+The right third of the chassis features a structural design distinct from the main panel. This section contains a grid of small, circular mounting holes arranged in vertical columns. Along the far right edge, there are screws securing the panel together. At the very top right and bottom right corners, small, tan-colored cardboard tabs or handles protrude slightly, likely used for handling or rack-mounting. A vertical strip on the right side holds several asset labels and barcodes. The lighting is overhead and somewhat harsh, creating a large, blown-out white reflection in the center of the metal surface that obscures some underlying dirt.
+
+## Visible Text (verbatim)
+- Top left sticker (vertical): "CAUTION", "23-37 Vdc", "50.60 Wb" (partially obscured).
+- Sticker below latch: "CAUTION", followed by illegible blocks of text starting with "Do not operate".
+- Bottom left sticker: "WARNING Hot Surface", accompanied by a triangle warning symbol.
+- Top right label (black box): "Drive Bay ID:", followed by a grid containing the numbers "1 2 3" and "4 5 6".
+- Vertical strip near top right edge: Contains a barcode and text beginning with "P/N".
+- Bottom right corner image overlay: "EFTA00002509".
+
+## Notable Details / Clues
+- **Condition:** The metal surface is in a used state, covered in a fine layer of dust and visible fingerprint streaks radiating from the center reflection.
+- **Hardware Features:** The black latch on the left suggests a removable panel or cover mechanism. The grid of holes on the right side implies mounting points for internal components or cooling vents.
+- **Safety Markings:** The use of standard yellow/black ISO warning triangles indicates high-voltage or heat hazards, typical of power distribution equipment.
+- **Mounting Tabs:** The cardboard-like tabs at the top and bottom right corners suggest this is a loose component not currently mounted in a rack, intended for transport.
+- **Asset Tracking:** The presence of barcodes and specific "Drive Bay ID" labels suggests this is part of a larger IT infrastructure inventory system.
+- **Vertical Seam:** The straight line separating the main panel from the right-side perforated section indicates two separate metal sheets joined together to form the chassis depth.
+

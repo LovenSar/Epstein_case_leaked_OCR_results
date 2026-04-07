@@ -1,0 +1,39 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002516.pdf ts=2026-03-05T20:43:46 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of a 3.5-inch internal hard disk drive resting on a scratched, metallic gray workbench surface. The drive is encased in a silver, aluminum alloy shell with rounded corners and four mounting screw holes (two visible at the bottom, two at the top). A prominent black backplane connector assembly extends from the left edge, featuring rows of gold-plated electrical fingers designed for connection to a server or RAID controller motherboard. A large white sticker dominates the center of the drive face, containing branding, model numbers, serial information, and certification logos. On the far right side of the metal casing, the number "4" has been handwritten in black marker.
+
+## Visible Text (verbatim)
+**Left/Center Label Block:**
+- Logo: "WD Western Digital www.westerndigital.com"
+- Model: "WD5003ABYX WD RE4"
+- Capacity: "500GB DFP"
+- Serial Number: "S/N : WMAYP61074B5"
+- CT Code: "CT: 2CEHE003H4QABQ"
+- GPN: "GPN: 6S7753 - 006"
+- SATA specs: "SATA 7200RPM MDL : MB000GCHE WD MDL : WD5003ABYX-70C2LA0"
+- Warranty Warning: "Do not cover any drive holes. Product warranty will be void if seal, label or cover is removed or damaged."
+- World Wide Name (WWN): "WWN:50014EE06EB7D7F"
+- Date: "DATE : 26 MAY 2013"
+- DCX: "DCX : HHNNHTJCH"
+- DCM/Serial: "DCM : 0C08Z6ML7 R/N : 771702"
+- Electrical Specs: "LBA : 976773168 5VDC : 0.65A 12VDC : 0.50A"
+- Firmware/P/N: "P/N : 658083 - 001 FIRMWARE HP30"
+
+**Right Side/Edge Label Block:**
+- "Enterprise Storage" (with gear logo)
+- Barcode text: "SN: 2Y532510RB DP"
+- Regulatory Marks: FCC Class B, UL listed, RoHS, CE, KC certification.
+- Address: "Western Digital N.V., Uilenweg 2, NL - 1118 DS Schiphol-Zuid ZEP"
+
+## Notable Details / Clues
+- **Drive Model:** The "WD5003ABYX" model number identifies this as a Western Digital Red Edition (RE4) drive. These were designed for NAS (Network Attached Storage) and small business environments, typically featuring 256MB or 64MB cache (though the specific cache size isn't explicitly large enough to read clearly, RE4 usually implies lower specs than enterprise drives).
+- **Manufacturing Date:** The label "DATE : 26 MAY 2013" indicates the unit was manufactured in mid-2013. This dates the technology and firmware generation (Firmware HP30 suggests usage or compatibility with HP servers).
+- **Backplane Integration:** The presence of the black plastic connector on the left implies this drive is already installed into a chassis backplane, rather than being a standalone unit ready for installation.
+- **Inventory Tagging:** The handwritten "4" on the bottom right and the barcode sticker on the far right ("SN: 2Y532510RB") suggest this item has been processed through a logistics or repair workflow, likely cataloged as part of a larger stock.
+- **Regulatory Compliance:** The cluster of logos (FCC, UL, RoHS, CE, KC) on the right side indicates global compliance requirements for electronics sold in North America and Europe.
+- **Condition:** The drive appears functional but used; there is minor scuffing on the metal casing near the screw holes, and the label shows slight curling at the edges, typical of older components stored in inventory.
+- **Form Factor:** The physical dimensions and connector type confirm it is a standard 3.5-inch SATA hard drive, distinct from the smaller 2.5-inch drives used in laptops.
+

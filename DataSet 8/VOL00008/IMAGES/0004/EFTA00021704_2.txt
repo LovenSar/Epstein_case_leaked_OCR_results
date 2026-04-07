@@ -1,0 +1,47 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021704.pdf ts=2026-03-15T02:26:21 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED]" (NY) (FBI)" <[REDACTED]>
+To: [REDACTED] <[REDACTED]>, "[REDACTED]"
+<[REDACTED], "[REDACTED](NY) (FBI)" <[REDACTED]>
+Cc: "[REDACTED]" <[REDACTED]>, "[REDACTED]"
+<[REDACTED]>
+Subject: New York search warrant materials
+Date: Mon, 30 Sep 2019 19:22:53 +0000
+
+So the short answer is that the load files are not completed yet. One machine alone had over 800,000 emails. The limitation of the load files is that they can only be generated with 25,000 entries at a time. So I got out as quickly as I could what fit that bill. Now along has come all the stuff from the Island that had an expiration date, so that took priority. I can now go back and try to generate the stuff that has yet to be processed into load files, but the process is slow and painful. Just as an FYI, all the content is available for taint review in FTK right now.
+
+[REDACTED]
+Senior Forensic Examiner
+[REDACTED] cell
+[REDACTED] desk
+
+On Sep 30, 2019 3:13 PM, "[REDACTED]" (NY) (FBI)" <[REDACTED]> wrote:
+Hey [REDACTED],
+
+I've copied [REDACTED] here who has handled all of the Epstein evidence that was sent to CART. He should be able to answer your questions regarding what he's processed.
+
+[REDACTED]
+
+On Sep 30, 2019 1:57 PM, "[REDACTED]" <[REDACTED]> wrote:
+[REDACTED] [REDACTED],
+
+The taint team here apparently received materials from the search of the New York house but it's way fewer documents than we would have expected. Can you please let us know exactly how many electronic devices (phones, computers, hard drives, thumb drives, and/or discs) were sent to CART for processing, and how many were in fact processed and sent back to us? Or if it's easier to just put us in touch with the CART people directly, that's fine too. My understanding was that they were processing the materials in the attached, which appears to list approximately 38 computers and/or electronic storage devices seized along with an additional approximately 55 CDs.
+
+thanks,
+[REDACTED].
+
+[REDACTED]
+Assistant U.S. Attorney
+Southern District of New York
+[REDACTED]
+
+EFTA00021704
+
+## **Chain of Thought:**
+1.  **Header Parsing:** I identified the standard email headers (From, To, Cc) but noted redaction and line breaks. The "To" field spanned multiple lines with unclosed angle brackets `<`, which I transcribed as seen. The date and time are from the top email (Mon, 30 Sep 2019 19:22:53).
+2.  **Body Text Extraction:** I read through the three distinct email blocks visible in the thread. The first block starts with "So the short answer...". The second quoted block (dated 3:13 PM) starts with "Hey [REDACTED],". The third quoted block (dated 1:57 PM) starts with what appears to be a sign-off or glitched text `[REDACTED] [REDACTED],` followed by the body about "The taint team here...".
+3.  **Redaction Handling:** I replaced all black bars, names, and numbers with `[REDACTED]`. In the signature block of the first email, despite redactions, the words "cell" and "desk" were visible next to bars; I included them as they are part of the visual text, likely indicating contact type labels (e.g., "[REDACTED] cell [number]").
+4.  **Footer Extraction:** I found the Exhibit ID/Document Number `EFTA00021704` in the bottom right corner and included it at the end.
+

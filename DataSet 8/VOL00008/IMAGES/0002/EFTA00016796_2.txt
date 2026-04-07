@@ -1,0 +1,125 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016796.pdf ts=2026-03-13T03:06:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing three distinct message headers and corresponding body text segments, arranged vertically from top to bottom. The majority of specific identifiers such as sender names, recipient addresses, and specific usernames have been redacted with solid black rectangular bars. The document appears to be legal or investigative correspondence involving social media monitoring related to the Epstein case.
+
+The top section shows a reply dated Sunday, December 8, 2019. It features a signature block for a "Partner" at the law firm "BOIES SCHILLER FLEXNER LLP" located in Fort Lauderdale, FL. The body text preceding this signature thanks the recipient ("Very helpful. Thank you").
+
+The middle section is an email sent on the same day (Sunday, December 8, 2019). The visible text discusses investigating a male third party's Twitter account. The writer expresses skepticism about whether this person is acting in "good faith" or has victims' best interests at heart. It explicitly mentions that the individual appears to be "trolling" people to get attention by exploiting the Epstein case. A hyperlink to a Twitter profile is visible but partially redacted. The email concludes with concern for a female recipient ("her") regarding putting faith in deceptive individuals.
+
+The bottom section shows an email sent earlier, on Saturday, December 07, 2019. The text fragment visible indicates that the sender was asked to pass information along "in case it is helpful to the FBI." It mentions that a woman ("she") continues to receive posts and that the male subject keeps asking her for "help."
+
+## Visible Text (verbatim)
+**Top Segment:**
+*   **Header Fields:** From: [Redacted], To: [Redacted], Cc: [Redacted]
+*   **Subject:** RE: Social Media Posts tha[Black Bar]is receiving
+*   **Date:** Sun, 08 Dec 2019 18:30:49 +0000
+*   **Inline-Images:** image001.png; image002.png
+*   **Body Text:** Very helpful. Thank you.
+*   **Signature:** [Black Bar], Partner, BOIES SCHILLER FLEXNER LLP, 401 E. Las Olas Blvd. Suite 1200 Fort Lauderdale, FL, 33301, www.bsflp.com
+
+**Middle Segment:**
+*   **Header Fields:** From: [Redacted], Sent: Sunday, December 8, 2019 1:28 P[Black Bar], To: [Redacted], Cc: [Redacted], Subject: RE: Social Media Posts
+*   **Body Text:** I don't know if you've had the opportunity to google [Black Bar] or to review his Twitter account, but it's difficult to believe he's acting in good faith on this, or that he has [Black Bar](or other victims') best interests at heart. He appears to be attempting to "troll" people to get attention by exploiting the Epstein case, e.g.
+*   **Link:** https://twitter.com[Black Bar]
+*   **Body Text:** I would be concerned for [Black Bar] about putting faith in people who don't actually have an interest in the truth or in good-faith investigations, though of course up to you and her how she engages with anyone who contacts her. thanks, [Black Bar]
+
+**Bottom Segment:**
+*   **Header Fields:** From: [Redacted], Sent: Saturday, December 07, 2019 12:10
+*   **Subject:** Social Media Posts that [Black Bar] is receiving
+*   **Body Text:** [Black Bar] asked me to pass this along to you in case it is helpful to the FBI. These are additional posts from [Black Bar], [Black Bar] that she continues to receive and he keeps asking her for "help". I informed her of your suggestion before that she can
+
+**Footer:**
+*   **ID:** EFTA00016796
+
+## Notable Details / Clues
+*   **Redaction Extent:** There are significant black bars obscuring names, email addresses, and specific usernames throughout all three segments, indicating a high degree of privacy or potential legal sensitivity.
+*   **Law Firm Identification:** The signature block clearly identifies the law firm as "BOIES SCHILLER FLEXNER LLP," a prominent litigation firm known for representing high-profile individuals like Michael Jackson and O.J. Simpson.
+*   **Specific Subject Matter:** The correspondence heavily references "the Epstein case" and the concept of someone exploiting it to "troll" people or scam victims.
+*   **Law Enforcement Involvement:** The bottom email explicitly mentions passing information along "in case it is helpful to the FBI."
+*   **Document Watermark/ID:** A code "EFTA00016796" is visible in the bottom right corner, likely an archival or tracking number from a document management system (possibly related to a US government agency given the ".gov" style ID format often used).
+*   **Date Context:** All emails cluster around late December 2019, suggesting this was part of an active investigation into social media interactions at that time.
+*   **Hyperlink:** A standard Twitter hyperlink is present but the specific handle is redacted.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+always block a person if they continue to harass her in any way. Thank you for your attention to this.
+
+Best,
+[REDACTED]
+
+8:22
+
+[Image of Phone Screen]
+
+Delete Accept
+
+Structured Fields
+
+*   **Date:** 8:22 (Time)
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+8:22
+< i
+[REDACTED]
+Do you want to le[REDACTED] message you? They
+won't know you've seen their message until you accept.
+Report [REDACTED]
+Delete Accept
+[Home Icon] [Search Icon] [Notification Icon] 4 [Message Icon]
+
+[REDACTED]
+Partner
+BOIES SCHILLER FLEXNER LLP
+401 E. Las Olas Blvd. Suite 1200
+Fort Lauderdale, FL, 33301
+[REDACTED]
+www.bsfllp.com
+
+The information contained in this electronic message is confidential information intended only for the use of the named recipient(s) and may contain information that, among other protections, is the subject of attorney-client privilege, attorney work product or exempt from disclosure under applicable law. If the reader of this electronic message is not the named recipient, or the employee or agent responsible to deliver it to the named recipient, you are hereby notified that any dissemination, distribution, copying or other use of this communication is strictly prohibited and no privilege is waived. If you have received this communication in error, please immediately notify the sender by replying to this electronic message and then deleting this electronic message from your computer. [v.1 08201831BSF]
+
+EFTA00016798
+```
+
+## Structured Fields
+- **Organization:** BOIES SCHILLER FLEXNER LLP
+- **Location:** Fort Lauderdale, FL, 33301
+- **Title:** Partner
+- **Document ID:** EFTA00016798
+- **Version:** v.1 08201831BSF
+- **Address:** 401 E. Las Olas Blvd. Suite 1200
+- **Website:** www.bsfllp.com
+</think>
+
+```markdown
+8:22
+< [i]
+
+[REDACTED BLOCK]
+
+Do you want to le[REDACTED] message you? They
+won't know you've seen their message until you accept.
+Report [REDACTED]
+
+Delete Accept
+
+[Icons: Home, Search, Notification (4), Mail]
+
+
+[REDACTED]
+Partner
+BOIES SCHILLER FLEXNER LLP
+401 E. Las Olas Blvd. Suite 1200
+Fort Lauderdale, FL, 33301
+[REDACTED]
+www.bsfllp.com
+
+The information contained in this electronic message is confidential information intended only for the use of the named recipient(s) and may contain information that, among other protections, is the subject of attorney-client privilege, attorney work product or exempt from disclosure under applicable law. If the reader of this electronic message is not the named recipient, or the employee or agent responsible to deliver it to the named recipient, you are hereby notified that any dissemination, distribution, copying or other use of this communication is strictly prohibited and no privilege is waived. If you have received this communication in error, please immediately notify the sender by replying to this electronic message and then deleting this electronic message from your computer. [v.1 08201831BSF]
+
+EFTA00016798
+```
+

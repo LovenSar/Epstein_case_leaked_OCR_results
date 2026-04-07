@@ -1,0 +1,34 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020665.pdf ts=2026-03-14T16:11:51 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```html
+<html><body>
+<p><strong>From:</strong> <br/></p> 
+ <p>To:<br/>Cc</p> 
+ <p>Subject: FW:</p> 
+ <p>Date: Tue, 14 Jul 2020 20:11:09 +0000<br/>Attachments: Initial_Review_of_Records.pdf</p> 
+ <hr/> 
+ <p>Hi [REDACTED]</p> 
+ <p>Hope all is well. Are you available for a quick call regarding this 302? Trying to run down how Lt. [REDACTED] got the number for [REDACTED] Thanks in advance!</p> 
+ <p><em>-----Original Message-----</em></p> 
+ <p>From:<br/>Sent: Tuesday, July 14, 2020 2:51 PM<br/>To:<br/>Subject:</p> 
+ <p>Hey [REDACTED] ---</p> 
+ <p>When looking through my case file, this is where Mike documented the phone number and last call made by Epstein. Let me know if you need anything else...</p> 
+ <p>[REDACTED]</p> 
+ <p>[REDACTED]</p> 
+ <p>Special Agent<br/>FBI New York Field Office<br/>Violent Crimes Task Force<br/>&gt; [REDACTED]</p> 
+</body></html>
+```
+
+## Structured Fields
+*   **Date:** Tue, 14 Jul 2020 20:11:09
+*   **Attachments:** Initial_Review_of_Records.pdf
+*   **Document ID (Footer):** EFTA00020665
+*   **Organizations:** USANYS, OGA, FBI
+*   **Locations:** New York (implied by "NY" and "Field Office")
+*   **Subject Line:** FW:
+*   **Mentions:** Lt. [REDACTED], Mike, Epstein
+</html>
+```
+

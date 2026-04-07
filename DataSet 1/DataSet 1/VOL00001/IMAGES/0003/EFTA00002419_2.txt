@@ -1,0 +1,19 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002419.pdf ts=2026-03-05T19:57:40 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts a vertically oriented server rack or electronics cabinet situated in what appears to be a utility room or basement, characterized by white painted cinder block walls and dim lighting. The central focus is a dense, chaotic tangle of unmanaged cabling hanging loosely from the top shelf unit down towards the floor. These cables are primarily Ethernet cables (Cat5/Cat6) with RJ-45 connectors, displaying a mix of colors including bright white, blue, black, and orange. At the very top of the rack, a large, grey chassis server or storage array is mounted horizontally, secured by silver metal rail brackets. Below this unit, another piece of black equipment is visible, also mounted on the rails. Further down the rack structure, towards the bottom left, additional cabling is visible, including a coil of white cable resting near the floor level. To the left of the rack, wooden paneling serves as a backdrop for some of the cables trailing off-screen. On the right side, beneath the hanging wires, a small black stand or shelf holds a translucent plastic storage bin filled with miscellaneous items. In the bottom right corner, a black office chair with armrests is partially visible, suggesting this space functions as an active workspace. Strong shadows are cast on the right-side wall by the dense mass of cables and the rack structure itself. At the very bottom left, the perforated metal casing of a power supply or chassis component is discernible.
+
+## Visible Text (verbatim)
+- EFTA00002419 (Watermark in bottom right corner)
+
+## Notable Details / Clues
+- **Cabling Management:** The primary issue visible is a severe lack of cable management; cables are not secured with velcro straps, zip ties, or cable managers, indicating either poor installation practice or accumulated "hairball" over time.
+- **Equipment Type:** The grey unit at the top resembles enterprise-grade server hardware (similar to Dell PowerEdge chassis) rather than consumer desktop gear.
+- **Room Environment:** The unfinished white block wall suggests a basement, server closet, or industrial setting rather than a finished office room.
+- **Shadowing:** The shadows on the right wall indicate a light source coming from the left, illuminating the front of the rack while leaving the back and right side in partial darkness.
+- **Clutter:** Aside from the main cabling, there is clutter including the plastic bin, loose wires near the floor, and items obscured by the chair.
+- **Orientation:** The equipment is mounted horizontally (chassis style) rather than vertically standing up, which is common for rack-mounted servers.
+- **Connector Types:** While mostly Ethernet cables are visible, there are some thicker black cables that could be power cords or fiber optics (though the connectors look like copper).
+

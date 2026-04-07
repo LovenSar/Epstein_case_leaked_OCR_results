@@ -1,0 +1,57 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003059.pdf ts=2026-03-06T00:42:31 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly overhead view of a white document titled "Emergency Contact Form," clipped inside a clear plastic sheet protector within a metal ring binder. The left edge of the image shows the silver metal rings of the binder and the black edge of another page or object underneath. The document is resting on a dark, textured surface, likely a desk or countertop.
+
+At the top of the form, the letterhead reads "LSJE, LLC" with an address in St. Thomas, VI (US Virgin Islands). The specific fields are filled out with black ink, while sensitive information such as phone numbers and addresses have been digitally redacted with solid black bars. The form contains sections for employee details, medical information, and emergency contacts. Most of the contact information is heavily obscured.
+
+## Visible Text (verbatim)
+**Header:**
+- "LSJE, LLC"
+- "6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348"
+- "Phone: [REDACTED]"
+- "E-mail: thesaintjames.group@gmail.com"
+
+**Title:**
+- "Emergency Contact Form"
+
+**Employee Details Section:**
+- "Today's Date: [REDACTED] 09/25/18" (The date box seems to be split, left part redacted or empty? No, looking closely, the label is "Today's Date:" and the box next to it has "09/25/18". Wait, there are two date fields. "Today's Date:" has a box with "09/25/18" inside. "Start Date:" has a box with "10/01/18" inside.)
+- "Employee Name: Keshaun Williams"
+- "Date of Birth: [REDACTED]" (First half of the box is blacked out).
+- "Physical Address: [Empty Box]"
+- "Mailing Address: [Empty Box]"
+- "Cell Phone: [Solid Black Rectangle]"
+- "Phone (other): [Empty Box]"
+- "E-mail: [Solid Black Rectangle]"
+- "Marital Status: [Empty Box]"
+- "Title/Position: Engineer"
+- "Driver's License No: [Empty Box]"
+
+**Medical Section:**
+- "Allergies or Health Concerns: N/A"
+- "Blood type: [Solid Black Rectangle]" followed by unchecked box "Unknown"
+- "Current Medications: [Empty Box]"
+- "Doctor's Name: [Empty Box]"
+- "Doctor's Phone: [Empty Box]"
+- (Second row of doctor info is also empty)
+
+**Emergency Contact Section:**
+- "In case of emergency, please contact:"
+- Row 1: "Name: [REDACTED]", "Relationship: Mom", "Phone: [REDACTED]"
+- Row 2: "Name: [REDACTED]", "Relationship: Friend", "Phone: [REDACTED]"
+
+**Footer:**
+- "This information is for your safety and the safety of others."
+- "EFTA00003059" (Stamp/ID number in bottom right corner)
+
+## Notable Details / Clues
+- **Privacy Redactions:** Significant portions of the document have been digitally blacked out, including the cell phone number, email address, full date of birth, blood type, all emergency contact names and phone numbers. This suggests an attempt to protect privacy or that this is a processed copy from a database where sensitive PII (Personally Identifiable Information) was stripped or redacted for sharing.
+- **Location:** The zip code "00802" and abbreviation "VI" indicate the document originates from the U.S. Virgin Islands.
+- **Employment Data:** The employee identified is named Keshaun Williams, holding the title of "Engineer," starting on 10/01/18 (October 1st, 2018). The date of the form is filled as 09/25/18 (September 25th, 2018), implying it was filled out just before employment began.
+- **Relationships:** The emergency contacts listed are a "Mom" and a "Friend."
+- **Physical State:** The paper looks standard office bond paper. The redaction is digital rather than written with a marker, suggesting the image itself might be a scan or digital copy that was printed out, or a document prepared by HR software.
+- **Binder Hardware:** The binder mechanism on the left consists of heavy-duty metal rings and punched holes in the paper are visible. There appears to be some wear or dirt near the bottom ring mechanism.
+

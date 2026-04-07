@@ -1,0 +1,94 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019518.pdf ts=2026-03-14T03:11:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email chain viewed in a standard desktop email client, likely Microsoft Outlook, characterized by a white background and black text. The document is heavily redacted with solid black bars obscuring personal identifiable information such as names, email addresses, and specific body text.
+
+At the very top, the email headers are visible but mostly obscured. A horizontal line separates the headers from the main body of the first message. Below this line, blue hyperlinked text introduces a user to a system called "Relativity." Following this intro is a paragraph explaining the need to fill out an attached PDF form to obtain an "RSA token" for logging in. The signature block of this first email contains a small redacted name next to "thanks".
+
+A second horizontal line demarcates a reply. This section has its own header (From, Sent, To, Subject) where the timestamp "Friday, January 11, 2019" is visible. The body begins with a greeting "Good Morning" followed by a redacted name. A paragraph explains that specific individuals need to fill out the form because they lack an RSA token. A large black rectangle obscures what appears to be a list of names or specific recipients below this instruction. The text concludes with an instruction to send the form back for the tokens to be sent, followed by "Thank you" and another redacted signature block.
+
+Below that is a third header section, separated by another line. This email was sent on "Thursday, January 10, 2019." This section is significantly more redacted; large black bars cover the To, Cc, and Subject lines entirely, as well as almost all of the email body content below them. Finally, in the bottom right corner of the image, a small alphanumeric string "EFTA00019518" acts as a document control number or Bates number.
+
+## Visible Text (verbatim)
+**Header Section 1:**
+- From: [Redacted]
+- To: [Redacted]
+- Cc: [Redacted]
+- Subject: FW: Relativity access, [Redacted]
+- Date: Fri, 11 Jan 2019 17:21:32 +0000
+- Importance: Normal
+- Attachments: EOUUSA_MEGA4_Account_Request_and_ROB_Form.pdf
+
+**Body Section 1:**
+- [Redacted] - welcome to the glorious world of mass-document management! If you could please fill out the attached form and send to [Redacted] cc'd, he'll get you an RSA token that you'll need for logging in. Relativity is web-based so we all can access it from anywhere.
+- thanks,
+- [Redacted]
+
+**Header Section 2:**
+- From: [Redacted]
+- Sent: Friday, January 11, 2019 11:27
+- To: [Redacted]
+- Subject: RE: Relativity access, 2018R01618
+
+**Body Section 2:**
+- Good Morning [Redacted]
+- The following people will need to fill out the attached form as they do not have an RSA token to access Relativity
+- [Redacted Block]
+- Please have everyone send the attached form back to me and I will have an RSA token sent to them.
+- Thank you.
+- [Redacted]
+
+**Header Section 3:**
+- From: [Redacted]
+- Sent: Thursday, January 10, 2019 12:04 PM
+- To: [Redacted]
+- Cc: [Redacted]
+- Subject: RE: Relativity access, [Redacted]
+
+**Footer:**
+- EFTA00019518
+
+## Notable Details / Clues
+*   **System Identification:** The email refers to "Relativity," which is a widely used e-discovery and litigation holding platform for legal professionals.
+*   **Security Protocol:** The mention of an "RSA token" indicates the use of hardware or software tokens (like RSA SecurID) for multi-factor authentication, common in sensitive legal environments to protect privileged data.
+*   **Timeline:** The thread shows a conversation taking place over two days in January 2019 (Thursday the 10th and Friday the 11st). The first email was forwarded on Friday evening (17:21) relative to an earlier reply from that morning (11:27).
+*   **Project Context:** The attachment filename "EOUSA_MEGA4_Account_Request_and_ROB_Form.pdf" suggests a specific project code ("MEGA4") and possibly a jurisdiction or client identifier ("EOUSA"). "ROB" likely stands for Retired/Read-Only Box or a similar system acronym.
+*   **Document Control:** The string "EFTA00019518" in the corner is typical of legal discovery documents used for Bates numbering and tracking during litigation or internal audits.
+*   **Communication Style:** The first email uses informal language ("glorious world of mass-document management"), suggesting an internal team environment rather than external client communication.
+*   **Action Required:** The primary purpose of the document chain is administrative onboarding—setting up user access permissions for a software platform.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+We'd like to set up a Relative database, please, for U.S. v. Epstein, [REDACTED] and to grant access to AUSAs
+[REDACTED]
+
+Currently the only documents we need to have uploaded are in the following folder:
+
+[REDACTED] USvEpstein-2 [REDACTED] Investigation\FBI materials (reports, FOIA, etc)\2018-12-04, FBI Case File
+
+We'd like the PDF files in the folder uploaded but NOT the files in the subfolder (titled "Files combined and manifest").
+We also expect to be receiving a large amount of case files in the coming weeks, and so want to get up and running,
+including agent access, so there's no delay once we receive the large batch of documents.
+
+With respect to anticipate review process, it's possible that at some point we might receive materials that would
+necessitate a privilege review, but not at this stage and not with respect to the materials in the linked folder.
+
+Please let me know if any other information would be helpful, and thanks very much.
+
+[REDACTED]
+
+Assistant U.S. Attorney
+Southern District of New York
+[REDACTED]
+
+EFTA00019519
+
+## Structured Fields
+- **Case ID**: U.S. v. Epstein
+- **Location**: Southern District of New York
+- **Document ID**: EFTA00019519
+- **Organization**: Assistant U.S. Attorney, FBI
+- **Date**: 2018-12-04
+

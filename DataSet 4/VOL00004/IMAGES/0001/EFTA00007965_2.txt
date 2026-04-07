@@ -1,0 +1,68 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007965.pdf ts=2026-03-09T02:54:47 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Town of Palm Beach
+Police Department
+EVIDENCE
+CASE # 05-368 PROPERTY # 06-59
+128141
+CONTENTS
+Item | Quantity | Description
+(1) | 1 | micro w/
+Suspect: Epstein, J.
+Officer: Def [REDACTED] Date: 01-19-06
+Lab #: [REDACTED]
+
+14
+
+EFTA00007965
+
+## Structured Fields
+- **Date**: 01-19-06 (January 19, 2006)
+- **Case ID**: 05-368
+- **Property ID**: 06-59 / 128141
+- **Suspect**: Epstein, J.
+- **Organization**: Town of Palm Beach Police Department
+- **Location**: [Not explicitly stated in header, implied Florida based on badge]
+- **Doc ID**: EFTA00007965
+- **Barcode Number**: 023912
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+Micro Tape
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007966
+
+## Structured Fields
+*   **Date**: July 27, 2020
+*   **Doc ID**: EFTA00007966
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+☐MEETING ☐MEMO ☐OTHERS ( )
+A: STATEMENT
+[REDACTED]
+B. [REDACTED]
+2-681-050-11
+
+MICROCASSETTE
+SONY
+title [REDACTED]
+MC-60
+A
+
+## Structured Fields
+*   **Organization:** Sony
+*   **Product Type:** Microcassette (MC-60)
+*   **Document ID/Label Code:** 2-681-050-11
+*   **Case/File ID:** EFTA00007967
+*   **Content Description:** STATEMENT
+*   **Date (Handwritten):** [ILLEGIBLE] (Partial text "06/" visible on tape)
+

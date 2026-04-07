@@ -1,0 +1,85 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003117.pdf ts=2026-03-06T01:05:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays the bottom chassis of an electronic device, specifically a desktop computer tower, resting on a textured, out-of-focus light brown surface resembling carpet. The device casing is constructed from dark grey or matte black plastic. Along the left vertical edge, two circular black rubber feet are visible, providing grip and stability. The majority of the surface area is covered by several white adhesive labels containing regulatory compliance information, serial numbers, and product specifications.
+
+The layout of the labels is dense and organized:
+- **Left Section:** A warning label regarding grounding instructions is printed on the far left. Below it, a technical identifier sticker lists "BID" and "FeatureByte" codes.
+- **Center Top Section:** This area contains regulatory compliance information including the manufacturer (HP Inc.), input voltage specifications, manufacturing location ("Made in China"), and various safety certification logos (FCC, CE, UL, etc.).
+- **Center Bottom Section:** The primary product identification label features the HP logo and lists the specific model name ("HP Slimline 260-a010 DT PC US"), the serial number, product number, and limited warranty details. It includes two barcode regions.
+- **Right Section:** This label focuses on wireless certification, specifically listing the Realtek Radio Model (RTL8723BE) and various regional compliance marks such as PTA, ANATEL, and NOM. At the bottom right of this section is a URL for support with a cursor icon.
+
+## Visible Text (verbatim)
+
+**Left Warning Label:**
+- SEE INSTALLATION INSTRUCTIONS BEFORE CONNECTING TO THE POWER SUPPLY.
+- 在接电前请参阅安装手册
+- 在接電前請參閱安裝手冊
+- ﻋﻤﻴّﻟﻴﺎﺕ اﻟﺘﺸغﯿل ﻗبـل رط ﺟهﯾز بـاﻟكهور
+- CONNECT ONLY TO GROUNDED OUTLET.
+- APPARATET MÅ TILKOPLES JORDET STIKKONTAKT.
+- APPARATEN SKALL ANSLUTAS TILL JORDAD NÄTTAG.
+- LAITE ON LITETTAVA SUIOJAKOSKETTIMELLA VARUSTETTUUN PISTORASIAAN.
+- APPARAATIN STIKKOP SKAL TILLSLITES EN STIKKONTAKT MED JORD, SOM GIVER FORBINDELSE TIL STIKPROPPENS JORD.
+- 请使用带安全接地线的电源插座/
+- 請使用帶安全接地線的電源插座
+- 820582:001
+
+**Center Top Regulatory Label:**
+- HP Inc.
+- 型号/型号 : HP Slimline Desktop PC
+- REGULATORY MODEL / 規定型號 / 规定型号 :TPC-W636-SF
+- INPUT / 输入 / 輸入 => 19.5Vdc => 4.62A
+- PERSONAL COMPUTER / 個人電腦 / 類电脑计算机
+- MADE IN CHINA / 中國製造 / 中国制造
+- CAN ICES-3 (B) / NMB-3(B)
+- CAN IT: 2016011509
+- Consumo de energia : 16 Wh
+- En modo de espera : 0.8 Wh
+- 45183/SOPM/2016
+- 7143
+- [Logos: HP Inc., UL, EAC, FCC, CE, KC, etc.]
+- 5155 352 05601 0042
+
+**Center Bottom Product Label:**
+- [hp logo] HP Slimline 260-a010 DT PC US
+- Serial No. CNV716004Y [Barcode]
+- Product No. V8P51AA#ABA [Barcode]
+- Model No. 260-a010
+- Limited Warranty: 1y/1y/0y (V3T95AV)
+
+**Bottom Left Technical Label:**
+- BID= 16WW3RST607#SABA#DABA
+- FeatureByte= 3E3K3N3Q4C4h6J6Z6b7B7K7P7T7W aBapaqasauazb7bhbpbzcbdUdpdqe Jegey.TE
+- BU IDS UMA Pent J3710
+
+**Right Compliance Label:**
+- Contains Realtek Radio Model RTL8723BE
+- 4998(Japan)/Taiwan/Canada Model RTL8723BENF
+- Contains FCC ID: T2Q-RTL8723BE
+- IC: 6317A-RTL8723BE
+- SCT RCPRLT13-G576
+- DMC C-0249
+- [Logos: PTA, ANATEL, CE, NOM, KC]
+- Complies with IDA.084/108 DA105292
+- CCAP-SL/MU/T1
+- MSIP-CRM-RTK/RTL8723BENF 352.05AD1.0004
+
+**Bottom Right Support Label:**
+- ? [Cursor Icon] www.hp.com/go/supportassistant
+
+## Notable Details / Clues
+
+-   **Product Identity:** The device is identified as an HP Slimline Desktop PC, specifically the model "260-a010 DT PC US". The "DT" likely stands for "Desktop Tower," and "US" indicates it is configured for the United States market.
+-   **Form Factor:** The term "Slimline" suggests a compact, low-profile chassis design, typical of office computers from the mid-to-late 2010s.
+-   **Power Specifications:** The input requirements are listed as 19.5Vdc drawing up to 4.62A, which is standard for desktop power supplies. The power consumption is noted as 16Wh.
+-   **Regulatory Compliance:** The presence of numerous logos (FCC, CE, UL, KC, ANATEL, PTA) indicates the device was sold in international markets, though the "DT PC US" model designation suggests its primary origin or configuration.
+-   **Manufacturing Location:** The label explicitly states "MADE IN CHINA / 中國製造 / 中国制造."
+-   **Hardware Component:** A specific wireless radio component is identified: "Contains Realtek Radio Model RTL8723BE," which is a common WiFi/BT chip found in many consumer electronics of that era.
+-   **Warranty Info:** The limited warranty duration is listed as "1y/1y/0y," likely referring to First Year Parts/Labor, Second Year Parts only, and 0 Years for subsequent years (standard for this form factor).
+-   **Safety Warnings:** The most prominent text warns users to "CONNECT ONLY TO GROUNDED OUTLET," a critical safety requirement for desktop computers.
+-   **Technical ID:** A long alphanumeric string under "FeatureByte" is visible, likely used by HP support engineers to look up specific regional or hardware variations of the motherboard components.
+

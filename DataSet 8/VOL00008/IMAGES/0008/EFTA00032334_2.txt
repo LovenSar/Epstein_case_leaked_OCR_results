@@ -1,0 +1,42 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032334.pdf ts=2026-03-19T15:46:11 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+RECEIPT                    curb                          November 04 at 5:49 AM
+
+$43.10
+
+[REDACTED]
+
+Fare                             $26.00
+    Rate #1 (STAND. CITY RATE) - 8.61 mi                  $26.00
+Toll                             $6.12
+Congestion Surcharge             $2.50
+Extras                           $0.50
+Service Fee                      $0.00
+State Surcharge                  $0.50
+Improvement Surcharge            $0.30
+Tip                              $7.18
+Subtotal                         $43.10
+Curb Credits                     $0.00
+Total                            $43.10
+    Confirmation #MUIR46
+
+Pickup [REDACTED]
+Dropoff [REDACTED]
+
+Serviced by
+Curb
+Driver: [REDACTED]
+
+Need Help? http://support.gocurb.com/
+[REDACTED] [REDACTED] Confirmation [REDACTED]
+EFTA00032334
+
+## Structured Fields
+- **Date:** November 04 at 5:49 AM
+- **Total Amount:** $43.10
+- **Confirmation #:** MUIR46
+- **EFTA ID:** EFTA00032334
+- **Organization:** Curb
+

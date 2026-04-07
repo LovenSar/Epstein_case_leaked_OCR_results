@@ -1,0 +1,56 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003032.pdf ts=2026-03-06T00:28:32 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a close-up, high-angle shot of the rear upper corner of an electronic device, specifically a computer monitor chassis made of matte black plastic. To the left, a portion of a bright yellow structural element is visible, likely part of the monitor stand or a desk accessory, though it is out of focus. The black casing features two silver metal screws positioned vertically along the left edge. On the right side of the frame, deep molded indentations are visible, likely serving as heat vents or grip areas. Adhered to the back panel are two distinct rectangular labels: a smaller, weathered sticker near the top containing regulatory compliance information, and a larger, cleaner black label with white text below it detailing model specifications and power requirements. The lighting casts soft highlights on the curved plastic surfaces on the right, emphasizing the 3D depth of the casing design.
+
+## Visible Text (verbatim)
+**Top Label (Partial/Small):**
+QCNFA335 Contains FCC ID: PPD-QCNFA335
+IC: 4104A-QCNFA335
+NTC Complies with IDA Standards
+Type Accepted DB194328
+No ESD-1366027C 3223/30PPV/3911
+TRC/LPD/2013/219 1820
+IFT No: RCPOUGC14-0056
+CCAI13LP267019
+MSIP-CRM-ATH-QCNFA335
+해당 무선설비는 운용중 (Korean)
+CNC C-12770 전파효신 가능성이 있음 (Korean)
+DPC Approved by PTA, year 2013 DPN: NJ4CT A06
+
+**Bottom Label (Main):**
+DELL
+Reg Model: D19M
+Reg Type: D19M005
+Assembled in Mexico
+V: 100-240 V~
+A: 5.4 A
+Hz: 50-60 Hz
+www.dell.com
+CAN ICES-3 (B)/NMB-3 (B)
+
+**Symbols:**
+[Triangle with Exclamation Point]
+FC
+C US LISTED I/TE E105106 (UL Logo text)
+[Wheelie Bin Cross-out Symbol]
+
+**Bottom Corners:**
+DP (Bottom Left)
+DP/N: K41DX A00 JSD2 (Bottom Right)
+
+## Notable Details / Clues
+- **Device Identification:** The label "Reg Model: D19M" identifies this as a Dell 19-inch monitor (likely the UltraSharp or similar series given the build quality).
+- **Manufacturing Origin:** The text "Assembled in Mexico" indicates the country of final assembly.
+- **Power Specifications:** The unit accepts universal input ranging from 100-240 Volts at a maximum current draw of 5.4 Amperes, operating on frequencies between 50-60 Hz.
+- **Regulatory Compliance:** The device holds multiple certifications, including FCC (USA), IC (Canada/International), and PTA (Korea), suggesting it is intended for global distribution.
+- **Safety Warnings:** The standard "exclamation point in a triangle" symbol warns users of potential safety hazards or instructions to consult the manual.
+- **Part Numbers:** The "DP/N: K41DX A00 JSD2" at the bottom right is a crucial part number for inventory and service identification.
+- **Region Specifics:** The Korean text on the top label ("해당 무선설비는 운용중") indicates specific radio frequency warnings relevant to South Korean regulations.
+- **Environmental Compliance:** The crossed-out wheeled bin symbol indicates the device contains hazardous materials and cannot be disposed of in standard household waste.
+- **UL Certification:** The "C US LISTED" mark confirms Underwriters Laboratories certification for safety standards in the United States and Canada.
+- **Model Variant:** The "Reg Type: D19M005" suggests a specific regional variation or manufacturing batch within the D19M model family.
+- **Physical Build:** The screw placement and plastic molding suggest a robust, industrial-grade enclosure typical of professional display hardware from the early-to-mid 2010s era (implied by the 2013 approval date on the top sticker).
+

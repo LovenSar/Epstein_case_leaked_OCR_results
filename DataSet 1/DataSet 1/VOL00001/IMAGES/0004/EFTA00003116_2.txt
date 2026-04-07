@@ -1,0 +1,93 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003116.pdf ts=2026-03-06T01:05:08 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the rear lower chassis of a black, matte-finish desktop computer tower, likely part of HP's "Slimline" form factor series. The surface is populated with three distinct white paper labels adhered to the back panel. On the far left edge, there are two circular indented areas, likely covering mounting screws or rubber grommets for cable management.
+
+The primary label is centrally located and divided into sections. Below the main regulatory information is a section detailing the specific model configuration, including serial numbers and barcodes. To the right of the central section is a smaller, rectangular label dedicated to radio frequency (RF) compliance certifications for wireless components. The bottom portion features a final strip of text containing feature byte IDs and support URLs. The lighting highlights the texture of the black plastic casing, showing minor dust accumulation on the screw covers and surface.
+
+## Visible Text (verbatim)
+
+**Left Safety Label:**
+> SEE INSTALLATION INSTRUCTIONS BEFORE CONNECTING TO THE POWER SUPPLY.
+> 在接电前请参阅安装手册
+> 在接電前請參閱安裝手冊
+> راجع تعليمات التشغيل قبل ربط الجهاز بالكهرباء
+>
+> CONNECT ONLY TO GROUNDED OUTLET.
+> APPARATET MÅ TILKOPLES JORDDET STIKKONTAKT.
+> APPARATEN SKALL ANSLUTAS TILL JORDAT NATTUTAG.
+> LAITE ON LITETTAVA SUOJAKOSKETTIMILLA VARUSTETTUUN PISTORASIIN.
+> APPARATETS STIKPROP SKAL TILLSLUTES EN STIKKONTAKT MED JORD, SOM GIVER FORBINDELSE TIL STIKPROPPENS JORD.
+> 请使用带安全接地线的电源插座 / 请使用帶安全接地線的電源插座
+> 820582-001
+
+**Center Top Regulatory Label:**
+> HP Inc.
+> Model/型号 : HP Slimline Desktop PC
+> REGULATORY MODEL/規定型號/規定型号:TPC-W036-SF
+> INPUT/輸入/入力 19.5Vdc === 4.62A
+> 個人電腦 / 微型计算机
+> MADE IN CHINA/中国製造 / 中国制造
+> CAN ICES-3 (B)/NMB-3(B)
+> CMII ID: 2016DJ1509
+> Consumo de energia: 1.6 Wh
+> En modo de espera: 0.8 Wh
+> 45183/SDPPI/2016 2141
+
+**Certification Logos (Center Top Label):**
+> CE (HR HO-7RE, 71023 Beaslingen, Germany)
+> KC
+> UL c US LISTED E145483
+> PSE mark
+> NCMC mark
+> CCC mark
+> Symbol for electronic waste disposal (crossed out bin)
+> RCM Australia logo
+> ICT symbol
+
+**Center Middle Product Info Label:**
+> hp HP Slimline 260-a010 DT PC US
+> Serial No. CNV7160050 [Barcode]
+> Product No. V8P51AA#ABA [Barcode]
+> Model No. 260-a010
+> Limited Warranty: 1y/1y/0y (V3T95AV)
+
+**Right RF Compliance Label:**
+> Contains Realtek Radio Model: RTL8723BE
+> Korea/Japan/Taiwan/Canada Model: RTL8723BENF
+> Contains FCC ID: TX2-RTL8723BE
+> IC: 6317A-RTL8723BE
+> SGT: RCPRER113-0876
+> CNC: C-12047
+
+**Certification Logos (Right Label):**
+> PTCRB logo (Approved-05)
+> Anatel logo (0964-16-0376) [Barcode]
+> CE symbol
+> NOM symbol (Mexico)
+> Korean KC mark text ( illegible small print)
+> CCAF/SLP/67170
+
+**Bottom Label:**
+> BID= 16WW3RST607#SABA#DABA
+> FeatureByte= 3E3K3N3Q4C4h6J6Z6b7B7K7P7T7W aBapaqasauazb7bhbpbzcbdUdpdqe
+> Jegey.TE
+> BU IDS UMA Pent J3710
+
+**Bottom Right Support Label:**
+> ? www.hp.com/go/supportassistant
+> EFTA00003116 (Watermark/ID in bottom right corner)
+
+## Notable Details / Clues
+*   **Processor Clue:** The text "UMA Pent J3710" on the bottom label indicates this unit is equipped with an Intel Celeron or Pentium processor model J3710.
+*   **Manufacturing Origin:** Despite the "Beaslingen, Germany" address for the CE certificate holder, the main label explicitly states "MADE IN CHINA".
+*   **Power Supply Specs:** The unit is designed for 19.5V DC input drawing up to 4.62 Amperes (Total ~90 Watts).
+*   **Wireless Hardware:** The device contains a Realtek RTL8723BE Wi-Fi/Bluetooth combo card, identified by the specific Model and FCC IDs on the right-hand label.
+*   **Warranty Terms:** The warranty is listed as "1y/1y/0y", which typically translates to 1 year standard limited warranty, 1 year for power supply components (not applicable here usually), or a specific breakdown like 1 year parts/labor. Given the model number ending in "DT" (Desktop Thin client perhaps?), this might be a commercial or educational unit.
+*   **Date of Production:** The CMII ID starts with "2016", suggesting the manufacturing date is likely within the latter half of 2016.
+*   **Language Support:** The safety warnings are translated into English, Swedish ("APPARATET MÅ..."), Finnish ("LAITE ON LITETTAVA..."), Danish/Norwegian ("STIKKONTAKT MED JORD..."), and Simplified Chinese. Arabic text is also present for the initial warning.
+*   **Waste Disposal:** Standard WEEE (Waste Electrical and Electronic Equipment) symbols indicating the device must be recycled separately from household waste are visible on the center label.
+*   **Anatel/PTCRB Marks:** The presence of ANATEL and PTCRB logos confirms this unit is intended for international sale, specifically compliant with Brazilian (ANATEL) and North American wireless standards.
+

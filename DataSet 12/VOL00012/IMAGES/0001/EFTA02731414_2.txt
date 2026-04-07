@@ -1,0 +1,20 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731414.pdf ts=2026-03-06T15:28:00 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a mobile device running an iOS Photos editing interface. The primary visual content is a photograph depicting a marina or harbor scene featuring white pleasure boats, likely sailboats or yachts, docked in calm water. A large white boat dominates the foreground, showing its hull and upper deck structure with a canopy. Several indistinct figures are visible on the boat, though their identities are heavily obscured by black redaction bars placed over faces and clothing. In the background, blurred masts and rigging of other boats suggest a crowded dock area. The bottom portion of the screen is occupied by the editing toolbar, which features a dark grey background. A prominent horizontal slider allows for zoom adjustments, currently set to a high magnification on the right side (indicated by the yellow dot). Below the slider is a row of circular tool icons, including options for resetting edits, adjusting brightness/exposure, balancing highlights and shadows, and accessing a flashlight. In the bottom left corner, a small square thumbnail preview shows a different aspect or crop of an image with a blue rectangular object on a beige surface.
+
+## Visible Text (verbatim)
+- Top Left: "Done"
+- Top Center: "1 of 1"
+- Bottom Right Corner: "EFTA02731414"
+
+## Notable Details / Clues
+- **Redaction:** Several black rectangular blocks have been digitally placed over the image, specifically covering areas where faces or specific items on the boat would be visible. This suggests a document intended for privacy protection or redaction.
+- **Interface:** The UI elements (yellow accent color, circular icons, slider design) are characteristic of the native Apple Photos app found on iPhones.
+- **Zoom Level:** The yellow dot on the zoom slider is positioned far to the right, indicating the image is currently zoomed in significantly (likely 10x or higher given the pixelated nature of the background details).
+- **Thumbnail:** The small thumbnail in the bottom left corner appears to be a different photo or a cropped version of the current photo, showing what looks like a blue wallet or case on a surface.
+- **Share Icon:** In the top right corner, there is a yellow share icon (arrow curving out of a square), indicating standard iOS sharing functionality.
+- **Image ID:** The alphanumeric string "EFTA02731414" at the bottom right appears to be an external watermark or reference number added outside of the native app interface.
+

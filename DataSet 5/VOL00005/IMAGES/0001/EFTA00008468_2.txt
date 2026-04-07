@@ -1,0 +1,38 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008468.pdf ts=2026-03-09T07:16:22 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down, close-up view of a 3.5-inch internal hard disk drive resting inside an open brown cardboard storage box. The hard drive is silver in color with a metallic casing and is secured within a translucent, pinkish-tinted anti-static plastic bag that shows slight creasing and reflections from overhead lighting. Black rubber feet are visible at the corners of the drive. The packaging includes black tie-straps or fasteners near the top and bottom edges of the plastic bag to keep it sealed. The cardboard box has a label on the inner flap reading "SMEAD" and "KEEPING YOU ORGANIZED." Beneath the hard drive, there appears to be a layer of light-colored foam padding inside the box, partially obscured by the packaging. The background surface beneath the box is a speckled, granite-like countertop or floor in shades of grey, black, and white. The lighting creates glare on the plastic wrapping, particularly around the labels.
+
+## Visible Text (verbatim)
+**Box Top Flap:**
+*   "SMEAD"
+*   "///" (logo mark)
+*   "KEEPING YOU ORGANIZED"
+*   "No. 71055"
+
+**Hard Drive Upper Label:**
+*   "CONTENTS:"
+*   "Master Copy: Archive of DVR Main Controller Images"
+*   "2.0TB"
+*   "SATA / 64MB Cache"
+*   "WD20EARS"
+*   "S/N: WCAZA..." (Partial Serial Number visible)
+*   Various barcode symbologies and smaller technical text regarding installation notes (e.g., "Advanced Format Drive").
+
+**Hard Drive Lower Label:**
+*   "Lab #: HQQ19081600..."
+*   "UCFN: 80A-N-2351227"
+*   "Examiner:"
+*   "SPECIMEN: HQQ026637"
+*   Certification marks including "CE" and "RoHS".
+
+## Notable Details / Clues
+*   **Forensic Context:** The labels attached to the drive (specifically "Specimen", "Lab #", "Examiner") strongly suggest this hard drive has been seized or collected as part of a digital forensic investigation.
+*   **Data Content:** The upper label explicitly states the drive contains a "Master Copy: Archive of DVR Main Controller Images," indicating the physical evidence is likely from a Digital Video Recorder.
+*   **Drive Model:** The model number "WD20EARS" identifies this as a Western Digital WD Red enterprise hard drive, typically used for high-performance surveillance systems, which aligns with the content description.
+*   **Packaging Condition:** The anti-static bag is sealed but not in its original retail shrink-wrap condition; it appears to have been opened or repackaged specifically for evidence handling, likely inside the SMEAD file box to protect the media during transport or storage.
+*   **Evidence Tagging:** The "Specimen" label includes a specific alphanumeric code (HQQ026637), which serves as a unique identifier to track this specific piece of hardware through a chain of custody process.
+*   **Barcode Data:** A standard barcode is present at the very bottom of the packaging, corresponding to the specimen number on the lower label.
+

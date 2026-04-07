@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001318.pdf ts=2026-03-05T11:48:01 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Foreground Left:** A black, two-drawer metal filing cabinet sits on the left side, featuring silver horizontal handles on each drawer.
+*   **Tool Storage:** Resting atop the filing cabinet is a red and black fabric tool roll or "Husky" brand bag, which appears to contain various small tools and supplies.
+*   **Electrical Panel:** Mounted high on the wall above the cabinet is a large, bright blue electrical enclosure or junction box.
+*   **Central Foreground:** A black industrial floor fan stands in the middle of the room, positioned to blow air towards the machinery area.
+*   **Piping Infrastructure (Yellow):** Several vertical pipes wrapped in yellow insulation run from the floor level upwards, connecting to the ceiling ductwork and horizontal runs. These typically indicate hot water or steam lines.
+*   **Piping Infrastructure (Blue):** Blue painted pipes run vertically and horizontally on the right side of the image, likely indicating chilled water or return lines.
+*   **Copper Piping:** Small diameter copper tubes run along the ceiling grid and connect to larger systems, distinct from the insulated yellow and painted blue pipes.
+*   **Machinery/Pumps:** Various mechanical pumps with motors (some black/grey, some with yellow casings) are visible in the middle ground, attached to the piping system.
+*   **Background Equipment:** A large, dark grey rectangular unit (possibly a furnace or air handler) is visible in the back left corner.
+*   **Safety Equipment:** A red fire extinguisher is mounted on the wall in the background, near the yellow pipes.
+*   **Ceiling Ductwork:** Large, white painted sheet metal ducts run across the top of the image, suspended from the ceiling structure.
+*   **Flooring:** The floor is a smooth, grey painted concrete surface.
+
+## Visible Text (verbatim)
+*   "SIEMENS" (on the white label attached to the blue panel)
+*   "HUSKY" (on the black fabric tool roll)
+*   "EFTA00001318" (in the bottom right corner watermark)
+
+## Notable Details / Clues
+*   **Color Coding:** The distinct use of yellow insulation for vertical pipes versus blue painted pipes suggests a separation between hot supply and cold/return lines, common in HVAC hydronic systems.
+*   **Active Work Area:** The presence of the portable fan and the tool roll on the cabinet suggests maintenance is currently taking place or the room has not been fully cleared of construction materials.
+*   **Brand Identification:** The "SIEMENS" logo indicates the use of Siemens industrial controls or electrical components, a common manufacturer for building management systems (BMS).
+*   **Lighting:** A fluorescent light fixture is visible mounted horizontally near the ceiling pipes, providing artificial illumination to the lower area.
+*   **Pipe Connections:** Various gauges and valves are visible attached to the blue piping on the right side, indicating monitoring points for pressure or flow within the hydraulic system.
+

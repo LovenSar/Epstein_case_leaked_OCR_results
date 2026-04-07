@@ -1,0 +1,86 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00027930.pdf ts=2026-03-17T18:41:03 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence thread, heavily redacted with black bars obscuring names and sensitive information. The document appears to be part of an official investigation, indicated by headers referencing the U.S. Department of Justice. The emails are dated August 13, 2019, and concern requests for additional information and interviews related to the "Epstein" case.
+
+*   **Top Header Block:** The standard email header fields (From, To, Cc) are visible but their corresponding values are obscured by solid black rectangles.
+*   **Subject Line:** The subject line reads "RE: Epstein - Additional Requests/ Interviews," indicating this is a reply to a previous thread regarding Jeffrey Epstein investigations.
+*   **Date Stamp:** The timestamp is listed as "Tue, 13 Aug 2019 15:30:07 +0000."
+*   **First Body Paragraph:** Visible text indicates the sender is working on obtaining "physical descriptions" of a specific individual (name redacted).
+*   **Union Mention:** A sentence mentions speaking with someone at "MCC," noting that they "have union representation."
+*   **Availability Request:** The text asks if a specific person (redacted) is available to talk and requests a time and location.
+*   **Official Header Insertion:** Between email bodies, there is a visible letterhead or header block for the "U.S. Department of Justice," specifically the "Office of the Inspector General" at the "New York Field Office." The address "New York, NY 10004" is visible.
+*   **Second Email Header:** A second email block begins with a "From" field (redacted), a "Sent" timestamp of "Tuesday, August 13, 2019 10:38 AM," and the same subject line as above.
+*   **OCME Request:** The body text explains that the sender spoke with "OCME" (Office of the Chief Medical Examiner) and is requesting "responding ambulance reports" and "physical descriptions (height and weight)" for a redacted individual.
+*   **Interview List Table:** A table is presented listing targets for voluntary interviews. The "Name" column is entirely blacked out. The "Position" column lists titles like "OPS Lt." (Operations Lieutenant), "Internal," and "Control." The "Shift" column lists dates (8/9, 8/10) and time ranges (e.g., "12-8", "4-12").
+*   **Sign-off:** The email concludes with "Thanks," followed by a redacted name signature block and the title "Assistant United States Attorney."
+*   **Document ID:** A unique identification number, "EFTA00027930," is printed in the bottom right corner.
+
+## Visible Text (verbatim)
+**From: [REDACTED]**
+**To: [REDACTED]**
+**Cc: [REDACTED]**
+**Subject: RE: Epstein - Additional Requests/ Interviews**
+**Date: Tue, 13 Aug 2019 15:30:07 +0000**
+
+I will work on getting physical descriptions of [REDACTED]
+
+I spoke to [REDACTED] at MCC, all but [REDACTED] have union representation.
+
+If [REDACTED] is available to talk with us today, is there a time, location, ect. That works best?
+
+[REDACTED BLOCK]
+**U.S. Department of Justice**
+**Office of the Inspector General**
+**New York Field Office**
+[REDACTED ADDRESS LINE]
+**New York, NY 10004**
+
+[REDACTED]
+[REDACTED]
+
+**From: [REDACTED]**
+**Sent: Tuesday, August 13, 2019 10:38 AM**
+**To: [REDACTED]**
+[REDACTED]
+[REDACTED]
+**Cc: [REDACTED]**
+**Subject: Epstein - Additional Requests/ Interviews**
+
+We just spoke with OCME, and they would like (i) the responding ambulance reports; and (ii) physical descriptions (height and weight) for [REDACTED]. Could you please get us this information?
+
+Second, below are the people that we would like to set up voluntary interviews with in the next few days. [REDACTED] can you please reach out to [REDACTED] to set these up:
+
+**Name** [REDACTED BLOCK]
+**Position** OPS Lt. Internal Internal Internal Control Control Control
+**Shift** 8/10 from 12-8 8/10 from 12-8 8/9 from 4-12 8/9 from 4-12 8/10 from 12-8 8/9 from 4-12 8/9 from 2-10
+
+Thanks,
+[REDACTED]
+**Assistant United States Attorney**
+
+**EFTA00027930**
+
+## Notable Details / Clues
+*   **Investigative Context:** The subject line explicitly references "Epstein," linking the correspondence to the high-profile Jeffrey Epstein legal proceedings.
+*   **Agency Involvement:** The text identifies communication with OCME (Office of the Chief Medical Examiner), suggesting an interest in autopsy or scene reports.
+*   **Targeted Personnel:** The list of interview targets includes personnel with titles like "Control" and "Internal," likely referring to internal affairs or security control roles within a specific facility (possibly MCC mentioned earlier).
+*   **Shift Work:** The listed times (e.g., "12-8", "4-12") indicate the investigators are looking for coverage during night shifts as well as day shifts.
+*   **Redaction Strategy:** The use of thick, solid black bars rather than just hiding characters suggests an intentional effort to hide personal identities (PII) while leaving the structural context of the email readable.
+*   **Tone:** The tone is bureaucratic and urgent ("We just spoke," "Would like," "Can you please get us this information").
+*   **Location:** The correspondence originates from or is being coordinated with entities in New York ("at MCC" likely referring to Metropolitan Correctional Center or similar, though MCC usually refers to Metrowest Correctional Facility in MA, but the DOJ header confirms NY).
+*   **Union Representation:** A specific note about union representation suggests these interviews might involve sensitive labor relations or require bargaining unit representation.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Southern District of New York
+[REDACTED]
+EFTA00027931
+
+## Structured Fields
+- **Case ID / Doc ID**: EFTA00027931
+- **Location**: Southern District of New York
+- **[REDACTED]**: [REDACTED]
+

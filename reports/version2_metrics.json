@@ -1,0 +1,502 @@
+{
+  "summary": {
+    "pair_count": 11924,
+    "avg_words_old": 3392.81,
+    "avg_words_new": 3404.57,
+    "median_words_old": 388.0,
+    "median_words_new": 459.0,
+    "avg_chars_old": 20002.04,
+    "avg_chars_new": 20805.54,
+    "word_growth_ratio_total": 1.0035,
+    "files_new_longer_words": 9711,
+    "files_old_longer_words": 2183,
+    "files_equal_words": 30,
+    "avg_structure_hits_old_4": 1.66,
+    "avg_structure_hits_new_4": 1.78,
+    "avg_entity_hits_old_14": 2.44,
+    "avg_entity_hits_new_14": 4.06,
+    "avg_quality_hits_old_2": 0.32,
+    "avg_quality_hits_new_2": 0.7,
+    "expected_id_coverage_old_pct": 95.33,
+    "expected_id_coverage_new_pct": 100.0,
+    "files_with_any_date_old": 5751,
+    "files_with_any_date_new": 5874,
+    "files_with_any_date_old_pct": 48.23,
+    "files_with_any_date_new_pct": 49.26,
+    "avg_repeat_line_fraction_old": 0.0916,
+    "avg_repeat_line_fraction_new": 0.0713,
+    "new_meta_tag_coverage_pct": 100.0,
+    "old_meta_tag_coverage_pct": 0.0,
+    "old_visible_text_section_pct": 95.96,
+    "new_visible_text_section_pct": 36.97,
+    "old_notable_section_pct": 30.84,
+    "new_notable_section_pct": 36.96
+  },
+  "route_distribution": {
+    "old_page_routes": {
+      "FAST": 27930,
+      "DOC": 2312,
+      "VISION": 4420
+    },
+    "new_page_routes": {
+      "DOC": 26398,
+      "VISION": 8264
+    }
+  },
+  "dataset_summary": {
+    "DataSet 1": {
+      "pairs": 3156,
+      "avg_words_old": 465.43,
+      "avg_words_new": 508.58,
+      "word_growth_ratio": 1.0927,
+      "avg_entity_hits_old_14": 1.12,
+      "avg_entity_hits_new_14": 1.13,
+      "expected_id_coverage_old_pct": 95.98,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 12": {
+      "pairs": 152,
+      "avg_words_old": 3433.96,
+      "avg_words_new": 3427.72,
+      "word_growth_ratio": 0.9982,
+      "avg_entity_hits_old_14": 5.8,
+      "avg_entity_hits_new_14": 5.57,
+      "expected_id_coverage_old_pct": 99.34,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 2": {
+      "pairs": 574,
+      "avg_words_old": 460.51,
+      "avg_words_new": 527.89,
+      "word_growth_ratio": 1.1463,
+      "avg_entity_hits_old_14": 1.46,
+      "avg_entity_hits_new_14": 1.4,
+      "expected_id_coverage_old_pct": 99.48,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 3": {
+      "pairs": 67,
+      "avg_words_old": 6143.6,
+      "avg_words_new": 7917.61,
+      "word_growth_ratio": 1.2888,
+      "avg_entity_hits_old_14": 5.63,
+      "avg_entity_hits_new_14": 6.58,
+      "expected_id_coverage_old_pct": 100.0,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 4": {
+      "pairs": 152,
+      "avg_words_old": 6093.18,
+      "avg_words_new": 8765.43,
+      "word_growth_ratio": 1.4386,
+      "avg_entity_hits_old_14": 4.5,
+      "avg_entity_hits_new_14": 7.32,
+      "expected_id_coverage_old_pct": 99.34,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 5": {
+      "pairs": 120,
+      "avg_words_old": 217.02,
+      "avg_words_new": 481.8,
+      "word_growth_ratio": 2.2201,
+      "avg_entity_hits_old_14": 1.32,
+      "avg_entity_hits_new_14": 3.62,
+      "expected_id_coverage_old_pct": 94.17,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 6": {
+      "pairs": 13,
+      "avg_words_old": 11928.69,
+      "avg_words_new": 10420.38,
+      "word_growth_ratio": 0.8736,
+      "avg_entity_hits_old_14": 7.62,
+      "avg_entity_hits_new_14": 10.38,
+      "expected_id_coverage_old_pct": 84.62,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 7": {
+      "pairs": 17,
+      "avg_words_old": 10218.65,
+      "avg_words_new": 10564.65,
+      "word_growth_ratio": 1.0339,
+      "avg_entity_hits_old_14": 7.06,
+      "avg_entity_hits_new_14": 9.65,
+      "expected_id_coverage_old_pct": 94.12,
+      "expected_id_coverage_new_pct": 100.0
+    },
+    "DataSet 8": {
+      "pairs": 7673,
+      "avg_words_old": 4757.98,
+      "avg_words_new": 4682.83,
+      "word_growth_ratio": 0.9842,
+      "avg_entity_hits_old_14": 2.92,
+      "avg_entity_hits_new_14": 5.33,
+      "expected_id_coverage_old_pct": 94.59,
+      "expected_id_coverage_new_pct": 100.0
+    }
+  },
+  "top_word_growth": [
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0001/EFTA00012111.txt",
+      "old_words": 266112,
+      "new_words": 486270,
+      "delta_words": 220158
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0002/EFTA00017143.txt",
+      "old_words": 296833,
+      "new_words": 390296,
+      "delta_words": 93463
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0005/EFTA00025797.txt",
+      "old_words": 1551,
+      "new_words": 52004,
+      "delta_words": 50453
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0001/EFTA00011531.txt",
+      "old_words": 37916,
+      "new_words": 88044,
+      "delta_words": 50128
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0005/EFTA00025962.txt",
+      "old_words": 1639,
+      "new_words": 51694,
+      "delta_words": 50055
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0005/EFTA00026129.txt",
+      "old_words": 1458,
+      "new_words": 47637,
+      "delta_words": 46179
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006687.txt",
+      "old_words": 45951,
+      "new_words": 89366,
+      "delta_words": 43415
+    },
+    {
+      "path": "DataSet 3/VOL00003/IMAGES/0001/EFTA00005586.txt",
+      "old_words": 1309,
+      "new_words": 42329,
+      "delta_words": 41020
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00007301.txt",
+      "old_words": 52201,
+      "new_words": 89582,
+      "delta_words": 37381
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006770.txt",
+      "old_words": 37264,
+      "new_words": 74419,
+      "delta_words": 37155
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0002/EFTA00014767.txt",
+      "old_words": 28627,
+      "new_words": 62136,
+      "delta_words": 33509
+    },
+    {
+      "path": "DataSet 12/VOL00012/IMAGES/0001/EFTA02730274.txt",
+      "old_words": 56445,
+      "new_words": 88567,
+      "delta_words": 32122
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006487.txt",
+      "old_words": 61770,
+      "new_words": 93441,
+      "delta_words": 31671
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006109.txt",
+      "old_words": 999,
+      "new_words": 32420,
+      "delta_words": 31421
+    },
+    {
+      "path": "DataSet 3/VOL00003/IMAGES/0001/EFTA00005386.txt",
+      "old_words": 12474,
+      "new_words": 43451,
+      "delta_words": 30977
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006209.txt",
+      "old_words": 1027,
+      "new_words": 31172,
+      "delta_words": 30145
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006970.txt",
+      "old_words": 38422,
+      "new_words": 67968,
+      "delta_words": 29546
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006387.txt",
+      "old_words": 63764,
+      "new_words": 91721,
+      "delta_words": 27957
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006587.txt",
+      "old_words": 64257,
+      "new_words": 90381,
+      "delta_words": 26124
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0001/EFTA00010819.txt",
+      "old_words": 42729,
+      "new_words": 68352,
+      "delta_words": 25623
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00006870.txt",
+      "old_words": 43895,
+      "new_words": 68530,
+      "delta_words": 24635
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00007401.txt",
+      "old_words": 58978,
+      "new_words": 82349,
+      "delta_words": 23371
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033016.txt",
+      "old_words": 207757,
+      "new_words": 230060,
+      "delta_words": 22303
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033020.txt",
+      "old_words": 211745,
+      "new_words": 232254,
+      "delta_words": 20509
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033019.txt",
+      "old_words": 207192,
+      "new_words": 227691,
+      "delta_words": 20499
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0002/EFTA00014822.txt",
+      "old_words": 34175,
+      "new_words": 54530,
+      "delta_words": 20355
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033018.txt",
+      "old_words": 211042,
+      "new_words": 231350,
+      "delta_words": 20308
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033124.txt",
+      "old_words": 202974,
+      "new_words": 222693,
+      "delta_words": 19719
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033025.txt",
+      "old_words": 208078,
+      "new_words": 227715,
+      "delta_words": 19637
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033014.txt",
+      "old_words": 211761,
+      "new_words": 231304,
+      "delta_words": 19543
+    }
+  ],
+  "top_word_shrink": [
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033131.txt",
+      "old_words": 221999,
+      "new_words": 11,
+      "delta_words": -221988
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033126.txt",
+      "old_words": 221456,
+      "new_words": 11,
+      "delta_words": -221445
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033134.txt",
+      "old_words": 217529,
+      "new_words": 11,
+      "delta_words": -217518
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033132.txt",
+      "old_words": 214542,
+      "new_words": 11,
+      "delta_words": -214531
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033128.txt",
+      "old_words": 214136,
+      "new_words": 11,
+      "delta_words": -214125
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033127.txt",
+      "old_words": 213903,
+      "new_words": 11,
+      "delta_words": -213892
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033130.txt",
+      "old_words": 213068,
+      "new_words": 11,
+      "delta_words": -213057
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033129.txt",
+      "old_words": 212295,
+      "new_words": 11,
+      "delta_words": -212284
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033135.txt",
+      "old_words": 209861,
+      "new_words": 11,
+      "delta_words": -209850
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033136.txt",
+      "old_words": 209213,
+      "new_words": 11,
+      "delta_words": -209202
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033144.txt",
+      "old_words": 207872,
+      "new_words": 11,
+      "delta_words": -207861
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033133.txt",
+      "old_words": 207400,
+      "new_words": 11,
+      "delta_words": -207389
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033140.txt",
+      "old_words": 206595,
+      "new_words": 11,
+      "delta_words": -206584
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033143.txt",
+      "old_words": 206432,
+      "new_words": 11,
+      "delta_words": -206421
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033125.txt",
+      "old_words": 205219,
+      "new_words": 73301,
+      "delta_words": -131918
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0005/EFTA00024175.txt",
+      "old_words": 101755,
+      "new_words": 57364,
+      "delta_words": -44391
+    },
+    {
+      "path": "DataSet 12/VOL00012/IMAGES/0001/EFTA02730741.txt",
+      "old_words": 98876,
+      "new_words": 62478,
+      "delta_words": -36398
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0005/EFTA00023822.txt",
+      "old_words": 50950,
+      "new_words": 15198,
+      "delta_words": -35752
+    },
+    {
+      "path": "DataSet 12/VOL00012/IMAGES/0001/EFTA02730486.txt",
+      "old_words": 88440,
+      "new_words": 60160,
+      "delta_words": -28280
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00032989.txt",
+      "old_words": 243334,
+      "new_words": 223672,
+      "delta_words": -19662
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0001/EFTA00011669.txt",
+      "old_words": 133938,
+      "new_words": 114803,
+      "delta_words": -19135
+    },
+    {
+      "path": "DataSet 8/VOL00008/NATIVES/0001/EFTA00033098.txt",
+      "old_words": 233431,
+      "new_words": 216017,
+      "delta_words": -17414
+    },
+    {
+      "path": "DataSet 4/VOL00004/IMAGES/0001/EFTA00007859.txt",
+      "old_words": 17145,
+      "new_words": 1589,
+      "delta_words": -15556
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0004/EFTA00021578.txt",
+      "old_words": 36734,
+      "new_words": 21224,
+      "delta_words": -15510
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0001/EFTA00013301.txt",
+      "old_words": 14235,
+      "new_words": 176,
+      "delta_words": -14059
+    },
+    {
+      "path": "DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001241.txt",
+      "old_words": 13630,
+      "new_words": 502,
+      "delta_words": -13128
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0002/EFTA00014645.txt",
+      "old_words": 14104,
+      "new_words": 1082,
+      "delta_words": -13022
+    },
+    {
+      "path": "DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001951.txt",
+      "old_words": 12796,
+      "new_words": 799,
+      "delta_words": -11997
+    },
+    {
+      "path": "DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001489.txt",
+      "old_words": 12725,
+      "new_words": 784,
+      "delta_words": -11941
+    },
+    {
+      "path": "DataSet 8/VOL00008/IMAGES/0005/EFTA00024850.txt",
+      "old_words": 13143,
+      "new_words": 1250,
+      "delta_words": -11893
+    }
+  ]
+}

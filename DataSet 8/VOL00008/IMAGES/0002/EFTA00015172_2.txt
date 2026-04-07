@@ -1,0 +1,52 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015172.pdf ts=2026-03-12T13:28:11 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned digital document, specifically an "Additional Inquiry Response" form issued by law enforcement agencies in New York State. The document header features branding for both the Federal Bureau of Investigation (FBI) and the New York State Division of Criminal Justice Services. At the very top left, a timestamp reads "10/6/21, 12:43 PM," while the top right corner indicates this is an "III/FBI/State Delayed Response." Below the main title, there is an Office of Research and Information (ORI) code "NYFBINY00" listed in red text above the specific agency names. The FBI section is printed in magenta/purple, as are subsequent headers like "III Information."
+
+The central portion of the document is dominated by a large, solid black rectangular box. This area serves as a redaction, obscuring the specific information or records that were requested and presumably found or searched for. Above this black box, introductory text explains that the following information is provided in response to a search request based on unspecified criteria (which would have been in the redacted section). Below the black box, there is standard disclaimer text regarding obtaining records through the Interstate Identification Index (III) via NCIC transactions. The footer indicates this is page 1 of 2 and bears a unique identification number "EFTA00015172" in the bottom right corner.
+
+## Visible Text (verbatim)
+*   Top Left: 10/6/21, 12:43 PM
+*   Top Center Header: III/FBI/State Delayed Response
+*   Main Title: Additional Inquiry Response
+*   ORI Code: ORI: NYFBINY00
+*   FBI Label (Red): Federal Bureau of Investigation - New York
+*   Agency Name: New York State Division of Criminal Justice Services
+*   Address Line 1: Alfred E. Smith Building, 80 South Swan St.
+*   Address Line 2: Albany, New York 12210. Tel:1-800-262-DCJS
+*   Official Signature/Name Line: Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+*   Section Header: III Information
+*   Body Text: The following information is provided in response to your request for a search of the III based on:
+*   Footer Text (above black box): THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION INDEX BY USING THE APPROPRIATE NCIC TRANSACTION.
+*   End Marker: END
+*   Page Number: 1/2
+*   Document Hash: EFTA00015172
+
+## Notable Details / Clues
+*   **Redaction Scope:** The black box is extensive, covering the majority of the page's vertical space where personal data, case numbers, or specific crime details would typically appear in an inquiry response.
+*   **Agency Coordination:** The document clearly shows a joint or multi-agency effort, involving both federal (FBI) and state (NYS DCJS) criminal justice services, indicated by the shared letterhead styles.
+*   **Specific Personnel:** Michael C. Green is listed as the Executive Deputy Commissioner, providing a specific point of contact for the NYS Division of Criminal Justice Services.
+*   **Document Type:** The term "Additional Inquiry Response" suggests this is part of a longer investigative file or a response to a Freedom of Information Act (FOIA) request where follow-up records are being supplied.
+*   **Color Coding:** The use of magenta/purple ink for specific headers ("Federal Bureau of Investigation - New York", "III Information") likely signifies that these were digital fields populated into a standard white form template, possibly from a different software interface (like the III system itself).
+*   **Date Context:** The document is dated October 6, 2021, placing it in the context of investigations active during the pandemic era or shortly after.
+*   **NCIC Reference:** The footer explicitly references the "National Crime Information Center" (NCIC), a standard law enforcement database, indicating this is an official criminal justice document used by police and agencies for record verification.
+*   **Page Count:** The "1/2" at the bottom right implies there is a second page containing either more redacted information or the conclusion of the document.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+10/6/21, 12:43 PM                                     III/FBI/State Delayed Response
+
+
+                                                                                                  2/2
+
+                                                                                EFTA00015173
+
+## Structured Fields
+- **Date:** 10/6/21
+- **Time:** 12:43 PM
+- **Case ID / Doc ID:** EFTA00015173
+- **Organization:** FBI, State
+- **Page Number:** 2/2
+

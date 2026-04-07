@@ -1,0 +1,34 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00020444.pdf ts=2026-03-14T13:50:58 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+**Event:** Call with FCA (Epstein)
+__________________________
+Start Date: 2019-12-10 15:00:00 +0000
+End Date: 2019-12-10 15:30:00 +0000
+Organizer: [REDACTED] (USANYS) <[REDACTED]>
+Class: X-PERSONAL
+Date Created: 2019-12-05 00:09:43 +0000
+Date Modified: 2019-12-05 00:09:43 +0000
+Priority: 5
+DTSTAMP: 2019-12-04 23:58:26 +0000
+Attendee: [REDACTED] (USANYS) <[REDACTED]>
+Alarm: Display the following message 15m before start
+| Reminder
+
+## Structured Fields
+*   **Event Title:** Call with FCA (Epstein)
+*   **Start Date:** 2019-12-10
+*   **End Date:** 2019-12-10
+*   **Timezone Offset:** +0000
+*   **Organizer:** [Redacted]
+*   **Attendee:** [Redacted]
+*   **Class:** X-PERSONAL
+*   **Creation Date:** 2019-12-05 00:09:43
+*   **Modification Date:** 2019-12-05 00:09:43
+*   **Priority:** 5
+*   **DTSTAMP:** 2019-12-04 23:58:26
+*   **Alarm Message:** Reminder (15 minutes before start)
+*   **Email Domain/Org:** USANYS
+*   **Document ID:** EFTA00020444
+

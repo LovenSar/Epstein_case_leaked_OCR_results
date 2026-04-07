@@ -1,0 +1,38 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002512.pdf ts=2026-03-05T20:41:08 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly high-angle shot of four computer hard disk drives resting inside a server chassis or rack shelf. The surface is a scratched, light-grey metal plate. To the right of the drives is a yellow legal pad with green horizontal lines. All four hard drives are Western Digital "Enterprise Storage" models, specifically 3TB SATA drives (model WD5003ABYX). Each drive is seated in a black retention tray where the plastic latching mechanism is flipped upward in an open position, indicating they have been removed from their installed slots. Handwritten numbers ("1", "2", "3", and "4") are visible on the bottom-front face of each respective drive tray, marking them sequentially from left to right. On the yellow notepad, a hand-drawn box contains two rows of handwritten numbers: the top row reads "1 3 5 7" and the bottom row reads "2 4 6 [8/9]". Below this box, the word "empty" is written in pencil. In the upper right background, a metal panel featuring a grid of circular mounting holes (pegboard style) is visible. On the far left edge of the frame, a partial view of a yellow and black warning label is visible on the server chassis wall.
+
+## Visible Text
+**On Notepad Header:**
+"DOCKET GOLD"
+
+**On Notepad Body (Handwritten):**
+Inside box top row: "1 3 5 7"
+Inside box bottom row: "2 4 6 [digit resembling 8]"
+Below box: "empty"
+
+**On Drive Labels (Western Digital):**
+- Brand Logo: "WD Western Digital"
+- Website: "www.westerndigital.com"
+- Model Number: "WD5003ABYX"
+- Capacity: "3 TB"
+- Product Line: "Enterprise Storage" (Yellow strip at bottom)
+- Additional text visible on labels includes serial numbers, barcodes, manufacturing dates (e.g., "FMB: 29 JUN 2012"), and compliance logos (UL, CE).
+
+**Handwritten on Drive Trays:**
+- Leftmost tray: "1"
+- Second tray: "2"
+- Third tray: "3"
+- Rightmost tray: "4"
+
+## Notable Details / Clues
+- **Uniformity:** All four drives are identical models (WD5003ABYX), suggesting they were pulled from a server simultaneously, likely due to a bulk failure or a migration/replacement event.
+- **Date of Manufacture:** Visible date codes on the labels (e.g., "29 JUN 2012") indicate these are older enterprise-grade drives.
+- **Inventory Mapping:** The notepad appears to be a log for drive swapping. The numbering inside the box (1,3,5,7 and 2,4,6...) does not follow standard sequential order, possibly mapping physical bays to logical ports or tracking specific failed drives versus working spares.
+- **Slot Status:** The word "empty" suggests that one of the slots listed in the inventory is currently vacant or needs a replacement drive (which might be the set of four sitting there).
+- **Latch Position:** All retaining latches are open, confirming the drives are removed from power and hot-swap cages.
+- **Environment:** The scratched metal surface and dust on the notepad edges suggest an industrial server room environment with high traffic or age.
+

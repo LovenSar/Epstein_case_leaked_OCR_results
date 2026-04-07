@@ -1,0 +1,45 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008470.pdf ts=2026-03-09T07:17:15 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of a 3.5-inch computer hard drive resting inside an open brown corrugated cardboard box. The hard drive is encased in a clear, anti-static protective plastic bag which appears sealed at the bottom. The packaging features a white label with green accents at the top containing the Seagate logo and a wolf graphic. The label identifies the product as a "10TB IronWolf" drive. To the right of the drive, there is handwritten black marker numbering on the plastic bag itself, including the number "04". The cardboard box underneath has text printed on its inner flap which is currently facing up. The entire assembly sits on a grey speckled terrazzo-style floor. A white triangular piece of paper or tape is tucked under the front flap of the box. In the bottom right corner of the image, there is a digital file identification stamp reading "EFTA00008470".
+
+## Visible Text (verbatim)
+**On the Hard Drive Label:**
+- "seagate" (Logo)
+- "10TB"
+- "IronWolf"
+- Model: ST1000VN0008
+- Serial Number (SN): ZPVQK51R
+- Firmware Version: 2.JU101--S00
+- Form Factor: SCS
+- WWN: 5000C500CB4FCB1
+- PCBID: CLF9067XTWAEXYFG38WRZYBW02MJ4XDF
+- Regulatory Markings: CE, recycling symbol.
+- Power specs: "+5VDC 0.80 A", "+12VDC 0.72 A"
+- Address: "Kerkstraat 1, 1118 NB Schiphol - RIA, The Netherlands"
+- Website: seagate.com
+- "CONTENTS:"
+- "Master Copy: Archive of DVR 1 Images"
+- "Lab #: HQQ190816001"
+- "UCFN: 90A-MY-3151227"
+- "Examiner: [Signature/Initials]"
+- "SPECIMEN: HQQ026638"
+
+**On the Cardboard Box Flap:**
+- "SMEAD"
+- "No. 71055"
+- "KEEPING YOU ORGANIZED"
+- "105SE" (partially visible code)
+
+## Notable Details / Clues
+- **Forensic/Evidence Context:** The label explicitly states "Master Copy: Archive of DVR 1 Images" and includes a "Lab #" and "UCFN" (Unique Case File Number). This strongly suggests the drive is digital evidence, specifically an archive of surveillance footage.
+- **Specimen Tagging:** The word "SPECIMEN" followed by a unique code (HQQ026638) indicates this item has been logged into an inventory system, likely for a crime lab or data recovery operation.
+- **Drive Capacity and Series:** This is a high-capacity 10 Terabyte drive from the IronWolf series, which Seagate markets specifically for network-attached storage (NAS), implying it was used to store large volumes of video files from multiple camera DVRs.
+- **Packaging Security:** The plastic bag is sealed, preserving the original factory state or a secure chain-of-custody seal, though the outer sleeve has been removed.
+- **Handwritten Markings:** Black marker writing on the plastic bag ("04" and a scribbled letter) suggests this item was tagged during a physical processing session, perhaps to track it on a table or bench.
+- **Box Type:** The box is a standard SMEAD file box (Model No. 71055), often used for paper documents, repurposed here likely for shipping or temporary evidence storage.
+- **Location Data:** The printed address on the drive label confirms the manufacturing origin as the Netherlands (Schiphol).
+- **File ID Stamp:** The code "EFTA00008470" in the corner is a digital asset management (DAM) or law enforcement case file identifier, linking the photo to a specific digital record.
+

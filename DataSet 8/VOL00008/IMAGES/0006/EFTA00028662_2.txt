@@ -1,0 +1,61 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028662.pdf ts=2026-03-18T00:46:29 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email document containing press clippings from the Southern District of New York (SDNY). At the very top, the standard email header fields ("From:", "To:", "Cc:") are heavily redacted with black bars, obscuring sender and recipient information. Below the headers is the subject line and timestamp, followed by a horizontal dividing line. The main body begins with a blue banner featuring the Department of Justice seal on the left and bold white text reading "SDNY PRESS CLIPPINGS" on the right. Beneath the banner is a long, two-column style list (visually single column in layout) of news headlines and hyperlinks organized under specific bold headers like "MAXWELL" and "MATTERS OF INTEREST." The links appear to be standard blue underlined text typical of web clients. At the bottom right corner, an alphanumeric code is visible.
+
+## Visible Text (verbatim)
+**Header Information:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: SDNY NEWS CLIPS, OCTOBER 26, 2020
+*   Date: Mon, 26 Oct 2020 18:57:08 +0000
+*   Inline-Images: image001.png
+
+**Banner Text:**
+*   DEPARTMENT OF JUSTICE (curved text in seal)
+*   SDNY PRESS CLIPPINGS
+
+**Body Content - Maxwell Section:**
+*   MAXWELL
+*   POST: https://nypost.com/2020/10/24/operation-underway-to-spring-ghislaine-maxwell-from-jail/
+*   BLOOMBERG: https://www.bloomberg.com/news/articles/2020-10-24/maxwell-claims-u-s-reneging-on-promise-to-turn-over-evidence
+*   GUARDIAN: https://www.theguardian.com/uk-news/2020/oct/23/prince-andrew-asked-ghislaine-maxwell-about-accuser-documents-suggest
+
+**Body Content - Matters of Interest Section:**
+*   MATTERS OF INTEREST
+*   POST: https://nypost.com/2020/10/26/trump-would-dump-christopher-wray-if-he-wins-a-second-term-report/
+*   WSJ: https://www.wsj.com/articles/sports-gambler-billy-walters-files-suit-faulting-ex-fbi-agent-over-leaks-11603400794
+*   CNBC: https://www.cnbc.com/2020/10/26/heres-what-wall-street-analysts-are-saying-about-the-newly-public-palantir.html
+*   LAW.COM: https://www.law.com/newyorklawjournal/2020/10/23/timing-quirk-means-that-in-january-us-ag-barr-may-directly-oversee-sdny-prosecutors-office/
+*   WASHINGTON EXAMINER: https://www.washingtonexaminer.com/news/hunter-biden-alleged-sex-tape-and-images-uploaded-on-bannon-connected-chinese-website
+*   DAILY NEWS: https://www.thedailybeast.com/boston-ballot-box-set-on-fire-outside-library-votes-destroyed
+*   DAILY BEAST: https://www.thedailybeast.com/blame-comey-first-and-last-for-trump-taking-the-white-house
+*   THE HILL: https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall
+*   VOX: https://www.vox.com/21527215/hunter-biden-jared-ivanka-eric-don-junior
+*   LA TIMES: https://www.latimes.com/opinion/story/2020-10-26/belarus-election-fraud-mass-protests
+*   EPOCH TIMES: https://www.theepochtimes.com/new-york-times-8-month-long-investigation-of-the-epoch-times-light-on-facts-heavy-on-bias_3487144.html
+*   NYT: https://www.nytimes.com/2020/10/25/business/media/hunter-biden-wall-street-journal-trump.html
+*   MAIN: Watch Video: This Week at Justice
+
+**Footer:**
+*   EFTA00028662
+
+## Notable Details / Clues
+*   **Redaction Context:** The heavy blacking out of the "From", "To", and "Cc" fields is characteristic of leaks released by the FBI, DOJ, or SDNY to demonstrate who received classified emails about investigations (likely the Trump Tower files leak or Hunter Biden laptop saga).
+*   **Date Significance:** The date "OCTOBER 26, 2020" places this document during the final stretch of the US presidential election campaign, explaining the focus on topics like "Trump," "Biden," and "Ballot Box."
+*   **Document ID:** The text "EFTA00028662" in the corner is likely an Electronic Filing Terminal Access number or a unique identifier assigned by the court's case management system (ECMS/CM/ECF).
+*   **Topic Variety:** The list mixes specific criminal investigations (Ghislaine Maxwell, Hunter Biden sex tape allegations) with general news and media bias accusations (NYT vs Epoch Times investigation link).
+*   **Link Structure:** The links provided are direct URLs to the original articles on major news sites like NYPost, Bloomberg, and Washington Post.
+*   **Formatting:** The text is formatted as an email body with standard hyperlinks (blue text) and bold headers for categorization.
+*   **Specific Mention of "Palantir":** A CNBC link mentions a video by James Bondi discussing the public sale of Palantir stock, linking financial news to legal scrutiny.
+*   **Law.com Headline:** The link mentions AG Barr overseeing SDNY prosecutors in January, referencing a legal structural change (or rumor) regarding federal jurisdiction.
+*   **Epoch Times Link:** This specific link is critical as it alleges bias by other outlets and promotes the Epoch Times' own narrative about election fraud claims.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Structured Fields
+*   Document ID: EFTA00028663
+

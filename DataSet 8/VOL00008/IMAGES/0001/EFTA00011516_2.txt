@@ -1,0 +1,44 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00011516.pdf ts=2026-03-10T12:45:04 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot or scan of an email header and partial body text, heavily redacted in areas. At the very top, standard email fields are visible but partially obscured. The "From" and "To" lines contain solid black rectangular bars that completely hide the sender's and recipient's identities. Below this is the subject line, which begins with "FW:", indicating a forwarded message. A specific date and time stamp is present in Greenwich Mean Time (+0000). An attachment filename is listed immediately below the date.
+
+A thin horizontal rule separates the header from the body of the message. The visible text body begins mid-sentence or at the start of a paragraph discussing the editing process of a document. It contrasts the sender's actions with another redacted individual, mentioning "proofreading" versus "substantive line edits." A second black bar obscures a name or pronoun before making a request for the recipient to review specific sections in an attached file to confirm they are okay for inclusion in a final version. The message concludes with the sender stating they will perform similar actions for their own sections.
+
+The lower two-thirds of the image is dominated by a massive, solid black rectangular shape that obscures the rest of the email body entirely, making it impossible to see any further correspondence or signatures. In the bottom right corner, outside the main content area but within the frame, there is a small alphanumeric code. The entire layout suggests this is a discovery document or a screenshot from an email client used in a legal or professional setting.
+
+## Visible Text (verbatim)
+**From:** [Black Bar]
+**To:** [Black Bar]
+**Subject:** FW: Cite-checked omnibus MOL
+**Date:** Fri, 26 Feb 2021 18:55:16 +0000
+**Attachments:** 2021.02.26_GM_Omnibus_Opposition_to_Defense_Motions.ebd.docx
+
+It will surprise you not at all to learn that, unlike [Black Bar] took this beyond just proofreading and included some substantive line edits/comments. [Black Bar] would you please take a look at the changes in your sections to confirm you are ok with them being input into the final version? I'll do the same for my sections.
+
+**EFTA00011516** (Bottom Right Corner)
+
+## Notable Details / Clues
+*   **Legal Context:** The subject line "Opposition to Defense Motions" and the attachment filename confirm this is a legal document related to court proceedings, likely a civil or criminal case where a party is opposing motions filed by the defense.
+*   **"Cite-checked":** The subject indicates that references in the document have been verified for accuracy, a critical step in legal writing to ensure admissibility and avoid penalties.
+*   **Bates Number:** The code "EFTA00011516" in the corner is likely a Bates number, which is used by law firms to catalog and identify specific documents during litigation discovery or depositions.
+*   **"eBD.docx":** The file extension ".ebd.docx" is slightly unusual for standard Microsoft Word files (usually .docx), suggesting it might be a proprietary format or an export from legal automation software, though it still opens in Word.
+*   **Collaborative Workflow:** The email text reveals a specific workflow: "substantive line edits," "proofreading," and seeking confirmation before "input into the final version." This highlights a multi-layered review process common in high-stakes litigation.
+*   **"GM" Initials:** The filename starts with "2021.02.26_GM...", possibly standing for Government Motion, General Memorandum, or a specific attorney's initials.
+*   **Reciprocity:** The text "I'll do the same for my sections" implies the sender is also editing other parts of the document before consolidation, showing a split drafting team.
+*   **Time Zone:** The timestamp "+0000" indicates UTC time, which may suggest the sender travels or works in different time zones relative to their recipient.
+*   **Redaction Strategy:** The redactions are applied inconsistently; while names are completely blacked out in the header, they are replaced by smaller black bars within the text body, attempting to anonymize specific individuals while preserving sentence structure.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+
+    
+EFTA00011517
+
+## Structured Fields
+- **Doc ID**: EFTA00011517
+

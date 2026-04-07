@@ -1,0 +1,79 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028526.pdf ts=2026-03-17T23:30:15 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, likely from a corporate or legal context given the subject lines involving "disclosure updates." The interface resembles standard webmail clients (like Outlook on the web or Gmail). Most personal identifying information, including sender names, recipient lists, and phone numbers, has been obscured with thick black bars. The thread is organized chronologically from bottom to top. At the very bottom of the screen, a document identifier "EFTA00028526" is visible in the footer. A large, solid black rectangular block obscures a significant portion of the email body between the mid-sequential emails and the final email at the bottom. The text content focuses on scheduling a meeting or conversation regarding a "disclosure," with senders negotiating times between 4:30 PM and 5:00 PM on Wednesday, July 31, 2019.
+
+## Visible Text (verbatim)
+**Top Email Segment:**
+- From: [Redacted]
+- To: [Redacted]" <[Redacted]
+- Cc: [Redacted]" <[Redacted], [Redacted]
+- Subject: RE: disclosure update
+- Date: Wed, 31 Jul 2019 17:59:25 +0000
+- Body: Yes—5pm works. Call my cell: [Redacted]
+
+**Blue Text Email Segment:**
+- From: [Redacted]
+- Sent: Wednesday, July 31, 2019 12:20 PM
+- To: [Redacted]
+- Cc: [Redacted] | [Redacted])
+- Subject: RE: disclosure update
+- Body: Thanks—it’s possible we’ll still be in a meeting at 4:30. Would it be possible to speak at 5 instead? If not, we can plan for 4:30 and let you know if we need to reschedule.
+- Sign-off: Thanks, [Redacted Signature]
+
+**Mid-Thread Email Segment:**
+- From: [Redacted]
+- Sent: Wednesday, July 31, 2019 11:18 AM
+- To: [Redacted] | [Redacted]
+- Cc: [Redacted] <[Redacted] <[Redacted]
+- Subject: RE: disclosure update
+- Body: Yes—would 4:30pm today work?
+
+**Black Box Area:**
+- [Large Solid Black Rectangle obscuring content]
+
+**Bottom Email Segment:**
+- From: [Redacted] | [Redacted]
+- Sent: Tuesday, July 30, 2019 6:20 PM
+- To: [Redacted]
+- Cc: [Redacted] | [Redacted])
+- Subject: disclosure update
+
+**Footer:**
+- EFTA00028526
+
+## Notable Details / Clues
+- **Time Zone Discrepancy:** The top email is dated "Wed, 31 Jul 2019 17:59:25 +0000," indicating UTC time, while other emails in the thread (likely from a US location given the AM/PM usage) use local time. This suggests an international communication or a specific server timezone setting.
+- **Scheduling Negotiation:** The thread shows a clear progression of scheduling adjustments. The sender of the blue text email (12:20 PM) is already in a meeting and cannot speak at 4:30 PM, proposing 5:00 PM instead. By 17:59 UTC (which corresponds to late afternoon US time), the final confirmation is that "5pm works."
+- **Redaction Extent:** The redactions are heavy. Almost every "From," "To," and "Cc" line is blacked out entirely, protecting identity. The phone number at the top is also fully obscured.
+- **Large Blackout:** There is a massive black box obscuring an entire email message or section of the thread between the 11:18 AM and Tuesday July 30 emails. This likely contains confidential information that was intentionally redacted for this document view.
+- **Subject Line Consistency:** All subject lines (except the very first one which is partially cut off but implied) start with "RE: disclosure update" or just "disclosure update," indicating a single, specific project topic.
+- **Chronological Order:** The visible headers confirm the thread runs backwards in time from top to bottom. The most recent activity is at the top (Wed 17:59), followed by Wednesday morning emails, and finally the start of the chain on Tuesday evening.
+- **Formatting:** The blue text in the middle section indicates that it might have been a forwarded email or simply formatted as "reply" text by the client software to distinguish the sender's original message from the reply.
+- **Document ID:** The code "EFTA00028526" in the bottom right corner suggests this is part of a formal evidence log, audit trail, or public record (possibly related to an Election File, given the acronym EFTA).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Hi [REDACTED]
+
+Do you have a few minutes for a quick call tomorrow afternoon? We are making a disclosure that relates to your client in connection with our discovery obligations to Epstein’s counsel, and we wanted to briefly make you aware of it.
+
+Thanks,
+[REDACTED]
+
+[REDACTED]
+Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+EFTA00028527
+
+## Structured Fields
+*   **Organization:** Southern District of New York
+*   **Location:** One Saint Andrew's Plaza, New York, NY 10007
+*   **Subject/Case Context:** Disclosure relating to a client in connection with discovery obligations to Epstein’s counsel.
+*   **Document ID (Footer):** EFTA00028527
+

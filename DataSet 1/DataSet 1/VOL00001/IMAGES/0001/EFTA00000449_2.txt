@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000449.pdf ts=2026-03-05T06:25:49 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts an industrial mechanical room, likely a basement or utility level for a building's HVAC system. The scene is dominated by heavy piping and pump assemblies situated on a concrete floor.
+*   **Piping System:** A large-diameter pipe runs horizontally across the upper center of the frame; it is wrapped in light blue insulation foam. Below this, a horizontal manifold pipe painted tan or beige connects to several vertical risers that reach up to meet the main blue pipe. Flanged connections and valves are visible along the pipes.
+*   **Pumps:** At the bottom center, mounted on concrete bases with vibration isolators, are large centrifugal pumps. These pumps feature electric motors (painted dark grey or blue) attached via couplings. Pressure gauges are visible near the pump heads.
+*   **Left Side:** On the far left, a black industrial floor fan with a wire cage stands in the foreground. Behind it is a large, cylindrical vertical tank painted grey (possibly an expansion vessel or accumulator).
+*   **Right Side:** Mounted on a white cinder block wall is a large, floor-standing electrical panel cabinet. It is light grey and features multiple circuit breakers with red and green indicator lights and white toggle handles. Below this main panel is a smaller, light blue electrical cabinet.
+*   **Ceiling/Background:** The upper portion of the image shows large, galvanized steel HVAC ducts running horizontally. There appears to be a white junction box or access panel attached to the ductwork where the insulation coating is torn or peeling off.
+*   **Wall:** The wall on the right is painted white cinder block.
+
+## Visible Text (verbatim)
+*   On the green tag on the blue pipe: "← CHILLED WATER RET."
+*   On the electrical panel faces (top left labels): "SIEMENS"
+*   On the electrical panel faces (blue indicator lights/labels): "P-1", "P-2"
+*   On the small blue cabinet (lower right): "P-6"
+*   Watermark on bottom right corner: "EFTA00000449"
+
+## Notable Details / Clues
+*   **System Function:** The green tag explicitly labeling the pipe as "CHILLED WATER RET." indicates this is part of a heating, ventilation, and air conditioning (HVAC) chilled water return loop.
+*   **Brand Identification:** The Siemens logo on the electrical panel suggests commercial-grade power distribution equipment.
+*   **Condition:** The peeling insulation on the white box near the ceiling and the slightly faded paint on the pipes suggest the facility is older or has undergone wear over time.
+*   **Instrumentation:** Several pressure gauges (dial indicators) are mounted near the pumps, likely monitoring suction and discharge pressure to ensure flow efficiency.
+*   **Layout:** The arrangement of pumps with motors suggests a variable speed drive setup or redundancy for maintaining water circulation through the building's cooling system.
+*   **Lighting:** The lighting appears artificial and somewhat harsh, casting distinct shadows under the pump motors and along the wall panels, typical of utility areas.
+

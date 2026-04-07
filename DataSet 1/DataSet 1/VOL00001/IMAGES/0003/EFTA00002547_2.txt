@@ -1,0 +1,34 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002547.pdf ts=2026-03-05T21:02:56 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a computer storage component, specifically a 3.5-inch internal hard disk drive (HDD) seated within its mounting carrier tray, resting on a dark, textured metallic surface. The drive consists of two primary sections: a black plastic carrier tray on the left and the drive's metal casing on the right. The carrier features a vertical array of gold-plated contact fingers used for electrical connection to a server or storage controller backplane; these fingers show signs of oxidation and grime. The handle mechanism of the tray is partially visible at the far left edge. The drive itself has a silver aluminum faceplate with four mounting screw holes at its corners. A large white label dominates the top surface, though it is partially obscured by dirt and smudges. To the right of the main label area is a distinct cutout in the metal casing for SATA/SAS cable routing. The bottom right corner features compliance certification logos (CE, NRTL, etc.). The background is a nondescript grey steel surface with scattered debris and stains.
+
+## Visible Text (verbatim)
+- **Handwritten Mark:** "3" (in blue ink)
+- **Model:** "HP MODEL: DG146B8976"
+- **Capacity/Spefication:** "146GB 10K SRS"
+- **HP P/N:** "4301SS-993"
+- **Serial Number (SN):** "2SD050VLC"
+- **Part Number:** "*9F6866-035*"
+- **Lot Number:** "#F-21-9220-S*"
+- **GPN:** "375863-010"
+- **Serial Number (2):** "*3NT7H9D*"
+- **VDC AIPS:** "+5 1.0", "+12 0.3"
+- **Firmware:** "ST9146825SS"
+- **LHN:** "500C5098P 2R4E00"
+- **Manufacturer Code:** "STY-STH468256S (M)"
+- **Product of:** "PRODUCT OF SINGAPORE"
+- **Bottom Left Code:** "1e4422661"
+- **Small Sticker on Right:** "3U", barcode, "2D050VLC"
+
+## Notable Details / Clues
+- **Dual Branding/Rebranding:** Despite the prominent "HP" logo and model number on the label, the part codes reveal the drive is a Seagate product. The code "ST9146825SS" and manufacturer string "STY-STH468256S (M)" indicate a Seagate Hard Drive manufactured for HP/Dell markets.
+- **Seagate Replacement Specified (SRS):** The text "10K SRS" suggests this is a Seagate Replacement Specified drive, often a specific type of enterprise-grade hard drive sold to system integrators.
+- **GPN Identifier:** The Global Part Number (GPN) "375863-010" starting with '3' is a specific convention often associated with Dell systems, suggesting this unit was likely used in or resold for Dell servers despite the HP branding on the casing.
+- **Condition:** The drive exhibits significant signs of age or heavy use. There are brownish discolorations and grime buildup around the edges of the metal casing and on the gold contact fingers. The white label itself has yellowed areas, particularly near the corners.
+- **Handwritten Marking:** A large blue "3" is stamped or handwritten over the GPN barcode area on the left side, likely for internal inventory sorting or identification within a repair shop or warehouse.
+- **Form Factor:** The drive is a 3.5-inch standard enterprise height (2.5 inches or similar, indicated by "10K RPM").
+- **Regulatory Markings:** Standard international compliance marks including the CE mark (Europe), EAC (Eurasian Conformity), and UL/CUL safety marks are visible in the bottom right cluster of logos.
+

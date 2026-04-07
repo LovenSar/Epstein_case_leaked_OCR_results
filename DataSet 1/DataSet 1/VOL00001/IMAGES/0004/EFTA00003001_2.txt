@@ -1,0 +1,25 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003001.pdf ts=2026-03-06T00:16:03 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an open, wall-mounted black equipment rack situated in what appears to be a utility room or basement, evidenced by exposed silver HVAC ducting and white PVC piping running along the ceiling above the cabinet. The rack is populated with networking hardware. The upper portion of the rack contains a stack of three 1U white rack-mountable devices secured within the black frame. From top to bottom, these devices are labeled with specific identifiers. A chaotic tangle of multi-colored ethernet and fiber optic cables—predominantly orange, yellow, blue, and black—emanates from the ports on the right side of the upper devices and dangles loosely into the middle section of the rack. In the open space below the top three devices, a bundle of black power or data cables is piled against the back panel. Resting on the equipment at the bottom level is a flattened cardboard box containing a white electronic device with visible buttons and indicator lights. The rack door is swung open to the right, revealing a hexagonal mesh ventilation grille; behind the mesh, an orange component, possibly a fan blade, is partially visible. A strip of blue painter's tape with scribbled writing adheres to the inside of the door frame.
+
+## Visible Text (verbatim)
+- "TEMP-PH-SWITCH" (on top device label)
+- "NDC-GYM-FOSW" (on middle device label)
+- "PTP-RADIO BKP" (on bottom device label)
+- "UNIFI" (Logo on the bottom left of the third device)
+- "1000" (Scribbled on the blue tape on the door frame, illegible rest)
+- "EFTA00003001" (ID number in bottom right corner)
+
+## Notable Details / Clues
+- **Network Architecture:** The presence of a "UNIFI" logo suggests Ubiquiti networking equipment. The labels "SWITCH" and "FOSW" (likely Fiber Optic Switch) confirm this is a Layer 2/3 network distribution point.
+- **Cabling Disorganization:** While the upper ports are actively populated, the cable management is poor; thick orange ethernet cables hang vertically through an empty rack space, suggesting recent additions or reconfiguration without full cleanup.
+- **Facility Location Context:** The labels "GYM" (NDC-GYM) and "PH" (possibly Photography Hall or Physics Hall) imply this rack serves a specific institutional building, likely a school or university.
+- **Backup Status:** The label "BKP" on the PTP Radio indicates this is a backup unit for point-to-point wireless communication.
+- **Power/Connectivity:** The black cables in the middle section are unorganized and loose, indicating they might be power cords or spares not currently routed to active ports.
+- **Environmental Conditions:** The rack is mounted directly beneath ductwork, suggesting it is an exposed utility closet rather than a climate-controlled server room.
+- **Device Count:** There are three active white devices in the top row and one obscured black unit (possibly a switch or power supply) at the bottom level where the cardboard box sits.
+- **Port Density:** The "PTP-RADIO BKP" device shows a dense array of ports (likely 24-port Ethernet), suggesting it acts as an aggregation point for access points or sensors.
+

@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021412.pdf ts=2026-03-14T23:54:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digitally formatted document, specifically an email correspondence that has been heavily redacted. The layout is vertical. At the very top, there are three standard email header fields: "From:", "To:", and "Cc:". To the right of each of these labels is a thick, solid black rectangle completely obscuring any identifying information such as names or email addresses. Below these fields, the "Subject:" line reads "Re: NY Mag piece". Directly underneath that, the "Date:" field shows a timestamp of "Wed, 17 Jul 2019 15:43:50 +0000".
+
+A horizontal black line separates the header section from the body of the email. The body text begins with the word "Thanks!" on its own line. Below that is the standard automated footer "Sent from my iPhone". Following this, the thread context is introduced: "On Jul 17, 2019, at 11:32 AM,". This is followed by a small black rectangle obscuring the sender's address, which concludes with a closing parenthesis and an opening angle bracket. Another smaller black rectangle obscures the domain name part of the email address, followed by the text ") < > wrote:".
+
+Occupying the lower two-thirds of the page is a massive, solid black rectangle that acts as a redaction block, covering all subsequent text in the email thread, likely the main body of the quoted message or the previous reply. At the very bottom right corner, outside the white space margin, is a alphanumeric code "EFTA00021412".
+
+## Visible Text (verbatim)
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: Re: NY Mag piece
+*   Date: Wed, 17 Jul 2019 15:43:50 +0000
+*   Thanks!
+*   Sent from my iPhone
+*   On Jul 17, 2019, at 11:32 AM, [Redacted] <[Redacted]> wrote:
+*   EFTA00021412
+
+## Notable Details / Clues
+*   **Partial Redactions:** While names and specific emails are blacked out, the text immediately surrounding them (parentheses and angle brackets) remains visible, indicating a standard email client format for displaying addresses.
+*   **Time Discrepancy:** The email was sent at 15:43 (3:43 PM), but it is replying to a message sent at 11:32 AM on the same day. This suggests a delay in reading or responding, spanning roughly 4 hours.
+*   **Geographic Location:** The "+0000" offset in the date field indicates the email was sent from Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT).
+*   **Document ID:** The code "EFTA00021412" in the corner suggests this document is part of a formal archive, likely a court filing or an official government record, given the specific alphanumeric formatting often used in legal transcripts.
+*   **Device Origin:** The phrase "Sent from my iPhone" confirms the sender utilized a mobile device email client (iOS Mail) to send this message rather than a desktop application.
+*   **Subject Context:** The subject line references an "NY Mag piece," indicating a response regarding an article or publication intended for New York Magazine.
+*   **Layout Standardization:** The document follows standard MAPI/Internet Message Format headers, typical of Outlook or Apple Mail interfaces.
+*   **Privacy Protection:** The black bars are likely added via redaction software or OCR processing to remove personally identifiable information (PII) while preserving the metadata and timestamps for evidentiary purposes.
+

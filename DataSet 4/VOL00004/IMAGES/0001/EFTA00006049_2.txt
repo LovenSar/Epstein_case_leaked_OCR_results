@@ -1,0 +1,142 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006049.pdf ts=2026-03-07T19:39:29 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+SCENE2GO
+Instructions for FARO SCENE Pointcloud Interactive
+
+You MUST retain the entire folder WebShare/SCENE2Go if transferred off on external harddrive, thumbdrive, or DVD/CD. This is a self-executable package so the entire contents of the folder need to stay together.
+• Locate and open the WebShare/SCENE2Go folder
+
+[Image of File Explorer window]
+Sidebar: Quick access > Desktop, Downloads, Documents, Pictures... > Scene2Go SPLASH Sample
+Main Window Header: Scene2Go SPLASH Sample
+Search Bar: Search Scene2Go...
+File List:
+- mac (Folder) - Date Modified: 9/23/2019 1:12 PM
+- manuals (Folder) - Date Modified: 9/27/2019 1:12 PM
+- scans (Folder) - Date Modified: 9/27/2019 1:12 PM
+- web (Folder) - Date Modified: 9/27/2019 1:12 PM
+- SCENE.2go (File) - Size: 2560 KB, Type: COMMAND File
+- Start SCENE 2go on Mac.command (File) - Size: 1 KB
+- Start SCENE 2go on Windows (File) - Size: 74 KB
+
+• If using a PC, double click on Start SCENE 2Go on Windows
+• If using a MAC, double click on Start SCENE 2Go on Mac.command
+• Once opened this is your Home page.
+• Click on the image to open the job. It may or may not populate with a map view shown on the right. The toggle on map click the globe icon in the upper right corner. Location will only be accurate if GPS coordinates were collected and retained in scan data.
+
+[Image of software interface showing a pointcloud thumbnail in the bottom left corner, circled in red]
+[Image of software interface showing a map view with location pin, circled in red around the thumbnail area]
+
+EFTA00006049
+
+## Structured Fields
+*   **Organization:** FARO
+*   **Software/Product Name:** SCENE2GO (SCENE Pointcloud Interactive)
+*   **Document ID:** EFTA00006049
+*   **Folder Path:** WebShare/SCENE2Go
+*   **Key Files Mentioned:** Start SCENE 2Go on Windows, Start SCENE 2Go on Mac.command
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+When the job is loaded, you will have a screen with a top down view of the scene. You can use your mouse scroll to zoom in or out.
+
+
+
+• BEFORE selecting a scan, set up your measuring and viewing preferences
+➤ Click once on Settings located on the right side navigation bar
+➤ Click once on General
+➤ Select the units you prefer (normally Imperial inches or ft, and ft2)
+➤ Click once on OK
+
+
+
+EFTA00006050
+
+## Structured Fields
+- **Doc ID:** EFTA00006050
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+• ALSO under Settings
+➤ Click once on Scan View
+➤ Under Visibility, Check Scan Position- Limit visibility to.
+This reduces the number of scan positions in your view (can clutter) to only the ones closest to you. You can navigate from one scan position to another by clicking on each of the visible scan position markers. You can always return to this setting to make adjustments.
+Good Starting Settings- Large Exterior Scene 100-150ft, Small Exterior or Structure Interiors 25-35ft, Vehicles 10-15ft.
+➤ Under Visibility you also have the option to control the viewing of scan names, annotations, and other detail items.
+➤ Under Panorama Image you have the option to Combine Color & Intensity.
+This makes your image views a hybrid of your color planar image and black/white scan point data.
+➤ Click OK to return to the loaded job
+
+[Image: Screenshot of software interface with a red circle around a settings menu on the left side, containing various toggle options. A black bar obscures part of the UI on the far left.]
+[Image: Screenshot of software interface with a red circle around a horizontal progress bar/slider area.]
+
+• Return to Overview Map using the right column to navigate. Click on the scan markers to choose scan viewing options. Panorama View (spherical photo), 3D View (pointcloud), Properties (data details)
+Once in a Panorama or 3D View you can "hop" between scan position, rotate and zoom using your mouse.
+
+[Image: Left side shows a top-down map view of a quadcopter/drone on the ground with UI panels on the right.]
+[Image: Right side shows a split screen view. A label points to the spherical image as "Panorama View". A label points to the point cloud data as "PointCloud". A label points to the UI sidebar as "Properties".]
+
+EFTA00006051
+## Structured Fields
+- **Document ID**: EFTA00006051
+- **Software Features Mentioned**: Scan View, Visibility, Panorama Image, Overview Map, Properties, 3D View, Scan Position.
+- **Recommended Settings**: Large Exterior Scene (100-150ft), Small Exterior or Structure Interiors (25-35ft), Vehicles (10-15ft).
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+To pull a measurement:
+*   After selecting a scan position marker select **Panorama** (photo)
+    *   Once inside the spherical image, click once on the **Measure Distance** located in the right side navigation bar
+*   Select a point to begin the measurement and a point to end the measurement
+*   Then click once on the **OK** button at the bottom right hand corner of your screen
+*   The distance should appear annotated on the measured line
+*   To clear, click once on **Cancel**
+*   This measurement will be stored in your **Project Content**
+
+The gear in the lower left corner has more in-depth tools. The color wheel tool allows you to shift between your color image and black/white scan data points.
+
+To navigate between scans:
+    *   When in a scan view you will see other scan locations within your visibility distance.
+
+[Image showing software interface with a red circle highlighting navigation markers]
+
+*   After selecting a scan position marker it becomes highlighted. You can select to view the **Panorama** (spherical photo), **3D** (Point Cloud), **Scan Properties** or **Overview Map**. Once in a view you can use the box in the upper right corner to **switch between 2D and 3D**.
+
+EFTA00006052
+## Structured Fields
+*   Doc ID: EFTA00006052
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+• ALSO under Project Content in the right navigation column you can view a list of all scans within the project and select viewing options from the drop down menu. This is a great tool if you are having difficulty finding a specific scan.
+
+> Click once on Scan Properties and you can view the planar image and additional recorded data from the raw scan. You are brought to this same screen if you select Scan Properties off a scan icon while in a view.
+
+EFTA00006053
+
+## Structured Fields
+- **Doc ID**: EFTA00006053
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Click once on Overview Map in the drop down and that scan position will be highlighted in the Overview Map.
+![Overview Map Screenshot](OverviewMap.png)
+Contact the FBI Laboratory / Operational Projects Unit at any time if you have additional questions.
+[REDACTED] TDDP supervisor
+[REDACTED] (office)
+[REDACTED] (cell)
+[REDACTED]
+[REDACTED] (office)
+[REDACTED] (cell)
+[REDACTED]
+[REDACTED] (office)
+[REDACTED] (cell)
+
+## Structured Fields
+
+*   **Organization:** FBI Laboratory / Operational Projects Unit
+*   **Unit/Department:** TDDP
+*   **Role:** Supervisor
+

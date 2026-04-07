@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015083.pdf ts=2026-03-12T12:50:07 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a formal legal and investigative document titled "Additional Inquiry Response," issued by an agency associated with the Federal Bureau of Investigation (FBI) and the New York State Division of Criminal Justice Services. The document is dated October 6, 2021. The header features official letterhead including an ORI code (NYFBINY00) indicating the New York FBI office, alongside the address for the Alfred E. Smith Building in Albany, NY. A prominent warning in magenta text regarding NCIC security restrictions is visible near the top.
+
+The central portion of the document contains a large, solid black redaction block that obscures the specific search criteria and personal details associated with the inquiry. Beneath this large redaction block, a series of standard Protection Order (PCO) codes are listed, detailing specific legal restrictions placed upon a subject. These include orders regarding proximity to residences (PCO/04), communication bans (PCO/05), firearm prohibitions (PCO/07), and child custody arrangements (PCO/09). Another smaller black bar redacts information at the very bottom of the text block. The footer indicates this is page 1 of 1.
+
+## Visible Text (verbatim)
+**Header:**
+10/6/21, 12:30 PM
+NCIC Delayed Response
+Additional Inquiry Response
+ORI: NYFBINY00
+Federal Bureau of Investigation - New York
+New York State Division of Criminal Justice Services
+Alfred E. Smith Building, 80 South Swan St.
+Albany, New York 12210. Tel:1-800-262-DCJS
+Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+
+**Body:**
+Federal NCIC
+WARNING: Release of any NCIC information to unauthorized individuals or agencies,including the subject of the data, is prohibited. Please refer to section 4.2 of the CJIS security policy and Title 28, Part 20 of the code of Federal Regulations for the proper access, use, and dissemination of the information contained in the NCIC restricted and non-restricted files.
+The following information is provided in response to your request for a search of the NCIC - Protection Order File based on:
+
+[Large Redacted Black Box]
+
+DNA/N
+ORI IS LOS ANGELES CO SO LOS ANGELES [Redacted Bar]
+PCO/04 - THE SUBJECT IS REQUIRED TO STAY AWAY FROM THE RESIDENCE, PROPERTY,
+PCO/SCHOOL, OR PLACE OF EMPLOYMENT OF THE PROTECTED PERSON OR OTHER FAMILY OR
+PCO/HOUSEHOLD MEMBER.
+PCO/05 - THE SUBJECT IS RESTRAINED FROM MAKING ANY COMMUNICATION WITH THE
+PCO/PROTECTED PERSON INCLUDING BUT NOT LIMITED TO, PERSONAL, WRITTEN, OR
+PCO/TELEPHONE CONTACT, OR THEIR EMPLOYERS, EMPLOYEES OR FELLOW WORKERS, OR
+PCO/OTHERS WITH WHOM THE COMMUNICATION WOULD BE LIKELY TO CAUSE ANNOYANCE OR
+PCO/ALARM THE VICTIM.
+PCO/07 - THE SUBJECT IS PROHIBITED FROM POSSESSING AND/OR PURCHASING A FIREARM
+PCO/OR OTHER WEAPONS AS IDENTIFIED IN THE MISCELLANEOUS FIELD.
+PCO/09 - THE PROTECTED PERSON IS AWARDED TEMPORARY EXCLUSIVE CUSTODY OF THE
+PCO/CHILD(REN) NAMED.
+[Small Redacted Bar]
+
+**Footer:**
+1/1
+EFTA00015083
+
+## Notable Details / Clues
+*   **Jurisdiction Mismatch:** Although the letterhead belongs to the New York FBI (Albany), the search origin ("ORI") is listed as "LOS ANGELES CO SO LOS ANGELES," indicating the record was likely pulled from a California case or jurisdiction.
+*   **Standardized CJIS Codes:** The text lists specific "Protection Order" (PCO) codes used by the Criminal Justice Information Services (CJIS).
+    *   **PCO/04:** Indicates a no-contact order regarding physical proximity to home/school/work.
+    *   **PCO/05:** Indicates a communication ban.
+    *   **PCO/07:** Indicates a "Firearm Restriction" or "Gun Ban."
+    *   **PCO/09:** Indicates the protected person gets temporary custody of children.
+*   **Redaction Pattern:** There are two distinct redactions. The first is a massive black box covering the primary search parameters (likely names, dates, and case numbers). The second is a smaller block at the bottom, likely obscuring the name of a child or the specific date of the order.
+*   **Security Warning:** The document explicitly cites Title 28 of the Code of Federal Regulations, highlighting the sensitive nature of the data (NCIC - National Crime Information Center).
+*   **Official Tone:** The document is dry and bureaucratic, using all-caps for legal restrictions to ensure emphasis.
+

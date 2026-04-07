@@ -1,0 +1,39 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008444.pdf ts=2026-03-09T06:59:31 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, overhead view of digital evidence packaging resting on a speckled, grey-and-brown laminate countertop. The central object is a clear, resealable plastic bag containing a black 2.5-inch internal hard drive. This bag rests inside an open, brown corrugated cardboard box, which has a top flap folded outward. Beneath the evidence bag, partially visible at the bottom left, is a white envelope or document. To the right of the box opening, a black cable (likely an SATA power or data connector) loops out from under the box flap. The plastic bag is secured with a red adhesive seal strip across the top. A bright yellow rectangular label is adhered to the front of the hard drive within the bag. The lighting reflects off the plastic surfaces, creating glare on the top left of the hard drive enclosure.
+
+## Visible Text (verbatim)
+**On the Yellow Label:**
+"90A-NY-3151227 Request ID 112048 1B24"
+"06/12/2019 NYC027703 PC Dervative Copy"
+"One (1) Seagate Barracuda 1000GB HDD,"
+"ST1000DM003, S/N Z1D3Z5S0. containing the"
+"Clone Copy of 183 hard drive (Seagate Barracuda"
+"500GB HDD, ST500DM002, S/N Z3T6CF5X),"
+"collected via Tableau TX-1 S/N 000ECC58017156"
+
+**On the Red Sealing Strip:**
+"EVIDENCE EVIDENCE EVIDENCE"
+Handwritten in black marker: "PC 8/16/19"
+
+**On the Cardboard Box (Top Flap, upside down):**
+"SMAD" (inside a rectangular logo)
+"Smead.com - Authorized by Smead"
+"UFC 71007"
+"NA 36541"
+
+**Watermark (Bottom Right Corner):**
+"EFTA00008444"
+
+## Notable Details / Clues
+- **Forensic Context:** The presence of "EVIDENCE" seals, yellow chain-of-custody labels, and specific request IDs indicates this is part of a digital forensics investigation or law enforcement seizure.
+- **Storage Media:** The hard drive inside is identified as a 1TB Seagate Barracuda (ST1000DM003), but the text notes it contains a "Clone Copy" of a different drive, a 500GB Seagate Barracuda (ST500DM002). This suggests data was imaged from the smaller drive to the larger one for storage.
+- **Date Discrepancy:** The yellow label lists the date as "06/12/2019" (June 12, 2019), while the handwritten note on the red seal reads "8/16/19" (August 16, 2019). This suggests the evidence bag was sealed later than the initial imaging date, possibly during a secondary processing or storage phase.
+- **Spelling Error:** The label contains a typo where "Derivative Copy" is spelled "Dervative Copy."
+- **Agency Location:** The code "NYC027703" and the "90A-NY" prefix suggest this evidence was collected in New York City, likely by an agency such as the NYPD or related to a federal task force.
+- **Tableau TX-1:** This is a specific model of forensic hardware (likely a Tableau Forensic ImageWriter), confirming the drive was imaged using specialized recovery equipment.
+- **Drive Serial Numbers:** The label provides specific serial numbers for both the source drive (Z3T6CF5X) and the storage drive (Z1D3Z5S0), crucial for forensic verification.
+

@@ -1,0 +1,101 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028292.pdf ts=2026-03-17T21:40:56 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is a screenshot of an email correspondence containing an embedded social media post. The document features standard email headers at the top, including fields for "From," "To," "Cc," "Subject," "Date," and "Importance." The sender and recipient information are redacted with thick black bars. The subject line references a news story about James Comey's daughter. Below the header is a short email body text discussing logistics regarding someone "with the body" and movement to a courthouse, ending with an indicator that it was sent from an iPhone. Further down, there is a reference to a previous communication dated July 7, 2019, involving "case agents" and "AUSAs" (Assistant United States Attorneys) accompanying individuals to/from court, with specific names redacted. A large, mostly black rectangular area dominates the middle of the document, obscuring what appears to be the top portion of an embedded image or interface element; a small icon resembling a broken image or file icon is visible in the top left corner of this block. Below this black box is the content of a Twitter post (now X) pasted into the email. The tweet header displays "URGENT UPDATE" in orange text, along with a timestamp and "REPORTER." The headline of the tweet is in bold black text. Below that is the body of the tweet, which also contains redacted text where a name has been blacked out, followed by a profile picture placeholder for the author, Shimon Prokupecz, and his handle. At the very bottom right corner of the page, there is a document identification number.
+
+## Visible Text (verbatim)
+**Header Section:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: Re: Daughter of former FBI director Comey revealed to be part of prosecution team in sex trafficking case against billionaire Jeffrey Epstein: Shimon Prokupecz, Reporter via Twitter.
+*   Date: Mon, 08 Jul 2019 00:17:15 +0000
+*   Importance: Normal
+
+**Email Body Section:**
+*   They may be with the body - do you have someone who could walk with them at least over to the courthouse?
+*   Sent from my iPhone
+*   On Jul 7, 2019, at 7:50 PM, [Redacted] wrote:
+*   FYI - can we please make sure the case agents accompany [Redacted] and other AUSAs to/from court.
+
+**Embedded Tweet Section:**
+*   URGENT UPDATE
+*   10:37pm July 06, 2019 EDT REPORTER
+*   Daughter of former FBI director Comey revealed to be part of prosecution team in sex trafficking case against billionaire Jeffrey Epstein: Shimon Prokupecz, Reporter via Twitter.
+*   ORIGINAL PUBLIC TWEET (10:37pm July 06, 2019 EDT)
+*   [Redacted] the daughter of former FBI director James Comey, is one of the prosecutors, according to a source with knowledge of the case.
+*   Shimon Prokupecz @ShimonPro
+*   ESTIMATED EVENT LOCATION:
+
+**Footer Section:**
+*   EFTA00028292
+
+## Notable Details / Clues
+*   **Date Discrepancy:** The email is dated July 8, 2019, while the embedded tweet references a specific moment at 10:37pm on July 06, 2019.
+*   **Redacted Entities:** Multiple names are obscured by black bars in both the main email body and the tweet body, suggesting these documents have been redacted for privacy or sensitive information before release.
+*   **"The Body":** The phrase "They may be with the body" implies a death has recently occurred (likely Jeffrey Epstein's) given the context of the subsequent text about moving to a courthouse.
+*   **Legal Context:** The text specifically mentions "AUSAs" (Assistant United States Attorneys), indicating this is an internal government communication or leak regarding federal prosecutors.
+*   **Reporter Credibility:** The tweet attributes the story to Shimon Prokupecz, identified as a reporter via Twitter, linking the news to social media reporting rather than traditional wire services.
+*   **Source Verification:** The tweet body includes a qualifier: "according to a source with knowledge of the case," which is typical for breaking news before official confirmation.
+*   **Document ID:** The string "EFTA00028292" in the bottom right corner suggests this document belongs to a specific archive or docket, possibly related to government records or investigative leaks.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+New York, NY, USA
+[Image Placeholder]
+ALERT VERIFICATION :
+REPORTER @SHIMONPRO
+Account Created: 08.13.2009
+Public Tweets 16,247 | Followers 80,826
+Journalist insta: @shimonpro
+Track Story Open in First Alert
+EVENT TIMELINE CAPTIONS
+* Billionaire Jeffrey Epstein expected to be charged in a sex trafficking scheme allegedly involving "dozens" of victims after being arrested in Teterboro, New Jersey: News Outlet via NBC News.
+* Billionaire Jeffrey Epstein arrested for allegedly sex trafficking dozens of minors and will appear in court in New York: News Outlet via The Daily Beast.
+EFTA00028293
+
+## Structured Fields
+- **Date:** 08.13.2009
+- **Location:** New York, NY, USA; Teterboro, New Jersey
+- **Names:** Jeffrey Epstein; @shimonpro (Journalist)
+- **Organizations:** NBC News; The Daily Beast
+- **Doc ID:** EFTA00028293
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EVENT TIMELINE DETAIL
+
+New York, NY, USA                                              10:27pm July 06, 2019 EDT
+
+Billionaire Jeffrey Epstein expected to be charged in a sex trafficking scheme allegedly involving "dozens" of victims after being arrested in Teterboro, New Jersey: News Outlet via NBC News.
+
+OPEN IN First Alert | VIEW POST VIA NBC NEWS
+
+New York, NY, USA                                              07:57pm July 06, 2019 EDT
+
+Billionaire Jeffrey Epstein arrested for allegedly sex trafficking dozens of minors and will appear in court in New York: News Outlet via The Daily Beast.
+
+OPEN IN First Alert | VIEW POST VIA THE DAILY BEAST
+
+Lists: NYC AOR
+Topics: Public Safety - Legal Action
+Adjust your settings by clicking here
+
+Copyright, 2019. All rights are reserved under U.S. Copyright Law. Any unauthorized use, including reproduction, modification, distribution or publication, without the prior written consent of Dataminr, is strictly prohibited.
+
+You agree to the following terms of use here.
+Powered By D
+
+EFTA00028294
+
+## Structured Fields
+- **Date:** July 06, 2019
+- **Time:** 10:27pm EDT, 07:57pm EDT
+- **Location:** New York, NY, USA; Teterboro, New Jersey
+- **Names:** Jeffrey Epstein
+- **Organizations/News Sources:** NBC News, The Daily Beast
+- **Topics:** Public Safety, Legal Action
+- **Doc ID:** EFTA00028294
+

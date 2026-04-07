@@ -35,14 +35,13 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 DEFAULT_OLLAMA_API_URL = "http://localhost:11434/api/generate"
 
-# Model name configuration (per user requirements)
+# 模型名称配置 (已更新为 qwen3.5:9b)
 DEFAULT_MODELS = {
-    "router": "qwen3-vl:8b-instruct-q8_0",
-    "ocr_glm": "qwen3-vl:8b-instruct-q8_0",
-    "ocr_qwen": "qwen3-vl:8b-instruct-q8_0",
-    "desc_qwen": "qwen3-vl:8b-instruct-q8_0",
-    "desc_gemma": "qwen3-vl:8b-instruct-q8_0",
-    "refiner": "qwen3-vl:8b-instruct-q8_0"
+    "router": "qwen3.5:9b",
+    "ocr_glm": "glm-ocr:latest",
+    "ocr_qwen": "qwen3.5:9b",
+    "desc_qwen": "qwen3.5:9b",
+    "refiner": "qwen3.5:9b"
 }
 
 OLLAMA_REQUEST_OPTIONS: dict[str, Any] | None = None
@@ -65,17 +64,17 @@ def _emit_event(event: str, **fields: Any) -> None:
         pass
 
 
-def _thinking_prefix() -> str:
+def _thinking_prefix_zh() -> str:
     return (
-        "You may think step by step internally, but do not output reasoning.\n"
-        "Output only the final answer and follow the required format strictly.\n"
+        "你可以在心里逐步思考，但不要输出推理过程。\n"
+        "只输出最终答案，保持格式与要求严格一致。\n"
     )
 
 
 def _apply_thinking(prompt: str, enable: bool) -> str:
     if not enable:
         return prompt
-    return _thinking_prefix() + prompt
+    return _thinking_prefix_zh() + prompt
 
 
 def _now_iso() -> str:
@@ -349,6 +348,10 @@ def _configure_disk_logging(args: argparse.Namespace) -> None:
         keep_alive=int(getattr(args, "keep_alive", 0) or 0),
         num_ctx=int(getattr(args, "num_ctx", 0) or 0),
         num_predict=int(getattr(args, "num_predict", 0) or 0),
+        temperature_refine=float(getattr(args, "temperature_refine", 0.2) or 0.2),
+        detail_multiplier=float(getattr(args, "detail_multiplier", 3.0) or 3.0),
+        clean_tag=str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2"),
+        enrich_from_output=bool(getattr(args, "enrich_from_output", True)),
         root=os.path.abspath(str(getattr(args, "root", os.getcwd()) or os.getcwd())),
         log_dir=log_dir,
         log_path=log_path,
@@ -368,6 +371,15 @@ def _configure_disk_logging(args: argparse.Namespace) -> None:
 
 def _norm_key(path: str) -> str:
     return os.path.normcase(os.path.abspath(path))
+
+
+def _resolve_output_path(src_path: str, output_suffix: str) -> str:
+    """Map source file path to output txt path using a configurable suffix."""
+    stem, _ = os.path.splitext(os.path.abspath(src_path))
+    suffix = str(output_suffix or ".txt").strip()
+    if not suffix:
+        suffix = ".txt"
+    return stem + suffix
 
 
 def _trace_for_file(file_path: str, *, kind: str, page_num: int | None = None, pages_total: int | None = None) -> str:
@@ -423,8 +435,153 @@ def _append_missing_anchors(raw: str, refined: str) -> str:
     return (refined.rstrip() + suffix)
 
 
+def _enforce_3x_detail(
+    args: argparse.Namespace,
+    source_text: str,
+    refined_text: str,
+    *,
+    trace: str | None = None,
+    step: tuple[int, int] | None = None,
+) -> str:
+    src_len = len(source_text or "")
+    if src_len == 0:
+        return refined_text
+    multiplier = float(getattr(args, "detail_multiplier", 3.0) or 3.0)
+    if multiplier < 1.2:
+        multiplier = 1.2
+    target_len = int(src_len * multiplier)
+
+    if len(refined_text or "") >= target_len:
+        return refined_text
+
+    expand_prompt = f"""
+你将扩写已有文本，目标是“信息量接近原始输入的 3 倍”。
+
+要求：
+1) 保留原文事实，不得杜撰；
+2) 逐段细化：时间、地点、人物、动作、证据、编号、上下文；
+3) 对可见文本做更完整转录（含编号、页眉页脚、签名线索）；
+4) 使用 Markdown 结构输出，层级清晰；
+5) 若信息缺失，用“未见明确证据”标注，不可脑补；
+6) 输出尽可能详细，至少接近目标长度。
+
+--- 原始输入 ---
+{source_text}
+
+--- 当前版本（需扩写）---
+{refined_text}
+"""
+    expanded = call_ollama(
+        args.ollama_url,
+        args.models["refiner"],
+        expand_prompt,
+        timeout_s=args.timeout,
+        retries=args.retries,
+        print_model_output=args.print_model_output,
+        keep_alive=args.keep_alive,
+        num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
+        num_predict=max(int(getattr(args, "num_predict_heavy", 4096) or 4096), 6144),
+        temperature=float(getattr(args, "temperature_refine", 0.2) or 0.2),
+        trace=f"{(trace or '').strip()} [refine_expand]".strip(),
+        step=step,
+    )
+    return expanded or refined_text
+
+
+def _read_text_file(path: str) -> str:
+    try:
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            return f.read()
+    except Exception:
+        return ""
+
+
+def _extract_numbered_sections(text: str, header_label: str) -> dict[int, str]:
+    sections: dict[int, str] = {}
+    if not text.strip():
+        return sections
+    pattern = re.compile(rf"^##\s+{re.escape(header_label)}\s+(\d+)\b[^\n]*$", re.MULTILINE)
+    matches = list(pattern.finditer(text))
+    for i, m in enumerate(matches):
+        try:
+            n = int(m.group(1))
+        except Exception:
+            continue
+        start = m.end()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        body = text[start:end].strip()
+        if body:
+            sections[n] = body
+    return sections
+
+
+def _extract_existing_page_context(output_path: str, page_num: int) -> str:
+    text = _read_text_file(output_path)
+    return _extract_numbered_sections(text, "Page").get(int(page_num), "")
+
+
+def _extract_existing_frame_context(output_path: str, frame_num: int) -> str:
+    text = _read_text_file(output_path)
+    return _extract_numbered_sections(text, "Frame").get(int(frame_num), "")
+
+
+def _file_meta_marker(args: argparse.Namespace, *, file_path: str, file_type: str) -> str:
+    tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+    mode = "enrich" if bool(getattr(args, "enrich_from_output", True)) else "normal"
+    run_id = str(getattr(args, "_run_id", "") or "").strip()
+    return (
+        "<!-- DOJ_FILE_META "
+        f"tag={tag} "
+        f"type={file_type} "
+        f"mode={mode} "
+        f"detail_multiplier={float(getattr(args, 'detail_multiplier', 3.0) or 3.0):.2f} "
+        f"run_id={run_id or 'na'} "
+        f"source={os.path.abspath(file_path)} "
+        f"ts={_now_iso()}"
+        " -->\n\n"
+    )
+
+
+def _output_has_clean_tag(output_path: str, clean_tag: str) -> bool:
+    if not output_path or not os.path.exists(output_path):
+        return False
+    try:
+        with open(output_path, "r", encoding="utf-8", errors="ignore") as f:
+            head = f.read(4096)
+    except Exception:
+        return False
+    if f"tag={clean_tag}" in head:
+        return True
+    if f"[TAG:{clean_tag}]" in head:
+        return True
+    return False
+
+
+def _output_is_truncated(output_path: str, file_type: str) -> bool:
+    """
+    Quick integrity check for resumed outputs.
+    Treat as truncated if file has <=1 line or missing expected section header.
+    """
+    if not output_path or not os.path.exists(output_path):
+        return True
+    expected_prefix = "## Frame " if file_type == "video" else "## Page "
+    line_count = 0
+    has_header = False
+    try:
+        with open(output_path, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                line_count += 1
+                if line.startswith(expected_prefix):
+                    has_header = True
+                if line_count > 1 and has_header:
+                    return False
+    except Exception:
+        return True
+    return True
+
+
 def _atomic_write_json(path: str, data: dict[str, Any]) -> None:
-    tmp = path + ".tmp"
+    tmp = f"{path}.{os.getpid()}.{uuid.uuid4().hex}.tmp"
     os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -482,7 +639,7 @@ def _load_scan_cache(cache_path: str) -> dict[str, Any] | None:
 def _save_scan_cache(cache_path: str, cache: dict[str, Any]) -> None:
     try:
         os.makedirs(os.path.dirname(os.path.abspath(cache_path)), exist_ok=True)
-        tmp = cache_path + ".tmp"
+        tmp = f"{cache_path}.{os.getpid()}.{uuid.uuid4().hex}.tmp"
         with gzip.open(tmp, "wt", encoding="utf-8") as f:
             json.dump(cache, f, ensure_ascii=False)
         os.replace(tmp, cache_path)
@@ -510,7 +667,7 @@ def tqdm_print(message: str) -> None:
         print(message)
 
 def encode_image_to_base64(image: Image.Image) -> str:
-    """Convert a PIL Image object to a Base64 string."""
+    """将 PIL Image 对象转换为 Base64 字符串"""
     buffered = io.BytesIO()
     image.save(buffered, format="PNG")
     return base64.b64encode(buffered.getvalue()).decode('utf-8')
@@ -534,7 +691,7 @@ def call_ollama(
     step: tuple[int, int] | None = None,
     stream: bool | None = None,
 ) -> str:
-    """Call the Ollama API (with timeout/retry/robust JSON parsing)."""
+    """调用 Ollama API（带超时/重试/健壮 JSON 解析）"""
     options: dict[str, Any] = dict(OLLAMA_REQUEST_OPTIONS or {})
     if num_ctx is not None:
         if int(num_ctx) > MAX_NUM_CTX:
@@ -759,7 +916,7 @@ def call_ollama(
                 else:
                     time.sleep(retry_backoff_s * (attempt + 1))
 
-    return f"[Error calling {model}] {last_error or ''}".strip()
+    raise RuntimeError(f"[Error calling {model}] {last_error or ''}".strip())
 
 
 def unload_model(api_url: str, model: str) -> None:
@@ -813,12 +970,12 @@ def _maybe_unload_after_stage(
         if m not in future_models:
             unload_model(args.ollama_url, m)
 
-# --- Node implementations ---
+# --- 节点实现 ---
 
 def router_node(args: argparse.Namespace, image: Image.Image) -> str:
     """
-    Router: image attribute classification.
-    Classify: text-only (pure document) vs includes photos/illustrations.
+    Router: 图像属性判断
+    判别：仅含文字 (纯文档) vs 包含图片/插图
     """
     prompt = (
         "Analyze this image. Does it consist primarily of text (like a document page) "
@@ -870,7 +1027,8 @@ def _program_route_image(image: Image.Image) -> str:
         import numpy as np  # type: ignore
 
         rgb = image.convert("RGB")
-        arr = np.array(rgb)
+        # NumPy 2.x compatibility: avoid passing copy=... through np.array(PIL.Image).
+        arr = np.asarray(rgb, dtype=np.uint8)
         h, w = arr.shape[:2]
         max_dim = max(h, w)
         if max_dim > 320:
@@ -958,20 +1116,40 @@ def process_single_image_fast(args: argparse.Namespace, image: Image.Image, page
     )
 
     out_route = route if route in ("DOC", "VISION") else "FAST"
-    return f"## Page {page_num} ({out_route})\n\n{result.strip()}\n\n"
+    tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+    return f"## Page {page_num} ({out_route}) [TAG:{tag}]\n\n{result.strip()}\n\n"
 
 def doc_path_process(args: argparse.Namespace, image: Image.Image) -> str:
     """
-    Document processing path (cross-validation).
+    文档处理轨 (交叉验证)
     GLM_OCR_Doc + Qwen_VL_Doc -> Merge
     """
     logging.info("Entering Document Path...")
     
-    # Run serially to avoid VRAM contention and keep logs easy to locate by file/step.
+    qwen_prompt = (
+        "你是专业文档转录专家。请极其详细地逐行逐字提取图中文字。\n"
+        "规则：\n"
+        "- 不遗漏任何内容：数字、编号、日期、签名、页眉页脚、批注、印章。\n"
+        "- 保留换行与块结构。\n"
+        "- 涂黑/遮挡写 [REDACTED]；不可辨认写 [ILLEGIBLE]。\n"
+        "- 不要总结，不要改写，只做忠实转录。\n"
+        "- 转录后增加“## 结构化字段”小节，列出可见日期/ID/人名/组织/地点。\n"
+        "- 输出信息尽可能详尽。\n"
+    )
+    glm_prompt = (
+        "Extract ALL text from this image with maximum fidelity.\n"
+        "Rules:\n"
+        "- Character-accurate transcription; keep punctuation and line breaks.\n"
+        "- Include headers/footers, IDs, signatures, notes, table text.\n"
+        "- Redacted => [REDACTED], unreadable => [ILLEGIBLE], do not guess.\n"
+        "- No summarization.\n"
+    )
+
+    # 串行调用（避免显存争抢；并且便于日志按文件/步骤定位）
     res_glm = call_ollama(
         args.ollama_url,
         args.models["ocr_glm"],
-        "Extract all text from this image exactly as it appears.",
+        glm_prompt,
         image=image,
         images=None,
         timeout_s=args.timeout,
@@ -979,15 +1157,15 @@ def doc_path_process(args: argparse.Namespace, image: Image.Image) -> str:
         print_model_output=args.print_model_output,
         keep_alive=args.keep_alive,
         num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
-        num_predict=int(getattr(args, "num_predict_heavy", 2048) or 2048),
-        temperature=float(getattr(args, "temperature_ocr", 0.1) or 0.1),
+        num_predict=max(int(getattr(args, "num_predict_heavy", 2048) or 2048), 4096),
+        temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
         trace=f"{str(getattr(args, '_trace', '') or '')} [doc ocr_glm]".strip(),
         step=(2, 3),
     )
     res_qwen = call_ollama(
         args.ollama_url,
         args.models["ocr_qwen"],
-        "Read and output the text in this image.",
+        qwen_prompt,
         image=image,
         images=None,
         timeout_s=args.timeout,
@@ -995,8 +1173,8 @@ def doc_path_process(args: argparse.Namespace, image: Image.Image) -> str:
         print_model_output=args.print_model_output,
         keep_alive=args.keep_alive,
         num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
-        num_predict=int(getattr(args, "num_predict_heavy", 2048) or 2048),
-        temperature=float(getattr(args, "temperature_ocr", 0.1) or 0.1),
+        num_predict=max(int(getattr(args, "num_predict_heavy", 2048) or 2048), 4096),
+        temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
         trace=f"{str(getattr(args, '_trace', '') or '')} [doc ocr_qwen]".strip(),
         step=(2, 3),
     )
@@ -1006,42 +1184,53 @@ def doc_path_process(args: argparse.Namespace, image: Image.Image) -> str:
 
 def vision_path_process(args: argparse.Namespace, image: Image.Image) -> str:
     """
-    Vision processing path (mixed visual and text handling).
-    (Qwen_VL_Vis + Gemma_Vis) + (TextCheck -> [GLM_OCR_Tail]) -> Merge
+    视觉处理轨 (视觉与文字混合处理)
+    
+    已移除 gemma，只使用 qwen3.5:9b 进行描述和交叉验证。
     """
     logging.info("Entering Vision Path...")
     
-    # Run serially to avoid VRAM contention and keep logs easy to locate by file/step.
+    # Qwen3.5:9b - 详细描述（主描述）
+    desc_qwen_prompt = """
+    你是一位专业的视觉分析专家。请对以下图片进行极其详细的、信息密集的描述。
+    
+    描述规则：
+    1. 尽可能详细地描述所有可见元素：人物、物体、动作、场景背景
+    2. 描述每个元素的相对位置、大小、颜色、形状等细节
+    3. 如果存在文字，必须逐字转录到独立的"## 可见文字（原文）"部分
+    4. 不要编造任何图片中看不到的事实
+    5. 输出格式（Markdown）：
+       - ## 详细描述
+         在此部分提供详细描述，每个要点单独成行使用项目符号
+       - ## 可见文字（原文）
+         在此部分提供逐字转录的文字内容
+       - ## 值得注意的细节/线索
+    6. 目标：尽可能输出超过 12 个项目点
+   
+    请开始描述：
+    """
     desc_qwen = call_ollama(
         args.ollama_url,
         args.models["desc_qwen"],
-        "Describe this image in extreme detail.",
+        desc_qwen_prompt,
         image=image,
         images=None,
         timeout_s=args.timeout,
         retries=args.retries,
         print_model_output=args.print_model_output,
         keep_alive=args.keep_alive,
+        num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
+        num_predict=int(getattr(args, "num_predict_heavy", 4096) or 4096),
+        temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
         trace=f"{str(getattr(args, '_trace', '') or '')} [vision desc_qwen]".strip(),
         step=(2, 3),
     )
-    desc_gemma = call_ollama(
-        args.ollama_url,
-        args.models["desc_gemma"],
-        "Provide a detailed visual description of this image.",
-        image=image,
-        images=None,
-        timeout_s=args.timeout,
-        retries=args.retries,
-        print_model_output=args.print_model_output,
-        keep_alive=args.keep_alive,
-        trace=f"{str(getattr(args, '_trace', '') or '')} [vision desc_gemma]".strip(),
-        step=(2, 3),
-    )
+    
+    # Qwen3.5:9b - 文字检测检查
     has_text_resp = call_ollama(
         args.ollama_url,
         args.models["router"],
-        "Is there any visible text in this image? Respond with YES or NO.",
+        "Is there any visible text in this image? Respond with exactly YES or NO.",
         image=image,
         images=None,
         timeout_s=args.timeout,
@@ -1054,11 +1243,22 @@ def vision_path_process(args: argparse.Namespace, image: Image.Image) -> str:
     
     ocr_tail = ""
     if "YES" in has_text_resp:
-        logging.info("Text detected in vision path, running supplementary OCR...")
+        logging.info("Text detected in vision path, running supplementary OCR with glm-ocr...")
+        # GLM-OCR - 文字补充提取
         ocr_tail = call_ollama(
             args.ollama_url,
             args.models["ocr_glm"],
-            "Extract all text found in this image.",
+            """
+            你是一个专业的 OCR 助手。请仔细检查图片中的所有文字，并使用以下规则进行提取：
+            
+            1. 精确转录所有可见文字
+            2. 包括所有数字、ID（如 EFTAxxxxxx）、日期等
+            3. 如果某些文字被涂黑/红 action，写入 [REDACTED]
+            4. 如果某个区域无法辨认，写入 [ILLEGIBLE]，不要猜测
+            5. 注意表格、页眉页脚、小字批注等内容
+            
+            Begin extraction:
+            """,
             image=image,
             images=None,
             timeout_s=args.timeout,
@@ -1066,15 +1266,43 @@ def vision_path_process(args: argparse.Namespace, image: Image.Image) -> str:
             print_model_output=args.print_model_output,
             keep_alive=args.keep_alive,
             num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
-            num_predict=int(getattr(args, "num_predict_heavy", 2048) or 2048),
-            temperature=float(getattr(args, "temperature_ocr", 0.1) or 0.1),
+            num_predict=int(getattr(args, "num_predict_heavy", 4096) or 4096),
+            temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
             trace=f"{str(getattr(args, '_trace', '') or '')} [vision ocr_tail]".strip(),
             step=(2, 3),
         )
     
-    merged_content = f"--- Visual Description (Qwen) ---\n{desc_qwen}\n\n--- Visual Description (Gemma) ---\n{desc_gemma}"
+    # 使用 qwen3.5:9b 进行二次交叉验证（重新描述以确保一致性）
+    desc_qwen_verify = call_ollama(
+        args.ollama_url,
+        args.models["desc_qwen"],
+        f"""
+        请根据以下信息，提供一个更全面的视觉描述：
+        
+        --- 原始描述 ---
+        {desc_qwen}
+        
+        --- 可见文字（OCR）---
+        {ocr_tail if ocr_tail else "无 OCR 提取结果"}
+        
+        请将以上信息合并为一个完整、详细的 Markdown 格式描述。确保不会遗漏任何细节，文本内容要尽可能详细。
+        """,
+        image=image,
+        images=None,
+        timeout_s=args.timeout,
+        retries=args.retries,
+        print_model_output=args.print_model_output,
+        keep_alive=args.keep_alive,
+        num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
+        num_predict=int(getattr(args, "num_predict_heavy", 4096) or 4096),
+        temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
+        trace=f"{str(getattr(args, '_trace', '') or '')} [vision desc_qwen_verify]".strip(),
+        step=(2, 3),
+    )
+    
+    merged_content = f"--- Visual Description (Qwen) ---\n{desc_qwen_verify}\n\n"
     if ocr_tail:
-        merged_content += f"\n\n--- Supplementary Text ---\n{ocr_tail}"
+        merged_content += f"--- Supplementary Text (OCR from GLM-OCR) ---\n{ocr_tail}"
         
     return merged_content
 
@@ -1088,17 +1316,19 @@ def refiner_node(
     step: tuple[int, int] | None = None,
 ) -> str:
     """
-    Refiner: intelligent polishing and formatting.
+    Refiner: 智能润色与排版
     """
     logging.info("Refining content...")
     prompt = (
-        "You are an expert editor.\n"
-        "Refine the following text (OCR + descriptions) into clean Markdown.\n"
+        "You are an expert forensic editor.\n"
+        "Refine and EXPAND the following text into detailed Markdown.\n"
         "Hard rules:\n"
-        "- Do NOT omit any information.\n"
-        "- Do NOT drop names, email addresses, dates, IDs, or signature blocks (e.g. lines like 'Signed:' and the signer names).\n"
-        "- Keep the full content; only fix obvious OCR errors and improve formatting.\n"
-        "Output only the refined content.\n"
+        "- Do NOT omit any information from the source.\n"
+        "- Do NOT drop names, email addresses, dates, IDs, or signature blocks.\n"
+        "- Preserve verbatim evidence-like content; only fix obvious OCR mistakes.\n"
+        "- Add detailed structure and context labels so final output is substantially fuller (target around 3x detail density).\n"
+        "- Never fabricate facts; when uncertain, say '未见明确证据'.\n"
+        "Output only Markdown content.\n"
     )
     prompt = _apply_thinking(prompt, args.think_qwen3)
     refine_ctx = int(getattr(args, "num_ctx_refine", 4096) or 4096)
@@ -1122,14 +1352,21 @@ def refiner_node(
         logging.warning("Refiner returned empty output, falling back to unrefined content. trace=%s", trace or str(getattr(args, "_trace", "") or ""))
         return content
     try:
+        refined = _enforce_3x_detail(args, content, refined, trace=trace, step=step)
         return _append_missing_anchors(content, refined)
     except Exception as e:
         logging.warning("Anchor-preserve failed; returning refined as-is. err=%s trace=%s", str(e), trace or str(getattr(args, "_trace", "") or ""))
         return refined
 
-def process_single_image(args: argparse.Namespace, image: Image.Image, page_num: int = 1) -> str:
+def process_single_image(
+    args: argparse.Namespace,
+    image: Image.Image,
+    page_num: int = 1,
+    *,
+    existing_context: str = "",
+) -> str:
     """
-    Process a single image (pipeline orchestration).
+    处理单张图片 (流程总控)
     """
     if bool(getattr(args, "fast_scan", False)):
         return process_single_image_fast(args, image, page_num)
@@ -1146,15 +1383,23 @@ def process_single_image(args: argparse.Namespace, image: Image.Image, page_num:
         raw_result = doc_path_process(args, image)
         
     # 3. Refiner
+    if existing_context.strip() and bool(getattr(args, "enrich_from_output", True)):
+        raw_result = (
+            raw_result
+            + "\n\n--- Existing Output (Historical, same page) ---\n"
+            + existing_context.strip()
+        )
+
     final_result = refiner_node(args, raw_result)
     
     tqdm_print("\n##################################################")
     tqdm_print(f"### FINISHED Page {page_num} ({route})")
     tqdm_print(f"##################################################\n{final_result}\n")
 
-    return f"## Page {page_num} ({route})\n\n{final_result}\n\n"
+    tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+    return f"## Page {page_num} ({route}) [TAG:{tag}]\n\n{final_result}\n\n"
 
-# --- File processing ---
+# --- 文件处理 ---
 
 def infer_pages_done_from_output(output_path: str) -> int:
     if not os.path.exists(output_path):
@@ -1242,10 +1487,16 @@ def infer_contiguous_video_frames_done(output_path: str) -> tuple[int, int]:
 
 
 def process_png_file(args: argparse.Namespace, file_path: str, output_path: str) -> int:
-    image = Image.open(file_path)
-    args._trace = _trace_for_file(file_path, kind="png", page_num=1, pages_total=1)  # type: ignore[attr-defined]
-    page_result = process_single_image(args, image, 1)
+    with Image.open(file_path) as image:
+        args._trace = _trace_for_file(file_path, kind="png", page_num=1, pages_total=1)  # type: ignore[attr-defined]
+        existing_context = ""
+        if bool(getattr(args, "enrich_from_output", True)) and os.path.exists(output_path) and not args.overwrite:
+            existing_context = _extract_existing_page_context(output_path, 1)
+            if not existing_context.strip():
+                existing_context = _read_text_file(output_path)
+        page_result = process_single_image(args, image, 1, existing_context=existing_context)
     with open(output_path, "w", encoding="utf-8") as f:
+        f.write(_file_meta_marker(args, file_path=file_path, file_type="png"))
         f.write(page_result)
         f.flush()
         os.fsync(f.fileno())
@@ -1262,11 +1513,11 @@ def extract_video_keyframes(
     interval_sec: float,
     max_frames: int = 0,
 ) -> list[tuple[float, Image.Image]]:
-    """Extract keyframes at a fixed time interval. Returns [(timestamp_sec, PIL.Image), ...]."""
+    """抽取关键帧（按固定时间间隔）。返回 [(timestamp_sec, PIL.Image), ...]"""
     _require_cv2()
     assert cv2 is not None
 
-    # Validate that the file exists and is readable.
+    # 检查文件是否存在且可读
     if not os.path.exists(video_path):
         raise RuntimeError(f"Video file not found: {video_path}")
     if os.path.getsize(video_path) == 0:
@@ -1330,7 +1581,7 @@ def _has_text_in_frame(args: argparse.Namespace, image: Image.Image) -> bool:
 
 
 def _qwen_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]]) -> None:
-    """qwen3-vl stage for PNG/PDF items: route + qwen outputs for each item."""
+    """qwen stage for PNG/PDF items: route + qwen outputs for each item."""
     for it in items:
         img: Image.Image = it["image"]
         src_path = str(it.get("src_path") or "")
@@ -1365,14 +1616,21 @@ def _qwen_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]]
             qwen_ocr = call_ollama(
                 args.ollama_url,
                 args.models["ocr_qwen"],
-                _apply_thinking("Read and output the text in this image.", args.think_qwen_vl),
+                _apply_thinking(
+                    "Transcribe this document image in very high detail. Keep all lines, IDs, dates, names, signatures, headers/footers, and notes. "
+                    "Use [REDACTED] for redacted text and [ILLEGIBLE] for unreadable text. No summarization.",
+                    args.think_qwen_vl,
+                ),
                 image=img,
                 timeout_s=args.timeout,
                 retries=args.retries,
                 print_model_output=args.print_model_output,
                 keep_alive=args.keep_alive,
+                num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
+                num_predict=max(int(getattr(args, "num_predict_heavy", 2048) or 2048), 4096),
+                temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
                 trace=trace,
-                step=(1, 4),
+                step=(1, 3),
             )
             it["qwen_ocr"] = qwen_ocr
         else:
@@ -1380,14 +1638,21 @@ def _qwen_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]]
             qwen_desc = call_ollama(
                 args.ollama_url,
                 args.models["desc_qwen"],
-                _apply_thinking("Describe this image in extreme detail.", args.think_qwen_vl),
+                _apply_thinking(
+                    "Describe this image in extreme detail with structured Markdown. Include object relations, scene layout, actions, and clues. "
+                    "If visible text exists, transcribe it verbatim in a dedicated section.",
+                    args.think_qwen_vl,
+                ),
                 image=img,
                 timeout_s=args.timeout,
                 retries=args.retries,
                 print_model_output=args.print_model_output,
                 keep_alive=args.keep_alive,
+                num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
+                num_predict=max(int(getattr(args, "num_predict_heavy", 2048) or 2048), 4096),
+                temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
                 trace=trace,
-                step=(1, 4),
+                step=(1, 3),
             )
             it["qwen_desc"] = qwen_desc
 
@@ -1401,7 +1666,7 @@ def _qwen_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]]
                 print_model_output=args.print_model_output,
                 keep_alive=args.keep_alive,
                 trace=trace,
-                step=(1, 4),
+                step=(1, 3),
             ).strip().upper()
             it["has_text"] = "YES" in has_text
 
@@ -1426,10 +1691,10 @@ def _glm_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]])
                 print_model_output=args.print_model_output,
                 keep_alive=args.keep_alive,
                 num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
-                num_predict=int(getattr(args, "num_predict_heavy", 2048) or 2048),
-                temperature=float(getattr(args, "temperature_ocr", 0.1) or 0.1),
+                num_predict=max(int(getattr(args, "num_predict_heavy", 2048) or 2048), 4096),
+                temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
                 trace=trace,
-                step=(2, 4),
+                step=(2, 3),
             )
         elif route == "VISION" and it.get("has_text"):
             it["glm_ocr_tail"] = call_ollama(
@@ -1442,35 +1707,11 @@ def _glm_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]])
                 print_model_output=args.print_model_output,
                 keep_alive=args.keep_alive,
                 num_ctx=int(getattr(args, "num_ctx_heavy", 8192) or 8192),
-                num_predict=int(getattr(args, "num_predict_heavy", 2048) or 2048),
-                temperature=float(getattr(args, "temperature_ocr", 0.1) or 0.1),
+                num_predict=max(int(getattr(args, "num_predict_heavy", 2048) or 2048), 4096),
+                temperature=float(getattr(args, "temperature_ocr", 0.05) or 0.05),
                 trace=trace,
-                step=(2, 4),
+                step=(2, 3),
             )
-
-
-def _gemma_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]]) -> None:
-    for it in items:
-        if it.get("route") != "VISION":
-            continue
-        img: Image.Image = it["image"]
-        src_path = str(it.get("src_path") or "")
-        page_num = int(it.get("page_num") or 1)
-        pages_total = int(it.get("pages_total") or 0)
-        kind = str(it.get("type") or "")
-        trace = _trace_for_file(src_path, kind=kind, page_num=page_num, pages_total=(pages_total if pages_total > 0 else None))
-        it["gemma_desc"] = call_ollama(
-            args.ollama_url,
-            args.models["desc_gemma"],
-            "Provide a detailed visual description of this image.",
-            image=img,
-            timeout_s=args.timeout,
-            retries=args.retries,
-            print_model_output=args.print_model_output,
-            keep_alive=args.keep_alive,
-            trace=trace,
-            step=(3, 4),
-        )
 
 
 def _qwen3_refine_file_batch_stage(args: argparse.Namespace, items: list[dict[str, Any]]) -> None:
@@ -1479,22 +1720,28 @@ def _qwen3_refine_file_batch_stage(args: argparse.Namespace, items: list[dict[st
         page_num = int(it.get("page_num") or 1)
         pages_total = int(it.get("pages_total") or 0)
         kind = str(it.get("type") or "")
-        trace = _trace_for_file(src_path, kind=kind, page_num=page_num, pages_total=(pages_total if pages_total > 0 else None))
+        trace = _trace_for_file(
+            src_path,
+            kind=kind,
+            page_num=page_num,
+            pages_total=(pages_total if pages_total > 0 else None),
+        )
+
         route = it.get("route")
         if route == "DOC":
             merged = (
-                f"--- Source: GLM-OCR ---\n{it.get('glm_ocr','')}\n\n"
-                f"--- Source: Qwen-VL ---\n{it.get('qwen_ocr','')}"
+                f"--- Source: Qwen3.5 OCR ---\n{it.get('qwen_ocr','')}\n\n"
+                f"--- Source: GLM OCR (Cross-check) ---\n{it.get('glm_ocr','')}"
             )
         else:
-            merged = (
-                f"--- Visual Description (Qwen) ---\n{it.get('qwen_desc','')}\n\n"
-                f"--- Visual Description (Gemma) ---\n{it.get('gemma_desc','')}"
-            )
+            merged = f"--- Visual Description (Qwen3.5) ---\n{it.get('qwen_desc','')}"
             if it.get("glm_ocr_tail"):
-                merged += f"\n\n--- Supplementary Text ---\n{it.get('glm_ocr_tail','')}"
+                merged += f"\n\n--- Supplementary Text (GLM OCR) ---\n{it.get('glm_ocr_tail','')}"
+        existing_context = str(it.get("existing_context") or "").strip()
+        if existing_context and bool(getattr(args, "enrich_from_output", True)):
+            merged += "\n\n--- Existing Output (Historical, same page) ---\n" + existing_context
 
-        refined = refiner_node(args, merged, trace=trace, step=(4, 4))
+        refined = refiner_node(args, merged, trace=trace, step=(3, 3))
         it["refined"] = refined
 
 
@@ -1509,10 +1756,12 @@ def _write_item_output_and_update_state(
     file_key = _norm_key(src_path)
     entry: dict[str, Any] = state["files"].setdefault(file_key, {})
     output_path = it["output_path"]
+    tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
 
     if it["type"] == "png":
-        content = f"## Page 1 ({it.get('route','DOC')})\n\n{it.get('refined','')}\n\n"
+        content = f"## Page 1 ({it.get('route','DOC')}) [TAG:{tag}]\n\n{it.get('refined','')}\n\n"
         with open(output_path, "w", encoding="utf-8") as f:
+            f.write(_file_meta_marker(args, file_path=src_path, file_type="png"))
             f.write(content)
             f.flush()
             os.fsync(f.fileno())
@@ -1525,7 +1774,7 @@ def _write_item_output_and_update_state(
 
     # PDF page
     page_num = int(it["page_num"])
-    content = f"## Page {page_num} ({it.get('route','DOC')})\n\n{it.get('refined','')}\n\n"
+    content = f"## Page {page_num} ({it.get('route','DOC')}) [TAG:{tag}]\n\n{it.get('refined','')}\n\n"
     mode = "a" if (args.resume and page_num > 1 and os.path.exists(output_path) and not args.overwrite) else "w"
     if args.overwrite and page_num == 1 and os.path.exists(output_path):
         try:
@@ -1533,6 +1782,8 @@ def _write_item_output_and_update_state(
         except Exception:
             pass
     with open(output_path, mode, encoding="utf-8") as f:
+        if mode == "w":
+            f.write(_file_meta_marker(args, file_path=src_path, file_type="pdf"))
         f.write(content)
         f.flush()
 
@@ -1570,16 +1821,35 @@ def process_pdf_png_batched(
             lower = fp.lower()
             key = _norm_key(fp)
             entry: dict[str, Any] = state["files"].setdefault(key, {})
-            output_path = entry.get("output") or (os.path.splitext(fp)[0] + ".txt")
+            output_path = _resolve_output_path(fp, args.output_suffix)
             entry.setdefault("path", fp)
             entry["output"] = output_path
             entry["type"] = "pdf" if lower.endswith(".pdf") else "png"
 
-            if entry.get("status") == "done" and os.path.exists(output_path) and not args.overwrite:
+            clean_tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+            already_tagged = _output_has_clean_tag(str(output_path), clean_tag)
+            truncated = _output_is_truncated(str(output_path), entry.get("type", "pdf"))
+            if args.resume and truncated and os.path.exists(output_path):
+                logging.warning("Detected truncated output in batch mode, rebuilding: %s", output_path)
+                try:
+                    os.remove(output_path)
+                except Exception:
+                    pass
+                if lower.endswith(".png"):
+                    entry["pages_done"] = 0
+                else:
+                    entry["pages_done"] = 0
+                entry["status"] = "in_progress"
+            if entry.get("status") == "done" and os.path.exists(output_path) and not args.overwrite and already_tagged and not truncated:
                 continue
 
             if lower.endswith(".png"):
                 # single image
+                existing_context = ""
+                if bool(getattr(args, "enrich_from_output", True)) and os.path.exists(output_path) and not args.overwrite:
+                    existing_context = _extract_existing_page_context(output_path, 1)
+                    if not existing_context.strip():
+                        existing_context = _read_text_file(output_path)
                 return {
                     "type": "png",
                     "src_path": fp,
@@ -1587,6 +1857,7 @@ def process_pdf_png_batched(
                     "page_num": 1,
                     "pages_total": 1,
                     "image": Image.open(fp),
+                    "existing_context": existing_context,
                 }
 
             # pdf: next page
@@ -1649,6 +1920,11 @@ def process_pdf_png_batched(
                     "page_num": next_page,
                     "pages_total": total_pages,
                     "image": images[0],
+                    "existing_context": (
+                        _extract_existing_page_context(output_path, next_page)
+                        if bool(getattr(args, "enrich_from_output", True)) and os.path.exists(output_path) and not args.overwrite
+                        else ""
+                    ),
                 }
             except Exception as e:
                 entry["status"] = "failed"
@@ -1674,12 +1950,11 @@ def process_pdf_png_batched(
         stages = [
             [args.models["router"], args.models["ocr_qwen"], args.models["desc_qwen"]],
             [args.models["ocr_glm"]],
-            [args.models["desc_gemma"]],
             [args.models["refiner"]],
         ]
 
         # Stage 1: Qwen3-VL for the whole batch
-        tqdm_print(f"\n[Batch] qwen3-vl stage for {len(batch)} items")
+        tqdm_print(f"\n[Batch] qwen stage for {len(batch)} items")
         _qwen_file_batch_stage(args, batch)
         _maybe_unload_after_stage(args, stages=stages, stage_index=0)
 
@@ -1688,15 +1963,10 @@ def process_pdf_png_batched(
         _glm_file_batch_stage(args, batch)
         _maybe_unload_after_stage(args, stages=stages, stage_index=1)
 
-        # Stage 3: Gemma
-        tqdm_print(f"[Batch] gemma stage")
-        _gemma_file_batch_stage(args, batch)
-        _maybe_unload_after_stage(args, stages=stages, stage_index=2)
-
-        # Stage 4: Qwen3 refine
+        # Stage 3: Qwen3 refine
         tqdm_print(f"[Batch] qwen3 refine stage")
         _qwen3_refine_file_batch_stage(args, batch)
-        _maybe_unload_after_stage(args, stages=stages, stage_index=3)
+        _maybe_unload_after_stage(args, stages=stages, stage_index=2)
 
         # Write outputs + update state + progress
         for it in batch:
@@ -1743,7 +2013,7 @@ def process_video_file(
     state_path: str,
     state: dict[str, Any],
 ) -> int:
-    """Video: frame-by-frame processing (no multi-frame batching) with resumable checkpoints. Returns frames processed in this run."""
+    """视频：逐帧处理（不做多帧 batch），支持断点续跑。返回本次处理的帧数。"""
 
     if bool(getattr(args, "fast_scan", False)):
         return _process_video_file_fast(args, file_path, output_path, state_entry, state_path, state)
@@ -1770,6 +2040,14 @@ def process_video_file(
 
     frames_done = int(state_entry.get("frames_done", 0) or 0)
     if args.resume and os.path.exists(output_path) and not args.overwrite:
+        if _output_is_truncated(output_path, "video"):
+            logging.warning("Video output looks truncated; restarting output: %s", output_path)
+            try:
+                os.remove(output_path)
+            except Exception:
+                pass
+            frames_done = 0
+            state_entry["frames_done"] = 0
         contiguous_done, found = infer_contiguous_video_frames_done(output_path)
         if found and contiguous_done == 0:
             logging.warning("Video output has frame headers but missing Frame 1; restarting video output: %s", output_path)
@@ -1788,12 +2066,25 @@ def process_video_file(
         state_entry["frames_done"] = 0
 
     if frames_done >= len(frames) and len(frames) > 0 and not args.overwrite:
-        state_entry["status"] = "done"
-        save_state(state_path, state)
-        return 0
+        if os.path.exists(output_path):
+            state_entry["status"] = "done"
+            save_state(state_path, state)
+            return 0
+        # State says done but output is missing; rebuild output from scratch.
+        frames_done = 0
+        state_entry["frames_done"] = 0
 
     mode = "a" if (args.resume and frames_done > 0 and os.path.exists(output_path) and not args.overwrite) else "w"
     processed = 0
+    existing_frame_sections: dict[int, str] = {}
+    existing_final_report = ""
+    if bool(getattr(args, "enrich_from_output", True)) and os.path.exists(output_path) and not args.overwrite:
+        existing_text = _read_text_file(output_path)
+        existing_frame_sections = _extract_numbered_sections(existing_text, "Frame")
+        m_final = re.search(r"(?ms)^#\s*Final Report\s*\n+(.*)$", existing_text)
+        if m_final:
+            existing_final_report = str(m_final.group(1) or "").strip()
+    tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
 
     remaining = frames[frames_done:]
     video_pbar = None
@@ -1802,11 +2093,23 @@ def process_video_file(
 
     frame_notes: list[str] = []
     with open(output_path, mode, encoding="utf-8") as f:
+        if mode == "w":
+            f.write(_file_meta_marker(args, file_path=file_path, file_type="video"))
         for idx, (ts, img) in enumerate(remaining, start=frames_done + 1):
             frame_trace = f"{base_trace} [frame {idx}/{len(frames)} ts={ts:.1f}s]"
             args._trace = frame_trace  # type: ignore[attr-defined]
 
-            desc_prompt = "Describe this video frame in detail. Mention visible actions, objects, and scene context."
+            prior_frame_context = existing_frame_sections.get(int(idx), "")
+            desc_prompt = (
+                "Describe this video frame in detail. Mention visible actions, objects, and scene context.\n"
+                "Output with rich structure and as much concrete detail as possible."
+            )
+            if prior_frame_context.strip():
+                desc_prompt += (
+                    "\n\nHistorical notes for the same frame are provided below. "
+                    "Preserve facts, correct mistakes, and expand details instead of repeating blindly.\n\n"
+                    + prior_frame_context
+                )
             desc_prompt = _apply_thinking(desc_prompt, args.think_qwen_vl)
             qwen_desc = call_ollama(
                 args.ollama_url,
@@ -1845,7 +2148,7 @@ def process_video_file(
                         step=(2, 3),
                     )
 
-            f.write(f"## Frame {idx} ({ts:.1f}s)\n\n")
+            f.write(f"## Frame {idx} ({ts:.1f}s) [TAG:{tag}]\n\n")
             f.write(qwen_desc.strip() + "\n\n")
             if ocr_text.strip():
                 f.write("### OCR\n\n")
@@ -1879,14 +2182,17 @@ def process_video_file(
         video_pbar.close()
 
     final_prompt = (
-        "You are a video analysis expert. Below are per-frame summaries (with timestamps and possible OCR text).\n"
-        "Please output:\n"
-        "1) A timeline-organized summary of actions/events (use second-level ranges when possible);\n"
-        "2) OCR text grouped by timestamp;\n"
-        "3) A final overall conclusion and likely scene description.\n"
-        "Output only the final report (Markdown).\n\n"
+        "你是一个视频分析专家。下面是逐帧摘要（含时间戳，可能包含 OCR 文字）。\n"
+        "请输出：\n"
+        "1) 按时间轴组织的动作/事件摘要（尽量给出秒级范围）；\n"
+        "2) 把 OCR 文字按时间点归并；\n"
+        "3) 最后给出整体结论与可能的场景描述。\n"
+        "4) 信息密度要求提高，细节量接近历史版本的 3 倍（若历史版本存在）。\n"
+        "仅输出最终报告（Markdown）。\n\n"
         + raw
     )
+    if existing_final_report:
+        final_prompt += "\n\n--- Historical Final Report (for enrichment) ---\n" + existing_final_report
     final_prompt = _apply_thinking(final_prompt, args.think_qwen3)
     final_report = call_ollama(
         args.ollama_url,
@@ -1968,6 +2274,14 @@ def _process_video_file_fast(
 
     frames_done = int(state_entry.get("frames_done", 0) or 0)
     if args.resume and os.path.exists(output_path) and not args.overwrite:
+        if _output_is_truncated(output_path, "video"):
+            logging.warning("Video output looks truncated; restarting output: %s", output_path)
+            try:
+                os.remove(output_path)
+            except Exception:
+                pass
+            frames_done = 0
+            state_entry["frames_done"] = 0
         contiguous_done, found = infer_contiguous_video_frames_done(output_path)
         if found and contiguous_done == 0:
             logging.warning("Video output has frame headers but missing Frame 1; restarting video output: %s", output_path)
@@ -1986,12 +2300,20 @@ def _process_video_file_fast(
         state_entry["frames_done"] = 0
 
     if frames_done >= len(frames) and len(frames) > 0 and not args.overwrite:
-        state_entry["status"] = "done"
-        save_state(state_path, state)
-        return 0
+        if os.path.exists(output_path):
+            state_entry["status"] = "done"
+            save_state(state_path, state)
+            return 0
+        # State says done but output is missing; rebuild output from scratch.
+        frames_done = 0
+        state_entry["frames_done"] = 0
 
     mode = "a" if (args.resume and frames_done > 0 and os.path.exists(output_path) and not args.overwrite) else "w"
     processed = 0
+    existing_frame_sections: dict[int, str] = {}
+    if bool(getattr(args, "enrich_from_output", True)) and os.path.exists(output_path) and not args.overwrite:
+        existing_frame_sections = _extract_numbered_sections(_read_text_file(output_path), "Frame")
+    tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
 
     batch_size = int(getattr(args, "fast_video_batch_size", 2) or 2)
     if batch_size <= 0:
@@ -2003,6 +2325,8 @@ def _process_video_file_fast(
         video_pbar = tqdm(total=len(remaining), desc="Video frames", unit="frame", leave=False)
 
     with open(output_path, mode, encoding="utf-8") as f:
+        if mode == "w":
+            f.write(_file_meta_marker(args, file_path=file_path, file_type="video"))
         i = 0
         total = len(frames)
         while i < len(remaining):
@@ -2028,6 +2352,13 @@ def _process_video_file_fast(
             ]
             for j, ts in enumerate(ts_list, start=1):
                 prompt_lines.append(f"FRAME {j} timestamp: {ts:.1f}s")
+                if bool(getattr(args, "enrich_from_output", True)):
+                    frame_idx = idx_start + (j - 1)
+                    hist = existing_frame_sections.get(frame_idx, "").strip()
+                    if hist:
+                        prompt_lines.append(
+                            f"FRAME {j} historical notes (enrich, preserve facts, expand details): {hist[:1600]}"
+                        )
             prompt = "\n".join(prompt_lines)
 
             resp = call_ollama(
@@ -2047,7 +2378,7 @@ def _process_video_file_fast(
 
             for j, ts in enumerate(ts_list, start=1):
                 frame_idx = idx_start + (j - 1)
-                f.write(f"## Frame {frame_idx} ({ts:.1f}s)\n\n")
+                f.write(f"## Frame {frame_idx} ({ts:.1f}s) [TAG:{tag}]\n\n")
                 body = parts.get(j, "").strip()
                 if not body:
                     body = resp.strip()
@@ -2086,11 +2417,11 @@ def process_pdf_file(
     state_path: str,
     state: dict[str, Any],
 ) -> int:
-    """Convert PDF pages to images and process page by page, with resumable checkpoints. Returns processed image-page count."""
+    """按页转换 PDF 并逐页处理，支持断点续跑。返回处理的图片页数。"""
     poppler_path = cast(Any, args.poppler_path or None)
     pdf_dpi = int(getattr(args, "pdf_dpi", 300) or 300)
 
-    # Check whether the file is empty.
+    # 检查文件是否为空
     if os.path.getsize(file_path) == 0:
         logging.warning(f"Skipping empty PDF file: {file_path}")
         state_entry["status"] = "skipped"
@@ -2110,6 +2441,14 @@ def process_pdf_file(
 
     pages_done = int(state_entry.get("pages_done", 0) or 0)
     if args.resume and os.path.exists(output_path) and not args.overwrite:
+        if _output_is_truncated(output_path, "pdf"):
+            logging.warning("PDF output looks truncated; restarting output: %s", output_path)
+            try:
+                os.remove(output_path)
+            except Exception:
+                pass
+            pages_done = 0
+            state_entry["pages_done"] = 0
         contiguous_done, found = infer_contiguous_pdf_pages_done(output_path)
         if found and contiguous_done == 0:
             logging.warning("PDF output has page headers but missing Page 1; restarting output: %s", output_path)
@@ -2128,10 +2467,21 @@ def process_pdf_file(
         state_entry["pages_done"] = 0
 
     if pages_done >= total_pages and total_pages > 0 and not args.overwrite:
-        return 0
+        if os.path.exists(output_path):
+            # Resume short-circuit: ensure file is marked done so next run can skip it.
+            state_entry["status"] = "done"
+            state_entry["updated_at"] = _now_iso()
+            save_state(state_path, state)
+            return 0
+        # State says done but output is missing; rebuild output from scratch.
+        pages_done = 0
+        state_entry["pages_done"] = 0
 
     mode = "a" if (args.resume and pages_done > 0 and os.path.exists(output_path) and not args.overwrite) else "w"
     processed_images = 0
+    existing_page_sections: dict[int, str] = {}
+    if bool(getattr(args, "enrich_from_output", True)) and os.path.exists(output_path) and not args.overwrite:
+        existing_page_sections = _extract_numbered_sections(_read_text_file(output_path), "Page")
 
     page_iter = range(pages_done + 1, total_pages + 1)
 
@@ -2149,7 +2499,8 @@ def process_pdf_file(
             raise RuntimeError("convert_from_path returned no images")
         img = images[0]
 
-        page_result = process_single_image(args, img, page_num)
+        existing_context = existing_page_sections.get(int(page_num), "")
+        page_result = process_single_image(args, img, page_num, existing_context=existing_context)
         fh.write(page_result)
         fh.flush()
         try:
@@ -2164,6 +2515,8 @@ def process_pdf_file(
         processed_images += 1
 
     with open(output_path, mode, encoding="utf-8") as f:
+        if mode == "w":
+            f.write(_file_meta_marker(args, file_path=file_path, file_type="pdf"))
         if args.show_page_progress:
             page_pbar = tqdm(page_iter, desc="PDF pages", unit="page", leave=False)
             try:
@@ -2196,15 +2549,18 @@ def process_pdf_file(
 
 
 def process_file(args: argparse.Namespace, file_path: str, state_path: str, state: dict[str, Any]) -> tuple[int, str, bool]:
-    """Process one file. Returns (processed image-page count, file type 'pdf'|'png', whether actual work was performed)."""
+    """处理单个文件，返回 (处理的图片页数, 文件类型 'pdf'|'png', 本次是否做了实际处理)."""
     file_path = os.path.abspath(file_path)
     file_key = _norm_key(file_path)
-    output_path = os.path.splitext(file_path)[0] + ".txt"
+    output_path = _resolve_output_path(file_path, args.output_suffix)
 
     entry: dict[str, Any] = state["files"].setdefault(file_key, {})
     entry.setdefault("path", file_path)
-    entry.setdefault("output", output_path)
+    entry["output"] = output_path
     entry["updated_at"] = _now_iso()
+    entry["clean_tag"] = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+    entry["detail_multiplier"] = float(getattr(args, "detail_multiplier", 3.0) or 3.0)
+    entry["enrich_from_output"] = bool(getattr(args, "enrich_from_output", True))
 
     lower = file_path.lower()
     if lower.endswith(".pdf"):
@@ -2222,7 +2578,24 @@ def process_file(args: argparse.Namespace, file_path: str, state_path: str, stat
         except Exception:
             pass
 
-    if not args.overwrite and entry.get("status") == "done" and os.path.exists(output_path):
+    clean_tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+    already_tagged = _output_has_clean_tag(output_path, clean_tag)
+    if args.resume and os.path.exists(output_path) and _output_is_truncated(output_path, file_type):
+        logging.warning("Detected truncated output (<=1 line or missing header), rebuilding: %s", output_path)
+        try:
+            os.remove(output_path)
+        except Exception:
+            pass
+        if file_type == "pdf":
+            entry["pages_done"] = 0
+        elif file_type == "png":
+            entry["pages_done"] = 0
+        else:
+            entry["frames_done"] = 0
+        entry["status"] = "in_progress"
+        save_state(state_path, state)
+        already_tagged = False
+    if not args.overwrite and entry.get("status") == "done" and os.path.exists(output_path) and already_tagged:
         return 0, file_type, False
 
     tqdm_print(f"\n=== Processing file: {file_path} ===")
@@ -2288,11 +2661,14 @@ def process_file(args: argparse.Namespace, file_path: str, state_path: str, stat
             )
         return frames_processed, file_type, True
     except Exception as e:
+        tb = traceback.format_exc(limit=50)
         entry["status"] = "failed"
         entry["last_error"] = str(e)
         entry["updated_at"] = _now_iso()
         save_state(state_path, state)
         logging.exception("Failed to process file %s: %s", file_path, e)
+        tqdm_print(f"ERROR: Failed to process file {file_path}: {e}")
+        tqdm_print(tb.rstrip("\n"))
         if ev is not None:
             ev.emit(
                 "file_failed",
@@ -2300,13 +2676,13 @@ def process_file(args: argparse.Namespace, file_path: str, state_path: str, stat
                 type=file_type,
                 error=str(e),
                 error_type=type(e).__name__,
-                traceback=traceback.format_exc(limit=50),
+                traceback=tb,
                 duration_s=round(time.monotonic() - started, 3),
             )
         return 0, file_type, True
 
 def recursive_scan(args: argparse.Namespace) -> None:
-    """Recursively scan and process files."""
+    """递归扫描并处理文件"""
     root = os.path.abspath(args.root)
     logging.info(f"Scanning directory: {root}")
     ev: _DiskEventLog | None = getattr(args, "_event_log", None)
@@ -2451,8 +2827,11 @@ def recursive_scan(args: argparse.Namespace) -> None:
     for fp in pdf_png_targets:
         key = _norm_key(fp)
         entry = state.get("files", {}).get(key, {})
-        outp = entry.get("output") or (os.path.splitext(fp)[0] + ".txt")
-        if entry.get("status") == "done" and os.path.exists(outp) and not args.overwrite:
+        outp = _resolve_output_path(fp, args.output_suffix)
+        clean_tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+        already_tagged = _output_has_clean_tag(str(outp), clean_tag)
+        truncated = _output_is_truncated(str(outp), "pdf" if fp.lower().endswith(".pdf") else "png")
+        if entry.get("status") == "done" and os.path.exists(outp) and not args.overwrite and already_tagged and not truncated:
             skipped_done += 1
             continue
         pdf_png_pending.append(fp)
@@ -2460,8 +2839,11 @@ def recursive_scan(args: argparse.Namespace) -> None:
     for vp in video_targets:
         key = _norm_key(vp)
         entry = state.get("files", {}).get(key, {})
-        outp = entry.get("output") or (os.path.splitext(vp)[0] + ".txt")
-        if entry.get("status") == "done" and os.path.exists(outp) and not args.overwrite:
+        outp = _resolve_output_path(vp, args.output_suffix)
+        clean_tag = str(getattr(args, "clean_tag", "DOJ_CLEAN_V2") or "DOJ_CLEAN_V2").strip()
+        already_tagged = _output_has_clean_tag(str(outp), clean_tag)
+        truncated = _output_is_truncated(str(outp), "video")
+        if entry.get("status") == "done" and os.path.exists(outp) and not args.overwrite and already_tagged and not truncated:
             skipped_done += 1
             continue
         video_pending.append(vp)
@@ -2495,10 +2877,10 @@ def recursive_scan(args: argparse.Namespace) -> None:
             key = _norm_key(vp)
             entry: dict[str, Any] = state["files"].setdefault(key, {})
             entry.setdefault("path", vp)
-            entry.setdefault("output", os.path.splitext(vp)[0] + ".txt")
+            entry["output"] = _resolve_output_path(vp, args.output_suffix)
             entry["type"] = "video"
 
-            outp = str(entry.get("output") or (os.path.splitext(vp)[0] + ".txt"))
+            outp = _resolve_output_path(vp, args.output_suffix)
             entry["output"] = outp
 
             ev: _DiskEventLog | None = getattr(args, "_event_log", None)
@@ -2533,12 +2915,14 @@ def recursive_scan(args: argparse.Namespace) -> None:
                     )
                 video_files_done += 1
             except Exception as e:
+                tb = traceback.format_exc(limit=50)
                 entry["status"] = "failed"
                 entry["last_error"] = str(e)
                 entry["updated_at"] = _now_iso()
                 save_state(state_path, state)
                 logging.exception("Failed to process video %s: %s", vp, e)
                 tqdm_print(f"ERROR: Failed to process video {vp}: {e}")
+                tqdm_print(tb.rstrip("\n"))
                 if ev is not None:
                     ev.emit(
                         "file_failed",
@@ -2546,7 +2930,7 @@ def recursive_scan(args: argparse.Namespace) -> None:
                         type="video",
                         error=str(e),
                         error_type=type(e).__name__,
-                        traceback=traceback.format_exc(limit=50),
+                        traceback=tb,
                         duration_s=round(time.monotonic() - started, 3),
                     )
 
@@ -2579,6 +2963,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.set_defaults(stream=True)
     parser.add_argument("--root", default=os.getcwd(), help="Root directory to scan recursively.")
     parser.add_argument("--state-file", default=".doj_progress.json", help="Path to resumable state json.")
+    parser.add_argument("--output-suffix", default=".txt", help="Output suffix appended to source stem. Examples: .txt, _2.txt")
     parser.add_argument("--resume", dest="resume", action="store_true", help="Resume from state/output if possible.")
     parser.add_argument("--no-resume", dest="resume", action="store_false", help="Disable resume; always start from scratch.")
     parser.set_defaults(resume=True)
@@ -2591,8 +2976,14 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--num-predict", type=int, default=1024, help="Ollama num_predict (max tokens). Default: 1024. Set 0 to not force.")
     parser.add_argument("--num-ctx-refine", type=int, default=4096, help="Refiner num_ctx. Default: 4096.")
     parser.add_argument("--num-predict-refine", type=int, default=2048, help="Refiner num_predict. Default: 2048.")
+    parser.add_argument("--temperature-refine", type=float, default=0.2, help="Refiner temperature. Default: 0.2.")
     parser.add_argument("--num-ctx-heavy", type=int, default=8192, help="Heavy num_ctx for OCR/video. Default: 8192.")
     parser.add_argument("--num-predict-heavy", type=int, default=2048, help="Heavy num_predict for OCR/video. Default: 2048.")
+    parser.add_argument("--detail-multiplier", type=float, default=3.0, help="Target detail expansion multiplier (vs source). Default: 3.0.")
+    parser.add_argument("--clean-tag", default="DOJ_CLEAN_V2", help="Tag written into per-file metadata markers.")
+    parser.add_argument("--enrich-from-output", dest="enrich_from_output", action="store_true", help="Use existing txt output as historical context for enrichment (default: enabled).")
+    parser.add_argument("--no-enrich-from-output", dest="enrich_from_output", action="store_false", help="Ignore historical txt context and only use current image/video inputs.")
+    parser.set_defaults(enrich_from_output=True)
     parser.add_argument("--temperature-ocr", type=float, default=0.1, help="Temperature for OCR calls. Default: 0.1.")
     parser.add_argument("--unload-between-stages", dest="unload_between_stages", action="store_true", help="Unload model between stages to free VRAM.")
     parser.add_argument("--no-unload-between-stages", dest="unload_between_stages", action="store_false", help="Do not unload models between stages (default).")

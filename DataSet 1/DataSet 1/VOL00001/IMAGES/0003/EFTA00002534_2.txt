@@ -1,0 +1,35 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002534.pdf ts=2026-03-05T20:53:10 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Primary Subject:** The image displays the rear panel of a compact, rack-mountable server chassis, finished in matte silver aluminum or metal.
+*   **Positioning:** The device is oriented horizontally across the center of the frame, resting against or slightly elevated from a dark, textured background that resembles a painted concrete wall or cinder block.
+*   **Power Input (Left):** On the far left edge, there is a black IEC power inlet socket. Directly beneath it, small text specifies the power input range as "100-240V, 50/60Hz".
+*   **Labeling (Center-Left):** Adjacent to the power inlet is a white manufacturer label containing regulatory compliance information, model numbers, and safety certifications.
+*   **Ventilation/Cooling (Center):** In the horizontal center of the chassis is a distinct circular fan grille composed of three black plastic segments arranged in a ring, allowing airflow through the unit. Two screw heads are visible below this vent for mounting purposes.
+*   **Rear I/O Ports (Right Side):** The right half of the panel features a cluster of connectivity ports and ventilation grilles. From left to right within this section:
+    *   A single RJ45 Ethernet port labeled "IPMI LAN".
+    *   Two vertical USB Type-A ports (with blue interiors indicating USB 3.0 speed) labeled "USB2" and "USB1".
+    *   A large, hexagonal honeycomb ventilation grille.
+    *   Two additional RJ45 Gigabit Ethernet ports labeled "LAN2" and "LAN1".
+    *   A second smaller ventilation area.
+    *   A blue VGA video port at the far right edge.
+
+## Visible Text (verbatim)
+*   **Top Left Logo:** "Unifi SERVER"
+*   **Manufacturer Logo:** Ubiquiti "U" logo with text "UBIQUITI ENTERPRISES, INC."
+*   **Model/SN Area:** "M/N UAS", "FCC ID: SMX-UASPRO", "IC: 9545A-UASPRO".
+*   **Power Specs:** "Input: 100-240V ~ 4-2A Max. 50/60Hz", "Max Power: 150W".
+*   **Regulatory Warning:** "This device complies with Part 15 of FCC rules. Operation is subject to the following 2 conditions: 1) this device may not cause harmful interference and, 2) this device must accept any interference received including interference that may cause undesired operation."
+*   **Port Labels:** "IPMI LAN", "USB2", "USB1", "LAN2", "LAN1", "VGA".
+*   **Markings:** CE mark, RoHS logo, QR code.
+*   **Watermark:** Bottom right corner displays "EFTA00002534".
+
+## Notable Details / Clues
+*   **Device Type:** The "Unifi SERVER" branding combined with multiple LAN ports and a VGA output suggests this is a network video recorder (NVR) or security server designed to manage surveillance cameras and provide remote monitoring.
+*   **High-Speed Ports:** The blue interior of the USB slots indicates they are likely USB 3.0 or newer, capable of high data transfer speeds.
+*   **Form Factor:** The size of the chassis relative to the mounting holes suggests it is a 1U or small-form-factor unit designed for rack installation.
+*   **Fan Configuration:** The circular vent in the middle is likely an internal fan visible from the outside or a specific airflow design, separated from the side ventilation grilles which are typical for heat dissipation from components like network switches or hard drives.
+*   **Legacy Connectivity:** The inclusion of a VGA port indicates support for legacy monitor connections, common in industrial or security appliances that may lack HDMI/DisplayPort outputs.
+

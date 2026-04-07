@@ -1,0 +1,83 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015088.pdf ts=2026-03-12T12:52:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+This image displays a single page from an official document issued by the Federal Bureau of Investigation (FBI) and the New York State Division of Criminal Justice Services. The document serves as an "Additional Inquiry Response" regarding a search for criminal history data.
+
+*   **Header Area:** The top of the page features the date and time "10/6/21, 12:59 PM" in the upper left corner and "III/FBI/State Delayed Response" in the center. The main title "Additional Inquiry Response" is bolded centrally. Below this is a red text code "ORI: NYFBINY00" followed by the agency name "Federal Bureau of Investigation - New York".
+*   **Agency Contact Block:** Beneath a gray horizontal bar, there is an address block for the "New York State Division of Criminal Justice Services," located in the Alfred E. Smith Building at 80 South Swan St., Albany, New York. A telephone number "1-800-262-DCJS" is listed. The bottom of this section lists Michael C. Green as the Executive Deputy Commissioner.
+*   **Section III Header:** Below a horizontal separator line, there is a section titled "III Information," preceded by a green dot icon and a small red upward-pointing arrow icon.
+*   **Introductory Statement:** Text below the header reads: "The following information is provided in response to your request for a III search from the State of New York based on:" This text is immediately followed by a large, solid black rectangular redaction box.
+*   **Caveats Section:** Below the first redaction, there is a section titled "The information in this rap sheet is subject to the following caveats:". Two specific legal disclaimers follow:
+    *   **Multi-Source:** Explains that data comes from other states or multiple NYS files via the Interstate Identification Index. It references an FBI Number which is partially redacted (blacked out). The date "2021-10-06" is visible at the end of this paragraph.
+    *   **Sentencing:** Explains that sentences for individuals sentenced on or after June 1, 1981, with multiple charges in a docket may be considered concurrent unless marked consecutive. This paragraph also ends with the date "2021-10-06".
+*   **Identification Section:** A line of asterisks separates the text from the next section header, which reads "IDENTIFICATION" in the center. Below this header is another large, solid black rectangular redaction box that obscures what would typically be a mugshot or personal identification details.
+*   **Footer Area:** The bottom right corner shows page number "1/2". In the very bottom right margin, there is a document ID code: "EFTA00015088".
+
+## Visible Text (verbatim)
+**Header Data**
+10/6/21, 12:59 PM
+III/FBI/State Delayed Response
+Additional Inquiry Response
+ORI: NYFBINY00
+Federal Bureau of Investigation - New York
+
+**Address Block**
+New York State Division of Criminal Justice Services
+Alfred E. Smith Building, 80 South Swan St.
+Albany, New York 12210. Tel:1-800-262-DCJS
+Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+
+**Body Text**
+III Information
+The following information is provided in response to your request for a III search from the State of New York based on:
+[Redacted Block]
+The information in this rap sheet is subject to the following caveats:
+Multi-Source - Subject has information maintained by other states or in multiple NYS files maintained by the FBI available through the Interstate Identification Index. Refer to FBI Number: [Redacted Block] (New York State Department Of Criminal Justices; 2021-10-06)
+Sentencing - Where an individual is sentenced June 1, 1981 or later on more than one charge within a docket, the sentence may be considered to be concurrent unless identified as consecutive. (New York State Department Of Criminal Justices; 2021-10-06)
+*************** IDENTIFICATION ***************
+[Redacted Block]
+
+**Footer Data**
+1/2
+EFTA00015088
+
+## Notable Details / Clues
+*   **Redactions:** The document heavily redacts the subject of the inquiry. Two large black boxes cover the "based on" section (likely name/DOB) and the "Identification" section (likely photo/biometric data). A smaller redaction obscures a specific FBI number in the text.
+*   **Document Type:** This is a standard "Rap Sheet" response generated for FOIA (Freedom of Information Act) or public records requests, indicated by the header "Additional Inquiry Response" and the footer ID starting with "EFTA" (Electronic FOIA).
+*   **Jurisdiction:** The document explicitly states it covers the State of New York ("NYS Division of Criminal Justice Services"), indicating the data pulled is from NY criminal records.
+*   **Date of Issue:** The document was generated or received on October 6, 2021.
+*   **Legal Disclaimer:** The "Sentencing" caveat highlights specific New York laws regarding how consecutive versus concurrent sentences are handled in rap sheet reporting starting June 1, 1981.
+*   **Agency Hierarchy:** The document lists Michael C. Green as the Executive Deputy Commissioner, placing this under the authority of the New York State Division of Criminal Justice Services but processed through the FBI's regional office (New York).
+*   **Document Status:** The "1/2" in the corner indicates this is the first page of a two-page response document.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital scan of a government document, specifically an FBI "Delayed Response" report, likely a Criminal History Record Information (CHRI) check. The layout consists of standard header information followed by two distinct redaction areas (black rectangles) obscuring the primary data fields. At the very top left, a timestamp is visible. Below the header is a smaller black rectangle that partially covers what appears to be personal identification details, with only faint fragments of letters visible on its left edge. Centering the document is a separator line consisting of asterisks and dashes containing the title "CRIMINAL HISTORY." Immediately below this title is a secondary divider indicating "Cycle 001." The majority of the page is dominated by a massive, nearly full-page black rectangle, indicating that the bulk of the arrest records, charges, or disposition data has been either redacted or failed to populate in the rendering. At the bottom of the page, a standard termination string marks the end of the record. The footer includes pagination information indicating this is the final page of a two-page document and a unique identification number for the electronic file.
+
+## Visible Text (verbatim)
+**Header Section:**
+- "10/6/21, 12:59 PM"
+- "III/FBI/State Delayed Response"
+
+**Separator Text:**
+- "************** CRIMINAL HISTORY **************"
+- "================ Cycle 001 =================="
+
+**Footer/End of Record:**
+- "* * * END OF RECORD * * *"
+- "2/2" (Top right corner of footer area)
+- "EFTA00015089" (Bottom right corner)
+
+## Notable Details / Clues
+- **Document Type:** The header explicitly identifies this as an "FBI/State Delayed Response," which usually corresponds to the FBI's Criminal History Record Information (CHRI) database search results.
+- **Redaction Pattern:** The document contains two distinct black bars. The first is smaller and sits near the top, likely covering PII (Personally Identifiable Information). The second is enormous, covering the entire central section where arrest records would typically be listed (arrest date, case number, agency, charge, disposition).
+- **"Cycle 001":** This text suggests a multi-cycle search process often used to check federal, state, and local databases. Since this is "Cycle 001" and the area below is completely black/blank, it implies either no matches were found in that specific cycle or the data for that specific cycle was suppressed/redacted entirely.
+- **Date:** The timestamp indicates the document was accessed or generated on October 6, 2021, at 12:59 PM.
+- **Blank Record Indication:** Given that the "CRIMINAL HISTORY" section is almost entirely obscured by a black box (likely representing a lack of data or total redaction), this document serves as a placeholder or a record showing no criminal history was returned for that specific cycle.
+- **Faint Fragments:** On the far left edge of the top black rectangle, faint vertical letters are barely visible (resembling "M", "F", "E"), suggesting the columns to the left were standard data fields like Name, DOB, or ID numbers before being blacked out.
+- **Pagination:** The "2/2" in the footer confirms this is a multi-page report, though only page two (which appears to contain the main results or summary) is shown here.
+- **Unique Identifier:** The string "EFTA00015089" at the bottom right serves as a unique tracking ID for the electronic file system used by the agency generating this report.
+

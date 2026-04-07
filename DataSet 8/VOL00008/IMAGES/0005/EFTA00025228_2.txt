@@ -1,0 +1,78 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025228.pdf ts=2026-03-16T18:12:44 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped digital document containing an email thread, heavily redacted to protect identities. The layout consists of distinct email headers stacked vertically, separated by horizontal rule lines. At the very top, a header block shows a "From" field obscured by a thick black bar, followed by several lines of text completely covered by long black rectangles, indicating deleted content or additional headers like To/CC fields. Below this, a subject line reads "FW: Voice Message Attached from [Redacted] - US GOVT" and a date stamp for September 26, 2019.
+
+The middle section begins with a header showing an Eastern Time stamp for 1:09:06 PM on the same date. The body of this email contains only the sentence "It is happening again." Below this text is a separator line labeled "-----Original Message-----" followed by another email block whose content is entirely redacted, though its subject line is partially visible as "FW: Voice Message Attached from...".
+
+The bottom section shows another header timestamped at 1:06:23 PM. The body text here begins with a cut-off letter "H" followed by the phrase "I think I might be receiving this in error, along with the Epstein team." Another separator line introduces a final quoted block dated 1:05 PM, which continues the chain of forwarded messages regarding voice attachments from the US Government. A document control number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+- **Header Block 1:**
+    - From: [Redacted]
+    - Subject: FW: Voice Message Attached from [Redacted] - US GOVT
+    - Date: Thu, 26 Sep 2019 17:09:07 +0000
+- **Header Block 2:**
+    - From: [Redacted]
+    - Sent: Thursday, September 26, 2019 1:09:06 PM (UTC-05:00) Eastern Time (US & Canada)
+    - To: [Redacted]
+    - Subject: RE: Voice Message Attached from [Redacted] - US GOVT
+    - Body: It is happening again.
+    - Separator: -----Original Message-----
+    - Sent: Thursday, September 26, 2019 1:06 PM
+    - Subject: FW: Voice Message Attached from [Redacted] - US GOVT
+- **Header Block 3:**
+    - From: [Redacted]
+    - Sent: Thursday, September 26, 2019 1:06:23 PM (UTC-05:00) Eastern Time (US & Canada)
+    - To: [Redacted]
+    - Subject: RE: Voice Message Attached from [Redacted] - US GOVT
+    - Body: H[Redacted Block]
+    - Body continued: I think I might be receiving this in error, along with the Epstein team.
+    - Separator: -----Original Message-----
+    - Sent: Thursday, September 26, 2019 1:05 PM
+    - Subject: FW: Voice Message Attached fro[Redacted] - US GOVT
+- **Footer ID:** EFTA00025228
+
+## Notable Details / Clues
+- **Government Origin:** Every subject line explicitly references "- US GOVT," indicating the correspondence originates from a United States government official or agency.
+- **Specific Reference:** The phrase "along with the Epstein team" is highly significant, directly linking these government communications to Jeffrey Epstein's associates or inner circle.
+- **"In Error" Claim:** One sender states they believe they are receiving the emails "in error," suggesting these messages were leaked from a shared inbox or forwarded automatically to a large group rather than being intended for them individually.
+- **Voice Attachments:** The subject lines repeatedly mention a "Voice Message Attached," implying that audio recordings were central to this communication thread, though the files themselves are not visible in the screenshot.
+- **Tight Timestamp Cluster:** All emails within this chain occurred within a 4-minute window (1:05 PM to 1:09 PM) on September 26, 2019, suggesting an urgent or automated exchange.
+- **Aggressive Redaction:** The black bars are very thick and uniform, obscuring not just names but entire lines of email content, which is common in leaked documents released by groups like WikiLeaks or the Vault7 project to protect sources.
+- **Timezone Consistency:** The timestamps switch between UTC+00:00 in the top header and UTC-05:00 (Eastern Time) for the subsequent emails, indicating the emails were likely logged or viewed from a US-based location.
+- **Partial "H" Text:** In the third visible message body, the text begins with a capital "H" followed by a black bar. This could be the start of a name or a salutation that was cut off during redaction processing.
+- **Document Tracking Number:** The ID "EFTA00025228" in the bottom right suggests this is part of a formal archive, leak dossier, or legal filing.
+- **Forwarding Chain:** The use of "FW:" (Forwarded) and "RE:" (Reply) indicates a chain of emails passing through different recipients' inboxes.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+Sent: Thursday, September 26, 2019 1:05:18 PM (UTC-05:00) Eastern Time (US & Canada)
+To: [REDACTED]
+Subject: RE: Voice Message Attached fro[REDACTED] - US GOVT
+
+[REDACTED],
+
+Are you free at 1:30pm for a call?
+
+-----Original Message-----
+From: postmaster@voip.usa.doj.gov <postmaster@voip.usa.doj.gov>
+Sent: Thursday, September 26, 2019 11:50 AM
+To: [REDACTED]
+Subject: Voice Message Attached from[REDACTED] - US GOVT
+
+Time: Sep 26, 2019 11:50:27 AM
+Click attachment to listen to Voice Message
+
+EFTA00025229
+
+## Structured Fields
+*   **Date:** September 26, 2019
+*   **Time:** 1:05:18 PM (Eastern) / 11:50 AM (Eastern)
+*   **Case ID/Document ID:** EFTA00025229
+*   **Email Address:** postmaster@voip.usa.doj.gov
+*   **Organization:** US GOVT
+

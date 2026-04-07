@@ -1,0 +1,49 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00029189.pdf ts=2026-03-18T06:25:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a snippet of an email chain thread, likely captured from an Outlook or similar email client interface. The document is vertically oriented with white background and black text, typical of standard business correspondence. Significant portions of the header information (sender, recipient) in both emails are obscured by solid black rectangular redaction bars to protect personal data.
+
+The top section shows the most recent reply in the thread. It begins with a partially visible salutation ("H...") followed by the sentence "Attached is the draft of the joint letter." The email closes with "Best," and a redacted name. Below a horizontal divider line, the previous email in the chain appears, sent by Laura Menninger from the law firm Haddon, Morgan & Foreman, P.C. Her email body discusses checking in on a scheduling position statement for a joint letter, requesting that the recipient send their segment so it can be inserted and reviewed before filing. The footer displays her name, title as "Partner," and the red text of her law firm. A document control number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Email Header:**
+Subject: RE: Joint letter
+Date: Fri, 21 May 2021 20:54:17 +0000
+Attachments: 2021-05-21_Joint_letter_re_proposed_GM_pretrial_schedule_[sent_to_defense].docx
+
+**Top Email Body:**
+H[redacted]
+Attached is the draft of the joint letter.
+Best,
+[redacted name]
+
+**Bottom Email Header:**
+From: Laura Menninger <[redacted email]>
+Sent: Friday, May 21, 2021 3:18 PM
+To: [redacted]
+Cc: [redacted]
+Subject: Joint letter
+
+**Bottom Email Body:**
+Hi[redacted] –
+Checking in to see if you guys have your scheduling position statement ready for the joint letter. If you do, can you please shoot it to us, and we can insert our segment to return to you. You can then let us know if you change anything for us to review before we agree to sign off on filing.
+Thanks so much.
+-Laura
+
+**Bottom Email Signature:**
+Laura A. Menninger | Partner
+Haddon, Morgan & Foreman, P.C.
+
+**Footer ID:**
+EFTA00029189
+
+## Notable Details / Clues
+*   **Legal Context:** The correspondence is clearly legal in nature, referencing a "joint letter," "proposed GM pretrial schedule," and "filing." This suggests preparation for a court trial or motion hearing.
+*   **Timeline:** The emails were sent on the same day: Friday, May 21, 2021. Laura Menninger's email was sent at roughly 3:18 PM (15:18), while the reply (top email) came at 20:54:17 UTC (which corresponds to late afternoon/early evening in a different time zone or simply later that day).
+*   **Firm Identity:** The sender is identified as Laura A. Menninger, a Partner at Haddon, Morgan & Foreman, P.C., which is a law firm based in New York and Texas.
+*   **File Naming Convention:** The attachment filename `2021-05-21_Joint_letter_re_proposed_GM_pretrial_schedule_[sent_to_defense].docx` suggests a structured workflow involving multiple parties (defense) and specific scheduling matters (GM usually refers to General Motions).
+*   **Redaction Patterns:** The redactions are heavy, completely blacking out names, email addresses, phone numbers, and likely the case number or judge's name in the headers, indicating this document is being handled with privacy protection in mind.
+*   **Communication Style:** The tone is professional but informal ("you guys," "shoot it to us"), typical of internal or counsel-to-counsel legal communication.
+

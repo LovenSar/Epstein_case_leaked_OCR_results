@@ -1,0 +1,439 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00027019.pdf ts=2026-03-17T10:58:10 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EXHIBIT A: LEON BLACK / ROTHSCHILD GROUP TRANSACTIONS
+
+| DATE | PAYER | RECIPIENT | AMOUNT | Bates # |
+| :--- | :--- | :--- | :--- | :--- |
+| 10/15/2013 | Leon and Debra Black | Southern Trust Company, Inc. | $8,500,000 | DB-SDNY-0002962 |
+| 12/18/2013 | Black Family Partners, LP c/o Apollo Management | Southern Trust Company, Inc. | $10,000,000 | DB-SDNY-0003484 |
+| 4/25/2014 | Leon and Debra Black | Southern Trust Company, Inc. | $5,000,000 | DB-SDNY-0003819 |
+| 4/25/2014 | Black Family Partners, LP c/o Apollo Management | Southern Trust Company, Inc. | $5,000,000 | DB-SDNY-0003819 |
+| 4/29/2014 | Leon and Debra Black | Southern Trust Company, Inc. | $15,000,000 | DB-SDNY-0003819 |
+| 7/15/2014 | Narrow Holdings LLC c/o Elysium Management | Southern Trust Company, Inc. | $20,000,000 | DB-SDNY-0004009 |
+| 10/16/2014 | Leon and Debra Black | Southern Trust Company, Inc. | $7,000,000 | DB-SDNY-0004172 |
+| 10/16/2014 | Black Family Partners, LP c/o Apollo Management | Southern Trust Company, Inc. | $13,000,000 | DB-SDNY-0004172 |
+| 10/22/2014 | Leon and Debra Black c/o Apollo Management | Southern Trust Company, Inc. | $2,000,000 | DB-SDNY-0004173 |
+| 10/22/2014 | Black Family Partners, LP c/o Apollo Management | Southern Trust Company, Inc. | $3,000,000 | DB-SDNY-0004173 |
+| 10/13/2015 | Leon and Debra Black c/o Apollo Management | Southern Trust Company, Inc. | $5,000,000 | DB-SDNY-0004990 |
+| 10/13/2015 | Black Family Partners, LP c/o Apollo Management | Southern Trust Company, Inc. | $5,000,000 | DB-SDNY-0004990 |
+| 10/14/2015 | BV70 LLC | Gratitude America, Ltd. | $10,000,000 | DB-SDNY-0004999 |
+| 12/17/2015 | Edmond de Rothschild (Suisse) SA Geneva, Switzerland | Southern Trust Company, Inc. | $10,000,000 | DB-SDNY-0005122 |
+| 12/18/2015 | Black Family Partners, LP | Southern Trust Company, Inc. | $10,000,000 | DB-SDNY-0005122 |
+| 12/21/2015 | Benjamin Edmond de Rothschild | Southern Trust Company, Inc. | $14,999,980 | DB-SDNY-0005122 |
+| 12/30/2015 | Leon and Debra Black c/o Apollo Management | Southern Trust Company, Inc. | $10,000,000 | DB-SDNY-0005123 |
+| 3/31/2017 | BV70 LLC | Plan D, LLC | $22,500,000 | DB-SDNY-0006113 |
+| 4/17/2017 | BV70 LLC | Plan D, LLC | $8,000,000 | DB-SDNY-0006197 |
+| 4/25/2017 | Leon and Debra Black c/o Apollo Management | Southern Trust Company, Inc. | $8,000,000 | DB-SDNY-0006240 |
+| 10/2/2018 | Plan D, LLC | BV 70th LLC^1 | $10,000,000 | DB-SDNY-0007669 |
+
+---
+[^1]: Please note that the account statement for this transaction lists the entity as “BV 70th LLC” instead of “BV70 LLC.
+
+## Structured Fields
+
+- **Exhibit Title:** EXHIBIT A: LEON BLACK / ROTHSCHILD GROUP TRANSACTIONS
+- **Document ID (Footer):** EFTA00027019
+- **Bates Numbers:** DB-SDNY-0002962, DB-SDNY-0003484, DB-SDNY-0003819, DB-SDNY-0004009, DB-SDNY-0004172, DB-SDNY-0004173, DB-SDNY-0004990, DB-SDNY-0004999, DB-SDNY-0005122, DB-SDNY-0005123, DB-SDNY-0006113, DB-SDNY-0006197, DB-SDNY-0006240, DB-SDNY-0007669
+- **Entities/Organizations:**
+    - Leon and Debra Black
+    - Southern Trust Company, Inc.
+    - Black Family Partners, LP c/o Apollo Management
+    - Narrow Holdings LLC c/o Elysium Management
+    - BV70 LLC
+    - Gratitude America, Ltd.
+    - Edmond de Rothschild (Suisse) SA Geneva, Switzerland
+    - Plan D, LLC
+    - Benjamin Edmond de Rothschild
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EXHIBIT B: TRANSACTIONS INVOLVING HEDGE / INVESTMENT FUNDS
+
+| DATE | PAYER | RECIPIENT | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 5/2/2014 | Southern Financial LLC | Boothbay Multi Strategy Fund LP | $10,000,000 | DB-SDNY-0003845 |
+| 5/14/2014 | Southern Financial LLC | Barack Ferrazzano Kirschbaum and Nagelberg Client Fund² | $99,999 | DB-SDNY-0003846 |
+| 7/2/2014 | Southern Financial LLC | Joichi Ito | $250,000 | DB-SDNY-0003972 |
+| 8/4/2014 | Tudor Futures Fund | Southern Financial LLC | $12,826,541 | DB-SDNY-0004032 |
+| 8/8/2014 | Tudor Futures Fund | Southern Financial LLC | $677,400 | DB-SDNY-0004032 |
+| 9/9/2014 | Southern Financial LLC | Joichi Ito³ | $500,001 | DB-SDNY-0004084 |
+| 1/21/2015 | Southern Trust Company, Inc. | Valar Global Fund II LP | $150,000 | DB-SDNY-0004346 |
+| 2/12/2015 | Southern Trust Company, Inc. | Valar Global Fund II LP | $900,000 | DB-SDNY-0004412 |
+| 3/12/2015 | Southern Financial LLC | Joichi Ito⁴ | $250,000 | DB-SDNY-0004441 |
+| 3/30/2015 | Southern Trust Company, Inc. | Valar Global Fund II LP | $2,700,000 | DB-SDNY-0004487 |
+| 4/13/2015 | Southern Financial LLC | Neoteny 3, LP | $1,000,000 | DB-SDNY-0004518 |
+| 6/30/2015 | Southern Financial LLC | Boothbay Absolute Strategies Fund LP | $2,000,000 | DB-SDNY-0004675 |
+| 7/24/2015 | Southern Trust Company, Inc. | Valar Global Fund II LP | $600,000 | DB-SDNY-0004790 |
+| 7/28/2015 | Southern Financial LLC | Boothbay Absolute Strategies Fund LP | $7,000,000 | DB-SDNY-0004745 |
+| 8/5/2015 | Joichi Ito | Southern Financial LLC | $483,915 | DB-SDNY-0004815 |
+| 9/24/2015 | Southern Trust Company, Inc. | Valar Global Fund II LP | $1,950,000 | DB-SDNY-0004924 |
+| 9/28/2015 | Southern Financial LLC | Boothbay Absolute Strategies Fund LP | $4,250,000 | DB-SDNY-0004881 |
+| 3/1/2016 | Southern Financial LLC | Boothbay Absolute Strategies Fund LP | $10,000,000 | DB-SDNY-0005280 |
+| 3/31/2016 | Southern Financial LLC | Boothbay Absolute Strategies Fund LLP | $5,000,000 | DB-SDNY-0005281 |
+| 5/31/2016 | Southern Trust Company, Inc. | Honeycomb Partners LP | $20,000,000 | DB-SDNY-0005457 |
+| 6/23/2016 | Southern Trust Company, Inc. | Valar Gloaal Fund III LP | $250,000 | DB-SDNY-0005526 |
+| 8/18/2016 | Southern Trust Company, Inc. | Valar Gloaal Fund III LP | $1,250,000 | DB-SDNY-0005667 |
+| 12/2/2016 | Kyara Investments I | Southern Financial LLC | $10,000 | DB-SDNY-0005882 |
+| 12/12/2016 | Southern Trust Company, Inc. | Valar Gloaal Fund III LP | $3,750,000 | DB-SDNY-0005932 |
+
+2 Wire details read: “Southern Financial LLC investment in Kyara Investments LLC.” See DB-SDNY-0000478.
+3 Wire details read: “subcr to Kyara Investments III, LLC to fund Blockstream Investment.” See DB-SDNY-0000478.
+4 Wire details read: “subcr to Kyara Investment IV, LLC to fund OH2 Laboratories.” See DB-SDNY-0000478.
+
+EFTA00027020
+
+## Structured Fields
+*   **Document ID:** DB-SDNY-XXXXXXX (Various Bates numbers ranging from DB-SDNY-0003845 to DB-SDNY-0005932)
+*   **Footer ID:** EFTA00027020
+*   **Organizations / Entities Involved:**
+    *   Southern Financial LLC
+    *   Boothbay Multi Strategy Fund LP
+    *   Barack Ferrazzano Kirschbaum and Nagelberg Client Fund
+    *   Joichi Ito
+    *   Tudor Futures Fund
+    *   Southern Trust Company, Inc.
+    *   Valar Global Fund II LP
+    *   Neoteny 3, LP
+    *   Boothbay Absolute Strategies Fund LP
+    *   Honeycomb Partners LP
+    *   Valar Gloaal Fund III LP
+    *   Kyara Investments I
+*   **Dates:** Range from 5/2/2014 to 12/12/2016
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+| DATE | PAYER | RECIPIENT | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 1/6/2017 | Boothbay Absolute Return Strategies LP | Southern Financial LLC | $10,000,000 | DB-SDNY-0005951 |
+| 4/20/2017 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $3,000,000 | DB-SDNY-0006240 |
+| 5/5/2017 | Southern Financial LLC | Coatue Enterprises LLC | $500,000 | DB-SDNY-000478 |
+| 7/10/2017 | Southern Trust Company, Inc. | Honeycomb Ventures I LP | $1,000,000 | DB-SDNY-0006407 |
+| 7/24/2017 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $4,250,000 | DB-SDNY-0006407 |
+| 10/11/2017 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $2,250,000 | DB-SDNY-0006652 |
+| 1/5/2018 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $1,500,000 | DB-SDNY-0006901 |
+| 1/12/2018 | Southern Financial LLC | Coatue Enterprises LLC | $500,000 | DB-SDNY-0006847 |
+| 2/15/2018 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $500,000 | DB-SDNY-0006985 |
+| 2/21/2018 | Blockchain Capital IV, LP | The 2017 Caterpillar Trust | $10,500,000 | DB-SDNY-0006982 |
+| 2/21/2018 | Blockchain Capital III Digital Liquid Venture Fund, LP | The 2017 Caterpillar Trust | $2,625,000 | DB-SDNY-0006982 |
+| 2/21/2018 | Blockchain Capital Parallel Fund IV, LP | The 2017 Caterpillar Trust | $1,875,000 | DB-SDNY-0006982 |
+| 4/20/2018 | Neoteny 3 LP | Southern Financial LLC | $30,000 | DB-SDNY-0007110 |
+| 6/1/2018 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $1,750,000 | DB-SDNY-0007348 |
+| 6/13/2018 | Southern Financial LLC | Coatue Enterprises LLC | $500,000 | DB-SDNY-0007289 |
+| 6/27/2018 | Southern Trust Company, Inc. | Honeycomb Partners LP | $10,000,000 | DB-SDNY-0007348 |
+| 6/28/2018 | Southern Trust Company, Inc. | Honeycomb Partners LP | $5,000,000 | DB-SDNY-0007348 |
+| 9/5/2018 | Kyara Investments I | Southern Financial LLC | $11,392 | DB-SDNY-0007568 |
+| 9/28/2018 | Southern Trust Company, Inc. | Honeycomb Partners LP | $8,000,000 | DB-SDNY-0007623 |
+| 11/20/2018 | Southern Financial LLC | Coatue Enterprises LLC | $500,000 | DB-SDNY-0007748 |
+| 1/8/2019 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $2,500,000 | DB-SDNY-0007987 |
+| 3/13/2019 | The 2017 Caterpillar Trust | Honeycomb Ventures IV LP | $10,000,000 | DB-SDNY-0008151 |
+| 3/28/2019 | Southern Trust Company, Inc. | Honeycomb Partners LP | $10,000,000 | DB-SDNY-0008154 |
+| 4/17/2019 | Southern Trust Company, Inc. | Valar Globaal Fund III LP | $1,500,000 | DB-SDNY-0008222 |
+
+## Structured Fields
+*   **Dates:** 1/6/2017, 4/20/2017, 5/5/2017, 7/10/2017, 7/24/2017, 10/11/2017, 1/5/2018, 1/12/2018, 2/15/2018, 2/21/2018, 4/20/2018, 6/1/2018, 6/13/2018, 6/27/2018, 6/28/2018, 9/5/2018, 9/28/2018, 11/20/2018, 1/8/2019, 3/13/2019, 3/28/2019, 4/17/2019
+*   **Payers:** Boothbay Absolute Return Strategies LP, Southern Trust Company, Inc., Southern Financial LLC, Blockchain Capital IV, LP, Blockchain Capital III Digital Liquid Venture Fund, LP, Blockchain Capital Parallel Fund IV, LP, Neoteny 3 LP, Kyara Investments I, The 2017 Caterpillar Trust
+*   **Recipients:** Southern Financial LLC, Valar Globaal Fund III LP, Coatue Enterprises LLC, Honeycomb Ventures I LP, The 2017 Caterpillar Trust, Honeycomb Partners LP, Honeycomb Ventures IV LP
+*   **Bates Numbers:** DB-SDNY-0005951, DB-SDNY-0006240, DB-SDNY-000478, DB-SDNY-0006407, DB-SDNY-0006652, DB-SDNY-0006901, DB-SDNY-0006847, DB-SDNY-0006985, DB-SDNY-0006982, DB-SDNY-0007110, DB-SDNY-0007348, DB-SDNY-0007289, DB-SDNY-0007568, DB-SDNY-0007623, DB-SDNY-0007748, DB-SDNY-0007987, DB-SDNY-0008151, DB-SDNY-0008154, DB-SDNY-0008222
+*   **Document ID (Footer):** EFTA00027021
+*   **Amounts:** $10,000,000, $3,000,000, $500,000, $1,000,000, $4,250,000, $2,250,000, $1,500,000, $500,000, $10,500,000, $2,625,000, $1,875,000, $30,000, $1,750,000, $10,000,000, $5,000,000, $11,392, $8,000,000, $2,500,000
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EXHIBIT C: CAPITALIZATION OF JEFFREY EPSTEIN'S NOW/SUPERNOW ACCOUNTS5
+
+| DATE | PAYER | RECIPIENT6 | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 10/11/2013 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $3,000,000 | DB-SDNY-0002926 |
+| 11/13/2013 | Barry Jay Josephson | [REDACTED] | $200,000 | DB-SDNY-0002992 |
+| 11/14/2013 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0002994 |
+| 12/20/2013 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0003427 |
+| 1/24/2014 | [REDACTED] | [REDACTED] | $225,000 | DB-SDNY-0003538 |
+| 1/30/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0003538 |
+| 2/18/2014 | Adam Bly | [REDACTED] | $7,500 | DB-SDNY-0003640 |
+| 2/20/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $4,000,000 | DB-SDNY-0003640 |
+| 3/18/2014 | Adam Bly | [REDACTED] | $3,500 | DB-SDNY-0003709 |
+| 4/11/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $3,400,000 | DB-SDNY-0003769 |
+| 5/6/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0003832 |
+| 5/16/2014 | Island Global Yachting LTD | [REDACTED] | $292,655 | DB-SDNY-0003833 |
+| 5/21/2014 | Michelle Saipher / Darren Indyke | [REDACTED] | $698,000 | DB-SDNY-0003833 |
+| 5/21/2014 | Michelle Saipher / Darren Indyke | [REDACTED] | $525,000 | DB-SDNY-0003834 |
+| 6/11/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $3,000,000 | DB-SDNY-0003896 |
+| 7/16/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0003960 |
+| 8/19/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,500,000 | DB-SDNY-0004022 |
+| 9/17/2014 | Adam Bly | [REDACTED] | $3,000 | DB-SDNY-0004074 |
+| 10/2/2014 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,500,000 | DB-SDNY-0004126 |
+| 10/15/2014 | Adam Bly | [REDACTED] | $3,000 | DB-SDNY-0004127 |
+| 11/14/2014 | Adam Bly | [REDACTED] | $7,500 | DB-SDNY-0004183 |
+| 11/17/2014 | Jeffrey E Epstein c/o HBRK Associates (Non-DB Account) | [REDACTED] | $1,928,647 | DB-SDNY-0004183 |
+| 11/21/2014 | Adam Bly | [REDACTED] | $100,000 | DB-SDNY-0004184 |
+| 1/5/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,500,000 | DB-SDNY-0004296 |
+
+According to KYC records, Jeffrey Epstein used the Now/SuperNow accounts (also referred to as “Elite Checking with Interest”) for his “personal daily use.” See DB- SDNY-0002607. The attached chart reflects incoming wire transfers from Deutsche Bank brokerage accounts and accounts held at third party financial institutions. The chart does not capture internal cash transfers between Deutsche Bank deposit accounts.
+
+In early 2016, Jeffrey Epstein moved his assets from one Now/SuperNow account to a different Now/SuperNow account. We are still unclear as to why this transition occurred, but expect electronic communications to provide additional insight. To date, the only functional difference between the two accounts that we have identified is the account number, which is reflected in the “Recipient” column.
+
+EFTA00027022
+
+## Structured Fields
+- **Case ID / Bates #:** DB-SDNY-0002926, DB-SDNY-0002992, DB-SDNY-0002994, DB-SDNY-0003427, DB-SDNY-0003538, DB-SDNY-0003640, DB-SDNY-0003709, DB-SDNY-0003769, DB-SDNY-0003832, DB-SDNY-0003833, DB-SDNY-0003834, DB-SDNY-0003896, DB-SDNY-0003960, DB-SDNY-0004022, DB-SDNY-0004074, DB-SDNY-0004126, DB-SDNY-0004127, DB-SDNY-0004183, DB-SDNY-0004184, DB-SDNY-0004296
+- **Reference Document:** DB-SDNY-0002607
+- **Names:** Jeffrey Epstein, Barry Jay Josephson, Adam Bly, Michelle Saipher, Darren Indyke
+- **Organizations:** Jeepers Inc., HBRK Associates, Island Global Yachting LTD, Deutsche Bank
+- **Date Range:** 10/11/2013 - 1/5/2015
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TABLE
+DATE | PAYER | RECIPIENT⁶ | AMOUNT | BATES #
+2/10/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004359
+3/9/2015 | Adam Bly | [REDACTED] | $10,484 | DB-SDNY-0004431
+3/13/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004431
+3/27/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004432
+4/16/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004509
+5/18/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004587
+6/3/2015 | Adam Bly | [REDACTED] | $10,484 | DB-SDNY-0004665
+6/12/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004665
+7/6/2015 | AIC Title Agency | [REDACTED] | $2,000,000 | DB-SDNY-0004735
+7/9/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $3,200,000 | DB-SDNY-0004736
+8/13/2015 | Seed Media Group | [REDACTED] | $170,000 | DB-SDNY-0004806
+8/20/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004807
+10/7/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0004937
+10/19/2015 | Stone & Magnanini LLP | [REDACTED] | $1,000,000 | DB-SDNY-0004937
+10/29/2015 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,500,000 | DB-SDNY-0004938
+11/13/2015 | Kellerhals Ferguson Kroblin PLLC | [REDACTED] | $23,000,000 | DB-SDNY-0005003
+1/8/2016 | The Haze Trust (DB Brokerage Account) | [REDACTED] | $20,000,000 | DB-SDNY-0005135
+2/2/2016 | Kellerhals Ferguson Kroblin PLLC | [REDACTED] | $75,000 | DB-SDNY-0005201
+4/19/2016 | Gol Muchnik | [REDACTED] | $500,000 | DB-SDNY-0005342
+9/9/2016 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0005683
+9/28/2016 | Jeffrey Epstein (Non-DB Account) | [REDACTED] | $700,000 | DB-SDNY-0005684
+10/7/2016 | Delson International Inc. | [REDACTED] | $50,000 | DB-SDNY-0005747
+10/26/2016 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $2,000,000 | DB-SDNY-0005748
+10/27/2016 | Delson International Inc. | [REDACTED] | $50,574 | DB-SDNY-0005749
+7/18/2017 | Sultan Bin Sulayem | [REDACTED] | $6,200 | DB-SDNY-0006349
+10/26/2017 | Jamie Mitchell | [REDACTED] | $100,000 | DB-SDNY-0006594
+12/20/2017 | NLR Resorts International LLC | [REDACTED] | $50,000 | DB-SDNY-0006756
+1/16/2018 | NLR Resorts International LLC | [REDACTED] | $25,000 | DB-SDNY-0006839
+1/23/2018 | NLR Resorts International LLC | [REDACTED] | $25,000 | DB-SDNY-0006839
+3/30/2018 | David J Mitchell | [REDACTED] | $50,000 | DB-SDNY-0007012
+9/18/2018 | David J Mitchell | [REDACTED] | $50,000 | DB-SDNY-0007561
+9/28/2018 | Jeffrey Epstein (Non-DB Account) | [REDACTED] | $700,000 | DB-SDNY-0006510
+
+EFTA00027023
+
+## Structured Fields
+*   **Date Range:** 2/10/2015 – 9/28/2018
+*   **Organizations:** Jeepers Inc., AIC Title Agency, Seed Media Group, Stone & Magnanini LLP, Kellerhals Ferguson Kroblin PLLC, The Haze Trust, Delson International Inc., NLR Resorts International LLC.
+*   **Individuals/Names:** Adam Bly, Gol Muchnik, Jeffrey Epstein, Sultan Bin Sulayem, Jamie Mitchell, David J Mitchell.
+*   **Doc IDs (Bates Numbers):** DB-SDNY-0004359 through DB-SDNY-0007561 (approximate range).
+*   **Locations:** [IMPLIED: SDNY - Southern District of New York based on Bates Prefix]
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+| DATE | PAYER | RECIPIENT^6 | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 10/11/2018 | David J Mitchell | [REDACTED] | $125,000 | DB-SDNY-0007651 |
+| 10/24/2018 | David J Mitchell | [REDACTED] | $10,000 | DB-SDNY-0007652 |
+| 10/25/2018 | Link Rockenbach P.A. | [REDACTED] | $3,000,000 | DB-SDNY-0007653 |
+| 11/9/2018 | David J Mitchell | [REDACTED] | $80,000 | DB-SDNY-0007741 |
+| 12/13/2018 | David J Mitchell | [REDACTED] | $50,000 | DB-SDNY-0007834 |
+| 1/10/2019 | David J Mitchell | [REDACTED] | $100,000 | DB-SDNY-0007924 |
+| 1/11/2019 | Jeffrey Epstein (Non-DB Account) | [REDACTED] | $100,000 | DB-SDNY-0007924 |
+| 2/7/2019 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $3,276,640 | DB-SDNY-0008016 |
+| 3/5/2019 | David J Mitchell | [REDACTED] | $25,000 | DB-SDNY-0008097 |
+| 3/5/2019 | David J Mitchell | [REDACTED] | $14,000 | DB-SDNY-0008097 |
+| 3/5/2019 | David J Mitchell | [REDACTED] | $4,000 | DB-SDNY-0008097 |
+| 3/18/2019 | David J Mitchell | [REDACTED] | $5,500 | DB-SDNY-0008099 |
+| 4/1/2019 | David J Mitchell | [REDACTED] | $3,000 | DB-SDNY-0008179 |
+| 4/2/2019 | [REDACTED] | [REDACTED] | $54,000 | DB-SDNY-0008180 |
+| 4/11/2019 | David J Mitchell | [REDACTED] | $7,800 | DB-SDNY-0008181 |
+| 4/12/2019 | David J Mitchell | [REDACTED] | $2,200 | DB-SDNY-0008181 |
+
+## Structured Fields
+- **Document ID:** EFTA00027024
+- **Names:**
+  - David J Mitchell
+  - Jeffrey Epstein
+  - Link Rockenbach P.A.
+- **Organizations:**
+  - Jeepers Inc. (DB Brokerage Account)
+- **Date Range:** 10/11/2018 – 4/12/2019
+- **Bates Number Range:** DB-SDNY-0007651 – DB-SDNY-0008181
+</think>
+
+| DATE | PAYER | RECIPIENT^6 | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 10/11/2018 | David J Mitchell | [REDACTED] | $125,000 | DB-SDNY-0007651 |
+| 10/24/2018 | David J Mitchell | [REDACTED] | $10,000 | DB-SDNY-0007652 |
+| 10/25/2018 | Link Rockenbach P.A. | [REDACTED] | $3,000,000 | DB-SDNY-0007653 |
+| 11/9/2018 | David J Mitchell | [REDACTED] | $80,000 | DB-SDNY-0007741 |
+| 12/13/2018 | David J Mitchell | [REDACTED] | $50,000 | DB-SDNY-0007834 |
+| 1/10/2019 | David J Mitchell | [REDACTED] | $100,000 | DB-SDNY-0007924 |
+| 1/11/2019 | Jeffrey Epstein (Non-DB Account) | [REDACTED] | $100,000 | DB-SDNY-0007924 |
+| 2/7/2019 | Jeepers Inc. (DB Brokerage Account) | [REDACTED] | $3,276,640 | DB-SDNY-0008016 |
+| 3/5/2019 | David J Mitchell | [REDACTED] | $25,000 | DB-SDNY-0008097 |
+| 3/5/2019 | David J Mitchell | [REDACTED] | $14,000 | DB-SDNY-0008097 |
+| 3/5/2019 | David J Mitchell | [REDACTED] | $4,000 | DB-SDNY-0008097 |
+| 3/18/2019 | David J Mitchell | [REDACTED] | $5,500 | DB-SDNY-0008099 |
+| 4/1/2019 | David J Mitchell | [REDACTED] | $3,000 | DB-SDNY-0008179 |
+| 4/2/2019 | [REDACTED] | [REDACTED] | $54,000 | DB-SDNY-0008180 |
+| 4/11/2019 | David J Mitchell | [REDACTED] | $7,800 | DB-SDNY-0008181 |
+| 4/12/2019 | David J Mitchell | [REDACTED] | $2,200 | DB-SDNY-0008181 |
+
+## Structured Fields
+- **Document ID:** EFTA00027024
+- **Date Range:** 10/11/2018 – 4/12/2019
+- **Entities/Payers:**
+  - David J Mitchell
+  - Link Rockenbach P.A.
+  - Jeffrey Epstein (Non-DB Account)
+  - Jeepers Inc. (DB Brokerage Account)
+- **Document IDs (Bates #):**
+  - DB-SDNY-0007651
+  - DB-SDNY-0007652
+  - DB-SDNY-0007653
+  - DB-SDNY-0007741
+  - DB-SDNY-0007834
+  - DB-SDNY-0007924
+  - DB-SDNY-0008016
+  - DB-SDNY-0008097
+  - DB-SDNY-0008099
+  - DB-SDNY-0008179
+  - DB-SDNY-0008180
+  - DB-SDNY-0008181
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EXHIBIT D: TRANSACTIONS INVOLVING THE HAZE TRUST ACCOUNTS^7
+
+| DATE | PAYER | RECIPIENT | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 3/10/2017 | The Haze Trust Brokerage ([REDACTED]) | The Haze Trust Checking ([REDACTED]) | $36,000,000 | DB-SDNY-0006153 |
+| 3/10/2017 | The Haze Trust Checking ([REDACTED]) | The Haze Trust DBAGNY ([REDACTED]) | $35,999,000 | DB-SDNY-0006153 |
+| 3/27/2017 | The Haze Trust DBAGNY ([REDACTED]) | Plan D, LLC Checking ([REDACTED]) | $15,000,000 | DB-SDNY-0006168 |
+| 6/19/2017 | Christie's Inc. | The Haze Trust Checking ([REDACTED]) | $7,725,000 | DB-SDNY-0006320 |
+| 9/25/2017 | Sotheby's | The Haze Trust Checking ([REDACTED]) | $11,536,544 | DB-SDNY-0006565 |
+| 9/26/2017 | The Haze Trust Checking ([REDACTED]) | The Haze Trust DBAGNY ([REDACTED]) | $15,000,000 | DB-SDNY-0006565 |
+| 10/24/2017 | Sotheby's | The Haze Trust Checking ([REDACTED]) | $11,249,417 | DB-SDNY-0006646 |
+| 10/26/2017 | The Haze Trust Checking ([REDACTED]) | The Haze Trust DBAGNY ([REDACTED]) | $13,000,000 | DB-SDNY-0006646 |
+| 6/22/2018 | The Haze Trust DBAGNY ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $9,000,000 | DB-SDNY-0007361 |
+| 8/20/2018 | The Haze Trust DBAGNY ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $5,000,000 | DB-SDNY-0007544 |
+| 9/17/2018 | The Haze Trust DBAGNY ([REDACTED]) | Southern Financial LLC DBAGNY ([REDACTED]) | $5,000,000 | DB-SDNY-0007635 |
+| 9/28/2018 | The Haze Trust DBAGNY ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $8,000,000 | DB-SDNY-0007635 |
+| 10/1/2018 | The Haze Trust DBAGNY ([REDACTED]) | Southern Trust Company Checking ([REDACTED]) | $10,000,000 | DB-SDNY-0007725 |
+| 10/24/2018 | The Haze Trust DBAGNY ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $5,000,000 | DB-SDNY-0007725 |
+| 11/20/2018 | The Haze Trust Checking ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $2,500,000 | DB-SDNY-0007798 |
+| 12/13/2018 | HSBC Bank Bermuda Limited 11 | The Haze Trust Checking ([REDACTED]) | $58,328 | DB-SDNY-0007888 |
+| 12/19/2018 | The Haze Trust DBAGNY ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $5,000,000 | DB-SDNY-0007908 |
+| 1/10/2019 | The Haze Trust DBAGNY ([REDACTED]) | The Haze Trust Checking ([REDACTED]) | $2,727,941 | DB-SDNY-0007979 |
+| 1/10/2019 | The Haze Trust Brokerage ([REDACTED]) | The Haze Trust Checking ([REDACTED]) | $6,000,000 | DB-SDNY-0007979 |
+| 2/7/2019 | The Haze Trust Checking ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $8,791,283 | DB-SDNY-0008063 |
+| 2/19/2019 | The Haze Trust Brokerage ([REDACTED]) | The Haze Trust Checking ([REDACTED]) | $12,608,253 | DB-SDNY-0008064 |
+| 2/19/2019 | The Haze Trust Brokerage ([REDACTED]) | The Haze Trust Checking ([REDACTED]) | $167,414 | DB-SDNY-0008064 |
+| 2/19/2019 | Southern Financial LLC Checking ([REDACTED]) | The Haze Trust Checking ([REDACTED]) | $11,715,364 | DB-SDNY-0008063 |
+| 2/19/2019 | Jeffrey Epstein Checking ([REDACTED]) | The Haze Trust Checking ([REDACTED]) | $7,000,000 | DB-SDNY-0008063 |
+| 2/22/2019 | The Haze Trust Checking ([REDACTED]) | Jeffrey Epstein Checking ([REDACTED]) | $7,000,000 | DB-SDNY-0008063 |
+| 2/22/2019 | The Haze Trust Checking ([REDACTED]) | Southern Financial LLC Checking ([REDACTED]) | $24,564,037 | DB-SDNY-0008063 |
+
+^7 The below chart reflects the flow of money through two deposit accounts and one brokerage account belonging to "The Haze Trust." The Haze Trust Checking account was opened with Deutsche Bank Trust Company Americas. The Haze Trust DBAGNY account was opened with Deutsche Bank's New York branch office. The latter account offers higher interest rates than the former. We have yet to determine how the Haze Trust Brokerage account was initially capitalized.
+EFTA00027025
+
+## Structured Fields
+- **Exhibit ID:** Exhibit D
+- **Document ID (Footer):** EFTA00027025
+- **Case Reference Pattern:** DB-SDNY (suggests District Attorney - Southern District of New York)
+- **Primary Entity:** The Haze Trust
+- **Related Entities:**
+  - The Haze Trust Brokerage
+  - The Haze Trust Checking
+  - The Haze Trust DBAGNY (Deutsche Bank AG NY)
+  - Plan D, LLC
+  - Christie's Inc.
+  - Sotheby's
+  - Southern Financial LLC
+  - Southern Financial LLC DBAGNY
+  - Southern Trust Company
+  - HSBC Bank Bermuda Limited
+  - Jeffrey Epstein
+- **Banking Institutions:**
+  - Deutsche Bank Trust Company Americas
+  - Deutsche Bank (New York branch office)
+</think>
+
+## Structured Fields
+
+- **Document Type:** Exhibit D (Transaction Log)
+- **Document ID:** EFTA00027025
+- **Primary Entity:** The Haze Trust
+- **Associated Accounts:**
+  - The Haze Trust Brokerage
+  - The Haze Trust Checking (Deutsche Bank Trust Company Americas)
+  - The Haze Trust DBAGNY (Deutsche Bank NY)
+- **Related Individuals/Names:**
+  - Jeffrey Epstein
+- **External Organizations/Merchants:**
+  - Christie's Inc.
+  - Sotheby's
+  - Plan D, LLC
+  - Southern Financial LLC
+  - Southern Trust Company
+  - HSBC Bank Bermuda Limited
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EXHIBIT E: TRANSACTIONS INVOLVING GRATITUDE AMERICA MONEY MARKET DEPOSIT ACCOUNT (“MMDA”)⁸
+
+| DATE | PAYER | RECIPIENT | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 10/14/2015 | BV70 LLC | Gratitude America, LTD ( [REDACTED] ) | $10,000,000 | DB-SDNY-0004999 |
+| 1/7/2016 | Gratitude America MMDA ( [REDACTED] ) | Bruce and Marsha Moskowitz Foundation⁹ | $50,000 | DB-SDNY-0005198 |
+| | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Ltd (First Bank of Puerto Rico) | | DB-SDNY-0005198 |
+| 1/21/2016 | Gratitude America MMDA ( [REDACTED] ) | Melanoma Research Alliance Foundation | $225,000 | DB-SDNY-0005198 |
+| 1/29/2016 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $150,000 | DB-SDNY-0005264 |
+| 3/2/2016 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Ltd. (Morgan Stanley / Citibank)¹⁰ | $5,000,000 | DB-SDNY-0005334 |
+| 3/8/2016 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $250,000 | DB-SDNY-0005334 |
+| 3/8/2016 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $250,000 | DB-SDNY-0005334 |
+| 4/6/2016 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Ltd (First Bank of Puerto Rico) | $250,000 | DB-SDNY-0005401 |
+| 7/12/2016 | Gratitude America MMDA ( [REDACTED] ) | Bruce and Marsha Moskowitz Foundation | $50,000 | DB-SDNY-0005605 |
+| 7/14/2016 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Ltd. (Morgan Stanley / Citibank) | $2,000,000 | DB-SDNY-0005605 |
+| 7/19/2016 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Ltd. (Morgan Stanley / Citibank) | $500,000 | DB-SDNY-0005605 |
+| 1/20/2017 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $200,000 | DB-SDNY-0006006 |
+| 3/6/2017 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $250,000 | DB-SDNY-0006165 |
+| 6/1/2017 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $250,000 | DB-SDNY-0006333 |
+| 6/7/2017 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $200,000 | DB-SDNY-0006333 |
+| 10/2/2017 | Gratitude America MMDA ( [REDACTED] ) | Cancer Research Wellness Institute | $25,000 | DB-SDNY-0006658 |
+| 11/1/2017 | Gratitude America MMDA ( [REDACTED] ) | Gratitude America Checking ( [REDACTED] ) | $50,000 | DB-SDNY-0006739 |
+
+⁸ The Gratitude America MMDA was primarily capitalized via a $10 million deposit from BV70 LLC. Bloomberg has reported that Leon Black controls BV70 LLC. See Tom Metcalf, Jeffrey Epstein’s Endgame: One Last Shot to Stay in Wall Street’s Favor, Bloomberg (August 6, 2019), available at: https://www.bloomberg.com/news/articles/2019-08-06/epstein-s-endgame-one-last-shot-to-stay-in-wall-street-s-favor. Exhibit E demonstrates how those funds were spent.
+⁹ Account statements reflect that this payment was made to “First Clearing LLC.” However, wire records clarify that the payment was intended for the Bruce and Marsha Moskowitz Foundation. See DB-SDNY-0000478.
+¹⁰ Account statements reflect that his payment was made to “Morgan Stanley.” However, wire records indicate that the payment was intended for an account held by Gratitude America Ltd. See DB-SDNY-0000478.
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+| DATE | PAYER | RECIPIENT | AMOUNT | BATES # |
+| :--- | :--- | :--- | :--- | :--- |
+| 11/1/2017 | Gratitude America MMDA ([REDACTED]) | Gratitude America Checking ([REDACTED]) | $100,000 | DB-SDNY-0006739 |
+| 11/13/2017 | Gratitude America MMDA ([REDACTED]) | Gratitude America Checking ([REDACTED]) | $100,000 | DB-SDNY-0006739 |
+| 12/6/2017 | Gratitude America MMDA ([REDACTED]) | Bruce and Marsha Moskowitz Foundation | $50,000 | DB-SDNY-0006822 |
+| 12/11/2017 | Gratitude America MMDA ([REDACTED]) | Gratitude America Ltd (First Bank of Puerto Rico) | $150,000 | DB-SDNY-0006822 |
+| 12/11/2017 | Gratitude America Checking ([REDACTED]) | Gratitude America MMDA ([REDACTED]) | $2,500,000 | DB-SDNY-0006822 |
+| 1/30/2018 | Gratitude America MMDA ([REDACTED]) | Gratitude America Checking ([REDACTED]) | $2,000,000 | DB-SDNY-0006907 |
+| 2/28/2018 | Gratitude America MMDA ([REDACTED]) | Cancer Reasearch Wellness Institute | $25,000 | DB-SDNY-0006991 |
+| 4/2/2018 | Gratitude America MMDA ([REDACTED]) | NPO Baleto Teatras | $18,493 | DB-SDNY-0007170 |
+| 9/17/2018 | Gratitude America MMDA ([REDACTED]) | VSJ Baleto Teatras | $10,000 | DB-SDNY-0007629 |
+| 1/10/2019 | Gratitude America MMDA ([REDACTED]) | Gratitude America Checking ([REDACTED]) | $314,876 | DB-SDNY-0007994 |
+
+## Structured Fields
+*   **Dates:** 11/1/2017, 11/13/2017, 12/6/2017, 12/11/2017 (x2), 1/30/2018, 2/28/2018, 4/2/2018, 9/17/2018, 1/10/2019
+*   **Doc IDs / Bates Numbers:** DB-SDNY-0006739, DB-SDNY-0006822, DB-SDNY-0006907, DB-SDNY-0006991, DB-SDNY-0007170, DB-SDNY-0007629, DB-SDNY-0007994
+*   **Organizations / Entities:**
+    *   Gratitude America MMDA
+    *   Gratitude America Checking
+    *   Bruce and Marsha Moskowitz Foundation
+    *   Gratitude America Ltd (First Bank of Puerto Rico)
+    *   Cancer Reasearch Wellness Institute
+    *   NPO Baleto Teatras
+    *   VSJ Baleto Teatras
+*   **File ID / Reference:** EFTA00027027
+

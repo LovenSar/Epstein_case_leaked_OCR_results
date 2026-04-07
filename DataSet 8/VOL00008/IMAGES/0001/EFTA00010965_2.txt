@@ -1,0 +1,125 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010965.pdf ts=2026-03-10T09:05:28 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing two corresponding messages regarding legal proceedings for the case *US v. Maxwell*. The interface appears to be a standard email client or a document viewer displaying headers and bodies of emails. Heavy black redaction bars obscure sender names, recipient lists, and specific signature lines.
+
+**Top Email Section:**
+- This section represents a reply email sent on Friday, July 10, 2020.
+- The header fields "From" and "To" are obscured by thick black rectangles.
+- Below the redacted headers is the subject line, date, attachment list, and inline image listing.
+- The body of text begins with a salutation "Good morning," followed by blue hyperlinked-style text.
+- The text requests docketing of a "superseding indictment" on ECF (Electronic Case Filing) to ensure notice before an upcoming arraignment.
+- A statement confirms that a color scan of the signed indictment is attached.
+- The sign-off "Thank you," is followed by another large redacted black bar covering the name.
+
+**Bottom Email Section:**
+- This section represents the original email sent on Wednesday, July 8, 2020.
+- The sender's name is redacted, but a timestamp indicates it was sent at 12:28 PM.
+- The recipient list ("To") is heavily redacted across the width of the page.
+- The "Cc" field shows two redacted email addresses separated by an angle bracket `< >`.
+- The subject line matches the reply above but lacks the "RE:" prefix.
+- The body starts with "Good afternoon," followed by blue text describing the attached grand jury return.
+- The text mentions the matter was "wheeled out to Judge Nathan in Manhattan."
+- It clarifies that the superseding indictment is unsealed and notes there are no warrants.
+- The sign-off "Best Regards," precedes a large black redaction box.
+- Below the redaction is a typed signature block identifying the sender as an "Assistant United States Attorney" from the "United States Attorney’s Office Southern District of New York".
+- An address line starting with "New York, New York 10007" is visible above another redacted box.
+- At the very bottom right corner, a faint code "EFTA00010965" is visible.
+
+## Visible Text (verbatim)
+
+**Top Email Header:**
+- From: [Redacted]
+- To: [Redacted]
+- Subject: RE: Grand Jury Return - US v. Maxwell, S1 20 Cr. 330 (AJN)
+- Date: Fri, 10 Jul 2020 13:20:22 +0000
+- Attachments: Maxwell_Superseding_Indictment_-_S1_20_Cr._330_(AJN).pdf
+- Inline-Images: image001.png
+
+**Top Email Body:**
+- Good morning,
+- This superseding indictment does not appear to have been docketed on ECF. Would it be possible to please docket it today so that the Court and the defendant have notice of the new indictment before next week’s arraignment?
+- I have attached a color scan of the signed indictment, which can be filed.
+- Thank you,
+
+**Bottom Email Header:**
+- From: [Redacted]
+- Sent: Wednesday, July 8, 2020 12:28 PM
+- To: [Redacted]
+- Cc: [Redacted] <[Redacted]>
+- Subject: Grand Jury Return - US v. Maxwell, S1 20 Cr. 330 (AJN)
+
+**Bottom Email Body:**
+- Good afternoon,
+- Attached is the grand jury return for US v. Maxwell, which was previously wheeled out to Judge Nathan in Manhattan. The superseding indictment is unsealed. There are no warrants for this matter.
+- Best Regards,
+
+**Bottom Email Signature Block:**
+- Assistant United States Attorney
+- United States Attorney’s Office
+- Southern District of New York
+- [Redacted]
+- New York, New York 10007
+
+**Footer:**
+- EFTA00010965
+
+## Notable Details / Clues
+- **Legal Case Context:** The email thread pertains to a federal criminal case (*US v. Maxwell*), likely involving the high-profile Sarah Vaughan Maxwell case, given the docket number *S1 20 Cr. 330* in the Southern District of New York.
+- **Procedural Request:** The sender is urgently requesting that a document be "docketed on ECF" (Electronic Case Filing) by the court clerk or administrator before the next week's arraignment to ensure proper notice.
+- **Judicial Jurisdiction:** The text mentions "Judge Nathan in Manhattan," confirming the venue as the U.S. District Court for the Southern District of New York.
+- **Document Status:** The email explicitly states the superseding indictment is "unsealed," which is a critical procedural step allowing public access to the charges.
+- **Warrant Information:** A specific note confirms "There are no warrants for this matter," indicating the defendant was likely arrested on other charges or surrendered voluntarily.
+- **Timestamp Discrepancy:** The reply email is dated July 10, 2020, while the original email was sent July 8, 2020. This creates a timeline where the grand jury returned documents two days prior to the follow-up request.
+- **EFTA Stamp:** The code "EFTA00010965" at the bottom right suggests this document is part of an archived federal email trail (Electronic Federal Archive), commonly used in FOIA requests or legal discovery.
+- **Attachment Names:** The attachment filename *Maxwell_Superseding_Indictment_-_S1_20_Cr._330_(AJN).pdf* confirms the legal filing status and docket number alignment.
+- **Redaction Level:** The redactions are heavy, particularly over names, but specific details like the office address (Southern District of New York, NY 10007) remain visible, identifying the sending agency as a federal prosecutor's office.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image consists almost entirely of a solid black rectangular field that fills the majority of the frame.
+- There are no visible illustrations, photographs, handwritten signatures, or graphical elements in the main body of the page.
+- The lighting is uniform and devoid of gradients, suggesting a digital scan or a printed black overlay rather than natural shading.
+- The document appears to be oriented vertically in standard portrait mode.
+- No paper texture, grain, or creases are visible due to the high contrast of the black background.
+- The black area extends from the top edge down to near the very bottom of the image, leaving only a tiny sliver of space for text at the bottom right.
+
+## Visible Text (verbatim)
+- EFTA00010966
+
+## Notable Details / Clues
+- The single visible text string "EFTA00010966" is located in the extreme bottom-right corner, aligned with the right margin and bottom edge.
+- The text appears to be white or a very light gray, creating high contrast against the black background.
+- This alphanumeric code functions as a document control number or filing reference.
+- The prefix "EFTA" likely refers to an administrative body or organization code (such as the European Free Trade Association).
+- The visual dominance of the black background suggests this is either a blank separator page, a back cover, or a page that has been heavily redacted with solid black bars obscuring all original content.
+- The lack of headers or footers beyond this single ID number indicates a stripped-down document format.
+- The text uses a standard sans-serif font typical of official government or corporate letterheads.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The visual field is dominated by a solid, near-uniform black background that occupies nearly the entire frame.
+*   There are no discernible objects, figures, landscapes, or interior settings visible within the main body of the image.
+*   The darkness is consistent, suggesting either a completely blank page (back cover) or an area outside the boundaries of the printed content on a document.
+*   In the extreme bottom-right corner, there is a small strip of white text set against the black background.
+*   The text appears to be a unique identification code rather than a title or name.
+*   The font used for the text is a clean, sans-serif typeface with uniform stroke width.
+*   There are no visible decorative elements, borders, or graphical designs surrounding the text block.
+*   The aspect ratio of the image is vertical, resembling a standard portrait-oriented document page (likely A4 or Letter size).
+*   No other markings, watermarks, or faint graphics are detectable against the dark field.
+*   The contrast is extremely high between the white characters and the black background, making the text sharp and legible despite its small size.
+
+## Visible Text (verbatim)
+EFTA00010967
+
+## Notable Details / Clues
+*   The prefix "EFTA" strongly suggests this document relates to the European Free Trade Association or a specific organization using that acronym.
+*   The sequence "00010967" indicates this is likely a sequential document ID, suggesting it is part of a larger set of official papers.
+*   The location of the text in the bottom margin is typical for document numbering systems (like Bates stamps or official filing references).
+*   The lack of other imagery implies this could be a back cover page, a spacer page between chapters, or the reverse side of the title page where no printing occurred.
+*   There is no evidence of page numbers visible other than the specific code in the corner.
+

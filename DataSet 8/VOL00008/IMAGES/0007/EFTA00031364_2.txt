@@ -1,0 +1,87 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031364.pdf ts=2026-03-19T04:09:06 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Executed: 12/10/2018 14:25                                                                                       Executed by: NYPDFINEST
+[Logo]                                                                                                             [Logo]
+**New York City Police Department**
+**911**
+
+Job Number:                             13090419545                                     Date:                           9/4/2013                                   Priority:                     3
+Occurence Precinct:                    019                                          Assigned Precinct:             19
+Create Time:                           19:21                                        Disposition Time:              9/4/2013 19:35
+
+**Address**
+Street Number:                         [REDACTED]                                     Apartment:                       Place:                           :
+Street Name:                          [REDACTED]                                      Cross Street:                    5 AVE                             Intersecting Street:          MADISON AVE
+
+**Narrative**
+{09/04/2013 19:21:35} ANI-ALI-6462438517 FIXED ATTMO 8006356840 OPT4 [REDACTED] MANHATTAN COS:WPH2 LAT: 040.771669 LON:-
+073.966184 OPER
+{09/04/2013 19:21:59} AIDED FEM HAVING DIFF BREATHING 60 YO CB [REDACTED]
+
+**Details**
+Current Radio Code:                    54S1 - AMBULANCE CASE: SERIOUS/INSIDE           Orig. Radio Code:               54S1 - AMBULANCE CASE: SERIOUS/INSIDE
+Resource Count:                        0                                               HSE Property Indicator:         N                                 Transit Indicator:            N
+Caller Name:                           FIXED ATMTO                                     Caller Phone:                   [REDACTED]                       Caller City:
+8006356840 OPT4                                                                                                                             
+Caller Address:                        [REDACTED]                                                                                Comment:
+
+**Resources**
+Time                                   Agency                                  Resource
+Dispositions                                                                    Time                                    Agency                          Disposition          Resource     Active
+9/4/2013 19:39:08                      EMS AMBULANCE                           CANCELEV                               Y
+9/4/2013 19:35:15                      PATROL (D)                              CANCELEV                               Y
+
+[Map Image]
+Lake
+Central Park
+Terrace Dr
+The Mall
+Center Dr
+Manhattan
+Park Dr N
+Frick Collection
+5th Ave
+Madison Ave
+Park Ave
+Lexington Ave
+E 69th St
+E 70th St (implied)
+E 71st (implied)
+E 72nd St
+E 73rd St
+E 74th St
+E 75th St
+E 76th St
+E 77th St
+E 78th St
+
+Page 1 of 2                                                                                                    EFTA00031364
+
+## Structured Fields
+- **Case ID/Job Number:** 13090419545
+- **Date:** 9/4/2013
+- **Executed By:** NYPDFINEST
+- **Execution Timestamp (Header):** 12/10/2018 14:25
+- **Priority:** 3
+- **Occurrence Precinct:** 019
+- **Assigned Precinct:** 19
+- **Caller Name:** FIXED ATMTO 8006356840 OPT4
+- **Radio Code:** 54S1 - AMBULANCE CASE: SERIOUS/INSIDE
+- **HSE Property Indicator:** N
+- **Dispositions:**
+    - EMS AMBULANCE: CANCELLED (CANCELEV) at 19:39:08
+    - PATROL (D): CANCELLED (CANCELEV) at 19:35:15
+- **Location/MAP:** Manhattan, NY. Intersection of 5 Ave and Madison Ave. Near Central Park. Coordinates: LAT: 040.771669 LON:-073.966184.
+- **Redacted Info:** Street Name, Street Number, Caller Phone, Caller Address, Partial Narrative text (ANI/ALI ID, Operator details).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 2 of 2
+EFTA00031365
+
+## Structured Fields
+- Doc ID: EFTA00031365
+- Page: 2 of 2
+

@@ -1,0 +1,25 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00017710.pdf ts=2026-03-13T12:17:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Element:** The image is dominated by a large, solid black rectangle positioned centrally within the frame. This shape spans nearly the entire width of the image and occupies roughly the upper-middle two-thirds of the height.
+*   **Background:** Surrounding the central black shape is a plain, uniform white background that acts as a border. This negative space is consistent in color (RGB 255, 255, 255), creating a stark contrast with the foreground object.
+*   **Edges and Boundaries:** The black rectangle has perfectly straight, sharp edges along its top, bottom, left, and right sides. There are no curves, fades, or gradients visible within the black area or the white background.
+*   **Color Palette:** The visual content is strictly monochromatic, utilizing only pure black, pure white, and a single shade of dark grey found in the text.
+*   **Texture:** The image appears digitally generated or electronically scanned. There is no discernible grain, fabric texture, or photographic detail within the black area; it is visually flat and opaque.
+*   **Lighting:** The lighting conditions are neutral, indicated by the lack of shadows or highlights on the white border. The scene is evenly lit without directional light sources creating distinct shading.
+
+## Visible Text (verbatim)
+*   **Location:** Bottom right corner
+*   **Content:** EFTA00017710
+*   **Color/Font:** Dark grey sans-serif font, small point size relative to the image dimensions.
+
+## Notable Details / Clues
+*   **Redaction Indicator:** The solid black block is characteristic of a redaction overlay used in legal or government documents to cover sensitive information (names, addresses, social security numbers) before publication.
+*   **Document Origin:** The text "EFTA" likely stands for the European Free Trade Association. This suggests the document originates from an official body within that organization, such as the EFTA Surveillance Authority.
+*   **Bates Number:** The alphanumeric string following "EFTA" follows the standard format of a Bates number (identifier + sequential number), which is used by law firms and legal databases to track specific pages or exhibits during litigation and discovery processes.
+*   **Composition:** The layout is asymmetrical; the black box does not touch the top, bottom, or side margins (though it is very close to the right side in some scans, here there appears to be a thin margin), leaving visible white space around all sides.
+*   **File Type Implication:** The high contrast and digital cleanliness suggest this is likely a PDF scan or a digital image file rather than a photograph of paper.
+*   **Visual Hierarchy:** There is only one focal point: the massive black area. The text is secondary metadata, suggesting the "content" behind the black box is what the document is actually about, but currently obscured.
+

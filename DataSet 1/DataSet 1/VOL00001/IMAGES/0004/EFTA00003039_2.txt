@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003039.pdf ts=2026-03-06T00:31:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-angle shot of a white document form titled "Emergency Contact Form," which is placed on top of other documents within a binder or file folder. The paper rests on a dark, textured surface that appears to be a table or desk, with some scattered debris visible near the top edge. The left side of the image shows metal binder rings and the edges of tabbed index cards or dividers.
+
+The form is mostly blank, indicating it has not been fully filled out. At the very top, a handwritten note in pen reads "Declined to Complete" next to the printed company header. The header belongs to "LSJE, LLC" and lists an address in St. Thomas, VI (U.S. Virgin Islands), along with an email address. A black marker has been used to redact a phone number in the contact block.
+
+The form is divided into several sections with empty rectangular fields for data entry. The first section asks for dates (Today's Date, Start Date), Employee Name (filled in as Nicholas Victorin), and various contact details like physical address, cell phone, email, etc. The middle section includes fields for allergies/health concerns and blood type checkboxes (none selected). Below that are fields for current medications and two sets of doctor information (name and phone). The bottom section provides space for emergency contacts (up to two entries). A disclaimer at the very bottom states, "This information is for your safety and the safety of others." On the right side, a document ID code "EFTA00003039" is printed in black.
+
+## Visible Text (verbatim)
+**Header Area:**
+- "Declined to Complete" (Handwritten at top left)
+- "LSJE, LLC"
+- "6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348"
+- "Phone: [Redacted with black marker]"
+- "E-mail: thesaintjames.group@gmail.com"
+
+**Form Title:**
+- "Emergency Contact Form" (Underlined)
+
+**Form Fields:**
+- "Today's Date:"
+- "Start Date:"
+- "Employee Name: Nicholas Victorin"
+- "Date of Birth:"
+- "Physical Address:"
+- "Mailing Address:"
+- "Cell Phone:"
+- "Phone (other):"
+- "E-mail:"
+- "Marital Status:"
+- "Title/Position:"
+- "Driver's License No:"
+
+**Health Section:**
+- "Allergies or Health Concerns:"
+- "Blood type:"
+    - [ ] A-
+    - [ ] A+
+    - [ ] AB-
+    - [ ] AB+
+    - [ ] B-
+    - [ ] B+
+    - [ ] O-
+    - [ ] O+
+    - [ ] Unknown
+- "Current Medications:"
+
+**Medical Providers:**
+- "Doctor's Name:" (x2 instances)
+- "Doctor's Phone:" (x2 instances)
+
+**Emergency Section:**
+- "In case of emergency, please contact:"
+- "Name: [Box] Relationship: [Box] Phone: [Box]" (Row 1)
+- "Name: [Box] Relationship: [Box] Phone: [Box]" (Row 2)
+- "This information is for your safety and the safety of others."
+
+**Peripheral Text:**
+- Left edge tab letters: "...C", "E", "A", "P", "T", "Al", "Bl" (highlighted yellow), "Cu", "Dc", "In...", "Nar..."
+- Bottom right corner ID: "EFTA00003039"
+
+## Notable Details / Clues
+- **Incomplete Form:** Only two fields are filled with data: the company header information and the employee's name ("Nicholas Victorin").
+- **Handwritten Note:** The phrase "Declined to Complete" suggests the intended user refused or was unable to fill out the form, though the name is present which creates a slight contradiction or implies partial completion.
+- **Redacted Phone Number:** A black rectangular box covers the phone number in the company header, indicating privacy protection.
+- **Location Context:** The address "St. Thomas, VI" places this document in the U.S. Virgin Islands.
+- **Binder Context:** The presence of metal rings and colored tabs (specifically a yellow highlight on a "Bl" tab) indicates this document is part of an organized personnel or medical file system.
+- **Privacy Disclaimer:** The standard safety disclaimer at the bottom implies this form is designed for workplace health and safety compliance.
+- **Document ID:** The code "EFTA00003039" in the corner suggests a tracking number or database reference, likely from an employment or administrative agency (EFTA often relates to Employment Form Tracking Agency codes).
+

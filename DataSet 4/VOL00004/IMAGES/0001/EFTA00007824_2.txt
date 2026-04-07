@@ -1,0 +1,1485 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007824.pdf ts=2026-03-09T01:18:44 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+05-1005
+129442
+[REDACTED]
+4
+
+## Structured Fields
+- **Doc ID:** EFTA00007824
+- **Handwritten Number 1:** 05-1005
+- **Handwritten Number 2:** 129442
+- **Sticky Note Value:** 4
+- **Barcode Number:** 023552
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+18E	10 0018	18E	Earnings Statement [Logo: ADP EASYPAY]
+JEFFREY E. EPSTEIN	Pay Period:	5/14/2005 to	5/27/2005
+358 EL BRILLO WAY	Pay Date:	5/26/2005
+PALM BEACH, FL 33480
+	
+Employee Number:	[REDACTED]
+Department Number:	10	Social Security Number: [REDACTED]
+Social Security Number: [REDACTED]	Marital Status: SINGLE
+Marital Status:	SINGLE	Address Block (Right): [REDACTED] PALM BEACH, FL 33480
+Number Of Allowances:	01
+	
+[Table Header: Hours and Earnings]
+| Description | Hours | This Period | Year-To-Date |
+| :--- | :--- | :--- | :--- |
+| SALARY | | 2115.39 | 19038.49 |
+| G T L | | 8.49 | |
+
+[Table Header: Taxes and Deductions]
+| Description | This Period | Year-To-Date |
+| :--- | :--- | :--- |
+| FICA | 162.48 | 1461.64 |
+| FED WT | 350.01 | 3147.96 |
+
+Gross Pay Year To Date	$19,038.49
+Gross Pay This Period	$2,115.39
+Total Deductions This Period	$512.49
+Net Pay This Period	$1,602.90
+
+VERIFY DOCUMENT AUTHENTICITY - COLORED AREA MUST CHANGE IN TONE GRADUALLY AND EVENLY FROM DARK AT TOP TO LIGHTER AT BOTTOM
+JEFFREY E. EPSTEIN	Check Date: 5/26/2005	DEPOSIT
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+$1,602.90 DEPOSIT TO BANK# [REDACTED] CHK ACCT# [REDACTED]
+Pay To The Order Of	[REDACTED]
+[REDACTED] /PALM BEACH, FL 33480
+Pay This Amount $1602.90
+
+****VOID***********VOID****
+
+THIS IS NOT A CHECK
+VOUCHER ONLY - NON-NEGOTIABLE
+EFTA00007825
+```
+
+## Structured Fields
+- **Date:** 5/14/2005 to 5/27/2005 (Pay Period), 5/26/2005 (Pay Date)
+- **Case ID / Doc ID:** EFTA00007825
+- **Location:** PALM BEACH, FL 33480
+- **Name:** JEFFREY E. EPSTEIN
+- **Organization:** ADP EASYPAY, Automatic Data Processing, Inc.
+- **Department Number:** 10
+- **Marital Status:** SINGLE
+- **Allowances:** 01
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18E                      10 0018                 18E
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+**Employee Number:** [REDACTED]
+**Department Number:** 10
+**Social Security Number:** [REDACTED]
+**Marital Status:** SINGLE
+**Number Of Allowances:** 01
+**Rate:**
+
+| | Earnings Statement | ADP EASY PAY |
+| :--- | :--- | :--- |
+| **Pay Period:** | 3/05/2005 to 3/18/2005 | |
+| **Pay Date:** | 3/17/2005 | |
+| **Check #:** | 20194162 | |
+| [REDACTED] | | PALM BEACH, FL 33480 |
+
+| Hours and Earnings | | | |
+| :--- | :--- | :--- | :--- |
+| **Description** | **Hours** | **This Period** | **Year-To-Date** |
+| SALARY | | 2115.39 | 8461.54 |
+| G T L | 8.49 | | |
+
+| Taxes and Deductions | | |
+| :--- | :--- | :--- |
+| **Description** | **This Period** | **Year-To-Date** |
+| FICA | 162.48 | 649.26 |
+| FED WT | 350.01 | 1397.91 |
+
+| Gross Pay Year To Date | $8,461.54 |
+| :--- | :--- |
+| **Gross Pay This Period** | **$2,115.39** |
+| **Total Deductions This Period** | **$512.49** |
+| **Net Pay This Period** | **$1,602.90** |
+
+COPY
+EFTA00007826
+
+## Structured Fields
+- **Employee Name:** JEFFREY E. EPSTEIN
+- **Address:** 358 EL BRILLO WAY, PALM BEACH, FL 33480
+- **Pay Period:** 3/05/2005 to 3/18/2005
+- **Pay Date:** 3/17/2005
+- **Check Number:** 20194162
+- **Employee Department Number:** 10
+- **Marital Status:** SINGLE
+- **Allowances:** 01
+- **Gross Pay Year To Date:** $8,461.54
+- **Gross Pay This Period:** $2,115.39
+- **FICA (This Period):** $162.48
+- **FICA (Year-To-Date):** $649.26
+- **Federal Tax (This Period):** $350.01
+- **Federal Tax (Year-To-Date):** $1,397.91
+- **Total Deductions This Period:** $512.49
+- **Net Pay This Period:** $1,602.90
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18E                                    10 0018                                     18E
+
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+Earnings Statement                       ADP
+                                         EASYPAY
+
+Pay Period:       4/30/2005 to 5/13/2005
+Pay Date:         5/12/2005
+
+Employee Number:   [REDACTED]
+Department Number:   10
+Social Security Number: [REDACTED]
+Marital Status:      SINGLE
+Number Of Allowances: 01
+Rate:               
+
+                                      [REDACTED]
+                                      PALM BEACH, FL 33480
+
+Hours and Earnings                          Taxes and Deductions
+Description         Hours     This Period    Year-To-Date   Description  This Period   Year-To-Date
+SALARY                  2115.39               16923.10      FICA           162.47        1299.16
+G T L                   8.49
+
+Gross Pay Year To Date     $16,923.10   Gross Pay This Period      $2,115.39   Total Deductions This Period   $512.48   Net Pay This Period     $1,602.91
+
+VERIFY DOCUMENT AUTHENTICITY - COLORED AREA MUST CHANGE IN TONE GRADUALLY AND EVENLY FROM DARK AT TOP TO LIGHTER AT BOTTOM
+JEFFREY E. EPSTEIN                                                    DEPOSIT
+358 EL BRILLO WAY                                                     Check Date:      5/12/2005
+PALM BEACH, FL 33480
+
+$1,602.91 DEPOSIT TO BANK# [REDACTED]     CHK ACCT# [REDACTED]
+
+Pay To The Order Of    [REDACTED]   18E                               Pay This Amount       $1602.91
+                                                                PARM BEACH, FL 33480
+
+****VOID**********VOID****
+
+## Structured Fields
+- Date: 5/12/2005 (Pay Date / Check Date)
+- Period: 4/30/2005 to 5/13/2005
+- Name: Jeffrey E. Epstein
+- Address: 358 El Brillo Way, Palm Beach, FL 33480
+- Department Number: 10
+- Employee Number: [REDACTED] (Ref ID in document header is 10 0018)
+- Net Pay: $1,602.91
+- Gross Pay Period: $2,115.39
+- Total Deductions: $512.48
+- Doc ID: EFTA00007827
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18E	10 0018	18E
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+Employee Number:
+Department Number:	10
+Social Security Number:
+Marital Status:	SINGLE
+Number Of Allowances:	01
+Rate:
+
+
+Earnings Statement
+Pay Period:	2/19/2005	to	3/04/2005
+Pay Date:	3/03/2005
+Check #:	20189373
+
+PALM BEACH, FL 33480
+
+
+Hours and Earnings				Taxes and Deductions
+Description	Hours	This Period - Year-To-Date		Description	This Period	Year-To-Date
+SALARY	[ ]	2115.39	6346.15	FICA	162.48	486.78
+G T L			8.49	FED WT	350.01	1047.90
+
+
+Gross Pay Year To Date	Gross Pay This Period	Total Deductions This Period	Net Pay This Period
+$6,346.15	$2,115.39	$512.49	$1,602.90
+
+COPY
+TEAR HERE
+EFTA00007828
+© 2001 Automatic Data Processing, Inc.
+
+## Structured Fields
+*   **Name:** JEFFREY E. EPSTEIN
+*   **Address:** 358 EL BRILLO WAY, PALM BEACH, FL 33480
+*   **Department Number:** 10
+*   **Marital Status:** SINGLE
+*   **Number of Allowances:** 01
+*   **Pay Period:** 2/19/2005 to 3/04/2005
+*   **Pay Date:** 3/03/2005
+*   **Check Number:** 20189373
+*   **Gross Pay Year To Date:** $6,346.15
+*   **Gross Pay This Period:** $2,115.39
+*   **Total Deductions This Period:** $512.49
+    *   FICA: $162.48 (This Period) / $486.78 (YTD)
+    *   FED WT: $350.01 (This Period) / $1047.90 (YTD)
+*   **Net Pay This Period:** $1,602.90
+*   **Document ID:** EFTA00007828
+*   **Organization:** ADP EasyPay / Automatic Data Processing, Inc.
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18E                              10 0018                         18E                               Earnings Statement
+JEFFREY E. EPSTEIN                                                        ADP
+358 EL BRILLO WAY
+PALM BEACH, FL 33480                                                     EASYPAY
+
+Pay Period:                      4/16/2005 to 4/29/2005
+Pay Date:                        4/29/2005
+
+Employee Number:                 [REDACTED]
+Department Number:               10
+Social Security Number:          [REDACTED]
+Marital Status:                  SINGLE
+Number Of Allowances:            01
+Rate:
+
+                                PALM BEACH, FL 33480
+
++-------------------------------------------------------------------------------------------------------------------------------+
+| Hours and Earnings                                  | Taxes and Deductions                              |
++-----------+-------------+-------------+------------+-------------+----------+------------+
+| Description| Hours       | This Period | Year-To-Date| Description |This Period| Year-To-Date|
++-----------+-------------+-------------+------------+-------------+----------+------------+
+| SALARY    |             | 2115.39     | 14807.71   | FICA        | 162.48   | 1136.69    |
+| G T L     |             | 8.49        |            | FED WT      | 350.01   | 2447.94    |
++-----------+-------------+-------------+------------+-------------+----------+------------+
+
+Gross Pay Year To Date           $14,807.71                              Gross Pay This Period          $2,115.39
+                                                                            Total Deductions This Period   $512.49
+                                                                            Net Pay This Period            $1,602.90
+
+VERIFY DOCUMENT AUTHENTICITY - COLORED AREA MUST CHANGE IN TONE GRADUALLY AND EVENLY FROM DARK AT TOP TO LIGHTER AT BOTTOM
+JEFFREY E. EPSTEIN                                                        DEPOSIT
+358 EL BRILLO WAY                                                        382... (redacted/stamp)
+PALM BEACH, FL 33480                                                     Check Date:                 4/28/2005
+
+$1,602.90 DEPOSIT TO BANK# [REDACTED]                          CHK ACCT# [REDACTED]
+Pay To The
+Order Of                                                            Pay This Amount                  $1602.90
+                                                                    PALM BEACH, FL 33480
+
+****VOID**********VOID***
+THIS IS NOT A CHECK
+VOUCHER ONLY - NON-NEGOTIABLE
+
+EFTA00007829
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLONIAL BANK
+Questions about your account, call
+Colonial Connection: [REDACTED]
+www.colonialbank.com
+
+[BLACK BOX]
+PALM BEACH FL 33480
+
+Page 1 of 2
+Eagle Checking
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD February 23, 2005 – March 14, 2005
+
+Great news! Colonial has improved the overall look and feel of your statement to give you added flexibility and control in managing your finances. Colonial Bank values your relationship and would like to thank you for allowing us to serve you.
+
+Account Summary
+Previous Balance                                    $ 0.00                                        Average Collected Balance                  $ 1,407.61
+Total Credit(s)                                      + 4,836.74                                     Fees This Period                            $ 13.01
+Total Debit(s)                                       – 1,559.28
+Service Charge                                         – 0.00
+Ending Balance                                        $ 3,277.46
+
+Account Details
+Deposits and Other Credits
+DATE                 DESCRIPTION               AMOUNT
+2/24     DEPOSIT                  3,233.84
+3/9        DEPOSIT                  1,602.90
+
+Checks Paid [Triangle] indicates check missing in sequence
+CHECK              DATE                      AMOUNT                          CHECK           DATE             AMOUNT
+93                3/3                        1,546.27
+
+Other Debits
+DATE                 DESCRIPTION               AMOUNT
+3/2    PRINTED CHECK CHARGE          13.01
+CLARKE AMERICAN CHK ORDER     [REDACTED]
+
+Daily Balance Summary
+DATE            BALANCE           DATE            BALANCE            DATE            BALANCE
+2/23                0.00                 3/2             3,220.83            3/9          3,277.46
+2/24        3,233.84               3/3             1,674.56
+
+COLONIAL BANK, N.A.                    FINANCIAL STRENGTH IN LOCAL HANDS
+MEMBER FDIC                                              [REDACTED]      32
+EFTA00007830
+
+## Structured Fields
+*   **Organization:** Colonial Bank (Colonial Bank, N.A.)
+*   **Account Name/Type:** Eagle Checking
+*   **Address Location:** Palm Beach FL 33480
+*   **Statement Period:** February 23, 2005 – March 14, 2005
+*   **Document ID:** EFTA00007830
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Structured Fields
+- **Date:** March 14, 2005 (Statement Period: February 23, 2005 – March 14, 2005)
+- **Organization:** Colonial Bank, N.A.
+- **Doc ID/Ref:** EFTA00007831
+- **Page Number:** Page 2 of 2 (Footer number: 32)
+
+## IMPORTANT INFORMATION
+
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR STATEMENT**
+If you think your bank statement is incorrect, or if you need more information about a transaction on your statement, call 877-502-2265 or write us at P.O. Box 1887, Birmingham, Alabama 35201-1887 as soon as possible. You may also contact us by going to www.colonialbank.com and clicking on "Contact Us." If you use our Online Banking service, you can use the e-messaging feature. Click on 'Service Center' then 'General Request.' We must receive notice from you no later than 30 days after the mailing date of your first statement on which the error or problem appeared. You may telephone us, but doing so will not preserve your rights and we may ask for you to put your complaint or question in writing. In your letter, please provide the following information:
+1. Your name and account number.
+2. The dollar amount and the date of the suspected error.
+3. A description of the error and an explanation as to why you believe there is an error.
+
+You do not have to pay any amount in question while we are investigating, but you are still obligated to pay the parts of your account that are not in question. While we investigate, we cannot report you as delinquent or take any action to collect the amount you have questioned.
+
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR ELECTRONIC TRANSFERS (Consumer – Non-Business Accounts)**
+If you think your statement is wrong, if you need more information about electronic fund transfers (automated teller transactions, direct deposits, pre-authorized debits, Online Banking transactions, debit card transactions or other similar transactions), or if you need to verify a transaction, call or write us using the methods shown above. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared. You may telephone us, but doing so will not preserve your rights. If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. Please provide the following information:
+*   Your name and account number.
+*   A description of the error or transfer you are unsure about and why you believe it is an error, or why you need more information.
+*   The dollar amount and date of the suspected error.
+
+We will make every effort to tell you the results of our investigation within 10 business days after we hear from you and will correct any error promptly. However, if we need more time, we may take up to 45 calendar days to investigate your complaint or question. If we decide to do this, we will provisionally credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the additional time it takes us to complete our investigation. If we ask you to put your complaint or question in writing, and we do not receive it within 10 business days, we may not credit your account. If we decide there was no error, we will send you a written explanation of our findings within 3 business days after the conclusion of our investigation. If we have provisionally credited your account, we will charge the amount back to your account. You may ask for copies of the documents that we used in our investigation.
+**PLEASE NOTE:** If a notice of error involves an electronic fund transfer that was initiated in a foreign location, or was a point-of-sale debit card transaction, the time period allowed for our investigation is 90 calendar days. Or, if the suspected error or question involves a transaction that occurred within 30 days after the first deposit to a new account, we will have 20 business days to correct the suspected error or provisionally credit your account and 90 calendar days to investigate.
+To report a lost or stolen ATM or Check Card, 24 hours a day, seven days a week – please call 877-502-2265.
+
+**How to balance your Colonial Bank statement**
+List any checks, payments, debit card transactions, transfers, service charges, or automated teller withdrawals from your account that are not on this statement.
+
+**CHECK NO.** **AMOUNT** **CHECK NO.** **AMOUNT**
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+$ . $ .
+
+**DATE March 14, 2005**
+
+ENDING BALANCE SHOWN ON THIS STATEMENT **$ 3,277.46**
+ADD (+) DEPOSITS NOT CREDITED ON THIS STATEMENT (IF ANY) $ .
+$ .
+$ .
+TOTAL $ .
+SUBTRACT (-) TOTAL OUTSTANDING ITEMS $ .
+PRESENT BALANCE $ .
+
+COLONIAL BANK, N.A. MEMBER FDIC
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18E                       10 0018                      18E
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+Earnings Statement                        ADD
+                                             EASYPAY
+Pay Period:        3/19/2005     to    4/01/2005
+Pay Date:          3/31/2005
+
+Employee Number: [REDACTED]
+Department Number: 10
+Social Security Number: [REDACTED]
+
+                                             [REDACTED]
+Marital Status:    SINGLE                      PALM BEACH, FL 33480
+Number Of Allowances: 01
+
+Hours and Earnings                                  Taxes and Deductions
+Description                Hours                  This Period         Year-To-Date   Description          This Period         Year-To-Date
+SALARY                     2115.39                 10576.93            FICA              162.47               811.73
+G T L                      8.49
+
+                                                                                                                              FED WT            350.01               1747.92
+
+Gross Pay Year To Date   $10,576.93
+Gross Pay This Period     $2,115.39
+Total Deductions This Period      $512.48
+Net Pay This Period       $1,602.91
+
+VERIFY DOCUMENT AUTHENTICITY - COLORED AREA MUST CHANGE IN TONE GRADUALLY AND EVENLY FROM DARK AT TOP TO LIGHTER AT BOTTOM
+JEFFREY E. EPSTEIN                                                     DEPOSIT
+358 EL BRILLO WAY                                                     Check Date:      3/31/2005
+PALM BEACH, FL 33480
+
+$1,602.91 DEPOSIT TO BANK# [REDACTED]        CHK ACCT# [REDACTED]
+
+Pay To The                       Pay This Amount     $1602.91
+Order Of                        $1,602.91          10 0018              THIS IS NOT A CHECK
+                                18E                 PAYMENT
+****VOID***********VOID****    / PALM BEACH, FL 33480
+
+VOUCHER ONLY - NON-NEGOTIABLE
+
+EFTA00007832
+
+## Structured Fields
+- **Names:** Jeffrey E. Epstein
+- **Dates:**
+    - Pay Period: 3/19/2005 to 4/01/2005
+    - Pay Date: 3/31/2005
+    - Check Date: 3/31/2005
+- **Location:** Palm Beach, FL 33480
+- **Organization:** ADD EASYPAY
+- **Employee ID/Number:** 10 0018 / 18E
+- **Department Number:** 10
+- **Marital Status:** Single
+- **Allowances:** 01
+- **Gross Pay (Period):** $2,115.39
+- **Net Pay (Period):** $1,602.91
+- **FICA Deduction:** $162.47
+- **FED WT Deduction:** $350.01
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+18E
+10 0018                                     18E                     Earnings Statement                   ADP
+JEFFREY E. EPSTEIN                                                               EASYPAY
+358 EL BRILLO WAY                                                              Pay Period:    5/28/2005 to   6/10/2005
+PALM BEACH, FL 33480                                                            Pay Date:      6/09/2005
+
+Employee Number:        [REDACTED]
+Department Number:           10
+Social Security Number:     [REDACTED]
+Marital Status:             SINGLE
+Number Of Allowances:       01
+Rate:                                                                [REDACTED]          PALM BEACH, FL 33480
+
+Hours and Earnings                                              Taxes and Deductions
+Description              Hours        This Period    Year-To-Date     Description         This Period    Year-To-Date
+SALARY                   [blank]      2115.39        21153.88         FICA                162.48         1624.12
+G T L                    [blank]      8.49                                                   FED WT              350.01          3497.97
+
+Gross Pay Year To Date               $21,153.88                                              Net Pay This Period       $1,602.90
+Gross Pay This Period                $2,115.39                                              Total Deductions This Period   $512.49
+
+[VERIFY DOCUMENT AUTHENTICITY - COLORED AREA MUST CHANGE IN TONE GRADUALLY AND EVENLY FROM DARK AT TOP TO LIGHTER AT BOTTOM]
+JEFFREY E. EPSTEIN                                                              DEPOSIT
+358 EL BRILLO WAY
+PALM BEACH, FL 33480                                                           Check Date:    6/09/2005
+
+$1,602.90 DEPOSIT TO BANK# [REDACTED]     CHK ACCT# [REDACTED]
+
+Pay To The Order Of                     [REDACTED]                                                            Pay This Amount   $1602.90
+                                           10 0018                                                              ***VOUCHER ONLY - NON-NEGOTIABLE***
+18E                                                                                PAST DUE
+PALM BEACH, FL 33480
+
+****VOID**********VOID****                                                                  THIS IS NOT A CHECK                                                                    EFTA00007833
+```
+
+## Structured Fields
+- **Date**: 5/28/2005, 6/10/2005, 6/09/2005
+- **Case ID**: EFTA00007833
+- **Location**: Palm Beach, FL 33480
+- **Name**: Jeffrey E. Epstein
+- **Organization**: ADP EasyPay
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLONIAL BANK.
+Questions about your account, call
+Colonial Connection: [REDACTED]
+www.colonialbank.com
+
+Page 1 of 2
+Eagle Checking
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD April 15, 2005 – May 13, 2005
+0002 R10
+
+[REDACTED]
+PALM BEACH FL 33480
+
+> Colonial Bank appreciates your business. Thank you for being our Customer.
+
+**Account Summary**
+Previous Balance                                          $ 4,937.56        Average Collected Balance                    $ 5,325.56
+Total Credit(s)                                           + 3,205.81        Fees This Period                            $ 0.00
+Total Debit(s)                                            - 4,400.00                                                                  
+Service Charge                                             - 0.00                                                                    
+Ending Balance                                             $ 3,743.37
+
+**Account Details**
+
+**Deposits and Other Credits**
+DATE      DESCRIPTION                  AMOUNT
+4/28      ACH DEPOSIT                   1,602.90
+JEFFREY EPSTEIN PAYROLL [REDACTED]
+5/12      ACH DEPOSIT                   1,602.91
+JEFFREY EPSTEIN PAYROLL [REDACTED]
+
+**Checks Paid**  ▲ indicates check missing in sequence
+
+CHECK   DATE           AMOUNT              CHECK    DATE            AMOUNT
+103     4/20           400.00               105▲   5/12            4,000.00
+
+**Daily Balance Summary**
+DATE       BALANCE             DATE      BALANCE             DATE        BALANCE
+4/14       4,937.56            4/28      6,140.46                                                   
+4/20       4,537.56            5/12      3,743.37
+
+COLONIAL BANK, N.A.                                    FINANCIAL STRENGTH IN LOCAL HANDS
+MEMBER FDIC                                                          [REDACTED]
+EFTA00007834
+
+## Structured Fields
+- **Bank/Organization:** Colonial Bank, N.A.
+- **Account Type:** Eagle Checking
+- **Statement Period:** April 15, 2005 – May 13, 2005
+- **Location:** Palm Beach, FL 33480
+- **Name on Account (Payroll):** Jeffrey Epstein
+- **Previous Balance:** $4,937.56
+- **Ending Balance:** $3,743.37
+- **Document ID:** EFTA00007834
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLONIAL BANK.
+Questions about your account, call
+Colonial Connection [REDACTED]
+www.colonialbank.com
+                                                                 Page 2 of 2
+
+Eagle Checking
+ACCOUNT NUMBER                    [REDACTED]
+STATEMENT PERIOD                  April 15, 2005 – May 13, 2005
+
+**IMPORTANT INFORMATION**
+
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR STATEMENT**
+If you think your bank statement is incorrect, or if you need more information about a transaction on your statement, call 877–502–2265 or write us at P.O. Box 1887, Birmingham, Alabama 35201–1887 as soon as possible. You may also contact us by going to www.colonialbank.com and clicking on “Contact Us.” If you use our Online Banking service, you can use the e-messaging feature. Click on “Service Center” then “General Request.” We must receive notice from you no later than 30 days after the mailing date of your first statement on which the error or problem appeared. You may telephone us, but doing so will not preserve your rights and we may ask for you to put your complaint or question in writing. In your letter, please provide the following information:
+1.Your name and account number.
+2.The dollar-amount and the date of the suspected error.
+3.A description of the error and an explanation as to why you believe there is an error.
+
+You do not have to pay any amount in question while we are investigating, but you are still obligated to pay the parts of your account that are not in question. While we investigate, we cannot report you as delinquent or take any action to collect the amount you have questioned.
+
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR ELECTRONIC TRANSFERS (Consumer – Non-Business Accounts)**
+If you think your statement is wrong, if you need more information about electronic fund transfers (automated teller transactions, direct deposits, pre-authorized debits, Online Banking transactions, debit card transactions or other similar transactions), or if you need to verify a transaction, call or write us using the methods shown above. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared. You may telephone us, but doing so will not preserve your rights. If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. Please provide the following information:
+• Your name and account number.
+• A description of the error or transfer you are unsure about and why you believe it is an error, or why you need more information.
+• The dollar amount and date of the suspected error.
+
+We will make every effort to tell you the results of our investigation within 10 business days after we hear from you and will correct any error promptly. However, if we need more time, we may take up to 45 calendar days to investigate your complaint or question. If we decide to do this, we will provisionally credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the additional time it takes us to complete our investigation. If we ask you to put your complaint or question in writing, and we do not receive it within 10 business days, we may not credit your account. If we decide there was no error, we will send you a written explanation of our findings within 3 business days after the conclusion of our investigation. If we have provisionally credited your account, we will charge the amount back to your account. You may ask for copies of the documents that we used in our investigation.
+
+PLEASE NOTE: If a notice of error involves an electronic fund transfer that was initiated in a foreign location, or was a point-of-sale debit card transaction, the time period allowed for our investigation is 90 calendar days. Or, if the suspected error or question involves a transaction that occurred within 30 days after the first deposit to a new account, we will have 20 business days to correct the suspected error or provisionally credit your account and 90 calendar days to investigate.
+
+To report a lost or stolen ATM or Check Card, 24 hours a day, seven days a week – please call 877–502–2265.
+
+**How to balance your Colonial Bank statement**
+
+List any checks, payments, debit card transactions, transfers, service charges, or automated teller withdrawals from your account that are not on this statement.
+
+CHECK NO.    AMOUNT ($)   CHECK NO.   AMOUNT ($)
+_________________________________    ___________________________________
+    $                                              $
+_________________________________    ___________________________________
+    $                                              $
+_________________________________    ___________________________________
+    $                                              $
+_________________________________    ___________________________________
+    $                                              $
+_________________________________    ___________________________________
+    $                                              $
+_________________________________    ___________________________________
+    $                                              $
+_________________________________    ___________________________________
+    $                                              $
+_________________________________    ___________________________________
+    $                                              $
+
+                                                                 DATE           May 13, 2005
+ENDING BALANCE
+SHOWN ON
+THIS STATEMENT   $ 3,743.37
+ADD (+)
+DEPOSITS NOT
+CREDITED ON
+THIS STATEMENT
+(IF ANY)             $
+                                                              $
+                                                              $
+                                                              $
+TOTAL                $
+SUBTRACT (-)        TOTAL
+OUTSTANDING ITEMS   $
+PRESENT BALANCE      $
+
+COLONIAL BANK, N.A.
+MEMBER FDIC                                                      017608     32
+                                                                 EFTA00007835
+
+## Structured Fields
+- **Date:** May 13, 2005 (Statement End Date)
+- **Statement Period:** April 15, 2005 – May 13, 2005
+- **Organization:** Colonial Bank
+- **Account Name:** Eagle Checking
+- **Document ID/Stamp:** EFTA00007835
+- **Internal ID:** 017608 32
+- **Address:** Birmingham, Alabama 35201–1887
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18E                             10 0018                        18E
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+**Earnings Statement**
+ADP
+EASYPAY
+
+Pay Period:        4/02/2005     to       4/15/2005
+Pay Date:         4/14/2005
+
+Employee Number:   [REDACTED]
+Department Number:  10
+Social Security Number:   [REDACTED]
+Marital Status:    SINGLE
+Number Of Allowances:    01
+Rate:              [BLANK]
+
+
+Hours and Earnings                  Taxes and Deductions
+Description       Hours        This Period      Year-To-Date      Description     This Period    Year-To-Date
+
+SALARY           [BLANK]         2115.39          12692.32          FICA            [BLANK]        162.48                      974.21
+G T L             [BLANK]         8.49                         FED WT          [BLANK]        350.01                      2097.93
+
+
+| Gross Pay Year To Date | Gross Pay This Period | Total Deductions This Period | Net Pay This Period |
+| :--- | :--- | :--- | :--- |
+| $12,692.32 | $2,115.39 | $512.49 | $1,602.90 |
+
+[REDACTED BLOCK]
+PALM BEACH, FL 33480
+
+
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+DEPOSIT
+Check Date:      4/14/2005
+
+$1,602.90 DEPOSIT TO BANK# [REDACTED] CHK ACCT# [REDACTED]
+Pay To The Order Of
+                  10 0018    18E
+                    /PALM BEACH, FL 33480
+****VOID***********VOID*****
+
+PAY THIS AMOUNT: $1602.90
+
+
+THIS IS NOT A CHECK
+VOUCHER ONLY - NON-NEGOTIABLE
+EFTA00007836
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[COLONIAL BANK.]
+Questions about your account, call Colonial Connection: [REDACTED]
+www.colonialbank.com
+
+Eagle Checking
+Page 3 of 3
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD March 15, 2005 – April 14, 2005
+
+## How to balance your Colonial Bank statement
+
+List any checks, payments, debit card transactions, transfers, service charges, or automated teller withdrawals from your account that are not on this statement.
+
+| CHECK NO. | AMOUNT | CHECK NO. | AMOUNT |
+| :--- | :--- | :--- | :--- |
+| $ | | $ | |
+| $ | | $ | |
+| $ | | $ | |
+| $ | | $ | |
+| $ | | $ | |
+| $ | | $ | |
+| $ | | $ | |
+| $ | | $ | |
+| $ | | $ | |
+| TOTAL | | | |
+
+DATE April 14, 2005
+ENDING BALANCE SHOWN ON THIS STATEMENT $ 4,937.56
+
+ADD (+) DEPOSITS NOT CREDITED ON THIS STATEMENT (IF ANY) $
+$
+$
+$
+$
+TOTAL $
+SUBTRACT (-) TOTAL OUTSTANDING ITEMS $
+PRESENT BALANCE $
+
+COLONIAL BANK, N.A.
+MEMBER FDIC
+
+[REDACTED] [REDACTED] 32
+
+600094 B1
+EFTA00007837
+
+## Structured Fields
+*   **Date:** March 15, 2005 – April 14, 2005
+*   **Statement Date:** April 14, 2005
+*   **Organization:** Colonial Bank, N.A.
+*   **Account Name:** Eagle Checking
+*   **Page Number:** 3 of 3
+*   **Document ID:** EFTA00007837
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLONIAL BANK
+Questions about your account, call
+Colonial Connection: [REDACTED]
+www.colonialbank.com
+Page 1 of 3
+
+Eagle Checking
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD March 15, 2005 - April 14, 2005
+
+[REDACTED]
+PALM BEACH FL 33480
+
+Colonial Bank appreciates your business. Thank you for being our Customer.
+
+Account Summary
+Previous Balance                $ 3,277.46
+Total Credit(s)                 + 6,542.99
+Total Debit(s)                  - 4,882.89
+Service Charge                  - 0.00
+Ending Balance                  $ 4,937.56
+
+Average Collected Balance        $ 5,337.66
+Fees This Period                 $ 0.00
+
+Account Details
+Deposits and Other Credits
+DATE      DESCRIPTION                    AMOUNT
+3/15      ACH DEPOSIT                        0.00
+          ADP TX/FINCL SVC PAYROLL [REDACTED]
+3/18      DEPOSIT                           1,734.28
+3/21      DEPOSIT                           1,602.90
+3/31      ACH DEPOSIT                       1,602.91
+          JEFFREY EPSTEIN PAYROLL [REDACTED]
+4/14      ACH DEPOSIT                       1,602.90
+          JEFFREY EPSTEIN PAYROLL [REDACTED]
+
+Checks Paid   ▲ indicates check missing in sequence
+
+CHECK    DATE       AMOUNT         CHECK    DATE       AMOUNT
+94       4/6        600.00         102      4/7        4,000.00
+101 ▲    3/17       282.89
+
+Daily Balance Summary
+DATE      BALANCE               DATE         BALANCE             DATE     BALANCE
+3/14      3,277.46              3/17         2,994.57            3/21     6,331.75
+3/15      3,277.46              3/18         4,728.85            3/31     7,934.66
+
+COLONIAL BANK, N.A.          FINANCIAL STRENGTH IN LOCAL HANDS
+MEMBER FDIC                              32
+EFTA00007838
+
+## Structured Fields
+- **Bank:** Colonial Bank
+- **Account Type:** Eagle Checking
+- **Statement Period:** March 15, 2005 – April 14, 2005
+- **Address:** Palm Beach, FL 33480
+- **Ending Balance:** $4,937.56
+- **Previous Balance:** $3,277.46
+- **Average Collected Balance:** $5,337.66
+- **Name mentioned in description:** Jeffrey Epstein
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+# Colonial Bank Statement (Page 2)
+
+**[Logo] COLONIAL BANK.**
+Questions about your account, call
+Colonial Connection: [REDACTED]
+www.colonialbank.com
+
+Eagle Checking                                                                 Page 2 of 3
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD March 15, 2005 – April 14, 2005
+
+Daily Balance Summary (continued)
+DATE       BALANCE           DATE      BALANCE           DATE      BALANCE
+4/6        7,334.66          4/7       3,334.66          4/14      4,937.56
+
+## IMPORTANT INFORMATION
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR STATEMENT**
+If you think your bank statement is incorrect, or if you need more information about a transaction on your statement, call 877-502-2265 or write us at P.O. Box 1887, Birmingham, Alabama 35201-1887 as soon as possible. You may also contact us by going to www.colonialbank.com and clicking on “Contact Us.” If you use our Online Banking service, you can use the e-messaging feature. Click on “Service Center” then “General Request.” We must receive notice from you no later than 30 days after the mailing date of your first statement on which the error or problem appeared. You may telephone us, but doing so will not preserve your rights and we may ask for you to put your complaint or question in writing. In your letter, please provide the following information:
+1.Your name and account number.
+2.The dollar amount and the date of the suspected error.
+3.A description of the error and an explanation as to why you believe there is an error.
+
+You do not have to pay any amount in question while we are investigating, but you are still obligated to pay the parts of your account that are not in question. While we investigate, we cannot report you as delinquent or take any action to collect the amount you have questioned.
+
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR ELECTRONIC TRANSFERS (Consumer – Non-Business Accounts)**
+If you think your statement is wrong, if you need more information about electronic fund transfers (automated teller transactions, direct deposits, pre-authorized debits, Online Banking transactions, debit card transactions or other similar transactions), or if you need to verify a transaction, call or write us using the methods shown above. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared. You may telephone us, but doing so will not preserve your rights. If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. Please provide the following information:
+*   Your name and account number.
+*   A description of the error or transfer you are unsure about and why you believe it is an error, or why you need more information.
+*   The dollar amount and date of the suspected error.
+
+We will make every effort to tell you the results of our investigation within 10 business days after we hear from you and will correct any error promptly. However, if we need more time, we may take up to 45 calendar days to investigate your complaint or question. If we decide to do this, we will provisionally credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the additional time it takes us to complete our investigation. If we ask you to put your complaint or question in writing, and we do not receive it within 10 business days, we may not credit your account. If we decide there was no error, we will send you a written explanation of our findings within 3 business days after the conclusion of our investigation. If we have provisionally credited your account, we will charge the amount back to your account. You may ask for copies of the documents that we used in our investigation.
+
+**PLEASE NOTE:** If a notice of error involves an electronic fund transfer that was initiated in a foreign location, or was a point-of-sale debit card transaction, the time period allowed for our investigation is 90 calendar days. Or, if the suspected error or question involves a transaction that occurred within 30 days after the first deposit to a new account, we will have 20 business days to correct the suspected error or provisionally credit your account and 90 calendar days to investigate.
+
+To report a lost or stolen ATM or Check Card, 24 hours a day, seven days a week – please call 877-502-2265.
+
+COLONIAL BANK, N.A.
+MEMBER FDIC                                                  32
+
+EFTA00007839
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18E
+10 0018
+18E
+
+COPY
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+Earnings Statement
+ADP EASYPAY
+Pay Period: 2/05/2005 to 2/18/2005
+Pay Date: 2/17/2005
+Check #: 20183456
+
+Employee Number: [REDACTED]
+Department Number: 10
+Social Security Number: [REDACTED]
+Marital Status: SINGLE
+Number Of Allowances: 01
+Rate:
+
+[REDACTED]
+PALM BEACH, FL 33480
+
+Hours and Earnings
+Description          Hours             This Period       Year-To-Date
+SALARY                              4230.76            4230.76
+G T L                                    8.49
+
+Taxes and Deductions
+Description          This Period           Year-To-Date
+FICA                   324.30                 324.30
+FED WT                 697.89                 697.89
+
+Filed Here
+
+Gross Pay Year To Date    Gross Pay This Period         Total Deductions This Period           Net Pay This Period
+$4,230.76                 $4,230.76                     $1,022.19                             $3,208.57
+
+©2001 Automatic Data Processing, Inc.
+TEAR HERE
+EFTA00007840
+COPY
+
+## Structured Fields
+- **Name:** JEFFREY E. EPSTEIN
+- **Address:** 358 EL BRILLO WAY, PALM BEACH, FL 33480
+- **Pay Period:** 2/05/2005 to 2/18/2005
+- **Pay Date:** 2/17/2005
+- **Check #:** 20183456
+- **Department Number:** 10
+- **Marital Status:** SINGLE
+- **Number Of Allowances:** 01
+- **Gross Pay Year To Date:** $4,230.76
+- **Total Deductions This Period:** $1,022.19
+- **Net Pay This Period:** $3,208.57
+- **Document ID:** EFTA00007840
+- **Processing Company:** ADP Automatic Data Processing
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLONIAL BANK
+Page 1 of 2
+
+Questions about your account, call
+Colonial Connection [REDACTED]
+www.colonialbank.com
+
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD June 15, 2005 - July 15, 2005
+
+[REDACTED]
+PALM BEACH FL 33480
+
+Colonial Bank appreciates your business. Thank you for being our Customer.
+
+Account Summary
+Previous Balance                $ 5,779.17          Average Collected Balance      $ 5,869.56
+Total Credit(s)                 + 3,205.81          Fees This Period               $ 0.00
+Total Debit(s)                  - 2,253.95
+Service Charge                  - 0.00
+Ending Balance                  $ 6,731.03
+
+Account Details
+Deposits and Other Credits
+DATE      DESCRIPTION           AMOUNT
+6/23      ACH DEPOSIT                    1,602.91
+          JEFFREY EPSTEIN PAYROLL [REDACTED]
+7/7       ACH DEPOSIT                   1,602.90
+          JEFFREY EPSTEIN PAYROLL [REDACTED]
+
+Checks Paid   indicates check missing in sequence
+CHECK      DATE      AMOUNT             CHECK    DATE      AMOUNT
+110        7/1       300.00             113      6/23      503.95
+111        6/24      100.00             114      6/23      500.00
+112        6/24      850.00
+
+Daily Balance Summary
+DATE      BALANCE            DATE     BALANCE           DATE     BALANCE
+6/14      5,779.17           6/24     5428.13           7/7      6,731.03
+6/23      6,378.13           7/1      5128.13
+
+COLONIAL BANK, N.A.                 FINANCIAL STRENGTH IN LOCAL HANDS    [REDACTED]    MEMBER FDIC                           32
+EFTA00007841
+
+## Structured Fields
+- **Organization:** Colonial Bank, N.A. (Member FDIC)
+- **Account Type:** Eagle Checking
+- **Statement Period:** June 15, 2005 – July 15, 2005
+- **Location:** Palm Beach, FL 33480
+- **Names:** Jeffrey Epstein
+- **Document ID:** EFTA00007841
+- **Barcode/Serial:** 00006810
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Document Page 2 of 2
+
+**COLONIAL BANK.**
+Questions about your account call Colonial Connection [REDACTED]
+www.colonialbank.com
+
+Page 2 of 2
+**Eagle Checking**
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD June 15, 2005 – July 15, 2005
+
+### IMPORTANT INFORMATION
+
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR STATEMENT**
+If you think your bank statement is incorrect, or if you need more information about a transaction on your statement, call 877-502-2265 or write us at P.O. Box 1887, Birmingham, Alabama 35201-1887 as soon as possible. You may also contact us by going to www.colonialbank.com and clicking on "Contact Us." If you use our Online Banking service, you can use the e-messaging feature. Click on "Service Center" then "General Request." We must receive notice from you no later than 30 days after the mailing date of your first statement on which the error or problem appeared. You may telephone us, but doing so will not preserve your rights and we may ask for you to put your complaint or question in writing. In your letter, please provide the following information:
+1.Your name and account number.
+2.The dollar amount and the date of the suspected error.
+3.A description of the error and an explanation as to why you believe there is an error.
+
+You do not have to pay any amount in question while we are investigating, but you are still obligated to pay the parts of your account that are not in question. While we investigate, we cannot report you as delinquent or take any action to collect the amount you have questioned.
+
+**IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR ELECTRONIC TRANSFERS (Consumer – Non-Business Accounts)**
+If you think your statement is wrong, if you need more information about electronic fund transfers (automated teller transactions, direct deposits, pre-authorized debits, Online Banking transactions, debit card transactions or other similar transactions), or if you need to verify a transaction, call or write us using the methods shown above. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared. You may telephone us, but doing so will not preserve your rights. If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. Please provide the following information:
+* Your name and account number.
+* A description of the error or transfer you are unsure about and why you believe it is an error, or why you need more information.
+* The dollar amount and date of the suspected error.
+
+We will make every effort to tell you the results of our investigation within 10 business days after we hear from you and will correct any error promptly. However, if we need more time, we may take up to 45 calendar days to investigate your complaint or question. If we decide to do this, we will provisionally credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the additional time it takes us to complete our investigation. If we ask you to put your complaint or question in writing, and we do not receive it within 10 business days, we may not credit your account. If we decide there was no error, we will send you a written explanation of our findings within 3 business days after the conclusion of our investigation. If we have provisionally credited your account, we will charge the amount back to your account. You may ask for copies of the documents that we used in our investigation.
+
+PLEASE NOTE: If a notice of error involves an electronic fund transfer that was initiated in a foreign location, or was a point-of-sale debit card transaction, the time period allowed for our investigation is 90 calendar days. Or, if the suspected error or question involves a transaction that occurred within 30 days after the first deposit to a new account, we will have 20 business days to correct the suspected error or provisionally credit your account and 90 calendar days to investigate.
+
+To report a lost or stolen ATM or Check Card, 24 hours a day, seven days a week – please call 877-502-2265.
+
+**How to balance your Colonial Bank statement**
+List any checks, payments, debit card transactions, transfers, service charges, or automated teller withdrawals from your account that are not on this statement.
+
+| CHECK NO. | AMOUNT | | CHECK NO. | AMOUNT |
+| :--- | :--- | :--- | :--- | :--- |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | $ | |
+| $ | | | TOTA |
+
+DATE **July 15, 2005**
+ENDING BALANCE SHOWN ON THIS STATEMENT **$ 6,731.03**
+ADD (+) DEPOSITS NOT CREDITED ON THIS STATEMENT (IF ANY) $
+$
+$
+$
+TOTAL $
+SUBTRACT (-) TOTAL OUTSTANDING ITEMS $
+PRESENT BALANCE $
+
+COLONIAL BANK, N.A.
+MEMBER FDIC
+
+82
+
+EFTA00007842
+
+## Page 20 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 1 of 2
+COLONIAL BANK.
+Questions about your account, call Colonial Connection [REDACTED]
+www.colonialbank.com
+
+Eagle Checking
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD July 16, 2005 – August 12, 2005
+00005 B10
+
+[REDACTED]
+PALM BEACH FL 33480
+
+Colonial Bank appreciates your business. Thank you for being our Customer.
+
+Account Summary
+Previous Balance                 $ 6,731.03        Average Collected Balance       $ 8,485.09
+Total Credit(s)                  + 5,573.22        Fees This Period               $ 0.00
+Total Debit(s)                   – 3,909.14
+Service Charge                   – 0.00
+Ending Balance                   $ 8,395.11
+
+Account Details
+Deposits and Other Credits
+DATE           DESCRIPTION                              AMOUNT
+7/19   DEPOSIT                                  1,256.00
+7/21   ACH DEPOSIT JEFFREY EPSTEIN PAYROLL [REDACTED]     1,685.65
+7/25   DEPOSIT                                  977.00
+8/4    ACH DEPOSIT JEFFREY EPSTEIN PAYROLL [REDACTED]       1,654.57
+
+Checks Paid   indicates check missing in sequence
+CHECK      DATE             AMOUNT                           CHECK      DATE             AMOUNT
+115        7/21            100.14                          118        8/1               375.00
+116        8/1              1,256.00                       119        8/11              20.00
+117        8/1              2,158.00
+
+Daily Balance Summary
+DATE            BALANCE          DATE             BALANCE                  DATE         BALANCE
+7/15            6,731.03         7/25             10,549.54                8/11         8,395.11
+7/19            7,987.03         8/1              6,760.54
+
+COLONIAL BANK, N.A.                      FINANCIAL STRENGTH IN LOCAL HANDS
+MEMBER FDIC
+
+[REDACTED]
+32
+
+EFTA00007843
+
+## Structured Fields
+- **Organization:** Colonial Bank (Colonial Bank, N.A.)
+- **Account Type:** Eagle Checking
+- **Statement Period:** July 16, 2005 – August 12, 2005
+- **Location:** Palm Beach FL 33480
+- **Document ID:** EFTA00007843 (bottom right corner) / 00005 B10 (vertical edge text)
+- **Page Number:** 1 of 2 / Page 32 (footer corner)
+- **Transaction Entity Name:** Jeffrey Epstein
+
+## Page 21 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 2 of 2
+
+**COLONIAL BANK**
+Questions about your account call
+Colonial Connection: [REDACTED]
+www.colonialbank.com
+
+Eagle Checking
+ACCOUNT NUMBER [REDACTED]
+STATEMENT PERIOD July 16, 2005 – August 12, 2005
+
+## IMPORTANT INFORMATION
+
+### IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR STATEMENT
+If you think your bank statement is incorrect, or if you need more information about a transaction on your statement, call 877-502-2265 or write us at P.O. Box 1887, Birmingham, Alabama 35201-1887 as soon as possible. You may also contact us by going to www.colonialbank.com and clicking on “Contact Us.” If you use our Online Banking service, you can use the e-messaging feature. Click on “Service Center” then “General Request.” We must receive notice from you no later than 30 days after the mailing date of your first statement on which the error or problem appeared. You may telephone us, but doing so will not preserve your rights and we may ask for you to put your complaint or question in writing. In your letter, please provide the following information:
+
+1. Your name and account number.
+2. The dollar amount and the date of the suspected error.
+3. A description of the error and an explanation as to why you believe there is an error.
+
+You do not have to pay any amount in question while we are investigating, but you are still obligated to pay the parts of your account that are not in question. While we investigate, we cannot report you as delinquent or take any action to collect the amount you have questioned.
+
+### IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR ELECTRONIC TRANSFERS (Consumer - Non-Business Accounts)
+If you think your statement is wrong, if you need more information about electronic fund transfers (automated teller transactions, direct deposits, pre-authorized debits, Online Banking transactions, debit card transactions or other similar transactions), or if you need to verify a transaction, call or write us using the methods shown above. We must hear from you no later than 60 days after we sent you the FIRST statement on which the problem or error appeared. You may telephone us, but doing so will not preserve your rights. If you tell us orally, we may require that you send us your complaint or question in writing within 10 business days. Please provide the following information:
+- Your name and account number.
+- A description of the error or transfer you are unsure about and why you believe it is an error, or why you need more information.
+- The dollar amount and date of the suspected error.
+
+We will make every effort to tell you the results of our investigation within 10 business days after we hear from you and will correct any error promptly. However, if we need more time, we may take up to 45 calendar days to investigate your complaint or question. If we decide to do this, we will provisionally credit your account within 10 business days for the amount you think is in error, so that you will have the use of the money during the additional time it takes us to complete our investigation. If we ask you to put your complaint or question in writing, and we do not receive it within 10 business days, we may not credit your account. If we decide there was no error, we will send you a written explanation of our findings within 3 business days after the conclusion of our investigation. If we have provisionally credited your account, we will charge the amount back to your account. You may ask for copies of the documents that we used in our investigation.
+
+**PLEASE NOTE:** If a notice of error involves an electronic fund transfer that was initiated in a foreign location, or was a point-of-sale debit card transaction, the time period allowed for our investigation is 90 calendar days. Or, if the suspected error or question involves a transaction that occurred within 30 days after the first deposit to a new account, we will have 26 business days to correct the suspected error or provisionally credit your account and 90 calendar days to investigate.
+To report a lost or stolen ATM or Check Card, 24 hours a day, seven days a week - please call 877-502-2265.
+
+## How to balance your Colonial Bank statement
+
+List any checks, payments, debit card transactions, transfers, service charges, or automated teller withdrawals from your account that are not on this statement.
+
+| CHECK NO. | AMOUNT | CHECK NO. | AMOUNT | DATE |
+| :--- | :--- | :--- | :--- | :--- |
+| $ | | $ | | August 12, 2005 |
+| $ | | $ | | |
+| $ | | $ | | |
+| $ | | $ | | **ENDING BALANCE SHOWN ON THIS STATEMENT** $ **8,395.11** |
+| $ | | $ | | **ADD (+)** |
+| $ | | $ | | DEPOSITS NOT CREDITED ON |
+| $ | | $ | | THIS STATEMENT (IF ANY) | $ |
+| $ | | $ | | $ |
+| $ | | $ | | $ |
+| $ | | $ | | $ |
+| **TOTAL** | | | | **TOTAL** $ |
+| $ | | $ | | **SUBTRACT (-)** |
+| $ | | $ | | TOTAL OUTSTANDING ITEMS $ |
+| $ | | $ | | **PRESENT BALANCE $** |
+
+COLONIAL BANK, N.A.
+MEMBER FDIC
+
+32
+EFTA00007844
+
+## Page 22 (DOC) [TAG:DOJ_CLEAN_V2]
+
+-34C -> [REDACTED]
+-Ark [REDACTED]
+-phone line for Boston
+department
+
+Jeffrey E. Epstein
+
+## Structured Fields
+- **Name:** Jeffrey E. Epstein
+- **Doc ID:** EFTA00007845
+- **Location/Entity mentioned:** Boston department
+
+## Page 23 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Needs
+[REDACTED]
+Health cmr Ins Sci
+chem Su Music par
+Time Math only S
+libr offic!
+Jeffrey E. Epstein
+
+## Structured Fields
+- **Name**: Jeffrey E. Epstein
+- **Doc ID**: EFTA00007846
+- **Notes/Subjects**: Health, cmr (cardio-metabolic? cma?), Ins (Internal Medicine Service?), Sci, chem, Su, Music par, Math, Time, only S.
+- **Locations/Orgs**: libr (library), offic! (office).
+
+## Page 24 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLONIAL BANK, N.A.
+www.colonialbank.com Member FDIC
+LATE TRANSACTIONS
+Transactions accepted on Saturday or after 2 p.m. daily may be posted the following business day.
+
+THIS IS YOUR RECEIPT Thank You!
+The transaction indicated below is accepted in accordance with the terms and conditions specified on the signature card or in the account rules and regulations.
+Bank Symbol, Transaction Number, Date and Amount Are Shown Below.
+
+120
+[REDACTED]
+DDA CHECK DEPOSIT *
+09:58 25Jul.05 AM
+mds3201
+
+2 2 25
+WORTH AVENUE 2022 $977.00
+
+F-0060 (Rev. 4/05) CBG Printing
+
+COLONIAL BANK, N.A.
+www.colonialbank.com Member FDIC
+LATE TRANSACTIONS
+Transactions accepted on Saturday or after 2 p.m. daily may be posted the following business day.
+
+THIS IS YOUR RECEIPT Thank You!
+The transaction indicated below is accepted in accordance with the terms and conditions specified on the signature card or in the account rules and regulations.
+Bank Symbol, Transaction Number, Date and Amount Are Shown Below.
+
+120
+[REDACTED]
+DDA CHECK DEPOSIT *
+12:43 19Jul.05 AM
+mds3201
+
+2 2 116
+WORTH AVENUE 2022 $1,256.00
+
+F-0060 (Rev. 4/05) CBG Printing
+
+COLONIAL BANK, N.A.
+www.colonialbank.com Member FDIC
+LATE TRANSACTIONS
+Transactions accepted on Saturday or after 2 p.m. daily may be posted the following business day.
+
+THIS IS YOUR RECEIPT Thank You!
+The transaction indicated below is accepted in accordance with the terms and conditions specified on the signature card or in the account rules and regulations.
+Bank Symbol, Transaction Number, Date and Amount Are Shown Below.
+
+120
+[REDACTED]
+DDA CHECK DEPOSIT *
+11:55 23Aug.05 AM
+mds3201
+
+2 4 76
+WORTH AVENUE 2022 $5,670.00
+
+F-0060 (Rev. 4/05) CBG Printing
+
+EFTA00007847
+## Structured Fields
+*   **Organization:** Colonial Bank, N.A.
+*   **Transaction Type:** DDA CHECK DEPOSIT
+*   **Date 1:** 25Jul.05 (July 25, 2005)
+*   **Amount 1:** $977.00
+*   **Date 2:** 19Jul.05 (July 19, 2005)
+*   **Amount 2:** $1,256.00
+*   **Date 3:** 23Aug.05 (August 23, 2005)
+*   **Amount 3:** $5,670.00
+*   **Location ID:** mds3201
+*   **Address:** WORTH AVENUE
+*   **Document Type:** ATM/Deposit Receipt (Form F-0060)
+
+## Page 25 (DOC) [TAG:DOJ_CLEAN_V2]
+
+00'0
+Items for which you receive immediate credit are subject for final payment with availability in accordance with the Federal Reserve Bank's and/or the paying agent's clearing schedule. Items drawn on banks outside of the U.S. are not considered cash items and are accepted for deposit only at the liability of the depositor. Colonial may clear these items as a collection item or by giving delayed credit for the Item. Amounts expressed in foreign currencies are converted at their buying rate and credited in U.S. Dollars. All return items expressed in foreign currencies will be charged to your account at the foreign exchange rate in effect on the date of return and not the rate used when initially credited. Colonial Bank reserves the right to charge your account at a later date for (1) Items returned to us for any legal reason and (2) any fees assessed by Colonial Bank, the Federal Reserve Bank and/or the paying agent for the collection or return of said items.
+
+Association Services Coupon Payments made prior to 2 p.m. at a Colonial Bank office will post the following business day. Payments made after 2 p.m. will post in two business days.
+
+Items for which you receive immediate credit are subject for final payment with availability in accordance with the Federal Reserve Bank's and/or the paying agent's clearing schedule. Items drawn on banks outside of the U.S. are not considered cash items and are accepted for deposit only at the liability of the depositor. Colonial may clear these items as a collection item or by giving delayed credit for the Item. Amounts expressed in foreign currencies are converted at their buying rate and credited in U.S. Dollars. All return items expressed in foreign currencies will be charged to your account at the foreign exchange rate in effect on the date of return and not the rate used when initially credited. Colonial Bank reserves the right to charge your account at a later date for (1) Items returned to us for any legal reason and (2) any fees assessed by Colonial Bank, the Federal Reserve Bank and/or the paying agent for the collection or return of said items.
+
+Association Services Coupon Payments made prior to 2 p.m. at a Colonial Bank office will post the following business day. Payments made after 2 p.m. will post in two business days.
+
+Items for which you receive immediate credit are subject for final payment with availability in accordance with the Federal Reserve Bank's and/or the paying agent's clearing schedule. Items drawn on banks outside of the U.S. are not considered cash items and are accepted for deposit only at the liability of the depositor. Colonial may clear these items as a collection item or by giving delayed credit for the Item. Amounts expressed in foreign currencies are converted at their buying rate and credited in U.S. Dollars. All return items expressed in foreign currencies will be charged to your account at the foreign exchange rate in effect on the date of return and not the rate used when initially credited. Colonial Bank reserves the right to charge your account at a later date for (1) Items returned to us for any legal reason and (2) any fees assessed by Colonial Bank, the Federal Reserve Bank and/or the paying agent for the collection or return of said items.
+
+Association Services Coupon Payments made prior to 2 p.m. at a Colonial Bank office will post the following business day. Payments made after 2 p.m. will post in two business days.
+## Structured Fields
+- Organization: Colonial Bank, Federal Reserve Bank
+- Payment Policy: Association Services Coupon Payments made prior to 2 p.m. post next business day; payments after 2 p.m. post in two business days.
+- Document ID (Footer): EFTA00007848
+
+## Page 26 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical advertisement printed on what appears to be a plastic bag or flyer, characterized by slight curvature and shadows along the right edge, suggesting a physical object rather than a digital graphic. The composition is split into two distinct zones: an upper graphical area and a lower informational text box.
+
+**Upper Graphic Zone:**
+- The background features a moody, atmospheric photograph of a dense forest. Tall tree trunks rise vertically from the bottom center toward the top edge.
+- The foliage is lush green, but the lighting suggests early morning or late evening, with a bright, diffuse light source filtering through the trees in the center-right background, creating a hazy, misty effect.
+- Large white serif text is superimposed over the top third of the image against the darkening canopy. The text is arranged in three centered lines: "Whatever Your Trees Need, We've Got The Solution!"
+
+**Lower Text Zone:**
+- A solid white rectangular background occupies the bottom half of the advertisement, providing high contrast for the black serif text.
+- The body copy begins with a sentence about being arborists who love trees and practice their craft daily.
+- A list of company attributes follows in bold: "We’re in... We’re out... We’re fast... We’re clean."
+- The text emphasizes proactive care ("spot problems... before they become major") and competitive pricing ("PRICED RIGHT").
+- Below the body copy, the business name "Zimmerman Tree Service" is printed in bold.
+- To the left of the address block is a small logo depicting a stylized tree with a rounded canopy.
+- The address details are centered below the logo: 4660 71st Court South, Lake Worth, FL 33463.
+- A tagline reads "20 years service to South Florida".
+- At the very bottom, phone numbers are listed for three specific regions in green text: West Palm Beach, Boca Raton, and Southern Martin County.
+- The website URL is printed at the very bottom center.
+
+## Visible Text (verbatim)
+**Headline:**
+Whatever Your Trees Need, We’ve Got The Solution!
+
+**Body Copy:**
+True, we’re arborists, we grew up loving trees, learned how to care for them, and we practice our craft everyday. That’s only a few of the reasons to call Zimmerman Tree Service to prune your trees. Here are a few more:
+We’re in... We’re out... We’re fast... We’re clean.
+We can spot problems and take care of them before they become major. And... We’re PRICED RIGHT. For your next pruning... or any tree, shrub or landscape need, call:
+
+**Company Header:**
+Zimmerman Tree Service
+
+**Address & Icon Block:**
+4660 71st Court South
+Lake Worth, FL 33463
+20 years service to South Florida
+
+**Contact Info:**
+West Palm Beach: 561-968-1045
+Boca Raton: 561-338-3533
+Southern Martin County: 772-546-0811
+www.zimmermantreeservice.com
+
+**Footer Code:**
+EFTA00007849
+
+## Notable Details / Clues
+- **Material Context:** The slight glare and curvature on the right side strongly suggest this is a printed ad sticker or label applied to a plastic trash bag or shopping bag, a common marketing tactic for home service businesses.
+- **Visual Tone:** The use of a "misty" forest image rather than a bright sunny day suggests a focus on nature preservation, perhaps implying that they handle trees respectfully or during specific times (though the mist might just be artistic lighting).
+- **Service Scope:** The text explicitly mentions pruning, but also broadens the scope to "any tree, shrub or landscape need," indicating a general landscaping service capability.
+- **Regional Focus:** The presence of three distinct phone numbers (West Palm Beach, Boca Raton, Southern Martin County) and the address in Lake Worth confirms the business serves the specific South Florida region mentioned in the tagline.
+- **Pricing Strategy:** The phrase "PRICED RIGHT" is capitalized in bold, indicating a key selling point likely intended to reassure homeowners wary of high maintenance costs.
+- **Typography Hierarchy:** The headline uses a large, bold serif font for maximum impact, while the body text uses a smaller, readable serif font, and the contact info uses a sans-serif or distinct font style for quick scanning (though it appears to be a different font family, likely sans-serif).
+- **Local Presence:** The inclusion of "20 years service to South Florida" serves as social proof and establishes longevity in the local market.
+- **Tree Iconography:** The small tree logo near the address reinforces the brand identity visually before the user even reads the company name fully.
+- **Green Color Coding:** The phone numbers and website are printed in a dark green color, matching the natural theme of the advertisement.
+- **Problem-Solving Angle:** The copy focuses heavily on "solutions" and spotting problems before they become major, appealing to homeowners looking for preventative care rather than just emergency repairs.
+
+## Page 27 (DOC) [TAG:DOJ_CLEAN_V2]
+
+We're In,
+we're out,
+we're quick,
+we're clean
+
+Zimmerman Tree Service
+web: www.zimmermantreeservice.com
+
+Palm Beach County 561-968-1045
+Southern Martin County 772-546-0811
+Boca Raton/ Delray 561-338-3533
+
+
+Zimmerman Tree Service
+4660 71st Court South
+Lake Worth, FL 33463
+
+PRESORTED STANDARD
+U.S. POSTAGE
+PAID
+DUNNE-RITE MARKETING
+SYSTEMS INC.
+WEST PALM BEACH FL
+33405
+
+**********AUTOCR*** C010
+
+30623
+JEFFREY EPSTEIN
+OR CURRENT FAMILY RESIDING AT:
+358 EL BRILLO WAY
+PALM BEACH FL 33480-4730
+
+EFTA00007850
+
+## Structured Fields
+*   **Organization:** Zimmerman Tree Service, Dunne-Rite Marketing Systems Inc.
+*   **Name:** Jeffrey Epstein
+*   **Addresses:**
+    *   4660 71st Court South, Lake Worth, FL 33463 (Company Address)
+    *   358 El Brillo Way, Palm Beach FL 33480-4730 (Recipient Address)
+*   **Phone Numbers:**
+    *   561-968-1045 (Palm Beach County)
+    *   772-546-0811 (Southern Martin County)
+    *   561-338-3533 (Boca Raton/ Delray)
+*   **Document ID:** EFTA00007850
+
+## Page 28 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Yahoo! Mail - [REDACTED] @yahoo.com                                                Page 3 of 3
+
+Signed Rich As Hell and Free!
+
+[Delete] [Reply] [Forward] [Spam] [Move...]
+
+Previous | Next | Back to Messages
+
+[Check Mail] [Compose]                                                      [Search Mail] [Search the Web]
+
+Copyright © 1964-2005 Yahoo! Inc. All rights reserved. Terms of Service - Copyright/IP Policy - Guidelines - Ad Feedback
+NOTICE: We collect personal information on this site.
+To learn more about how we use your information, see our Privacy Policy
+
+                                                                                       10/6/2005
+                                                                                        EFTA00007851
+
+## Structured Fields
+- **Date**: 10/6/2005
+- **Organization**: Yahoo! Inc.
+- **Doc ID**: EFTA00007851
+
+## Page 29 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLONIAL BANK N.A.
+www.colonialbank.com Member FDIC
+
+LATE TRANSACTIONS
+Transactions accepted on Saturday
+or after 2 p.m. daily may be posted
+the following business day.
+
+THIS IS
+YOUR
+RECEIPT
+Thank
+You!
+
+The transaction indicated below is accepted in accordance with the terms and conditions specified on the signature card or in the account rules and regulations.
+Bank Symbol, Transaction Number, Date and Amount Are Shown Below.
+
+120
+[REDACTED]
+- 2 2 28
+DDA CHECK DEPOSIT ~ 09:15 20Jul.05 AM
+mds3201
+$5,670.00
+2022
+
+F-0060 (Rev. 4/05) CBG Printing
+EFTA00007852
+
+## Structured Fields
+- **Organization:** Colonial Bank N.A.
+- **Date:** 20Jul.05 (July 20, 2005)
+- **Transaction Type:** DDA CHECK DEPOSIT
+- **Amount:** $5,670.00
+- **Transaction ID/Code:** mds3201
+- **Time:** 09:15 AM
+- **Form Number:** F-0060 (Rev. 4/05)
+- **Case ID:** EFTA00007852
+- **Interest Rate/Fee indicator:** - 2 2 28
+

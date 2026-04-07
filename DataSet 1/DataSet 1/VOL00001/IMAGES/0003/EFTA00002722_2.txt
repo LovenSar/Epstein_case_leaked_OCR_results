@@ -1,0 +1,24 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002722.pdf ts=2026-03-05T22:27:00 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts an industrial mechanical room, likely housing a fire suppression system, characterized by white painted cinder block walls and a smooth grey floor. On the left side of the room, three vertical columns of industrial piping rise from the floor; these pipes feature numerous valves with red handles, pressure gauges with white faces, and control actuators wrapped in dark insulation or casings. Horizontal metal conduits run along the upper portion of the wall and ceiling line, connecting electrical boxes and sensors. In the center of the back wall, three identical red rectangular cabinets are mounted side-by-side; each unit features a blue logo resembling the word "VIKING" and is equipped with dual pressure gauges on its front face. Below these central cabinets, a bank of horizontal tubing runs parallel to the floor before connecting into a larger manifold pipe near the corner. To the right, a tall, vertical red cylindrical tank stands on a steel support frame; this large vessel has a label attached to its side and connects via vertical pipes to the main system at the top and bottom. Near the ceiling in the upper center, a galvanized steel HVAC duct with an air vent grille is visible. In the far left corner, a small red bucket sits on the floor near the base of the piping array. On the far right wall, partially cut off by the frame, a vertical panel with glass or plastic viewing windows (possibly a control panel) is mounted. The floor shows signs of age with minor rust staining near the legs of the large tank and scuff marks on the concrete surface.
+
+## Visible Text (verbatim)
+*   **VIKING** (Appearing on the center-left label of each of the three red wall-mounted cabinets)
+*   **EFTA00002722** (Watermark in the bottom right corner)
+*   **[Illegible text]** (On the side of the large vertical red tank; visible characters include a circle symbol near the top, but specific text is too small to transcribe accurately).
+
+## Notable Details / Clues
+*   **System Identification:** The presence of "VIKING" on the control boxes suggests this is a fire suppression system manufactured by Viking Fire Systems, known for clean agent (foam) extinguishing systems.
+*   **Pipe Material:** The thin-walled vertical pipes appear to be made of aluminum alloy or galvanized steel, common in foam proportioning systems to prevent corrosion and maintain cleanliness.
+*   **Red Color Coding:** Almost all safety-critical components (valves, cabinets, tank, bucket) are painted bright red, standard for fire protection equipment visibility.
+*   **Pressure Monitoring:** The presence of multiple pressure gauges on the vertical pipes and control boxes indicates the system relies on hydraulic or pneumatic pressure to detect leaks or initiate discharge.
+*   **Rust Indicators:** Rust stains are visible at the base of the large tank and along the floor near the piping, suggesting moisture issues or age in this environment.
+*   **HVAC Ventilation:** The large metal duct at the top suggests negative pressure ventilation is required when the room is occupied to prevent the accumulation of gas discharge agents.
+*   **Electrical Conduit:** Grey conduit running along the wall separates the power feed for the system from the fluid piping lines.
+*   **Zone Separation:** The three identical red boxes likely control distinct "zones" or nozzles within a larger room, allowing for localized fire suppression without releasing agents everywhere at once.
+*   **Valve Actuators:** Small black cylinders on the vertical pipes appear to be solenoid valves or actuators used to automatically shut off lines or release agent during an event.
+*   **Bucket Usage:** The red bucket in the corner may be used for catching drips during maintenance or holding tools, indicating active use or recent servicing of the facility.
+

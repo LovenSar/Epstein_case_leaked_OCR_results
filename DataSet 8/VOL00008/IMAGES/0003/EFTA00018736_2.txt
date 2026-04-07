@@ -1,0 +1,247 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018736.pdf ts=2026-03-13T20:47:30 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+2019-05665
+
+Item 2
+
+EFTA00018736
+
+## Structured Fields
+- Case ID/Doc ID: 2019-05665
+- Item Number: 2
+- Document Tracking ID: EFTA00018736
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NCRBM 531.01 *                              *   04-29-2020
+PAGE 001 OF 001 *                        INMATE HISTORY    *   09:22:47
+                                      QUARTERS                     *
+
+REG NO..: 76318-054 NAME....: EPSTEIN, JEFFREY EDWARD
+CATEGORY: QTR      FUNCTION: PRT               FORMAT:
+
+FCL ASSIGNMENT DESCRIPTION                 START DATE/TIME STOP DATE/TIME
+NYM Z04-[REDACTED] HOUSE Z/RANGE 04/BED (D)[REDACTED]AD 08-10-2019 0734 08-10-2019 0736
+NYM Z04-[REDACTED] HOUSE Z/RANGE 04/BED [REDACTED]       07-29-2019 1221 08-10-2019 0747
+NYM H01-[REDACTED] HOUSE H/RANGE 01/BED [REDACTED]        07-23-2019 0324 07-29-2019 1221
+NYM Z05-[REDACTED] HOUSE Z/RANGE 05/BED [REDACTED]        07-10-2019 1526 07-23-2019 0324
+NYM H01-[REDACTED] HOUSE H/RANGE 01/BED [REDACTED]        07-08-2019 1803 07-10-2019 1526
+NYM Z02-[REDACTED] HOUSE Z/RANGE 02/BED [REDACTED]        07-08-2019 1749 07-08-2019 1803
+NYM E06-547U       HOUSE E/RANGE 06/BED 547U               07-06-2019 2136 07-07-2019 1920
+NYM R01-[REDACTED] HOUSE R/RANGE 01/BED [REDACTED]        07-06-2019 2124 07-06-2019 2136
+
+G0000          TRANSACTION SUCCESSFULLY COMPLETED
+
+EFTA00018737
+
+## Structured Fields
+- **Report Date:** 04-29-2020
+- **Report Time:** 09:22:47
+- **REG NO.:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Category:** QTR
+- **Function:** PRT
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+2019-05665
+
+Item 3
+
+EFTA00018738
+
+## Structured Fields
+*   Case ID: 2019-05665
+*   Doc ID: EFTA00018738
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PP10
+NCRBM 535.07 * CIM CLEARANCE AND SEPARATEE DATA * 04-29-2020
+PAGE 001 OF 001 * * 09:20:18
+
+REGISTER NO: [76318-054] NAME: EPSTEIN, JEFFREY EDWARD
+
+REGISTER FIRST ARS ARS ARS ARS QTR
+NUMBER LAST NAME NAME FCL ASSIGN DATE TIME ASSIGN
+76318-054 EPSTEIN JEFFREY NYM DEATH 08-10-2019 0736
+
+****** FOI EXEMPT
+P0011 THIS INMATE HAS NO CMC ASSIGNMENTS
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG20.do[4/29/2020 9:21:09 AM]
+EFTA00018739
+
+## Structured Fields
+- **Case ID / Document Number:** NCRBM 535.07
+- **Page:** 001 of 001
+- **Date Generated:** 04-29-2020
+- **Time Generated:** 09:20:18
+- **Register No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **First Name:** JEFFREY
+- **Last Name:** EPSTEIN
+- **Status/Assign:** NYM DEATH
+- **Date:** 08-10-2019
+- **Time/Quarter:** 0736
+- **FOI Status:** EXEMPT
+- **Internal Note Code:** P00011 (No CMC Assignments)
+- **Document ID (Bottom Right):** EFTA00018739
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+2019-05665
+Item 4
+
+                                                                 EFTA00018740
+
+## Structured Fields
+- **Date/Case ID**: 2019-05665
+- **Document ID**: EFTA00018740
+- **Item Number**: Item 4
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NCRBM * INMATE DISCIPLINE DATA * 04-29-2020
+PAGE 001 OF 001 * CHRONOLOGICAL DISCIPLINARY RECORD * 09:21:56
+
+REGISTER NO: 76318-054 NAME..: EPSTEIN, JEFFREY EDWARD
+FUNCTION...: PRT FORMAT: CHRONO LIMIT TO ___ MOS PRIOR TO 04-29-2020
+
+
+G5463 NO ENTRIES EXIST IN CHRONOLOGICAL LOG FOR TIME PERIOD REQUESTED
+
+EFTA00018741
+
+## Structured Fields
+- **Date:** 04-29-2020
+- **Time:** 09:21:56
+- **Register No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Function/Created By:** PRT
+- **Format:** CHRONO
+- **Limit Date:** 04-29-2020
+- **Document ID (Bottom Right):** EFTA00018741
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+2019-05665
+Item 6
+
+
+## Structured Fields
+*   **Doc ID:** 2019-05665
+*   **Item Number:** Item 6
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```html
+<html>
+<body>
+<p>PPG0</p> 
+ <pre>NCRBM    600.00 *                                          SECURITY/DESIGNATION          *     04-29-2020
+PAGE 001 OF 001 *                                         DATA                         *     09:25:22
+   REGNO: [76318-054]                      NAME: EPSTEIN, JEFFREY EDWARD                            ORG:
+RC/SEX/AGE: W/M/66  FORM D/T:                                              RES: NEW YORK, NY 10021
+OFFN/CHG..: SEX TRAFFICKING CONSP.
+   SEX TRAFFICKING OF MINORS
+
+CUSTODY...:                                            BIL:                              CITIZENSHIP: UNITED STATES OF AMERICA
+CIM CONS..:                                              USM:
+JUDGE....:                                          RECFACL/PGM:                                 VOLSUR:
+VS DT/LOC:                                        MOS REL:                 SEVERITY:
+CHP/CHS/S:                                     VIOLENCE:                   ESCAPES..:
+DETAINDER..:                                   AGE:                  EDUC LV:                             HGC:
+DRUG/ALC..:                                   TOTAL:              SEC LVL:
+PUB SAFTY:                                     CAR MD/MH:                       OMDT REF:
+CCM RMKS..:</pre> 
+ <p>P5110                                      DESIGNATION RECORD DOES NOT EXIST FOR THIS INMATE</p>
+</body>
+</html>
+```
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PPG6
+NCRBM 606.00 *                    MALE CUSTODY CLASSIFICATION FORM        *      04-29-2020
+PAGE 001 OF 001                                                09:25:54
+
+                                        (A) IDENTIFYING DATA
+REG NO.: [76318-054]                                  FORM DATE:
+NAME.....: EPSTEIN, JEFFREY EDWARD                      ORG:
+                                                    CR HX PT:
+PUB SFTY:                                                 MGTV:
+                                                        MVED:
+                                        (B) BASE SCORING
+DETA INER:                                              SEVERITY......:
+MOS REL.:                                               CRIM HIST SCORE:
+ESCAPES.:                                               VIOLENCE......:
+VOL SURR:                                                AGE CATEGORY...:
+EDUC LEV:                                                DRUG/ALC ABUSE.:
+                                        (C) CUSTODY SCORING
+TIME SERVED......:                                      PROG PARTICIPAT:
+LIVING SKILLS...:                                       TYPE DISCIP RPT:
+FREQ DISCIP RPT.:                                      FAMILY/COMMUN. .:
+
+                              --- LEVEL AND CUSTODY SUMMARY ---
+BASE CUST VARIANCE  SEC TOTAL  SCORED LEV MGMT SEC LEVEL CUSTODY CONSIDER
+
+P5154                  CUSTODY CLASSIFICATION RECORD DOES NOT EXIST FOR THIS INMT
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG60.do[4/29/2020 9:26:06 AM]
+EFTA00018744
+
+## Structured Fields
+*   **Date:** 04-29-2020
+*   **Reg No:** 76318-054
+*   **Name:** EPSTEIN, JEFFREY EDWARD
+*   **Document Title:** MALE CUSTODY CLASSIFICATION FORM (NCRBM 606.00)
+*   **Status Message:** CUSTODY CLASSIFICATION RECORD DOES NOT EXIST FOR THIS INMT
+*   **Tracking ID:** EFTA00018744
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+2019-05665
+Item 7
+
+
+EFTA00018745
+
+## Structured Fields
+*   **Case ID**: 2019-05665
+*   **Item Number**: 7
+*   **Document Identifier**: EFTA00018745
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NCRBM 535.03 *                                INMATE PROFILE                                  *        04-29-2020
+PAGE 001 OF 001                                                                      09:23:16
+                                            76318-054          REG
+REGNO: 76318-054                           FUNCTION: PRT DOB/AGE.: 01-20-1953 / 66
+NAME.: EPSTEIN, JEFFREY EDWARD             R/S/ETH.: W/M/O         WALSH: YES
+RSP.: NYM-NEW YORK MCC                     MILEAGE.: 5 MILES
+PHONE: [REDACTED]                         FAX: [REDACTED]
+ARS ASSIGNMENT..: DEATH                          FBI NO..:
+ARS DATE/TIME...: 08-10-2019/0736              INS NO..:
+PROJ REL METHOD: UNKNOWN                    SSN.....: [REDACTED]
+PROJ REL DATE..: UNKNOWN                   DETAINER: NO CMC..: NO                                        PSYCH: NO
+                                          - - - - - - - RELEASE DESTINATION - - - - - - -
+AGENCY.............:
+DST ASSIGNMENT.....:
+ADDRESS...........: [REDACTED]
+OFFN/CHG RMKS: SEX TRAFFICKING CONSP.
+OFFN/CHG RMKS: SEX TRAFFICKING OF MINORS
+FACL CATEGORY       - - - -  CURRENT ASSIGNMENT - - - -   EFF DATE    TIME
+NYM ADM-REL         DEATH    DEATH                    08-10-2019  0736
+NYM CARE LEVEL      CARE1-MH CARE1-MENTAL HEALTH      07-08-2019  0934
+NYM CASE MGT        CFSA     CERT FOOD SINCERITY APPROVAL   07-19-2019  1209
+NYM EDUC INFO       GED UNK  GED STATUS UNKNOWN              07-06-2019  2124
+NYM FIN RESP        UNASSG   FINANC RESP-UNASSIGNED          07-06-2019  2124
+NYM RELIGION        UNKNOWN   RELIGION UNKNOWN              07-06-2019  2124
+
+G0000 TRANSACTION SUCCESSFULLY COMPLETED
+
+EFTA00018746
+

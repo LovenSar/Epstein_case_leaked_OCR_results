@@ -1,0 +1,58 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00013289.pdf ts=2026-03-11T14:16:36 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, likely an email or a snippet from a legal correspondence system, featuring significant redaction via black bars over sensitive information. The header section contains standard email metadata fields, though the "From" and recipient fields are completely obscured. The date of the communication is clearly visible as Thursday, January 7, 2021.
+
+The body of the text begins with a salutation to an unnamed recipient. The first paragraph informs the recipient that "Our chiefs" have approved reaching out to defense counsel and provides contact details for them. A subsequent paragraph lists three specific attorneys: Susan Necheles, Kate Cassidy, and Samidh Guha. Their phone numbers are redacted. Following this list is a large section of the document obscured by multiple horizontal black bars, presumably containing the "brief recap" mentioned in the previous paragraph.
+
+Below the heavy redaction block, the text resumes to discuss a lack of communication from the counsel since a specific date ("that date"). It mentions an email sent on Monday to check in. The final visible text addresses deadlines, deferring judgment to the recipient. The signature block is mostly redacted but identifies the sender as an "Assistant United States Attorney" from the "Southern District of New York," located at "One Saint Andrew's Plaza." A document reference number appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+From: [Redacted]
+[Redacted bars]
+Date: Thu, 07 Jan 2021 17:19:35 +0000
+Embedded: following_up.msg
+
+**Body:**
+Hi [Redacted]
+
+Our chiefs let us know that you’re planning to reach out to defense counsel, and that you had a few questions for us about the current status. Below is the contact information for defense counsel, as well as a brief recap of where we are in our discussions with counsel. Please let us know if any additional information would be useful.
+
+[Redacted bar] (n) is represented by three attorneys, all of whom have been on our calls over the past months. I don’t have direct numbers for them, as I believe they’re all working remotely. We emailed them to let them know you were planning to reach out. Here is their contact information:
+
+Susan Necheles: [Redacted]
+Kate Cassidy: [Redacted]
+Samidh Guha: [Redacted]
+
+[Redacted blocks obscuring text]
+
+[Redacted blocks obscuring text]
+
+We have not heard from them since that date. We emailed them on Monday to check in and have not heard back. Regarding deadlines, we of course defer to your judgment, and have no issue if you decide to extend it when you speak with them.
+
+Thanks very much,
+
+[Redacted Signature/Name]
+
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+
+[Redacted Bar]
+
+**Footer:**
+EFTA00013289
+
+## Notable Details / Clues
+*   **Legal Context:** The sender identifies as an "Assistant United States Attorney" in the Southern District of New York (SDNY), confirming this is a federal legal document.
+*   **Recipient Relationship:** The use of "Our chiefs" and the tone suggests the sender is working alongside or within a coalition with the recipient, likely another defense team or law firm.
+*   **Date Logic:** The email was sent on Thursday, January 7, 2021. The text mentions emailing counsel on "Monday," which corresponds to Monday, January 4, 2021, confirming the timeline consistency.
+*   **Attorney Identification:** The list includes Susan Necheles, Kate Cassidy, and Samidh Guha. These names are associated with Covington & Burling LLP (Samidh Guha is a known partner there), suggesting the defense counsel firm involved.
+*   **Redaction Strategy:** There is a distinction between short redactions (names/phone numbers) and large block redactions (the "brief recap" of case status). The latter suggests this document was likely made public or filed with the court but had sensitive case strategy details scrubbed out.
+*   **Embedded Message:** The line "Embedded: following_up.msg" indicates that the body text shown might be a preview of an attachment or a specific message type referenced in the email header, rather than just plain text pasted from a previous thread.
+*   **Remote Work Indication:** The sender notes they believe the opposing counsel are "all working remotely," which is consistent with early pandemic-era legal practices (early 2021).
+

@@ -1,0 +1,65 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018026.pdf ts=2026-03-13T14:59:45 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread concerning a legal case. The top section features an email header from "Nathan NYSD Chambers" addressed to "David Oscar Markus." Several recipient addresses are partially redacted with black bars, while others remain visible (bcsternheim_mac.com, Jeff Pagliuca, Laura Menninger, Christian Everdell). The subject line references "United States v. Maxwell 20-Cr-330," indicating a criminal case in the Southern District of New York dated July 30, 2021. Below this header is a brief message from the Chambers acknowledging an attachment. A large, solid black rectangle obscures the middle section of the document, likely hiding additional email content or attachments. The bottom section reveals a reply email sent by "David" (presumably David Oscar Markus) to Judge Nathan. This email includes a yellow security banner warning recipients it is external mail. The text explains that because the sender lacks filing privileges in the Southern District of New York, he is emailing his response directly and requesting it be filed on the public docket. The email ends with a signature block for David Oscar Markus and an exhibit reference number in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header Section:**
+From: Nathan NYSD Chambers [Redacted]
+To: David Oscar Markus [Redacted]
+Cc: bcsternheim_mac.com[Redacted], Jeff Pagliuca [Redacted], Laura Menninger [Redacted], "Christian Everdell"
+Subject: Re: Response of David Oscar Markus in United States v. Maxwell 20-Cr-330
+Date: Fri, 30 Jul 2021 21:26:37 +0000
+Attachments: 20cr330_Order_7.30.21.pdf
+
+**Email Body (Top):**
+Dear Counsel:
+Please see attached.
+Sincerely,
+Chambers of Judge Nathan
+
+**Redacted Section:**
+[Solid Black Box]
+
+**Email Body (Bottom):**
+Subject: Response of David Oscar Markus in United States v. Maxwell 20-Cr-330
+CAUTION - EXTERNAL:
+Dear Judge Nathan,
+I hope this email finds you and your staff doing well.
+On June 30, 2021, the Government filed a letter directed at me, and this Court ordered that I respond by today. I have not entered an appearance in this proceeding and am not a member of the Southern District of New York, so I do not have filing privileges. Accordingly, I am emailing this responsive letter to Chambers and respectfully request that it be filed on the public docket.
+If the Court prefers that I have it filed it in a different fashion, please let me know.
+I am, of course, also copying government counsel and defense counsel.
+Have a nice weekend,
+David
+
+--David Oscar Markus
+Markus/Moss
+markuslaw.com
+
+**Footer:**
+EFTA00018026
+
+## Notable Details / Clues
+*   **Case Number:** The case is identified as "United States v. Maxwell 20-Cr-330," indicating a criminal proceeding (Cr) in the year 2020 (20-Cr).
+*   **Judicial Authority:** The email comes from "Chambers of Judge Nathan," referring to U.S. District Judge Aaron E. P. Nathan, who presides over criminal cases in New York.
+*   **Filing Privilege Issue:** A key legal point is raised: the sender (David Oscar Markus) does not have "filing privileges" because he has not entered an appearance in the Southern District of New York, necessitating this direct email submission rather than an official filing system upload.
+*   **Date Discrepancy:** The date on the email header (July 30, 2021) differs from the "response by today" date mentioned in David's body text (June 30, 2021), implying a deadline passed or a correction in the timeline.
+*   **Parties Involved:** The CC list includes legal counsel names like John Sternheim, Jeff Pagliuca, and Laura Menninger, suggesting high-profile representation.
+*   **Security Banner:** The "CAUTION - EXTERNAL" banner indicates this email originated from outside the recipient's organization (likely a court system or law firm Outlook server).
+*   **Attachment Name:** The attached PDF is named "20cr330_Order_7.30.21.pdf," linking directly to the date and case number found in the header.
+*   **Redaction Extent:** Large portions of email addresses and potentially specific content are blacked out, likely to protect private contact information or sensitive data during the release of this document.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+305-379-6667
+
+CAUTION - EXTERNAL EMAIL: This email originated outside the Judiciary. Exercise caution when opening attachments or clicking on links.
+
+## Structured Fields
+
+*   **Phone Number**: 305-379-6667
+*   **Document ID**: EFTA00018027
+*   **Organization**: Judiciary
+

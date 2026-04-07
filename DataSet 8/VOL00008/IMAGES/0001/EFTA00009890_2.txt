@@ -1,0 +1,195 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00009890.pdf ts=2026-03-09T22:09:03 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document containing an email thread, likely viewed in a desktop client or browser. The document is vertically split into two distinct email headers and bodies separated by a thin horizontal line. The top section represents the most recent reply or message, while the bottom section contains an earlier message with detailed instructions regarding legal filings.
+
+**Top Section:**
+The header shows standard email fields ("From:", "To:", "Cc:") which have been heavily redacted (blacked out). The subject line indicates a legal case, "US v Maxwell," and discusses "conferrals regarding pretrial disclosures & redactions to replies." The date is Tuesday, April 20, 2021, late at night (23:13). An attachment named "2021-04-20_GM_Government_letter_re_Reply_Brief_Redactions.pdf" is listed. Below the header is a body of text that begins with a redacted bar. The visible text confirms an attachment is included and asks for discussion points before filing that evening. It ends with "Thanks," followed by another redacted signature block.
+
+**Middle Section:**
+A horizontal gray line separates the top email from the bottom one. A second email header appears immediately below the line, also with redacted sender/receiver info but a clear subject line identical to the top email ("RE: US v Maxwell...").
+
+**Bottom Section:**
+This section contains a message written in blue text (typical for hyperlinks or specific formatting in email clients). It outlines a policy regarding redactions, stating they are generally due to "Confidential" designations by the government. The message details specific positions on "Reply Brief 1" and "Reply Brief 3." For Reply Brief 1, it proposes a strategy involving filing a brief without redactions but an Exhibit A under seal. For Reply Brief 3, it discusses redactions related to AUSAs (Assistant United States Attorneys) and accusers. The text is cut off or obscured by black bars covering specific names or titles. In the bottom right corner, there is a document ID number: "EFTA00009890".
+
+## Visible Text (verbatim)
+**Top Email Header:**
+From: [Redacted Black Box]
+To: [Redacted Black Box]
+Cc: [Redacted Black Box]
+Subject: RE: US v Maxwell - [conferrals regarding pretrial disclosures & redactions to replies]
+Date: Tue, 20 Apr 2021 23:13:00 +0000
+Attachments: 2021-04-20_GM_Government_letter_re_Reply_Brief_Redactions.pdf
+Inline-Images: image001.jpg
+
+**Top Email Body:**
+[Redacted Black Box]
+As discussed, attached is the letter that I plan to file this evening. Please let me know if there is anything you would like to discuss.
+Thanks,
+[Redacted Black Box]
+
+**Bottom Email Header:**
+From: [Redacted Black Box]
+Sent: Tuesday, April 20, 2021 2:05 PM
+To: [Redacted Black Box]
+Cc: [Redacted Black Box]
+Subject: RE: US v Maxwell - [conferrals regarding pretrial disclosures & redactions to replies]
+
+**Bottom Email Body:**
+Following-up on [Redacted Black Box] email, we are not seeking any redactions. As a general matter, the redactions we proposed in our reply briefs are almost entirely because the information was designated as Confidential by the government under the Protective Order. Accordingly, you are free to justify to the court any redactions you think are necessary. Our specific positions on the redactions in each brief are set forth below. Please confirm that the proposed course of action with respect to each brief is acceptable.
+
+Reply Brief 1
+The redactions relate to information designated as Confidential by the government under the Protective Order. The defense has no objection to removing the redaction on page 5 and filing the brief and Exhibit A on the public record. Given that the government takes no position about the redaction on page 5, but does want Exhibit A to remain under seal, we propose the following: (1) we will file the brief on the docket without redactions, but we will file Exhibit A under seal; and (2) the government can argue its position to the court in its letter that Exhibit A should remain under seal. If the judge does not agree, we will file Exhibit A on the docket at that time.
+
+Reply Brief 3
+The redactions in the brief all relate to the names of AUSAs, the names of accusers, and [Redacted Black Box]. As to the accusers and [Redacted Black Box] the defense has no objection to removing those redactions. As to the AUSAs, we made
+
+**Footer:**
+EFTA00009890
+
+## Notable Details / Clues
+*   **Legal Context:** The correspondence is clearly part of a legal defense strategy for the case "US v Maxwell." The attorneys are discussing "Reply Briefs" and how to handle information marked as "Confidential" under a "Protective Order."
+*   **Redaction Strategy:** The text reveals a nuanced approach to redactions. The defense argues that since the government designated info as confidential, they can file without redactions on the public docket unless the court disagrees (for specific items like Exhibit A).
+*   **Privacy Sensitivity:** The black boxes obscure personal names (likely legal counsel), email addresses, and potentially sensitive case details (names of accusers or specific AUSAs).
+*   **Timeline Discrepancy:** The top email is timestamped for 23:13 (11:13 PM), while the bottom email inside it was sent at 14:05 (2:05 PM) on the same day, suggesting a reply chain where the top sender responded late at night to a mid-day instruction.
+*   **Incomplete Text:** The paragraph under "Reply Brief 3" cuts off abruptly after "As to the AUSAs, we made," implying the text might have been scrolled or the image was cropped before the sentence finished.
+*   **Document Metadata:** The file attachment name suggests a government letter ("GM_Government_letter") regarding reply brief redactions.
+*   **Tracking ID:** The code "EFTA00009890" in the corner suggests this image is from an archived record or news leak database (likely EFF).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+those redactions as a courtesy because we did not think it was necessary or appropriate to publicly name the AUSAs. The defense takes no position with respect to those redactions.
+
+As for the exhibits, we filed certain exhibits under seal because they were designated as Confidential by the government under the Protective Order. The defense has no objection to filing all of the exhibits on the public record, although we agree that email addresses and other contact information for third parties should be redacted pursuant to the court’s local rules. You point out that the court has already adopted the government’s proposed redactions to Exhibits J and O. The defense is certainly prepared to follow those redactions. But since the government will need to justify the need for other redactions to the court, it makes more sense for the government to explain to the court in its letter that it would like to follow the redactions already adopted by the court for Exhibits J and O.
+
+Given the disagreement among the parties, we will not file the brief or the exhibits on the docket and the government can argue its position to the court in its letter.
+
+Reply Brief 5
+
+The defense does not believe the redaction on p.4 is necessary. Given the agreement between the parties, we will file the brief unredacted.
+
+Reply Brief 6
+
+The redactions relate to information designated as Confidential by the government under the Protective Order. The defense has no objection to removing the redactions and filing the brief on the public record. Given that the government wants to keep the redactions, we will not file the brief on the docket and the government can argue its position to the court in its letter.
+
+Reply Brief 10
+
+The redactions relate to information designated as Confidential by the government under the Protective Order. The defense has no objection to removing the redactions and filing the brief and Exhibit A on the public record. Given that the government wants to keep the redactions and keep Exhibit A under seal, we will not file either document on the docket and the government can argue its position to the court in its letter.
+
+Please let me know if you would like to discuss.
+
+Regards,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, April 19, 2021 8:17 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: US v Maxwell - [conferrals regarding pretrial disclosures & redactions to replies]
+[REDACTED]
+
+We can confirm for 3:00 pm EST tomorrow. Please use the following dial-in number:
+[REDACTED]
+
+We will write separately regarding the redactions that you propose.
+
+EFTA00009891
+## Structured Fields
+- Date Sent: Monday, April 19, 2021
+- Time Sent: 8:17 PM
+- Case Reference: US v Maxwell
+- Document ID: EFTA00009891
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks,
+
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, April 19, 2021 4:55 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: US v Maxwell - [conferrals regarding pretrial disclosures & redactions to replies]
+
+[REDACTED]
+
+We are available to speak tomorrow after 2:30 pm EST. On the issue of redactions, on Friday, Judge Nathan ordered the parties to docket the April 1, 2021 joint letter or to propose redactions by April 19, 2021. (Dkt. 203). We do not believe any redactions are necessary to the letter. Assuming you agree, will you please docket the letter since you wrote the letter? If you would like to discuss, please let us know.
+
+As to the redactions to the undocketed Reply Briefs and certain exhibits you proposed being filed under seal, below please find our position for inclusion in a letter. If you would like to discuss tomorrow, please let us know.
+
+Reply Brief 1
+
+The Government takes no position on the defendant’s proposed redaction on page 5 of Reply Brief 1. The defense submitted Exhibit A to Reply Brief 1 under seal and the Government agrees that Exhibit A should remain sealed in order to protect the privacy interests of victims and third parties.
+
+Reply Brief 3
+
+The Government agrees with the defense’s proposed redactions to Reply Brief 3, which are narrowly tailored to cover information implicating the personal privacy interests of victims and third parties. Further, the proposed redactions are consistent with the redactions ordered by the Court on March 18, 2021. (Dkt. 168).
+
+As to the exhibits to Reply Brief 3, the defense submitted Exhibits L, M, and N under seal. The Government filed Exhibit L in connection with its Omnibus Memorandum of Law in Opposition to the Defendant’s Pretrial Motions as Exhibit 6. Exhibit 6 was filed without any redactions and accordingly, the Government does not object to the public filing of Exhibit L. The Government does not object to the public filing of Exhibits M and N, but respectfully submits that the names and email addresses/contact information of third parties should be redacted from Exhibits M and N to protect the privacy interests of third parties.
+
+The defense also submitted Exhibits J and O to Reply Brief 3 under seal. The Government filed Exhibits 5 and 7 to its opposition, which are, respectively, redacted versions of Exhibits J and O. See Dkt. 204. The Government had set forth proposed redactions to Exhibits 5 and 7 in order to protect the privacy interests of third parties, which the Court adopted on March 18, 2021 (see Dkt. 168). Accordingly, the Government respectfully submits that the defense should redact Exhibits J and O to Reply Brief 3 to reflect the redactions approved by the Court and reflected in the publicly filed versions of Exhibits 5 and 7 to the Government’s opposition.
+
+Reply Brief 5
+
+The Government respectfully submits that there is no basis under the applicable standard to redact the language that the defendant proposes redacting in Reply Brief 5 as it refers to language contained in the publicly-filed Indictment in this case. The information in the Indictment is part of the public record and, therefore, has a diminished privacy interest.
+
+EFTA0000982
+
+## Structured Fields
+- **Date**: Monday, April 19, 2021; Friday; April 1, 2021; March 18, 2021
+- **Case ID**: US v Maxwell
+- **Organization**: Government
+- **Judge**: Judge Nathan
+- **Docket Numbers (Doc IDs)**: Dkt. 203, Dkt. 168, Dkt. 204
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Reply Brief 6
+The Government agrees with the defense’s proposed redactions to Reply Brief 6, which are narrowly tailored to cover information implicating the personal privacy interests of third parties. The proposed redactions are consistent with the proposed redactions requested by the Government on pages 158 to 159 and 163 of its opposition to the defendant’s pretrial motions, which the Court granted on March 18, 2021. (Dkt. 168).
+
+Reply Brief 10
+The Government agrees with the defense’s proposed redactions to Reply Brief 10, which are narrowly tailored to cover information implicating the personal privacy interests of third parties and are consistent with prior redactions in earlier briefing. The Government further agrees that Exhibit A to Reply Brief 10 should be filed under seal to protect the personal privacy interests of the third party implicated in the document.
+Thanks,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, April 19, 2021 12:31 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: US v Maxwell - [conferrals regarding pretrial disclosures & redactions to replies]
+
+Counsel –
+
+I am writing to schedule a time for counsel to formally confer on two issues.
+
+First, we need to confer regarding the pretrial disclosure deadlines, as directed in the Court’s Friday order (Dkt. 207 at 34). Although we tentatively discussed some possible deadlines while we were together last week, the Court’s opinion includes other upcoming deadlines we did not discuss and we may need to adjust our proposals based on her opinion.
+
+Second, we need to confer regarding redactions to the as yet undocketed Replies in support of our Pretrial Motions (Dkt. 205).
+
+We are generally available tomorrow (Tuesday) for a call. Please let me know a time that works from your end and I can circulate a dial-in number.
+
+Thanks,
+Laura
+
+[REDACTED]
+
+CONFIDENTIALITY NOTICE: This e-mail transmission, and any documents, files or previous e-mail messages attached to it may contain information that is confidential or legally privileged. If you are not the intended
+EFTA00009893
+
+## Structured Fields
+*   **Date:** March 18, 2021; April 19, 2021
+*   **Case Name:** US v Maxwell
+*   **Document IDs / Docket Numbers:** Dkt. 168, Dkt. 207 at 34, Dkt. 205, Reply Brief 6, Reply Brief 10, Exhibit A
+*   **Names:** Laura
+*   **Organizations/Entities:** The Government, the defense, the Court
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+recipient, or a person responsible for delivering it to the intended recipient, you are hereby notified that you must not read this transmission and that any disclosure, copying, printing, distribution or use of any of the information contained in or attached to this transmission is STRICTLY PROHIBITED. If you have received this transmission in error, please notify the sender by telephone or return e-mail and delete the original transmission and its attachments without reading or saving it in any manner. Thank you.
+
+## Structured Fields
+*   **Doc ID**: EFTA00009894
+

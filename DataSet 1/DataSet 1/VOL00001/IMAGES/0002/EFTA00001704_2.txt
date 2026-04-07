@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001704.pdf ts=2026-03-05T14:16:31 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+-   **Upper Wall Assembly:** Along the top edge, a horizontal metal rail holds a row of approximately eight gray, rectangular optical transceivers or adapter plates. Above these are white fiber optic cables looping loosely against the wall. To the right of this row, a dense bundle of black coaxial or Ethernet cables hangs from the ceiling area, partially coiled.
+-   **Wall-Mounted Electronics:** Below the top rail, a gray box with multiple ports (resembling an OLT or splitter unit) is mounted on the white cinder block wall. Further down to the left, two smaller rectangular devices are mounted: one is orange and black, the other is silver/black with antennas or connectors sticking up.
+-   **Cabling and Wiring:** A chaotic tangle of black power cords and network cables dominates the left side and center. These cables are zip-tied in various places but trail down towards the floor. White electrical conduit runs vertically near the top right corner.
+-   **Right Side Rack:** To the right, a black server rack chassis is visible. Inside, equipment bays contain numerous ports plugged with bright blue and orange twisted-pair Ethernet cables (likely Cat5e or Cat6), which hang loosely in a large bundle at the bottom of the rack.
+-   **Center Black Object:** In the foreground center stands a tall, black rectangular panel or door. It features several strips of blue painter's tape applied horizontally, obscuring what would likely be labels. It appears to be a cabinet door standing open or leaning against the rack.
+-   **Left Side Infrastructure:** A large-diameter gray PVC pipe runs vertically from the top to the bottom on the far left. Below it, a beige junction box is mounted. Further down, a black power supply brick hangs from a cable looped over a white ledge or shelf.
+-   **Flooring and Base:** The floor consists of square, reddish-brown terracotta tiles with light grout lines. Underneath the center of the black cabinet/rack setup, an orange textured anti-slip mat is visible on the floor.
+-   **Wall Condition:** The white walls show signs of age and humidity, particularly on the right side where there are vertical stains running down from the ceiling/pipe area, suggesting potential moisture or water damage issues.
+-   **Left Shelf/Ledge:** A concrete or painted metal ledge runs along the bottom left edge, showing signs of rust or orange discoloration near the base, indicating an industrial or basement setting.
+
+## Visible Text (verbatim)
+-   EFTA00001704 (Bottom right corner in white text)
+-   [Blue tape labels on center black panel - illegible]
+-   [Small text on gray wall box - largely illegible, possibly "E20" series markings]
+
+## Notable Details / Clues
+-   **Telecommunications Environment:** The presence of SC/APC-style fiber adapters (the small white connectors on the top rail) and a network switch or OLT unit suggests this is a telecommunications closet or a dedicated server room for a building.
+-   **Rust/Staining:** The orange discoloration on the ledge in the bottom left strongly suggests iron oxide rust, implying the presence of metal components nearby or water intrusion. Similarly, the staining on the wall to the right hints at chronic moisture exposure.
+-   **Cable Management:** While there are zip ties present, the cabling is somewhat disorganized. The black cables hanging from the top right and looping down the left suggest a lack of structured raceways for loose wiring in this specific area.
+-   **Tape Markings:** The blue painter's tape on the black panel implies that labels were either temporary, obscured by dust, or perhaps indicating areas for future labeling/upgrade work.
+-   **Power Supply:** The black brick hanging on the left is a standard AC-to-DC power adapter, likely feeding one of the wall-mounted electronics.
+-   **Safety Equipment:** The orange mat under the equipment suggests a concern for slipping, which fits with a wet basement environment (reinforced by the rust stains).
+

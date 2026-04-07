@@ -1,0 +1,67 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010202.pdf ts=2026-03-10T01:56:46 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot of an email thread involving multiple redactions (black bars obscuring names and specific details). The communication concerns granting access to "Relativity," a sophisticated e-discovery software platform, specifically for a database related to Jeffrey Epstein ("Epstein SW Database").
+
+**Top Email Segment:**
+At the top of the document is the header of the first email. The "From," "To," and "Cc" fields are entirely obscured by large black bars. Below these fields, the subject line reads "RE: Relativity Access -- Epstein SW Database." The timestamp indicates the email was sent on Friday, December 4, 2020, at 19:24:28 UTC. There is one attachment listed: a PDF file named "EOUSA_MEGA4_Account_Request_and_ROB_Form.pdf". The body of this message begins with a greeting ("Hello,") and instructs the recipient to have an agent fill out the attached form. It specifically asks for the user's phone model (iPhone or Android) because it is needed for setting up an RSA token, which is a type of multi-factor authentication. The email concludes with "Thank you" followed by a redacted signature block.
+
+**Separator and Second Email Segment:**
+A horizontal line separates the first message from a reply or continuation below it. This lower section shows a header where the sender and recipient are again obscured. However, the subject line is partially visible below a black bar: "Subject: Relativity Access -- Epstein SW Database."
+
+The body of this second email starts with "Hi" followed by a redacted name. The text continues to request assistance in obtaining a Relativity token for an individual whose name is obscured. It identifies the recipient as "an FBI analyst working on this case with us." There is a note stating that another person "[REDACTED] is copied here." The message closes with "Thanks very much," followed by another redacted signature block.
+
+**Footer and Signature Block:**
+Below the second signature block, visible text identifies the signatory's role as an "Assistant United States Attorney" located in the "Southern District of New York" at "One Saint Andrew's Plaza, New York, NY 10007." In the bottom right corner of the page, a document control number or Bates number is visible: "EFTA00010202".
+
+## Visible Text (verbatim)
+
+**Header:**
+*   **From:** [Redacted]
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** RE: Relativity Access -- Epstein SW Database
+*   **Date:** Fri, 04 Dec 2020 19:24:28 +0000
+*   **Attachments:** EOUSA_MEGA4_Account_Request_and_ROB_Form.pdf
+
+**Body (First Email):**
+Hello,
+Please have the agent fill out the attached form. I will also need to know if the she has an IPhone or Android phone as it is needed for the RSA token.
+Thank you.
+
+[Redacted Signature]
+
+**Header (Second Email):**
+*   **From:** [Redacted]
+*   **Sent:** Friday, December 4, 2020 2:19 PM
+*   **To:** [Redacted]
+*   **Subject:** Relativity Access -- Epstein SW Database
+
+**Body (Second Email):**
+Hi [Redacted]
+Could you please assist us in obtaining a Relativity token for [Redacted] an FBI analyst working on this case with us?
+[Redacted] is copied here.
+Thanks very much,
+[Redacted Signature]
+
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew's Plaza
+New York, NY 10007
+[Redacted Phone Number]
+
+**Footer:**
+EFTA00010202
+
+## Notable Details / Clues
+
+*   **Context of the Epstein Case:** The subject line "Epstein SW Database" links this correspondence to the investigations into Jeffrey Epstein. The date (Dec 4, 2020) is significant as it was shortly after Epstein died in his prison cell on August 10, 2019, and the subsequent release of new victim accounts and legal filings in late 2020.
+*   **Security Measures:** The request for an "RSA token" and a specific phone model (iPhone/Android) indicates that high-security multi-factor authentication is being deployed to access sensitive litigation files (Relativity). This suggests the data is classified or highly restricted, likely involving protected victim identities.
+*   **Jurisdiction:** The signature block identifies the sender as working in the Southern District of New York (SDNY), which is the federal court jurisdiction where most of the high-profile legal cases against Epstein and Ghislaine Maxwell were prosecuted.
+*   **Agency Involvement:** The explicit mention of an "FBI analyst" confirms that law enforcement investigators directly need access to this litigation data, blurring the lines between private investigation firms (using Relativity) and government agencies during the discovery process.
+*   **Document Formatting:** The email appears to be a raw export or screenshot from an e-discovery platform or a lawyer's email client, given the specific formatting of the headers and the attachment filename "EOUSA_MEGA4...". "EOUSA" likely stands for Eastern District of United States (though here it is SDNY), suggesting this might be a forwarded thread from a different district or a standard internal code.
+*   **Specific Instruction:** The instruction to check if the recipient has an iPhone or Android specifically for an RSA token suggests a reliance on a specific hardware key generator app that was supported on mobile devices at the time, likely Microsoft Authenticator or similar, though RSA traditionally referred to physical tokens or specific app-based protocols.
+

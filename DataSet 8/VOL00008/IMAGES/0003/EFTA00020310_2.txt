@@ -1,0 +1,681 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00020310.pdf ts=2026-03-14T12:31:20 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+JEFFREY F EPSTEIN
+Billing Account Shipping Address:
+JEFFREY F EPSTEIN
+
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2081-6
+Page: 1 of 9
+FedEx Tax ID: 71-0427007
+
+Invoice Questions?
+Contact FedEx Revenue Services
+Phone: (800) 622-1147 M-F 7-6 (CST)
+Fax: (800) 548-3020
+Internet: www.fedex.com
+
+Invoice Summary Oct 27, 2003
+FedEx Express Services
+Transportation Charges 602.65
+Base Discount -63.90
+Special Handling Charges 56.24
+
+Total Charges..................USD $. 594.99
+TOTAL THIS INVOICE...........USD $ 594.99
+You saved $63.90 in discounts this period!
+
+The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express.
+To ensure proper credit, please return this portion with your payment to FedEx.
+Please do not staple or fold. Please make your check payable to FedEx.
+[ ] For change of address, check here and complete form on reverse side.
+
+Remittance Advice
+Your payment is due by Nov 11, 2003
+
+11442081492330001&300005949948
+
+SP 01 000001 97702 A 1 ASGLP
+JEFFREY F EPSTEIN
+
+Invoice Number | Account Number | Amount Due
+---|---|---
+4-923-30001 | [REDACTED] | USD $ 594.99
+
+FedEx
+P.O. Box 1140
+Memphis TN 38101-1140
+[Barcode]
+
+EFTA00020310
+
+## Structured Fields
+- **Date:** Oct 27, 2003 (Invoice Date); Nov 11, 2003 (Payment Due)
+- **Case ID / Invoice Number:** 4-923-30001
+- **Account Number:** 1144-2081-6
+- **FedEx Tax ID:** 71-0427007
+- **Location:** Memphis TN 38101-1140
+- **Names:** Jeffrey F Epstein
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx
+
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2081-6
+Page: 2 of 9
+
+Adjustment Request
+FAX TO (800) 548-3020
+
+Tracking No./Airbill No. | Reason Code | Explanation
+-------------------------|-------------|------------
+                         |             |
+                         |             |
+                         |             |
+                         |             |
+                         |             |
+                         |             |
+                         |             |
+                         |             |
+                         |             |
+
+BEFORE YOU FAX | REASON CODE KEY
+---------------|-----------------------------------
+Please include detailed explanation for each adjustment request. | Reason Code Description
+Remember to include recipient's account number or third party's account number if applicable. | DUP Duplicate Billing
+                                                        | PND Shipment Never Sent
+From:                                                   | RATE Incorrect Rates or Pieces
+Name                                                    | RRA Rebill Recipient - Include
+                                                        |     Recipient's Account No.
+( ) Business Phone                                      | RSA Rebill Sender
+Date                                                    | RTA Rebill Third Party - Include
+                                                        |     Third Party's Account No.
+( ) Business Fax                                        | SUR Incorrect Surcharge -
+                                                        |     Please Explain
+                                                        | OTHR Other - Please Explain
+
+This form cannot be used to request Invoice Adjustments due to Service Failures or lack of a POD.
+To request adjustments for Service Failures or lack of a POD, please call 1-800-622-1147,
+visit our internet site at www.fedex.com or register for FIO.
+
+FedEx Federal Express
+Please indicate change in address for the account # listed below: [ ] Physical Address [ ] Billing Address [ ] Mailing Address
+Account Number: 1144-2081-6
+
+Name:
+Address:                                            Apt. / Suite:
+City:                                                State:                                               Zip:
+Phone: (      )                                    Fax: (       )
+Authorizing Signature:
+
+EFTAO0020311
+
+## Structured Fields
+*   **Date:** Oct 27, 2003
+*   **Invoice Number:** 4-923-30001
+*   **Account Number:** 1144-2081-6
+*   **Organization:** FedEx Federal Express
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2081-6
+Page: 3 of 9
+
+FedEx Express Shipment Summary by Payor Type
+
+Original
+
+Shipper
+Number of Shipments ........................................................................... 11
+Transportation Charges ........................................................................ 458.15
+Base Discount ....................................................................................... -49.45
+Special Handling Charges ..................................................................... 50.39
+TOTAL .................................................................................................. USD $ 459.09
+
+Number of Shipments ............................................................................ 11
+Total Charges .................................................................................... USD $ 459.09
+
+Third Party
+Number of Shipments ............................................................................. 1
+Transportation Charges ........................................................................ 144.50
+Base Discount ....................................................................................... -14.45
+Special Handling Charges ..................................................................... 5.85
+TOTAL .................................................................................................. USD $ 135.90
+
+Number of Shipments ............................................................................ 1
+Total Charges .................................................................................... USD $ 135.90
+
+TOTAL SHIPMENTS ............................................................................... 12
+TOTAL CHARGES ................................................................................. USD $ 594.99
+
+EFTA00020312
+
+## Structured Fields
+*   **Date:** Oct 27, 2003
+*   **Invoice Number:** 4-923-30001
+*   **Account Number:** 1144-2081-6
+*   **Page:** 3 of 9
+*   **Organization:** FedEx
+*   **Document ID (Footer):** EFTA00020312
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2061-6
+Page: 4 of 9
+
+FedEx Express Shipment Detail By Payor Type (Original)
+
+Picked up: Oct 15, 2003 | Payor: Shipper | Reference: NO REFERENCE INFORMATION
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 8
+Package sent from: 10021 zip code
+
+Tracking ID [REDACTED]      Sender              Recipient
+Service Type FedEx Priority Overnight | G MAXWELL          [REDACTED]
+Package Type FedEx Box         | JEFFREY E EPSTEIN [REDACTED]
+Zone 8                         | [REDACTED]        [REDACTED]
+Packages 1                     |                    (Black box spans area)
+Weight 55.0 lbs, 25.0 kgs     | Transportation Charge   153.00
+Delivered Oct 16, 2003 10:29  | Discount                 -15.30
+Svc Area A1                    | Fuel Surcharge             6.20
+Signed by [REDACTED]          | Courier Pickup Charge      0.00
+FedEx Use 288221490/01618/    | Total Charge              USD $ 143.90
+
+Picked up: Oct 16, 2003 | Payor: Shipper | Reference: NO REFERENCE INFORMATION
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 8
+1st attempt Oct 17, 2003 at 12:44 PM.
+Weather delay - Thunderstorm.
+
+Tracking ID [REDACTED]      Sender              Recipient
+Service Type FedEx Standard Overnight | JEFFREY EPSTEIN   [REDACTED]
+Package Type FedEx Envelope | JEFFREY E EPSTEIN (Redacted area)
+Zone 8                      |                    (Redacted area continues)
+Packages 1                  | Transportation Charge    16.00
+Weight 1.0 lbs, 0.5 kgs    | Discount                 -2.56
+Delivered Oct 20, 2003 12:36| Fuel Surcharge           0.60
+Svc Area A2                 | Residential Delivery     1.40
+Signed by [REDACTED]       | Total Charge             USD $ 15.44
+FedEx Use 289210380/00266/|
+
+Picked up: Oct 17, 2003 | Payor: Shipper | Reference: LESLEY
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 6
+FedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.
+Release signature on file.
+
+InternetShip                 Sender              Recipient
+Tracking ID [REDACTED]      | [REDACTED]         JEFFREY EPSTEIN (Redacted area)
+Service Type FedEx Priority Overnight | JEFFREY E EPSTEIN
+Package Type FedEx Pak       |                    (Redacted area continues)
+Zone 6                      | Transportation Charge   34.75
+Packages 1                  | Discount               -3.48
+Weight 4.0 lbs, 1.8 kgs     | Saturday Delivery     12.50
+Delivered Oct 18, 2003 10:20| Fuel Surcharge           1.41
+Svc Area AA                 | Residential Delivery   1.40
+Signed by E.PSTEIN          | Total Charge           USD $ 46.58
+FedEx Use 522453140/01574/02
+
+EFTA00020313
+
+## Structured Fields
+- **Invoice Number:** 4-923-30001
+- **Invoice Date:** Oct 27, 2003
+- **Account Number:** 1144-2061-6
+- **Page:** 4 of 9
+- **Pickup Dates:** Oct 15, 2003 | Oct 16, 2003 | Oct 17, 2003
+- **Delivery Dates:** Oct 16, 2003 | Oct 20, 2003 | Oct 18, 2003
+- **Sender Names:** G MAXWELL, JEFFREY E EPSTEIN
+- **Recipient Name:** JEFFREY EPSTEIN (partially redacted in some blocks)
+- **Reference:** LESLEY, NO REFERENCE INFORMATION
+- **Zone:** Zone 8, Zone 6
+- **Svc Area:** A1, A2, AA
+- **Fuel Surcharge Rate:** 4.50%
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2061-6
+Page: 5 of 9
+
+FedEx Express Shipment Detail By Payor Type (Original)
+
+Dropped off: Oct 17, 2003                Payor: Shipper              Reference: NO REFERENCE INFORMATION
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 6
+
+Tracking ID [REDACTED]                 Sender                  Recipient
+Service Type FedEx Priority Overnight   G MAXWELL               JEPSTEIN
+Package Type FedEx Box                  JEFFREY E EPSTEIN      [REDACTED]
+Zone 6                                  [REDACTED]              [REDACTED]
+Packages 1
+Weight 2.0 lbs, 0.9 kgs                Transportation Charge 28.75
+Delivered Oct 18, 2003 10:20           Discount -2.88
+Svc Area AA                             Saturday Delivery 12.50
+Signed by A.MIHORDICH                   Fuel Surcharge 1.16
+FedEx Use 290093030/01574/_            Residential Delivery 1.40
+
+                                          Total Charge                          USD $ 40.93
+
+Dropped off: Oct 20, 2003                Payor: Shipper              Reference: NO REFERENCE INFORMATION
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 8
+FedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.
+We calculated your charges based on a dimensional weight of 19.0 lbs.,21" x 11" x 16", divided by 194.
+
+Tracking ID [REDACTED]                 Sender                  Recipient
+Service Type FedEx 2Day                 DAVE RODGERS            MEDSPACE INC
+Package Type Customer Packaging         JEFFREY E EPSTEIN      [REDACTED]
+Zone 8                                  [REDACTED]              [REDACTED]
+Packages 1
+Weight 7.0 lbs, 3.2 kgs                Transportation Charge 45.00
+Delivered Oct 22, 2003 12:46           Discount -4.50
+Svc Area A2                             Fuel Surcharge 1.82
+Signed by F.DUICAN
+FedEx Use 293216660/06112/_
+
+                                          Total Charge                          USD $ 42.32
+
+Picked up: Oct 20, 2003                  Payor: Shipper              Reference: NO REFERENCE INFORMATION
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 6
+Package sent from: 33461 zip code
+
+Tracking ID [REDACTED]                 Sender                  Recipient
+Service Type FedEx Priority Overnight   LARRY VISOSKI           BELLA
+Package Type FedEx Envelope             JEFFREY E EPSTEIN      J EPSTEIN & CO
+Zone 6                                  [REDACTED]              [REDACTED]
+Packages 1
+Weight 1.0 lbs, 0.5 kgs                Transportation Charge 16.60
+Delivered Oct 21, 2003 09:19           Discount -2.66
+Svc Area A1                             Fuel Surcharge 0.63
+Signed by S.FUENTES
+FedEx Use 293088900/00230/_
+
+                                          Total Charge                          USD $ 14.57
+
+EFTA00020314
+
+## Structured Fields
+- **Document ID**: EFTA00020314
+- **Invoice Number**: 4-923-30001
+- **Account Number**: 1144-2061-6
+- **Page**: 5 of 9
+- **Invoice Date**: Oct 27, 2003
+
+### Shipment 1
+- **Dropped Off Date**: Oct 17, 2003
+- **Zone**: 6
+- **Service Type**: FedEx Priority Overnight
+- **Sender**: G MAXWELL, JEFFREY E EPSTEIN
+- **Recipient**: JEPSTEIN
+- **Transportation Charge**: $28.75
+- **Saturday Delivery**: $12.50
+- **Fuel Surcharge**: 4.50% ($1.16)
+
+### Shipment 2
+- **Dropped Off Date**: Oct 20, 2003
+- **Zone**: 8
+- **Service Type**: FedEx 2Day
+- **Sender**: DAVE RODGERS, JEFFREY E EPSTEIN
+- **Recipient**: MEDSPACE INC
+- **Dimensional Weight Used**: 19.0 lbs (based on 21" x 11" x 16")
+- **Transportation Charge**: $45.00
+- **Fuel Surcharge**: 4.50% ($1.82)
+
+### Shipment 3
+- **Picked Up Date**: Oct 20, 2003
+- **Zone**: 6
+- **Service Type**: FedEx Priority Overnight
+- **Sender**: LARRY VISOSKI, JEFFREY E EPSTEIN
+- **Recipient**: BELLA, J EPSTEIN & CO
+- **Transportation Charge**: $16.60
+- **Fuel Surcharge**: 4.50% ($0.63)
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2061-6
+Page: 6 of 9
+
+**FedEx Express Shipment Detail By Payor Type (Original)**
+
+Picked up: Oct 21, 2003               Payor: Shipper                           Reference: NO REFERENCE INFORMATION
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 8
+Package sent from: 10021 zip code
+
+Tracking ID                          Sender                    Recipient
+[REDACTED]                          M CAMPOS                  GHISLAINE MAXWELL
+FedEx Priority Overnight            JEFFREY E EPSTEIN         PENINSULA HOTEL
+FedEx Box                           [REDACTED]                [REDACTED]
+Zone 8                                                                       
+Packages 1                                                               
+Weight 10.0 lbs, 4.5 kgs                                                
+Delivered Oct 22, 2003 09:48                                            Transportation Charge                      54.75
+Svc Area A1                                                        Discount                                  -5.48
+Signed by W.VELSRAIO                                              Fuel Surcharge                            2.22
+FedEx Use 294166931/01618/_                                       Courier Pickup Charge                     0.00
+
+Total Charge                                                                 USD $ 51.49
+
+
+Picked up: Oct 21, 2003               Payor: Shipper                           Reference: NO REFERENCE INFORMATION
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 8
+Package sent from: 10021 zip code
+
+Tracking ID                          Sender                    Recipient
+[REDACTED]                          M CAMPOS                  GHISLAINE MAXWELL
+FedEx Priority Overnight            JEFFREY E EPSTEIN         PENINSULA HOTEL
+FedEx Box                           [REDACTED]                [REDACTED]
+Zone 8                                                                       
+Packages 1                                                               
+Weight 10.0 lbs, 4.5 kgs                                                
+Delivered Oct 22, 2003 09:48                                            Transportation Charge                      54.75
+Svc Area A1                                                        Discount                                  -5.48
+Signed by W.VELSRAIO                                              Fuel Surcharge                            2.22
+FedEx Use 294166931/01618/_                                       Courier Pickup Charge                     0.00
+
+Total Charge                                                                 USD $ 51.49
+
+
+Dropped off: Oct 22, 2003             Payor: Shipper                           Reference: BELLA
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 6
+
+InternetShip                         Sender                    Recipient
+[REDACTED]                          [REDACTED]                [REDACTED]
+Tracking ID                          JEFFREY E EPSTEIN         [REDACTED]
+FedEx Standard Overnight             [REDACTED]                
+FedEx Envelope                                                               
+Zone 6                                                                       
+Packages 1                                                               
+Weight 1.0 lbs, 0.5 kgs                                                 
+Delivered Oct 23, 2003 14:13                                            Transportation Charge                      14.75
+Svc Area AA                                                        Discount                                  -2.36
+Signed by [REDACTED]                                              Fuel Surcharge                            0.56
+FedEx Use 523003230/00244/_                                      Residential Delivery                     1.40
+
+Total Charge                                                                 USD $ 14.35
+
+EFTA00020315
+
+## Structured Fields
+
+- **Invoice Number:** 4-923-30001
+- **Page:** 6 of 9
+- **Invoice Date:** Oct 27, 2003
+- **Account Number:** 1144-2061-6
+- **Shipment 1 Pickup Date:** Oct 21, 2003
+- **Shipment 1 Payor:** Shipper
+- **Shipment 1 Reference:** NO REFERENCE INFORMATION
+- **Sender (Ship 1/2):** M CAMPOS / JEFFREY E EPSTEIN
+- **Recipient (Ship 1/2):** GHISLAINE MAXWELL, PENINSULA HOTEL
+- **Zone (Ship 1/2):** Zone 8
+- **Service Type (Ship 1/2):** FedEx Priority Overnight
+- **Package Type (Ship 1/2):** FedEx Box
+- **Shipment 3 Drop off Date:** Oct 22, 2003
+- **Shipment 3 Reference:** BELLA
+- **Sender (Ship 3):** JEFFREY E EPSTEIN
+- **Service Type (Ship 3):** FedEx Standard Overnight
+- **Package Type (Ship 3):** FedEx Envelope
+- **Zone (Ship 3):** Zone 6
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2081-6
+Page: 7 of 9
+
+FedEx Express Shipment Detail By Payor Type (Original)
+
+Dropped off: Oct 22, 2003    Payor: Shipper    Reference: LESLEY
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 3
+
+InternetShip   Sender        Recipient
+Tracking ID    [REDACTED]    HENRY ROSOVSKY
+Service Type   FedEx Standard Overnight
+Package Type   FedEx Envelope
+Zone           3
+Packages       1
+Weight         1.0 lbs, 0.5 kgs       Transportation Charge    12.80
+Delivered      Oct 23, 2003 10:21     Discount                  -2.05
+Svc Area       A1              Fuel Surcharge            0.48
+Signed by      T.OCCONNOR                         Total Charge             USD $   11.23
+FedEx Use      523093160/00211/
+
+Picked up: Oct 23, 2003    Payor: Shipper    Reference: JE
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 8
+Release signature on file.
+
+InternetShip   Sender        Recipient
+Tracking ID    [REDACTED]    [REDACTED]
+Service Type   FedEx Standard Overnight      JEFFREY E EPSTEIN
+Package Type   FedEx Pak                       [REDACTED]
+Zone           8                                 [REDACTED]
+Packages       1                                  [REDACTED]
+Weight         2.0 lbs, 0.9 kgs        Transportation Charge     27.00
+Delivered      Oct 24, 2003 11:04      Discount                  -2.70
+Svc Area       A2              Fuel Surcharge            1.09
+Signed by      [REDACTED]    Residential Delivery      1.40
+FedEx Use      523233200/01415/02
+
+Total Charge             USD $   26.79
+Shipment Detail Subtotal ....USD $   459.09
+
+EFTA00020316
+
+## Structured Fields
+*   **Document Title:** FedEx Express Shipment Detail By Payor Type (Original)
+*   **Invoice Number:** 4-923-30001
+*   **Invoice Date:** Oct 27, 2003
+*   **Account Number:** 1144-2081-6
+*   **Page:** 7 of 9
+*   **Reference 1:** LESLEY
+*   **Reference 2:** JE
+*   **Drop-off Date (Shipment 1):** Oct 22, 2003
+*   **Pick-up Date (Shipment 2):** Oct 23, 2003
+*   **Sender Name:** JEFFREY E EPSTEIN
+*   **Recipient Name 1:** HENRY ROSOVSKY
+*   **Zone 1:** 3
+*   **Zone 2:** 8
+*   **Service Type:** FedEx Standard Overnight
+*   **Fuel Surcharge Rate:** 4.50%
+*   **Total Charge (Shipment 1):** USD $ 11.23
+*   **Total Charge (Shipment 2):** USD $ 26.79
+*   **Shipment Detail Subtotal:** USD $ 459.09
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2061-6
+Page: 8 of 9
+
+FedEx Express Shipment Detail By Payor Type (Original)
+___________________________________________________________________________________________________________________
+
+Picked up: Oct 14, 2003                  Payor: Third Party                       Reference: WO#3286--N908JE
+
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 4
+FedEx has audited this shipment for correct packages, weight, and service. Any changes made are reflected in the invoice amount.
+We calculated your charges based on a dimensional weight of 63.0 lbs.,24" x 23" x 22", divided by 194.
+
+Powership                                 Sender                                    Recipient
+Tracking ID [REDACTED]                   SHIPPING DEPT                             TRADE AIR
+Service Type FedEx Priority Overnight    FLIGHT STAR AIRCRAFT SVCE INC             10441 NW 28TH AVENUE
+Package Type Customer Packaging          14821 YONGE DR                            MIAMI FL 33172 US
+Zone 4                                   JACKSONVILLE FL 32218 US
+Packages 1
+Weight 15.0 lbs, 6.8 kgs                 Transportation Charge                    144.50
+Delivered Oct 15, 2003 10:17            Discount                                  -14.45
+Svc Area A2                              Fuel Surcharge                            5.85
+Signed by B.ALLEN                       Total Charge USD $                        135.90
+FedEx Use 063466702/01530/-_           Shipment Detail Subtotal.......................USD $ 135.90
+
+EFTA00020317
+
+## Structured Fields
+- **Invoice Number:** 4-923-30001
+- **Invoice Date:** Oct 27, 2003
+- **Account Number:** 1144-2061-6
+- **Reference:** WO#3286--N908JE
+- **Picked Up:** Oct 14, 2003
+- **Delivered:** Oct 15, 2003
+- **Page:** 8 of 9
+- **Sender:** FLIGHT STAR AIRCRAFT SVCE INC (Shipping Dept)
+- **Recipient:** TRADE AIR
+- **Locations:** Jacksonville FL 32218 US, Miami FL 33172 US
+- **Zone:** 4
+- **Weight:** 15.0 lbs / 6.8 kgs
+- **Signed By:** B.ALLEN
+- **Total Charge:** USD $ 135.90
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: 1144-2061-6
+Page: 9 of 9
+
+FedEx Ground Reference Chart
+
+| | SERVICE CODES | FEDEX HOME DELIVERY SERVICE CODES | ZONE DEFINITIONS |
+| :--- | :--- | :--- | :--- |
+| **FedEx Ground** | | | |
+| 015 | AutoPOD, Prepaid, Domestic | 800 | AutoPOD, Prepaid |
+| 016 | COD, Prepaid, Domestic | 804 | Prepaid |
+| 017 | ECOD, Prepaid, Domestic | 808 | Signature, Prepaid |
+| 018 | FedEx Ground, PRP, Prepaid, Domestic | 810 | Evening, AutoPOD, Prepaid |
+| 019 | Prepaid, Domestic | 814 | Evening, Prepaid |
+| 020 | AutoPOD, Collect, Domestic | 818 | Evening, Signature, Prepaid |
+| 021 | Collect, Domestic | 820 | Date Certain, AutoPOD, Prepaid |
+| 131 | Ground, 3rd Party, Returns Manager | 824 | Date Certain, Prepaid |
+| 136 | Ground, Prepaid, Net Return | 828 | Date Certain, Signature, Prepaid |
+| 137 | Ground, Prepaid, Returns Manager | 830 | Appointment, AutoPOD, Prepaid |
+| 408 | Guaranteed Funds COD, Prepaid, Domestic | 834 | Appointment, Prepaid |
+| 409 | Cash COD, Prepaid, Domestic | 836 | Home Delivery, 3rd Party, Returns Manager |
+| 410 | AutoPOD, COD, Prepaid, Domestic | 842 | Home Delivery, Prepaid, Returns Manager |
+| 412 | AutoPOD, ECOD, Prepaid, Domestic | 850 | Bill 3rd Party |
+| 415 | AutoPOD, Guaranteed Funds COD, Ppd, Dom. | 851 | Bill 3rd Party, Auto POD |
+| 416 | AutoPOD, Cash COD, Prepaid, Domestic | 852 | Bill 3rd Party, Signature |
+| 417 | Bill 3rd Party, Domestic | 853 | Evening, Bill 3rd Party |
+| 418 | Bill 3rd Party, AutoPOD, Domestic | 854 | Evening, Bill 3rd Party, AutoPOD |
+| 419 | Bill 3rd Party, COD, Domestic | 855 | Evening, Bill 3rd Party, Signature |
+| 420 | Bill 3rd Party, Guaranteed Funds COD, Dom. | 856 | Date Certain, Bill 3rd Party |
+| 421 | Bill 3rd Party, Cash COD, Domestic | 857 | Date Certain, Bill 3rd Party, AutoPOD |
+| 422 | Bill Recipient, Domestic | 858 | Date Certain, Bill 3rd Party, Signature |
+| 423 | Bill Recipient, AutoPOD, Domestic | 859 | Appointment, Bill 3rd Party |
+| 429 | ECOD, Bill 3rd Party, Domestic | 860 | Appointment, Bill 3rd Party, AutoPOD |
+| 430 | AutoPOD, COD, Bill 3rd Party, Domestic | 869 | Bill Recipient |
+| 431 | AutoPOD, ECOD, Bill 3rd Party, Domestic | 870 | Bill Recipient, AutoPOD |
+| 432 | AutoPOD, Cash COD, Bill 3rd Party, Domestic | 871 | Bill Recipient, Signature |
+| 433 | AutoPOD, Guaranteed Funds COD, Bill 3rd Party, Dom. | 872 | Evening, Bill Recipient |
+| 434 | ECOD, Bill Recipient, Domestic | 873 | Evening, Bill Recipient, AutoPOD |
+| 435 | AutoPOD, COD, Bill Recipient, Domestic | 874 | Evening, Bill Recipient, Signature |
+| 436 | AutoPOD, ECOD, Bill Recipient, Domestic | 875 | Date Certain, Bill Recipient |
+| 437 | AutoPOD, Cash COD, Bill Recipient, Domestic | 876 | Date Certain, Bill Recipient, AutoPOD |
+| 438 | AutoPOD, Guaranteed Funds COD, Bill Recipient, Dom. | 877 | Date Certain, Bill Recipient, Signature |
+| 439 | Ground, Prepaid, Guaranteed Funds, ECOD | 878 | Appointment, Bill Recipient | |
+| **FedEx International Ground** | | 879 | Appointment, Bill Recipient, AutoPOD | |
+| 022 | AutoPOD, Prepaid | | | |
+| 023 | COD, Prepaid | | | |
+| 026 | Prepaid | | **OTHER CHARGE CODE DEFINITIONS** |
+| 027 | AutoPOD, Collect | (1) | C.O.D. (Collect on Delivery) |
+| 028 | Collect | (2) | A.O.D. (Acknowledgement of Delivery) |
+| 135 | International Ground, 3rd Party, Returns Manager | (3) | Call Tag |
+| 479 | Guaranteed Funds COD, Prepaid | (4) | Oversize > 64" Combined Length and Girth |
+| 480 | AutoPOD, COD, Prepaid | (5) | Declared Value |
+| 485 | AutoPOD, Guaranteed Funds COD, Prepaid | (6) | Address Correction |
+| 486 | AutoPOD, Cash COD, Prepaid | (7) | Hazardous Material |
+| 487 | Bill 3rd Party | (8) | Automatic Proof of Delivery |
+| 488 | Bill 3rd Party, AutoPOD | (9) | Additional Handling |
+| 489 | Bill 3rd Party, COD | (10) | Oversize Extra Service Fee |
+| 490 | Bill 3rd Party, Guaranteed Funds COD | (11) | Overweight > 150 lbs. |
+| 491 | Bill 3rd Party, Cash COD | (12) | Electronic C.O.D., 24 hours |
+| 492 | Bill Recipient | (13) | Electronic C.O.D., 48 hours |
+| 493 | Bill Recipient, AutoPOD | (14) | FedEx Ground Residential |
+| | | (15) | FedEx Ground Residential - Rural |
+| | | (16) | Returns Manager Transmission Fee |
+| | | (17) | FedEx Signature Home Delivery |
+| | | (18) | FedEx Date Certain Home Delivery |
+| | | (19) | FedEx Appointment Home Delivery |
+| | | (20) | FedEx Evening Home Delivery |
+| | | (21) | FedEx Home Delivery Residential |
+| | | (22) | FedEx Home Delivery Residential - Rural |
+| | | (23) | Cash C.O.D. Charge |
+| | | (24) | Cash C.O.D. High Density Charge |
+| | | (25) | Cash C.O.D. Extra Difference Charge |
+| | | (26) | Proof of Delivery Advantage Charge |
+| | | (27) | FedEx Home Delivery Forced Appointment |
+| | | (28) | Fuel Surcharge |
+| | | (29) | Oversize > 108" Combined Length and Girth |
+| | | (30) | Oversize > 108" in Length |
+| | | (31) | Oversize > 130" Combined Length and Girth |
+| | | (32) | Supplemental Oversize Package Charge |
+| | | (33) | Canada Goods & Services Tax - GST |
+| | | (34) | Canada Harmonized Sales Tax - HST |
+| | | (35) | Canada Quebec Sales Tax - QST |
+| | | (36) | Net Return |
+| | | (37) | Credit Card Decline Surcharge |
+| | | (38) | Consolidated Returns Polybag |
+| | | (39) | Consolidated Returns Package 2x2x4 - 2x6x8 |
+| | | (40) | Consolidated Returns Package 4x4x5 - 4x8x12 |
+| | | (41) | Consolidated Returns Package 6x6x10 - 6x10x16 |
+| | | (42) | Consolidated Returns Package 9x10x12 - 10x12x16 |
+| | | (43) | Consolidated Returns FFI Charge |
+| | | (44) | Consolidated Returns Oversize Package Charge |
+| | | (45) | Returns Manager |
+| | | (46) | Canadian Dropship Linerhaul Charge |
+
+EFTA00020318
+
+## Structured Fields
+
+- **Organization:** FedEx
+- **Document Title:** FedEx Ground Reference Chart
+- **Invoice Number:** 4-923-30001
+- **Invoice Date:** Oct 27, 2003
+- **Account Number:** 1144-2061-6
+- **Page:** 9 of 9
+- **Document ID (Footer):** EFTA00020318
+

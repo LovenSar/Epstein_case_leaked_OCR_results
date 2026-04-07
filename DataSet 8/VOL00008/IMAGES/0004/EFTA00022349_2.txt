@@ -1,0 +1,70 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00022349.pdf ts=2026-03-15T08:29:14 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email chain interface, likely from Microsoft Outlook or a similar application, presented against a white background. The document is composed of three distinct email entries stacked vertically, ordered from newest at the top (though partially redacted) to oldest at the bottom. Significant portions of sender and recipient names in the "From" and "To" fields are obscured by black rectangular redaction bars.
+
+The top section shows a header block where the sender's name is completely blacked out. The subject line indicates this is a forwarded message regarding "US v. Gatto - Oath Inc. Motion to Intervene." Below the standard header fields, the email body contains only two lines of text: "Sounds fine to me." A horizontal line separates this top section from the middle section.
+
+The middle section begins with a header showing a date of Friday, August 2, 2019. This email is authored by Jonathan M. Albano of Morgan, Lewis & Bockius LLP. The body text is a polite inquiry asking for confirmation regarding a filing of a specific court decision (*Brown v. Maxwell*). A professional signature block follows, displaying the lawyer's name, law firm, Boston address, and assistant's name. Another horizontal line separates this from the bottom section.
+
+The bottom section contains the earliest visible email in the thread, dated Monday, July 22, 2019. This email originates from an Assistant United States Attorney in the Southern District of New York. It includes a standard legal disclaimer regarding an attached opposition to a motion to intervene and notes that an unredacted version is being provided *ex parte*. The signature block is redacted at the top but clearly identifies the sender's role and office location at the bottom right of the text area. A Bates number stamp appears in the extreme bottom right corner of the page.
+
+## Visible Text (verbatim)
+**Top Section:**
+- Subject: FW: US v. Gatto - Oath Inc. Motion to Intervene
+- Date: Fri, 02 Aug 2019 15:36:11 +0000
+- Attachments: Brown_v_Maxwell.doc
+
+**Middle Section Header & Body:**
+- Sent: Friday, August 2, 2019 11:22 AM
+- To: [Redacted]; Peng, Victoria [Redacted]; Steve Haney [Redacted] Schachter, Michael <[Redacted]>; [Redacted] Moore, Mark
+- Subject: RE: US v. Gatto - Oath Inc. Motion to Intervene
+- Body: Dear Counsel: Would you please let me know if you have any objection to my filing with the Court a copy of the attached decision of the Second Circuit in Brown v. Maxwell (July 3, 2019)? Thank you, and have a good weekend. Jon
+
+**Middle Signature Block:**
+- Jonathan M. Albano
+- Morgan, Lewis & Bockius LLP
+- One Federal Street | Boston, MA 02110-1726
+- Assistant: Kathleen A. Slowe
+
+**Bottom Section Header & Body:**
+- Sent: Monday, July 22, 2019 5:17 PM
+- Subject: US v. Gatto - Oath Inc. Motion to Intervene
+- [EXTERNAL EMAIL]
+- Counsel,
+- Please find attached the Government’s opposition to Oath Inc.’s motion to intervene for the limited purpose of obtaining materials. An unredacted version of this filing is being provided to the Court on an ex parte basis.
+- Best,
+
+**Bottom Signature Block:**
+- Assistant United States Attorney
+- United States Attorney's Office
+- Southern District of New York
+- One Saint Andrew's Plaza
+
+**Footer:**
+- EFTA00022349
+
+## Notable Details / Clues
+- **Legal Case Context:** The correspondence revolves around two specific legal cases: *US v. Gatto* (an intervention motion in the Southern District of New York) and *Brown v. Maxwell* (a Second Circuit decision from July 3, 2019).
+- **Firm Involvement:** The defense or represented party is represented by Jonathan M. Albano from the prominent Washington D.C.-based law firm Morgan, Lewis & Bockius LLP, indicated by his Boston address and letterhead.
+- **Government Representation:** The opposing side (the Government) is represented by an Assistant United States Attorney in the Southern District of New York.
+- **Procedural Action:** The text mentions a "Motion to Intervene," a standard legal procedure where a third party seeks permission to participate in ongoing litigation.
+- **Ex Parte Filing:** A crucial procedural detail notes that an unredacted version of the filing is being provided *ex parte* (without notice to the other side) to the Court, suggesting a sensitive or urgent procedural step.
+- **External Email Warning:** The tag "[EXTERNAL EMAIL]" indicates that the July 22 message was sent from an outside domain, likely by government counsel using a specific email system distinct from internal firm emails.
+- **Redaction Pattern:** The redactions are consistent with privacy filters often used in public records releases, specifically targeting names and personal information while preserving the legal context of the correspondence.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+New York, NY 10007
+[REDACTED]
+
+DISCLAIMER
+This e-mail message is intended only for the personal use of the recipient(s) named above. This message may be an attorney-client communication and as such privileged and confidential and/or it may include attorney work product. If you are not an intended recipient, you may not review, copy or distribute this message. If you have received this communication in error, please notify us immediately by e-mail and delete the original message.
+
+## Structured Fields
+*   **Location:** New York, NY 10007
+*   **Document ID:** EFTA00022350
+*   **Context:** Attorney-client communication / Privileged and Confidential
+

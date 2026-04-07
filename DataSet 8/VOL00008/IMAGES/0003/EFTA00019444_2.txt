@@ -1,0 +1,72 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019444.pdf ts=2026-03-14T02:26:03 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JEGE, INC.
+PASSENGER MANIFEST
+
+Registration Number: N908JE Type: B-727-31 Pilots: [REDACTED] Flight Engineer: [REDACTED]
+
+DATE: 1 . 20 , 2004 FROM PBI TO JFK
+
+Departure Time 6:21 AM (circled PM)
+Arrival Time 8:39 AM (circled PM) Trip Number 243
+
+PASSENGERS
+1. Jeffrey Epstein
+2. [REDACTED]
+3. [REDACTED]
+[Redacted Block]
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+
+FROM Identifier Defined
+City WEST Palm Beach
+State or Country FL
+TO Identifier Defined
+City New York
+State or Country N.Y.
+Nautical Miles 893
+Statute Milcs 1027
+
+Gallons [Blank] AIRFRAME
+Pounds 19187 32853.9
+Flight Time 2 + 17 2.3
+Altitude FL F370 32856.2
+20. Night 1.5
+21. T/L 1
+22. IMC 
+23. Approach 
+24. 
+25. 
+26. 
+
+MM11-727 BOEING-N908JE_JEGE INC-000004
+EFTA00019444
+
+## Structured Fields
+*   **Date:** 1-20-2004
+*   **Registration Number:** N908JE
+*   **Aircraft Type:** B-727-31
+*   **Route:** PBI (West Palm Beach, FL) to JFK (New York, N.Y.)
+*   **Trip Number:** 243
+*   **Departure Time:** 6:21 PM
+*   **Arrival Time:** 8:39 PM
+*   **Nautical Miles:** 893
+*   **Statute Miles:** 1027
+*   **Flight Time:** 2 hours 17 minutes (approx 2.3)
+*   **Passengers Listed:** Jeffrey Epstein, [REDACTED]
+*   **Document ID:** MM11-727 BOEING-N908JE_JEGE INC-000004 / EFTA00019444
+

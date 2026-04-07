@@ -1,0 +1,112 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030537.pdf ts=2026-03-18T19:57:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread within a standard web-based or desktop email client interface, featuring a white background with black sans-serif text. The layout is vertical, organizing messages chronologically from bottom (oldest) to top (newest), typical of Outlook's "Newest on Top" view.
+
+*   **Top Section:** The very top of the thread features a header block where the "From:", "To:", and "Cc:" fields are obscured by thick, solid black rectangular redaction bars. Below these headers, specific metadata is visible in bold text: Subject ("RE: CONFIDENTIAL..."), Date ("Tue, 06 Aug 2019 20:43:16 +0000"), and Inline-Images ("image001.jpg"). Directly beneath this header block is a single line of blue hyperlink-style text.
+*   **Middle Section:** Following a thin horizontal separator line, another email header appears with redacted fields. The visible body text reads "I'm good for both days as well." Below this is a citation line ("On Aug 6, 2019 4:39 PM...") followed by a quoted message block. A large black redaction bar obscures what would likely be the sender's signature or attachment in this quoted section.
+*   **Lower Section:** Continuing downwards across another separator line is an email header from Tuesday, August 6, 2019, at 4:21:29 PM with a blue hyperlink body text ("Just following up on this..."). Below this is the final visible entry at the bottom of the scroll, dated Monday, August 5, 2019, at 7:03 PM. This email appears to be the initiating message (indicated by "FW:" in the subject and starting with "Team,").
+*   **Redactions:** Almost all personal identifying information (names and email addresses) is blacked out with opaque black bars of varying widths to maintain privacy.
+
+## Visible Text (verbatim)
+**Header Block 1 (Top):**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: CONFIDENTIAL: Victim Reports Against Jeffrey Epstein, 19 Cr. 490 (RMB)
+Date: Tue, 06 Aug 2019 20:43:16 +0000
+Inline-Images: image001.jpg
+
+**Body Text 1:**
+Thanks, that’s great—I’ll send you calendar invitations when we nail down timing.
+
+**Header Block 2:**
+From: [Redacted]
+Sent: Tuesday, August 6, 2019 4:40 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: Re: CONFIDENTIAL: Victim Reports Against Jeffrey Epstein, 19 Cr. 490 (RMB)
+
+**Body Text 2:**
+I'm good for both days as well.
+
+-
+
+On Aug 6, 2019 4:39 PM, "[Redacted] wrote:
+
+Those dates work for me. The 26th im wide open and the 27th preferable late afternoon would be best for me.
+
+**Header Block 3:**
+From: [Redacted]
+Sent: Tuesday, August 6, 2019 4:21:29 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: CONFIDENTIAL: Victim Reports Against Jeffrey Epstein, 19 Cr. 490 (RMB)
+
+**Body Text 3:**
+Just following up on this—do these dates work for you?
+
+**Header Block 4 (Bottom):**
+From: [Redacted]
+Sent: Monday, August 5, 2019 7:03 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: FW: CONFIDENTIAL: Victim Reports Against Jeffrey Epstein, 19 Cr. 490 (RMB)
+
+**Body Text 4:**
+Team,
+
+**Footer:**
+EFTA00030537
+
+## Notable Details / Clues
+*   **Subject Matter:** The emails explicitly reference "Victim Reports Against Jeffrey Epstein" and case number "19 Cr. 490 (RMB)". This places the correspondence in the context of legal or government proceedings regarding the Jeffrey Epstein criminal cases, likely from August 2019.
+*   **Scheduling Context:** The thread is a scheduling log. Participants are coordinating dates ("The 26th im wide open and the 27th preferable late afternoon"). This suggests meetings were planned for August 26th and 27th, 2019.
+*   **"FW:" Indicator:** The bottom email is marked "FW:" (Forward), suggesting a chain of emails was being forwarded to a team.
+*   **Time Zones:** The first email has a UTC timestamp (+0000) while the others use local "PM" designations, indicating cross-timezone communication or varying server settings.
+*   **Case Identification:** The code "EFTA00030537" in the bottom right corner appears to be a document control number or file reference ID often found in government records releases (like FOIA documents).
+*   **Urgency vs. Coordination:** The text "Just following up on this—do these dates work for you?" indicates a need to finalize logistics quickly ("nail down timing"), which is common when coordinating meetings involving victims or legal representatives.
+*   **Redaction Patterns:** The use of black bars rather than grey lines suggests the document was officially redacted, likely by a government agency (DOJ/FBI) to protect sensitive identities while releasing public records.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Are you available for interviews on 8/26 and 8/27? Regarding the photos (attached), we can discuss next time we talk. Thanks.
+From: Teri Gibbs [REDACTED]
+Sent: Monday, August 5, 2019 6:52 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: CONFIDENTIAL: Victim Reports Against Jeffrey Epstein, 19 Cr. 490 (RMB)
+
+Hi Ms. Moe:
+
+Thank you for taking the time to speak with our firm on Friday, August 2, 2019, regarding our clients, [REDACTED] and [REDACTED], who believe they were assaulted by Epstein in or around June 2004.
+
+We have confirmed our clients' availability for interviews with your office. Ms. [REDACTED] is available for an in-person interview on August 26, 2019, or August 27, 2019. Ms. [REDACTED] who is located [REDACTED], is available for an interview via video conference, preferably the week of August 26th. Please confirm whether your office is available to meet with Ms. [REDACTED] on those dates and whether we can arrange a video conference for Ms. [REDACTED]
+
+Additionally, as discussed in our call, we have attached two PDF files for your review which contain pictures of Ms. [REDACTED] and Ms. [REDACTED] from 2004. If possible, please confirm whether our clients are in any of the photographs seized from Epstein's home.
+
+Thank you. We look forward to hearing from you soon.
+
+Best regards,
+
+Teri Gibbs
+--
+
+Notice To Recipient: This e-mail is meant for only the intended recipient of the transmission, and may be a communication privileged by law. If you received this e-mail in error, any review, use, dissemination, distribution, or copying of this e-mail is strictly prohibited. Please notify us immediately of the error by return e-mail and please delete this message and any and all duplicates of this message from your system. Thank you in advance for your cooperation.
+
+IRS Circular 230 Disclosure: In order to comply with requirements imposed by the Internal Revenue Service, we inform you that any U.S. tax advice contained in this communication (including any attachments) is not intended to be used, and cannot be used, for the purpose of (i) avoiding penalties under the Internal Revenue Code or (ii) promoting, marketing, or recommending to another party any transaction or matter addressed herein.
+
+EFTA00030538
+
+## Structured Fields
+- **Date:** Monday, August 5, 2019
+- **Date:** Friday, August 2, 2019
+- **Date:** August 26, 2019
+- **Date:** August 27, 2019
+- **Date:** June 2004
+- **Case ID/Number:** 19 Cr. 490 (RMB)
+- **Document ID:** EFTA00030538
+- **Names:** Teri Gibbs; Ms. Moe; Jeffrey Epstein
+

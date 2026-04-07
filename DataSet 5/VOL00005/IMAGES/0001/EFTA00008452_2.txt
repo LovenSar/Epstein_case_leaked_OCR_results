@@ -1,0 +1,42 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008452.pdf ts=2026-03-09T07:03:36 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a high-angle, close-up shot of evidence packaging materials resting on a speckled, grey-and-brown terrazzo-style floor. The central focus is a small, rectangular cardboard box, likely containing a hard drive, which is sealed shut with two horizontal strips of clear packing tape that are highly reflective and show wrinkles from the pressure applied during sealing. A bright lime-green label is adhered to the top surface of the box. Beneath this small box lies a larger, flat brown manila folder or file pocket, partially open at the top where a flap curls upward. Underneath the right edge of the folder, a crinkled white plastic bag is visible. The lighting appears to be indoor overhead artificial light, creating glare on the tape and the floor.
+
+## Visible Text (verbatim)
+**Green Label:**
+90A-NY-3151227                  1B43
+08/21/2019 NYC023596 PC MASTER COPY
+One (1) FBI-owned WD Black 3TB hard drive,
+WD3003FZEX-00Z4SA0. S/N WCC13LZR579P
+containing the verified E01 images NYC023578
+(1B1), NYC023579 (1B2), NYC023580 (1B3),
+NYC023581 (1B4), NYC023583 (1B6),
+NYC023584 (1B7), NYC023585 (1B8),
+NYC023586 (1B9), NYC023587 (1B10),
+NYC023588 (1B11), and NYC023592 (1B15)
+
+**Folder (Top Center):**
+SMEAD logo
+/// // ///
+No. 1056EL
+UPC 71007
+(small inverted text below: SMEAD.com • Assembled in Mexico)
+
+**Watermark (Bottom Right Corner):**
+EFTA00008452
+
+## Notable Details / Clues
+- **Evidence Classification:** The label explicitly identifies the contents as "FBI-owned" equipment, indicating a law enforcement context.
+- **Specific Asset ID:** The code "1B43" suggests this is one unit out of a larger batch (likely 100 or more given the sequence).
+- **Date of Sealing/Processing:** The date "08/21/2019" indicates when this specific pack was prepared.
+- **Hard Drive Model:** The label specifies a "WD Black 3TB hard drive" with model number WD3003FZEX, a high-performance storage device.
+- **Serial Number:** The serial number is partially visible as WCC13LZR579P.
+- **File Mapping:** The text lists specific image files (E01 images) contained within, mapping them to case file numbers (NYC...) and sub-batch identifiers (e.g., 1B1, 1B2... up to 1B15).
+- **Missing Batch Numbers:** Notably absent are batch numbers for 1B5, 1B12, 1B13, 1B14. This suggests these were either processed in separate boxes not shown here or lost/not created.
+- **Sealing Integrity:** The clear tape covers the middle and bottom thirds of the box face, ensuring the contents are not easily tampered with without destroying the seal.
+- **Brand Identification:** The underlying folder is a "SMEAD" brand file folder, a common office supply item often used in evidence handling.
+- **Watermark Code:** The alphanumeric string "EFTA00008452" in the corner likely represents an image control number or a hash code for digital chain of custody verification.
+

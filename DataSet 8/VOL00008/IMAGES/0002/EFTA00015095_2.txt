@@ -1,0 +1,132 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015095.pdf ts=2026-03-12T12:54:54 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot or scan of an official government document titled "Repository Inquiry." The document originates from the New York State Division of Criminal Justice Services and features heavy redaction in the form of thick black bars obscuring sensitive information.
+
+*   **Header Area:** At the very top left, a timestamp reads "10/6/21, 12:54 PM". Below this, the title "Repository Inquiry" is centered in bold text. Beneath the title, there are two fields obscured by black bars labeled "To:" and "Case No:".
+*   **Agency Information:** Centered below the header is the return address block for the New York State Division of Criminal Justice Services located in the Alfred E. Smith Building, 80 South Swan St., Albany, New York 12210. A toll-free number "Tel:1-800-262-DCJS" is listed. Below the address is the name and title of Michael C. Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services.
+*   **Navigation Menu:** A horizontal line separates the header from a row of blue, underlined hyperlinks arranged horizontally across the width: "Identification," "Summary," "Criminal History," "Job/License," "Wanted," and "Missing."
+*   **Important Information Block:** Below the menu is a section titled "Attention - Important Information" accompanied by a small green dot icon and a red upward-pointing arrow. Underneath this, italicized text instructs the reader to "See Additional Information at the bottom of this response for more banners pertaining to the criminal history."
+*   **First Redacted Block:** Immediately following the text is a massive, solid black rectangle that obscures a significant portion of the document's vertical space. This area likely contained the main body of the inquiry or criminal history details.
+*   **Summary Information Header:** Below the first black box, there is another section header titled "Summary Information" with the same green dot and red arrow iconography.
+*   **Second Redacted Block:** Beneath the "Summary Information" header lies another large, solid black rectangle, continuing the theme of heavy redaction for the rest of the visible content area.
+*   **Page Indicator:** At the bottom right edge of the lower black box, the number "/4" is faintly visible, suggesting this is page 4 of a multi-page document.
+*   **Document ID:** In the absolute bottom right corner of the image, outside the main document border, is an alphanumeric identifier: "EFTA00015095".
+
+## Visible Text (verbatim)
+
+**Top Left:**
+10/6/21, 12:54 PM
+
+**Center Title:**
+Repository Inquiry
+
+**Redacted Fields:**
+To: [BLACKED OUT]
+Case No.: [BLACKED OUT]
+
+**Agency Header:**
+New York State Division of Criminal Justice Services
+Alfred E. Smith Building, 80 South Swan St.
+Albany, New York 12210. Tel:1-800-262-DCJS
+Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+
+**Menu Links:**
+Identification Summary Criminal History Job/License Wanted Missing
+
+**Attention Section:**
+Attention - Important Information ↑
+* See Additional Information at the bottom of this response for more banners pertaining to the criminal history
+
+**Summary Section:**
+Summary Information ↑
+
+**Footer:**
+/4
+EFTA00015095
+
+## Notable Details / Clues
+
+*   **Heavy Redaction:** The primary function of this document appears to be privacy protection. Two massive black boxes cover the core content, rendering the specific criminal records or identification details unreadable in this view.
+*   **Date Stamp:** The document is dated October 6th of a year ending in '21' (likely 2021 based on current context), indicating the timestamp of the inquiry or email generation.
+*   **Document Type:** This is a "Repository Inquiry," which suggests it was requested by law enforcement, employers, or others to check records in the state's criminal justice repository.
+*   **Contact Person:** The document lists Michael C. Green, providing a specific point of contact at the top of the division.
+*   **URL Structure Clue:** The blue hyperlinks suggest this document was originally viewed as a web-based PDF or generated from a web portal, allowing users to jump between sections like "Identification" or "Criminal History."
+*   **Footer Identifier:** The code "EFTA00015095" appears to be a unique tracking number for the electronic form transaction (likely "Electronic File Transfer Agent").
+*   **Navigation Icons:** The use of green dots and red arrows next to section headers ("Attention", "Summary Information") mimics HTML anchor points, confirming this is likely a snapshot of a webpage rendering.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a portion of a digital document, heavily redacted with solid black bars, originating from a New York State criminal history background check (indicated by DCJS). The document appears to be page 2 of a 4-page sequence. At the very top left, a timestamp indicates the document was viewed or printed on October 6, 2021, at 12:54 PM. A large black rectangle obscures the header section and personal details usually found at the top of such forms. Below this, a disclaimer note in purple text warns that summary information is preliminary and directs the recipient to review enclosed records. Following the disclaimer is a primary section header labeled "NYS Criminal History Information," marked by a green circular bullet point and a red upward-pointing arrow. To the right of this header, the text "Cycle 1" is visible. Below this, a sub-header reads "Arrest/Charge Information." Underneath that, the field "Arrest Date:" is present, followed by a smaller black rectangle obscuring the specific date. The majority of the page—specifically the section that would contain charge descriptions, court disposition, and case numbers—is covered by a massive, wide black rectangle spanning the width of the page. At the very bottom, another black rectangle covers footer information. In the bottom right corner, the pagination "2/4" is visible, along with a document tracking ID.
+
+## Visible Text (verbatim)
+*   **10/6/21, 12:54 PM**
+*   **Note: Summary Information may not reflect official actions. DCJS strongly urges the recipient to review the enclosed criminal history record information.**
+*   **NYS Criminal History Information**
+*   **Cycle 1**
+*   **Arrest/Charge Information**
+*   **Arrest Date:** [Redacted]
+*   **2/4**
+*   **EFTA00015096**
+
+## Notable Details / Clues
+*   **Document Authority:** The acronym "DCJS" confirms this is an official document from the New York State Division of Criminal Justice.
+*   **Redaction Strategy:** The black bars are uniform and solid, suggesting automated or deliberate redaction rather than a natural stain or mark on paper.
+*   **Cycle Indicator:** The presence of "Cycle 1" suggests this report may contain multiple cycles of data entry or processing for the same case or individual.
+*   **Disclaimer Emphasis:** The purple text explicitly states that summary information is not definitive, adding a layer of legal caution to the document's validity.
+*   **Specific Field Redaction:** While the "Arrest Date" field is present and labeled, it has been specifically redacted, whereas the body block below it is fully obscured, indicating sensitive content was hidden there as well.
+*   **Page Count:** The footer "2/4" indicates this is a multi-page report, likely containing extensive detail not visible in this snippet.
+*   **Color Coding:** The use of purple for headers ("NYS Criminal History Information", "Arrest/Charge Information") and notes helps distinguish them from the standard black text used for labels like "Arrest Date".
+*   **Graphic Elements:** A small red arrow pointing upward is placed next to the main header, possibly indicating an expansion or alert area in the original PDF interface.
+*   **Timestamp Precision:** The timestamp includes minutes (12:54 PM), suggesting a specific print or view event on October 6, 2021.
+*   **Unique Identifier:** The code "EFTA00015096" at the bottom right serves as a unique tracking number for this specific page or document instance.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the bottom half of a printed or digital document, likely an official criminal history record (commonly known as a "rap sheet"). The top section is almost entirely obscured by large black rectangular bars used for redaction, hiding sensitive personal information such as photographs, names, and specific case identifiers. A timestamp in the top left corner reads "10/6/21, 12:54 PM."
+
+Below the redactions, the document lists several informational categories regarding a subject's legal history. Each category is marked with a green circular bullet point and a small red upward-pointing arrow next to a purple header. The text under each header typically states that no information of that specific type exists within this record.
+
+The "Additional Information" section contains standard legal disclaimers found in criminal justice documents, specifically regarding sentencing concurrency rules effective from June 1, 1981. There are bolded caution notes indicating that the identification was not based on fingerprint comparison and noting that data is multi-source (involving other states or FBI files).
+
+The bottom section features a prominent warning block printed in red/maroon text regarding federal privacy laws (Title 42 USC 3789g(b)) prohibiting unauthorized release of the document. The footer includes the page number "3/4" on the right side and a specific tracking ID code "EFTA00015097" at the very bottom right. A small black redaction box obscures text following the "Multi-Source" note near the bottom.
+
+## Visible Text (verbatim)
+*   **Top Left Corner:** "10/6/21, 12:54 PM"
+*   **Header Section 1:** "Other History Related Information [Upward Arrow Icon]" -> "There is no Other History Related Information associated with this history."
+*   **Header Section 2:** "Job/License Information [Upward Arrow Icon]" -> "There is no Job/License Information associated with this history."
+*   **Header Section 3:** "Wanted Information [Upward Arrow Icon]" -> "There is no NYS Wanted Information associated with this history."
+*   **Header Section 4:** "Missing Person Information [Upward Arrow Icon]" -> "There is no NYS Missing Information associated with this history."
+*   **Header Section 5:** "Additional Information [Upward Arrow Icon]"
+*   **Body Text (Sentencing):** "Sentencing - Where an individual is sentenced June 1, 1981 or later on more than one charge within a docket, the sentence may be considered to be concurrent unless identified as consecutive."
+*   **Caution Note:** "**Caution: Identification not based on fingerprint comparison. This record was produced as the result of an inquiry.**"
+*   **Multi-Source Note:** "Multi-Source - Subject has information maintained by other states or in multiple NYS files maintained by the FBI available through the Interstate Identification Index. [Redacted Text]"
+*   **Warning Block (Red Text):** "**WARNING:** Release of any of the information presented in this computerized Case History to unauthorized individuals or agencies is prohibited by federal law TITLE 42 USC 3789g(b). This report is to be used for this one specific purpose as described in the Use and Dissemination Agreement your agency has on file with DCJS. **Destroy after use and request an updated rap sheet for subsequent needs.** All information presented herein is as complete as the data furnished to DCJS."
+*   **Footer Right:** "3/4"
+*   **Bottom Right Code:** "EFTA00015097"
+
+## Notable Details / Clues
+*   **Redaction Extent:** The top half of the page is completely blacked out, suggesting this image was taken from a secure or sensitive environment where personal identifiers were intentionally hidden.
+*   **Empty History Sections:** A significant portion of the document lists categories (Job/License, Wanted, Missing Person) with negative results ("There is no... Information"), indicating a clean record in those specific administrative areas for this subject.
+*   **Date Specificity:** The text references "June 1, 1981" as a legal pivot point for sentencing concurrency rules, which is a standard clause in New York State (NYS) criminal history documents.
+*   **Fingerprint Disclaimer:** The caution note explicitly states the record is an identification based on inquiry (likely name/social security number match) rather than fingerprint comparison, which often makes these records less reliable or harder to verify identity-wise than official FBI fingerprints cards.
+*   **Document Continuity:** The page number "3/4" indicates this is near the end of a multi-page document.
+*   **Agency Identifier:** The acronym "DCJS" refers to the New York State Division of Criminal Justice Services, confirming the jurisdiction of this report.
+*   **Tracking Number:** The code "EFTA00015097" at the bottom is likely an electronic file transfer acknowledgement number used for record-keeping and auditing within the DCJS system.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+10/6/21, 12:54 PM [REDACTED]
+
+
+## Structured Fields
+- **Date:** 10/6/21 (October 6, 2021)
+- **Time:** 12:54 PM
+- **Document ID:** EFTA00015098
+- **Page Number:** 4 of 4
+

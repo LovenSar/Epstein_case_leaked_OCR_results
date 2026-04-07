@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002631.pdf ts=2026-03-05T21:40:45 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- **Subject:** A rectangular, glossy black electronic device, likely a network enclosure or access point shell, lying flat on a surface.
+- **Background:** The object rests on a textured, scratched gray metallic surface, resembling a workbench floor or industrial table.
+- **Mounting Points:** Four circular mounting holes with inserts are visible at each of the four corners of the device.
+- **Bottom-Left Insert:** The mounting point in the bottom-left corner features a distinct gold or brass-colored screw head or insert, contrasting with the dark metal of the other three points.
+- **Label Location:** A white rectangular manufacturer's label is adhered to the upper-central portion of the device face.
+- **Surface Condition:** There are visible scuff marks and light scratches on the glossy black casing, particularly in the area just above the label and near the top-left mounting hole.
+- **Reflections:** Two large, diffuse yellowish-white reflections are cast upon the glossy surface, suggesting overhead lighting sources or a window with vertical blinds (evident in the lower-left reflection).
+- **Orientation:** The device appears to be face up, displaying its branding and technical specifications.
+- **Watermark:** A small white alphanumeric code is visible in the extreme bottom-right corner of the image frame.
+
+## Visible Text (verbatim)
+- **QR Code:** Present in the top-left corner of the label block.
+- **Compliance Symbols:** CE mark, triangle symbol, and other regulatory icons are visible in the top-right of the label.
+- **Barcode/Sticker:** A white sticker containing a barcode and the text `0478G15CAE` (or similar alphanumeric string).
+- **Model Number:** `MAN: UVC-NVR-2TB`.
+- **Power Specifications:** `19V -- 3.42A`.
+- **Branding:** The Ubiquiti logo (the letter 'U') and the word `UBIQUITI`.
+- **Product Line:** `UniFi VIDEO` (visible next to the logo).
+
+## Notable Details / Clues
+- **Device Type:** The model number "UVC-NVR-2TB" suggests this is a Network Video Recorder (NVR) or a component related to Ubiquiti's video surveillance line.
+- **Power Input:** The label indicates a 19V power input, typical for PoE+ powered devices or external power bricks.
+- **Label Orientation:** The text on the label appears rotated relative to the camera frame (or the device is mounted upside down relative to the viewer's expectation), though all text remains legible upon closer inspection.
+- **Industrial Setting:** The scratched metal background and the nature of the object suggest an inventory photo or a quality control check in a warehouse or workshop setting.
+- **Serial/Asset Tag:** The barcode sticker likely contains a serial number or asset tag for inventory tracking (partially visible).
+- **Reflective Surface:** The high gloss finish on the black casing acts as a mirror, capturing the environment above it.
+- **Hardware Condition:** Despite the scratches, the plastic/metal seems structurally intact with no obvious cracks or damage to the casing itself.
+

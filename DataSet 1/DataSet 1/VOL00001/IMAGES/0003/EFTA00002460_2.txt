@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002460.pdf ts=2026-03-05T20:15:32 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- **Central Object:** A closed laptop dominates the frame, positioned horizontally with its screen facing away (back of lid visible). It features a dark charcoal or matte black finish with a subtle textured grain on the lid surface.
+- **Branding:** A circular silver emblem is centered on the back of the laptop lid, displaying the lowercase letters "hp" in a stylized font.
+- **Peripheral Device:** In the lower-left quadrant, separate from the main body but connected by a short black cable, sits a small, rectangular blue adapter or dongle. This device has a metallic blue casing and a white label adhered to its top face.
+- **Connection:** A short, black USB-C style cable exits the left edge of the laptop lid (viewer's perspective) and curves downward to plug into the bottom of the blue adapter, which is resting on the surface below the laptop.
+- **Background Surface:** The objects rest on a flat, gray surface that appears to be scratched or scuffed, suggesting a metal workbench or industrial desk environment. Lighting casts soft shadows beneath the laptop and the adapter.
+- **Condition:** The laptop lid shows minor smudges and dust marks, particularly near the center and upper left. The blue adapter looks relatively clean compared to the laptop.
+- **Orientation:** The scene is captured from a high-angle, slightly overhead perspective. The laptop is angled slightly counter-clockwise.
+- **Adapter Labeling:** The white label on the blue box contains regulatory markings (CE, FCC) and a serial number, though partially upside down relative to the viewer's upright orientation.
+- **Cable:** The connecting cable is black with a standard USB-C connector visible as it enters the laptop port.
+
+## Visible Text (verbatim)
+- **Laptop Logo:** "hp" (silver emblem)
+- **Blue Adapter Label (partial):**
+    - "S/N: GW1038A105416"
+    - "CE"
+    - "FCC"
+    - Recycling symbol (trash bin with crossed-out wheelie bin logo)
+    - Model identifier fragment: "TL2-ET100" (appears inverted)
+- **Image Watermark (bottom right):** "EFTA00002460"
+
+## Notable Details / Clues
+- **Device Type:** The blue device appears to be a USB-C expansion hub or dongle, often used to add ports like HDMI, Ethernet, or USB-A when a laptop has limited connectivity.
+- **Model Number:** The serial number "GW1038A105416" suggests manufacturing tracking data is available.
+- **Surface Context:** The scratches on the gray background imply this photo was likely taken in a repair shop, warehouse, or tech lab rather than a clean consumer home environment.
+- **Port Type:** The connection to the laptop confirms the presence of a USB-C port on the HP model, which is standard for modern laptops but older models often lacked it.
+- **Regulatory Compliance:** The presence of both CE (European Conformity) and FCC logos indicates the adapter device is sold in international markets requiring these certifications.
+

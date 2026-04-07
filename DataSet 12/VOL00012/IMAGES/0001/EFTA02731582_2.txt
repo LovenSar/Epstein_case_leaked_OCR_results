@@ -1,0 +1,78 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731582.pdf ts=2026-03-06T17:08:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a digital document featuring two sections of an email thread, heavily redacted with black bars to protect personal information. The layout is typical of standard email clients like Microsoft Outlook or Gmail.
+
+**Top Section (Most Recent Email):**
+*   Located at the top, this section shows the header fields for an email sent on Monday, July 3, 2023.
+*   The "From," "To," and "Cc" fields are obscured by solid black rectangles.
+*   The Subject line begins with "Re: Memo to file re DANY call on Leon Black/" followed by a redacted segment.
+*   A horizontal grey rule separates the header from the body text.
+*   The salutation starts with "Hey" followed immediately by a black rectangle covering the recipient's name.
+*   The body text is brief, apologizing for a delay and offering to chat, asking the recipient to suggest a time that works best.
+*   Below this paragraph are two redacted blocks.
+*   One of these blocks reveals text in bold: "FBI New York Field Office", indicating the sender's affiliation.
+*   A final long black bar covers the signature or contact details below the office name.
+
+**Middle Section (Older Email):**
+*   Separated from the top section by another grey horizontal line, this appears to be the forwarded email initiating the conversation.
+*   The "Sent" date is visible as Friday, June 30, 2023, at 4:04:52 PM.
+*   The Subject line reads "[EXTERNAL EMAIL] - FW: Memo to file re DANY call on Leon Black/..." followed by a redacted name.
+*   The salutation is "Hi" followed by a redacted name.
+*   The body text is a single paragraph explaining the purpose of the correspondence. It requests a call to discuss a new victim connected to the Epstein/Maxwell case.
+*   The text clarifies that while Maxwell won't be investigated for *more* crimes based on this, the victim has identified other potential traffickers requiring due diligence.
+*   The email ends with "Thanks" and a final redacted name block.
+
+**Bottom Section:**
+*   Beneath the second email's signature area is a massive, solid black rectangle that obscures the footer of the document or any attachments.
+*   In the absolute bottom right corner, outside the main body but still on the page, is an alphanumeric code: "EFTA02731582".
+
+## Visible Text (verbatim)
+
+**Header 1:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: Re: Memo to file re DANY call on Leon Black/ [Redacted]
+Date: Monday, July 3, 2023 5:24:39 PM
+
+**Body 1:**
+Hey [Redacted]
+Apologies on the delay. Happy to chat. Let me know what works best for you.
+
+[Redacted Block]
+FBI New York Field Office
+[Redacted Block]
+
+**Header 2:**
+From: [Redacted]
+Sent: Friday, June 30, 2023 4:04:52 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: [EXTERNAL EMAIL] - FW: Memo to file re DANY call on Leon Black/ [Redacted]
+
+**Body 2:**
+Hi [Redacted]
+Do you have time for a call to discuss a victim who recently came to our attention with connections to the Epstein/Maxwell case? To be clear, we aren’t suggesting investigating Maxwell for more crimes, but this victim has identified other potential traffickers, and we think it makes sense to do a bit of due diligence before deciding what, if anything, we should do with this information.
+
+Thanks
+[Redacted]
+
+**Footer:**
+EFTA02731582
+
+## Notable Details / Clues
+
+*   **Agency Identification:** The text "FBI New York Field Office" is clearly visible in the signature of the first email, confirming the document is an official (or intercepted) FBI communication.
+*   **Subject Matter:** The emails discuss a specific investigative lead regarding the Jeffrey Epstein and Ghislaine Maxwell sex trafficking ring ("Epstein/Maxwell case").
+*   **Specific Name "DANY":** The acronym "DANY" appears in the subject line of both emails ("Memo to file re DANY call on Leon Black"). This likely refers to a specific internal operation, victim identifier, or legal team member involved in the investigation.
+*   **Name Mentioned:** "Leon Black," a prominent billionaire and Epstein associate, is mentioned in the subject lines but his full name context is redacted.
+*   **Investigation Stance:** The text explicitly states a limitation: "we aren’t suggesting investigating Maxwell for more crimes," but instead focuses on identifying "other potential traffickers" connected to the new victim.
+*   **"Due Diligence":** The email emphasizes the need for careful vetting ("due diligence") before acting on information from a victim, a common procedural safeguard in investigations.
+*   **External Source:** The tag "[EXTERNAL EMAIL]" suggests the original sender was not using standard government domains, possibly indicating contact from an attorney or intermediary (like Daniel Pearl, though his name isn't visible).
+*   **Timeline:** There is a three-day gap between the emails (June 30 to July 3), suggesting a back-and-forth coordination regarding scheduling a call.
+*   **Redaction Pattern:** Almost all proper names (From, To, names) are redacted with uniform black blocks, obscuring the identities of the specific agents or recipients while leaving public record text and headers visible.
+

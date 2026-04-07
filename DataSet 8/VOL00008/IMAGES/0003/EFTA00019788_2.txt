@@ -1,0 +1,130 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019788.pdf ts=2026-03-14T06:32:13 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed photocopy of a computer screen running a specialized dashboard application titled "Truscope.Silverlight.Dashboard." The document is part of a larger set, marked "Page 1 of 2" at the top right and stamped with a Bates number "EFTA00019788" at the bottom right. The screen interface is dark-themed (gray/black background) and lists institutional log entries for a location labeled "9 SOUTH SHU" (Secure Housing Unit). A thick, solid black rectangular bar obscures the central columns of the data table, likely redacting specific inmate IDs or cell numbers, leaving the dates and summary descriptions visible on either side. The interface includes a left-hand navigation sidebar with icons for "Inmate Search," "Institution Shift Status," and "Institution Property Queue." The main window lists chronological events ranging from August 8th to August 9th, 2019, detailing security checks, radio comms, inventory verifications, and physical searches of cells and areas like the recreation room and law library.
+
+## Visible Text (verbatim)
+**Document Header:**
+*   "Truscope.Silverlight.Dashboard"
+*   "Page 1 of 2"
+
+**Application Interface:**
+*   "9 SOUTH SHU"
+*   "NYM | 8/7/2018 - 8/11/2019 | All SBID | All SIS Contraband | All BA"
+*   "Add Log Event"
+*   "Current Base Count: 74"
+*   Sidebar Labels: "NYM", "SHU", "Housing Unit, Special (SHU)", "9 SOUTH SHU".
+*   Bottom Sidebar Buttons: "Inmate Search", "Institution Shift Status", "Institution Property Queue".
+
+**Table Data Entries (Partial/Summary Column):**
+*   "Radio Number: 608."
+*   "Ring Number C-31, Count: 7."
+*   "Ring Number C-32, Count: 7."
+*   "Ring Number C-37, Count: 10."
+*   "Ring Number C-29, Count: 6."
+*   "Ring Number C-28, Count: 2."
+*   "Ring Number B-33, Count: 4."
+*   "Fire Alarm Panel Check" -> "Completed."
+*   "Inventory Sheet Verified" -> "Completed."
+*   "Begin Shift" -> "Completed."
+*   "Search (Cells)" -> "Cell: 107."
+*   "Bar Taps (Cells)" -> "Cells 44, BAR TAPS CONDUCTED WHILE SHOWERS"
+*   "Search (Areas)" -> "Common Area: VISITING STRIP ROOM."
+*   "Search (Areas)" -> "Common Area: STRIP ROOM."
+*   "Search (Areas)" -> "Common Area: STAFF BATHROOM."
+*   "Search (Areas)" -> "Common Area: RECREATION AREA."
+*   "Search (Areas)" -> "Common Area: LAW LIBRARY."
+*   "Search (Areas)" -> "Common Area: LAUNDRY ROOM."
+*   "Rounds (Officer)" -> "Completed."
+*   "Fire and Security Check" -> "Completed."
+*   "OC Spray Check" -> "Completed, Serviceable."
+*   "Body Alarm Check" -> "Radio Number: 611."
+*   "Key Check" -> "Ring Number C-32, Count: 7."
+
+**Application Footer:**
+*   "Close" button.
+*   "TRUSCOPE" logo (bottom center).
+*   Small right-side buttons: "TFJ4558", "PROD v1.12", "Help", "About".
+*   Pagination indicator: "310 rows" (partially visible).
+
+**Document Footer:**
+*   "https://10.33.3.57/Dashboard.aspx"
+*   "8/10/2019"
+*   "EFTA00019788"
+
+## Notable Details / Clues
+*   **Redaction:** The central columns of the spreadsheet are heavily blacked out, preventing the identification of specific cell numbers or inmate identifiers that would otherwise be in those columns.
+*   **Institution Type:** The abbreviation "SHU" and terms like "Strip Room," "Bar Taps," and "Recreation Area" confirm this is a corrections/facility management interface for a prison or jail.
+*   **Specific Activity:** One entry notes "Cells 44, BAR TAPS CONDUCTED WHILE SHOWERS," indicating specific operational procedures during inmate hygiene time.
+*   **Ring Numbers:** The log uses specific "Ring Number" codes (e.g., C-31, C-28) to track inventory or count of inmates/items in specific housing blocks.
+*   **Date Discrepancy:** The application header shows a date range starting "8/7/2018," which is likely a default or error, as the actual log entries and footer stamp are clearly from August 2019 (8/8 through 8/10).
+*   **Network Address:** The bottom left URL reveals an internal IP address (10.33.3.57), confirming this is a screenshot taken from an internal network machine, not a public website.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document, specifically page one of two, featuring a screenshot of a computer interface overlaid on a dark gray background. The document appears to be an internal report or log related to a correctional facility, indicated by terms like "SHU" (Special Housing Unit) and "Base Count."
+
+**Top Header:**
+The very top of the page reads "TruScope.Silverlight.Dashboard" in the upper left and "Page 1 of 2" in the upper right.
+
+**Main Dashboard Window:**
+The central focus is a windowed application titled "9 SOUTH SHU."
+- **Menu Bar:** A row of tabs includes "RollCall," "High Risk," "Inmate Lists," "SIS Contraband," "BAs," "Life," "Daily Activity," "STG #," and "New Inmates." A date range dropdown shows "8/7/2019 | 8/11/2019" under "All Log Events."
+- **Sidebar (Left):** On the left edge of the screenshot, there are circular navigation buttons labeled "Inmate Search," "Institution Shift Status," and "Institution Property Queue." Above these, text labels indicate sections like "SHU," "Housing Unit, Special (SHU)," and "9 SOUTH SHU."
+- **Data Table:** The main area is a scrolling log of events. The columns appear to list timestamps, event types (partially obscured), and descriptions of the activity.
+    - **Morning Entries (08/10/2019):** These rows detail routine checks including "Body Alarm Check," "Radio Check," and multiple "Key Check" entries listing Ring Numbers and Counts.
+    - **Evening Entries (08/09/2019):** These rows list "Search (Areas)" noting common areas like "VISITING STRIP ROOM," "STAFF BATHROOM," "RECREATION AREA," "LAW LIBRARY," and "LAUNDRY ROOM."
+    - **Base Count Changes:** Several entries track changes to the base count, listing specific inmate IDs and names (e.g., GARCIA-RENA, PEDRO; FELIX, KERRY) and reasons such as being "Taken to suicide watch" or "Checked back in to I..." (likely Intake).
+    - **Shift Logs:** Entries note shifts assumed by officers, rounds completed, and fire alarm checks.
+
+**Redaction/Obfuscation:**
+A thick, vertical black bar obscures the middle column of the data table (likely containing specific event types or sub-categories) for the majority of the entries listed.
+
+**Bottom Footer:**
+At the bottom of the printed page, there is a URL "https://10.33.3.57/Dashboard.aspx" indicating an internal IP address. The date "8/10/2019" and a document control number "EFTA00019789" are visible in the bottom right corner.
+
+## Visible Text (verbatim)
+- **Top Header:** TruScope.Silverlight.Dashboard | Page 1 of 2
+- **Dashboard Title:** 9 SOUTH SHU
+- **Menu Items:** RollCall High Risk Inmate Lists SIS Contraband BAs Life Daily Activity STG # New Inmates
+- **Dropdown:** 8/7/2019 | 8/11/2019 | All Log Events
+- **Right Side Count:** Current Base Count: 74
+- **Log Entries (Transcribed from bottom up/left to right where readable):**
+    - OC Spray Check | Completed. Servicable.
+    - Body Alarm Check | Radio Number: 610.
+    - Radio Check | Radio Number: 610.
+    - Body Alarm Check | Radio Number: 609.
+    - Radio Check | Radio Number: 609.
+    - ... (Black Bar Obscures Middle Section) ...
+    - Search (Areas) | Common Areas: VISITING STRIP ROOM.
+    - Search (Areas) | Common Areas: STAFF BATHROOM.
+    - Search (Areas) | Common Areas: RECREATION AREA.
+    - Search (Areas) | Common Areas: LAW LIBRARY.
+    - Search (Areas) | Common Areas: LAUNDRY ROOM.
+    - Red Book Check | Completed.
+    - Base Count Verified | 74 Base Count: 74.
+    - Change to Base Count Out | Inmate: 75043054 - GARCIA-RENA, PEDRO.
+    - Change to Base Count Out | Inmate: 85775054 - FELIX, KERRY. Taken to suicide watch
+    - Change to Base Count Out | Inmate: 76040054 - WILLIAMS, DAYVON. Taken to suicide
+    - Change to Base Count In | Inmate: 68765094 - SAXON, JOSEPH. Checked back in to I
+    - Rounds (Lieutenant) | Completed - PREA. Ad Lt Silva
+    - Change to Base Count Out | Inmate: 85690954 - REID, MICHAEL.
+    - Change to Base Count Out | Inmate: 68765094 - SAXON, JOSEPH. (Duplicate entry likely or different time)
+    - Change to Base Count Out | Inmate: 14728055 - HEMINGWAY, ANDRE.
+    - Rounds (Officer) | Completed. All rounds will be conducted every thirty minut
+    - Official Count | Clear Count: 75.
+- **Sidebar Labels:** SHU | Housing Unit, Special (SHU) | 9 SOUTH SHU | Inmate Search | Institution Shift Status | Institution Property Queue
+- **Footer:** https://10.33.3.57/Dashboard.aspx | 8/10/2019 | EFTA00019789
+
+## Notable Details / Clues
+- **System Type:** The interface is identified as a "TruScope" dashboard, which is typically used for security and inmate tracking in correctional facilities.
+- **Internal Network:** The URL starting with `10.33` confirms this computer system was on a private internal network (RFC 1918 address space), accessible only within the institution.
+- **Specific Procedures:** The log details standard correctional protocols: radio checks, key counts (Ring Numbers), "Red Book Checks" (likely property/accountability logs), and fire alarm checks.
+- **Safety Incidents:** Entries regarding inmates being taken to a "suicide watch" suggest this is an active, monitored environment where mental health and safety risks are tracked in real-time.
+- **PREA Compliance:** Mentions of "Completed - PREA" (Prison Rape Elimination Act) rounds indicate the facility adheres to federal compliance standards for preventing sexual abuse and harassment.
+- **Time Discrepancy/Clock:** There is a mix of 08/10/2019 (Aug 10) and 08/09/2019 (Aug 9) dates in the log, suggesting the view might be scrolling backwards or includes late-night logs from the previous day.
+- **Document ID:** The string "EFTA00019789" suggests this is part of an official chain-of-custody or evidence file, likely for a legal or investigative purpose given the specific redaction style and footer format.
+

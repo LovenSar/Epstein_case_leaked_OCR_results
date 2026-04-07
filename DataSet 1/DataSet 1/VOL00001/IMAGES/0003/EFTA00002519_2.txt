@@ -1,0 +1,35 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002519.pdf ts=2026-03-05T20:45:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image captures a close-up, low-angle view of a densely packed equipment rack, likely in an audio-visual or server room, characterized by dim lighting.
+*   On the far left, a vertical black metal rack-mount panel is visible, featuring silver mounting ears with screws at various intervals.
+*   Printed vertically on this panel are white numbers indicating slots or positions: "32" near the top, followed by "31", "30", "29", and "28" descending downwards.
+*   A thick blue network cable (Ethernet) runs vertically along the front edge of the rack, terminating in a standard RJ45 connector near the bottom left.
+*   Running parallel to the blue cable is an orange Ethernet cable that extends upwards out of the frame.
+*   To the right of these data cables, a bundle of yellow cables (possibly fiber optics or power cords) weaves through the equipment slots.
+*   In the center and upper portion of the frame, a large, black screen or monitor dominates the view, appearing dark and off, reflecting faint ambient light.
+*   Beneath the screen, a horizontal piece of equipment is visible in shadow, featuring a glowing orange power indicator light on the far right side.
+*   Below this unit, another rack shelf is visible containing a chaotic tangle of yellow and reddish-orange wires.
+*   In the bottom right corner, resting on a surface or shelf, is a white plastic connector, resembling an XLR audio connector or similar cable termination.
+*   The background is largely obscured by darkness, with only vague shapes suggesting walls or other rack legs on the right side.
+*   Several small screws and mounting hardware are visible on the black metal chassis of the equipment.
+
+## Visible Text (verbatim)
+*   "32"
+*   "31"
+*   "30"
+*   "29"
+*   "28"
+*   "EFTA00002519" (located in the bottom right corner)
+
+## Notable Details / Clues
+*   The rack numbering (descending from 32 to 28) suggests standard equipment mounting slots, possibly indicating 1U rack units.
+*   The presence of both Ethernet cables and what appear to be audio connectors (the white XLR-like object) implies this is a hybrid media rack containing both IT and AV gear.
+*   The orange power light is the primary source of illumination in the mid-ground, confirming that at least one device in the stack is active despite the overall darkness.
+*   The yellow cables are somewhat ambiguous; they could be fiber optic jumpers or simply thick power cords bundled together.
+*   The image quality suggests it was taken with a flash or strong off-camera light source given the deep shadows and blown-out highlights on the cable jackets.
+*   A faint, illegible string of text is visible printed on the orange cable jacket near the top left.
+*   The red glow reflected slightly on the black surface above the rack suggests there might be colored lighting (red LEDs) elsewhere in the room or equipment behind the camera.
+

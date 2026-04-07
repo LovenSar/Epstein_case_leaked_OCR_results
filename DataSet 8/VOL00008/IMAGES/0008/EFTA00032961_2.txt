@@ -1,0 +1,57 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032961.pdf ts=2026-03-19T22:20:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertically oriented digital document, likely a page from a police blotter or criminal record report, heavily redacted. The background consists of pale yellow paper with faint blue horizontal ruling lines and vertical margin lines on the left, resembling standard notebook paper. A large, irregular black shape dominates the center and lower two-thirds of the image, effectively masking almost all underlying content. Above this main block, a cluster of smaller, rectangular black boxes obscures the header area. These redaction blocks are stacked and aligned horizontally near the top edge. To the far left margin, smaller black rectangles interrupt the lines of the notebook paper, partially covering vertical text or grid lines. The overall composition suggests a sequence of subjects, indicated by the central heading.
+
+## Visible Text (verbatim)
+*   **INMATE 2** (Located in the upper center of the main black area, printed in white, serif capital letters).
+*   **EFTA00032961** (Located in the bottom right corner in small, black sans-serif text).
+
+## Notable Details / Clues
+*   **Context:** The label "INMATE 2" strongly implies this is part of a police booking photo array or arrest record where multiple suspects are presented sequentially. This is likely the image for the second person in a row.
+*   **Redaction Style:** The redactions are heavy and opaque black rectangles, standard practice for obscuring sensitive information like names, identification numbers (ID), dates of birth, and mugshots.
+*   **Partial Visibility:** On the far left edge, amidst the black blocks covering the margin area, tiny fragments of white text or characters are barely visible (e.g., the curve of an 'o' or 'c'), suggesting a column of small print was originally present in the margin.
+*   **Document ID:** The string "EFTA00032961" appears to be a Bates number or a specific file tracking identifier used by law enforcement agencies to index documents for legal discovery.
+*   **Paper Type:** The background texture and ruling lines confirm this is likely a scan of a physical notebook page or a form printed on such paper, rather than a standard white office document.
+*   **Layout Structure:** The top section contains fragmented text blocks that have been redacted, possibly containing charges, dates, or booking times before the "INMATE" label appears.
+*   **Font Choice:** The word "INMATE" uses a classic serif typeface, which often contrasts with the sans-serif fonts typically used for standard body text in modern documents.
+*   **Vertical Alignment:** The redaction blocks at the very top are aligned along the horizontal ruling lines of the paper, suggesting they cover a structured table or form fields.
+*   **Bottom Right Corner:** The document ID is distinct from the main content area, placed in negative space where no other text obscures it.
+*   **Jagged Edges:** The left edge of the massive black shape is not perfectly straight; it steps inward slightly near the middle left, indicating a complex underlying layout that was being masked in sections.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Visual Field:** The majority of the image is obscured by a large, opaque black rectangle that spans from roughly 10% down to 95% of the vertical height. This acts as a heavy redaction mark, completely hiding the underlying imagery (likely a photograph or film negative).
+*   **Background Surface:** The substrate beneath the black overlay is a sheet of pale yellow or cream-colored paper featuring distinct horizontal blue lines running along the left margin, characteristic of standard ruled notebook paper or a legal pad.
+*   **Lower Text Region:** Situated immediately above the bottom edge of the upper black block is a section of handwritten text in blue ink. This text sits directly on the lined paper but is partially cut off by a second, smaller black rectangular redaction box at the very bottom edge of the frame.
+*   **Bottom Left Detail:** A small fragment of handwriting is visible just above the lowest black bar, appearing to be the end of a sentence or word, specifically the letters "count" are faintly discernible before being cut off by the censoring bar.
+*   **Bottom Right Corner:** In the white space below the document area, there is a printed alphanumeric identifier: "EFTA00032962". This is a standard tracking number associated with the CIA's Electronic File Transfer Agency used for FOIA (Freedom of Information Act) releases.
+*   **Redaction Style:** The black bars are sharp-edged and solid, indicating a digital or photocopied redaction rather than a physical piece of tape or paper covering the original document.
+*   **Line Spacing:** The horizontal blue lines on the background paper suggest a standard grid spacing, likely 1/3 inch, commonly found in school notebooks or administrative records.
+
+## Visible Text (verbatim)
+A little before 12a did count out not after
+Didn't hear anyone say they weren't doing the
+count
+
+## Notable Details / Clues
+*   **Time Context:** The text references a specific time, "12a" (midnight), suggesting an event occurring late at night.
+*   **Action Described:** The phrase "did count out" implies a specific procedure was being executed, likely a roll call, tally, or tactical counting of personnel/items.
+*   **Witness/Testimony Nature:** The statement "Didn't hear anyone say they weren't doing the..." suggests this is a report of silence or lack of objection from a group of people during that specific time frame.
+*   **Document Origin:** The ID number "EFTA" strongly points to United States intelligence documents, specifically related to CIA operations that have been declassified and released for public review.
+*   **Ink Consistency:** The handwriting appears to be in blue ink, which matches the color of the ruling lines on the paper (a blue pen vs a blue-ruled pad).
+*   **Sentence Structure:** The text reads like an excerpt from a larger transcript or logbook entry ("A little before..."). It lacks proper punctuation in places, typical of hurried notes.
+*   **Omission:** The word following "doing the" is partially obscured but context clues suggest it might be "count," aligning with the fragmented word visible on the next line.
+*   **Fading/Grain:** Despite the heavy blackout, there is a faint texture to the image that suggests the underlying medium is an analog scan of a photograph or film, rather than a digital text file.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+## Structured Fields
+- Document ID: EFTA00032963
+</s>
+

@@ -1,0 +1,89 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025248.pdf ts=2026-03-16T18:22:03 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing several message segments. The layout consists of alternating blocks of text and large black rectangular bars that obscure sensitive information such as sender names, full subject lines (in some instances), and attachments or logos. The background is plain white, typical of desktop email clients like Outlook or webmail interfaces.
+
+The text is primarily in a sans-serif font. The body text appears as blue hyperlinks, suggesting it is selectable within an email client, while headers like "Subject," "Date," and "From" are in bold black text. There are three distinct black bars obscuring content: one at the very top edge, one short bar below the first message body, a long bar separating sections, another short bar, and a final large bar at the bottom. The footer of the image contains a tracking code or ticket number "EFTA00025248" in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Section:**
+Subject: RE: Final Voucher 10810414(1) prepared by a travel arranger is pending your review
+Date: Wed, 20 Nov 2019 19:27:14 +0000
+
+Good afternoon all,
+Alex, an Accounting Department representative just contacted me regarding the transient occupancy tax you were charged for your stay at Doubletree by Hilton Santa Monica, but unfortunately since you used your personal card to pay for the hotel, they are not authorized to remove the taxes from your bill. Sorry for the inconvenience. Let me know if you have further questions regarding your travel voucher for this trip.
+
+**Middle Section:**
+Subject: RE: Final Voucher 10810414(1) prepared by a travel arranger is pending your review
+Alex, regarding the Transient Occupancy Tax, LA County is tax exempt. I’ve contacted Doubletree by Hilton Santa Monica for a refund for those charges. Thanks for your patience in this matter.
+
+**Bottom Section:**
+Subject: RE: Final Voucher 10810414(1) prepared by a travel arranger is pending your review
+Unfortunately this is still incorrect. First, it has the nightly lodging costs listed as $248 when in fact it was $247 – see the invoice, which is attached again. (Or please let me know if I’m supposed to be reimbursed for the maximum daily allowance rather than the actual cost.) Also it still does not include the tax.
+
+Please let me know when it is corrected and I will review it again.
+
+From: etravelservices@cwtsatotravel.com
+Sent: Wednesday, November 20, 2019 10:06
+
+Subject: Final Voucher 10810414(1) prepared by a travel arranger is pending your review
+
+Footer: EFTA00025248
+
+## Notable Details / Clues
+- **Recipients:** The emails are addressed to "Alex," who appears to be the traveler or expense report submitter.
+- **Specific Issue:** The core dispute involves a travel voucher for a stay at the Doubletree by Hilton Santa Monica.
+- **Disputed Amounts:** One email explicitly states a discrepancy in lodging costs, noting the invoice shows $248 while the actual cost was $247.
+- **Tax Dispute:** There is a conflict regarding "transient occupancy tax." An accounting rep initially stated taxes couldn't be removed because a personal card was used, but a subsequent reply claims LA County is tax exempt and a refund is being sought from the hotel.
+- **Company Domain:** The sender of the bottom email is `etravelservices@cwtsatotravel.com`, indicating a corporate travel agency (likely Citywide Travel Services).
+- **Timeline:** The emails occurred on November 20, 2019. One email was sent at 10:06 AM and another at 19:27 UTC (which is early the next day or late afternoon depending on timezone), suggesting a multi-hour resolution process.
+- **Voucher ID:** The specific voucher being reviewed is numbered "10810414(1)".
+- **Redaction Pattern:** The black bars systematically hide sender names and email addresses (except for the one visible footer), protecting identities while leaving the substantive arguments visible.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Dear [REDACTED]
+
+Final voucher 10810414(1) has been prepared by your travel arranger and is ready for your review. Please log into E2 Solutions to review the document.
+
+Trip ID: 10810414
+Voucher ID: 1
+Voucher type: Final
+Traveler name: [REDACTED]
+Purpose: R20NYS13179 - U.S. v. Epstein - Witness Interview
+Destination: Santa Monica, CA, United States
+Dates: 2019-11-13 - 2019-11-15
+Current status: Pending Voucher Approval
+
+Voucher total expenses: 1517.64
+Estimated trip cost: 1583.95
+
+E2 Single Sign On Login (within DOJ Network Only):
+https://dojnet.doj.gov/jmd/fs/e2-redirect.html
+
+E2 Manual Login (User ID and Password):
+https://e2.gov.cwtsatotravel.com
+
+Thank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link.
+
+Please note: Replies to this mailbox are not monitored.
+
+Some E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change your email settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage the emails that you receive from us.
+
+Reference ID# V0012
+This e-mail and any attachments may contain confidential and/or proprietary information. If you received this e-mail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments; any further use of such e-mail or attachments is strictly prohibited.
+
+EFTA00025249
+
+## Structured Fields
+*   **Date:** 2019-11-13 - 2019-11-15
+*   **Trip ID:** 10810414
+*   **Voucher ID:** 1
+*   **Reference ID:** V0012
+*   **Document ID (Footer):** EFTA00025249
+*   **Case ID:** R20NYS13179
+*   **Location:** Santa Monica, CA, United States
+*   **Organization:** DOJ Network, E2 Solutions
+

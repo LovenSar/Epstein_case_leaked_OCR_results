@@ -1,0 +1,27 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002005.pdf ts=2026-03-05T16:53:59 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an open 19-inch server/network rack mounted against a plain, off-white wall. The interior of the rack is populated with networking hardware characterized by somewhat disorganized cabling. At the very top edge of the rack frame, four distinct white modular faceplates (likely wall-mounted port panels) are installed side-by-side. Each panel features multiple RJ45 ports, some of which have handwritten labels attached to them with tape or paper strips. Below this row of wall plates sits a white 24-port network switch, identified by the "ProSafe" branding on its faceplate. A bundle of blue patch cables is stored behind this switch, while two active blue cables are plugged into the front.
+
+The middle section of the rack contains a grey boxy device, possibly a router or access point, resting on a black chassis. Below this, a clear plastic tray or cage holds a tangle of orange fiber optic cables and blue Ethernet cables running horizontally across the front. The cables hang loosely from the upper equipment, draping down in a chaotic fashion over the mid-section units. At the bottom of the rack are two large, vertical black tower units standing side-by-side. The unit on the left bears the red "APC" logo, indicating it is an Uninterruptible Power Supply (UPS) or power management unit. A looped wire hangs from a hook above the rack on the wall to the left. To the far left, the edge of an adjacent open cabinet or rack door is visible, revealing more blue cabling inside.
+
+## Visible Text (verbatim)
+*   **On the white switch:** "PROSAFE ... 24SW" (partially obscured by cables and glare).
+*   **On the grey device below the switch:** "PAVILION TEL" (or similar text starting with PAVILION).
+*   **On the bottom left black unit:** "APC".
+*   **Bottom right corner watermark:** "EFTA00002005".
+
+## Notable Details / Clues
+*   **Cable Management Issues:** There is a significant lack of cable management; blue patch cables are loose and dangling, suggesting an ad-hoc installation or a setup that needs tidying.
+*   **Modular Top Mount:** The white panels at the top appear to be temporary wall-mount plates used to bring outside lines into the rack, given their placement directly against the top lip of the cabinet.
+*   **Red Sticker:** There is a red adhesive label or piece of tape on the fourth (rightmost) white modular panel near the bottom row of ports, possibly marking a specific line for maintenance.
+*   **Handwritten Labels:** Faint white rectangular labels are stuck to the top panels; they appear to have handwritten notes but are illegible at this resolution.
+*   **Fiber Optics:** The bright orange cables at the lower shelf suggest fiber optic connections, which is distinct from the blue twisted-pair Ethernet cables used above.
+*   **Power Supply:** The APC units at the bottom imply that the rack contents (likely computers or routers) are on battery-backed power for stability.
+*   **Rack Rails:** The perforated side rails of the black metal rack frame are clearly visible along the edges.
+*   **Wall Hook:** A thin wire loop hangs from a nail or hook in the wall space above the rack, unrelated to the equipment below.
+*   **Lighting/Color:** The lighting appears to be artificial and somewhat dim, casting shadows inside the deep cavity of the rack.
+*   **Blue Cables Dominance:** The vast majority of visible data cabling is blue, a common standard for Ethernet patch cords (e.g., Cat5e/Cat6).
+

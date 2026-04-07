@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001499.pdf ts=2026-03-05T12:55:02 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays two legal documents from the United States government lying flat on a beige, square-tiled floor with visible grout lines. The lighting is somewhat dim, casting soft shadows to the right of the papers.
+
+On the left is a typed "Search and Seizure Warrant" from the United States District Court for the Southern District of New York. It features standard legal formatting with bold headers, checkboxes, and signature blocks at the bottom. The document includes a large stamped case number "19 MAG 6439" and specific commands to law enforcement.
+
+On the right is a corresponding "Receipt for Property" form from the United States Department of Justice Federal Bureau of Investigation (FBI). This document contains handwritten entries in black ink detailing the specific items seized, which appear to be various electronic devices. Portions of this form, specifically the street address and the name received from, are heavily blacked out with a thick black marker. The receipt lists items such as Apple products, Samsung phones, Sony consoles, and Dell monitors.
+
+Both documents share a connection through their dates; the receipt is dated July 11, 2019, and the warrant specifies execution by July 12, 2019. A watermark code "EFTA00001499" is visible in the bottom right corner of the photograph.
+
+## Visible Text (verbatim)
+**Left Document (Warrant):**
+- "UNITED STATES DISTRICT COURT"
+- "for the Southern District of New York"
+- "In the Matter of the Search of"
+- Case No. stamped: "19 Cr. 490 (RMM)"
+- Large Number: "1 9 MAG 6439"
+- "SEARCH AND SEIZURE WARRANT"
+- "To: Any authorized law enforcement officer"
+- "District of New York"
+- "Title 18, United States Code, Sections 371 and 1991"
+- "YOU ARE COMMANDED to execute this warrant on or before July 12, 2019"
+- "at any time in the day or night"
+- "Date and time issued: 7/11/19"
+- "City and state: New York, NY"
+- Signature line: "Hon. [illegible]... Magistrate Judge"
+
+**Right Document (Receipt):**
+- "UNITED STATES DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION Receipt for Property"
+- Case ID: "215-NY-30276-11"
+- On (date): "7/11/19"
+- Checkboxes: "Collected/Seized" is checked.
+- (Name): "Jolley Cookin"
+- (Street Address): [Redacted]
+- (City): "New York, NY"
+- Description of Item(s) - Handwritten list includes:
+    - "1 Apple MacBook Pro 15 inch"
+    - "Samsung Galaxy S8+"
+    - "Sony PlayStation 4"
+    - "Xbox One"
+    - "Dell Monitor"
+    - "2019, 1 Apple desktop computer"
+- Received By: [Blank/Redacted]
+- Received From: [Redacted]
+
+## Notable Details / Clues
+- **Date Discrepancy/Coincidence:** The warrant was issued on July 11, 2019 (handwritten at the bottom left), and authorizes search on or before July 12, 2019. The receipt is dated July 11, 2019, suggesting the property was seized and documented immediately after issuance.
+- **Redaction:** Privacy measures were taken by blacking out the specific street address and the name of the person from whom the items were received (likely a different individual than the warrant target or an accomplice).
+- **Specific Technology Seized:** The list details specific high-value electronics: Apple MacBook Pro, Samsung Galaxy smartphone, Sony PlayStation 4, Xbox One, Dell Monitor, and an Apple desktop computer.
+- **Location:** Both documents explicitly reference "New York, NY" and the "Southern District of New York."
+- **Judge/Authority:** The warrant is signed by a "U.S. Magistrate Judge," indicating judicial approval for the search.
+- **Handwriting Quality:** The handwriting on the receipt form is cursive and hurried but legible enough to identify specific brands and models of seized property.
+- **Warrant Form Number:** At the very top left of the warrant, there is a small code "AD 01 (SDNY Rev. 3/15 Search and Seizure Warrant)."
+- **Receipt Form Number:** Top left of the receipt shows "FD-951".
+- **Item Count:** The receipt implies multiple items were seized, indicated by the number of lines written in the description section.
+

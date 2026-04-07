@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001476.pdf ts=2026-03-05T12:45:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts a cluttered, utilitarian interior space, likely a basement mechanical room or server closet. The scene is dominated by industrial infrastructure, storage, and safety equipment.
+
+*   **Left Wall & Electrical Cabinet:** A tall, grey metal electrical cabinet occupies the left foreground. Vertical silver conduits run up the white wall beside it. The upper portion of this cabinet features handwritten black marker annotations listing locations or zones.
+*   **Flooring & Safety Equipment:** On the floor near the left wall, there is a cluster of at least three red fire extinguishers with yellow tags attached to their handles. In the immediate right foreground, another large red fire extinguisher stands against a white partition or wall section, also bearing a yellow sticky note. At the very bottom center, a large clear plastic sheet or bag covers an indistinct object on the floor, next to some orange cables or hoses.
+*   **Right Side Storage:** Along the right wall runs a row of white cabinets with silver knobs. The countertop above these cabinets is used for storage, holding a dark blue suitcase, cardboard boxes, and clear plastic bins filled with various papers or items. A black electronic device, possibly a printer or server unit, sits on the counter near the center.
+*   **Ceiling & Conduit:** The ceiling area reveals exposed metal framing and industrial conduit ladders (troughs). These tracks are heavily populated with loose black and white data or power cables hanging downwards.
+*   **Background:** Through an opening in the back left, a darker adjacent room or hallway is visible, containing what appears to be a filing cabinet (black) and more exposed piping or ductwork.
+
+## Visible Text (verbatim)
+**Handwritten on electrical box (Left):**
+- "DEN - 3 1/2"
+- "- DALLAS-"
+- "+ WASH -"
+- "+ BUFFALO-"
+
+**Image ID (Bottom Right Corner):**
+- "EFTA00001476"
+
+**On white partition (Right edge):**
+- Partial text/barcode area, difficult to read fully but includes vertical text that appears to say "KIM".
+
+## Notable Details / Clues
+*   **Routing Logic:** The handwritten notes on the electrical box ("DEN", "DALLAS", "WASH", "BUFFALO") suggest this is a central power distribution hub for different regions or hotel locations (likely Denver, Washington, Buffalo). The "3 1/2" might refer to amperage capacity or a phase designation.
+*   **Clutter vs. Function:** While cluttered with personal items like a suitcase and boxes, the presence of multiple fire extinguishers indicates strict safety compliance is maintained despite the disorganization.
+*   **Cabling Density:** The ceiling troughs are almost overflowing with loose wires, suggesting a high-density data center or networking hub environment where cabling management is currently suboptimal.
+*   **Storage Misuse:** Personal items like a blue suitcase are stored on top of industrial cabinetry, which is generally discouraged in mechanical rooms.
+*   **Lighting:** The lighting appears to be artificial and functional, casting shadows that obscure the far corners of the room, typical of maintenance closets.
+

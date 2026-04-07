@@ -1,0 +1,134 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020812.pdf ts=2026-03-14T18:06:56 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot or digital copy of an email chain, heavily redacted, likely prepared for legal submission or public record due to the inclusion of an exhibit tag number. The document is formatted vertically with distinct blocks representing individual email messages stacked on top of one another. At the very top, a final email from October 14, 2021, sits above a separator line and the main thread below it. The emails below that line are arranged in reverse chronological order (newest at the bottom), showing a rapid exchange occurring between late night Wednesday, October 13, and early morning Thursday, October 14. Throughout the document, personal names, email addresses, and specific identifying information are obscured by thick, solid black rectangular bars to maintain confidentiality. The subject line of every single message in the thread remains identical. At the bottom right corner, a alphanumeric code "EFTA00020812" is visible, indicating this document is part of an official court or legal file archive.
+
+## Visible Text (verbatim)
+
+**Top Email Block:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Subject: RE: Spreadsheets from Denver exports without thumbnails
+*   Date: Thu, 14 Oct 2021 03:34:25 +0000
+*   Attachments: 2021.10.13_Maxwell_Letter.pdf
+*   Body: Sure – updated letter attached.
+
+**Second Email Block:**
+*   From: [Redacted]
+*   Sent: Wednesday, October 13, 2021 11:32 PM
+*   Subject: RE: Spreadsheets from Denver exports without thumbnails
+*   Body: [Redacted Name] – sorry one small thing, can you just list the documents in the index in the letter as “Spreadsheets” not FBI Spreadsheets? Thanks!
+
+**Third Email Block:**
+*   From: [Redacted]
+*   Sent: Wednesday, October 13, 2021 11:31 PM
+*   Subject: RE: Spreadsheets from Denver exports without thumbnails
+*   Body: Thanks!
+
+**Fourth Email Block:**
+*   From: [Redacted Name] (USANYS) <[Redacted Email]>
+*   Sent: Wednesday, October 13, 2021 11:30 PM
+*   Subject: RE: Spreadsheets from Denver exports without thumbnails
+*   Body: Great, thanks! I will copy you on the email to defense counsel.
+
+**Fifth Email Block:**
+*   From: [Redacted Name] <[Redacted Email]>
+*   Sent: Wednesday, October 13, 2021 11:22 PM
+*   Subject: RE: Spreadsheets from Denver exports without thumbnails
+*   Body: Updated PDF attached, thanks! I can upload to USAfx after you share the correspondence with them. If you have no objections, I’ll share the production with the same people we did last time[Redacted]. Should take only a few minutes to upload. Thanks!
+
+**Sixth Email Block (Bottom):**
+*   From: [Redacted Name] (USANYS) <[Redacted Email]>
+*   Sent: Wednesday, October 13, 2021 11:15 PM
+*   Subject: [Redacted]
+*   Body: [Completely Redacted]
+
+**Footer:**
+*   EFTA00020812
+
+## Notable Details / Clues
+
+*   **Legal Context:** The presence of "USANYS" (United States Attorney’s Northern District of New York), "defense counsel," "production," and "USAfx" strongly suggests this is correspondence between government attorneys and defense lawyers regarding discovery materials.
+*   **Urgency/Timeline:** The emails were sent in rapid succession over a period of roughly one hour on October 13 (11:15 PM to 11:32 PM), followed by a later confirmation at 03:34 AM on October 14, indicating an urgent exchange or a workflow that extended past midnight.
+*   **Specific Terminology:** The subject line "Spreadsheets from Denver exports without thumbnails" provides specific context about the data being handled (likely financial records or customs/export data related to Denver).
+*   **Formatting Dispute:** One sender explicitly requests a formatting change, asking to list documents as just "Spreadsheets" rather than "FBI Spreadsheets," implying sensitivity around identifying the origin of the data (possibly avoiding prejudicial labeling in court).
+*   **Attachment Reference:** The top email references an attachment named "2021.10.13_Maxwell_Letter.pdf," which suggests a specific individual or witness named "Maxwell" is involved in this case.
+*   **Redaction Pattern:** Not only names and emails are redacted, but entire blocks of text headers are blacked out to remove email addresses, likely to comply with privacy rules for public documents while keeping the metadata dates visible.
+*   **USANYS Account:** Two distinct senders identify their email domain as (USANYS), confirming the location and jurisdiction of the government attorney involved.
+*   **Upload Process:** The sender in the 11:22 PM email mentions uploading to "USAfx," which is a specific case management system used by federal courts, indicating the next step in the legal process.
+*   **Document Indexing:** The request to change the index term suggests that how these documents are cataloged matters for their admissibility or how they will be referenced during trial.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email conversation thread, likely from Microsoft Outlook or a similar client, viewed with "Conversation View" enabled. The emails are arranged in chronological order with the newest messages at the top and the oldest at the bottom. Significant portions of sender names and specific file links/paths have been redacted with black bars. The subject line for all visible emails is consistent: "RE: Spreadsheets from Denver exports without thumbnails".
+
+The conversation involves legal discovery processes, specifically dealing with "spreadsheets," "Bates numbering," and "production" (likely of documents). The thread shows a back-and-forth regarding formatting issues, such as missing thumbnails, updating Bates numbers for the Southern District of New York (SDNY), and sharing files via USAfx.
+
+The emails flow from bottom to top in this sequence:
+1.  **Oldest (Bottom):** A sender from "USANYS" (United States Attorney's Northern District of New York) sends an email at 7:41 PM on October 13, apologizing for a night message and requesting spreadsheets be sent to the defense.
+2.  **Next Up:** A reply at 9:25 PM asking about timing ("first thing tomorrow morning").
+3.  **Next Up:** An email from USANYS at 9:37 PM providing a "cover letter" for production but noting it needs Bates numbers added.
+4.  **Next Up:** An email (sender redacted) responding with a stamped version saved in a link, stating the cover letter has been updated to reflect a specific Bates range (SDNY_GM_02765031-2765061).
+5.  **Newest (Top):** A response thanking the recipient for their work but requesting further edits: updating the Bates range in the first paragraph of a PDF, removing the word "discovery" from the PDF title, and confirming sharing via USAfx.
+
+## Visible Text (verbatim)
+
+**Email Block 1 (Topmost)**
+*   **Subject:** RE: Spreadsheets from Denver exports without thumbnails
+*   **Body:** Thanks so much, [REDACTED] Can you please update the bates range in the first paragraph and then send me a PDF of the letter? Can you please remove the word "discovery" from the title of the PDF? Are you able to share with the defense via USAfx?
+
+**Email Block 2 (Below Top)**
+*   **From:** [REDACTED]
+*   **Sent:** Wednesday, October 13, 2021 10:55 PM
+*   **Subject:** RE: Spreadsheets from Denver exports without thumbnails
+*   **Body (Partial):** The production is stamped and saved here for your review: [REDACTED] [REDACTED] Twenty-Fourth Production (2021-10-13) I updated the cover letter (attached and saved [here] - blue link) to reflect the updated Bates range of SDNY_GM_02765031-2765061. Any edits, please let me know. Thanks!
+
+**Email Block 3**
+*   **From:** [REDACTED] (USANYS) <[REDACTED]>
+*   **Sent:** Wednesday, October 13, 2021 9:37 PM
+*   **Subject:** RE: Spreadsheets from Denver exports without thumbnails
+*   **Body:** Here is a cover letter for the production. Just the bates numbers need to be added in. thanks!
+
+**Email Block 4**
+*   **From:** [REDACTED] <[REDACTED]>
+*   **Sent:** Wednesday, October 13, 2021 9:25 PM
+*   **Subject:** RE: Spreadsheets from Denver exports without thumbnails
+*   **Body (Partial):** Hi [REDACTED] Are you able to send this out first thing tomorrow morning, if you're not able to send tonight (and no worries if you can't) Thanks!
+
+**Email Block 5 (Bottommost)**
+*   **From:** [REDACTED] (USANYS) <[REDACTED]>
+*   **Sent:** Wednesday, October 13, 2021 7:41 PM
+*   **Subject:** RE: Spreadsheets from Denver exports without thumbnails
+*   **Body:** [REDACTED bar] Sorry for the night email, but we need to send out the spreadsheets [REDACTED] sent us to the defense tonight. Are you able to get them in a production and stamp them? I'll circulate a discovery letter. Thanks!
+
+## Notable Details / Clues
+*   **Legal Context:** The email chain refers to "defense," "discovery letter," "production," and "USAfx" (an electronic filing system), indicating a civil or criminal legal case involving data export.
+*   **Specific Bates Range:** The text explicitly mentions an updated Bates range: `SDNY_GM_02765031-2765061`. The prefix "SDNY" confirms the jurisdiction is likely the U.S. District Court for the Southern District of New York.
+*   **Urgency:** Multiple emails mention timing constraints, such as "Sorry for the night email," "need to send out... tonight," and "send this out first thing tomorrow morning."
+*   **File Naming/Production:** A specific file or folder is named "Twenty-Fourth Production (2021-10-13)."
+*   **Redactions:** Names and specific URLs (like the "here" hyperlink) are blacked out to protect privacy or identity.
+*   **Formatting Issues:** The subject line repeatedly mentions "without thumbnails," suggesting a technical issue with image previews in exported spreadsheets was being troubleshooted.
+*   **USANYS:** The sender domain/organization is identified as "USANYS" (U.S. Attorney's Northern District of New York), though they are requesting work from an external vendor or opposing party ("defense").
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+Sent: Wednesday, October 13, 2021 7:10 PM
+[REDACTED]
+Subject: [EXTERNAL] Spreadsheets from Denver exports without thumbnails
+See attached.
+[REDACTED]
+NYPD / FBI
+Child Exploitation Human Trafficking Task Force
+Office: [REDACTED]
+
+## Structured Fields
+- **Date**: Wednesday, October 13, 2021
+- **Location**: Denver
+- **Organizations**: NYPD / FBI, Child Exploitation Human Trafficking Task Force
+- **Document ID**: EFTA00020814
+

@@ -1,0 +1,67 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00017702.pdf ts=2026-03-13T12:13:24 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email client interface, specifically showing a chain of forwarded messages (threads). The background is white with standard black text and blue hyperlinks. Heavy redaction is applied throughout the document, utilizing thick, solid black rectangular bars to obscure names, addresses, and specific data points, likely for privacy protection or due to legal exemptions.
+
+At the top, a standard email header block is visible where fields labeled "From:", "To:", and "Cc:" are followed by blacked-out areas. The subject line reads "FW: Victim - JEFFREY EPSTEIN - Case". Below this, a timestamp indicates the message was sent on Wednesday, June 24, 2020, at 16:50:19 +0000. A thin horizontal line separates these headers from the email body.
+
+In the first body section, a sentence in blue text explains that potential witness information is being passed to the FBI per standard practice. This message concludes with "Thanks," followed by another redacted name block and a visible signature block identifying the sender as an Assistant United States Attorney from the Southern District of New York located at 1 St. Andrew's Plaza.
+
+Below this, a nested email chain is visible. The first nested header shows a sent time of 12:35 PM on June 24, 2020. Underneath, there is text reading "For you." followed by another header block labeled "From:", "Sent:", and "To:" (all partially or fully redacted).
+
+The final, original email in the chain appears at the bottom. The subject line repeats "Victim - JEFFREY EPSTEIN - Case". The body text begins with a statement claiming the sender is a victim and a witness who requests Audrey Strauss to allow them to speak. A field labeled "My Name" is immediately followed by a redaction bar. A large, long black bar obscures a significant portion of the email body below this.
+
+Further down, labels for social media contact methods are visible: "Whatsapp" followed by a small redacted block, and "Facebook" followed by a longer redacted block. The final sentence states, "I am a Healthy Person. I want to visit the court to speak about Jeffrey Epstein case." In the bottom right corner, a document reference number "EFTA00017702" is printed in small grey text.
+
+## Visible Text (verbatim)
+**Header Block 1:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: FW: Victim - JEFFREY EPSTEIN - Case
+*   Date: Wed, 24 Jun 2020 16:50:19 +0000
+
+**Body Text:**
+*   Per our practice of passing along potential witness information to the FBI, please see the below email.
+*   Thanks, [Redacted]
+*   Assistant United States Attorney
+*   Southern District of New York
+*   1 St. Andrew’s Plaza
+*   New York, NY 10007
+
+**Header Block 2:**
+*   From: [Redacted]
+*   Sent: Wednesday, June 24, 2020 12:35 PM
+*   Subject: FW: Victim - JEFFREY EPSTEIN - Case
+*   For you.
+
+**Header Block 3 (Original Message):**
+*   From: [Redacted]
+*   Sent: Wednesday, June 24, 2020 12:32 PM
+*   To: [Redacted]
+*   Subject: Victim - JEFFREY EPSTEIN - Case
+
+**Body Text (Original Message):**
+*   I have written regarding Jeffrey Epstein Case. I am a victim. I am a witness. I request Audrey Strauss to allow me speak.
+*   My Name [Redacted]
+*   [Large Redacted Bar]
+*   Whatsapp [Redacted]
+*   Facebook [Redacted]
+*   I am a Healthy Person. I want to visit the court to speak about Jeffrey Epstein case.
+*   EFTA00017702
+
+## Notable Details / Clues
+*   **Temporal Context:** All emails within the thread were sent on the same afternoon, specifically between 12:32 PM and 4:50 PM EST (indicated by +0000 offset), showing a rapid chain of communication.
+*   **Legal Authority:** The header explicitly identifies the recipient or sender associated with the Southern District of New York as an "Assistant United States Attorney," confirming the legal nature of the document.
+*   **FBI Involvement:** The text explicitly mentions a "practice of passing along potential witness information to the FBI," linking this specific victim communication to federal investigation protocols.
+*   **Identity Claims:** The sender explicitly identifies as both a "victim" and a "witness" regarding the Jeffrey Epstein case.
+*   **Audrey Strauss Reference:** The email specifically names Audrey Strauss, who serves as (or served at the time) the United States Attorney for the Southern District of New York, adding specific context to the legal chain of command.
+*   **Privacy Redactions:** Extensive blacking out of names and contact info suggests this document may be from a FOIA release or court filing where protected health information or private investigator identities are shielded.
+*   **Self-Description:** The phrase "I am a Healthy Person" is notable, possibly intended to qualify the witness's ability to testify in person or attend trial.
+*   **Contact Methods:** The inclusion of WhatsApp and Facebook labels suggests the sender was using informal digital communication channels rather than just email to contact legal counsel initially.
+*   **Document ID:** The alphanumeric string "EFTA00017702" in the corner indicates this is a scanned document from an official record system, likely related to federal filings.
+*   **Formatting Clues:** The use of blue text for links and the "For you." indicator confirm this is an email chain viewed within a standard webmail interface (likely Gmail).
+*   **Location Context:** The address provided (1 St. Andrew’s Plaza) identifies a known government complex in Manhattan, confirming the jurisdiction of the Southern District of New York.
+

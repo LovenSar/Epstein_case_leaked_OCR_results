@@ -1,0 +1,53 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003046.pdf ts=2026-03-06T00:36:28 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up view of a document titled "Emergency Contact Form" clipped or placed inside a binder, evidenced by the silver metal binder rings visible at the top edge. The document belongs to an entity identified as "LSJE, LLC," located in St. Thomas, VI (U.S. Virgin Islands), based on the address printed at the top right. The form is partially filled out with black ink, though significant portions of the text—specifically addresses and phone numbers—are obscured by large black rectangular redaction blocks added digitally or via post-it notes. The document lists employee information including a name, title (which appears to be "Irigation"), marital status listed as "Single," and a date of employment filled in as "06/08/18." A medical section indicates "None" for current medication and leaves blood type unspecified. The emergency contact is listed as "Villigjo Herrera," with the relationship defined as "Brother."
+
+## Visible Text (verbatim)
+**Header / Company Info:**
+*   LSJE, LLC
+*   6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: 340-775-8100 Fax: 340-775-8108
+*   Emergency Contact Form
+
+**Form Fields:**
+*   **Date:** 06/08/18
+*   **Employee Name:** Cristobal Hidalgo Herrera
+*   **Address:** [Black Box]
+*   **Phone:** [Black Box]
+*   **Title / Position:** Irigation
+*   **Cell:** [Blank]
+*   **Date of Birth:** [Black Box]
+*   **Marital Status:** Single
+*   **E-Mail:** [Blank]
+*   **Start Date:** [Blank]
+*   **License:** [Empty Box]
+
+**Medical Section:**
+*   **Allergies or Health Concerns:** Blood type unspecified
+*   **Current Medication:** None
+*   **Blood Type:** [Empty Box]
+
+**Emergency Contact Section:**
+*   **In case of an Emergency, Please contact :**
+*   **Name:** Villigjo Herrera
+*   **Relationship:** Brother
+*   **Phone:** [Black Box]
+
+**Footer/Disclaimer:**
+*   This Information is for your safety and the safety of others
+*   EFTA00003046
+
+## Notable Details / Clues
+*   **Date Context:** The form was dated June 8, 2018, placing the document in the past relative to current real-time.
+*   **Privacy Redaction:** Several critical data points (Address, Phone, Date of Birth, Emergency Contact Phone) have been heavily redacted with solid black rectangles, suggesting this image is being shared for identification purposes while protecting sensitive PII (Personally Identifiable Information).
+*   **Job Title Typo/Specifics:** The title listed is "Irigation," which appears to be a typo for "Irrigation" or possibly a specific role name within an irrigation company.
+*   **Geographic Location:** The zip code 00802 and the abbreviation "VI" confirm the location as St. Thomas in the U.S. Virgin Islands.
+*   **Contact Relationship:** The emergency contact, Villigjo Herrera, is identified specifically as a "Brother," implying a familial relationship within the name structure (Hidalgo vs. Herrera might suggest different family branches or shared surnames in common naming conventions, though strictly speaking, they are distinct last names).
+*   **Fax Number:** The fax number (340-775-8108) is identical to the telephone number provided for the company line.
+*   **Disclaimer:** A standard safety disclaimer runs along the bottom left margin ("This Information is for your safety and the safety of others").
+*   **Watermark Code:** A specific alphanumeric code "EFTA00003046" appears in the bottom right corner, likely a file identifier or document control number.
+*   **Medical Status:** The field for "Current Medication" is explicitly filled with the word "None."
+*   **Blood Type:** There is a checkbox next to "Blood Type:" which remains unchecked and empty.
+

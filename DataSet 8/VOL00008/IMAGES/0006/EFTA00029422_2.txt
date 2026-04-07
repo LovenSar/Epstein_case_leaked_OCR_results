@@ -1,0 +1,76 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00029422.pdf ts=2026-03-18T08:57:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot or scan of a digital email chain regarding a legal proceeding. The document consists of three distinct email headers and bodies stacked vertically, with significant portions of sender/recipient information redacted by black rectangular blocks.
+
+**Email Structure and Layout:**
+- The document is text-heavy on a white background, typical of standard email clients (like Outlook or Gmail web views).
+- At the very top, an email header is visible but mostly obscured. The subject line reads "RE: United States v. Ghislaine Maxwell -- [redacted] opens". The date is set to "Mon, 29 Nov 2021 01:56:25 +0000".
+- Below this, a second email header is visible with the subject "RE: United States v. Ghislaine Maxwell -- [redacted] opens". The sent date is "Sunday, November 28, 2021 4:14 PM".
+- A third, primary email follows, sent on "Sunday, November 28, 2021 9:59 AM". This section contains the bulk of the informational content.
+- The footer of the email identifies the sender's affiliation as the "Assistant United States Attorney" located in the "Southern District of New York" at "One Saint Andrew’s Plaza, New York, NY 10007".
+- A document control number, "EFTA00029422", is printed in the bottom right corner.
+
+**Content Analysis:**
+- The emails discuss a high-profile criminal trial involving Ghislaine Maxwell.
+- One email expresses moral support for the prosecution, stating, "This group certainly isn't scared" and noting that "there isn't a crime much worse than this one."
+- Another paragraph discusses the difficulty of prosecuting crimes from 1994 but emphasizes the specific venue as the Southern District of New York.
+- The text praises the bravery of the witnesses, specifically mentioning "brave women" who will take the stand.
+- Logistical details for attending the trial are provided, including addresses for the main courtroom ("40 Foley") and overflow courtsrooms.
+- The email outlines the expected schedule: starting at 8:30 a.m. with peremptory challenges, followed by preliminary instructions and opening statements.
+- There is a specific note about a conference room on the first floor (room 130) containing a monitor with a live feed "just for our office."
+
+## Visible Text (verbatim)
+
+**Email 1:**
+From: "[redacted]"
+To: "[redacted]"
+Subject: RE: United States v. Ghislaine Maxwell -- [redacted] opens
+Date: Mon, 29 Nov 2021 01:56:25 +0000
+
+Thanks, [redacted] and thanks for all the help over the last month!
+
+**Email 2:**
+From: [redacted]
+Sent: Sunday, November 28, 2021 4:14 PM
+To: [redacted]
+Subject: RE: United States v. Ghislaine Maxwell -- [redacted] opens
+This group certainly isn't scared. I know this has been a slog, but it's all really summed up below – there isn't a crime much worse than this one, and it's hard to think of something more worthy of prosecution. Good luck tomorrow!!
+
+**Email 3:**
+From: [redacted]
+Sent: Sunday, November 28, 2021 9:59 AM
+To: [redacted]
+Cc: [redacted]
+Subject: United States v. Ghislaine Maxwell -- [redacted] opens
+There are prosecutors who would be afraid to charge a case that would require them to prove sex crimes that took place in 1994. If you want to find them, you’ll have to go to Florida. This is the Southern District of New York.
+
+It is never too late for justice. Sometimes, you just have to have faith in the power of the truth and hope twelve jurors will do the right thing. At this trial, brave women will take the witness stand and the truth will come out: Ghislaine Maxwell sexually exploited underage girls. She caused unspeakable harm to vulnerable kids. It is time to hold her accountable.
+
+[redacted] will open in the morning. Please come support. Details below. Updates to follow.
+Main courtroom: 40 Foley, courtroom 318
+Overflow courtsrooms: 110, 506, 905, and 906. There is also a conference room on the first floor (room 130) that has a very small monitor with a live feed just for our office.
+Timing: we’ll start at 8:30 a.m. with peremptory challenges, and we expect to go straight to preliminary instructions and opening statements. In order to get a seat, we’d recommend that you go over early.
+
+[redacted]
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+
+## Notable Details / Clues
+
+*   **Case Identification:** The case is explicitly identified as *United States v. Ghislaine Maxwell*, a well-known high-profile trial regarding sex trafficking and exploitation cases.
+*   **Location Specifics:** The emails confirm the proceedings are taking place in the Southern District of New York, specifically citing "40 Foley" (Foley Square), which houses the federal courthouses for Manhattan.
+*   **Dates of Interest:** The correspondence dates to late November 2021, suggesting this trial was scheduled during that specific week or shortly thereafter.
+*   **Legal Procedure:** The email uses specific legal terminology including "peremptory challenges," "preliminary instructions," and "opening statements," indicating the trial has not yet started or is in its very early stages (jury selection/voir dire phase).
+*   **Jurisdiction Comparison:** The text makes a distinction between New York prosecutors and those in Florida regarding the statute of limitations or willingness to charge for crimes dating back to 1994.
+*   **Internal vs. Public View:** A specific mention is made of a conference room with a monitor showing a live feed "just for our office," implying there are media restrictions or that this view is not intended for public broadcast in real-time within that specific room.
+*   **Document Watermark:** The code "EFTA00029422" in the bottom right corner likely indicates a tracking number from an organization like the Electronic Frontier Foundation (EFF) or ACLU, which often use these codes for public interest litigation documents.
+*   **Redaction Pattern:** The redactions are consistent with privacy masking, hiding names but leaving organizational titles and addresses visible.
+*   **Tone of Correspondence:** The tone is rallying and supportive of the victims ("brave women," "unspeakable harm"), contrasting with the bureaucratic nature of the logistical details.
+*   **Courtroom Layout:** The email lists specific overflow room numbers (110, 506, 905, 906), suggesting the trial was large enough to anticipate crowds or media presence requiring alternate viewing spaces.
+

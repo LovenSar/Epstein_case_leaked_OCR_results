@@ -1,0 +1,118 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00026808.pdf ts=2026-03-17T08:48:01 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a document containing an email thread, likely from an e-discovery platform given references to "Relativity." The document is oriented vertically and features three distinct sections of email correspondence with sensitive information redacted using black bars.
+
+1.  **Top Section:** At the very top, headers for an email are visible but partially cut off. The fields "From," "To," and "Cc" are obscured by a large black rectangle. Below this is a subject line reading "Subject: RE: Relativity-- saved searches." A date stamp reads "Date: Wed, 14 Oct 2020 15:06:30 +0000." An inline image reference appears as "Inline-Images: image001.jpg".
+2.  **Body of Top Email:** Immediately below the header line, the text "Thanks!" appears in blue hyperlink-style formatting. A horizontal rule separates this from the next block.
+3.  **Middle Header Block:** This section mirrors the top header but is fully visible regarding timestamps and subjects (though names remain redacted). It lists "Sent: Wednesday, October 14, 2020 9:34 AM" and repeats the subject line "Subject: RE: Relativity-- saved searches."
+4.  **Instructional Text:** Below this header, blue text states: "The below searches have been created and available for review:" followed by a screenshot of a software interface.
+5.  **Embedded Screenshot:** The image shows a sidebar menu titled "Search Requests." Underneath is a nested list containing magnifying glass icons next to items labeled "Search 01," "Search 02," "Search 03," "Search 04," and "Search 05."
+6.  **Closing of Middle Email:** Text below the screenshot reads: "Please let me know if there are any questions. Thank you." A black box obscures a signature block or initial closing line.
+7.  **Bottom Header Block:** Further down, another email header begins. The subject line here is just "Subject: Relativity-- saved searches" (no "RE:" prefix). It lists "Sent: Friday, October 9, 2020 6:47 PM."
+8.  **Request Email Body:** The body text begins with a partially redacted greeting "Hi [Black Box]." The main text reads: "Hope you're doing well. For the relativity database “U.S. v. Epstein (SW Returns),” could you please create the following as five separate saved searches:"
+9.  **List of Requests:** Three bullet points are visible defining specific search criteria.
+    *   Search 1 asks for emails hitting a redacted email address.
+    *   Search 2 asks for emails hitting another redacted email address.
+    *   Search 3 asks for emails hitting redacted addresses joined by the word "or."
+10. **Document ID:** In the bottom right corner, an alphanumeric code is visible: "EFTA00026808".
+
+## Visible Text (verbatim)
+
+**Top Header Block:**
+*   From [Redacted]
+*   To [Redacted]
+*   Cc [Redacted]
+*   Subject: RE: Relativity-- saved searches
+*   Date: Wed, 14 Oct 2020 15:06:30 +0000
+*   Inline-Images: image001.jpg
+
+**Body Text:**
+*   Thanks!
+
+**Middle Header Block:**
+*   From [Redacted]
+*   Sent: Wednesday, October 14, 2020 9:34 AM
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: RE: Relativity-- saved searches
+
+**Middle Body Text:**
+*   The below searches have been created and available for review:
+*   Search Requests (Interface Header)
+*   Search 01
+*   Search 02
+*   Search 03
+*   Search 04
+*   Search 05
+*   Please let me know if there are any questions.
+*   Thank you.
+
+**Bottom Header Block:**
+*   From [Redacted]
+*   Sent: Friday, October 9, 2020 6:47 PM
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: Relativity-- saved searches
+
+**Bottom Body Text:**
+*   Hi [Redacted]
+*   Hope you’re doing well. For the relativity database “U.S. v. Epstein (SW Returns),” could you please create the following as five separate saved searches:
+*   Search 1: Any email (including attachments) that hits on the email address: [Redacted]
+*   Search 2: Any email (including attachments) that hits on the email address: [Redacted]
+*   Search 3: Any email (including attachments) that hits on the email addresses [Redacted] or [Redacted]
+
+**Footer:**
+*   EFTA00026808
+
+## Notable Details / Clues
+
+*   **Software Context:** The text explicitly mentions "Relativity database" and shows a UI element labeled "Search Requests," indicating this is an e-discovery case management workflow.
+*   **Case Reference:** The email request references the specific database/case name: “U.S. v. Epstein (SW Returns),” suggesting legal proceedings involving Jeffrey Epstein.
+*   **Workflow Confirmation:** The middle email confirms that a task requested in the bottom email has been completed ("The below searches have been created").
+*   **Redaction Pattern:** Consistent thick black bars are used to obscure names and email addresses, indicating this document is likely for public release or sensitive handling where PII must be hidden.
+*   **Timestamp Discrepancy:** The request (bottom) was sent Friday, October 9. The response showing the work done (middle) says "Sent: Wednesday, October 14". However, the top header (which seems to be a reply from a different system or thread structure) has a UTC date of Oct 14 but local time might differ, or it is simply a later follow-up. Wait, looking closely at the middle email, "Wednesday, October 14" aligns with the top header's date of "Wed, 14 Oct". The bottom email is from Friday, October 9. This implies the work was requested on the 9th and finished/reported on the 14th.
+*   **Incomplete Request List:** Although the text asks for "five separate saved searches," only three bullet points are fully visible (Search 1, 2, 3). The list is cut off at the bottom of the image.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+- Search 4: Any email (including attachments) that hits on the email addresses: [REDACTED] or [REDACTED]
+- Search 5: Any document or family of documents containing either the word “Maxwell” or the word “Ghislaine”
+
+Thanks very much,
+
+[REDACTED]
+
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+EFTA00026809
+
+## Structured Fields
+- **Organization:** Assistant United States Attorney, Southern District of New York
+- **Location:** One Saint Andrew's Plaza, New York, NY 10007
+- **Search Terms/Names:** Maxwell, Ghislaine
+- **Document ID:** EFTA00026809
+</think>
+
+- Search 4: Any email (including attachments) that hits on the email addresses: [REDACTED] or [REDACTED]
+- Search 5: Any document or family of documents containing either the word “Maxwell” or the word “Ghislaine”
+
+Thanks very much,
+
+[REDACTED]
+
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+EFTA00026809
+

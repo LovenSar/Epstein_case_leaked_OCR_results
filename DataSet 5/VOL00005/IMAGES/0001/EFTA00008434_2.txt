@@ -1,0 +1,51 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008434.pdf ts=2026-03-09T06:53:09 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The central subject is a rectangular hard drive, likely a 2.5-inch laptop HDD, enclosed in a silver anti-static bag and sealed within a larger clear plastic evidence envelope.
+- The item rests inside an open, light brown cardboard file box, which appears to be a standard storage container for media or documents.
+- At the top of the plastic envelope, there is a distinct red and orange evidence seal; faint handwritten black marker text is visible on the plastic film near the seal, partially reading "PC".
+- A bright yellow rectangular label is adhered to the front of the anti-static bag, containing multiple lines of forensic metadata and serial numbers.
+- Beneath the sealed plastic envelope, a plain white sheet of paper or folder edge is visible at the bottom of the box interior.
+- The background surface is a polished terrazzo-style countertop featuring a mottled pattern of grey, blue, and white chips.
+- A watermark or case identification number "EFTA00008434" appears in the bottom right corner of the image frame.
+- The cardboard box lid features a printed logo for "SMEAD," along with model numbers "No. 1065EL" and an inverted URL "smead.com".
+- The hard drive itself is silver metal; while specific branding on the casing is obscured by reflections, the label confirms it is a Hitachi unit.
+- The plastic bag shows slight creasing and wrinkles, particularly around the right side where light reflects off the crinkled surface.
+
+## Visible Text (verbatim)
+**SMEAD Box Lid (Upright):**
+- "No. 1065EL"
+- "UPC 71997"
+- "/// /// SMEAD"
+- "smead.com • Assembled in Mexico"
+
+**Red Seal/Top Bag Area:**
+- "EVIDENCE" (Faint, repeated across the red seal)
+- Handwritten: "PC Bio..." or similar partial text.
+
+**Yellow Label on Anti-Static Bag:**
+- Top Right Box: "1B23 [PC Icon]"
+- Line 1: "90A-NY-3151227 Request ID 112048"
+- Line 2: "08/12/2019 NYC027702 PC Derivative Copy"
+- Line 3: "One (1) Hitachi 1TB HDD, HUA722010CLA330,"
+- Line 4: "S/N JPW9K0N039EZLL containing the"
+- Line 5: "Clone Copy of 1B2 hard drive (Hitachi 500GB HDD,"
+- Line 6: "HDS721050CLA662, S/N JP1572JE36A13K),"
+- Line 7: "collected via Tableau TX-1, S/N 000ECC5801109B"
+
+**Image Watermark:**
+- "EFTA00008434"
+
+## Notable Details / Clues
+- **Forensic Chain of Custody:** The combination of an evidence envelope, red security seal, and detailed yellow label indicates this is a piece of digital evidence being prepared for storage or transport.
+- **"Derivative Copy":** The label specifies this is a "PC Derivative Copy," meaning it is a forensic image created to preserve the original data's integrity without modifying the source device.
+- **Specific Hardware:** The drive is identified as a Hitachi 1TB model (HUA722010CLA330) with Serial Number JPW9K0N039EZLL.
+- **Date of Acquisition:** The label dates the collection to August 12, 2019.
+- **Geographic Location:** The codes "NYC" and "90A-NY..." suggest New York City jurisdiction or a related agency (likely New York Attorney General or similar state office given the "EFTA" code).
+- **Tableau TX-1:** The text mentions collection via a device labeled "Tableau TX-1, S/N 000ECC5801109B," which is likely a forensic imaging tool.
+- **Clone Copy Mention:** The label also references a "Clone Copy" of a different drive (Hitachi 500GB HDD, S/N JP1572JE36A13K), suggesting a complex data recovery or analysis scenario involving multiple drives.
+- **Model Identification:** The box model number "1065EL" identifies the container as an SMEAD File Box, commonly used in legal and government offices for organizing documents and media.
+- **Lighting:** The lighting creates specular highlights on the clear plastic packaging, obscuring some of the drive's physical features but allowing legibility of the labels through the semi-transparent film.
+

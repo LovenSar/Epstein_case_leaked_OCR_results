@@ -1,0 +1,44 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002541.pdf ts=2026-03-05T20:59:07 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a full-frontal, eye-level shot of a rack-mountable server chassis resting flat on a gray surface. The device is an older model HP ProLiant server (specifically identified as a DL380 G5). The chassis is oriented horizontally, with the front I/O panel facing the viewer and the silver metal top cover resting above it. A black power cable trails off to the left side of the frame.
+
+The front bezel is divided into distinct sections from left to right:
+-   **Left Section:** On the far left, there is a security lock slot (Kensington). Adjacent to this are two vertical columns of hot-plug drive bays. Each column contains two black drive trays stacked vertically. Each tray features a red plastic release latch on its right side and a small purple label (likely a storage capacity sticker) on the left side.
+-   **Middle Section:** To the right of the four hard drive bays is a horizontal ventilation grille consisting of several parallel metal slats.
+-   **Right Section:** Further to the right, there are two additional smaller bay slots that appear occupied or partially visible next to the optical drive area (though standard DL380 layouts usually have 4 bays + optical). Wait, looking closer at the specific arrangement: It appears there are four drive bays on the left side (two rows of two) and then the optical drive is located towards the right. Wait, let's recount carefully.
+    -   Far Left Column: Top tray with red latch, Bottom tray with red latch.
+    -   Middle-Left Column: Top tray with red latch, Bottom tray with red latch.
+    -   Middle-Right Area: A horizontal vent is visible.
+    -   Far Right Area: An optical drive (DVD) is clearly visible on the right side of the front panel, next to the VGA port and power button. Wait, there are actually *five* bays? No, looking at the spacing...
+    -   Let's look at the purple labels again.
+        1. Top left column.
+        2. Bottom left column.
+        3. Top middle column.
+        4. Bottom middle column.
+        5. Far right (next to optical drive?) No, that looks like a small bay next to the DVD drive?
+    -   Actually, looking at the spacing, it looks like 4 standard hot-swap bays on the left, and then the optical drive on the right. The "vents" are between the drives and the optical drive? No, the vents are above the optical drive area?
+    -   Correction: Standard HP DL380 G5 layout has 4 drive bays on the left and an optical drive bay on the right. In this image, we see a column of 2 drives, another column of 2 drives (total 4), then a vented section, then the optical drive. Wait, there is a small tray to the left of the optical drive? No, that's just the gap/vents.
+    -   Let's look at the "vents". The horizontal slats are clearly visible. To the right of the slats is the DVD writer.
+-   **I/O Panel:** On the far right edge, beneath the optical drive, there is a blue VGA port, a circular power button, a small reset button, and USB ports.
+
+The surface the server is resting on appears to be a large metal sheet or floor with significant signs of wear, including a large, circular rust stain directly beneath the center-right of the server and smaller brownish stains scattered around. The top cover of the server shows dust smudges and faint yellow warning labels.
+
+## Visible Text (verbatim)
+-   **Front Left Corner:** "hp" (Logo).
+-   **Top Left Sticker:** Partially visible text includes "HP ProLiant...". Other text is illegible due to blur/dust.
+-   **Drive Labels:** Purple stickers with white text, legible parts show "146 GB" or similar capacity numbers (e.g., "166 GB").
+-   **Optical Drive Faceplate:** "DVD", "RW", "Pioneer" logo.
+-   **Front Right Edge:** "HP ProLiant DL380 G5".
+
+## Notable Details / Clues
+-   **Age and Condition:** The device is clearly vintage hardware (late 2000s era based on the model number), evidenced by the dusty top cover, smudged fingerprints on the metal chassis, and the aging plastic red latches.
+-   **Environment:** The setting appears to be a storage facility or warehouse basement (concrete floor implied, cardboard boxes in the dark background).
+-   **Model Identification:** The text "HP ProLiant DL380 G5" on the far right edge confirms the specific model series.
+-   **Drive Configuration:** The purple labels indicate hard drives are installed. Given the era of the hardware (G5), these are likely 2.5-inch SAS or SATA drives, likely enterprise-grade SSDs or HDDs given the "146 GB" label (common size for older 2.5-inch enterprise drives).
+-   **Orientation:** The server is not mounted in a rack; it is lying flat on its bottom frame (indicated by the hinge mechanisms visible on the far left and right sides).
+-   **Connectivity:** The presence of a VGA port indicates this is an older unit before HDMI became standard for servers.
+-   **Security:** A Kensington slot is visible on the far left side, intended for a security cable lock.
+

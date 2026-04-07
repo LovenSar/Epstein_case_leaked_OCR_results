@@ -1,0 +1,158 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020501.pdf ts=2026-03-14T14:23:29 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Intake (Rev. 5-23-17)                                      UNCLASSIFIED                                                      OFFICIAL RECORD
+
+**FEDERAL BUREAU OF INVESTIGATION**
+
+Intake
+
+                                                                                                    Date:   08/25/2020
+
+Case ID #:   50D-NY-3027571                                  (U) EPSTEIN, JEFFREY; CHILD SEX TRAFFICKING
+
+Drafted By:   [REDACTED]
+
+Date/Time Received:   08/24/2020 12:06 PM EDT
+
+Details:
+On 08/24/2020, at 12:06:59 PM Eastern Time, [REDACTED] Last Name Unknown (LNU), date of birth [REDACTED], Other telephone number [REDACTED], FL 34287, Internet Protocol (IP) address [REDACTED], which resolves to North Port, Florida 34287, submitted an online tip to the FBI National Threat Operations Center (NTOC) via tips.fbi.gov, regarding YouTube video https://www.youtube.com/watch?v=rD_3415Iatc&feature=share of a claimed employee of Jeffrey Epstein and a private testimony.
+
+Note: This is in regards to crisis intake by [REDACTED] [REDACTED] telephone number [REDACTED], address[REDACTED] United States which provides a description of the video however, this tip provides the actual link to the video.
+
+LNU provided the following information:
+
+Date Submitted:   08/24/2020 12:06:59 PM ET
+Transaction Number:   8A2FCF2A-A959-477E-900C-F21ECA93A3D5
+
+UNCLASSIFIED                                                                                           EFTA00020501
+
+## Structured Fields
+*   **Date:** 08/25/2020 (Header) / 08/24/2020 12:06 PM EDT (Received)
+*   **Case ID:** 50D-NY-3027571
+*   **Subject:** (U) EPSTEIN, JEFFREY; CHILD SEX TRAFFICKING
+*   **Location:** North Port, Florida 34287 / FL 34287
+*   **Organization:** FEDERAL BUREAU OF INVESTIGATION / FBI National Threat Operations Center (NTOC)
+*   **Document ID/Footer Code:** EFTA00020501
+*   **Transaction Number:** 8A2FCF2A-A959-477E-900C-F21ECA93A3D5
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+UNCLASSIFIED
+
+Re: 50D-NY-3027571, 08/25/2020
+
+Threat To Life:
+
+Submitted Text:
+
+This was on YouTube at
+https://www.youtube.com/watch?v=rD_34l5Iatc&feature=share And the person
+talking is supposedly an employee of Jeff ebstein.
+
+Violation: Human Trafficking
+
+Violation Questions
+
+Please provide details about the specific location where the victim is
+being held.: no specific location
+
+How do you know the victim?:
+https://www.youtube.com/watch?v=rD_34l5Iatc&feature=share
+
+Who has control of the victim’s identification and travel documents?:
+Unsure
+
+Complainant Information
+
+First Name: [REDACTED]
+Middle Name:
+Last Name:
+Age:
+DOB: [REDACTED]
+
+UNCLASSIFIED
+
+2
+
+EFTA00020502
+
+## Structured Fields
+
+*   **Case ID:** 50D-NY-3027571
+*   **Date:** 08/25/2020
+*   **Name Mentioned:** Jeff Epstein
+*   **Violation Type:** Human Trafficking
+*   **Document ID (Footer):** EFTA00020502
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+UNCLASSIFIED
+
+Re: 50D-NY-3027571, 08/25/2020
+
+Additional Info:
+Type: Other
+Phone: [REDACTED]
+Extension:
+Type: Other
+Address:
+City:
+State: Florida
+Zip: 34287
+Country: United States
+
+Agency Name: FBI TIPS
+Date of Report: 08/24/2020 12:00:00 AM
+Report Number:
+Phone: [REDACTED]
+Address:
+City:
+Zip:
+
+Remote IP: [REDACTED]
+Remote Host: api.fbi.gov
+
+UNCLASSIFIED
+3
+
+## Structured Fields
+*   **Date:** 08/25/2020, 08/24/2020 12:00:00 AM
+*   **Case ID:** 50D-NY-3027571
+*   **Location:** Florida, Zip 34287, United States
+*   **Organization:** FBI TIPS, api.fbi.gov
+*   **Doc ID:** EFTA00020503
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+UNCLASSIFIED
+
+Re: 50D-NY-3027571, 08/25/2020
+
+Http Referrer: https://www.fbi.gov/wanted/operation-legend
+
+User Browser: Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1
+
+Latitude: [REDACTED]
+Longitude: [REDACTED]
+Country: US
+Region: Florida
+City: North Port
+Postal Code: 34287
+Timezone: -04:00
+
+◆◆
+
+UNCLASSIFIED
+4
+
+EFTA00020504
+
+## Structured Fields
+- **Case ID:** 50D-NY-3027571
+- **Date:** 08/25/2020
+- **Location:** North Port, Florida, US (Postal Code: 34287)
+- **Organization:** FBI (inferred from URL)
+- **Document Control Number:** EFTA00020504
+

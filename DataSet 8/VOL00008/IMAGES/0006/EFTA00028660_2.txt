@@ -1,0 +1,45 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028660.pdf ts=2026-03-18T00:45:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email client interface, likely within a legal discovery or litigation platform given the formatting and reference number. The top section is dominated by redacted fields; the "From" field has a single black bar, while the "To" field contains approximately 10 to 12 distinct black bars obscuring multiple email addresses or names. The "Cc" field also has a single long black bar underneath it. Below these redactions is the email metadata: the subject line reads "SDNY Press Clips, July 28, 2020," and the date stamp indicates Tuesday, July 28, 2020, at 9:16 PM UTC. A thin horizontal black line separates the header from the body text. The body begins with a broken image icon followed by the bolded header "AG TESTIMONY." Underneath this header are two blue, underlined hyperlinks to ABC News and MSN regarding William Barr's testimony. The next section is titled in bold "MICHAEL COHEN" with a single MSN hyperlink below it. Following that is the bolded name "GHISLAINE MAXWELL," followed by links to Newsweek and The Daily Beast discussing Jeffrey Epstein-related news. The final visible section is titled "MATTERS OF INTEREST" in bold, listing three hyperlinks to Politico, The New York Times (NYT), and The Wall Street Journal (WSJ). A small alphanumeric string "EFTA00028660" appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**From:** [Redacted]
+**To:** [Redacted - multiple lines]
+**Cc:** [Redacted]
+**Subject:** SDNY Press Clips, July 28, 2020
+**Date:** Tue, 28 Jul 2020 21:16:59 +0000
+
+**AG TESTIMONY**
+ABC (live updating): https://abcnews.go.com/Politics/barr-testimony-live-updates-ag-faces-questions-2020/story?id=72029139
+MSN: https://www.msn.com/en-gb/news/politics/why-everyone-is-terrible-at-questioning-william-barr/ar-BB17i3CG
+
+**MICHAEL COHEN**
+MSN: https://www.msn.com/en-us/news/politics/swalwell-barr-has-taken-michael-cohens-job-as-trumps-fixer/ar-BB17hU5Y
+
+**GHISLAINE MAXWELL**
+Newsweek: https://www.newsweek.com/ghislaine-maxwell-seeks-privacy-over-nude-images-jeffrey-epstein-case-1521010
+Daily Beast: https://www.thedailybeast.com/pretty-close-to-a-hundred-new-epstein-accusers?ref=home?ref=home
+
+**MATTERS OF INTEREST**
+https://www.politico.com/states/new-jersey/story/2020/07/24/christie-giuliani-inspire-codey-bill-to-bar-prosecutors-from-running-for-office-for-3-years-1303399
+NYT: https://www.nytimes.com/2020/07/28/opinion/homeland-security-portland-trump.html
+WSJ: https://www.wsj.com/articles/a-young-ceo-an-ex-assistant-and-a-grisly-murder-11595685601
+
+**EFTA00028660** (Bottom Right Corner)
+
+## Notable Details / Clues
+*   **Legal Context:** The subject line "SDNY Press Clips" strongly suggests this is from the United States District Court for the Southern District of New York, likely an internal legal team email digesting public news relevant to a case.
+*   **Redaction Strategy:** The heavy use of black bars on the header indicates a privacy screen or privilege filter has been applied before publication or sharing of the document, hiding identities while preserving content.
+*   **Timeline Clues:** The date (July 28, 2020) places this during the final months of the Trump administration, capturing news relevant to the transition and ongoing investigations like Epstein and Michael Cohen.
+*   **Political Geography:** One link specifically references New Jersey politics ("christie-giuliani-inspire-codey-bill"), indicating the legal interest extends beyond federal courts to state-level election integrity issues.
+*   **Media Sources:** The links rely heavily on major cable news aggregators (ABC, MSN) and opinion-focused outlets (Politico, NYT), suggesting a strategy of monitoring mainstream political commentary.
+*   **Specific Terminology:** The term "SDNY" is specific legal shorthand for the Southern District of New York, which handles high-profile federal cases including organized crime and corruption in Trump's circle.
+*   **Link Stability:** The URLs are full-length hyperlinks, suggesting this email was captured directly from a web client or exported with formatting intact rather than being a plain text dump.
+*   **Broken Image Icon:** A small icon indicating a missing image appears next to "AG TESTIMONY," implying an attachment or header image failed to load when the document was rendered.
+*   **Content Themes:** The emails cover three distinct pillars of 2020 scandals: The AG (Attorney General) Barr testimony, the Michael Cohen tax/fixer scandal, and the Ghislaine Maxwell/Epstein sex trafficking allegations.
+*   **Date Stamp Format:** The time stamp "+0000" indicates UTC/GMT time, which is standard for legal discovery servers to ensure a universal timestamp.
+*   **Document ID:** The string "EFTA00028660" in the footer is likely an EFTAG (Electronic File Transfer Agreement) number or a document management system ID, further confirming this is part of a digital evidence chain.
+

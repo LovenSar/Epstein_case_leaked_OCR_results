@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002724.pdf ts=2026-03-05T22:27:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Electrical Panel Array:** The left portion of the image is dominated by a tall, grey metallic electrical panel board featuring a vertical stack of circuit breakers. The breakers are arranged in rows, each equipped with a white front faceplate and a black operating handle currently in the downward (off) position.
+*   **Circuit Breaker Status:** Several breakers feature a vertical red indicator strip on their right side, which appears illuminated or marked in red, indicating a tripped or active state for that specific circuit compartment.
+*   **Labeling and Identification:** Small white rectangular tags are attached to the left of each breaker faceplate. Two of these tags clearly display the word "SPARE" in black capital letters, indicating unused circuits for future expansion or replacement. Another tag near the bottom appears to label a motor control circuit.
+*   **Data Sheet/Documentation:** In the bottom left corner, a large sheet of white paper is adhered to the panel face. It contains a dense grid of text and numbers, likely a circuit directory or load list, though the specific alphanumeric characters are illegible at this resolution.
+*   **Safety Warning Sticker:** Near the top seam of the panel door, there is a red and white safety warning sticker featuring an icon of a person running (standard ANSI/ISO symbol for danger or fire safety), accompanied by text that is too small to read fully.
+*   **Shelving Unit:** To the right of the electrical panel stands a heavy-duty, galvanized steel wire shelving unit with a grey finish. The shelves feature a grid-style wire construction allowing air circulation and visibility beneath items.
+*   **Upper Shelves:** The top two shelves are largely empty. On the second shelf from the top, there is a long, rolled-up tube of brown paper or cardboard lying horizontally, along with scattered pieces of crumpled paper or debris near the right edge.
+*   **Lower Bins:** The third shelf down holds two large, black rectangular plastic utility bins or crates. The bin on the right has a latching lid mechanism visible on top.
+*   **Flooring:** The floor is a dark grey surface, possibly painted concrete, which reflects a slight sheen under the artificial lighting. A small piece of white trash is visible near the bottom edge in the foreground.
+*   **Wall Conduit:** On the far right wall, a vertical conduit pipe runs from top to bottom, likely housing electrical wiring for the room's fixtures. The wall surface appears to be concrete or masonry with a slightly textured, light grey finish.
+*   **Lighting Conditions:** The scene is lit by overhead artificial lighting that casts soft shadows within the recessed area behind the shelving unit, suggesting a lack of natural sunlight and creating a somewhat cool color temperature environment typical of utility closets.
+
+## Visible Text (verbatim)
+*   EFTA00002724 (Bottom Right Corner Overlay)
+*   SPARE (Visible on white breaker tags)
+*   DANGER / Warning symbol present (top sticker, text illegible)
+*   "MOTOR CONTROL CENTER" or similar partial text visible on lower breaker labels (illegible)
+
+## Notable Details / Clues
+*   **Maintenance Status:** The presence of "SPARE" breakers suggests this is an active maintenance panel where capacity is reserved for future circuits.
+*   **Storage Usage:** The shelving unit appears underutilized, with only a few small items stored, suggesting the rack might be temporary storage or waiting for specific parts/equipment to be installed in those black bins.
+*   **Industrial Environment:** The combination of an MCC (Motor Control Center) panel and wire shelving indicates this is likely a basement utility room, server closet, or mechanical room for a commercial building.
+*   **Clutter/Dirt:** Scattered debris on the middle shelf suggests that the storage area may not be frequently cleaned or that the items there were stored quickly without cleaning.
+*   **Electrical Safety:** The visible "off" positions on the breakers combined with the safety stickers imply adherence to basic electrical safety protocols in a non-production state.
+

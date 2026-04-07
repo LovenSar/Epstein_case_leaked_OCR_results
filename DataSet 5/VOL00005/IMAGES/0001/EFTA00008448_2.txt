@@ -1,0 +1,36 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008448.pdf ts=2026-03-09T07:01:33 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of a digital evidence package resting on a speckled granite or laminate countertop featuring brown, black, and white flecks. The central object is an open brown kraft paper box, identified as a Smead brand container by the inverted logo stamped on the top flap. Inside the box, nestled on a white sheet of paper at the bottom, is a pink anti-static bag sealing a computer hard drive. A strip of red security tape with serrated edges runs horizontally across the top of the bag, bearing repeated printed text. A large yellow adhesive label is affixed to the center of the bag, providing detailed inventory information. A thin black cable (likely SATA or power) extends from the right side of the evidence bag onto the countertop.
+
+## Visible Text (verbatim)
+**On the Red Tape:**
+- "EVIDENCE" (repeated)
+- Handwritten: "PC 8/10/19"
+
+**On the Yellow Label (Top to Bottom):**
+- "90A-NY-3151227 Request ID 112048"
+- "1B30" (printed in a box)
+- "08/12/2019 NYC02772B PC Derivative Copy"
+- "One (1) Seagate Barracuda 1000GB HDD."
+- "ST1000DM003, S/N W1D498N0, containing the Clone Copy of 1B10 hard drive (Seagate Barracuda 500GB HDD. ST3500320NS), S/N 9QM8MSEZ1, collected via Tableau TO3-B, S/N 11D350F6-1525."
+- A logo resembling a circle containing the letters "PC" is stamped at the bottom right.
+
+**On the Box Flap (Inverted):**
+- "SMEAD"
+- Logo with stars/biohazard symbol (inverted)
+
+## Notable Details / Clues
+- **Chain of Custody:** The package is a standard forensic evidence container (Smead box), indicating strict legal handling procedures are being followed.
+- **Derivative Copy:** The yellow label explicitly states "PC Derivative Copy," meaning this drive contains an image/cloned version of data, preserving the original data integrity.
+- **Specific Hardware:** The drive is a Seagate Barracuda, specifically a 1000GB (1TB) model (ST1000DM003). The label notes it is a clone copy of a different drive (the 500GB ST3500320NS), likely an internal drive from a server or PC labeled "1B10".
+- **Timestamps:** There are two distinct dates. The request/processing date appears to be 08/12/2019 (August 12, 2019). A handwritten note on the red tape indicates "PC 8/10/19," suggesting the computer was seized or accessed on August 10, 2019.
+- **Inventory Tracking:** The case ID "NYC02772B" suggests a New York City based police department investigation (NYPD).
+- **Serial Numbers:** Multiple serial numbers are listed, distinguishing the source drive (S/N 9QM8MSEZ1) from the destination copy drive (S/N W1D498N0).
+- **Case Number:** The top left of the yellow label contains "90A-NY-3151227," which serves as the primary case number reference.
+- **Background Context:** The speckled countertop suggests a laboratory, interrogation room, or evidence processing station rather than an office desk.
+- **Cable:** A black cable is visible trailing out from the right side of the bag, likely still attached to the drive or resting against it, though mostly obscured by the plastic.
+- **Image ID:** The bottom right corner contains a cataloging identifier "EFTA00008448".
+

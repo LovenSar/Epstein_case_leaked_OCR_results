@@ -1,0 +1,99 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731612.pdf ts=2026-03-06T17:22:06 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email conversation thread that has been heavily redacted for privacy or security purposes. The document is oriented in portrait mode with a white background and black text. At the top left, standard email metadata fields are visible but mostly obscured by a solid black rectangular block covering the "From," "To," and "Cc" lines. The "Subject" line reads "RE: Spinoff interview from Maxwell" and the "Date" is listed as "Tuesday, August 17, 2021 5:17:53 PM." Below this header, a horizontal grey line separates the metadata from the message body.
+
+The email thread consists of four distinct messages stacked vertically. Each message generally features a redacted header block (obscuring sender names and addresses) followed by visible text content.
+*   The first visible message is a short response agreeing to a schedule ("Sure- tomorrow before 11 or after 2 works for me").
+*   The second email references speaking with an attorney regarding a potential interview.
+*   The third email is a brief acknowledgment ("Got it, thanks very much.").
+*   The fourth and longest email provides context about legal representation. It mentions an attorney representing a victim met in May. This attorney has now taken on a second victim who claims sexual assault by a person identified as "Black" at "Epstein’s Manhattan townhouse in 2001." Several names and locations are obscured by black bars within this text block.
+*   At the bottom right corner, a document ID code "EFTA02731612" is visible in small grey font. A large black bar obscures the signature block of the final email.
+
+## Visible Text (verbatim)
+**Header Section:**
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: Spinoff interview from Maxwell
+Date: Tuesday, August 17, 2021 5:17:53 PM
+
+**Email Body Section:**
+Sure- tomorrow before 11 or after 2 works for me.
+
+[REDACTED HEADER]
+Subject: RE: Spinoff interview from Maxwell
+I spoke with the attorney today. I think it would be worth a short conversation with you both. I would be open to interviewing her.
+
+[REDACTED HEADER]
+Subject: RE: Spinoff interview from Maxwell
+Got it, thanks very much.
+
+[REDACTED HEADER]
+Subject: RE: Spinoff interview from Maxwell
+
+I received an email last week from the attorney representing [REDACTED] (the victim I met with in May per the below). She is now representing a second victim who reported being sexually assaulted by Black in a similar manner at Epstein’s Manhattan townhouse in 2001. This victim now lives in [REDACTED]. I am planning to speak to the attorney tomorrow to get better background before discussing with you, but I wanted to let you know that she reached out.
+
+Thanks,
+[REDACTED]
+
+**Footer:**
+EFTA02731612
+
+## Notable Details / Clues
+*   **Subject Line Consistency:** Every visible email thread subject line matches the format "RE: Spinoff interview from Maxwell," suggesting a single campaign of communications or a specific case file related to John Paul Maxwell.
+*   **Sensitive Keywords:** The text explicitly mentions high-profile sensitive terms including "Epstein," "Manhattan townhouse," and "Black" (referring to Jeffrey Epstein). It references a "second victim" involved in sexual assault allegations.
+*   **Temporal Context:** The emails are dated August 17, 2021, but reference events from May of that year ("the victim I met with in May").
+*   **Redaction Pattern:** The redactions are consistent solid black bars. Some cover entire header blocks (likely names/emails), while others cover specific words within the body text (likely names of victims or locations).
+*   **Actionable Items:** The sender mentions speaking to an attorney "tomorrow" relative to the date of the email, and discusses scheduling interviews ("before 11 or after 2").
+*   **Document ID:** The code at the bottom right "EFTA02731612" suggests this document may be from a legal discovery file, a newsroom archive, or an internal corporate investigation database.
+*   **Geographic Context:** The mention of "Epstein’s Manhattan townhouse" anchors the events geographically to New York City.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document containing an email chain or memo correspondence regarding a legal investigation. The document is formatted with white background and black text. The content consists of three distinct email blocks stacked vertically, heavily redacted for privacy.
+
+1.  **Top Section:** This block appears to be the tail end of an earlier email. It begins immediately below a large black rectangle. The subject line reads "RE: Spinoff interview from Maxwell." The body text is a brief acknowledgement: "Great, thank you for the update." Below this text is another large black rectangle obscuring the sender or recipient name and signature.
+2.  **Middle Section:** This email shares the same subject line, "RE: Spinoff interview from Maxwell." It addresses a recipient as "Hi [Redacted]." The body text explains a delay in scheduling due to coordination with an unnamed individual and a victim's attorney. It states that an interview is "tentatively scheduled for next Tuesday, 5/18" and that the sender will keep the recipient posted. It ends with "Thanks," followed by a redacted signature block.
+3.  **Bottom Section:** This appears to be the initial or primary email in the thread based on its full context. A large black bar obscures the header information (sender/recipient). The subject line is "Spinoff interview from Maxwell" (without the "RE:"). The salutation "Hi [Redacted]," follows. The body text formally requests an interview with a witness as a "spin-off from the Maxwell case." It states the purpose is to decide whether to "open an investigation." Two names are redacted—one who can fill in details and another who will sit in on the interview. The email ends with "Thanks very much!" and a block of redacted signatures/contact info. Below the signatures, the letterhead identifies the sender as "U.S. Attorney's Office" located in the "Southern District of New York." A document identification number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Subject Line 1:** Subject: RE: Spinoff interview from Maxwell
+**Body Text 1:** Great, thank you for the update.
+
+**Subject Line 2:** Subject: RE: Spinoff interview from Maxwell
+**Body Text 2:** Hi [Redacted],
+Just following up on this. It took a bit to sort out with [Redacted] and the victim’s attorney, but the interview is tentatively scheduled for next Tuesday, 5/18. I will keep you posted.
+Thanks,
+[Redacted Name]
+
+**Subject Line 3:** Subject: Spinoff interview from Maxwell
+**Body Text 3:** Hi [Redacted],
+We’d like to ask you to interview a witness that would be a spin-off from the Maxwell case, in order to decide whether we should open an investigation. [Redacted] can fill you in on the details, and [Redacted] will be the agent who sits in on the interview. Please let us know if you have any questions or would like to discuss.
+Thanks very much!
+[Redacted Signatures]
+U.S. Attorney's Office
+Southern District of New York
+[Redacted Contact Info]
+
+**Footer ID:** EFTA02731613
+
+## Notable Details / Clues
+*   **Case Name:** The correspondence references the "Maxwell case," likely referring to Jeffrey Epstein/Sophie Anderson Maxwell context given the jurisdiction and nature, though only "Maxwell" is visible.
+*   **Date:** A specific date "5/18" (May 18th) is mentioned for a tentative interview schedule.
+*   **Jurisdiction:** The footer identifies the legal authority as the "U.S. Attorney's Office, Southern District of New York."
+*   **Roles Involved:** The text mentions a "victim’s attorney," an unnamed agent who will sit in on the interview, and an investigator deciding whether to open a formal investigation.
+*   **Purpose:** The emails are discussing a "spin-off" investigation from a primary case involving a specific witness.
+*   **Redaction Pattern:** Names of individuals (likely law enforcement or legal staff) are consistently blacked out, suggesting this is a redacted government document intended for public release or internal review while protecting identities.
+*   **Document ID:** The code "EFTA02731613" suggests a specific filing system identifier, possibly related to the Epstein Justice Initiative (EFTA).
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EFTA02731614
+
+## Structured Fields
+*   **Doc ID**: EFTA02731614
+

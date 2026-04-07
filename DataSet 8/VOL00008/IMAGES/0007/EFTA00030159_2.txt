@@ -1,0 +1,39 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030159.pdf ts=2026-03-18T16:21:24 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a partial screenshot or scan of an email header and upper body, likely from a Microsoft Outlook interface given the font style and layout. The majority of the content is heavily redacted with solid black rectangular bars. At the top, standard email metadata fields (From, To, Subject, Date, Importance) are visible, though specific names and addresses are obscured by thick black ink masks.
+
+Below a horizontal dividing line, the body of the email begins with two lines of small text before being interrupted by a massive, continuous black block that covers the main correspondence. This upper redaction block is nearly identical in width to the image frame but extends slightly left into the white margin in the bottom section. Below this large block, a second, slightly offset black rectangle obscures further content. On the far right edge of the lower redaction block, a single visible word fragment ending in "ino," can be seen. In the bottom right corner, outside the email body area, is a document control number or docket identifier in small sans-serif font.
+
+## Visible Text (verbatim)
+*   **From:** "[REDACTED] (USANYS)" <[REDACTED]>
+*   **To:** "[REDACTED]" <[REDACTED]> )"
+    *(Note: A closing parenthesis and opening bracket are visible near the redacted 'To' field)*
+*   **Subject:** Re: Epstein investigation, prosecution memo
+*   **Date:** Tue, 25 Jun 2019 02:57:28 +0000
+*   **Importance:** Normal
+*   **[Body Line 1]:** Thanks
+*   **[Body Line 2]:** Sent from my iPhone
+*   **[Redacted Area]:** (Solid black blocks)
+*   **Visible Fragment in Redaction:** "...ino,"
+*   **Footer ID:** EFTA00030159
+
+## Notable Details / Clues
+*   **USANYS Indicator:** The visible text `(USANYS)` in the "From" line is an abbreviation for the United States Attorney's Office in North York, Suffolk County. This is highly significant given the email subject matter regarding Epstein investigations.
+*   **Mobile Send Indicator:** The phrase "Sent from my iPhone" indicates that this specific reply or message originated from a mobile device rather than a desktop computer, which can sometimes be used to trace metadata differently or indicate a casual check-in.
+*   **"Re:" Prefix:** The subject line begins with "Re:", indicating this is a reply to a previous thread.
+*   **Date Context:** The timestamp is Tuesday, June 25, 2019. This places the email in the period shortly before Jeffrey Epstein's initial arrest on July 23, 2019, and subsequent legal proceedings in 2020/2021.
+*   **Document ID:** The string "EFTA00030159" at the bottom right suggests this image is part of a government record release or a docketed document filed with a court (likely Eastern District of New York given the USANYS context).
+*   **Redaction Style:** The black bars are uniform and opaque, typical of redactions applied by a legal team to protect sensitive identities or classified information before public release.
+*   **Email Client:** The presence of angle brackets `< >` and specific spacing is characteristic of Microsoft Outlook's native header display.
+*   **"Normal" Importance:** The email priority setting is standard/normal, suggesting this was not an urgent "high" priority blast but part of a routine prosecutorial workflow.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+## Structured Fields
+*   **Doc ID:** EFTA00030160
+

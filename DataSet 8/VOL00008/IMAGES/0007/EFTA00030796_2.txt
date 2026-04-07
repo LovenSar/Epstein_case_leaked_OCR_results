@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030796.pdf ts=2026-03-18T22:42:55 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital reproduction of an email interface, specifically focusing on the header and message body. At the very top, standard email fields are visible but heavily redacted with thick black bars to obscure sensitive personal information like names and specific email addresses. The "From," "To," and "Cc" lines show fragments of text, including brackets `< >` used for sender/recipient display names, and the partial string `(USANYYS)"` visible in the To field. Below the header section, a thin horizontal line separates the metadata from the message content. The salutation begins with "Hi," followed immediately by another redacted name. The body of the email contains a single paragraph requesting a favor: it asks the recipient to check on the status of "VNS notifications" (likely Victim Notification System) regarding the "Epstein case" once they return from leave. Beneath this text is a massive, rectangular black area that obscures what appears to be a large list of names or an attachment, taking up nearly half the vertical space of the document. At the bottom left, the sign-off "Thanks very much," is visible above another redacted name block. In the extreme bottom right corner, a document control number reads "EFTA00030796".
+
+## Visible Text (verbatim)
+*   **From:** [Redacted] `)" <` [Redacted] `>`
+*   **To:** [Redacted] `(USANYYS)" <` [Redacted] `>`
+*   **Cc:** [Redacted] `)", <` [Redacted] `, " [Redacted] `)"` `<` [Redacted] `>`
+*   **Subject:** Epstein VNS
+*   **Date:** Thu, 30 Jul 2020 16:20:16 +0000
+*   **Body Start:** Hi [Redacted Block]
+*   **Body Middle:** When you are back from leave, would you please check to see what, if any, VNS notifications have been sent out to the below individuals for the Epstein case?
+*   **Large Redaction Block:** (Solid Black Rectangle)
+*   **Body End:** Thanks very much, [Redacted Block]
+*   **Footer:** EFTA00030796
+
+## Notable Details / Clues
+*   **VNS Acronym:** The term "VNS" in the subject and body strongly suggests a connection to a Victim Notification System, common in criminal justice contexts involving victims of sex trafficking or sexual assault.
+*   **USANYYS:** The text `(USANYYS)` in the To field indicates this email was sent via a US Government distribution list (likely Department of Justice related).
+*   **Epstein Case:** The reference to the "Epstein case" links this document to Jeffrey Epstein's high-profile legal matters.
+*   **Timing:** The email is dated July 30, 2020. This is significant because Jeffrey Epstein died in August 2019; therefore, this communication occurs one year after his death, likely regarding the aftermath or sentencing proceedings.
+*   **Leaving/Return:** The sender explicitly notes "When you are back from leave," indicating the recipient was away on vacation or sick leave at the time of the email.
+*   **Redaction Pattern:** The heavy use of black bars suggests this document has been processed for privacy, specifically masking the specific recipients (the "below individuals") mentioned in the request to check notifications.
+*   **Large Black Box:** The sheer size of the redacted block below the text implies that the list of people who received or were supposed to receive VNS notices is long and was either attached as a file or listed inline below, but obscured for this view.
+

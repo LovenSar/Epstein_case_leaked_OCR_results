@@ -1,0 +1,67 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00013436.pdf ts=2026-03-11T15:51:57 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a computer-generated email thread, heavily redacted to obscure identities and sensitive information. The document is structured as a standard email client view with headers at the top and a chronological flow of messages below.
+
+The top section contains the header metadata for the current email view:
+*   **From:** This field is completely obscured by three thick black bars stacked vertically, hiding the sender's name.
+*   **Subject:** The subject line reads "RE: Significant events next week?".
+*   **Date:** The timestamp is listed as "Fri, 11 Jan 2019 17:58:40 +0000", indicating a Friday evening in UTC time.
+*   **Importance:** Marked as "Normal".
+
+Below the header line, the body of the email begins with a greeting ("Hi [Redacted],") followed by two distinct paragraphs of visible text.
+*   The first paragraph discusses an investigative team traveling to Florida for the "Jeffrey Epstein investigation." It mentions meeting with case agents from the "original Epstein investigation" and collecting "hard copy files."
+*   The second paragraph provides a news update regarding a sentencing. It identifies "Victor Casado," a former supervisory guard at the "MCC" (Metropolitan Correctional Center). He is reported to have received a 36-month sentence for smuggling contraband in exchange for bribes. A section of text regarding the specific nature of the smuggling or charge amount is redacted.
+
+The middle portion of the document is dominated by a large, dense block of black bars, obscuring the rest of the email chain, responses, or prior messages.
+
+Below this central redaction block, another email subject line appears: "Subject: RE: Significant events next week?". Following this is a short paragraph where a recipient politely asks to be included in future updates ("keep me in the loop"), apologizing for asking until they are integrated enough into the project.
+
+The final visible section at the bottom of the image reveals another email subject line: "Subject: Significant events next week?". Below it is a paragraph requesting an email about upcoming significant legal events (pleas, sentencings, hearings) for the following week to ensure the sender's schedule or knowledge base is updated. The text cuts off mid-sentence ("...so it is on my").
+
+In the bottom right corner, there is a unique alphanumeric code: "EFTA00013436".
+
+## Visible Text (verbatim)
+**From:** [Redacted Bars]
+**Subject:** RE: Significant events next week?
+**Date:** Fri, 11 Jan 2019 17:58:40 +0000
+**Importance:** Normal
+
+Hi [Redacted],
+
+Next week, the team on our Jeffrey Epstein investigation (we can fill you in more at 3 pm) is traveling to Florida to meet with the case agents on the original Epstein investigation and begin the process of collecting the hard copy files from that investigation.
+
+Not a prospective update, but today, Victor Casado, a former supervisory guard at the MCC, was sentenced to 36 months for his role in smuggling contraband into the MCC for [Redacted], in exchange for tens of thousands of dollars in bribes.
+
+[Redacted]
+
+Subject: RE: Significant events next week?
+Same request. Hopefully soon I’ll be in the loop enough that I won’t have to ask this, but for the time being, please bear with me. Thanks!
+
+[Redacted]
+
+Subject: Significant events next week?
+Just so I have a sense, can you shoot me an email about any significant events (pleas, sentencings, hearings, significant meetings, etc.) that will be happening next week? I don’t need detail – just a brief description of the event so it is on my
+
+EFTA00013436
+
+## Notable Details / Clues
+*   **Legal Context:** The text explicitly references the "Jeffrey Epstein investigation," placing this document in the context of the high-profile sex trafficking case involving Jeffrey Epstein, specifically occurring around early 2019.
+*   **Location Specificity:** The email mentions traveling to "Florida" and collecting files from the "original Epstein investigation," suggesting the team is moving between federal offices or prisons to gather physical evidence.
+*   **Institution Acronym:** The term "MCC" appears, which in a federal correctional context typically stands for Metropolitan Correctional Center (often New York), though the guard was sentenced today, implying he might be associated with it.
+*   **Bribery Scheme:** The text describes a specific corruption case involving Victor Casado, detailing a sentence of 36 months for smuggling contraband in exchange for "tens of thousands of dollars in bribes."
+*   **Time Zone Indication:** The timestamp "+0000" indicates Coordinated Universal Time (UTC), which is standard formatting used by federal government agencies and large corporations.
+*   **Redaction Patterns:** The black bars are uniform and digital, indicating this is a declassified or leaked document where sensitive PII (Personally Identifiable Information) has been scrubbed but not perfectly erased.
+*   **Document ID:** The string "EFTA00013436" in the bottom right corner resembles an internal archive reference number often found in FBI leaks or public FOIA requests documents related to the Epstein case.
+*   **Communication Tone:** The tone shifts between formal administrative updates ("begin the process of collecting") and polite professional requests ("bear with me," "Just so I have a sense").
+*   **Cut-off Text:** The email at the very bottom ends abruptly, reading "...so it is on my," suggesting the full sentence was "so it is on my desk" or "so it is on my radar."
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+radar screen. Thanks.
+
+## Structured Fields
+- Doc ID: EFTA00013437
+

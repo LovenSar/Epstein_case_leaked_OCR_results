@@ -1,0 +1,92 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021877.pdf ts=2026-03-15T04:04:36 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email conversation thread contained within an email client interface. The layout is typical for applications like Microsoft Outlook, featuring distinct headers for each message (From, To, Cc, Subject, Date) and body text blocks separated by horizontal lines or spacing.
+
+Significant portions of the header information—specifically the "From," "To," and "Cc" fields—are obscured by solid black rectangular bars for privacy. The background is white, with standard black text for the main content and blue text used to highlight forwarded or replied message fragments.
+
+The email thread appears to discuss the logistical handling of a computer hard drive intended for legal discovery purposes. The conversation spans from August 5, 2020, to August 10, 2020. The emails reference an "MDC" (likely a correctional facility like Menard District Correctional Center or similar) and mention sending the item to an inmate.
+
+There are distinct sections:
+*   **Top Section:** Contains the current viewing header (dated Mon, 10 Aug 2020) and a snippet of blue text offering instructions on responding directly or through a channel.
+*   **Middle Section:** Shows an email sent on August 10, 2020, at 17:49. It contains a query about shipping carriers (FedEx, USPS) because the sender has not yet received the package. Below this is a timestamp marker "8/5/2020 7:13 PM >>>" and blue text thanking someone for help regarding mailing the drive tomorrow.
+*   **Bottom Section:** Contains an email from Wednesday, August 05, 2020 (the oldest visible message). This email provides detailed instructions on how to mail hard drives, specifically mentioning mailing them to the "legal department," etching a number onto the drive, providing an authorization memo, and password protection requirements.
+*   **Footer:** The bottom right corner displays a document ID: "EFTA00021877".
+
+## Visible Text (verbatim)
+**Header Block 1**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: FW: delivery of hard drive to MDC for discovery production to inmate
+Date: Mon, 10 Aug 2020 21:54:32 +0000
+
+**Body Block 1 (Blue Text)**
+- feel free to respond directly, or if you'd prefer it go through us, no problem just let us know. Thanks!
+
+**Header Block 2**
+From: [Redacted]
+Sent: Monday, August 10, 2020 17:49
+Subject: RE: delivery of hard drive to MDC for discovery production to inmate
+
+**Body Block 2**
+Good evening [Redacted]
+Just confirming - did you use FedEx, USPS, or some other carrier to send the discovery here? I have not received it yet, but it could just be that staff did not notify me a package arrived. Depending on the carrier, it could be in the warehouse or mailroom, so I just want to verify so I can find it expeditiously.
+
+Thanks!
+[Redacted]
+
+**Timestamp Fragment**
+8/5/2020 7:13 PM >>>
+
+**Body Block 3 (Blue Text)**
+That’s extremely helpful, thanks so much. We’ll plan to put the drive in the mail tomorrow, and of course please let us know if any issues arise.
+thanks again,
+[Redacted]
+
+**Header Block 3**
+From: [Redacted]
+Sent: Wednesday, August 05, 2020 19:05
+Subject: RE: delivery of hard drive to MDC for discovery production to inmate
+
+**Body Block 4**
+Hard drives should be mailed to the facility to the attention of the legal department. We need to etch the drive with a number and provide an authorization memo so she can retain it. Then it will be provided to her. It can be password protected so long as you include a cover letter that contains the password for her.
+
+Hope this helps,
+[Redacted]
+
+**Footer Fragment**
+8/5/2020 4:34 PM >>>
+EFTA00021877
+
+## Notable Details / Clues
+*   **Chronology:** The thread is presented somewhat non-linearly or folded. While the main email at the top is dated Aug 10, the quoted text at the bottom refers to "Wednesday, August 05" and has a timestamp of "8/5/2020 4:34 PM", indicating that the oldest instructions are from five days prior to the current email.
+*   **Logistical Instructions:** The oldest email provides specific protocols for handling physical evidence or discovery media:
+    *   **Mailing Address:** Must be sent to "the facility" to the "attention of the legal department."
+    *   **Marking:** The drive must be "etched with a number."
+    *   **Authorization:** An authorization memo is required so the inmate ("she") can retain it.
+    *   **Security:** Password protection is allowed, but requires a cover letter containing the password.
+*   **Location Context:** The subject lines frequently mention "MDC" and "inmate," strongly suggesting this communication is happening between legal counsel or discovery teams and a correctional facility.
+*   **Shipping Inquiry:** The email sent on August 10 explicitly asks if FedEx, USPS, or another carrier was used, indicating a potential issue with package tracking or receipt notification.
+*   **Privacy Measures:** Standard redaction bars are used to hide the names of legal professionals and facility staff involved in the exchange.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+We have a hard drive with loaded discovery that we need to deliver to Ghislaine Maxwell, [REDACTED] at MDC. Could you please let us know what the current protocol is for that? Also, it’s our understanding that hard drives with discovery materials for inmates needs to be non-encrypted (and not have a password for access), is that also correct?
+We’re hoping to get these materials to her tomorrow if at all possible, so we greatly appreciate your help. And I’m reachable any time at [REDACTED]f it would be helpful to discuss.
+thanks,
+[REDACTED]
+[REDACTED]
+Assistant U.S. Attorney
+Southern District of New York
+[REDACTED]
+## Structured Fields
+*   **Doc ID:** EFTA00021878
+*   **Location:** MDC (Maxwell Correctional Facility)
+*   **Locations/Region:** Southern District of New York
+*   **Names:** Ghislaine Maxwell, [REDACTED]
+*   **Organizations:** Assistant U.S. Attorney, Southern District of New York
+

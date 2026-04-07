@@ -1,0 +1,19 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731413.pdf ts=2026-03-06T15:27:27 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a smartphone camera interface overlaid on a pixelated, low-resolution photograph taken of a marina or boatyard scene. The photo appears to be viewed through another screen, indicated by the digital artifacts and compression visible in the background. The primary subject is a white boat positioned in the foreground, angled slightly away from the viewer to the right. This boat features a dark-colored bimini top or canopy covering the cockpit area and a tall white mast rising vertically out of frame. Seated inside the cockpit of this foreground boat is a person wearing a bright yellow-green shirt or life vest; their face has been digitally redacted with a solid black rectangle. Behind the primary vessel, other white boats are visible, featuring similar masts and cabin structures. The background is out of focus but suggests a shoreline with dark green foliage and trees. In the upper right corner, a portion of a structure with a red roof is faintly visible. At the very top edge, a small green dot indicates a recording status or battery saver mode. The camera interface is black and occupies the bottom third of the screen. A horizontal slider bar near the top of the interface allows for adjustment, likely digital zoom or focal length; a yellow indicator ring sits on the right side of the track, indicating the current setting. To the left of this slider is a magnifying glass icon containing a plus sign, flanked by minus and plus text indicators. Below the slider is a row of five circular control icons: a camera switch icon (two rectangles with arrows), a sunburst icon illuminated in yellow (indicating flash is on), a half-moon icon illuminated in yellow (indicating Live Photos mode), an icon depicting overlapping rings or loops, and a flashlight icon. Centered at the bottom is a large white shutter button consisting of concentric circles. Flanking the shutter button at the very bottom corners are a settings gear icon on the left and a gallery/photos icon on the right.
+
+## Visible Text (verbatim)
+EFTA02731413
+
+## Notable Details / Clues
+- **Redaction:** A distinct black rectangular box obscures the face of the person in the boat, likely to protect privacy or hide identity.
+- **UI State:** Two icons in the control bar are illuminated yellow (the sun/flash and the half-moon), suggesting specific camera settings like Flash and Live Photos are active.
+- **Zoom Setting:** The slider knob is positioned towards the right side of the track, suggesting the camera is zoomed in significantly on the subject.
+- **Image Quality:** The image is heavily pixelated and blurry, characteristic of a screenshot taken from another device's display rather than a native capture.
+- **Device Interface:** The layout (shutter button centered, gallery gear at bottom corners) is consistent with standard iOS camera apps (like Apple Photos).
+- **ID Code:** The alphanumeric string "EFTA02731413" at the bottom right suggests this image might be from a specific dataset or testing environment.
+- **Subject Orientation:** The composition places the boat on a diagonal, leading the eye from the bottom left towards the upper right background.
+

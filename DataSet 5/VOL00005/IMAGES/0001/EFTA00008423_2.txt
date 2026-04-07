@@ -1,0 +1,36 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008423.pdf ts=2026-03-09T06:47:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-angle shot of computer hardware packaged as evidence. Central to the frame is a standard 3.5-inch desktop hard drive enclosed within a clear, rectangular plastic clamshell case designed for shipping or storage. The hard drive itself has a silver metallic casing with a printed label near the top identifying it as a "Seagate" drive, model "Barracuda," and capacity "1000GB."
+
+The plastic case sits atop a large, brown kraft paper file folder or envelope. This folder features the "SMEAD" logo printed upside down at the very top edge of the frame. Beneath the clear plastic case, partially visible at the bottom center, is a sheet of white paper with faint, illegible printed lines, likely a label form. The entire assembly rests on a speckled surface, appearing to be a terrazzo or stone countertop with grey, white, and brown chips embedded in a darker matrix. To the right of the main object, a thin black cable or string lies loosely on the brown paper. Several small, circular indentations (likely from binding staples) are visible on the left and right edges of the brown paper sheet.
+
+## Visible Text (verbatim)
+*   **Top Red Tape:** "EVIDENCE" (partially obscured by handwriting). Handwritten in black marker above this: "12/16/19".
+*   **Hard Drive Label:** "Seagate", "Barracuda", "1000GB".
+*   **Yellow Inventory Sticker (Top Section):**
+    *   "90A-NY-3151227 Request ID 112048 1B36"
+    *   "08/12/2019 - NYC027r15 - PC - Derivative Copy"
+*   **Yellow Inventory Sticker (Middle Section):**
+    *   "One (1) Seagate Barracuda 1000 GB hard drive"
+    *   "ST1000DM002 S/N V1D0A7S1 containing"
+*   **Yellow Inventory Sticker (Lower Section):**
+    *   "the Clone Copy of 1B18 hard drive"
+    *   "(Seagate Barracuda 500GB HDD, ST3500320NS,"
+    *   "S/N 9QM8M..." (rest cut off) "collected from Nouveau TD3-B,"
+    *   "S/N 01D3B0AE-1331" (approximate sequence)
+*   **Yellow Sticker Stamp/Print:** Partially visible code "CLP-08004".
+*   **Handwritten Bottom:** "Clone #18" and "(Orig #..." (number cut off).
+*   **Top Corner:** "SMEAD" logo.
+*   **Bottom Right Corner:** "EFTA00008423" (watermark or filename overlay).
+
+## Notable Details / Clues
+*   **Forensic Context:** The combination of red "EVIDENCE" tape, a brown file folder, and a detailed yellow inventory sticker indicates this is part of a digital forensics collection process.
+*   **Derivative Copy:** The sticker explicitly labels the item as a "PC - Derivative Copy." This means the drive likely contains a forensic bit-by-bit copy (image) of another drive to preserve data for analysis, rather than the original evidence itself.
+*   **Model Mismatch Note:** There is a discrepancy between the physical object and its description. The yellow sticker describes the content as a "Clone Copy of 1B18 hard drive (Seagate Barracuda 500GB HDD...)" but the physical hardware visible through the plastic is labeled "1000GB" (Seagate Barracuda 1TB, model ST1000DM002).
+*   **Chain of Custody:** The sticker includes a Request ID ("112048") and a location code ("90A-NY"), likely referring to a New York office or collection site.
+*   **Date Discrepancy:** There are two different dates visible on the top tape (handwritten "12/16/19") versus the inventory sticker date ("08/12/2019"). This suggests the drive was collected in August but packaged, bagged, and logged into this specific brown folder later in December.
+*   **Seal Integrity:** The plastic clamshell is sealed with clear tape around the rim of the package, indicating it has been secured for transport to prevent data alteration or hardware theft.
+

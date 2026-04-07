@@ -1,0 +1,58 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00027303.pdf ts=2026-03-17T13:18:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot or printout of an email correspondence thread involving legal or document production matters. The document is formatted vertically with three distinct message blocks stacked on top of one another. Large black rectangular bars are used extensively to redact sender names, recipient lists, and specific attachment details in certain areas.
+
+**Top Section:**
+The header section shows standard email fields. The "From," "To," and "Cc" lines are completely obscured by a large black rectangle. The subject line reads "RE: Testifying witness notes." The date is listed as Tuesday, August 10, 2021, at 02:12:46 in the UTC+0000 timezone. Below a horizontal dividing line, the first visible body text begins with "Thank you! Yes..." indicating a confirmation of previous instructions regarding deadlines and calendar invites.
+
+**Middle Section:**
+Below the first message, a second email header appears. The "From" field is partially redacted. The "Sent" timestamp is Monday, August 9, 2021, at 9:21 PM. The "To" and "Cc" fields are heavily redacted. The subject line repeats "RE: Testifying witness notes." The body text confirms that items have been added to folders ("All set, it’s been added to both folders"). It then poses a specific procedural question regarding deadlines for producing "testifying witness 3500 and GX" to the defense or court, asking if it is currently too early.
+
+**Bottom Section:**
+The final email block has the earliest timestamp in the visible chain: Monday, August 9, 2021, at 9:18 PM. A large black bar obscures the "To/Cc" area and likely previous context. The subject line "Testifying witness notes" is visible just below this redacted area. The body starts with a greeting "Hi [Redacted]," followed by a request to save attached files into specific folders: the "testifying witness 3500 folder" and the "witness folder for Larry Visoski." This action is to be performed on an "Epstein share." The email ends with "Thanks," followed by a final redacted signature block.
+
+**Footer:**
+At the very bottom right corner, a case or document control number is visible: "EFTA0027303".
+
+## Visible Text (verbatim)
+**Top Header & Body:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Testifying witness notes
+Date: Tue, 10 Aug 2021 02:12:46 +0000
+
+Thank you! Yes, we have those deadlines, will forward the calendar invites to you.
+
+**Middle Header & Body:**
+From: [Redacted]
+Sent: Monday, August 9, 2021 9:21 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Testifying witness notes
+All set, it’s been added to both folders. On a related note, do we have a set deadline for producing testifying witness 3500 and GX to defense/the court yet, or is it still too early?
+
+**Bottom Header & Body:**
+From: [Redacted]
+Sent: Monday, August 9, 2021 9:18 PM
+[Redacted Black Bar]
+Subject: Testifying witness notes
+Hi [Redacted],
+Would one of you please save the attached in the testifying witness 3500 folder and the witness folder for Larry Visoski on the Epstein share?
+Thanks,
+[Redacted]
+
+**Footer:**
+EFTA0027303
+
+## Notable Details / Clues
+*   **Timeline of Events:** The email chain establishes a sequence where an initial request was sent at 9:18 PM on Monday, August 9. A reply confirming actions ("All set") came three minutes later at 9:21 PM. A final confirmation or response occurred on Tuesday, August 10 in the early morning hours (approx 4:12 AM UTC).
+*   **Specific Case References:** The text references specific identifiers "testifying witness 3500" and "GX," suggesting a complex case with multiple witnesses or exhibits.
+*   **File Organization:** There is clear instruction regarding digital file management, specifically saving attachments into two distinct directories: the "testifying witness 3500 folder" and a separate "witness folder for Larry Visoski."
+*   **Shared Drive Context:** The emails mention an "Epstein share," indicating the correspondence is related to the Jeffrey Epstein legal case or documents.
+*   **Redaction Pattern:** The redactions are consistent black bars, typical of public records or discovery documents where privacy (names) and potentially sensitive data (attachment content previews) are masked.
+*   **Communication Tone:** The tone is professional and procedural, focusing on compliance ("set deadline"), organization ("added to both folders"), and logistics ("save the attached").
+

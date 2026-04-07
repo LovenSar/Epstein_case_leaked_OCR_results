@@ -1,0 +1,63 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014542.pdf ts=2026-03-12T02:53:09 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document resembling an email thread or a forensic extraction of electronic communications. The document is oriented vertically and features three distinct sections of text separated by horizontal rules, with significant portions of personal identifiers redacted using thick black bars.
+
+The top section contains the headers for an email received at "Mon, 29 Jul 2019 23:11:26 +0000". The Subject line reads "RE: Epstein - Scheduling Call." Below the headers is a short message beginning with "Thank you," followed by two redacted names.
+
+The middle section appears to be a forwarded or nested email response sent on "Monday, July 29, 2019 5:41 PM" with the subject "RE: Epstein - Scheduling Call." The body text contains a message regarding property return and contact information for a "Special Agent," along with mention of someone expected in court on Wednesday. It ends with a sign-off "thank you," followed by a redacted name.
+
+The bottom section shows an email sent earlier that day at "Monday, July 29, 2019 16:59." The subject is "Epstein - Scheduling Call" (without the RE:). The body text addresses "Dear all" and proposes a call for "Wed morning at 9 am regarding Epstein scheduling issues." Below this text is a large, solid black rectangle obscuring what would be dial-in instructions. In the bottom right corner, a document identification code is visible.
+
+## Visible Text (verbatim)
+**Top Header Section:**
+From: [Redacted]
+To: [Redacted] " [Redacted]
+Cc: [Redacted]
+Subject: RE: Epstein - Scheduling Call
+Date: Mon, 29 Jul 2019 23:11:26 +0000
+
+**Middle Email Section:**
+From: [Redacted]
+Sent: Monday, July 29, 2019 5:41 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Epstein - Scheduling Call
+
+[Redacted] that works for us, thanks. Also, separately, regarding the return of property, you should feel free to contact Special Agent [Redacted] directly, her number is [Redacted] or alternatively I expect [Redacted] be in court on Wednesday so you could speak with [Redacted] directly then.
+
+thank you,
+[Redacted]
+
+**Bottom Email Section:**
+From: [Redacted]
+Sent: Monday, July 29, 2019 16:59
+To: [Redacted] < [Redacted]
+Cc: [Redacted]
+Subject: Epstein - Scheduling Call
+
+Dear all –
+Can we plan on a call regarding Epstein scheduling issues for Wed morning at 9 am using the following dial in:
+[Large Redacted Box]
+
+EFTA00014542
+
+## Notable Details / Clues
+*   **Subject Matter:** The emails explicitly reference "Epstein," indicating the communication pertains to Jeffrey Epstein, a high-profile legal case.
+*   **Law Enforcement Context:** The middle email mentions contacting a "Special Agent" and discusses the "return of property," suggesting these are law enforcement or government officials (likely FBI given the redaction style).
+*   **Timeline Discrepancy:** There is a chronological overlap in the timestamps. The bottom email is sent at 16:59. The middle email is sent at 5:41 PM. The top header date is in UTC (+0000) at 23:11. This suggests time zone conversions (likely EDT for the local times vs UTC for the log).
+*   **Scheduling Logic:** The bottom email sets up a call for "Wed morning at 9 am" on July 29. Since 2019 was not a leap year, July 29 is a Monday. Therefore, "Wed morning" would be August 1. However, the middle email mentions "her number is [Redacted]" and being in court on Wednesday, linking back to the scheduling request.
+*   **Heavy Redaction:** Almost all names and phone numbers are obscured, which is standard for leaked government documents or sensitive evidence files to protect identities and contact info while preserving context.
+*   **Property Return:** The specific mention of "return of property" implies a legal seizure or forfeiture order related to the case.
+*   **Dial-in Info:** The dial-in information for the meeting is completely redacted by a large black box, which is likely standard procedure in leaked documents to prevent unauthorized use of government conference lines.
+*   **Document ID:** The code "EFTA00014542" suggests this image comes from an organized archive or evidence file (Electronic Federal Tax Authority? Or similar legal database), rather than a random screen capture.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+## Structured Fields
+- Doc ID: EFTA00014543
+

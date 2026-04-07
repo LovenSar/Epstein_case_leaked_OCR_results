@@ -1,0 +1,45 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008489.pdf ts=2026-03-09T07:30:45 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a standard yellow Federal Bureau of Investigation (FBI) "Chain of Custody-ELSUR Evidence Envelope" form (FD-504b), dated revision 8-17-01. The document is filled out by hand in blue or black ink, with significant portions of the lower custody log section redacted by black bars obscuring signatures and names.
+
+At the top, administrative checkboxes indicate the enclosure type ("Original") is marked with an 'X'. The medium fields (Magnetic Tape, Computer Disk, Printed Material) are blank. Below this, the Case File Number is handwritten as "72-MM-11327" and the ID number as "1D-6". A section regarding interception types marks "Consensual Monitoring Intercept" with a checkmark/X, noting a specific CM number "CM#0548". The specific type "Telephone (TCM)" is marked.
+
+The intercept details specify the date as 10/28/09 and the location as "West Palm Beach, FL". The time recorded for data transfer to permanent storage is 4:18pm. Below this, a list of names includes "Bradley Edwards" (marked with a check) and "Alfredo Rodriguez".
+
+The lower half of the form features a custody log divided into "Accepted Custody" and "Released Custody" columns. Several entries record transfers of custody on 10/28/09, involving times like 7:30pm and 7:53pm, with reasons citing "Evidence entered" and "Storage". Another entry dated 11/16/09 notes a "Dupe" (duplicate) was created. The form is sealed at the bottom with yellow tape bearing the inverted text "FEDERAL BUREAU OF INVESTIGATION EVIDENCE". A white barcode sticker is affixed to the bottom right corner containing the ID "E02782922".
+
+## Visible Text (verbatim)
+*   **Header:** Chain of Custody-ELSUR Evidence Envelope FD-504b (Rev. 8-17-01)
+*   **Enclosure:** Original (marked with X), Duplicate (unchecked), Enhanced Original (unchecked).
+*   **Medium:** Magnetic Tape (unchecked), Computer Disk (unchecked), Printed Material (unchecked).
+*   **Case File#:** 72-MM-11327
+*   **ID#:** 1D-6
+*   **Intercept Section:** Consensual Monitoring Intercept - CM# (if assigned): CM#0548. Telephone (TCM) (checked).
+*   **Intercept Date:** 10/28/09
+*   **Place:** West Palm Beach, FL
+*   **Time:** 4:18pm
+*   **List of Interceptees/Court Authorized:** Bradley Edwards (checked), Alfredo Rodriguez.
+*   **Custody Log - Entry 1 (Left):** Date: 10/28/09, Time: 4:18pm, Reason: Evidence.
+*   **Custody Log - Entry 1 (Right):** Date: [obscured], Time: 12D pm (or similar), Reason: [phone number appears] 870-652-2036.
+*   **Custody Log - Entry 2 (Left):** Date: 10/28/09, Time: 7:30pm, Reason: Evidence entered.
+*   **Custody Log - Entry 2 (Right):** Date: 10/28/09, Time: 7:53pm, Reason: Storage.
+*   **Custody Log - Entry 3 (Left):** Date: 11/16/09, Time: 2:30pm, Reason: Dupe.
+*   **Custody Log - Entry 3 (Right):** Date: 11/16/09, Time: [obscured], Reason: [illegible scribble].
+*   **Bottom Handwritten Note:** 11/19/06 (or 09).
+*   **Tape Text:** FEDERAL BUREAU OF INVESTIGATION EVIDENCE.
+*   **Barcode Label:** E02782922.
+*   **Image Watermark:** EFTA00008489
+
+## Notable Details / Clues
+*   **Document Type:** The form is specifically an "ELSUR Evidence Envelope," indicating it relates to Electronic Surveillance or Recording programs used by the FBI.
+*   **Redactions:** Several signature blocks in the lower custody chain have been digitally blacked out, likely for privacy protection of law enforcement personnel.
+*   **Timeline Discrepancy:** While most dates are in October 2009, there is a handwritten note at the very bottom left that appears to read "11/19/06" (November 19, 2006), which conflicts with the rest of the document's timeline.
+*   **Case Identification:** The specific file number "72-MM-11327" and ID "1D-6" provide a unique fingerprint for this specific piece of evidence within the larger case file.
+*   **Consensual Intercept:** The form indicates this was a consensual interception (CM#0548) rather than a court-authorized wiretap, suggesting it might involve recording with permission or monitoring a public conversation/device.
+*   **Location:** The place is explicitly identified as West Palm Beach, FL.
+*   **Tape Seal:** The yellow tape at the bottom is standard FBI evidence sealing tape, used to ensure the integrity of the physical evidence contained within the envelope has not been tampered with since sealing.
+*   **Barcode ID:** The barcode number "E02782922" serves as a database index for the physical envelope's location in storage.
+

@@ -1,0 +1,127 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007763.pdf ts=2026-03-09T00:43:18 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EVIDENCE EVIDENCE FEDERAL BUREAU OF INVESTIGATION 2009 FEDERAL BUREAU OF INVESTIGATION UE
+
+## Structured Fields
+*   **Date:** 2009
+*   **Organization:** Federal Bureau of Investigation
+*   **Doc ID:** EFTA00007763
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is dominated by a large, solid black object that occupies the central and upper-left portion of the frame. This object appears to be a file folder or a similar flat container, characterized by smoothly rounded top corners. It sits against a stark white background. In the top right corner of this black surface, there is a small, rectangular white label adhered directly to it. This label also features rounded corners and contains bold, black text. At the very bottom right edge of the entire image frame, outside the main object but within the image borders, there is a small alphanumeric string printed in a light gray font. The top edge of the image shows a thin, horizontal strip that appears to be part of a surface or border resting on which the object sits. The lighting is even, creating no shadows, emphasizing the flatness of the object.
+
+## Visible Text (verbatim)
+*   "1B7-18" (Located inside the white label in the top right corner).
+*   "EFTA00007764" (Located at the bottom right corner of the image frame).
+
+## Notable Details / Clues
+*   **Object Shape:** The main object has a distinctive trapezoidal or rectangular appearance with heavily rounded corners, typical of standard manila folders.
+*   **Label Placement:** The label is positioned specifically in the top-right quadrant, adhering to standard indexing practices for file storage.
+*   **Contrast:** There is extremely high contrast between the black surface and the white label/background.
+*   **Texture/Artifacts:** Along the right vertical edge of the image, there are slight vertical artifacts or textures that suggest the physical edge of a box or paper.
+*   **Font Style:** The text on the label uses a standard, bold sans-serif typeface, likely Helvetica or Arial.
+*   **Footer Code:** The code "EFTA00007764" looks like an automated archival identifier or a document control number often found in declassified documents or library scans.
+*   **Surface:** A very thin line runs across the very top edge, suggesting the black object is resting on a table or shelf surface.
+*   **Cleanliness:** The white areas (background and label) are largely devoid of speckles or noise, except for minor scanning dust marks.
+*   **Orientation:** The image is oriented horizontally (landscape).
+*   **Label Content:** The text "1B7-18" consists of a letter, a number, a hyphen, a letter, and a number sequence.
+*   **Bottom Code Alignment:** The bottom right code is aligned with the right edge of the frame but sits slightly below the main object's lower boundary if extended.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a full-page document label or overlay sheet set against a solid, vibrant pink background. This specific shade of pink is characteristic of standard archival processing sheets used by museums and libraries to indicate the status of a box of materials. The text is printed in a dark grey or black serif typeface (resembling Times New Roman) and is centered on the page. The main message is divided into two distinct sections separated by significant negative space. The upper section serves as the primary status update regarding the digitization of standard flat media. The lower section provides a crucial exclusionary note regarding non-flat media like negatives. At the bottom left corner, there is small text indicating the template version and date of publication. In the extreme bottom right corner, a unique alphanumeric identifier is visible.
+
+## Visible Text (verbatim)
+**Main Body:**
+All documents and
+Photographs
+Enclosed have been
+Digitized.
+
+Negatives and/or
+media have not
+been captured.
+
+**Footer (Bottom Left):**
+DL-02 Media v0.1
+April 2018
+
+**Identifier (Bottom Right):**
+EFTA00007765
+
+## Notable Details / Clues
+*   **Archival Context:** This is a "pink sheet" used in conservation and digital curation to inform staff that the physical box of materials has already been scanned or digitized, so further handling might only be necessary for items explicitly excluded.
+*   **Specific Exclusion:** The text explicitly states that "Negatives and/or media have not been captured," indicating that while photos on paper (flat) were digitized, glass negatives or film reels inside the box still require physical preservation handling and manual scanning in a lab.
+*   **Date of Application:** The text "April 2018" dates the specific template version used, likely meaning this sheet was printed in April 2018, though it could have been applied to any material at any time after that.
+*   **Version Control:** The code "DL-02 Media v0.1" suggests a systematic labeling system where "DL-02" is the template ID and "v0.1" indicates the first version of this specific media status sheet.
+*   **Color Psychology:** The use of bright pink is industry standard for "Digitized" or "Ready for Access" in archival science to distinguish it from white (undigitized) or other color-coded labels (like yellow or blue).
+*   **Typography:** The main text is bolded and capitalized for high visibility, ensuring the status can be read quickly from a distance. The footer text is much smaller and left-aligned to avoid distracting from the primary message.
+*   **Unique Identifier:** The string "EFTA00007765" serves as a unique record ID, likely tracking this specific digital asset or the batch of materials within a larger digital repository system.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Town of Palm Beach Police Department EVIDENCE
+CASE #~S-368 PROPERTY # 05-1087 /128141
+CONTENTS
+Item | Quantity | Description
+-1 | | micro c/ [REDACTED]
+Suspect: Estrin
+Officer: [REDACTED] Date: 4-05
+Lab #: .
+KL-231
+
+18
+
+## Structured Fields
+*   **Organization:** Town of Palm Beach Police Department
+*   **Document ID/Form Type:** EVIDENCE (Form KL-231)
+*   **Case Number:** ~S-368
+*   **Property Numbers:** 05-1087, 128141
+*   **Barcode:** 023656
+*   **Suspect:** Estrin
+*   **Date:** 4-05
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+
+/MICRO CASSETTE/
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007767
+
+## Structured Fields
+*   **Date:** July 27, 2020
+*   **Doc ID:** EFTA00007767
+*   **Description/Item Type:** Micro Cassette
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+PRO
+05-1089
+SONY
+A
+MC-60
+
+[ ] MEETING [ ] MEMO [ ] OTHERS (
+[REDACTED]
+2-591-650-11
+
+EFTA00007768
+
+## Structured Fields
+*   **Case ID / Doc ID**: EFTA00007768
+*   **Date**: 05-1089 (approximate from handwritten note on cassette)
+*   **Organization**: SONY
+*   **Product Type**: MiniDisc/Cassette (MC-60)
+

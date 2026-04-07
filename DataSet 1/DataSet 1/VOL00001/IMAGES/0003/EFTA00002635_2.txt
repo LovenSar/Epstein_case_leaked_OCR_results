@@ -1,0 +1,40 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002635.pdf ts=2026-03-05T21:44:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up view of the rear expansion bus area of a large telecommunications chassis, specifically a Panasonic PBX system. The scene is dominated by vertical metal modules inserted into slots and a complex tangle of networking cables draped over them. On the far left, a silver-colored Power Supply Unit (PSU) is visible, featuring a detailed manufacturer sticker. To the right of the PSU, several metallic interface cards are installed. These cards feature large, black, rectangular connectors labeled "EXTN" (External Extension). A significant portion of the image is obscured by thick blue and yellow Ethernet-style cables running diagonally from the top left to the bottom right. On the extreme right edge, a black metal chassis wall features vertical slot numbering ranging from 38 down towards 24. On the far left, a bundle of orange cables runs vertically along the back of the frame. Below the main chassis, the top portion of another black unit is visible with partial branding.
+
+## Visible Text (verbatim)
+- **Power Supply Unit Sticker:**
+    - "Panasonic"
+    - "Model No. PSLP1403"
+    - "Power Supply Unit"
+    - "INPUT 100-120V/200-240V~/ 1.8A / 4A - 90-60Hz"
+    - "OUTPUT +48V=2.4A +15V = 3.2A"
+    - "OUTPUT +12V=1.8A +15V(TTY)=3.8A"
+    - "+48V=-0.4A(BATTERY)"
+    - "140.4W/156W"
+    - Certifications: UL, CSA, CE logos visible.
+- **Chassis Wall (Left):**
+    - "RESET" (on a white sticker)
+    - Slot numbers: "38", "37", "36" partially visible.
+- **Modules:**
+    - "THIS SLOT NOT USED"
+    - "CAUTION: ..." (Static electricity warning text is present but illegible).
+    - Labels on connectors: "EXTN".
+- **Chassis Wall (Right):**
+    - Slot numbers vertically aligned: "38", "37", "36", "35", "34", "24".
+- **Bottom Device:**
+    - "Panasonic"
+    - Model fragment: "...TVA..." (likely KX-TVA series).
+
+## Notable Details / Clues
+- **System Identification:** The presence of the "KX-TDA" style chassis architecture and the specific PSU model "PSLP1403" identifies this as a legacy Panasonic KX-TDA PBX system.
+- **Connector Type:** The connectors labeled "EXTN" are likely modular telephone jacks (RJ30X style often used internally) or high-density DB connectors for wiring expansion units.
+- **Cable Management:** The blue and yellow cables appear to be standard Ethernet patch cords, indicating a connection to a modern network infrastructure bridging an older phone system. The orange cables on the left are likely power feeds or heavy-duty internal harnesses.
+- **Power Status:** A small green LED indicator is visible on the PSU module, suggesting the unit is currently powered on.
+- **Slot Configuration:** The numbering on the right side (38 down to 24) indicates a large capacity expansion chassis capable of supporting dozens of lines or modules.
+- **Warning Labels:** Standard industrial safety warnings regarding static electricity are present on the metal faceplates, typical for equipment containing sensitive electronics like DSP chips in PBX systems.
+- **Physical Condition:** The equipment shows signs of wear and older manufacturing standards (metal faceplates rather than plastic), consistent with enterprise hardware from the late 1990s or early 2000s still in use.
+

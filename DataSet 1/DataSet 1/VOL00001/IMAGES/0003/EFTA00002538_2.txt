@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002538.pdf ts=2026-03-05T20:57:35 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a disassembled or rack-mounted electronic component, specifically an AC power supply unit (PSU), resting on a flat, textured gray surface, likely a floor or workbench. The device is constructed from silver-colored aluminum sheet metal and features a rectangular chassis with rounded corners. A black power cord snakes across the top of the unit, looping from the left side up towards the right.
+
+The left side of the chassis features a vertical mounting bracket area where the AC power cable exits. A standard three-prong black plug hangs loosely near the bottom left corner. Near this bracket area are several labels, including a large white sticker containing barcodes and text specifications, and a smaller white label near the bottom edge showing wear and tear.
+
+The center of the chassis is relatively plain but shows signs of use, including smudges, scratches, and faint scuff marks on the metal surface. Prominently located in the upper-center area is an oval-shaped, recessed plastic handle grip used for removal from a rack mount. Directly below this handle is a small, rectangular yellow sticker with the word "CAUTION" printed vertically.
+
+The right side (top edge of the image relative to the power cord loop) features two distinct rectangular venting areas populated with rows of small circular holes for airflow. This section also houses the DC power connectors; red and black insulated wires are visible plugging into a backplane or power rails, indicating where the unit connects to a motherboard. A white asset tag hangs from these wires. In the top right corner, a yellow triangular warning sticker with a high-voltage symbol is affixed. The overall lighting creates a bright reflection in the center of the chassis.
+
+## Visible Text (verbatim)
+- "CAUTION:" (on the central yellow label)
+- Barcode data on top left label: "[illegible text block, likely Cisco model number and serial]"
+- High voltage symbol on top right sticker
+- Asset tag text: "[illegible barcode and alphanumeric code]"
+- Watermark in bottom right corner: "EFTA00002538"
+
+## Notable Details / Clues
+- **Device Type:** Based on the chassis shape, handle grip, and power cable routing (AC cord vs. DC backplane wires), this is identifiable as a Cisco Power Supply Module or Unit for a rack-mounted server chassis.
+- **Power Configuration:** The presence of both thick red and black wires indicates a dual-rail 12V output typical for high-performance server hardware.
+- **Condition:** The metal casing shows "battle scars," including adhesive residue from removed stickers, small dents, and general grime accumulation consistent with equipment stored in an industrial environment.
+- **Mounting Hardware:** The side brackets visible on the left edge suggest rail-mounting holes and ears for securing the unit vertically in a server rack.
+- **Orientation:** The device is lying flat; the "top" of the chassis (where the DC wires connect) is towards the top right of the frame, while the AC outlet cable extends to the bottom left.
+- **Safety Markings:** Standard industrial safety markings are present, including the caution label regarding high voltage or internal fan hazards and the yellow electrical hazard triangle.
+- **Thermal Design:** The two large vented sections on the right side indicate that this unit pumps air into a specific chassis bay to cool the server's motherboard.
+- **Identification:** A white sticker on the top left likely contains the specific model number (e.g., PCIE-240W or similar) and regulatory compliance markings (CE, FCC), though the text is too pixelated to read exactly.
+

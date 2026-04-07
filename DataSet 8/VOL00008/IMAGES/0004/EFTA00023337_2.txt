@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00023337.pdf ts=2026-03-15T20:39:54 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: [REDACTED]
+Subject: US v. Epstein
+Date: Thu, 05 Mar 2020 19:00:52 +0000
+
+Hello [REDACTED]
+
+The new data set you gave to me from the FBI has some problems and I was wondering if we can get the FBI to fix some of these issues. Here are the problems:
+
+1. The data they sent to us has no way to put any e-mails or attachments together so if we were processing the data we have no way to link anything together.
+2. The load file has no link to the native file which means that when we load the data to the database we have no way to have the native files show up in the database
+3. The control numbers in the load file do not match those of the native files. Which means we have two sets of numbers and no way to match up anything.
+
+If we can get the FBI to either send us the data again with these corrections applied that would be great. Please let me know if there are any questions.
+
+Thank you.
+
+[REDACTED]
+
+## Structured Fields
+- **Date:** Thu, 05 Mar 2020
+- **Case/Subject:** US v. Epstein
+- **Document ID:** EFTA00023337
+- **Organization:** FBI
+

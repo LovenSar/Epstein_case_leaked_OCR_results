@@ -1,0 +1,578 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00020372.pdf ts=2026-03-14T13:12:45 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Original
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+In re: Second Warrant and Order For
+Prospective and Historical Location
+Information and Pen Register
+Information for the Cellphone Assigned
+Call Number [REDACTED], USAO
+Reference No. 2018R01618                                                                                             AMENDED APPLICATION
+                                                                                                                           **20 Mag.** _**6828**_
+
+                                                                                             Amended Application for Second Warrant and Order
+for Cellphone Location and Pen Register Information
+
+The United States of America, by its attorney, Audrey Strauss, Acting United States Attorney for the Southern District of New York, [REDACTED], Assistant United States Attorney, of counsel, respectfully requests that the Court issue the accompanying proposed Second Warrant and Order for prospective and historical location information and pen register information for a cellphone. As grounds for this Amended Application the Government relies on the following facts and authorities.
+
+**I. Introduction**
+1. I am an Assistant United States Attorney in the U.S. Attorney’s Office for the Southern District of New York. This Amended Application is submitted in conjunction with the accompanying amended affidavit of a law enforcement agent (“Amended Agent Affidavit”), to be sworn before this Court, and incorporated by reference herein. I make this Amended Application based on information and belief, including the Amended Agent Affidavit, my review of other documents in the case, and information received from investigative personnel.
+
+2. The Investigating Agency, Target Cellphone, Subscriber, Target Subject, Service Provider, Subject Offenses, Successor Service Provider, and Successor Cellphone referenced in this Amended Application are as specified in the Amended Agent Affidavit.
+
+2019.07.24                                                                EFTA00020372
+
+## Structured Fields
+- **Date:** 2019.07.24
+- **Case Reference No:** 2018R01618
+- **Docket/Case Number:** AMENDED APPLICATION 20 Mag. 6828
+- **Document ID:** EFTA00020372
+- **Court:** United States District Court, Southern District of New York
+- **Attorney:** Audrey Strauss (Acting United States Attorney)
+- **Redacted Name:** Assistant United States Attorney for the Southern District of New York
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+II. Legal Authority
+A. Prospective Location Information
+3. The Government seeks to obtain both precision location information and cell site data for the Target Cellphone on a prospective basis (the “Prospective Location Information”) for a period of 45 days from the date of this order – the same period of time for which a warrant for a tracking device may be granted under Rule 41(e)(2)(C). It bears noting, however, that while the Prospective Location Information may permit “tracking” the user of the phone in the colloquial sense, this is not an application for a warrant for a “tracking device” as defined in Fed. R. Crim. P. 41(a)(2)(E) and 18 U.S.C. § 3117(b). Those provisions only apply where an agent is seeking to physically install a tracking device on a given object. Instead, the Prospective Location Information will be obtained by requiring the Service Provider to provide the information.
+4. The authority for this application is found in 18 U.S.C. § 2703(c)(1), which authorizes a court of competent jurisdiction to require any electronic communication service provider (which includes a cellular telephone service provider¹) to disclose any “record or other information pertaining to a subscriber” other than the “contents of communications,” when the government obtains, *inter alia*, a warrant under the applicable procedures of Rule 41. See 18 U.S.C. § 2703(c)(1)(A). Because data concerning a subscriber’s location, such as precision location information and cell site data, constitutes “information pertaining to a subscriber” that does not include the “contents of communications,” that data is among the types of information available
+
+¹ See 18 U.S.C. § 2711(1) (incorporating by cross-reference statutory definitions set forth in 18 U.S.C. § 2510); 18 U.S.C. § 2510(15) (defining “electronic communication service” as “any service which provides to users thereof the ability to send or receive wire or electronic communications”).
+
+2019.07.24
+2
+EFTA00020373
+
+## Structured Fields
+*   **Date:** 2019.07.24
+*   **Page Number:** 2
+*   **Document ID:** EFTA00020373
+*   **Legal Statutes Mentioned:** 18 U.S.C. § 2703(c)(1), 18 U.S.C. § 2703(c)(1)(A), 18 U.S.C. § 3117(b), 18 U.S.C. § 2711(1), 18 U.S.C. § 2510
+*   **Rule Mentioned:** Rule 41 (Fed. R. Crim. P.)
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+under § 2703(c)(1)(A).<sup>2</sup> Further, as specified in 18 U.S.C. § 2711(3), this Court is a court of competent jurisdiction under the Stored Communications Act because it has jurisdiction over the Subject Offenses.
+
+5. The Government’s request for cell site data also implicates the pen register statute, because such data constitutes signaling information used by the Service Provider to route communications to and from the Target Cellphone. In order to collect such data, a valid pen register order is required.<sup>3</sup> Accordingly, I hereby certify pursuant to 18 U.S.C. § 3122 that such signaling information is relevant to an ongoing investigation being conducted by the Investigating Agency into suspected violations of the Subject Offenses by the Target Subject.
+
+**B. Historical Location Information**
+
+6. The Government also seeks historical cell site data for the Target Cellphone for the period from June 1, 2020 to the present (the “Historical Location Information”). Because such data—like “Prospective Location Information”—constitutes information concerning a subscriber, the Court is authorized to order the Service Provider to provide this data pursuant to a warrant
+
+<sup>2</sup> See *In re Application*, 460 F. Supp. 2d 448, 459–60 & n. 55 (S.D.N.Y. 2006) (Kaplan, J.) (cellphone location information falls within § 2703(c)(1)); accord, e.g., *United States v. Caraballo*, 963 F. Supp. 2d 341, 361 (D.Vt. 2013); *In re Order*, 632 F. Supp. 2d 202, 207 (E.D.N.Y. 2008); *In re Application*, 405 F. Supp. 2d 435, 444-45 (S.D.N.Y. 2005). But see *In re Application*, 849 F. Supp. 2d 526, 574 (D.Md. 2011) (rejecting view that cellular location data falls within the scope of the SCA and finding that phone must be treated as “tracking device” for purposes of Rule 41 where used to collect location data); *In re Application*, 2009 WL 159187, at *5-*6 (S.D.N.Y. Jan.13, 2009) (McMahon, J.) (same).
+
+<sup>3</sup> See 18 U.S.C. § 3121 (prohibiting use of pen register or trap and trace device without an order under the pen register statute); 3127(3) & (4) (defining pen register and trap and trace device to include devices or processes that record, *inter alia*, signaling information). Although cell site data constitutes “signaling” information within the meaning of the pen register statute, a separate statute precludes the Government from relying “solely” on the authority provided by the pen register statute to ascertain a subscriber’s location. 47 U.S.C. § 1002(a). Here, the Government seeks to obtain such data pursuant to 18 U.S.C. § 2703(c) as well as the pen register statute, rather than “solely” under the latter statute. See *In re Application*, 460 F. Supp. 2d at 456-59.
+
+2019.07.24
+3
+EFTA00020374
+
+## Structured Fields
+*   **Date:** June 1, 2020 (in text), 2019.07.24 (footer)
+*   **Document ID:** EFTA00020374
+*   **Courts mentioned:** S.D.N.Y., D.Vt., E.D.N.Y., D.Md.
+*   **Statutes cited:** 18 U.S.C. § 2703(c)(1)(A), 18 U.S.C. § 2711(3), Stored Communications Act, 18 U.S.C. § 3122, 18 U.S.C. § 3121, 18 U.S.C. § 3127(3) & (4), 47 U.S.C. § 1002(a).
+*   **Case Names:** *In re Application*, *United States v. Caraballo*, *In re Order*.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+application under 18 U.S.C. § 2703(c), under the applicable procedures of Rule 41. See 18 U.S.C. § 2703(c)(1)(A). I respectfully submit that the same probable cause supporting the Government’s request for a warrant to obtain the Prospective Location Information requested above also supports the issuance of a warrant under § 2703(c) for the requested Historical Location Information. In addition, the Government seeks toll records for the same period as the Historical Location Information. Pursuant to 18 U.S.C. § 2703(d), I respectfully submit that the Amended Agent Affidavit offers specific and articulable facts showing that there are reasonable grounds to believe that the toll record information sought is relevant and material to an ongoing criminal investigation.
+
+**C. Pen Register Information**
+
+7. Finally, the Government seeks an order pursuant to 18 U.S.C. §§ 3121-26 authorizing the use of a pen register on the Target Cellphone for a period of 45 days from the date of this order. Specifically, the Government seeks an order directing the Service Provider to furnish any information, facilities, and technical assistance necessary to operate, unobtrusively and with minimum disruption of service, a pen register and trap and trace device to capture all dialing, routing, addressing, or signaling information associated with each call transmitted to or from the Target Cellphone, as specified further in the proposed Second Warrant and Order (the “Pen Register Information”).⁴
+
+---
+⁴ The Government is also not seeking authorization to obtain post-cut-through dialed digits (“PCTDD”), or digits that are dialed after a telephone call from the Target Cellphone has been connected. Pursuant to the attached Order, if possible, the Service Provider will forward only pre-cut-through-dialed digits to the Investigating Agency. However, if the Service Provider’s technical capabilities require it to forward all dialed digits, including PCTDD, to the Investigating Agency, the Investigating Agency will only decode and forward to the agents assigned to the investigation the numbers that are dialed before the call is cut through.
+
+2019.07.24
+4
+EFTA00020375
+## Structured Fields
+*   **Date**: 2019.07.24
+*   **Page Number**: 4
+*   **Document ID / Case ID**: EFTA00020375
+*   **Statutes Cited**: 18 U.S.C. § 2703(c), Rule 41, 18 U.S.C. §§ 3121-26
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+8. I hereby certify pursuant to 18 U.S.C. § 3122 that the Pen Register Information is relevant to an ongoing investigation being conducted by the Investigating Agency into suspected violations of the Subject Offenses by the Target Subject.
+
+**D. Sealing and Non-Disclosure Order to Service Provider**
+
+9. When the Government obtains records or information under § 2703(c), it is not required to notify the subscriber or customer. 18 U.S.C. § 2703(c)(3). Additionally, the Government may obtain an order precluding the Service Provider from notifying the subscriber or any other third-party of the warrant or order obtained, for such period as the Court deems appropriate, where there is reason to believe that such notification will result in endangering the life or physical safety of an individual, flight from prosecution, destruction of or tampering with evidence, or intimidation of potential witnesses, or will otherwise seriously jeopardize the investigation. 18 U.S.C. § 2705(b).
+
+10. Further, 18 U.S.C. § 3123(d) provides that an order directing installation of a pen register or trap and trace device shall direct the pertinent service provider “not to disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person unless or until otherwise ordered by the Court.”
+
+11. Accordingly, as explained further in the Amended Agent Affidavit, in light of the confidential nature of the continuing criminal investigation and the adverse consequences expected in the event of premature notification, the Government respectfully requests that the Court direct the Service Provider not to notify the Subscriber or any other person of the Second Warrant and Order sought herein for a period of one year, subject to extension upon application to the Court, if necessary.
+
+12. For similar reasons, I respectfully request that the proposed Second Warrant and Order, this Amended Application, and the accompanying Amended Agent Affidavit, be maintained under
+
+2019.07.24
+5
+EFTA00020376
+
+## Structured Fields
+- **Date**: 2019.07.24
+- **Page Number**: 5
+- **Document ID / Case ID**: EFTA00020376
+- **Organizations/Entities**: Government, Investigating Agency, Service Provider, Subscriber
+- **Statutes Cited**: 18 U.S.C. § 3122, 18 U.S.C. § 2703(c)(3), 18 U.S.C. § 2705(b), 18 U.S.C. § 3123(d)
+- **Document Type**: Application/Order (Second Warrant and Order related to Pen Register)
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+seal until the Court orders otherwise, except that the Government be permitted without further
+order of this Court to serve this Second Warrant and Order on the Service Provider; provide copies
+of the Second Warrant and Order or the supporting Amended Application and Amended Agent
+Affidavit as need be to personnel assisting the Government in the investigation and prosecution of
+this matter; and disclose these materials as necessary to comply with discovery and disclosure
+obligations in any prosecutions related to this matter.
+
+**III. Prior Requests**
+
+13. As set forth in the Amended Agent Affidavit, the Government previously requested
+Cellphone Location and Pen Register information for the Target Cellphone in an Application and
+Agent Affidavit submitted on or about June 29, 2020.5 Also on or about June 29, 2020, United
+States Magistrate Judge Katharine H. Parker granted the application and signed a Warrant and
+Order for the requested information. On June 30, 2020, the Government learned that the Agent
+Affidavit contained two inadvertent errors. Accordingly, the Government is submitting this
+Amended Application and Amended Agent Affidavit to correct those errors and to seek a Second
+Warrant and Order.
+
+---
+
+5 The original application also sought authorization for Cellphone Location and Pen Register
+information for a second Target Cellphone, [REDACTED], which was identified as Target
+Cellphone-1 in that application and which was also granted on or about June 29, 2020. Because
+there were no errors in the application with respect to Target Cellphone-1, the Government does
+seek a Second Warrant and Order with respect to that phone.
+
+---
+
+2019.07.24 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EFTA00020377
+
+## Structured Fields
+- **Date**: June 29, 2020; June 30, 2020; 2019.07.24 (Footer)
+- **Names**: Katharine H. Parker
+- **Organizations/Entities**: Government, United States Magistrate Judge, Service Provider, Target Cellphone
+- **Document ID**: EFTA00020377
+- **Case Type Indicators**: Warrant and Order, Second Warrant, Cellphone Location and Pen Register information
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+14. Except as may be set forth above, no prior request for the relief requested herein has been made.
+
+Dated: New York, New York
+
+June 30, 2020
+
+[REDACTED]
+Assistant United States Attorney
+Tel.: [REDACTED]
+
+2019.07.24
+7
+EFTA00020378
+
+## Structured Fields
+- **Date:** June 30, 2020
+- **Location:** New York, New York
+- **Organization:** Assistant United States Attorney
+- **Document ID:** EFTA00020378
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Original
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+In re: Second Warrant and Order For Prospective and Historical Location Information and Pen Register Information for the Cellphone Assigned Call Number [REDACTED], USAO Reference No. 2018R01618
+
+AMENDED AGENT AFFIDAVIT
+20 Mag. 6828
+
+Amended Agent Affidavit in Support of Second Warrant and Order for Cellphone Location and Pen Register Information
+
+STATE OF NEW YORK )
+) ss.
+COUNTY OF NEW YORK )
+
+[REDACTED], being duly sworn, deposse and states:
+
+**I. Introduction**
+
+1. I have been a Special Agent with the Federal Bureau of Investigation (“FBI” or “Investigating Agency”) since 2017. As such, I am a “federal law enforcement officer” within the meaning of Federal Rule of Criminal Procedure 41(a)(2)(C), that is, a government agent engaged in enforcing the criminal laws and duly authorized by the Attorney General to request a search warrant. I am currently assigned to investigate violations of criminal law relating to the sexual exploitation of children as part of an FBI Task Force. I have gained expertise in this area through classroom training and daily work related to these types of investigations. As part of my responsibilities, I have been involved in the investigation of cases involving sex trafficking, enticement of minors, and transportation of minors for illegal sex acts, and have participated in the execution of search warrants involving electronic evidence.
+
+2. **Requested Information.** I respectfully submit this Affidavit pursuant to 18 U.S.C. §§ 2703(c) and (c)(1)(A) and the applicable procedures of Federal Rule of Criminal Procedure 41;
+
+2019.07.24
+EFTA00020379
+
+## Structured Fields
+- **Date**: 2019.07.24
+- **Case Reference/Reference No**: 2018R01618
+- **Document Type**: Amended Agent Affidavit
+- **Court**: United States District Court, Southern District of New York
+- **Organization**: Federal Bureau of Investigation (FBI), USAO (United States Attorney's Office)
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+18 U.S.C. §§ 2703(d) & 2705; and 18 U.S.C. §§ 3121-3126, in support of a second warrant and
+order for prospective location information, historical location information, toll records, and pen
+register information, for the Target Cellphone identified below (collectively, the "Requested
+Information").
+
+	3. Basis for Knowledge. This Affidavit is based upon my participation in the
+investigation, my examination of reports and records, and my conversations with other law
+enforcement agents and other individuals, as well as my training and experience. Because this
+Affidavit is being submitted for the limited purpose of obtaining the Requested Information, it
+does not include all the facts that I have learned during the course of this investigation. Where the
+contents of documents and the actions, statements, and conversations of others are reported herein,
+they are reported in substance and in part, except where otherwise indicated. In addition, unless
+otherwise indicated, statements by others referenced in this Affidavit were not necessarily made
+to me, but may have been provided to me by someone else to whom I have spoken or whose report
+I have read (and who in turn may have had either direct or indirect knowledge of the statement).
+Similarly, unless otherwise indicated, information in this Affidavit resulting from surveillance
+does not necessarily set forth my personal observations, but may have been provided to me by
+other law enforcement agents who observed the events, and to whom I have spoken or whose
+report I have read.
+
+	4. Target Cellphone, Subscriber, Target Subject, and Service Provider. The Target
+Cellphone referenced in this Affidavit is the cellphone assigned call number [REDACTED] (the
+"Target Cellphone"). As further discussed below, the Target Cellphone is subscribed to in the
+name of "G Max" (the "Subscriber"). GHISLAINE MAXWELL is believed to use the Target
+
+2
+2019.07.24	EFTA00020380
+
+## Structured Fields
+- **Date**: 2019.07.24
+- **Page Number**: 2
+- **Document ID**: EFTA00020380
+- **Names**: GHISLAINE MAXWELL, G Max (Subscriber)
+- **Legal Citations**: 18 U.S.C. §§ 2703(d), 2705, 3121-3126
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cellphone and is a Target Subject of this investigation. AT&T is the Service Provider for the Target Cellphone.
+
+5. Precision Location Capability. Cellphone service providers have technical capabilities that allow them to collect at least two kinds of information about the locations of the cellphones to which they provide service: (a) precision location information, also known as E-911 Phase II data, GPS data, or latitude-longitude data, and (b) cell site data, also known as “tower/face” or “tower/sector” information. Precision location information provides relatively precise location information about a cellphone, which a provider can typically collect either via GPS tracking technology built into the phone or by triangulating the device’s signal as received by the provider’s nearby cell towers. Cell site data, by contrast, reflects only the cell tower and sector thereof utilized in routing any communication to and from the cellphone, as well as the approximate range of the cellphone from the tower during the communication (sometimes referred to as “per-call measurement” (“PCM”) or “round-trip time” (“RTT”) data). Because cell towers are often a half-mile or more apart, even in urban areas, and can be ten or more miles apart in rural areas, cell site data is typically less precise than precision location information. Based on my training and experience, I know that the Service Provider has the technical ability to collect precision location information from any cellphone on its network, including by initiating a signal on the Service Provider’s network to determine the phone’s location. I further know that cell site data is routinely collected by the Service Provider in the course of routing calls placed to or from any cellphone on their network.¹
+
+¹ Toll records are sometimes necessary or helpful in order to obtain or interpret historical cell site data and are therefore also requested herein.
+
+2019.07.24                                                3
+EFTA00020381
+
+## Structured Fields
+*   **Date:** 2019.07.24
+*   **Document ID:** EFTA00020381
+*   **Page Number:** 3
+*   **Organization mentioned:** AT&T
+*   **Section Title:** Precision Location Capability
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+6. Successor Service Provider. Because it is possible that the Target Subject may change cellphone service provider during the course of this investigation, it is requested that the warrant and investigative order requested apply without need for further order to any Successor Service Provider who may provide service to the Target Cellphone during the time frames at issue herein.  
+**II. Corrected Facts Establishing Probable Cause**  
+7. Although I understand that probable cause is not necessary to obtain all of the Requested Information, I respectfully submit that probable cause exists to believe that the Requested Information will lead to the location of a person, GHISLAINE MAXWELL, to be arrested for the crimes of conspiracy to entice minors to travel to engage in illegal sex acts, in violation of 18 U.S.C. § 371; enticement of a minor to travel to engage in illegal sex acts, in violation of 18 U.S.C. § 2422; conspiracy to transport minors with intent to engage in criminal sexual activity, in violation of 18 U.S.C. § 371; transporting a minor with intent to engage in criminal sexual activity, in violation of 18 U.S.C. § 2423(a); and perjury, in violation of 18 U.S.C. § 1623 (the “Subject Offenses”).  
+8. On June 29, 2020, a grand jury in the Southern District of New York returned an indictment charging GHISLAINE MAXWELL with the Subject Offenses. The Indictment charging MAXWELL is attached as Exhibit A hereto (the “Indictment”). That same day, United States Magistrate Judge Lisa Margaret Smith signed a warrant for MAXWELL’s arrest, which is attached as Exhibit B hereto (the “Arrest Warrant”).  
+9. In light of these pending charges in the Indictment and the issuance of the Arrest Warrant, GHISLAINE MAXWELL is subject to arrest for the Subject Offenses.  
+10. Also on or about June 29, 2020, the Government submitted an Application and accompanying Agent Affidavit seeking a Warrant and Order permitting the FBI to obtain, among  
+
+<sup>2019.07.24</sup> <sub>4</sub> **EFTA00020382**  
+
+
+## Structured Fields
+- **Dates**: June 29, 2020; 2019.07.24 (footer date)  
+- **Case ID**: EFTA00020382  
+- **Names**: GHISLAINE MAXWELL, Lisa Margaret Smith  
+- **Organizations/Entities**: Southern District of New York, FBI, United States Magistrate Judge  
+- **Document IDs**: Exhibit A (Indictment), Arrest Warrant (Exhibit B)
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+other things, Cellphone Location Information and Pen Register Information for the Target Cellphone.^1 Those documents were filed under the docket number 20 Mag. 6770. The original Application and Agent Affidavit are attached as Exhibit C hereto. That same day, United States Magistrate Judge Katharine H. Parker signed the requested Warrant and Order for the Target Cellphone, also filed under docket number 20 Mag. 6770. The original Warrant and Order for the Target Cellphone is attached as Exhibit D hereto. Pursuant to the Warrant and Order contained in Exhibit D, the FBI subsequently obtained historical cell site and GPS location data for the Target Cellphone. The collection of prospective location data pursuant to that Warrant and Order began on or about June 30, 2020 and remains ongoing.
+
+11. On the afternoon of June 30, 2020, and in the process of re-reviewing certain relevant phone data in connection with another potential application, I realized that my June 29, 2020 Agent Affidavit contained two inadvertent errors. First, the Agent Affidavit incorrectly stated that the Target Cellphone had been in contact with a phone identified as the Isabel Maxwell Phone within the last 30 days. In fact, the Target Cellphone was most recently in contact with the Isabel Maxwell Phone in or about May 2020, or within the last 60 days, not the last 30 days. Second, the Agent Affidavit incorrectly stated that the Target Cellphone had been in contact with a phone identified as the Scott Borgerson Phone within the last 30 days. In fact, the Target Cellphone was most recently in contact with the Scott Borgerson Phone in or about March 2020. The errors resulted from my misreading of certain phone records for the Target Cellphone. In particular, while one
+
+^1 The original application also sought authorization for Cellphone Location and Pen Register information for a second Target Cellphone, [REDACTED], which was identified as Target Cellphone-1 in that application and which was also granted on or about June 29, 2020. Because there were no errors in my affidavit with respect to Target Cellphone-1, this Amended Affidavit does not seek a Second Warrant and Order with respect to that phone.
+
+5
+2019.07.24                                                                                               EFTA00020383
+
+## Structured Fields
+- **Date:** June 30, 2020; June 29, 2020; May 2020; March 2020; 2019.07.24 (stamp)
+- **Docket Number:** 20 Mag. 6770
+- **Judge:** Katharine H. Parker (United States Magistrate Judge)
+- **Names:** Isabel Maxwell, Scott Borgerson
+- **Organizations:** FBI, United States
+- **Exhibits:** Exhibit C, Exhibit D
+- **Case ID/Ref:** EFTA00020383
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+column in those records indicated that the Isabel Maxwell Phone and Scott Borgerson Phone had themselves been active within the last 30 days, I mistook those dates to be the dates of those phones’ most recent contact with the Target Cellphone. I submit this Amended Agent Affidavit now to inform the Court of the error, to set forth a corrected statement of the facts supporting probable cause, and to seek a Second Warrant and Order authorizing the FBI to continue receiving prospective location data for the Target Cellphone.
+
+12. As detailed in my original affidavit, and based on my review of AT&T records, I have learned that the Target Cellphone is subscribed in the name of “G Max,” which appears to be a shortened version of GHISLAINE MAXWELL’s name. I further know from my review of AT&T records the following:
+
+    a. The Target Cellphone has been active within the last 30 days.
+
+    b. The Target Cellphone has been in contact with a phone subscribed to the business “Haddon, Morgan, & Foreman,” which I know from my review of court records is the name of a law firm that currently represents GHISLAINE MAXWELL in civil litigation (the “Haddon, Morgan, & Foreman Phone”). The most recent contact between The Target Cellphone and the Haddon, Morgan, & Foreman Phone occurred within the last 30 days.
+
+    c. The Target Cellular Device has also been in contact with a phone subscribed to in the name of “Laura Menninger,” which I know from my review of court records is the name of an attorney who currently represents GHISLAINE MAXWELL in civil litigation (the “Laura Menninger Phone”). The most recent contact between The Target Cellular Device and the Laura Menninger Phone occurred within the last 30 days.
+
+    d. The Target Cellular Device has also been in contact with a phone subscribed to in the name of “Isabel Maxwell,” which I know from my review of a law enforcement database is
+
+2019.07.24
+6
+EFTA00020384
+
+## Structured Fields
+- **Date**: 2019.07.24
+- **Page Number**: 6
+- **Document ID**: EFTA00020384
+- **Names Mentioned**: Isabel Maxwell, Scott Borgerson, G Max, GHISLAINE MAXWELL, Laura Menninger
+- **Organizations**: AT&T, FBI, Haddon, Morgan, & Foreman
+- **Context**: Amended Agent Affidavit / Warrant Application
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+the name of GHISLAINE MAXWELL’s sister (the “Isabel Maxwell Phone”). The most recent contact between The Target Cellular Device and the Isabel Maxwell Phone occurred in or about May 2020.
+
+e. The Target Cellular Device has also been in contact with a phone subscribed to
+in the name of “Scott Borgerson,” which I know from my review of bank records and Amazon
+records is the name of an individual with whom GHISLAINE MAXWELL shares a joint bank
+account and to whom MAXWELL’s Amazon account has sent multiple packages within
+approximately the last year (the “Scott Borgerson Phone”). The most recent contact between The
+Target Cellular Device and the Scott Borgerson Phone occurred in or about March 2020.
+
+13. Accordingly, I respectfully submit that there is probable cause to believe that the
+location of the Target Cellphone will reveal the location of GHISLAINE MAXWELL.
+
+**III. Request for Second Warrant and Order**
+
+14. Based on the foregoing, I respectfully request that the Court require the Service
+Provider to provide the Requested Information as specified further in the Second Warrant and
+Order proposed herewith, including prospective precision location and cell site data for a period
+of 45 days from the date of this Order, historical cell site data and toll records for the period from
+June 1, 2020 through the date of this Order, and pen register information for a period of 45 days
+from the date of this Order.
+
+1. **Nondisclosure**. The scope of this ongoing criminal investigation and existence of
+the Indictment and Arrest Warrant are not publicly known. As a result, premature public disclosure
+of this affidavit or the requested Second Warrant and Order could alert GHISLAINE MAXWELL
+that she is under investigation and subject to arrest, causing her to destroy evidence, flee from
+prosecution, or otherwise seriously jeopardize the investigation. Specifically:
+
+2019.07.24 7 EFTA00020385
+
+## Structured Fields
+*   **Date:** July 24, 2019 (Document date), June 1, 2020 (Historical record start date)
+*   **Page Number:** 7
+*   **Names:** Ghislaine Maxwell, Isabel Maxwell, Scott Borgerson
+*   **Organizations/Entities:** The Target Cellular Device, Amazon
+*   **Case ID / Document ID:** EFTA00020385
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+a. As evidenced by the charges alleged in the Indictment, MAXWELL is known to have participated in acts of sexual abuse of minors. Alerting her to the existence and scope of the investigation may lead her to intimidate witnesses. See 18 U.S.C. § 2705(b)(1),(4).
+
+b. Additionally, the Target Subject is at liberty in the community. Premature disclosure of the existence of this application and the charges contained in the Indictment could result in the Target Subject fleeing from prosecution if she were made aware of the pending charges before arrest. See 18 U.S.C. § 2705(b)(2).
+
+15. Accordingly, there is reason to believe that, were the Service Provider to notify the subscriber or others of the existence of the warrant, the investigation would be seriously jeopardized. Pursuant to 18 U.S.C. § 2705(b), I therefore respectfully request that the Service Provider be directed not to notify the Subscriber or others of the existence of the Second Warrant and Order for a period of one year, and that the Second Warrant and Order and all supporting papers be maintained under seal until the Court orders otherwise, as specified in the Amended Application submitted in conjunction with this Amended Affidavit.
+
+[REDACTED]
+Special Agent
+Federal Bureau of Investigation
+
+Sworn to before me this 30 day of June, 2020 *sworn to before me by reliable electronic means (telephone) pursuant to Fed. R. Crim. P 4.1
+
+Katharine H Parker
+HONORABLE KATHARINE H. PARKER
+United States Magistrate Judge
+Southern District of New York
+
+2019.07.24                                                                8                                                              EFTA00020386
+
+## Structured Fields
+- Date: June 30, 2020 (document date); July 24, 2019 (footer timestamp)
+- Location: Southern District of New York
+- Names: MAXWELL, Katharine H. Parker
+- Organizations: Federal Bureau of Investigation, United States Magistrate Judge
+- Doc ID: EFTA00020386
+- Law Cited: 18 U.S.C. § 2705(b)(1),(4); 18 U.S.C. § 2705(b)(2); Fed. R. Crim. P 4.1
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Original
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+In re: Second Warrant and Order For
+Prospective and Historical Location
+Information and Pen Register
+Information for the Cellphone Assigned
+Call Number [REDACTED] USAO
+Reference No. 2018R01618
+
+SECOND
+WARRANT AND ORDER
+
+20 Mag. 6828
+
+Second Warrant and Order
+for Cellphone Location Information and Pen Register Information
+and for Sealing and Non-Disclosure
+
+TO: AT&T (“Service Provider”), and any subsequent provider of service to the Target
+Cellphone specified below (“Subsequent Service Provider”)
+
+Federal Bureau of Investigation (“Investigative Agency”)
+
+Upon the Application and Agent Affidavit submitted by the Government in this matter:
+
+I. Findings
+
+The Court hereby finds:
+
+1. The Target Cellphone (the “Target Cellphone”) that is the subject of this Order is
+assigned call number [REDACTED], is subscribed to in the name of “G Max” (the “Subscriber”),
+and is currently serviced by the Service Provider.
+
+2. Pursuant to 18 U.S.C. § 2703(c)(1)(A) and the applicable provisions of Rule 41 of the
+Federal Rules of Criminal Procedure, the Government’s application sets forth probable cause to
+believe that the prospective and historical location information for the Target Cellphone will reveal
+the location of a person to be arrested for suspected violations of 18 U.S.C. §§ 371, 2422, 2423(a),
+and 1623 (“the Subject Offenses”).
+
+3. Pursuant to 18 U.S.C. § 2703(d), the Government’s application also sets forth specific
+and articulable facts showing that there are reasonable grounds to believe that the toll records for
+the Target Cellphone are relevant and material to an ongoing criminal investigation.
+
+2019.07.24
+
+EFTA00020387
+
+## Structured Fields
+*   **Date:** 2019.07.24 (Footer); 20 Mag. (Header)
+*   **Case ID / Reference No.:** 2018R01618
+*   **Document Number:** 20 Mag. 6828
+*   **Location:** SOUTHERN DISTRICT OF NEW YORK
+*   **Court:** UNITED STATES DISTRICT COURT
+*   **Organizations:** AT&T, Federal Bureau of Investigation (FBI)
+*   **Subscriber Name:** G Max
+*   **Statutes Cited:** 18 U.S.C. § 2703(c)(1)(A), Rule 41, 18 U.S.C. §§ 371, 2422, 2423(a), 1623, 18 U.S.C. § 2703(d)
+*   **Internal ID:** EFTA00020387
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+4. Pursuant to 18 U.S.C. § 3123(b)(1), the Government has certified that the pen register information for the Target Cellphone is relevant to an ongoing investigation by the Investigating Agency of GHISLAINE MAXWELL and others unknown in connection with suspected violations of the Subject Offenses.
+
+5. Pursuant to 18 U.S.C. § 2705(b), there is reason to believe that notification of the existence of this Warrant and Order will result in flight from prosecution, and/or intimidation of potential witnesses, or otherwise will seriously jeopardize an ongoing investigation.
+
+NOW, THEREFORE, pursuant to Fed. R. Crim. P. 41, 18 U.S.C. §§ 3121 *et seq.*, 18 U.S.C. §§ 2701 *et seq.*, and 18 U.S.C. § 3103a, IT IS HEREBY ORDERED:
+
+**II. Order to Service Provider**
+
+6. **Service Provider.** This Order shall apply to the Service Provider specified above, and to any subsequent provider of service to the Target Cellphone without need for further Order of this Court.
+
+7. **Prospective Location Information.** The Service Provider shall provide to the Investigating Agency on a prospective basis, for a period of 45 days from the date of this Order, information concerning the location of the Target Cellphone (“Prospective Location Information”), including all available:
+
+    a. precision location information, including GPS data, E-911 Phase II data, and latitude-longitude data; and
+
+    b. cell site data, including any data reflecting (a) the cell towers and sectors thereof utilized in routing any phone, text, or data communication to or from the Target Cellphone, and (b) the approximate range of the target phone from the cell towers during the communication (including per-call measurement (“PCM”) or round-trip time (“RTT”) data);
+
+2019.07.24 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2
+
+EFTA00020388
+
+## Structured Fields
+- **Date**: 2019.07.24
+- **Document ID**: EFTA00020388
+- **Name**: GHISLAINE MAXWELL
+- **Legal Authorities**: 18 U.S.C. § 3123(b)(1), 18 U.S.C. § 2705(b), Fed. R. Crim. P. 41, 18 U.S.C. §§ 3121 et seq., 18 U.S.C. §§ 2701 et seq., 18 U.S.C. § 3103a
+- **Duration**: 45 days
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+8. Historical Location Information and Toll Records. The Service Provider shall provide to the Investigating Agency all available historical cell site location information reflecting the cell towers and sectors thereof utilized in routing any phone, text, or data communication to or from the Target Cellphone, and the approximate range of the target phone from the cell towers during the communication (PCM/RTT data), for the period from June 1, 2020 through the present, as well as all available toll records (including call detail, SMS detail, or data session detail records) for the communications.
+
+9. Pen register with caller identification and/or trap and trace device. The Service Provider shall provide to the Investigating Agency, for a period of 45 days from the date of this order, all dialing, routing, addressing, or signaling information associated with each voice, text, or data communication transmitted to or from the Target Cellphone, including but not limited to:
+
+a. any unique identifiers associated with the phone, including ESN, MEIN, MSISDN, IMSI, IMEI, SIM, MIN, or MAC address;
+
+b. source and destination telephone numbers and/or Internet protocol (“IP”) addresses^1
+
+c. date, time, and duration of the communication; and
+
+d. cell-site information as specified above.
+
+1 The Service Provider is not required to provide post-cut-through dialed digits (“PCTDD”), or digits that are dialed after a telephone call from the Target Phone has been connected. If possible, the Service Provider will forward only pre-cut-through-dialed digits to the Investigative Agency. However, if the Service Provider’s technical capabilities require it to forward all dialed digits, including PCTDD, to the Investigative Agency, the Investigative Agency will only decode and forward to the agents assigned to the investigation, the numbers that are dialed before the call is cut through.
+
+2019.07.24
+
+3
+
+EFTA00020389
+
+## Structured Fields
+- **Date:** 2019.07.24
+- **Page Number:** 3
+- **Document ID:** EFTA00020389
+- **Time Period Mentioned:** June 1, 2020 through the present; 45 days from date of order
+- **Parties/Organizations:** Service Provider, Investigating Agency, Target Cellphone/Target Phone
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+10. Technical Assistance. The Service Provider shall furnish the Investigating Agency all information, facilities, and technical assistance necessary to accomplish the disclosure of all of the foregoing information relating to the Target Cellphone unobtrusively and with the minimum interference to the service presently provided to the Subscriber.
+
+11. Non-Disclosure to Subscriber. The Service Provider, including its affiliates, officers, employees, and agents, shall not disclose the existence of this Warrant and Order, or the underlying investigation, to the Subscriber or any other person, for a period of one year from the date of this Warrant and Order, subject to extension upon application to the Court, if necessary.
+
+2019.07.24
+4
+EFTA00020390
+
+## Structured Fields
+- Date: 2019.07.24
+- Page Number: 4
+- Document ID: EFTA00020390
+
+## Page 20 (DOC) [TAG:DOJ_CLEAN_V2]
+
+III. Additional Provisions
+
+12. **Compensation for Costs.** The Investigating Agency shall compensate the Service Provider for reasonable expenses incurred in complying with the Warrant and this Order.
+
+13. **Sealing.** This Warrant and Order, and the supporting Application and Agent Affidavit, shall be sealed until otherwise ordered by the Court, except that the Government may without further order of this Court: serve this Warrant and Order on the Service Provider; provide copies of the Warrant and Order or the supporting Application and Agent Affidavit as need be to personnel assisting the Government in the investigation and prosecution of this matter; and disclose these materials as necessary to comply with discovery and disclosure obligations in any prosecutions related to this matter.
+
+Dated: New York, New York
+
+6/30/2020                                    10:08 a.m.
+Date Issued                                 Time Issued
+
+Katharine H Park
+UNITED STATES MAGISTRATE JUDGE
+Southern District of New York
+
+2019.07.24                                                                       5                                                                 EFTA00020391
+
+## Structured Fields
+- **Date**: 6/30/2020
+- **Time Issued**: 10:08 a.m.
+- **Secondary Date**: 2019.07.24 (Footer)
+- **Location**: New York, New York; Southern District of New York
+- **Name**: Katharine H Park
+- **Title/Role**: UNITED STATES MAGISTRATE JUDGE
+- **Document ID**: EFTA00020391
+- **Entities**: Investigating Agency, Service Provider, Government, Court
+

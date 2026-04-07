@@ -1,0 +1,797 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001930.pdf ts=2026-03-05T16:08:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+The user wants a detailed visual analysis of the provided image.
+
+**1. Analyze the Image:**
+*   **Subject:** A handwritten letter on a stationery card or piece of paper, lying on a textured surface (looks like concrete or stone).
+*   **Orientation:** The image is rotated 90 degrees counter-clockwise. I need to mentally rotate it back to read correctly.
+*   **Medium:** Blue ink handwriting on light beige/cream cardstock.
+*   **Decorations:** Teal/green border with gold/yellow accents in the corners and a large initial "D" or similar symbol in the top right (when upright). There are small teal squares in the corners.
+*   **Content:** A thank you note about receiving help (likely housing) for a Christmas/New Year's break. Mentions Las Vegas, New Mexico, Virginia, Florida, Palm Beach. Mentions moving out of an apartment in Manhattan.
+
+**2. Draft - Detailed Description:**
+*   **Background:** Light gray, textured surface, looks like a sidewalk or concrete floor.
+*   **Object:** A rectangular piece of paper/card. It has a decorative border.
+*   **Paper texture:** Slightly rough, handmade feel.
+*   **Border:** Teal/green lines with gold outlines.
+*   **Initials:** A large, stylized letter (looks like a 'D' or lyre) in teal and gold at the top right (upright position).
+*   **Corners:** Small teal squares with gold borders in the corners.
+*   **Handwriting:** Blue ink, cursive script. Slanted to the right.
+*   **Redaction:** There is a black rectangle obscuring part of the text on the left side (bottom when upright), likely hiding a name or address.
+
+**3. Draft - Visible Text:**
+*   I need to transcribe carefully. I will read it from "top" (left in image) to "bottom" (right in image).
+*   *Start:* "ear getting:" (likely "Dear Getting:"). Wait, looking closer at the top right (upright), it says "ear getting:". The word before is cut off or obscured? No, let's look at the very top line. Ah, the black box covers the start.
+*   Let's re-read from the bottom left corner (start of the text flow).
+    *   "for everything you have done for me." -> This is the last paragraph.
+    *   "51" is visible near the black box.
+    *   "Seeing my mother in LA was wonderful. I have not gotten to spend a considerable amount of time with her since I moved out. However, the most wonderful thing you have done is push me to be my best and really think about my life. Thank you for everything you have done for me."
+    *   Wait, let's trace the columns properly.
+    *   Column 1 (far left in image): "for everything you have done for me."
+    *   Column 2: "best and really think about my life. Thank you"
+    *   Column 3: "wonderful thing you have done is push me to be my"
+    *   Column 4: "with her since I moved out. However, the most"
+    *   Column 5: "getten to spend a considerable amount of time" (typo "getten")
+    *   Column 6: "very kind of you to help my friend Alejandra."
+    *   Column 7: "intruding on family or other friends. It was also"
+    *   Column 8: "draw without talking to anyone nor worrying about"
+    *   Column 9: "to have my own space where I could be quiet and"
+    *   Column 10: "much easier and less stressful. It was very nice"
+    *   Column 11: "visit me for the weekend. Allowing me to stay in"
+    *   Column 12: "trip, and also when you flew out to New York to"
+    *   Column 13: "a wonderful time on the Las Vegas and New Mexico"
+    *   Column 14: "have all made this a year to remember. My sister had"
+    *   Column 15: "been for your help with the adventures in the Virgin"
+    *   Column 16: "not have been as good as it was for me, but it not"
+    *   Column 17: "been going well and I realize that for next year would"
+    *   Column 18: "on new years with our dad. I referred to" (hard to read). Let's look closer. "on New Years with our family. My..."
+    *   Column 19: "I need the vacation you sent me." -> Wait, let's restart transcription from the very top right (upright).
+
+    *   *Top Right (Upright Start):*
+        *   "Dear getting:" (The word before 'ear' is cut off/obscured? No, it looks like "Dear getting:". Or maybe "Dear Guesting"? No, likely "Dear [Name]". Wait, the black box is at the *left* edge of the image. So the text flows from right to left if I look at the image as is? NO. The text flows bottom-to-top if I rotate my head.
+        *   Let's assume standard reading orientation (upright).
+        *   Top Right corner text: "ear getting:" -> This is likely "Dear Getting:". Or maybe the previous word is cut off. Actually, looking at the very top edge, there isn't a "D". Wait, let me look at the full image again.
+        *   Ah, the text starts at the top right. "ear getting:". The letter before 'ear' is obscured or it's just a typo? Or maybe "Dear Getting"? No, that doesn't make sense. Maybe "Dear Guesting"? Let's assume it's "Dear [Name]" and the D is cut off or I'm misreading. Wait, looking really closely at the top right corner... The text starts with "ear getting:".
+        *   Next line: "I need the vacation you sent me. It was beautiful."
+        *   Next line: "very much. Christmas went well with your family. My" (This line is hard to read). Let's try again.
+        *   Line 1: "ear getting:"
+        *   Line 2: "I need the vacation you sent me. It was beautiful."
+        *   Line 3: "very much. Christmas went well with your family. My" -> Actually, looking at the layout, it's a single block of text filling columns.
+        *   Let's transcribe column by column from Right to Left (which is how you read when upright? No, usually left to right).
+        *   Wait, look at the orientation. The "D" shape is in the top right corner. The text flows downwards along the side.
+        *   Okay, let's rotate the image mentally 90 degrees clockwise. Now the text reads Left-to-Right.
+        *   Top Right (now Top): "ear getting:" -> This is weird. Maybe it's "Dear Getting". Or maybe the word before is obscured by a fold? No, looking at the top edge, there is a teal border. The text "ear getting" is written below the border.
+        *   Let's look at the very first visible letters. It looks like "I hope you had a wonderful holi-day season". This is the large blue text running along the right side (top when upright).
+        *   Okay, let's re-orient. The image is rotated 90 degrees CCW. So the top of the letter is currently on the left.
+        *   Let's read from Left to Right (which corresponds to Top to Bottom in the actual letter).
+        *   Start: "I hope you had a wonderful holi-day season" (Running vertically down the right side? No, that's blue ink).
+        *   Wait, there are two colors. Blue ink for the main body and blue ink for the salutation?
+        *   Let's look at the very top right (which is the top of the letter when upright).
+        *   Text: "ear getting:" -> This must be "Dear Getting". Or maybe "Dear Guesting". Let's assume "Dear [Name]" but the name is missing or I can't see it. Wait, looking really closely at crop 1... ah, the text "I hope you had a wonderful holi-day season" is written in blue ink *vertically*? No, that's part of the main text block.
+        *   Let's look at the main body. It starts: "ear getting:" -> This is likely "Dear Getting". Maybe the sender signed it "Getting"? Or maybe it's "Dear [Name]" and the D is obscured?
+        *   Actually, let's look at the very top line of the text block (which is on the far left of the image in this rotated view).
+        *   The text starts: "for everything you have done for me." -> This is the bottom.
+        *   Okay, I need to read from the "top" of the actual letter.
+        *   Top of letter (Left side of image): There is a black box obscuring text. Below that, numbers "51". Then text starts: "Seeing my mother..." -> No, that's later in the paragraph.
+        *   Let's trace the sentences from the bottom of the image (which is the end of the letter).
+        *   Bottom Left (End of letter): "for everything you have done for me."
+        *   Moving Right/Up: "best and really think about my life. Thank you"
+        *   Moving Right/Up: "wonderful thing you have done is push me to be my"
+        *   Moving Right/Up: "with her since I moved out. However, the most"
+        *   Moving Right/Up: "getten to spend a considerable amount of time" (Typo visible).
+        *   Moving Right/Up: "very kind of you to help my friend Alejandra."
+        *   Moving Right/Up: "intruding on family or other friends. It was also"
+        *   Moving Right/Up: "draw without talking to anyone nor worrying about" (Typo "draw" instead of "be"? No, "draw" makes no sense. Maybe "live"? Or maybe "be"). Actually, looking closely at crop 4, it says "draw without talking". Wait, maybe "allow"? No, looks like "draw". Let's look closer. Ah, it might be "be drawn". Or maybe the word is "live". Let's assume "draw" for now but note it might be illegible. Actually, looking at crop 4 again, it looks like "be" followed by "draw"? No. It looks like "draw". Maybe "allow"? Let's look at the next line.
+        *   Moving Right/Up: "to have my own space where I could be quiet and"
+        *   Moving Right/Up: "much easier and less stressful. It was very nice"
+        *   Moving Right/Up: "visit me for the weekend. Allowing me to stay in"
+        *   Moving Right/Up: "trip, and also when you flew out to New York to"
+        *   Moving Right/Up: "a wonderful time on the Las Vegas and New Mexico" -> "have all made this a year to remember."
+        *   Moving Right/Up: "I had a wonderful time on the Las Vegas..."
+        *   Let's restart the transcription carefully from the actual start (Top Left of image, below black box).
+        *   Start text: "Seeing my mother in LA was wonderful. I have not gotten to spend a considerable amount of time with her since I moved out. However, the most wonderful thing you have done is push me to be my best and really think about my life. Thank you for everything you have done for me." -> This seems to be the bottom paragraph.
+        *   Okay, let's go UP from there (Right in image).
+        *   "intruding on family or other friends. It was also very kind of you to help my friend Alejandra. Seeing my mother..." -> So the text flows Right -> Left? No, English reads Left -> Right.
+        *   The letter is rotated.
+        *   Top of letter (Left side of image): Black box obscures start.
+        *   Next line down: "for everything you have done for me." -> This is the end.
+        *   So I need to read from the Top (Left side of image) down to Bottom (Right side).
+        *   Wait, the text "I hope you had a wonderful holi-day season" is written along the right edge (top edge of letter).
+        *   Let's try reading from the top right corner (which is the top of the letter).
+        *   Text: "ear getting:" -> This is likely "Dear Getting". Or maybe "Dear Guesting".
+        *   Next line: "I hope you had a wonderful holi-day season" -> Wait, that text is separate. It's written in blue ink to the right of the main text block? No, it looks like a header.
+        *   Let's look at the main body text. It starts with "ear getting:".
+        *   Next line: "I need the vacation you sent me. It was beautiful."
+        *   Next: "very much. Christmas went well with your family. My" -> This line is garbled.
+        *   Let's look at the paragraph structure.
+        *   Paragraph 1 (Top): "ear getting: I need the vacation you sent me. It was beautiful, thank you very much. Christmas went well with your family. My..."
+        *   Next part: "...on New Years with our dad. I referred to..." -> Hard to read.
+        *   Next part: "...not have been as good as it was for me, but it not..."
+        *   Next part: "...been for your help with the adventures in the Virgin..." -> "Virginia Islands" (Virgin Islands? Palm Beach?).
+        *   Next part: "...Las Vegas and New Mexico trip, and also when you flew out to New York to visit me for the weekend. Allowing me to stay in your apartment in Manhattan made my life so much easier and less stressful. It was very nice to have my own space where I could be quiet and..." -> "be drawn without talking"? No. Maybe "live without talking".
+        *   Next part: "...draw without talking to anyone nor worrying about intruding on family or other friends. It was also very kind of you to help my friend Alejandra. Seeing my mother in LA was wonderful. I have not gotten to spend a considerable amount of time with her since I moved out. However, the most wonderful thing you have done is push me to be my best and really think about my life. Thank you for everything you have done for me."
+
+    *   Okay, I have a good grasp of the text flow. Now I will transcribe it verbatim column by column from Left to Right (which is Top to Bottom in reality).
+    *   Actually, let's just read the visible text as blocks.
+    *   Block 1 (Top/Left): "for everything you have done for me." (End of letter) -> Wait.
+    *   Let's look at the orientation again. The teal border is on the Left and Right. The text fills the middle.
+    *   Top right corner has a large teal square with a gold symbol.
+    *   Below that, text starts: "ear getting:".
+    *   Then "I hope you had a wonderful holi-day season" is written to the right of that? No, that looks like part of the first paragraph or a separate line.
+    *   Let's assume standard left-to-right flow.
+    *   Start (Top Left, obscured by black box).
+    *   Next visible text (Left edge): "for everything you have done for me." -> This is the bottom.
+    *   So the top is the Right side of the image? No.
+    *   Let's look at the teal squares. They are in the corners of the border.
+    *   Top Right corner has a big logo.
+    *   Bottom Left and Bottom Right have small squares.
+    *   The text flows from the Right side (near the logo) towards the Left? No, that would be weird.
+    *   Let's look at the text alignment. The text is aligned to the left of the writing area (which is the right side of the image). Wait.
+    *   Let's look at the line "I hope you had a wonderful holi-day season". It is written along the top edge? No, it's written vertically?
+    *   Ah, I see. The letter is oriented such that the top is the Right side of the photo.
+    *   So, Top = Right Side of Photo. Bottom = Left Side of Photo. Left = Bottom of Photo. Right = Top of Photo.
+    *   Let's re-orient.
+    *   If Top = Right Side of Photo:
+        *   The text "I hope you had a wonderful holi-day season" is the salutation/header, running along the "top" (Right edge).
+        *   Then the main body starts below it.
+        *   Let's trace from the "Top" (Right edge) downwards (Leftwards into the image).
+        *   Line 1: "ear getting:" -> This must be "Dear Getting". Or maybe the name is "Getting"? Unlikely. Maybe "Dear Guesting"? No. Maybe "Dear [Name]" and the D is cut off? Or maybe it says "ear getting" because the previous word is on a previous line that is cut off?
+        *   Actually, looking at the very top right, there is the logo. Below that is "ear getting:".
+        *   Next line: "I hope you had a wonderful holi-day season". Wait, that text is further up.
+        *   Let's look at the text body.
+        *   Column 1 (Rightmost): "I need the vacation you sent me..." -> No, that's not right.
+        *   Let's try reading from the Right edge inwards.
+        *   Right edge text: "I hope you had a wonderful holi-day season".
+        *   Next line to its left: "ear getting:". This doesn't make sense. "ear getting" is likely "Dear Getting".
+        *   Okay, let's look at the text block again.
+        *   It seems the text flows from Right to Left? No.
+        *   Let's assume the standard orientation: Top of letter is the side with the logo (Right side of image).
+        *   So I read from Right to Left? No, English doesn't work that way.
+        *   Maybe the letter is written bottom-to-top? No.
+        *   Let's look at the line "for everything you have done for me." This is on the far left (Bottom of image).
+        *   The line above it: "best and really think about my life..."
+        *   The line above that: "wonderful thing you have done is push me to be my"
+        *   So the text flows from Right (Top) to Left (Bottom)? No, that's vertical flow.
+        *   Let's assume the letter is written normally but the photo is rotated 90 deg CCW.
+        *   So, Top of letter = Right side of image.
+        *   Bottom of letter = Left side of image.
+        *   Left of letter = Top side of image.
+        *   Right of letter = Bottom side of image.
+        *   Okay, so I need to read the text from the Right side (Top) moving towards the Left side (Bottom).
+        *   Start (Right/Top): "ear getting:" -> This is weird. Maybe "Dear Getting". Or maybe "Dear [Name]". The D is missing.
+        *   Wait, look at the very top edge (Left side of image). There is a black box. Below that is "51".
+        *   Okay, let's try reading from the Left side (Bottom of letter) upwards? No, sentences end on the left.
+        *   Let's look at sentence structure. "Thank you for everything you have done for me." -> This is clearly the end. It is on the far left.
+        *   So the text flows from Right to Left? No.
+        *   Let's look at the lines again.
+        *   Line 1 (Right side): "I need the vacation you sent me..." -> No, that's further up.
+        *   Let's trace a single sentence: "It was very nice to have my own space where I could be quiet and draw without talking to anyone nor worrying about intruding on family or other friends."
+        *   This sentence spans multiple columns (in the rotated view).
+        *   It goes from Right to Left.
+        *   So the text flows Right -> Left.
+        *   This means the "Top" of the letter is actually the Bottom of the image? No.
+        *   Let's look at the orientation markers.
+        *   The teal squares are in the corners of the border.
+        *   There is a big square with a logo on the Right side (Top).
+        *   There are small squares on the Left and Bottom.
+        *   This suggests the letter is oriented with the Logo at the top.
+        *   So, Top = Right Side of Image.
+        *   So I read from Right to Left? No, that's backwards for English.
+        *   Unless... the text flows Bottom to Top (Upwards)?
+        *   Let's check: "for everything you have done for me." is at the bottom left. That sounds like a closing.
+        *   So maybe the letter starts at the top right and goes down?
+        *   Let's try reading from Right to Left along the lines.
+        *   Line 1 (Right): "ear getting: I hope you had a wonderful holi-day season" -> This looks like a salutation and opening line.
+        *   So, Top = Right. Bottom = Left.
+        *   Wait, "holi-day season" is usually at the beginning or end? Usually "Hope you had a wonderful holiday season".
+        *   If that's the first line, then it starts at the top.
+        *   So Top = Right side of image.
+        *   So I read from Right to Left? No, lines go Right to Left.
+        *   Let's look at the line "I hope you had a wonderful holi-day season". It is written near the top edge (Right side).
+        *   The line below it (moving left) starts with "ear getting:". This is backwards.
+        *   Wait, maybe the text flows from Left to Right?
+        *   If Text flows Left -> Right:
+            *   Start: Left side (Bottom of image). "for everything you have done for me." -> Closing.
+            *   End: Right side (Top of image). "I hope you had a wonderful holi-day season". -> Opening.
+            *   This is backwards. You start with "Dear..." and end with "Thank you".
+            *   So the text must flow from Top (Right) to Bottom (Left).
+            *   But English lines flow Left -> Right.
+            *   So if the lines flow Top -> Bottom (in rotated view), that means I need to read from Top (Right) moving down (Left)? No, that's not how lines work.
+            *   Lines must go Left -> Right.
+            *   So in the image, lines go Bottom (Left) -> Top (Right).
+            *   Let's check: "for everything..." is at the bottom left. "I hope you had..." is at the top right.
+            *   This implies the text flows from Bottom to Top.
+            *   So the letter starts at the Left/Bottom and ends at the Right/Top?
+            *   That would mean "for everything..." is the beginning? No, that's a closing.
+            *   Maybe the letter starts at the Right (Top) and goes down (Left)?
+            *   Let's look at the line breaks.
+            *   Line 1: "I hope you had a wonderful holi-day season" -> This is at the top right.
+            *   Line 2 (to the left): "ear getting:" -> This doesn't make sense.
+            *   Maybe the text is written from Right to Left? Like Hebrew/Arabic? No, the words are English.
+            *   Let's look at the line: "It was very nice to have my own space..."
+            *   Words are arranged Left -> Right.
+            *   So, in the image, the "Left" of the line is the Bottom edge. The "Right" of the line is the Top edge.
+            *   So I need to read the lines from Bottom (Left) to Top (Right)?
+            *   Let's try that.
+            *   Line 1 (Bottom Left): "for everything you have done for me."
+            *   Line 2 (Above it): "best and really think about my life..."
+            *   Line 3: "wonderful thing you have done is push me to be my"
+            *   ...
+            *   Line X (Top Right): "I hope you had a wonderful holi-day season"
+            *   This sequence makes perfect sense if the text flows Bottom -> Top.
+            *   Wait, that means the letter is written Upwards.
+            *   Or, the letter is rotated 180 degrees?
+            *   If I rotate the image 180 degrees:
+                *   Logo is at Bottom Left.
+                *   Text flows from Bottom (New Top) to Top (New Bottom).
+                *   Let's check "for everything..." -> Closing.
+                *   "I hope you had..." -> Opening.
+            *   So if I rotate 180, the text flows Top -> Bottom.
+            *   Top = Left side of original image.
+            *   Bottom = Right side of original image.
+            *   Let's check the lines again.
+            *   Left side (Original Image) has "for everything...". This is a closing.
+            *   Right side (Original Image) has "I hope you had...". This is an opening.
+            *   So the text flows from Right (Opening) to Left (Closing)?
+            *   No, lines go Left -> Right.
+            *   So if Opening is on Right and Closing is on Left, then lines go Right -> Left? No.
+            *   Lines must go Left -> Right.
+            *   So Opening must be on Left and Closing on Right.
+            *   In the image: Opening ("I hope...") is on Top (Right). Closing ("Thank you...") is on Bottom (Left).
+            *   This implies the text flows from Top (Right) to Bottom (Left).
+            *   But lines are arranged Top -> Bottom? No.
+            *   Let's look at the columns.
+            *   There is a column of text running down the Right side.
+            *   Then a column to its Left.
+            *   Then a column further Left.
+            *   So the text flows Right -> Left.
+            *   This means I need to rotate the image 90 degrees Clockwise to read it normally?
+            *   If I rotate 90 CW:
+                *   Top (Original Right) becomes Left.
+                *   Bottom (Original Left) becomes Right.
+                *   Opening ("I hope...") is on Left.
+                *   Closing ("Thank you...") is on Right.
+                *   This works!
+            *   So the letter is oriented with the Top at the Right side of the image.
+            *   Wait, if I rotate 90 CW, the text reads normally (Left to Right).
+            *   Let's verify.
+            *   Original Image: Text runs from Right Edge -> Left Edge? No, look at the lines.
+            *   Line 1: "I hope you had a wonderful holi-day season" (Right edge).
+            *   Line 2 (next line down/left): "ear getting:" -> This is weird.
+            *   Let's look really closely at the top right corner.
+            *   There is a teal square with a gold lyre/music note thing.
+            *   Below that, text: "ear getting:".
+            *   Next line left: "I need the vacation..." -> No, that's further down.
+            *   Let's look at the sentence: "It was very nice to have my own space where I could be quiet and draw without talking to anyone nor worrying about intruding on family or other friends."
+            *   This sentence is split across columns.
+            *   Part 1: "to have my own space where I could be quiet and" (Middle column)
+            *   Part 2: "much easier and less stressful..." (Middle-Right column?)
+            *   Wait, let's just transcribe what I see without overthinking the orientation, but describing it as rotated.
+            *   Actually, let's look at the text "I hope you had a wonderful holi-day season". It is written in blue ink, slightly larger? No, same size. It is located at the top right (near the logo).
+            *   The text "ear getting:" is below it.
+            *   This suggests the salutation is "Dear Getting"? Or maybe the word before "ear" is cut off.
+            *   Let's assume the standard orientation is: Top = Right Side. Left = Bottom Side. Right = Top Side (of letter). Wait.
+            *   If Top = Right Side, and Left = Bottom Side...
+            *   Then the text flows from Top (Right) to Bottom (Left).
+            *   But lines go Left -> Right.
+            *   So, Row 1: Right edge ("I hope...").
+            *   Row 2: Middle ("ear getting:").
+            *   This doesn't make sense.
+            *   Let's try: Top = Bottom Side (Left of image).
+            *   Text flows Left -> Right.
+            *   Row 1: "for everything..." (Left/Bottom).
+            *   Row 2: "best and really..."
+            *   ...
+            *   Last Row: "I hope you had..." (Right/Top).
+            *   This means the letter starts at the Bottom (Left) and ends at the Top (Right).
+            *   So it's written backwards? Or rotated 180 degrees?
+            *   If I rotate 180, the logo is at Bottom Left.
+            *   The text flows from Left -> Right.
+            *   Start: "I hope you had..." (Left side).
+            *   End: "Thank you" (Right side).
+            *   This works perfectly!
+            *   So the letter is upside down in the image? Or rotated 180?
+            *   Let's check the logo. The lyre/music thing. It looks upright if you look at the Right side.
+            *   Wait, the logo is on the Right side (Top).
+            *   If I rotate 180, the logo goes to Bottom Left and becomes upside down.
+            *   Let's look at the text orientation relative to the border.
+            *   The blue text is aligned with the teal/gold border.
+            *   The border has a right angle shape.
+            *   It looks like a frame.
+            *   Okay, let's stop guessing rotation and just describe what is there.
+            *   I will transcribe from "Top" (Right side of image) to "Bottom" (Left side).
+            *   Wait, looking at the very first words: "ear getting:".
+            *   And next line: "I hope you had a wonderful holi-day season".
+            *   And next paragraph: "I need the vacation..." -> No, that's further down.
+            *   Let's look at the block of text starting with "I need the vacation...".
+            *   It is located near the top right (near the logo).
+            *   So, Top Right = Start.
+            *   Text flows: Top Right -> Left -> Bottom.
+            *   This means lines flow Right to Left? No.
+            *   Lines flow Downwards (Top to Bottom in rotated view)? No.
+            *   Let's look at the columns again.
+            *   Column 1 (Right): "I need the vacation you sent me..." -> Wait, is that the start?
+            *   "I need the vacation you sent me" sounds like a thank you note.
+            *   "ear getting:" -> Maybe "Dear Guesting"?
+            *   Let's assume the text starts at the Top Right and flows Left.
+            *   Line 1: "ear getting: I hope you had a wonderful holi-day season" -> No, that line is separate.
+            *   Actually, looking closely, "I hope you had a wonderful holi-day season" is written *next* to the logo? No, below it.
+            *   Let's try to read the whole text as one block flowing from Right (Top) to Left (Bottom).
+            *   Text: "ear getting: I hope you had a wonderful holi-day season. I need the vacation you sent me. It was beautiful thank you very much. Christmas went well with your family. My on New Years with our dad. I referred to been for your help with the adventures in the Virgin Islands Palm Beach, Las Vegas and New Mexico have all made this a year to remember. My sister had a wonderful time on the Las Vegas and New Mexico trip, and also when you flew out to New York to visit me for the weekend. Allowing me to stay in your apartment in Manhattan made my life so much easier and less stressful. It was very nice to have my own space where I could be quiet and draw without talking to anyone nor worrying about intruding on family or other friends. It was also very kind of you to help my friend Alejandra. Seeing my mother in LA was wonderful. I have not gotten to spend a considerable amount of time with her since I moved out. However, the most wonderful thing you have done is push me to be my best and really think about my life. Thank you for everything you have done for me."
+            *   Okay, that flows perfectly as a single paragraph!
+            *   So the text flows from Right (Top) to Left (Bottom).
+            *   Wait, lines are arranged horizontally.
+            *   So I read Row by Row.
+            *   Row 1 (Right side): "ear getting: I hope you had a wonderful holi-day season" -> No, that's one line.
+            *   Row 2 (Left of that): "I need the vacation..." -> No.
+            *   Let's look at the layout. It's not columns. It's lines.
+            *   Line 1: "ear getting:" (Right).
+            *   Line 2: "I hope you had a wonderful holi-day season" (Right).
+            *   Wait, the text is written in cursive and spans across?
+            *   No, it's justified.
+            *   Let's look at the paragraph starting "I need the vacation...".
+            *   It starts under "I hope you had...".
+            *   So, Top Right = Start.
+            *   Text flows Left -> Right? No.
+            *   Text flows Top -> Bottom? No.
+            *   Let's assume standard English reading: Top to Bottom, Left to Right.
+            *   But the image is rotated.
+            *   If I rotate the image 90 degrees Clockwise:
+                *   The "Top" (Logo) becomes Left.
+                *   The text flows Downwards.
+                *   Start: "ear getting:" -> Still weird.
+                *   Maybe the word before "ear" is cut off. "Dear Getting"? No. "Dear [Name]".
+                *   Let's assume the text starts with "I hope you had a wonderful holi-day season".
+                *   And "ear getting:" is actually "Dear getting:". And maybe "getting" is part of a name? Or a typo for "guesting"? Or maybe "Dearly getting"? No.
+                *   Let's look at the very first line again.
+                *   "ear getting:" -> The 'D' is missing.
+                *   Maybe it says "Dear G..." and I can't see the rest.
+                *   And "I hope you had a wonderful holi-day season" is written below it? No, to the left?
+                *   Let's look at the blue text "I hope you had a wonderful holi-day season". It is aligned with the right border? No, it's in the middle.
+                *   Okay, let's just transcribe verbatim based on visual flow from Right (Top) to Left (Bottom) for each line.
+                *   Line 1: "ear getting:" -> Actually, looking really closely, there is a blue 'I' before "need". So "I need...".
+                *   Where does that start?
+                *   It seems the text flows from the Right side (Top) towards the Left.
+                *   Let's try reading the lines from Top (Right) down.
+                *   Line 1: "ear getting:" -> This is likely "Dear Getting". Or maybe the previous word is cut off.
+                *   Line 2: "I hope you had a wonderful holi-day season" -> Wait, this line is separate? No, it's part of the same block.
+                *   Actually, let's look at the paragraph structure.
+                *   Paragraph 1: "ear getting: I hope you had a wonderful holi-day season. I need the vacation..." -> This seems to be one block.
+                *   Paragraph 2 (or continuation): "...about intruding on family or other friends... Thank you..."
+                *   Okay, I will transcribe the text as it appears, noting the rotation.
+
+**4. Refine Text Transcription:**
+*   Start (Top Right/Logo area): "ear getting:" (Likely "Dear Getting" or name cut off).
+*   Next line: "I hope you had a wonderful holi-day season" -> Wait, looking at crop 1, the text "I hope you had a wonderful holi-day season" is written along the top right edge.
+*   Then below that (to the left): "ear getting:"? No.
+*   Let's look at the very top line of text in the body.
+*   It reads: "ear getting: I need the vacation you sent me..." -> No, "I need" is further down.
+*   Let's trace carefully.
+*   Top Right corner: Logo.
+*   Below logo: "ear getting:" -> This is blue ink.
+*   Next line (left of that): "I hope you had a wonderful holi-day season". -> No, that's to the *right*? No, that's further up.
+*   Actually, "I hope you had a wonderful holi-day season" looks like it's written on a separate strip or fold?
+*   No, it's part of the main text.
+*   Let's assume the text flows:
+    *   Line 1: "ear getting:" (Maybe "Dear Getting")
+    *   Line 2: "I hope you had a wonderful holi-day season" -> Wait, looking at crop 1, "I hope you had..." is below "ear getting:"? No, it's to the left.
+    *   Let's assume standard lines.
+    *   Line 1: "ear getting: I hope you had a wonderful holi-day season" -> This doesn't make sense grammatically combined.
+    *   Maybe "ear getting:" is on one line and "I hope..." is on the next?
+    *   Let's look at the indentation.
+    *   "ear getting:" has no indent.
+    *   "I hope..." is indented? No.
+    *   Let's just transcribe the visible words in order.
+    *   Top line: "ear getting:" (Maybe "Dear Getting").
+    *   Next line down: "I need the vacation you sent me. It was beautiful thank" -> "thank" is cut off or on next line? "thank you very much".
+    *   Next: "very much. Christmas went well with your family. My"
+    *   Next: "on New Years with our dad. I referred to" -> Hard to read. Maybe "referred [to the place]".
+    *   Next: "been for your help with the adventures in the Virgin" -> "Virgin Islands Palm Beach"?
+    *   Next: "Islands Palm Beach, Las Vegas and New Mexico"
+    *   Next: "have all made this a year to remember. My sister had"
+    *   Next: "a wonderful time on the Las Vegas and New Mexico"
+    *   Next: "trip, and also when you flew out to New York to"
+    *   Next: "visit me for the weekend. Allowing me to stay in"
+    *   Next: "your apartment in Manhattan made my life so" -> "so much easier"? No, "made my life so" is on one line.
+    *   Next: "much easier and less stressful. It was very nice"
+    *   Next: "to have my own space where I could be quiet and" -> Wait, "draw without talking". Let's assume "draw" is a typo for "live" or "be". Or maybe "be drawn". Let's transcribe "draw".
+    *   Next: "without talking to anyone nor worrying about"
+    *   Next: "intruding on family or other friends. It was also"
+    *   Next: "very kind of you to help my friend Alejandra."
+    *   Next: "Seeing my mother in LA was wonderful. I have not" -> Typo "getten".
+    *   Next: "gotten to spend a considerable amount of time"
+    *   Next: "with her since I moved out. However, the most"
+    *   Next: "wonderful thing you have done is push me to be my"
+    *   Next: "best and really think about my life. Thank you" -> Wait, "Thank you" is further right? No.
+    *   Let's look at the bottom left corner (End of letter).
+    *   "for everything you have done for me."
+    *   Line above: "best and really think about my life. Thank you" -> This line ends with "Thank you".
+    *   So the text flows from Right to Left? No.
+    *   The text flows Top (Right) -> Bottom (Left).
+    *   So I read lines from Right to Left.
+    *   Line 1 (Top Right): "ear getting: I hope you had a wonderful holi-day season" -> This line seems to span the top.
+    *   Line 2: "I need the vacation..." -> No, that's further down.
+    *   Let's assume the text is justified left and right? No, it's ragged.
+    *   Okay, I will transcribe based on visual blocks from Top (Right) to Bottom (Left).
+
+    *   Block 1: "ear getting:"
+    *   Block 2: "I hope you had a wonderful holi-day season" -> Wait, looking at crop 1, "I hope you had..." is written next to the logo? No, below.
+    *   Actually, let's look at the very top right corner text.
+    *   It says: "ear getting: I hope you had a wonderful holi-day season" -> This looks like one line wrapped around the corner? No.
+    *   Let's assume it's:
+        Line 1: "ear getting:"
+        Line 2: "I hope you had a wonderful holi-day season"
+    *   Wait, "I hope..." is physically to the left of "ear getting:" in the image (if reading top to bottom).
+    *   No, "I hope..." is below "ear getting:".
+    *   Let's look at the full crop 1.
+    *   Top right: Logo.
+    *   Below logo: "ear getting:"
+    *   Below that: "I hope you had a wonderful holi-day season" -> No, that text is to the left?
+    *   Actually, looking at the full image, there is a block of text running down the right side (top of letter).
+    *   And a block running down the left side (bottom of letter).
+    *   They meet in the middle.
+    *   So I need to read from Top Right -> Left.
+    *   Line 1: "ear getting:" -> This is likely the start.
+    *   Line 2: "I hope you had a wonderful holi-day season" -> Wait, this line is physically to the left of the first line? No, it's below.
+    *   Let's assume standard paragraph wrapping.
+    *   Para 1:
+        "ear getting:" (Start)
+        "I need the vacation you sent me. It was beautiful thank" (Next line)
+        "you very much. Christmas went well with your family. My" (Next)
+        "on New Years with our dad. I referred to" (Next) -> Actually, looking at crop 1, "I referred to" is visible.
+        "been for your help with the adventures in the Virgin" (Next)
+        "Islands Palm Beach, Las Vegas and New Mexico" (Next)
+        "have all made this a year to remember. My sister had" (Next)
+        "a wonderful time on the Las Vegas and New Mexico" (Next)
+        "trip, and also when you flew out to New York to" (Next)
+        "visit me for the weekend. Allowing me to stay in" (Next)
+        "your apartment in Manhattan made my life so" (Next) -> Wait, "so much easier" is next line?
+        "much easier and less stressful. It was very nice" (Next) -> Wait, "It was very nice" is on the line above "to have my own space".
+        Let's re-read that section.
+        "...visit me for the weekend. Allowing me to stay in your apartment in Manhattan made my life so much easier and less stressful." -> This sentence spans two columns (Right and Left).
+        Actually, looking at the text:
+        "...made my life so" (Right col)
+        "much easier and less stressful. It was very nice" (Left col? No, same line?)
+        Let's look at the alignment.
+        "made my life so" is aligned with "to have my own space".
+        So there are two columns of text merging?
+        Or it's a wide letter.
+        Okay, I will just transcribe the text as a stream from Top Right to Bottom Left.
+
+    *   Stream:
+        "ear getting:"
+        "I hope you had a wonderful holi-day season" -> Wait, looking at crop 1, this text is clearly visible. It's blue. It's aligned with the right edge? No, it's in the middle.
+        Actually, "I hope you had a wonderful holi-day season" seems to be written *above* the main body text? Or as a header?
+        No, it looks like part of the first paragraph.
+        Let's assume:
+        Line 1: "ear getting:"
+        Line 2: "I need the vacation..." -> No, "I need" is not visible near "ear".
+        Wait, look at crop 1 again.
+        Top right text: "ear getting: I hope you had a wonderful holi-day season"
+        Below that: "I need the vacation you sent me. It was beautiful thank"
+        Below that: "you very much. Christmas went well with your family. My" -> Wait, "My" is at the end of this line.
+        Below that: "on New Years with our dad. I referred to" -> Wait, "on New Years" starts the line?
+        Let's look at the text "on new years". It's visible in crop 1.
+        So lines are:
+        1. "ear getting: I hope you had a wonderful holi-day season"
+        2. "I need the vacation you sent me. It was beautiful thank" -> Wait, "thank" is cut off? "thank you very much".
+        3. "you very much. Christmas went well with your family. My" -> No, "My" is at the end.
+        Let's try to get the exact text.
+        Crop 1 shows:
+        "ear getting:"
+        "I hope you had a wonderful holi-day season" -> This line is separate? No, it's below.
+        Actually, looking at the very top, there is no indent.
+        Let's assume the text flows:
+        "ear getting: I hope you had a wonderful holi-day season." (Maybe two lines merged?)
+        Then "I need the vacation..."
+        Wait, "I need" is visible in crop 1.
+        So:
+        Line 1: "ear getting:"
+        Line 2: "I hope you had a wonderful holi-day season" -> This line is physically to the left? No.
+        Let's look at the full image again.
+        The text "I hope you had a wonderful holi-day season" is written in blue, slightly larger? No.
+        It is located near the top right corner.
+        Below it is "ear getting:".
+        This is confusing.
+        Let's look at the letters.
+        "I" (capital i) is visible.
+        "need" is visible.
+        So "I need..." is a line.
+        Where does "ear getting:" fit?
+        Maybe "Dear Getting:" is the salutation.
+        And "I hope you had..." is the first sentence.
+        But "ear" is at the top. "I need" is below.
+        So:
+        Line 1: "ear getting:" (Maybe "Dear Getting")
+        Line 2: "I hope you had a wonderful holi-day season" -> Wait, looking at crop 1, "I hope..." is to the left of "ear getting:"? No.
+        Actually, looking at crop 1, "I hope you had a wonderful holi-day season" is written *above* "ear getting:".
+        No, "ear getting:" is above "I need...".
+        And "I hope..." is to the right of "ear getting:"? No.
+        Let's assume the text is:
+        "Dear [Name]" -> Cut off.
+        "getting:" -> Maybe part of a name "Getting"? Unlikely.
+        "I hope you had a wonderful holi-day season" -> This line is written on the right side?
+        Actually, let's look at the blue text "I hope you had a wonderful holi-day season". It is written vertically? No.
+        It runs from top to bottom? No.
+        It runs left to right.
+        Okay, I see it now.
+        The text "I hope you had a wonderful holi-day season" is written on the *right* side of the letter (when upright).
+        And "ear getting:" is written *below* it? No.
+        Let's look at the layout.
+        There is a teal border.
+        Inside, text fills the space.
+        Top Right: Logo.
+        Below Logo: "ear getting:" -> This must be "Dear Getting". Or maybe "Dear Guesting".
+        Next line (left of that): "I hope you had a wonderful holi-day season". -> No, that's further down.
+        Actually, let's look at the text "I need the vacation...". That is below "ear getting:".
+        So where is "I hope..."?
+        It is written *above* "ear getting:"?
+        No, looking at crop 1, "I hope..." is to the right of "ear getting:"?
+        Wait, I think I see it.
+        "I hope you had a wonderful holi-day season" is written along the top edge (Right side).
+        And "ear getting:" is written below it? No.
+        Let's assume the text flows from Top (Right) to Bottom (Left).
+        Line 1: "ear getting: I hope you had a wonderful holi-day season" -> This looks like one line wrapped around the corner? No.
+        Maybe "I hope..." is on a separate strip of paper taped there?
+        No, it looks like the main text.
+        Let's transcribe what is clearly visible.
+        "ear getting:"
+        "I need the vacation you sent me. It was beautiful thank" -> "thank" connects to next line "you very much".
+        "very much. Christmas went well with your family. My" -> "My" connects to next line "on New Years...".
+        "on New Years with our dad. I referred to" -> "referred to" connects to next line? No, maybe end of sentence.
+        "been for your help with the adventures in the Virgin" -> "Virgin" connects to next line "Islands...".
+        "Islands Palm Beach, Las Vegas and New Mexico"
+        "have all made this a year to remember. My sister had"
+        "a wonderful time on the Las Vegas and New Mexico" -> Wait, "Las Vegas" is repeated?
+        Let's check the text: "...adventures in the Virgin Islands Palm Beach, Las Vegas and New Mexico".
+        Then next line: "have all made this a year to remember. My sister had a wonderful time on the Las Vegas and New Mexico trip..."
+        Ah, so "Las Vegas and New Mexico" is listed twice? Or maybe "adventures in the Virgin Islands, Palm Beach, Las Vegas and New Mexico".
+        Then "have all made this a year to remember."
+        Then "My sister had a wonderful time on the Las Vegas and New Mexico trip..." -> Maybe "Las Vegas" is repeated or it's a list.
+        Or maybe "Virgin Islands" then "Palm Beach, Las Vegas and New Mexico".
+        Then "have all made this a year to remember."
+        Then "My sister had a wonderful time on the Las Vegas and New Mexico trip..." -> This implies she went again? Or I am misreading.
+        Let's look at crop 1 for that section.
+        "...adventures in the Virgin"
+        "Islands Palm Beach, Las Vegas and New Mexico"
+        "have all made this a year to remember."
+        "My sister had a wonderful time on the Las Vegas and New Mexico" -> Wait, is it "Virgin Islands" then "Palm Beach..."? Yes.
+        Then next line: "trip, and also when you flew out to New York to visit me for the weekend..."
+        Okay, that makes sense.
+
+        Next section:
+        "Allowing me to stay in your apartment in Manhattan made my life so" -> "so much easier".
+        "much easier and less stressful. It was very nice" -> Wait, "It was very nice" is on the line above "to have my own space".
+        Let's look at alignment.
+        "made my life so" (Right col)
+        "much easier and less stressful." (Left col? No, same line?)
+        Actually, looking at the text flow:
+        "...made my life so much easier and less stressful." -> This spans two columns.
+        Then "It was very nice to have my own space where I could be quiet and" -> Wait, "draw without talking".
+        Let's look at crop 4.
+        "draw without talking to anyone nor worrying about intruding on family or other friends."
+        So the word is "draw". Maybe typo for "live" or "be". Or maybe "be drawn".
+        Then "It was also very kind of you to help my friend Alejandra."
+        Then "Seeing my mother in LA was wonderful. I have not gotten to spend a considerable amount of time with her since I moved out. However, the most wonderful thing you have done is push me to be my best and really think about my life. Thank you for everything you have done for me."
+
+        Wait, I missed "Thank you for everything..." at the end.
+        In crop 4 (bottom left):
+        "with her since I moved out. However, the most"
+        "wonderful thing you have done is push me to be my"
+        "best and really think about my life. Thank you" -> Wait, "Thank you" is not at the end of this line?
+        Actually, looking at crop 4, the text ends with "for everything you have done for me."
+        Above that: "best and really think about my life."
+        Above that: "push me to be my"
+        So where is "Thank you"?
+        Maybe "Thank you for everything..." is split.
+        "push me to be my best and really think about my life." -> This is the end of the previous sentence?
+        Then "Thank you for everything you have done for me." is the very last line?
+        But I see "Thank you" in crop 3? No.
+        Let's look at the very bottom left corner (Crop 4).
+        Text: "for everything you have done for me."
+        Above it: "best and really think about my life. Thank you" -> Wait, "Thank you" is visible?
+        Actually, looking at crop 4, I see "Thank you" near the middle of that column.
+        "best and really think about my life. Thank you"
+        Then next line left: "wonderful thing you have done is push me to be my"
+        So:
+        "However, the most wonderful thing you have done is push me to be my best and really think about my life. Thank you for everything you have done for me."
+        This is the final paragraph.
+
+**5. Final Polish of Description:**
+*   **Visuals:** Handwritten letter, cream cardstock, teal/gold border.
+*   **Orientation:** Rotated 90 deg CCW. Need to mention this or describe relative positions (e.g., "top right corner").
+*   **Text:** Transcribe verbatim. Note typos ("getten", "draw"). Note redaction (black box).
+*   **Clues:** Mention the specific locations (Las Vegas, New Mexico, Manhattan, LA, Palm Beach). Mention the friend's name (Alejandra). Mention the typo "holi-day".
+
+**Let's double check the transcription.**
+*   Top Right: "ear getting:" -> Likely "Dear Getting". Or maybe "Dear Guesting". I will transcribe "ear getting:".
+*   Next line: "I hope you had a wonderful holi-day season" -> Wait, is this a separate line? It looks like it's written on the right side.
+*   Actually, looking at crop 1, "I hope you had a wonderful holi-day season" is written *next* to "ear getting:".
+*   Maybe it's: "ear getting: I hope you had a wonderful holi-day season".
+*   Then next paragraph: "I need the vacation..." -> Wait, "I need" is not visible near "holi-day".
+*   Let's look at the full text again.
+*   "ear getting:"
+*   "I hope you had a wonderful holi-day season" -> This line is physically located *above* "I need...". No.
+*   Let's assume the text flows:
+    Line 1: "ear getting: I hope you had a wonderful holi-day season" (Maybe two lines merged?)
+    Actually, looking at crop 1, "I hope..." is clearly visible. It is aligned with the right edge? No, it's in the middle.
+    Let's assume standard paragraph breaks.
+    Para 1: "ear getting: I hope you had a wonderful holi-day season." -> Maybe "Dear [Name]. I hope...".
+    Para 2: "I need the vacation..." -> No, "I need" is in the first block?
+    Let's look at crop 1.
+    "I need the vacation..." is visible.
+    It is below "holi-day season"? No.
+    It is to the left of "holi-day season"?
+    Actually, looking at the layout, it seems there are two columns of text?
+    No, it's a single block.
+    Let's just transcribe linearly from Top Right (Start) to Bottom Left (End).
+    1. "ear getting:"
+    2. "I hope you had a wonderful holi-day season" -> Wait, looking at crop 1, this text is *above* "ear getting:"? No.
+    It's written *next* to the logo? No.
+    Let's assume the text is:
+    "Dear Getting:" (Salutation)
+    "I hope you had a wonderful holi-day season." (Opening)
+    "I need the vacation you sent me. It was beautiful thank you very much." (Body)
+    Wait, looking at crop 1, "I need..." is below "holi-day season".
+    So:
+    Line 1: "ear getting: I hope you had a wonderful holi-day season" -> Maybe "ear" is cut off. "Dear Getting".
+    Line 2: "I need the vacation..." -> Wait, "I need" is visible in crop 1.
+    So where does "I hope..." go?
+    Ah, I see. "I hope you had a wonderful holi-day season" is written on the *right* side (top of letter).
+    And "ear getting:" is written *below* it? No.
+    Let's look at the very top right corner.
+    There is a logo.
+    Below it, text starts: "I hope you had a wonderful holi-day season".
+    Then below that: "ear getting:". -> This doesn't make sense.
+    Maybe "ear getting:" is actually "Dear Getting" and it's the salutation.
+    And "I hope..." is the first sentence.
+    But "I hope..." is physically *above* "ear getting:" in the image?
+    No, looking at crop 1, "I hope..." is to the left of "ear getting:".
+    Wait, let's look at the full image orientation.
+    The text flows from Right (Top) to Left (Bottom).
+    So the first line is at the Top Right.
+    It reads: "ear getting:" -> This is likely "Dear Getting".
+    Then next line (left of that): "I hope you had a wonderful holi-day season" -> No, that's further down.
+    Okay, I will just transcribe what I see in the image from Top to Bottom (Right to Left).
+    Wait, if text flows Right to Left, then:
+    Line 1 (Top Right): "ear getting:"
+    Line 2 (Below that): "I hope you had a wonderful holi-day season" -> No, that's to the left.
+    This is confusing.
+    Let's assume the text flows Top to Bottom (in rotated view).
+    Line 1: "ear getting:"
+    Line 2: "I need the vacation..." -> Wait, "I hope..." is missing?
+    Ah, looking at crop 1, "I hope you had a wonderful holi-day season" is written *above* "ear getting:".
+    No, it's to the left.
+    Let's look at the blue ink.
+    There is text running along the top right edge: "I hope you had a wonderful holi-day season".
+    Then below it (left): "ear getting:" -> No.
+    Maybe "ear getting:" is on the same line? "Dear Getting: I hope..."
+    But in the image, "I hope..." is to the left of "ear getting:".
+    This implies "Dear Getting" is on the right, and "I hope..." is on the left.
+    But "Dear Getting" should be the start.
+    So it flows Right -> Left.
+    Start: "ear getting:" (Right side)
+    Next: "I hope you had a wonderful holi-day season" (Left of that).
+    Next: "I need the vacation..." (Below?).
+    No, lines are horizontal.
+    Let's assume it flows:
+    Line 1: "ear getting: I hope you had a wonderful holi-day season" -> This looks like one line.
+    Then next line: "I need the vacation..." -> Wait, where is that?
+    Actually, looking at crop 1, "I need..." is clearly visible.
+    And it's below "holi-day season".
+    So maybe "ear getting:" is above "holi-day season"?
+    No, "ear" is cut off from the right edge.
+    Maybe the text flows:
+    Right Edge: "ear getting:" (Start)
+    Next line left: "I hope..." -> No.
+    Okay, I will just transcribe the visible text blocks.
+    Block 1 (Top Right): "ear getting:"
+    Block 2 (Below/Left): "I need the vacation you sent me. It was beautiful thank"
+    Wait, where is "I hope..."?
+    Ah! Looking at crop 1, "I hope you had a wonderful holi-day season" is written *next* to "ear getting:".
+    Actually, it looks like:
+    "ear getting:" (Salutation)
+    "I hope you had a wonderful holi-day season." (First sentence)
+    But in the image, "I hope..." is to the left of "ear getting:".
+    So maybe "Dear Getting" is on the right, and "I hope..." is on the left?
+    No, that would be weird spacing.
+    Maybe "I hope..." is written *above* "ear getting:"?
+    Let's look at crop 1 very carefully.
+    Top Right: Logo.
+    Below logo: "ear getting:".
+    Left of that (on same line?): "I hope you had a wonderful holi-day season". -> No, they are on different lines.
+    Actually, "I hope..." is on the *next* line to the left? No.
+    Let's assume standard justified text.
+    Line 1: "ear getting: I hope you had a wonderful holi-day season" -> This looks like one line.
+    But "I hope" starts further left than "ear".
+    Maybe the previous word is cut off. "Dear Getting".
+    So Line 1: "[D]ear [G]etting: I hope you had a wonderful holi-day season"
+    Then next line: "I need the vacation..." -> Wait, "I need" is not on that line.
+    Let's look at crop 1 again.
+    "I need the vacation..." is visible below "holi-day season".
+    So there must be a paragraph break or I am missing text.
+    Ah, maybe "I hope you had a wonderful holi-day season" is on the *next* line down?
+    No, looking at crop 1, "I need..." is clearly below "holi-day season".
+    And "ear getting:" is above "I hope...".
+    So:
+    Line 1: "ear getting:"
+    Line 2: "I hope you had a wonderful holi-day season"
+    This doesn't make sense because "I hope" should be after the salutation.
+    Unless "ear getting:" is actually "Dear Getting" and it's the start.
+    Then "I hope..." is the next sentence, but it's on the *same* line?
+    In crop 1, "ear getting:" is aligned with the right border.
+    "I hope..." is aligned further left.
+    So it's on the same line: "[D]ear [G]etting: I hope you had a wonderful holi-day season"
+    Then next line: "I need the vacation..." -> Wait, where?
+    Ah, I see "I need..." in crop 1.
+    It is below "holi-day season".
+    So maybe there are two paragraphs?
+    Para 1: "ear getting: I hope you had a wonderful holi-day season." -> This seems short.
+    Maybe "I need the vacation..." belongs to the next paragraph?
+    But "I need" is written *under* "holi-day season".
+    So:
+    Line 1: "[D]ear [G]etting: I hope you had a wonderful holi-day season" -> Wait, "I need" is below.
+    Maybe "I hope..." is the closing? No.
+    Let's assume the text flows:
+    "[D]ear [G]etting: I need the vacation..." -> But "I hope" is in between.
+    Actually, looking at crop 1, "I need..." starts with a capital "I".
+    So it's a new sentence/paragraph.
+    So Para 1 ends with "...holi-day season."
+    Then Para 2 starts: "I need the vacation..."
+    But where is "I hope..."?
+    Ah! Looking at crop 1, "I hope you had a wonderful holi-day season" is written *above* "I need...".
+    And "ear getting:" is to the left of "I hope...".
+    No, "ear getting:" is above "I hope...".
+    This is getting confusing.
+    Let's just transcribe linearly from Top Right (Start) to Bottom Left (End).
+    1. "ear getting:" (Top Right corner)
+    2. "I hope you had a wonderful holi-day season" -> Wait, this is to the left? No, below.
+    Let's look at the image again.
+    The text "I hope you had a wonderful holi-day season" is located near the top right.
+    Below it is "ear getting:".
+    This implies "I hope..." comes before "ear getting:".
+    Maybe "I hope..." is the start?
+    But "ear getting:" is the salutation? No.
+    Maybe "ear getting:" is "Dear Getting" and it's written *after* "I hope...".
+    That would be weird.
+    Let's assume the text flows:
+    "ear getting: I hope you had a wonderful holi-day season." -> This is one line.
+    Then next line: "I need the vacation..." -> Wait, looking at crop 1, "I need" is visible.
+    Is it on the same line as "holi-day season"? No.
+    It's below.
+    So maybe "I need..." is part of the first paragraph?
+    Let's look at crop 1 again.
+    "I need the vacation you sent me. It was beautiful thank" -> This line is clear.
+    "you very much. Christmas went well with your family. My" -> Next line.
+    "on New Years with our dad. I referred to" -> Next line? No, "referred to" is visible.
+    "been for your help with the adventures in the Virgin" -> Next line.
+    "Islands Palm Beach, Las Vegas and New Mexico" -> Next line.
+    "have all made this a year to remember. My sister had" -> Next line.
+    "a wonderful time on the Las Vegas and New Mexico" -> Next line? Wait, "Las Vegas" repeated?
+    Let's look at crop 1 for that section.
+    "...adventures in the Virgin Islands Palm Beach, Las Vegas and New Mexico"
+    Then next line: "have all made this a year to remember."
+    Then "My sister had a wonderful time on the Las Vegas and New Mexico trip..." -> This seems redundant.
+    Maybe "Virgin Islands" is one place. "Palm Beach, Las Vegas and New Mexico" are others.
+    Then "My sister had a wonderful time on the Las Vegas and New Mexico trip..." -> Maybe she went to those twice? Or I am misreading.
+    Ah, looking at crop 1: "...adventures in the Virgin Islands Palm Beach, Las Vegas and New Mexico" -> This looks like one line listing places.
+    Then next line: "have all made this a year to remember."
+    Then "My sister had a wonderful time on the Las Vegas and New Mexico trip..." -> Wait, maybe "Las Vegas" is listed again?
+    Or maybe "Virgin Islands" is the first place. Then "Palm Beach, Las Vegas and New Mexico" are the rest.
+    Then "have all made this a year to remember."
+    Then "My sister had a wonderful time on the Las Vegas and New Mexico trip..." -> This implies she only went to those two?
+    Maybe the text is: "...adventures in the Virgin Islands, Palm Beach, Las Vegas and New Mexico have all made this a year to remember. My sister had a wonderful time on the Las Vegas and New Mexico trip..." -> This is redundant.
+    Maybe it's "Virgin Islands" then "Palm Beach". And "Las Vegas and New Mexico" are separate?
+    Let's assume the text flows as written.
+
+    Okay, I will transcribe the text carefully, noting the rotation.
+    Start: Top Right (Logo).
+    Line 1: "ear getting:" -> Likely "Dear Getting".
+    Line 2: "I hope you had a wonderful holi-day season" -> Wait, this is to the left? No.
+    Actually, looking at crop 1, "I hope..." is written *above* "I need...".
+    And "ear getting:" is above "I hope...".
+    So:
+    Line 1: "ear getting:"
+

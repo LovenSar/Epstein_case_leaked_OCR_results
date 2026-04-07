@@ -1,0 +1,27 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002532.pdf ts=2026-03-05T20:52:00 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Object:** The primary subject is a flat, rectangular industrial enclosure constructed from aluminum or painted metal with a matte silver finish.
+*   **Surface Condition:** The faceplate shows signs of use, featuring visible scratches, dust smudges, and fingerprint marks across the upper half, particularly noticeable in the top center and right areas.
+*   **Cable Configuration:** Two black power or data cables are attached to the unit.
+    *   One cable emerges from the top-left area (though the exact port is obscured) and terminates in a standard two-pronged mains plug positioned at the top center of the frame. This cord loops down along the left side of the device.
+    *   A second cable is connected to the top-right edge via a black locking connector (resembling an IEC C19 or similar industrial barrel connector). This cord loops up and around the right side of the device.
+*   **Mounting Hardware:** At the bottom corners of the unit, metal L-shaped brackets (ears) protrude outward, suggesting the device is designed to be mounted on a DIN rail or a wall bracket.
+*   **Ventilation/Cooling:** Along the very bottom edge of the silver faceplate, beneath the main surface, thin slats or vents are visible, indicating airflow channels for cooling internal components.
+*   **Background Surface:** The device rests on a grey, textured concrete floor or tabletop. The surface is worn, showing yellowish staining and scuff marks, particularly in the bottom right quadrant and near the edges of the frame.
+*   **Cable Looping:** The cables are loosely arranged in large loops around the perimeter of the device rather than being neatly tucked away or strapped.
+*   **Connector Details:** The plug at the top left appears to be a standard US-style NEMA plug (possibly grounded), while the connector on the right is a proprietary or locking industrial type, distinct from the household plug.
+*   **Lighting and Shadows:** Overhead lighting creates soft shadows directly beneath the device and the loops of the cables, indicating a diffuse light source above the scene.
+*   **Orientation:** The image is taken from a high-angle, top-down perspective (bird's-eye view), showing the entire face of the unit clearly.
+
+## Visible Text (verbatim)
+*   EFTA00002532
+
+## Notable Details / Clues
+*   **Inventory Tag:** The text "EFTA00002532" in the bottom right corner appears to be a digital watermark or inventory ID added to the image file itself, rather than physical labeling on the device.
+*   **Industrial Context:** The combination of the metal casing, DIN-rail style mounting ears, and heavy-duty locking power connector suggests this is a piece of industrial automation equipment, such as a PLC (Programmable Logic Controller) module, motion controller, or sensor array.
+*   **Environment:** The dirty, stained concrete floor suggests an industrial workshop, warehouse, or testing bay environment where equipment is temporarily placed or awaiting repair/installation.
+*   **Unused Ports:** The cables are loosely coiled and unplugged (at least the mains plug), indicating the device is not currently powered on in this shot.
+

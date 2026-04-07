@@ -1,0 +1,97 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018609.pdf ts=2026-03-13T19:44:06 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: "[REDACTED]"
+Subject: Text messages 5
+Date: Sat, 21 Dec 2019 14:34:40 +0000
+Inline-Images: IMG_2435.jpg; IMG_2436.jpg
+
+---
+
+EFTA00018609
+
+## Structured Fields
+*   **Date:** 21 Dec 2019
+*   **Subject:** Text messages 5
+*   **Document ID:** EFTA00018609
+*   **Attached Files:** IMG_2435.jpg, IMG_2436.jpg
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+A black smartphone is photographed at a slight angle against a reddish-brown textured background. The device appears to be an Android phone with thick bezels and a standard capacitive button navigation bar (back triangle, home circle, square) at the bottom. On the left side of the chassis, two volume rocker buttons are visible; on the right, a power button is present. The screen displays a messaging application interface, likely Google Messages or an RCS-enabled app.
+
+The screen shows a conversation thread. At the very top, below the status bar, there is a greyed-out message area with a crossed-out signal icon and text reading "No SMS connection," suggesting a failure to send or receive standard SMS data, possibly related to RCS chat functionality. The recipient's name or phone number at the top is redacted with a solid black rectangle.
+
+The conversation history scrolls upwards. There are two distinct date headers visible in grey text: "Thursday, Aug 8 • 4:29 PM" and "Saturday, Aug 10 • 10:36 AM." Above these dates, there is a label for "Today." The chat bubbles alternate colors to indicate sender and receiver. Blue bubbles indicate messages sent from the device pictured, while white/grey bubbles indicate received messages (though the alignment in this specific interface can sometimes be tricky, the color coding suggests standard sent/received differentiation). One name at the top of a reply message is also redacted.
+
+At the bottom of the screen, the input bar is visible but partially obstructed by the chat history scrolling up or simply layout. It features a camera icon on the left (indicating multimedia attachment capability), a text cursor area labeled "Text message," an emoji picker icon, and an SMS send button with a paper plane icon and the label "SMS."
+
+## Visible Text (verbatim)
+- Status Bar: "8:52" (Time), Battery Icon.
+- Top Area: "No SMS connection", "Today".
+- Message 1 (Recipient): "Ok".
+- Timestamp: "Thursday, Aug 8 • 4:29 PM".
+- Message 2 (Sender - Blue Bubble): "Hi [BLOCKED] how are you doing? I'm reaching out to you to see if you have been bothered my the media or others."
+- Timestamp: "Saturday, Aug 10 • 10:36 AM".
+- Message 3 (Recipient - Grey/White Bubble): "Hey, just on social media. What a coward, if he's really dead, or someone probab..."
+- Input Bar Labels: "Text message", "SMS".
+- Watermark (Bottom Right): "EFTA00018610".
+
+## Notable Details / Clues
+- **Context of Conversation:** The text discusses "bothered by the media," "social media," and references to someone being "really dead." This suggests a conversation about a high-profile event, tragedy, or viral news story involving a specific individual.
+- **Typo/Error:** In the blue bubble dated Aug 8, the text reads "been bothered **my** the media." The preposition "by" is misspelled as "my," which is a common autocorrect error or slip of the keyboard, though "my" and "by" are far apart on QWERTY keyboards.
+- **Redactions:** Portions of names are blacked out with rectangular blocks. This indicates privacy editing was performed before sharing the image, likely for legal or evidentiary purposes given the watermark.
+- **Evidence Marking:** The code "EFTA00018610" in the bottom right corner strongly implies this image is part of an official police or investigative file (EFTA often refers to East African Transit Facility or similar government agencies).
+- **Connection Status:** The "No SMS connection" banner at the top suggests a technical glitch with the phone's messaging service at the time the screenshot was likely taken, or it indicates a specific state of the RCS chat feature.
+- **Date Discrepancy:** The conversation jumps from "Today" (top) to Aug 8 and then Aug 10. This implies the photo captures a history of messages that might have been deleted or is just a long scroll, although the timestamps suggest a chronological flow where the user sent a message on the 8th and received a reply on the 10th.
+- **Phone Model Characteristics:** The layout (three bottom buttons) and interface design date the device to an older Android generation (likely 2015–2019 era based on Material Design guidelines visible in the chat bubbles).
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EFTA00018611
+
+## Structured Fields
+
+- Doc ID: EFTA00018611
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, vertical shot of a black Android smartphone held against a textured, dusty-pink or mauve background (possibly fabric). The screen is illuminated, showing an SMS conversation interface with a white background. At the very top right of the screen, the status bar displays the time "8:52", a Wi-Fi signal icon, and a battery indicator. Below the header, a notification reads "No SMS connection" accompanied by a disconnected cloud icon. The conversation consists of text bubbles in blue (sent) and white/light grey (received).
+
+The conversation thread is partially visible. Near the top, there is a fragment of a message in a blue bubble. Below that, separated by a date header, is a block of text in a white bubble discussing social media rumors about a specific individual being "dead" or killed. To the left of this white message block, a large black rectangular redaction obscures part of the chat area (potentially an attachment icon or name). Further down, another date header separates the next exchange. A blue message bubble responds to the previous context, mentioning speaking with a female contact ("she") regarding a "civil case." A small black box further redacts the beginning of this specific message. At the bottom of the screen are standard messaging app icons: a plus button, a camera icon, a text input field labeled "Text message," a smiley emoji icon, and a send arrow labeled "SMS." The bottom navigation bar shows the Android standard three-button system (triangle, circle, square).
+
+## Visible Text (verbatim)
+*   **Status Bar:** "8:52"
+*   **Notification:** "No SMS connection"
+*   **Message 1 (Blue):** "been bothered my the media or others."
+*   **Date Stamp 1:** "Saturday, Aug 10 • 10:36 AM"
+*   **Message 2 (White):** "Hey, just on social media. What a coward, if he's really dead, or someone probably had him killed. He was a very bad man"
+*   **Date Stamp 2:** "Sunday, Aug 11 • 8:37 AM"
+*   **Message 3 (Blue):** "Yes I know. I spoke with [REDACTED] and she will let me know the decision of the civil case."
+*   **Timestamp under Message 3:** "Aug 11, 8:37 AM • SMS"
+*   **Input Field Placeholder:** "Text message"
+*   **Button Label:** "SMS" (next to send arrow)
+*   **Image Footer ID:** "EFTA00018612"
+
+## Notable Details / Clues
+*   **Typo Analysis:** The first visible blue message contains a grammatical error ("bothered my the" instead of likely "bothered by the"), suggesting a quick text or non-native typing.
+*   **Redaction Patterns:** There are two distinct black rectangular overlays added post-production to hide sensitive information: one covers the recipient's name at the top, and another appears mid-conversation on the left side (possibly hiding an image attachment or profile icon), while a third small box redacts the start of the word "and" in the final visible message.
+*   **Topic Context:** The conversation involves sensitive topics including death ("really dead," "had him killed"), character judgment ("coward," "bad man"), and legal proceedings ("civil case").
+*   **Interface Indicators:** The text "No SMS connection" suggests a network issue at the time of taking the screenshot or for the message currently being drafted.
+*   **Date Progression:** The conversation spans from Saturday, August 10 to Sunday, August 11, with messages appearing in the morning (around 10 AM and 8 AM respectively).
+*   **UI Elements:** The standard Android navigation keys (Back triangle, Home circle, Square recent apps) are visible at the bottom bezel.
+*   **Lighting/Quality:** The photo is taken under indoor lighting, causing slight glare on the top of the screen where the status bar is located.
+*   **Text Alignment:** The text in the white bubble is left-aligned, wrapping to three distinct lines before breaking.
+*   **Message Fragmentation:** The top blue message appears to be a fragment, cut off at the beginning, implying a previous message scrolled out of view.
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Sent from my iPhone
+
+## Structured Fields
+*   **Doc IDs:** EFTA00018613
+

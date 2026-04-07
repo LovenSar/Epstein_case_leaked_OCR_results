@@ -1,0 +1,48 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021012.pdf ts=2026-03-14T20:07:24 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+[IMAGE OF SEAL]                        DRAFT                            U.S. Department of Justice
+                                                                                Southern District of New York
+                                                                                One St. Andrews Plaza
+                                                                                New York, NY 10007
+                                                                                Phone: (212) 637-1028
+                                                                                Fax: (212) 637-0421
+
+August 14, 2019
+
+Gloria Allred
+Allred, Maroko & Goldberg
+6300 Wilshire Blvd. Suite 1500
+Los Angeles, CA 90048
+
+Re: Case Number 2018R01618 and Court Docket Number 19-CR-00490
+
+Dear Gloria Allred:
+
+The enclosed information is provided by the United States Department of Justice Victim Notification System (VNS). As a victim witness professional, my role is to assist you with information and services during the prosecution of this case. You have been designated to receive notifications on behalf of the following victim(s) (or potential victims) identified by law enforcement during the investigation of the case: [REDACTED]
+
+On August 10, 2019, Jeffrey Epstein died while in custody at the Manhattan Correctional Center. Where a defendant dies prior to conviction, this Department of Justice will, in the ordinary course, seek dismissal of the pending indictment. However, as the U.S. Attorney has publicly stated, the investigation of the conduct charged in the Indictment remains ongoing and we continue to urge anyone who feels they may be a victim or have information related to the conduct in this case to please contact 1-800-CALL-FBI.
+
+Sincerely,
+
+Geoffrey Berman
+United States Attorney
+
+
+Wendy Olsen
+Victim Witness Coordinator
+
+EFTA00021012
+```
+
+## Structured Fields
+- **Date:** August 14, 2019 (Letter Date); August 10, 2019 (Death Date)
+- **Case Number:** 2018R01618
+- **Court Docket Number:** 19-CR-00490
+- **Location:** Southern District of New York; Manhattan Correctional Center; Allred, Maroko & Goldberg, Los Angeles, CA (6300 Wilshire Blvd. Suite 1500, 90048)
+- **Names:** Gloria Allred; Jeffrey Epstein; Geoffrey Berman; Wendy Olsen
+- **Organizations:** U.S. Department of Justice; Victim Notification System (VNS); Allred, Maroko & Goldberg
+- **Phone/Fax:** (212) 637-1028 / (212) 637-0421; 1-800-CALL-FBI
+

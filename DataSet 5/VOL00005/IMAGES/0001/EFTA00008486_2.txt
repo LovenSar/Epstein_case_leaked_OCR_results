@@ -1,0 +1,39 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008486.pdf ts=2026-03-09T07:28:27 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-angle shot of a yellow manila document envelope, identified by text at the top as a "Chain of Custody-ELSUR Evidence Envelope FD-504b". The document rests on a plain, off-white surface under even lighting. The form is filled out with blue ink and contains several black rectangular bars obscuring sensitive information, specifically names and signatures in the middle and lower sections. On the left and right edges, partial yellow FBI seals are visible. A white barcode sticker adheres to the bottom right corner.
+
+The upper section of the form details the type of evidence enclosure (marked as "Original") and medium (unchecked boxes for tape, disk, or print). Handwritten in the "Case File#" field is an alphanumeric string ending in "11327". An ID number "1D-3" is written to the right. The intercept type is marked as "Consensual Monitoring Intercept" with a specific Case Management (CM) number of 5548. A box for "Telephonic (TCM)" is checked. The intercept date is listed as 11/02/09, with the location written as "West Palm Beach, FL".
+
+Below this section, names are handwritten in blue ink: one name appears to be "Paul Santino" (with a scribbled correction or alternative name above it that resembles "Paul Bruno"), and a second name is clearly "Alfredo Rodriguez". The lower half of the document is a grid log for "Accepted Custody" and "Released Custody" (headers partially cut off). This log tracks dates and times ranging from late November 2009 to mid-December 2009. Several reasons for custody transfer are listed in cursive, including "Evidence," "Storage," and "Evidence split." The very bottom edge of the envelope features a strip of tape or paper with inverted text reading "FEDERAL BUREAU OF INVESTIGATION."
+
+## Visible Text (verbatim)
+**Header:** Chain of Custody-ELSUR Evidence Envelope FD-504b (Rev. 8-17-01)
+**Enclosure:** [X] Original
+**ID#:** 1D-3
+**Case File#:** 72-MM-11327 (partial)
+**Consensual Monitoring Intercept - CM# (if assigned):** CM# 5548
+**Telephonic (TCM):** [Checked]
+**Intercept Date:** 11/02/09
+**Place:** West Palm Beach, FL
+**Data Transferred for Permanent Storage - Date:** 11/02/09
+**Time:** 5:23 PM
+**Names:** Paul Santino / Alfredo Rodriguez
+**Custody Log (Left Column):**
+- Date: 11/02/09, Time: 5:33 PM, Reason: Evidence
+- Date: 12/13/09, Time: 4:30 PM (approx), Reason: Evidence split
+**Custody Log (Right Column):**
+- Date: 12/17/09, Time: 1 PM, Reason: Storage
+- Date: 12/3/09, Time: 7:56 am (approx)
+**Bottom Edge Tape:** EFT A00008486 / E02782877
+
+## Notable Details / Clues
+*   **Redaction:** The "Case Agt." (Agent) field is completely blacked out, as are the signatures in the custody log. This is standard procedure to protect agent identity or confidentiality in public records.
+*   **Date Discrepancy:** The intercept date is 11/02/09 (November 2nd). However, custody logs show dates like 12/17/09 and 12/3/09 (December). This suggests the evidence was transferred or stored over a period of nearly two months.
+*   **Reason Codes:** The reason "Evidence split" in the second row suggests the physical media inside was opened to extract specific items rather than transferring the whole package.
+*   **Phone Number Scribble:** Next to the 12/17/09 entry on the right, a phone number is scribbled out: "8704242203".
+*   **FBI Branding:** The partial seal on the left reads "...BUREAU" and the inverted text at the bottom clearly identifies it as an FBI document.
+*   **Barcode:** The white sticker in the corner has a barcode and number "E02782877", likely for inventory tracking within the bureau.
+

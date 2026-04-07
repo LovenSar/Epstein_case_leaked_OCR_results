@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008525.pdf ts=2026-03-09T07:55:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The central subject is a large, teal-colored rectangular object, appearing to be a chest freezer or industrial bin wrapped for transport.
+- The entire object is encased in heavy-gauge transparent plastic shrink-wrap, which creates numerous wrinkles and highlights across the surface due to ambient lighting.
+- Silver duct tape is applied vertically along the left side of the package, securing the plastic wrap tightly around the corners.
+- A single strip of clear or silver tape runs horizontally near the bottom edge of the package, likely sealing the bottom of the wrap.
+- White latches or handles are visible near the top center edge of the teal object, indicating a chest-style opening mechanism.
+- A white shipping label is adhered to the upper right quadrant of the top surface; it appears slightly crumpled and contains illegible markings.
+- Another smaller white rectangular label is partially visible on the far right edge, overlapping the plastic wrap.
+- A small red square sticker is affixed to the lower front face of the package, positioned slightly left of center.
+- A blue nitrile or latex glove is visible in the top right corner, suggesting a person is handling or inspecting the package.
+- The object rests on a grey, speckled floor surface, characteristic of a hospital hallway, laboratory, or industrial shipping area.
+- Reflections on the plastic wrap show overhead light sources, creating bright, horizontal sheens across the middle of the container.
+- A small piece of white tape covers part of the red sticker on the lower section.
+
+## Visible Text (verbatim)
+- **Red Sticker:** Biohazard symbol (interlocked circles/bones crossbones - no alphanumeric text visible).
+- **Top Center Label:** [Illegible scribbles/numbers, partially obscured].
+- **Image Metadata:** EFTA00008525
+
+## Notable Details / Clues
+- The combination of the biohazard symbol and the blue glove strongly suggests this is a package containing medical waste or infectious material being prepared for disposal or transport.
+- The teal color of the container is often associated with medical-grade coolers or specific types of hazardous waste bins.
+- The image ID "EFTA00008525" in the bottom right corner indicates this image is from a public dataset, likely used for training visual detection models (specifically related to biohazardous waste detection).
+- The heavy use of plastic and duct tape suggests the contents are sensitive to moisture or require significant containment integrity.
+- The white latches near the top suggest the container is a chest freezer or a specialized bin with a hinged lid, rather than a simple open-top receptacle.
+

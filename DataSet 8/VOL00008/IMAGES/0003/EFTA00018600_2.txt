@@ -1,0 +1,209 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018600.pdf ts=2026-03-13T19:42:01 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: "[REDACTED]"
+Subject: Text messages 4
+Date: Sat, 21 Dec 2019 14:34:09 +0000
+Inline-Images: IMG_2431.jpg; IMG_2432.jpg; IMG_2433.jpg; IMG_2434.jpg
+
+---
+
+EFTA00018600
+
+## Structured Fields
+
+*   **Date:** Sat, 21 Dec 2019 14:34:09 +0000
+*   **Subject:** Text messages 4
+*   **Document ID:** EFTA00018600
+*   **Inline Images:** IMG_2431.jpg; IMG_2432.jpg; IMG_2433.jpg; IMG_2434.jpg
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled view of a black Android smartphone resting against a textured, mauve-colored surface. The screen is illuminated, displaying a messaging application interface with a white background. At the very top of the screen, the status bar shows standard connectivity icons on the left and right, including a full signal strength indicator, a battery icon, and the time reading "8:51". Below the header, the app's top navigation bar features a left-pointing arrow, a blacked-out rectangular area representing the contact name (with redaction bars), a phone receiver icon, and a three-dot menu icon. Directly below the header is a small status line indicating "No SMS connection" next to a disabled speaker icon.
+
+Two primary message bubbles are visible in the conversation thread. The first message bubble is aligned to the right side of the screen (indicating a sent message) and features blue text on a light blue background. Below this, a date stamp reads "Monday, Aug 19 • 6:28 PM". The second, larger message bubble is aligned to the left (indicating a received message). It features black text on a white background and is preceded by a circular avatar containing the letter "A" in white against a pink background. To the right of the avatar, the sender's name is partially blacked out with a thick black bar. At the bottom of the screen is the input interface, featuring an addition icon (+), a camera icon, a text entry field labeled "Text message," an emoji icon, and a send arrow labeled "SMS." Partially visible navigation buttons (triangle back, circle home, square recent apps) appear at the very bottom edge of the device. An identification code "EFTA00018601" is printed in white on the bottom right corner outside the phone frame.
+
+## Visible Text (verbatim)
+**Status/Header:**
+- No SMS connection
+
+**Message Bubble 1 (Right/Blue):**
+- out and see if you are ok.
+- Second do you have any questions for us. Thanks.
+
+**Date Separator:**
+- Monday, Aug 19 • 6:28 PM
+
+**Message Bubble 2 (Left/White):**
+- Hey [blackout bar] thank you for reaching out. It's been very hectic with back to school, so I'm very sorry that it is taking me so long to get back to you. I'm doing okay, as I've heard many of the other victims do, I feel robbed. But this is the second time around so it is what it is. I can't say I'm surprised at all.
+
+**Input Field:**
+- Text message
+
+**Timestamp under Message 2:**
+- Aug 19, 6:28 PM
+
+**Bottom Right Corner:**
+- EFTA00018601
+
+## Notable Details / Clues
+- **Redaction of Identifiers:** The name at the top of the contact header is completely blacked out. Next to the avatar for the sender of the long message, their first initial or name is blacked out, but the letter "A" is visible in the pink circle.
+- **Conversational Context:** The conversation appears to be between a private citizen and law enforcement or investigators ("questions for us"). The responder mentions being a victim alongside "other victims," suggesting a crime wave or spree (likely robbery based on the text "I feel robbed").
+- **Timeline:** The exchange took place on Monday, August 19. The responder cites "back to school" as the reason for the delay in responding.
+- **Technical Status:** The phrase "No SMS connection" is visible between the two message blocks. This often indicates that the messaging app (likely RCS or MMS) is unable to connect, possibly due to a lack of internet data or SIM card issues, yet messages are appearing on screen.
+- **Emotional Tone:** The respondent expresses relief at being contacted ("thank you for reaching out"), apologetic about the delay, and resigned to the situation of being robbed again ("it is what it is... I can't say I'm surprised at all").
+- **App Interface:** The interface elements (blue sent bubbles, white received bubbles, specific icons for camera/add) are characteristic of standard Android messaging apps like Google Messages.
+- **Physical Device:** The phone appears to be an older or budget model based on the bezel thickness and the design of the navigation buttons at the bottom.
+- **Evidence Tag:** The code "EFTA00018601" suggests this image has been cataloged as evidence, likely by a law enforcement agency (EFTA might stand for Electronic Funds Transfer Agency or similar).
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[BLANK PAGE]
+
+EFTA00018602
+
+## Structured Fields
+
+- Doc ID: EFTA00018602
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, top-down view of a black smartphone screen illuminated by an external light source. The device is running an Android operating system, indicated by the standard navigation buttons (triangle back, circle home, square recent apps) at the very bottom edge and the layout of the messaging app. The screen shows an active SMS conversation with several redacted sections covered by solid black bars.
+
+At the top of the screen, the status bar displays the time as "8:51," a battery icon that appears partially depleted, and signal strength indicators. Below the status bar is the messaging app header; on the left is a back arrow, in the center is a contact name or number completely obscured by a black rectangle, and on the right are icons for calling and a three-dot menu. Directly beneath the header is a grey notification banner that reads "No SMS connection" accompanied by a disconnected network icon, suggesting a synchronization error or Wi-Fi calling status.
+
+The conversation interface is divided into chronological blocks separated by date headers. The first block is timestamped "Wednesday, Jul 10 • 3:53 PM." Below this header, a blue message bubble (indicating an outgoing message) contains text that reads "Hi [REDACTED] w r on for Saturday at noon. I will forward u the contact number. Thanks." The phrase "w r" is likely an abbreviation for "we're." This specific message block has a timestamp of "Jul 10, 3:54 PM • SMS" beneath it.
+
+Below this blue bubble is a reply in a white/grey bubble containing the text "Ok." To the left of this bubble, the contact's profile image area is obscured by a black square.
+
+The next chronological block begins with the header "Friday, Jul 12 • 1:49 PM," indicating a gap of two days (or perhaps a different time zone/jump). Following this header is another outgoing message in a blue bubble starting with "The number is." The rest of this line and the subsequent line are heavily redacted by a thick black rectangle, hiding what is presumably a phone number.
+
+At the bottom of the screen is the input area for composing new messages. From left to right, there is a circle with a plus sign (likely for attachments or contacts), a camera icon, a text input field pre-filled with placeholder text "Text message," a smiley face emoji icon, and a send arrow labeled "SMS."
+
+## Visible Text (verbatim)
+- Status Bar Time: "8:51"
+- Notification: "No SMS connection"
+- Date Header 1: "Wednesday, Jul 10 • 3:53 PM"
+- Chat Header: "Conversation with [BLURRED]"
+- Message 1: "Hi [BLURRED] w r on for Saturday at noon. I will forward u the contact number. Thanks"
+- Message 1 Timestamp: "Jul 10, 3:54 PM • SMS"
+- Message 2: "Ok"
+- Date Header 2: "Friday, Jul 12 • 1:49 PM"
+- Message 3: "The number is [BLURRED]"
+- Input Field Placeholder: "Text message"
+- Send Button Label: "SMS"
+- Bottom Right Corner ID: "EFTA00018603"
+
+## Notable Details / Clues
+- **Redactions:** Multiple black rectangular bars obscure sensitive information, specifically the contact's name/number at the top and the phone number being forwarded at the bottom.
+- **Abbreviation:** The text "w r on" in the first message is a distinct typo or SMS slang for "we're on," suggesting casual communication.
+- **Error Message:** The banner "No SMS connection" implies the user might be communicating over an internet-based service (like RCS or Wi-Fi calling) rather than a direct cellular SMS, or their SMS gateway is currently down.
+- **Date Discontinuity:** There is a jump from Wednesday, July 10 to Friday, July 12 between message blocks, though the "Ok" response sits in between chronologically on the screen.
+- **Evidence Marker:** The alphanumeric string "EFTA00018603" in the bottom right corner suggests this image is part of a formal file or evidence log, possibly related to law enforcement or federal investigations (Executive Federal Task Area).
+- **Device Interface:** The interface matches older versions of Google Messages or standard Android messaging apps, characterized by blue bubbles for sent messages and white/grey for received ones.
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[PAGE BLANK]
+
+EFTA00018604
+
+## Structured Fields
+- Document ID: EFTA00018604
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up photograph of an Android smartphone lying on a dark pink or maroon surface. The phone has a black bezel and physical navigation buttons (triangle, circle, square) at the bottom of the screen. The screen is active, showing a messaging application interface with a white background and blue/grey chat bubbles. Several areas on the screen have been obscured by black rectangular redaction marks, likely concealing personal identifiers like names or numbers.
+
+At the very top status bar, standard icons are visible: a location pin on the left, and battery/Wi-Fi indicators on the right showing the time as 8:51. Below this is the contact header area; a back arrow is on the left, a black rectangle covers the contact name or number in the center, and a phone icon and menu dots are on the right.
+
+Below the header, a notification reads "No SMS connection" next to an icon that appears to be a signal or cloud symbol with a slash. A date separator indicates "Saturday, Jul 13 • 12:07 PM". The conversation flows vertically downwards:
+-   The first message is in a blue bubble (indicating it was sent by the phone owner). It reads "Hi [redacted] r u able to make today's call".
+-   Below that is a grey bubble (received message). To its left, there is a black square obscuring part of the screen edge. The text reads: "Im sorry I was not clear as im on mountain time. It's only 10:44 here".
+-   The next blue bubble responds: "It's ok. I realized that when u mentioned u were a few hrs away. What's another day that u can make it?".
+-   The final visible grey bubble reads: "I can still do today when the baby goes to sleep at 2 your time".
+-   At the bottom, the input field is visible with icons for attaching a photo (camera), text ("Text message"), emojis, and an SMS send button. Another black square obscures the area to the left of the input field.
+
+## Visible Text (verbatim)
+*   **Status Bar:** 8:51
+*   **Header Message:** No SMS connection
+*   **Date Stamp:** Saturday, Jul 13 • 12:07 PM
+*   **Sent Message 1:** Hi [REDACTED] r u able to make today's call
+*   **Received Message 1:** Im sorry I was not clear as im on mountain time. It's only 10:44 here
+*   **Sent Message 2:** It's ok. I realized that when u mentioned u were a few hrs away. What's another day that u can make it?
+*   **Received Message 2:** I can still do today when the baby goes to sleep at 2 your time
+*   **Input Field Placeholder:** Text message
+*   **Bottom Right ID:** EFTA00018605
+
+## Notable Details / Clues
+-   **Device Type:** The interface design, particularly the font and iconography (camera icon style), suggests a Samsung Galaxy smartphone running an older version of Android (likely KitKat or Lollipop era) with the standard Samsung Messages app.
+-   **"No SMS connection":** This specific error message often appears on devices that do not have a cellular data connection for SMS, commonly seen on tablets without SIM cards, or when using Wi-Fi Calling where the SMS bearer is not active. Alternatively, it could indicate the user has set up messages to be sent over internet only.
+-   **Time Zone Dispute:** The text explicitly mentions "mountain time" versus "your time," highlighting a communication gap due to geography.
+-   **Recipient Context:** The mention of "the baby goes to sleep" implies the recipient is a parent managing childcare schedules, adding specific constraints to the call availability.
+-   **Redaction Strategy:** The black bars are digitally added to blur out names in the contact header and the first message, as well as blocking out text on the far left edge of the screen in two separate instances (next to the second and fourth messages).
+-   **Date:** The conversation took place on July 13th. Based on the timezone context (Mountain Time), this is likely July 2024 (or a similar recent year given the daylight saving time usage).
+-   **Image Quality:** The photo has a slight grain and angle distortion typical of taking a picture of a phone screen, rather than a direct screenshot.
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Verbatim Transcription
+
+EFTA00018606
+
+## Structured Fields
+
+*   **Doc IDs**: EFTA00018606
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled photograph of a black smartphone resting on a textured, pinkish-brown surface. The device screen is illuminated, showing a messaging application interface. The phone appears to be an Android device with physical navigation buttons (triangle, circle, square) visible at the bottom bezel. A thin strip of white space surrounds the image, typical of an evidence or document scan. At the very bottom right corner outside the phone frame, a alphanumeric code "EFTA00018607" is printed in black.
+
+The smartphone screen shows a text conversation taking place between two parties. The interface features standard chat bubbles: light blue bubbles originating from the bottom right (representing the phone owner) and white bubbles originating from the left (representing the recipient). Several black rectangular blocks have been digitally placed over the screen to redact information: one covers the contact name at the top header, and two others obscure parts of the message history on the left side.
+
+The status bar at the top of the phone displays a Wi-Fi icon, a battery icon, and the time "8:52". Below the header, a gray notification banner with a crossed-out phone icon reads "No SMS connection," indicating that the device is currently unable to send or receive standard text messages despite having a data signal. The bottom input area contains icons for adding attachments (a plus sign), taking a photo (camera), inserting emojis (smiley face), and sending the message.
+
+## Visible Text (verbatim)
+**Status Bar:**
+8:52
+
+**Notification Banner:**
+No SMS connection
+
+**Message History:**
+Otherwise tomorrow at 2
+Ok let me see if they r available tomorrow...
+Let me check if they r available today at 2 which is 12 for u
+Yes, today would be best for me. If not 2, I can do a lit later
+Yes w can do it at 12 your time
+Today [partially cut off]
+
+**Input Field:**
+Text message
+SMS
+
+## Notable Details / Clues
+*   **Timezone Confusion:** The conversation explicitly addresses a time difference. One message clarifies "today at 2 which is 12 for u," and the final confirmation is "Yes w can do it at 12 your time," indicating one party is likely in the UTC-8 or similar timezone relative to the other (10 hours difference), suggesting international communication.
+*   **Connectivity Issue:** The persistent "No SMS connection" banner suggests a hardware fault, a missing SIM card, or an app permission issue preventing standard text messaging. However, the conversation implies data is working (iMessage or RCS) or they are just trying to get SMS back.
+*   **Informal Communication:** The text messages utilize common internet abbreviations and phonetic spellings, such as "r" for "are," "w" for "we," and "lit" likely meaning "later."
+*   **Scheduling Logic:** The conversation attempts to resolve a scheduling conflict between "today at 2" (local time) and "12 your time," ultimately agreeing on the specific converted time slot.
+*   **Redaction:** The contact name is blacked out, preventing identification of the recipient.
+*   **Interface UI:** The design elements—specifically the blue bubbles for self and white for others, plus the bottom navigation buttons—identify this as an older version of a Samsung or similar Android messaging app.
+*   **Background Texture:** The surface beneath the phone appears to be fabric or a matte paper texture with faint, illegible writing or patterns in a darker shade of pink/brown.
+*   **Lighting:** The lighting on the screen is slightly reflective, creating a glare near the top right of the display, suggesting an overhead light source.
+*   **Scroll Position:** The messages are at the top of the thread, meaning these are recent messages or the user scrolled to the beginning. A partial message starting with "Today" is visible at the very bottom before the input field.
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Sent from my iPhone
+
+EFTA00018608
+
+## Structured Fields
+*   **Document ID:** EFTA00018608
+

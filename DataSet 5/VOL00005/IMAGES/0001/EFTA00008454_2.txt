@@ -1,0 +1,43 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008454.pdf ts=2026-03-09T07:05:29 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Subject:** A 3.5-inch internal hard disk drive is positioned vertically in the center of the frame, encased in a clear, sealed anti-static plastic bag with bubble wrap corners for protection.
+*   **Drive Labeling:** The drive features a silver metallic casing with a white manufacturer sticker. The brand "Seagate" is visible at the top left of the label. Below that, the model appears to be a "Barracuda" series.
+*   **Markings:** There are multiple printed barcodes, including a large linear barcode and smaller DataMatrix codes on the right side. Regulatory compliance symbols (FCC, CE, recycling logos) are visible at the bottom of the label.
+*   **Handwritten Markings:** A strip of blue marker ink has been applied across the lower portion of the drive label, obscuring the original serial number and date code. The blue ink appears to contain alphanumeric characters, possibly a date like "16/18".
+*   **Packaging Context:** The hard drive sits on top of a white, flat rectangular object (likely a piece of cardboard or an envelope) which rests on the floor of the shipping box.
+*   **Shipping Box Flap:** Behind the drive is the open flap of a brown corrugated cardboard box. The flap has perforated dotted lines visible along its edges, indicating where it was cut to open.
+*   **Box Branding (Reversed):** On the top edge of the open box flap, the brand logo for "SMEAD" is printed in black, appearing reversed/mirrored because the back of the box is facing up.
+*   **Box Part Numbers:** Next to the SMEAD logo, text is visible but mirrored, reading "No. 1068EL" and "UPC 71007", along with a website address ending in ".smead.com".
+*   **Surface Background:** The scene rests on a speckled countertop or surface, featuring a pattern of grey, black, and white flecks resembling granite or laminate.
+*   **Lighting/Reflections:** Overhead lighting creates significant glare and reflection across the glossy plastic packaging and the silver casing of the hard drive.
+*   **Image Identifier:** A digital watermark text "EFTA00008454" is superimposed in the bottom right corner of the image.
+
+## Visible Text (verbatim)
+**On Box Flap (Mirrored/Reversed):**
+- "SMEAD"
+- "No. 1068EL"
+- "UPC 71007"
+- ".smead.com - Assembled in Mexico"
+
+**On Hard Drive Label:**
+- "Seagate"
+- "Barracuda"
+- (Partial model text) "...2TB... 9m"
+- Barcodes and DataMatrix codes
+- Regulatory symbols: FCC ID C3NXX2E54, CE logo, Recycling symbol
+
+**Handwritten Blue Ink:**
+- "(MC011618 127..." (Text is partially obscured by glare/plastic reflection)
+
+**Overlay Text:**
+- "EFTA00008454"
+
+## Notable Details / Clues
+*   **Inventory Obfuscation:** The use of blue marker over the drive's serial number suggests this item has been processed for inventory tracking, privacy redaction, or is being prepared for disposal/transfer where original identity needs to be masked.
+*   **Unused Condition:** The presence of the anti-static bag and the sealed packaging indicates the hard drive is brand new or "new old stock," rather than a salvaged component.
+*   **Box Origin:** The "Assembled in Mexico" text on the box flap indicates the manufacturing location of the shipping container itself, not necessarily where the drive was manufactured (Seagate drives are commonly made in Thailand).
+*   **Product Identity:** Based on visual cues like the silver casing and label style, this is likely a Seagate Barracuda series 3.5-inch SATA drive, widely used for desktop computers or NAS systems.
+

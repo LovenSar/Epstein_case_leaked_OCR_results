@@ -1,0 +1,109 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=video mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/NATIVES/0001/EFTA00029997.mp4 ts=2026-03-19T23:29:47 -->
+
+## Frame 1 (0.0s) [TAG:DOJ_CLEAN_V2]
+
+- ### Detailed Description
+    - The view is from a security camera looking into a hallway or building lobby area.
+    - On the left, there is a reception desk area with white vertical slats and an orange top rail.
+    - Behind the desk, a person is seated at a computer station illuminated by bright overhead lights.
+    - A large blue trash can stands on the floor near the bottom of the railing.
+    - To the right, two grey elevator doors are visible; the one further right has "4B" written on it.
+    - A wall-mounted intercom handset is attached to the wall next to the right-hand elevator door.
+    - In the immediate foreground bottom-left, a red and blue object (possibly a bag or pile of clothes) is partially visible.
+    - The floor appears to be light-colored tile.
+- ### Visible Text
+    - Overlay at the bottom: "160 SW 2.80 - 08/10/2019 00:01:19"
+    - On the elevator door: "4B"
+- ### Notable Changes
+    - This is the first frame in the sequence, establishing the baseline scene.
+
+## Frame 2 (3.0s) [TAG:DOJ_CLEAN_V2]
+
+- ### Detailed Description
+    - The scene remains static with no significant movement of objects or people.
+    - The receptionist behind the desk maintains their position.
+    - The blue trash can and the red/blue foreground object remain stationary.
+    - The elevator doors on the right are still closed.
+    - The wall-mounted intercom is unchanged.
+    - Lighting conditions in the hallway and behind the desk are consistent.
+- ### Visible Text
+    - Overlay at the bottom: "160 SW 2.80 - 08/10/2019 00:02:49"
+    - On the elevator door: "4B"
+- ### Notable Changes
+    - The timestamp in the overlay has advanced from roughly :01 to :02, indicating a time lapse of approximately one and a half minutes between the recorded moments.
+
+## Frame 3 (6.0s) [TAG:DOJ_CLEAN_V2]
+
+### Detailed Description
+- The scene is an interior hallway, likely in a commercial or industrial building given the industrial-style elevators and reception desk area to the left.
+- To the left, there is a half-height partition with vertical white slats, behind which is a lit room (possibly a security guard's office or control booth).
+- A blue recycling bin stands prominently in the center-left foreground near the partition.
+- On the right wall, there are two elevator doors. The rightmost one is clearly labeled "46" and is closed. To its left, another door opening appears to be open, revealing bright light from within (likely an elevator car or stairwell).
+- In the immediate bottom-left foreground, a pile of blue and red fabric (possibly clothing or bags) rests on a surface, partially cut off by the frame edge.
+- The lighting is artificial, coming from overhead fixtures, with additional light spilling in from the room behind the partition and the open door.
+- There are no people fully visible in the main walking area of the hallway in this specific frame.
+
+### Visible Text
+- Door Sign: "46"
+- Overlay Time/Location: "160 SW 2.80 - 08/10/2019 00:04:19"
+
+### Notable Changes
+- (N/A - this is the first frame)
+
+---
+
+## Frame 4 (9.0s) [TAG:DOJ_CLEAN_V2]
+
+### Detailed Description
+- The same hallway is shown, but now a man is entering the scene from the right side, near the elevator doors.
+- The man is wearing a red hard hat and a dark jacket or work shirt that has yellow patches or reflective strips on it.
+- He is carrying a large black object over his left shoulder, which looks like a heavy bag, toolbox, or equipment case.
+- In his right hand (extended slightly forward), he appears to be holding a small white rectangular object, possibly a piece of paper, a card, or a small plastic item.
+- The elevator door labeled "46" remains closed behind him. The open shaft/doorway next to it is still visible with bright light emanating from it.
+- The blue bin and the desk area in the background remain unchanged and empty of people.
+- The lighting conditions are consistent with the previous frame, though there might be a slight shadow cast by the man entering the space.
+
+### Visible Text
+- Door Sign: "46"
+- Overlay Time/Location: "160 SW 2.80 - 08/10/2019 00:05:49"
+
+### Notable Changes
+- A man has entered the frame, replacing the empty hallway view of the previous frame.
+- The timestamp on the overlay has advanced from 00:04:19 to 00:05:49 (a difference of about 1 minute 30 seconds), suggesting these frames might not be consecutive second-by-second but sampled moments, despite the prompt's internal timestamps of 6.0s and 9.0s.
+- The man is now obscuring part of the view of the elevator doors as he moves leftward into the hall.
+
+## Frame 5 (12.0s) [TAG:DOJ_CLEAN_V2]
+
+- ### Detailed Description
+    - The view is from a security camera situated in a hallway or lobby area.
+    - A blue trash receptacle with a red logo stands on the beige carpeted floor.
+    - To the left, a wooden railing with white vertical slats separates the main area from a reception zone.
+    - Through the railing, a reception desk with computer monitors and office chairs is visible in an adjacent room.
+    - On the right wall, there is a gray door marked with the number "46".
+    - Next to the door on the right wall, a black payphone is mounted near a light switch.
+    - Overhead rectangular fluorescent lights are on, illuminating the space.
+    - In the bottom left foreground, a portion of a blue chair or similar furniture is visible.
+- ### Visible Text
+    - Camera overlay: "160 SW 2.80 - 08/10/2019 00:07:19"
+    - Door number: "46"
+- ### Notable Changes
+    - No significant changes from a previous frame as this is the first frame in the sequence.
+
+## Frame 6 (15.0s) [TAG:DOJ_CLEAN_V2]
+
+- ### Detailed Description
+    - The scene depicts the same interior hallway and reception area as the previous frame.
+    - The blue trash bin remains stationary in the center of the corridor.
+    - The white vertical balusters of the partition railing are clearly visible on the left side.
+    - The gray door labeled "46" is unchanged on the right wall.
+    - The black wall-mounted telephone remains in its original position.
+    - The reception desk in the background appears static with no people moving in front of it.
+    - The lighting conditions remain consistent with overhead artificial light.
+    - A dark object, possibly a bag or equipment, is partially visible in the bottom left corner.
+- ### Visible Text
+    - Camera overlay: "160 SW 2.80 - 08/10/2019 00:08:49"
+    - Door number: "46"
+- ### Notable Changes
+    - The timestamp in the bottom left corner has progressed from 00:07:19 to 00:08:49, showing a time difference of roughly 1 minute and 30 seconds.
+    - There are no observable changes in the position of objects or people within the frame.
+

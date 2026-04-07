@@ -1,0 +1,25 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003114.pdf ts=2026-03-06T01:03:58 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image captures a close-up view of the metallic exterior bottom faceplate of an electronic device, specifically appearing to be an Apple MacBook Pro chassis. The surface is made of brushed aluminum but is in a heavily soiled condition, covered in a layer of fingerprints, oil smudges, and grime that gives it a mottled, almost chalky grey appearance rather than its original metallic finish. The lighting reflects off the textured metal grain, highlighting the uneven distribution of dirt and oxidation across the surface.
+
+Below the main aluminum panel is a distinct horizontal band of black material, likely a plastic bezel or frame edge. This black area shows significant signs of wear, with numerous fine scratches, scuffs, and dust accumulation visible across its surface. The text etched into the metal is faint and partially obscured by the grime on the chassis. At the top center, a row of regulatory compliance logos is stamped into the metal. Below these logos is a barcode. Centered beneath the barcode are the serial number and EMC (Electromagnetic Compatibility) number. The bottom edge of the frame shows a thin sliver of another surface or shadow line at the very bottom.
+
+## Visible Text (verbatim)
+- **Regulatory Logos (Top Row):** FC, CE, ! (Exclamation mark in triangle), S (or recycling symbol inside circle), Square Mark (Unclear text inside), X (WEEE crossed-out bin), Recycling Loop with 'e'.
+- **Text above Barcode:** [Faint and illegible, likely "Designed by Apple in California..."]
+- **Below Barcode:** Serial No: W89524CZSPJ
+- **Right of Serial:** EMC No: 2374
+- **Bottom Right Corner (Image ID):** EFTA00003114
+
+## Notable Details / Clues
+- **Device Identification:** The combination of the brushed aluminum finish, specific regulatory logos (FC, CE, WEEE), and the "Designed by Apple..." text format identifies this as an older generation MacBook Pro (likely unibody era).
+- **Specific Model Clue:** The EMC number 2374 typically corresponds to a Mid 2016 15-inch MacBook Pro.
+- **Condition:** The device is visibly dirty with "oil fingerprints" that have dried and oxidized on the aluminum, creating a speckled white/grey pattern.
+- **Wear and Tear:** The black bezel at the bottom is heavily scratched, indicating regular use and friction from keys or cables.
+- **Text Legibility:** The etched text is very faint, suggesting either poor lighting during photography, heavy oxidation of the aluminum surface, or a manufacturing defect where the anodization is light.
+- **Barcode:** A standard UPC/EAN style barcode is present above the serial number.
+- **Image Watermark:** There is a reference ID "EFTA00003114" in the bottom right corner, suggesting this image comes from a dataset or database (possibly EFT - Electronic Forensics Toolkit or similar).
+

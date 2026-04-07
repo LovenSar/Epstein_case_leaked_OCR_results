@@ -1,0 +1,428 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024627.pdf ts=2026-03-16T12:18:07 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+
+                                                                                   Invoice Number: 4-923-30001
+                                                                                   Invoice Date: Oct 27, 2003
+                                                                                   Account Number: [REDACTED]
+                                                                                   Page: 1 of 9
+                                                                                   FedEx Tax ID: 71-0427007
+
+JEFFREY E EPSTEIN
+[REDACTED]
+Billing Account Shipping Address:
+JEFFREY E EPSTEIN
+[REDACTED]
+
+Invoice Questions?
+Contact FedEx Revenue Services
+Phone: [REDACTED] M-F 7-6 (CST)
+Fax: [REDACTED]
+Internet: www.fedex.com
+
+Invoice Summary Oct 27, 2003
+FedEx Express Services
+Transportation Charges                                        602.65
+Base Discount                                                 -63.90
+Special Handling Charges                                      56.24
+
+Total Charges........................USD $.                      594.99
+
+TOTAL THIS INVOICE....................................................USD $           594.99
+You saved $63.90 in discounts this period!
+
+                                                                                   [BARCODE]
+The FedEx Ground accounts referenced in this invoice have been transferred and assigned to, are owned by, and are payable to FedEx Express.
+To ensure proper credit, please return this portion with your payment to FedEx.
+Please do not staple or fold. Please make your check payable to FedEx.
+[ ] For change of address, check here and complete form on reverse side.
+
+Remittance Advice
+Your payment is due by Nov 11, 2003
+
+1 144208 14923300018300005949948
+
+SP 01 000001 97702 A 1 ASGLP
+JEFFREY E EPSTEIN
+[REDACTED]
+
+Invoice Number     |     Account Number      |     Amount Due
+--------------------|--------------------------|--------------------
+4-923-30001        |                          [REDACTED]       | USD $ 594.99
+
+ FedEx
+ P.O. Box 1140
+ Memphis TN 38101-1140
+                                                                                       EFTA00024627
+
+## Structured Fields
+- **Date:** Oct 27, 2003 (Invoice Date), Nov 11, 2003 (Due Date)
+- **Invoice Number:** 4-923-30001
+- **Amount Due:** USD $ 594.99
+- **Tax ID:** 71-0427007
+- **Name:** JEFFREY E EPSTEIN
+- **Organization:** FedEx, FedEx Express, FedEx Revenue Services
+- **Location:** Memphis TN 38101-1140
+- **Document ID (Bates):** EFTA00024627
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: [REDACTED]
+Page: 2 of 9
+
+Adjustment Request
+FAX TO (800) 548-3020
+
+Tracking No./Airbill No. | Reason Code | Explanation
+[BLANK LINES]
+
+BEFORE YOU FAX
+Please include detailed explanation for each adjustment request.
+Remember to include recipient's account number or third party's account number if applicable.
+
+From:
+Name: [BLANK LINE]
+( ) Business Phone
+( ) Business Fax
+
+Date: [BLANK LINE]
+
+Reason Code Key
+Reason Code | Description
+DUP | Duplicate Billing
+PND | Shipment Never Sent
+RATE | Incorrect Rates or Pieces
+RRA | Rebill Recipient - Include Recipient's Account No.
+RSA | Rebill Sender
+RTA | Rebill Third Party - Include Third Party's Account No.
+SUR | Incorrect Surcharge - Please Explain
+OTHR | Other - Please Explain
+
+This form cannot be used to request Invoice Adjustments due to Service Failures or lack of a POD.
+To request adjustments for Service Failures or lack of a POD, please call 1-800-622-1147, visit our internet site at www.fedex.com or register for FIQ.
+
+FedEx
+Federal Express
+Please indicate change in address for the account # listed below: [ ] Physical Address [ ] Billing Address [ ] Mailing Address
+Account Number: 1144-2081-6
+Name: [BLANK LINE]
+Address: [BLANK LINE] Apt./Suite: [BLANK LINE]
+City: [BLANK LINE] State: [BLANK LINE] Zip: [BLANK LINE]
+Phone: ( ) Fax: ( )
+Authorizing Signature: [BLANK LINE]
+
+EFTA00024628
+
+## Structured Fields
+- **Invoice Number**: 4-923-30001
+- **Date**: Oct 27, 2003
+- **Account Number (Black Boxed)**: [REDACTED]
+- **Account Number (Bottom Section)**: 1144-2081-6
+- **Support Phone**: 1-800-622-1147
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: [REDACTED]
+Page: 3 of 9
+
+FedEx Express Shipment Summary by Payor Type
+------------------------------------------------------------------------
+Original
+
+Shipper
+Number of Shipments                                      11
+
+Transportation Charges                                  458.15
+Base Discount                                           -49.45
+Special Handling Charges                                 50.39
+TOTAL                                                   USD $    459.09
+
+Number of Shipments                                                     11
+Total Charges                                                          USD $    459.09
+
+Third Party
+Number of Shipments                                             1
+
+Transportation Charges                                  144.50
+Base Discount                                            -14.45
+Special Handling Charges                                    5.85
+TOTAL                                                   USD $    135.90
+
+Number of Shipments                                                     1
+Total Charges                                                          USD $    135.90
+
+------------------------------------------------------------------------
+TOTAL SHIPMENTS                                           12
+TOTAL CHARGES                                             USD $    594.99
+
+EFTA00024629
+
+## Structured Fields
+- **Organization**: FedEx
+- **Invoice Number**: 4-923-30001
+- **Invoice Date**: Oct 27, 2003
+- **Page**: 3 of 9
+- **Document ID (Footer)**: EFTA00024629
+- **Payor Type 1**: Shipper (Original)
+- **Payor Type 2**: Third Party
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned page from a FedEx invoice or shipping receipt. The document features a clean white background with black text and large black rectangular censorship marks obscuring sensitive information.
+
+At the top left is the bold FedEx logo. To the right, an informational block lists the Invoice Number (4-923-30001), Invoice Date (Oct 27, 2003), and Page number (4 of 9). Below this header is a massive black rectangle that likely covers the main shipping label area or recipient address.
+
+Below the first black block, there is a detailed text section containing shipment metadata. This section is organized into columns. On the far left are technical shipping details including Tracking ID, Service Type (FedEx Standard Overnight), Package Type (FedEx Envelope), Zone 8, Weight (1.0 lbs, 0.5 kgs), and delivery timestamp (Oct 20, 2003).
+
+In the center of this middle section, sender information is visible under the header "Sender," listing "JEFFREY EPSTEIN" and "JEFFREY E EPSTEIN." Below this, there is another black rectangle obscuring further sender details. To the right of the sender info is a column labeled "Recipient," which is almost entirely obscured by a large black box.
+
+To the right of the shipping metadata, a financial breakdown lists charges: Transportation Charge ($16.00), Discount (-$2.56), Fuel Surcharge ($0.60), and Residential Delivery ($1.40), totaling a "Total Charge" of $15.44.
+
+At the very bottom right corner of the page, outside the main document content area but within the image frame, is an alphanumeric string "EFTA00024630". There is another large black rectangle at the bottom of the image, obscuring whatever content might have been below the financial totals.
+
+## Visible Text (verbatim)
+**Header:**
+FedEx.
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: [Redacted]
+Page: 4 of 9
+
+**Middle Section:**
+Picked up: Oct 16, 2003
+Payor: Shipper
+Reference: NO REFERENCE INFORMATION
+Fuel Surcharge - FedEx has applied a fuel surcharge of 4.50% to this shipment.
+Distance Based Pricing, Zone 8
+1st attempt Oct 17, 2003 at 12:44 PM.
+Weather delay - Thunderstorm.
+
+Tracking ID 838295056769
+Service Type FedEx Standard Overnight
+Package Type FedEx Envelope
+Zone 8
+Packages 1
+Weight 1.0 lbs, 0.5 kgs
+Delivered Oct 20, 2003 12:36
+Svc Area A2
+Signed by [Redacted]
+FedEx Use 289210380/00266/_
+
+Sender
+JEFFREY EPSTEIN
+JEFFREY E EPSTEIN [Redacted Address]
+
+Recipient [Redacted]
+
+**Financial Column:**
+Transportation Charge 16.00
+Discount -2.56
+Fuel Surcharge 0.60
+Residential Delivery 1.40
+Total Charge USD $ 15.44
+
+**Footer:**
+EFTA00024630
+
+## Notable Details / Clues
+*   **Redacted Information:** Large black bars obscure the recipient's address, the sender's full street address, and the account number, indicating a focus on privacy or secure document sharing.
+*   **Sender Identity:** The name "JEFFREY EPSTEIN" is clearly legible in the Sender field.
+*   **Timeline Discrepancy:** The invoice date (Oct 27, 2003) is significantly later than the pickup date (Oct 16, 2003) and delivery date (Oct 20, 2003), suggesting this is a late billing or a specific type of statement.
+*   **Shipping Conditions:** A note mentions "Weather delay - Thunderstorm" regarding the first attempt on Oct 17, implying the package faced inclement weather during transit.
+*   **Service Details:** The shipment was handled via "FedEx Standard Overnight" and is classified as a "FedEx Envelope" in Zone 8.
+*   **Financial Adjustment:** Despite a Transportation Charge of $16.00, discounts and fuel surcharges result in a lower final total charge of $15.44.
+*   **Weight:** The package weighs exactly 1.0 lbs (approx 0.5 kgs).
+*   **Signature:** The signature block is redacted, preventing identification of who signed for the package, though the "Signed by" field is present.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts a digital scan or printout of a document header from FedEx. The layout is stark, consisting of white background space with black text and graphics at the top corners, while the vast majority of the central area is obscured by a large, solid black rectangle. In the top left corner, the FedEx corporate logo is visible in its standard bold typeface. Opposite this, in the top right corner, is a block of metadata associated with the document generation. This text block lists the invoice number, date, account number (which is redacted by a smaller black bar), and the current page number. At the very bottom right edge, outside the main white space, a faint alphanumeric tracking code is visible against the white background. The overall appearance suggests this is an internal or archived copy of a shipping invoice that has been partially redacted to hide personal or financial information.
+
+## Visible Text (verbatim)
+- **Top Left:** "FedEx."
+- **Top Right Header Block:**
+  - "Invoice Number: 4-923-30001"
+  - "Invoice Date: Oct 27, 2003"
+  - "Account Number:" (followed by a black rectangular bar)
+  - "Page: 5 of 9"
+- **Bottom Right Corner:** "EFTA00024631"
+
+## Notable Details / Clues
+- **Redaction Level:** The document has been heavily redacted. The main body is completely blacked out, likely to hide the table of charges or shipping details. Additionally, a specific black bar covers the "Account Number," indicating a secondary layer of privacy protection applied specifically to that field.
+- **Document Sequence:** The text indicates this is page 5 out of a total set of 9 pages ("Page: 5 of 9"). This implies a larger transaction or multi-page shipment manifest.
+- **Date Context:** The invoice date is October 27, 2003. This places the document firmly in the early 21st century, before modern digital scanning became ubiquitous for small business records.
+- **Document ID:** The code "EFTA00024631" at the bottom suggests this image might be part of a legal or corporate record archive system (possibly Electronic Federal Tax Accounting related given the prefix EFTA).
+- **Logo Identification:** The logo confirms the carrier is FedEx, identifying the nature of the document as a shipping cost or service charge invoice.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document header and footer area from a FedEx invoice or shipping manifest, which is largely obscured by a central blackout. In the upper left corner, the official "FedEx." logo is printed in its standard bold font with the hidden 'E'. To the right of the logo, a header block provides administrative data. This section lists the Invoice Number as 4-923-30001 and the Invoice Date as Oct 27, 2003. Below these fields is an Account Number field which has been redacted with a solid black bar. The last line of the header indicates this is page "6 of 9". The central portion of the document is dominated by a large, solid black rectangle that spans from just below the header block down to the bottom margin, completely hiding the body content, likely package tracking numbers and line items. In the extreme bottom right corner, outside the main white paper area, a Bates number or system ID "EFTA00024632" is visible in small grey text. The rest of the background is plain white.
+
+## Visible Text (verbatim)
+- FedEx.
+- Invoice Number: 4-923-30001
+- Invoice Date: Oct 27, 2003
+- Account Number: [Redacted/Black Bar]
+- Page: 6 of 9
+- EFTA00024632
+
+## Notable Details / Clues
+- **Redaction:** A significant portion of the document (the middle 80%) is redacted, suggesting this image is from a secure or public record where sensitive information (like street addresses, customer names, or specific shipping weights) was intentionally obscured.
+- **Document Type:** The "Page: 6 of 9" text indicates this is a multi-page document, likely a detailed packing list or billing statement for multiple packages.
+- **Date:** The invoice is dated October 27, 2003, placing it over two decades ago.
+- **System ID:** The code "EFTA00024632" in the footer strongly suggests this document originates from an Electronic Federal Tax Accounting (EFTA) system or similar government archive, often used for processing tax-deductible business expenses or claims.
+- **Invoice Number:** The number 4-923-30001 appears to be a specific waybill or internal invoice identifier rather than a customer-facing bill-to number.
+- **Layout:** The layout is utilitarian and minimalistic, typical of logistics documents intended for printing on standard thermal paper or laser printers.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the header and partial body of a document, predominantly white with black text and graphics. In the top left corner, the "FedEx" logo is visible in bold, black sans-serif typeface, featuring its characteristic hidden arrow design within the 'E'. To the right of the logo, aligned to the top margin, is a block of metadata consisting of four lines of text detailing invoice information. The majority of the document's central area and left side are covered by a large, solid black rectangular overlay that obscures all underlying content, likely intended for redaction or privacy protection. At the very bottom right corner of the page, outside the main document margins, is a small alphanumeric identifier code printed in a smaller font weight. The layout is clean and formal, typical of shipping or billing statements.
+
+## Visible Text (verbatim)
+*   **FedEx.**
+*   **Invoice Number:** 4-923-30001
+*   **Invoice Date:** Oct 27, 2003
+*   **Account Number:** [Black Rectangular Overlay]
+*   **Page:** 7 of 9
+*   **EFTA00024633**
+
+## Notable Details / Clues
+*   **Document Type:** The header indicates this is an invoice, likely related to shipping services given the FedEx branding.
+*   **Date Context:** The invoice date is October 27, 2003, indicating this is a historical record from over two decades ago.
+*   **Pagination:** The text "Page: 7 of 9" suggests this document was generated as part of a multi-page set, and this specific image represents the seventh page out of a total of nine.
+*   **Redaction:** A thick black bar completely obscures the "Account Number," preventing identification of the billing account. Additionally, the main body of the invoice (line items, totals, addresses) is hidden by the large central black box.
+*   **Tracking Code:** The code "EFTA00024633" at the bottom right appears to be an internal tracking number or a public records release ID, possibly related to the Electronic Freedom of Information Act (EFOIA), suggesting this document was released through a government or corporate transparency portal.
+*   **Logo Style:** The FedEx logo uses the classic bold font with the white "speed line" arrow hidden between the 'E' and 'x', which is a signature trademark of the company.
+*   **High Contrast:** The image is binary, consisting almost entirely of pure black pixels (text, bar, block) and pure white pixels (background), typical of fax transmissions or scanned PDFs converted to high-contrast TIFF/JPEG formats.
+*   **Alignment:** All text in the header block is right-aligned relative to its own column, with labels on the left and values on the right.
+*   **Missing Content:** The black rectangle is uniform and featureless, offering no texture or pattern, confirming it is a digital overlay rather than a stain or crease on paper.
+*   **Footer Positioning:** Unlike standard footer text centered at the bottom, this specific code is pushed far to the right margin, suggesting it is a system-generated tag rather than part of the printed form layout.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the upper section of a document, likely an invoice or shipping manifest generated by FedEx, set against a plain white background. In the top left corner, the bold, black "FedEx." logo is clearly visible with its distinctive arrow design integrated into the 'E'. Dominating the upper third of the page is a large, solid black rectangular redaction box that obscures the primary content area, likely hiding a table of shipping data or specific account details. In the top right corner, there is a block of metadata aligned to the right, listing invoice numbers, dates, and page counts. The bottom right corner features a small alphanumeric tracking code or document ID.
+
+## Visible Text (verbatim)
+*   **Top Left:** "FedEx."
+*   **Top Right Header Block:**
+    *   "Invoice Number: 4-923-30001"
+    *   "Invoice Date: Oct 27, 2003"
+    *   "Account Number: [Black Rectangle]"
+    *   "Page: 8 of 9"
+*   **Bottom Right:** "EFTA00024634"
+
+## Notable Details / Clues
+*   **Redaction Extent:** The central black box is very wide, suggesting that the underlying content consisted of a multi-column data table (likely shipment details) rather than just a simple header/footer.
+*   **Document Progression:** The text "Page: 8 of 9" indicates this is the penultimate page of a larger PDF or printed set of documents.
+*   **Historical Context:** The invoice date is "Oct 27, 2003," placing the document over two decades in the past, which may be relevant for records retention or archival searches.
+*   **Account Number Privacy:** The "Account Number" field has been redacted, standard practice for privacy protection when sharing scanned documents of financial statements.
+*   **Document Control ID:** The code "EFTA00024634" in the bottom right corner appears to be an internal tracking or archival reference number unique to this specific file copy.
+*   **Logo Branding:** The FedEx logo is present but the specific branch location or address typically found below the logo is hidden by the redaction block.
+*   **Font Consistency:** The text uses a standard sans-serif typeface typical of legacy ERP or shipping management software from the early 2000s.
+*   **Alignment:** The header information in the top right is strictly right-aligned, separating it visually from the logo on the left.
+*   **Minimalism:** Aside from the redaction box and headers, the rest of the visible page is empty white space below the black rectangle.
+*   **Date Format:** The date follows the US standard format (Month Day, Year).
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+Invoice Number: 4-923-30001
+Invoice Date: Oct 27, 2003
+Account Number: [REDACTED]
+Page: 9 of 9
+
+FedEx Ground Reference Chart
+--------------------------------------------------------------------------------
+SERVICE CODES | FEDEX HOME DELIVERY SERVICE CODES | ZONE DEFINITIONS
+---|---|---
+**FedEx Ground** | 800 AutoPOD, Prepaid | **Zone Definitions** | 
+015 AutoPOD, Prepaid, Domestic | 804 Prepaid | 0-1 Ground Service Intra-Canada |
+016 COD, Prepaid, Domestic | 808 Signature, Prepaid | 2-6 Ground Service 48 contiguous states and Intra-Canada |
+017 ECOD, Prepaid, Domestic | 810 Evening, AutoPOD, Prepaid | 7-8 Ground Service 48 contiguous states |
+018 FedEx Ground, PRP, Prepaid, Domestic | 814 Evening, Prepaid | 9 Service to Hawaii |
+019 Prepaid, Domestic | 818 Evening, Signature, Prepaid | 10 Service to Puerto Rico |
+020 AutoPOD, Collect, Domestic | 820 Date Certain, AutoPOD, Prepaid | 14 Service to Oahu |
+021 Collect, Domestic | 824 Date Certain, Prepaid | 17 Service to Alaska |
+131 Ground, 3rd Party, Returns Manager | 828 Date Certain, Signature, Prepaid | 22 Service within Alaska |
+136 Ground, Prepaid, Net Return | 830 Appointment, AutoPOD, Prepaid | 23 Service from Alaska |
+137 Ground, Prepaid, Returns Manager | 834 Appointment, Prepaid | 25 Service from Alaska |
+408 Guaranteed Funds COD, Prepaid, Domestic | 836 Home Delivery, 3rd Party, Returns Manager | 51 & 54 Service to Canada |
+409 Cash COD, Prepaid, Domestic | 842 Home Delivery, Prepaid, Returns Manager | 92 & 96 Service from Hawaii (Deferred) |
+410 AutoPOD, COD, Prepaid, Domestic | 850 Bill 3rd Party | |
+412 AutoPOD, ECOD, Prepaid, Domestic | 851 Bill 3rd Party, Auto POD | |
+415 AutoPOD, Guaranteed Funds COD, Ppd, Dom. | 852 Bill 3rd Party, Signature | |
+416 AutoPOD, Cash COD, Prepaid, Domestic | 853 Evening, Bill 3rd Party | |
+417 Bill 3rd Party, Domestic | 854 Evening, Bill 3rd Party, AutoPOD | |
+418 Bill 3rd Party, AutoPOD, Domestic | 855 Evening, Bill 3rd Party, Signature | |
+419 Bill 3rd Party, COD, Domestic | 856 Date Certain, Bill 3rd Party | **Other Charge Code Definitions** |
+420 Bill 3rd Party, Guaranteed Funds COD, Dom. | 857 Date Certain, Bill 3rd Party, AutoPOD | (1) C.O.D. (Collect on Delivery) |
+421 Bill 3rd Party, Cash COD, Domestic | 858 Date Certain, Bill 3rd Party, Signature | (2) A.O.D. (Acknowledgement of Delivery) |
+422 Bill Recipient, Domestic | 859 Appointment, Bill 3rd Party | (3) Call Tag |
+423 Bill Recipient, AutoPOD, Domestic | 860 Appointment, Bill 3rd Party, AutoPOD | (4) Oversize > 84" Combined Length and Girth |
+429 ECOD, Bill 3rd Party, Domestic | 869 Bill Recipient | (5) Declared Value |
+430 AutoPOD, COD, Bill 3rd Party, Domestic | 870 Bill Recipient, AutoPOD | (6) Address Correction |
+431 AutoPOD, ECOD, Bill 3rd Party, Domestic | 871 Bill Recipient, Signature | (7) Hazardous Material |
+432 AutoPOD, Cash COD, Bill 3rd Party, Domestic | 872 Evening, Bill Recipient | (8) Automatic Proof of Delivery |
+433 AutoPOD, Guaranteed Funds COD, Bill 3rd Party, Dom. | 873 Evening, Bill Recipient, AutoPOD | (9) Additional Handling |
+434 ECOD, Bill Recipient, Domestic | 874 Evening, Bill Recipient, Signature | (10) Oversize Extra Service Fee |
+435 AutoPOD, COD, Bill Recipient, Domestic | 875 Date Certain, Bill Recipient | (11) Overweight > 150 lbs. |
+436 AutoPOD, ECOD, Bill Recipient, Domestic | 876 Date Certain, Bill Recipient, AutoPOD | (12) Electronic C.O.D., 24 hours |
+437 AutoPOD, Cash COD, Bill Recipient, Domestic | 877 Date Certain, Bill Recipient, Signature | (13) Electronic C.O.D., 48 hours |
+438 AutoPOD, Guaranteed Funds COD, Bill Recipient, Dom. | 878 Appointment, Bill Recipient | (14) FedEx Ground Residential |
+439 Ground, Prepaid, Guaranteed Funds, ECOD | 879 Appointment, Bill Recipient, AutoPOD | (15) FedEx Ground Residential - Rural |
+| | | (16) Returns Manager Transmission Fee |
+**FedEx International Ground** | | (20) FedEx Signature Home Delivery |
+022 AutoPOD, Prepaid | | (21) FedEx Date Certain Home Delivery |
+023 COD, Prepaid | | (22) FedEx Appointment Home Delivery |
+026 Prepaid | | (23) FedEx Evening Home Delivery |
+027 AutoPOD, Collect | | (24) FedEx Home Delivery ResidentiaI |
+028 Collect | | (25) FedEx Home Delivery Residential - Rural |
+135 International Ground, 3rd Party, Returns Manager | | (26) Cash C.O.D. Charge |
+478 Guaranteed Funds COD, Prepaid | | (27) Cash C.O.D. High Density Charge |
+479 Cash COD, Prepaid | | (28) Cash C.O.D. Extra Difference Charge |
+480 AutoPOD, COD, Prepaid | | (29) Proof of Delivery Advantage Charge |
+485 AutoPOD, Guaranteed Funds COD, Prepaid | | (30) FedEx Home Delivery Forced Appointment |
+486 AutoPOD, Cash COD, Prepaid | | (35) Fuel Surcharge |
+487 Bill 3rd Party | | (36) Oversize > 108" Combined Length and Girth |
+488 Bill 3rd Party, AutoPOD | | (37) Oversize > 108" in Length |
+489 Bill 3rd Party, COD | | (38) Oversize > 130" Combined Length and Girth |
+490 Bill 3rd Party, Guaranteed Funds COD | | (39) Supplemental Oversize Package Charge |
+491 Bill 3rd Party, Cash COD | | (40) Canada Goods & Services Tax - GST |
+492 Bill Recipient | | (41) Canada Harmonized Sales Tax - HST |
+493 Bill Recipient, AutoPOD | | (42) Canada Quebec Sales Tax - QST |
+| | | (44) Net Return |
+| | | (45) Credit Card Decline Surcharge |
+| | | (46) Consolidated Returns Polybag |
+| | | (47) Consolidated Returns Package 2x2x4 - 2x6x8 |
+| | | (48) Consolidated Returns Package 4x4x6 - 4x8x12 |
+| | | (49) Consolidated Returns Package 6x6x10 - 6x10x16 |
+| | | (50) Consolidated Returns Package 8x10x12 - 10x12x16 |
+| | | (51) Consolidated Returns Package Flat Charge |
+| | | (52) Consolidated Returns Oversize Package Charge |
+| | | (53) Returns Manager |
+| | | (54) Canadian Dropsrip Linenhaul Charge |
+
+--------------------------------------------------------------------------------
+[Barcode]
+EFTA00024635
+
+## Structured Fields
+- **Organization:** FedEx
+- **Invoice Number:** 4-923-30001
+- **Invoice Date:** Oct 27, 2003
+- **Account Number:** [REDACTED]
+- **Page:** 9 of 9
+

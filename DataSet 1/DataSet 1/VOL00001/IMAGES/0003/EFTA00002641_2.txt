@@ -1,0 +1,58 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002641.pdf ts=2026-03-05T21:47:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an open, industrial-grade electronic chassis, specifically a Panasonic KX-TDE100 digital telephone system frame, resting on a gray surface. The interior reveals a row of vertically mounted circuit boards secured by rails at the bottom and top. On the left side is a gold-colored Power Supply Unit (PSU) labeled "PSU-M" and "Model No: PSU-F1432," featuring an AC power inlet and regulatory compliance stickers including UL and CE marks. Adjacent to it is a slot marked "THIS SLOT NOT USED." Following this are four identical silver interface cards, labeled sequentially from left to right as "PRI 23," "LCG18," "DLC16," and "CSLC16." Each of these interface cards features vertical multi-pin black connectors (likely for telephone line interfaces) and Ethernet ports. The far-right card is a "PCMR" board containing two RJ45 Ethernet ports, phone jacks, and a blue warning sticker. The chassis is framed by two black metal side panels; the left panel has a white "RESET" sticker near the bottom and two vertical instructional labels, while the right panel features a DB9 serial connector protruding from its side. Green grounding latches are visible along the bottom edge of the interface cards. At the top rear, a black power supply unit is mounted with a "Panasonic" logo and model identifier "KX-TDE100."
+
+## Visible Text (verbatim)
+**Top Rear Panel:**
+-   "Panasonic"
+-   "KX-TDE100"
+-   "CAUTION: Static sensitive devices used. To protect the printed circuit board from static electricity, first discharge any body static by touching the ground terminal or wear the grounded strap."
+
+**Left Side Panel Labels:**
+-   (Top label text is illegible/blurry)
+-   (Bottom label text is illegible/blurry)
+-   "RESET" (White sticker)
+-   "BBJ-140 7T5" (Small white sticker on side)
+
+**Power Supply Unit (Gold Board):**
+-   "PSU-M"
+-   "Panasonic"
+-   "Model No: PSU-F1432"
+-   "Power Supply Unit"
+-   "INPUT 100-120V/200-240V~"
+-   "OUTPUT +48V=2.4A /+48V =1.2A"
+-   "-30V=5.00A /+30V=3.00A"
+-   "+48V=0.6A (BATTERY)"
+-   "100-240 100/50Hz"
+-   "K5c"
+-   "DISTRIBUTED BY PANASONIC CORPORATION OF NORTH AMERICA, SCARSONIA, N.C. 27874 MADE IN JAPAN"
+
+**Interface Cards (Top Labels):**
+-   "THIS SLOT NOT USED"
+-   "PRI 23"
+-   "LCG18"
+-   "DLC16"
+-   "CSLC16"
+-   "PCMR"
+
+**Right Side Panel/PCMR Card:**
+-   "WARNING Do Not Remove ID Card when Power is ON."
+-   "RESET"
+-   "FUNCTION"
+-   "10BASE-T"
+-   "100BASE-TX"
+-   "15648-1" (Partial text on vertical label on PCMR card)
+
+## Notable Details / Clues
+-   **Chassis Model:** The model is explicitly identified as a KX-TDE100, which is a standard digital telephone exchange chassis used in business VoIP systems.
+-   **Slot Configuration:** The layout shows one power supply slot followed by four data/voice interface slots and one control/router slot (PCMR), typical for 8-port or similar capacity frames of this era.
+-   **Regulatory Markings:** The presence of UL, C-UL, CE, and FCC logos indicates the device meets international safety and electromagnetic interference standards.
+-   **Connector Types:** The interface cards use specialized vertical DIN-style connectors (likely RJ45/RJ11 combinations for digital telephony lines) separate from the standard horizontal Ethernet ports found on the PCMR card.
+-   **Reset Mechanism:** A distinct "RESET" sticker is applied to the left chassis panel, likely pointing to a hidden reset button or dip switch location often found on these types of hardware.
+-   **Serial Port:** A DB9 female serial port is visible on the right-hand black shield, likely for configuration via a PC.
+-   **Grounding Latches:** The green tabs at the bottom of the card slots appear to be spring-loaded grounding latches that snap closed when cards are inserted to prevent ESD (Electrostatic Discharge).
+-   **Static Warning:** A specific label warns about static electricity, crucial for handling sensitive electronics in telecommunications hardware.
+

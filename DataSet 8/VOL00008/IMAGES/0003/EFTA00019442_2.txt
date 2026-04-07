@@ -1,0 +1,92 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019442.pdf ts=2026-03-14T02:24:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a landscape-oriented rectangular composition that appears to be a scan or photocopy of a photograph with extreme underexposure or high contrast issues. The central majority of the frame is engulfed in near-total blackness, obscuring any potential visual subject matter. However, the periphery contains significant information. Running vertically along the far left edge is a textured, lighter gray strip that resembles the physical edge of a photo mount, an envelope flap, or perhaps a structural boundary like the side of an aircraft fuselage viewed in deep shadow. On the right side, near the top third, there is a horizontal band of significant digital noise or grain, appearing as a brighter, speckled texture against the black background. The overall image quality suggests a low-resolution capture of a hardcopy document.
+
+## Visible Text (verbatim)
+*   **Top Left Corner:** "727 Boeing - N908JE"
+*   **Top Right Corner:** "JEGE, Inc."
+*   **Bottom Right Corner (File ID):** "MM11-727 BOEING-N908JE_JEGE INC-000001"
+*   **Bottom Right Corner (Serial/Case ID):** "EFTA00019442"
+
+## Notable Details / Clues
+*   **Aircraft Identification:** The handwritten text clearly identifies the subject matter as a Boeing 727 aircraft with the National Registration Number (N-number) N908JE.
+*   **Company Association:** "JEGE, Inc." is written in the top right, likely indicating the photography service company, a maintenance depot, or the entity that owns the record of this image.
+*   **Digital Metadata:** The text block at the bottom right suggests this image was extracted from a larger digital archive or database, using standard filename formatting (Date/ID_Subject_Company-SequenceNumber).
+*   **Image Quality Artifact:** The vertical strip on the left side is likely the edge of the original physical print (a photo card), rather than part of the aircraft itself, given the lighting gradient that lightens from inside out.
+*   **Structural Ambiguity:** Because the center is black, it is impossible to determine if this is a photograph of the exterior/interior of the plane or an X-ray/fusible image, though the "JEGE, Inc." text suggests standard photographic documentation rather than medical or X-ray imaging.
+*   **Handwriting Style:** The handwriting at the top appears to be done with a ballpoint pen in permanent marker ink, distinct from the typewritten digital overlay at the bottom.
+*   **Contrast Issues:** The lighting conditions that produced this image were likely non-existent or blocked, resulting in the loss of detail within the main body of the frame.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JEGE
+NC.
+& MANIFEST
+Registration Number: N908JE
+Type: B-727-31
+Pilots: [REDACTED]
+Flight [REDACTED]
+DATE: 1 - 12, 2004
+Departure Time 6:15 AM PM (Circle around PM)
+FROM PBI
+Arrival Time 8:23 AM PM (Circles around AM and PM)
+TO JFK
+Trip Number 241
+
+PASSENGERS
+1. Jeffrey Epstein
+[REDACTED]
+7. [Blank]
+8. [Blank]
+9. [Blank]
+10. [Blank]
+11. [Blank]
+12. [Blank]
+13. [Blank]
+14. [Blank]
+15. [Blank]
+16. [Blank]
+17. [Blank]
+18. [Blank]
+19. [Blank]
+
+FROM Identifier Defined
+City WEST PALM BEACH
+State or Country FL
+TO Identifier Defined
+City NEW YORK
+State or Country N.Y.
+Nautical Miles 893
+Statute Miles 1027
+Gallons 3045
+Pounds 18552
+AIRFRAME
+Flight Time 2 + 07
+Altitude FL FL370
+32849.6
+2.1
+32851.7
+20. [Blank]
+21. Night [Blank]
+22. T/L 111
+23. IMC [Blank]
+24. Approach [Blank]
+25. [Blank]
+26. [Blank]
+
+MM11-727 BOEING-N908JE_JEGE INC-000002
+EFTA00019443
+
+## Structured Fields
+- **Date**: 1/12/2004
+- **Flight ID/Trip Number**: 241
+- **Aircraft Registration**: N908JE
+- **Aircraft Type**: B-727-31
+- **Origin Airport**: PBI (West Palm Beach, FL)
+- **Destination Airport**: JFK (New York, N.Y.)
+- **Passenger**: Jeffrey Epstein
+- **Document ID**: MM11-727 BOEING-N908JE_JEGE INC-000002 / EFTA00019443
+

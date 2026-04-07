@@ -1,0 +1,417 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006072.pdf ts=2026-03-07T19:56:01 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Adult VIDEO WAREHOUSE
+EFTA00006072
+
+## Structured Fields
+- **Organization:** Adult Video Warehouse
+- **Doc ID:** EFTA00006072
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+CERTIFICATION OF BUSINESS RECORDS
+
+I, the undersigned, [REDACTED], declare that I am: employed by/associated with Adult Video Warehouse in the position of Manager and by reason of my position am authorized and qualified to make this declaration.
+
+In my employment with the above-named bank/company I am familiar with the business records it maintains. The above-named bank/company maintains records of its business which are:
+
+1. made at or near the time of the occurrence of the matters set forth therein, by, or from information transmitted by, a person with knowledge of those matters;
+2. kept in the course of regularly conducted business activity; and
+3. made by the regularly conducted activity as a regular practice.
+
+Among the records so maintained are the attached records itemized in Appendix A, Inventory of Documents.
+
+I declare under penalty of perjury that the foregoing is true and correct.
+
+Date of execution: 4/25/07
+Place of execution: Adult Video Warehouse
+Signature: [REDACTED]
+
+## Structured Fields
+*   **Date:** 4/25/07
+*   **Organization:** Adult Video Warehouse
+*   **Position:** Manager
+*   **Document ID (Footer):** EFTA00006073
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ADULT VIDEO WAREHOUS
+501 NORTHLAKE BLVD.
+MPB, ET 33488
+07/23/05     Emp#: [REDACTED]     Inv#: 679654
+5:07:38 pm    Store#: 11
+
+NOVELTY                                      12.99
+NOVELTY                                      12.99
+NOVELTY                                      19.99
+NOVELTY                                      69.99
+NOVELTY                                      7.99
+NOVELTY                                      6.99
+NOVELTY                                      19.99
+NOVELTY                                      5.99
+NOVELTY                                      21.99
+NOVELTY                                      21.99
+
+Sub: 200.90
+Tax: 13.06
+Tot: 213.96
+
+Tendered: MasterCard/Visa                      213.96
+
+NO NOVELTY RETURNS, NO REFUNDS,
+LINGERIE MUST HAVE TAGS ATTACHED.
+
+## Structured Fields
+*   **Date:** 07/23/05
+*   **Time:** 5:07:38 pm
+*   **Organization:** ADULT VIDEO WAREHOUS
+*   **Location:** 501 NORTHLAKE BLVD.
+*   **Store #:** 11
+*   **Invoice #:** 679654
+*   **Transaction ID/Terminal:** MPB, ET 33488
+*   **Payment Method:** MasterCard/Visa
+*   **Subtotal:** 200.90
+*   **Tax:** 13.06
+*   **Total:** 213.96
+*   **Document ID (Footer):** EFTA00006074
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Your Signature Here
+JPMorgan Chase Bank
+[REDACTED]
+Sale
+10-01-99 15 16-18
+[REDACTED]
+MASTER CARD
+[REDACTED] Exp: [REDACTED]
+00555 ... 00021
+Total . 21
+[STAMP/ILLEGIBLE]
+I agree to pay above total amount according to card issuer agreement (Merchant approval of transaction)
+[ILLEGIBLE]
+[REDACTED]
+Merchant Copy
+STORE CREDIT ONLY
+
+## Structured Fields
+*   **Date:** 10-01-99
+*   **Time/ID:** 15 16-18
+*   **Document ID:** EFTA00006075 (bottom right corner)
+*   **Total Amount:** .21
+*   **Card Type:** MasterCard
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Your Signature Here
+
+Sale
+
+[REDACTED]
+14-01-06 14 16 28
+Batch ...
+
+MASTERCARD
+[REDACTED] Exp: [REDACTED]
+Auth No: ...9355 Tran: ...00024
+Total . 21
+
+I agree to pay above total amount according to card issuer agreement...
+[Lynk Watermark/Faint Text]
+
+Merchant Copy
+STORE CREDIT ONLY
+
+EFTA00006076
+
+## Structured Fields
+*   **Date:** 14-01-06 (January 14, 2006)
+*   **Time:** 14:16:28
+*   **Payment Type:** MASTERCARD
+*   **Total Amount:** .21
+*   **Document Footer ID:** EFTA00006076
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ADULT VIDEO WAREHOUSE  
+501 NORTHLAKE BLVD.  
+
+[REDACTED]  
+07/23/05 5:07:50 pm Emp#: [REDACTED] Inv#: 679654 Store#: [REDACTED]  
+NOVELTY 12.99  
+NOVELTY 12.99  
+NOVELTY 19.99  
+NOVELTY 69.99  
+NOVELTY 7.99  
+NOVELTY 6.99  
+NOVELTY 19.99  
+NOVELTY 5.99  
+NOVELTY 21.99  
+NOVELTY 21.99  
+
+Sub: 200.90 Tax: 13.06 Tot: 213.96  
+Tendered: MasterCard/Visa 213.96  
+
+NO NOVELTY RETURNS, NO REFUNDS, LINGERIE MUST HAVE TAGS ATTACHED.  
+
+
+[REDACTED]  
+Sale  
+MID: [REDACTED] TID: [REDACTED] 07/23/05 17:07:48 Batch#: 99  
+AMEX [REDACTED] Exp: [REDACTED] Inv#: [REDACTED]  
+Appro Code: 50823 Total: $ 213.96  
+I agree to pay above total amount according to card issuer agreement (merchant agreement if credit voucher)  
+[REDACTED]  
+Merchant Copy STORE CREDIT ONLY  
+
+
+## Structured Fields  
+- Date: 07/23/05  
+- Transaction ID/Inv#: 679654 (left receipt), [REDACTED] (right receipt)  
+- Location: 501 NORTHLAKE BLVD.  
+- Organizations: ADULT VIDEO WAREHOUSE  
+- Doc IDs: Inv# 679654, Batch#: 99, Appro Code: 50823  
+- Payment Method: MasterCard/Visa (left), AMEX (right)  
+- Total Amount: $213.96
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ADULT VIDEO WAREHOUSE
+501 NORTHLAKE BLVD.
+NPA FL 33408
+
+07/23/05                      Emp#: E          Inv#: 679654
+5:07:50 pm                   Store#: 11
+
+NOVELTY                           12.99
+NOVELTY                           12.99
+NOVELTY                           19.99
+NOVELTY                           69.99
+NOVELTY                            7.99
+NOVELTY                            6.99
+NOVELTY                           19.99
+NOVELTY                            5.99
+NOVELTY                           21.99
+NOVELTY                           21.99
+
+Sub:                 208.90
+Tax:                  13.06
+Tot:                 213.96
+
+Tendered: MasterCard/Visa         213.96
+
+NO NOVELTY RETURNS, NO REFUNDS,
+LINGERIE MUST HAVE TAGS ATTACHED.
+
+-----------------------------------------------------------------------
+
+ADULT VIDEO WAREHOUSE
+501 NORTHLAKE BLVD.
+NORTH LAKE BLVD., FL [REDACTED]
+
+[REDACTED]
+Sale
+
+MID:              [REDACTED]
+TID:              [REDACTED]
+07/23/05                      17:07:43
+Batch #: 99
+
+AMEX
+[REDACTED]                     Exp:      [REDACTED]
+Appr Code: 520823     Inv#:      [REDACTED]
+[REDACTED]                      $ 213.96
+
+I agree to pay above total
+amount according to card
+or agreement (merchant
+sment if credit...
+
+Merchant Copy
+STORE CREDIT ONLY
+
+EFTA00006078
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Sale
+
+[ILLEGIBLE]
+
+[REDACTED]
+
+[ILLEGIBLE]
+
+EFTA00006079
+
+## Structured Fields
+- **Doc ID**: EFTA00006079
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```text
+                  F/HOUSt
+[REDACTED]
+                 Sale
+ID: [ILLEGIBLE]
+1DA: 2500
+07/24/05        11:07
+Batch No: 96
+[REDACTED]
+Exp: [REDACTED]
+[REDACTED]      Invr: 00058
+                 $ 212.96
+
+                [ILLEGIBLE]
+[Large Black Box Obscuring Text and Signature Line]
+
+          Merchant
+STORE CREDIT
+```
+
+## Structured Fields
+*   **Date:** 07/24/05 (July 24, 2005)
+*   **Document ID:** EFTA00006080 (visible in bottom right corner of original image)
+*   **Batch No:** 96
+*   **Total Amount:** $212.96
+*   **Location Indicator:** F/HOUSt (likely Houston)
+*   **Transaction Type:** STORE CREDIT / Sale
+</think>
+
+```markdown
+F/HOUSt
+[REDACTED]
+Sale
+ID: [ILLEGIBLE]
+1DA: 2500
+07/24/05        11:07
+Batch No: 96
+[REDACTED]
+Exp: [REDACTED]
+[REDACTED]      Invr: 00058
+                 $ 212.96
+
+[ILLEGIBLE TEXT BLOCKS]
+```
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ADULT VIDEO WAREHOUSE
+501 NORTHLAKE BLVD.
+
+[REDACTED]
+
+07/23/05              Emp#: [REDACTED]       Inv#: 679654
+5:07:50 pm           Store# 11
+
+NOVELTY                    12.99
+NOVELTY                    12.99
+NOVELTY                    19.99
+NOVELTY                    69.99
+NOVELTY                     7.99
+NOVELTY                     6.99
+NOVELTY                    19.99
+NOVELTY                     5.99
+NOVELTY                    21.99
+NOVELTY                    21.99
+
+Sub:                       200.90
+Tax:                        13.06
+Tot:                       213.96
+
+Tendered: MasterCard/Visa    213.96
+
+NO NOVELTY RETURNS, NO REFUNDS.
+LINGERIE MUST HAVE TAGS ATTACHED.
+
+## Structured Fields
+- **Date**: 07/23/05
+- **Time**: 5:07:50 pm
+- **Location**: 501 NORTHLAKE BLVD., Store# 11
+- **Organization**: ADULT VIDEO WAREHOUSE
+- **Invoice Number**: 679654
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ADULT VIDEO WAREHOUSE VIDEO CLUB MEMBER NO. N 15 331
+APPLICATION
+DATE 12/20/05 CLERK INITIALS [REDACTED]
+NAME JEFF EPSTEIN
+ADDRESS 305 MCADOWVIEW CT
+CITY/STATE/ZIP MONT CLAIRE, CA 19453
+HOME PHONE 610 256 2566 WORK PHONE
+D.L.# DEPOSIT HELD BY [Visa/Mastercard/DISCOVER] AMEX ICONS (not checked)
+CARD # EXP
+I, the undersigned do hereby rent and accept the above listed video tapes and/or equipment and agree to pay a stipulated rental, therefore and agree to take care of all said tapes and or equipment and to use them in proper manner and agree that in the event the rented tapes and or equipment are lost, destroyed or stolen before they are returned, to promptly pay to Lone Starr Multi-theatres, Inc. the full cash value of such rented property in cash and, if damaged or injured in any way, to pay an amount equal to the cost of replacing the same or further hereby exonerate, indemnify and save harmless the corporation from all claims or liabilities to all parties for damage or loss to any person, persons, or property in any way arising out of or during the use of said video tape or equipment.
+SIGNATURE [J.E.P.]
+
+## Structured Fields
+- **Date:** 12/20/05
+- **Member No.:** N 15 331
+- **Name:** Jeff Epstein
+- **Address:** 305 MCADOWVIEW CT, MONT CLAIRE, CA 19453
+- **Home Phone:** 610 256 2566
+- **Organization:** Adult Video Warehouse / Lone Starr Multi-theatres, Inc.
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NIS33/
+ADULT VIDEO MARCH
+501 NOK ILAKE BLVU
+N PALM BEACH FL 34908
+
+Auth. Only
+
+MDL
+TIP
+07:19...
+
+$ .03.00
+
+account
+
+issue
+agreement of credit you have)
+
+
+JEFFREY
+Merchant Copy
+STORE CREDIT ONLY
+
+EFTA00006083
+## Structured Fields
+- **Case ID/Doc ID**: NIS33/, EFTA00006083
+- **Name**: JEFFREY
+- **Organization**: ADULT VIDEO MARCH
+- **Location**: 501 NORTH LAKE BLVD, PALM BEACH FL 34908
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+N 1 5 - 3 3 1
+... HOREM
+BLVD.
+FL 33406
+9997
+Auth. Only
+NI: [REDACTED]
+12 / ... / 05
+[Redacted Box spanning width] Exp: [REDACTED]
+Total. $ 30.00
+...Merchant
+...redit Voucher
+APPROVED 685024
+[Signature]
+EIM JEFFREY
+... Copy
+STORE CREDIT ONLY
+
+## Structured Fields
+- **Doc ID:** EFTA00006084
+- **Date:** 12 / ... / 05 (Year obscured/ambiguous)
+- **Approved Code:** 685024
+- **Auth/Transaction ID:** 00051 (or similar, likely an auth code rather than amount given context, though placed near total)
+- **Merchant Location:** ...HOREM BLVD., FL 33406
+- **Name:** Jeffery EIM (E.M. or E.I.)
+

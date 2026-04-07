@@ -1,0 +1,44 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002550.pdf ts=2026-03-05T21:04:33 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a hard disk drive assembly, specifically an HP-branded internal storage device housed within a metal carrier tray designed for server environments. The object is positioned horizontally against a dark, indistinct background. To the left of the drive (relative to the label orientation), there is a black plastic latch mechanism and a row of gold-plated electrical contacts protruding from the edge of the metal casing; these contacts show signs of oxidation and wear. The main body of the drive is enclosed in a metallic, likely aluminum or steel, chassis with four mounting screw holes visible at the corners. A large white paper label is adhered to the top surface, covering the majority of the faceplate. The device appears used and dusty, with smudges and grime scattered across the metal casing and the label itself. The carrier tray features a standard hot-swap design with a retention arm visible on the left side.
+
+## Visible Text (verbatim)
+**Top Right Section:**
+- HP Logo
+- Invent (vertical text)
+- 146GB 10K SAS
+- HP MODEL: DA1468876
+- HP P/N: 4981SS-0A3
+
+**Center Block (Middle Left):**
+- GT: 289/7028CWSDK5
+- LOT NUMBER: A-01-9929-8*
+- PART NUMBER: *5F66G-035*
+- VDC APPS CSD LOT 12
+
+**Bottom Left Section:**
+- SERIAL NUMBER: *3N*86.JP2*
+- L/N: 594C5004F2A23D0
+- GPC: 375863-010
+- ST9146802SS
+
+**Regulatory / Bottom Right:**
+- SN: 2SD89VLEB (under HP logo)
+- E48122
+- cTUVus
+- TUV SUD CE
+- N175
+- D330C7
+- PRODUCT OF SINGAPORE
+
+## Notable Details / Clues
+- **Drive Model:** The text "ST9146802SS" indicates the specific hard drive model, which is a 146GB drive.
+- **Interface:** The label explicitly states "10K SAS", identifying it as a Serial Attached SCSI drive spinning at 10,000 RPM, commonly found in older enterprise servers or workstations rather than consumer PCs.
+- **Manufacturing Location:** The text "PRODUCT OF SINGAPORE" is printed near the regulatory logos.
+- **Condition:** The device shows significant signs of age and handling, evidenced by the dust accumulation on the gold contacts and the dirty label surface.
+- **Carrier Type:** The specific design with the latch and the contact fingers indicates it is likely a "Smart Carrier" style hot-swap drive intended for HP ProLiant or similar servers.
+- **Regulatory Marks:** Standard certification logos are present, including E48122 (UL component ID), cTUVus, and TUV SUD CE, indicating compliance with international safety standards at the time of manufacture.
+

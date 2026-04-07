@@ -1,0 +1,167 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024749.pdf ts=2026-03-16T13:24:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email client interface, likely Microsoft Outlook, showing a threaded conversation. The document is heavily redacted with thick black bars obscuring names, email addresses, and other identifying information. The correspondence relates to "Epstein search warrant documents" and involves scheduling meetings regarding obtaining specific records or "accounting."
+
+**Top Section:**
+At the very top, a standard email header block is visible. The "From," "To," and "Cc" fields are heavily obscured by black rectangles. Fragments of text around these bars show standard email formatting characters like `")"` and `<`. The Subject line clearly reads "RE: Epstein search warrant documents." The Date is listed as "Tue, 03 Mar 2020 17:26:33 +0000".
+
+**Upper Middle Body:**
+Below the first header, there is a short paragraph of text stating, "I will do everything in my power to make that happen." Beneath this sentence is a large block of redaction consisting of five horizontal black bars.
+
+**Middle Section (Blue Text Quote):**
+Following the upper redaction block, there is a quote header in blue text indicating a previous message: "On Mar 3, 2020 12:25 PM, [Redacted] <[Redacted]> wrote:". The quoted body text discusses scheduling a meeting for "Thursday morning" and expresses a preference to get an "accounting" (likely records or logs) in advance of the meeting to figure out additional steps.
+
+**Middle Header Block:**
+Below the blue text quote is another email header block. The "Sent" date is "Tuesday, March 03, 2020 09:59." The Subject line repeats "RE: Epstein search warrant documents." The body text below reads, "Can we do Thursday morning? My network should be back by then and I can give you a good accounting." This suggests the sender is recovering access to a database or system ("network").
+
+**Middle Redaction:**
+Beneath the "Thursday morning" email body is another cluster of redacted text blocks, likely obscuring a signature block.
+
+**Lower Middle Section (Blue Text Quote):**
+Below the second header block is another quote in blue text dated "On Mar 2, 2020 11:15 AM." The text asks for a time to meet that week regarding a "weekly check in on this." It ends with "thanks," followed by a single redacted line.
+
+**Bottom Section (Oldest Header):**
+At the bottom of the visible thread is a header block dated "Monday, February 24, 2020 17:38." The "To" field includes a recipient labeled "(USANYS)," which likely refers to an agency such as the Office of the Attorney General (New York).
+
+**Footer:**
+In the bottom right corner, there is a document control number or exhibit tag: "EFTA00024749".
+
+## Visible Text (verbatim)
+*   **From:** [Redacted]
+*   **To:** [Redacted] (USANYS) <[Redacted]>, "[Redacted]" <[Redacted]>)"
+*   **[Redacted]**
+*   **[Redacted]** (USANYS) <[Redacted]>
+*   **Cc:** [Redacted]
+*   **Subject:** RE: Epstein search warrant documents
+*   **Date:** Tue, 03 Mar 2020 17:26:33 +0000
+*   I will do everything in my power to make that happen.
+*   [Redacted Block]
+*   On Mar 3, 2020 12:25 PM, "[Redacted]" <[Redacted]> wrote:
+*   I could do Thursday morning, but I think it would be helpful for us to get the accounting in advance of the meeting so we can figure out in advance what (if any) additional steps we need – is that possible?
+*   **From:** [Redacted]
+*   **Sent:** Tuesday, March 03, 2020 09:59
+*   **To:** [Redacted] (USANYS) <[Redacted]>; [Redacted] <[Redacted]>;
+*   **[Redacted]**
+*   **Cc:** [Redacted]; [Redacted]; [Redacted]
+*   **[Redacted]** <[Redacted]>; [Redacted] <[Redacted]>; [Redacted]
+*   **[Redacted]** <[Redacted]>
+*   **Subject:** RE: Epstein search warrant documents
+*   Can we do Thursday morning? My network should be back by then and I can give you a good accounting.
+*   [Redacted Block]
+*   On Mar 2, 2020 11:15 AM, "[Redacted]" <[Redacted]> wrote:
+*   Doing the weekly check in on this – is there a time this week when everyone can meet on this?
+*   thanks,
+*   [Redacted Name].
+*   **From:** [Redacted]
+*   **Sent:** Monday, February 24, 2020 17:38
+*   **To:** [Redacted] <[Redacted]>; [Redacted] (USANYS) <[Redacted]>; [Redacted]
+
+## Notable Details / Clues
+*   **Legal Context:** The subject line "Epstein search warrant documents" immediately places the correspondence in a legal or investigative context regarding the Jeffrey Epstein case.
+*   **Agency Identification:** The recurring text "(USANYS)" in the "To" and "Cc" fields strongly suggests involvement of a US government agency, likely the United States Attorney's office for the Southern District of New York (SDNY).
+*   **Scheduling Conflict:** The emails discuss scheduling a meeting for "Thursday morning."
+*   **Technical/Network Issues:** One sender mentions, "My network should be back by then," implying they are recovering access to a server or database containing the requested documents.
+*   **Request for Accounting:** Multiple references to getting an "accounting in advance of the meeting." In a legal investigation, this likely refers to police logs, financial records, or investigative reports rather than business accounting.
+*   **Document Control Number:** The code "EFTA00024749" at the bottom right suggests this image is part of a formal evidence file or legal discovery packet (Exhibit A).
+*   **Date Progression:** The visible dates range from February 24, 2020, to March 3, 2020, showing a rapid back-and-forth communication over the course of a few weeks.
+*   **Redaction Extent:** The heavy redaction of names and email addresses (including `< >` fragments) is standard practice for privacy protection in public documents or leaks.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+[REDACTED]) <[REDACTED]>; [REDACTED] (USANY) <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]) <[REDACTED]>;
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+[REDACTED) <[REDACTED]>
+Subject: RE: Epstein search warrant documents
+
+[REDACTED],
+
+Totally understand about the network issues—we can relate. I do still think it will be helpful to all sit down together to have an in-person discussion, to make sure everybody is on the same page. Are folks available for that next week? And what i think would be most helpful to facilitate that would be a spreadsheet of each separate device referenced in the two search warrant returns, with columns for whether we’ve dumped the contents, whether they’ve been reviewed and/or transferred, what portions were transferred, etc.
+
+Something roughly like the attached, with any other categories you think would be useful – and the info on the attached is mostly hypothetical, obviously, just as examples. That will help us fully understand what’s been reviewed, transferred, and received so far, and what remains.
+
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices – I think FBI was going to do an initial screen to make sure no CP, and since i think the answer was no, we’ll need to get those to be able to review them as well.)
+
+many thanks,
+[REDACTED].
+
+From: [REDACTED] <[REDACTED]>
+Sent: Monday, February 24, 2020 09:24
+To: [REDACTED] (USANY) <[REDACTED]>; [REDACTED] <[REDACTED]>;
+[REDACTED] <[REDACTED]>; [REDACTED] (USANY) <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]) <[REDACTED]>;
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+[REDACTED) <[REDACTED]>
+Subject: RE: Epstein search warrant documents
+
+[REDACTED],
+
+Sorry for the delayed response. They are tearing out our old network and giving us a new one, they mandated we delete old stuff (about 400 TB worth). Now that they are working on replacing the network, we can do only local work. I should be able to give you an accounting of what is what. I can say, off the top of my head, that all windows based items from the NY search have been handed over as well as all loose media. The CDs from NY only contained pictures, no documents. There are still some Apple items from NY that need to be produced. As far as the Island stuff goes, the 1st item on your spreadsheet, the "kitchen" mac has been produced. Still working on the rest.
+
+[REDACTED]
+
+On Feb 23, 2020 12:21 AM, "[REDACTED]" <[REDACTED]> wrote:
+Team,
+
+Following up on the below from last weekend, I’m still not sure how we’re addressing this so I thought it would make sense for us to all schedule a (hopefully relatively brief) meeting to all get on the same page? We didn’t hear back on
+
+EFTA00024750
+```
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+which files had previously been provided, but our tech folks did their best to differentiate, and we got access to the materials yesterday and its well over a million documents, and we don't have any idea what we're looking at – i.e., which devices the materials came from, whether it's full or partial results, how many more devices we have coming, etc.
+
+Based on the attached search warrant returns, it looks like from the New York mansion (the PDF) there are approximately 40 devices that would have storage (computers, hard drives, thumb drives, etc.) and that's not even counting at least 60+ CDs. And then from the Virgin Islands (the Excel spreadsheet), at least more than 25 devices, including multiple servers / server racks.
+
+So we gotta know what we've already received, what remains, anticipated schedule, etc, and I know it's a lot of moving pieces on all sides so wanted to loop in everybody at once. The case team will be in California this coming week from Tuesday through Friday, but then I think generally around the first week of March, which will hopefully be plenty of time to schedule a productive meeting.
+
+thanks all,
+[REDACTED]
+
+From: [REDACTED])
+Sent: Saturday, February 15, 2020 16:30
+To: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; <[REDACTED]> <[REDACTED]>; [REDACTED]
+Subject: RE: Epstein search warrant documents
+
+[REDACTED], [REDACTED]
+
+I'm not sure who's the exact right person to ask this, so wanted to get everybody on one email chain about it – I have the hard drive that [REDACTED] dropped off that has new Epstein search warrant materials, but it looks like there are also old materials (that I think we had previously received and uploaded??) on the hard drive, and so I'm not sure what's new.
+
+Just generally, and [REDACTED] and I talked about this last week too, but it's basically impossible for us to keep track of what we're getting, and what has been completed, without some kind of identification or labeling system, along with a list of which devices have been extracted and downloaded.
+
+So for example on the hard drive currently, there are 38 folders labeled “loadFiles” through “37loadFiles” with a modified date of 11/14/19, which I think we may have already previously received – but I'm not sure, because we haven't gotten any info on which folders match up to which devices, etc. And then there's another folder titled “NYC024362” that has a modified date of 1/27/20, so I think that may be the materials we hadn't previously received? That folder by itself has more than 600,000 items.
+
+I don't want to give [REDACTED] anything that we've already previously received and uploaded, and I can't tell from the folder or file names whether everything on the drive is new, or whether just additional materials were saved onto it in addition to what we already have. [REDACTED], are you able to give us some guidance on this? Ultimately what we really need is a spreadsheet of every device, whether it's been dumped (or partially dumped), and then identifying that same info – which device, and what materials from it – are being given to us with each data transfer. Otherwise I think organizationally and for review purposes it will be a total disaster for us.
+
+We're happy to have a meeting on this if that's helpful – and thanks everybody for the assistance.
+
+[REDACTED].
+[REDACTED]
+Assistant U.S. Attorney
+
+EFTA00024751
+
+## Structured Fields
+*   **Date:** February 15, 2020
+*   **Time:** 16:30 (4:30 PM)
+*   **Locations mentioned:** New York mansion, Virgin Islands, California
+*   **Document IDs/Folder Names:** "loadFiles" through "37loadFiles", "NYC024362"
+*   **Dates referenced in text:** 11/14/19 (Nov 14, 2019), 1/27/20 (Jan 27, 2020)
+*   **Organization:** Epstein investigation (implied by "Epstein search warrant documents"), Assistant U.S. Attorney office
+*   **Case ID/File Tag:** EFTA00024751
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Southern District of New York
+[REDACTED]
+
+## Structured Fields
+*   **Location:** Southern District of New York
+*   **Document ID:** EFTA00024752
+

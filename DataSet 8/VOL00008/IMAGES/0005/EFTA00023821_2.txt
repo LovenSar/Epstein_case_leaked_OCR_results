@@ -1,0 +1,26 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00023821.pdf ts=2026-03-16T02:32:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a screenshot of an email correspondence, heavily redacted with solid black rectangular blocks that obscure significant portions of the interface. A wide black bar dominates the top edge of the frame, hiding the upper header area or recipient details. Below this, a segment of standard email metadata is visible in black text against a white background. The layout suggests a typical desktop email client (like Microsoft Outlook). The text is left-aligned and uses a clean sans-serif typeface. A second, larger black rectangle obscures the bottom half of the image, likely covering attachments, previous threads, or footer signatures. In the absolute bottom right corner, a faint alphanumeric tracking ID is visible against the white background.
+
+## Visible Text (verbatim)
+- **From:** AAG Legal Request For Information <LegalRFI@alaskaair.com>
+- **Sent:** Thursday, February 13, 2020 9:04 PM
+- **To:** [Redacted] (NY) (FBI)
+- **Subject:** Fed GJ SBP 2020-01-23- Maxwell-[Redacted]
+- **Body:** SA [Redacted] Please be advise that Alaska Airlines has no responsive records for the above mentioned subpoena, for the specific time frame requested. Best regards, AS Legal RFI Team
+- **Footer ID:** EFTA00023821
+
+## Notable Details / Clues
+- The email confirms a formal response to a legal request, specifically a subpoena ("SBP"), indicating a discovery process is underway.
+- The sender is an automated or dedicated mailbox for "Alaska Airlines" (AS), designated for Legal Requests For Information (RFI).
+- The recipient is identified as a federal agent in New York ("(NY) (FBI)" and the partial initials "SA" likely stand for Special Agent).
+- The subject line references a specific date ("2020-01-23") and a name ("Maxwell"), suggesting an ongoing criminal investigation.
+- The body text states definitively that the company has "no responsive records," which is a standard legal declaration of non-compliance with specific data requests rather than a refusal to comply entirely.
+- There is a grammatical error in the body text: "Please be advise" instead of the correct "Please be advised," suggesting this may be a standard, automated template used by their legal team.
+- The redaction bars indicate that personally identifiable information (PII), such as specific agent names or full addresses, has been scrubbed for privacy.
+- The file ID in the corner (EFTA...) suggests this image is part of a larger government record, possibly from an Electronic Freedom of Information Act (FOIA) request.
+- The response was sent on February 13, 2020, approximately three weeks after the referenced subpoena date in the subject line (January 23, 2020).
+

@@ -1,0 +1,45 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024756.pdf ts=2026-03-16T13:28:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence thread, heavily redacted with thick black bars obscuring sender and recipient names as well as specific contact details. The thread flows from the oldest email at the bottom to the most recent reply at the top.
+
+At the very bottom right, a document control number "EFTA00024756" is visible in grey text. The oldest email in the chain (bottom section) originates from October 29, 2020. It is addressed to "Dr. Hughes" and reveals that the sender is a federal prosecutor handling the case of *United States v. Ghislaine Maxwell*. The email states the trial is scheduled for July 12, 2021, in the Southern District of New York. The prosecutor asks if Dr. Hughes is available to testify as an expert witness and proposes a call for the following week.
+
+Above this, there is a header indicating "On Thu, Oct 29, 2020 at 3:48 PM [redacted] wrote:", followed by a quote block containing the prosecutor's message. The body of the text in the middle section shows a response or forward chain. A message dated November 2, 2020, from "Dawn Hughes" is visible. She confirms her availability, stating, "Yes. I would be happy to speak with you all," and mentions having open time on Wednesday after 2:00. This email is signed "Best, Dr. Hughes."
+
+Below her signature is a formal contact header identifying the sender as "DAWN M HUGHES, PHD ABPP" and listing her title as "CLINICAL AND FORENSIC PSYCHOLOGIST." A large black box obscures the digital signature or email address directly beneath her title. The final section at the top (most recent) shows a reply with the subject "RE: Expert Testimony" dated Monday, November 02, 2020. The visible text fragments include phrases like "Good for me, thanks" and a query about working on Wednesday ("2 work for you on Wednesday?").
+
+## Visible Text (verbatim)
+*   **Subject:** RE: Expert Testimony
+*   **Date:** Mon, 02 Nov 2020 18:04:07 +0000
+*   **Reply text:** Good for me, thanks
+*   **Sent:** Monday, November 02, 2020 12:09 PM
+*   **Subject:** Fwd: Expert Testimony
+*   **Body text:** 2 work for you on Wednesday? Sent from my iPhone Begin forwarded message:
+*   **From:** Dawn Hughes [redacted]
+*   **Date:** November 2, 2020 at 10:53:58 AM EST
+*   **Subject:** Re: Expert Testimony
+*   **Body text:** Yes. I would be happy to speak with you all. I have some open time on Wednesday after 2:00. Let me know what works for you. Best, Dr. Hughes
+*   **Signature:** DAWN M HUGHES, PHD ABPP CLINICAL AND FORENSIC PSYCHOLOGIST
+*   **Header:** On Thu, Oct 29, 2020 at 3:48 PM [redacted] wrote:
+*   **Body text:** Dr. Hughes, Together with colleagues [redacted], I'm one of the federal prosecutors handling the case of United States v. Ghislaine Maxwell, which is scheduled to go to trial on July 12, 2021 in the Southern District of New York. We would be interested in speaking with you about your availability to testify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss?
+*   **Footer:** EFTA00024756
+
+## Notable Details / Clues
+*   **Legal Context:** The correspondence explicitly references the high-profile criminal case *United States v. Ghislaine Maxwell*, linking Dr. Hughes to this specific federal prosecution team.
+*   **Professional Credentials:** The text identifies Dr. Hughes not just as a psychologist, but specifically as a "Clinical and Forensic Psychologist" with the designation "PhD ABPP," suggesting she is an American Board of Professional Psychology certified practitioner.
+*   **Timeline Discrepancy:** The emails were exchanged in late October/early November 2020, referencing a trial date months later (July 12, 2021).
+*   **Device Source:** One header explicitly states "Sent from my iPhone," indicating the use of a mobile device to manage the legal schedule.
+*   **Redaction Depth:** The redactions are extensive, likely done for privacy or security reasons in a public release (suggested by the EFTA footer), hiding specific names of colleagues and contact information.
+*   **Availability Logic:** The email from Dr. Hughes specifically offers time "Wednesday after 2:00," which is then queried ("2 work for you on Wednesday?") in the subsequent message above it, creating a clear scheduling loop.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks very much
+[REDACTED]
+
+## Structured Fields
+- **Doc ID:** EFTA00024757
+

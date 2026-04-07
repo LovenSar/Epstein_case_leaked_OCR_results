@@ -1,0 +1,63 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00023313.pdf ts=2026-03-15T20:14:56 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+The Beverly Hilton
+9876 Wilshire Boulevard
+Beverly Hills, CA 90210
+United States of America
+TELEPHONE 310-274-7777 • FAX 310-285-1313
+Reservations
+www.hilton.com or 1 800 HILTONS
+
+Room No: 6230/D2H
+Arrival Date: 2/26/2020 11:37:00 AM
+Departure Date: 2/28/2020 11:40:00 AM
+Adult/Child: 1/0
+Cashier ID: [REDACTED]
+Room Rate: 181.00
+AL:
+HH # [REDACTED]
+VAT #
+Folio No/Che [REDACTED]
+
+Confirmation Number [REDACTED]
+The Beverly Hilton 2/28/2020 11:39:00 AM
+
+| DATE | DESCRIPTION | ID | REF NO | CHARGES | CREDIT | BALANCE |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2/26/2020 | GUEST ROOM EXEMPT | TMEEK | 11988159 | $181.00 | | |
+| 2/27/2020 | GUEST ROOM EXEMPT | TMEEK | 11989830 | $181.00 | | |
+| 2/28/2020 | [REDACTED] | [REDACTED] | 11991671 | | ($362.00) | |
+| | REF=0001552702-03271498 CHIP<br>05<br>Application Label: CREDIT<br>TC: 01595B3E25F0C04C<br>TVR: 0000008000<br>AID: 0000008000 | | | | | |
+
+**BALANCE** $0.00
+
+CREDIT CARD DETAIL
+APPR CODE 052131
+CARD NUMBER [REDACTED]
+TRANSACTION ID 11991671
+MERCHANT ID 500356170 BANK# 2454
+EXP DATE 12/23
+TRANS TYPE Sale
+
+Page:1
+xxxxxxxx,
+EFTA00023313
+
+## Structured Fields
+- **Organization**: The Beverly Hilton, Hilton Hotels & Resorts
+- **Location**: 9876 Wilshire Boulevard, Beverly Hills, CA 90210, United States of America
+- **Room No**: 6230/D2H
+- **Arrival Date**: 2/26/2020 11:37:00 AM
+- **Departure Date**: 2/28/2020 11:40:00 AM
+- **Adult/Child**: 1/0
+- **Room Rate**: $181.00
+- **Charges**: $181.00 (26/2), $181.00 (27/2)
+- **Credit**: ($362.00) (28/2)
+- **Confirmation Number**: [REDACTED]
+- **Transaction ID**: 11991671
+- **Merchant ID**: 500356170
+- **Bank #**: 2454
+- **Appr Code**: 052131
+

@@ -1,0 +1,99 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016492.pdf ts=2026-03-12T23:52:02 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread involving legal correspondence, likely within a criminal or civil litigation context in the United States. The interface shows a standard email layout with headers at the top followed by the message body.
+
+**Top Email:**
+- The first email is a response sent on Friday, November 26, 2021.
+- The "From" field is entirely redacted with a black bar.
+- The "To" field lists **BOBBI C STERNHEIM** followed by additional recipients whose names are redacted.
+- The "Cc" line includes visible names: **Christian Everdel**, **Laura Menninger**, and **Jeff Pagliuca**, along with redacted email addresses.
+- The subject line reads "RE: [EXTERNAL] ███████/Boies Articles".
+- The body of the letter begins with the salutation "Counsel,".
+- The text explains that the sender spoke that afternoon with **David Boies** and **Sigrid McCawley**, who serve as counsel for a redacted party.
+- The correspondence clarifies that reporting regarding specific articles is incorrect and states there is no intention of providing press briefings during the upcoming trial.
+- The sender mentions compliance with **SDNY Local Rule 23.1**.
+- The sign-off includes "Best," followed by a redacted signature block.
+- The sender's title is listed as **Assistant United States Attorney**.
+- The office location is specified as the **Southern District of New York**, located at **1 St. Andrew's Plaza, New York, NY 10007**.
+
+**Bottom Email:**
+- Below a dividing line, a second email message appears to be the original communication.
+- It was sent by **BOBBI C STERNHEIM** on Wednesday, November 24, 2021, at 5:56 PM.
+- The "To" and "Cc" fields are heavily redacted with long black bars.
+- The subject line is **[EXTERNAL] ███████/Boies Articles**.
+- The body text introduces the thread by stating, "Attached are the articles we referenced during today’s call:".
+- Below this text is a large black rectangle obscuring the attachments or links to them.
+
+## Visible Text (verbatim)
+**Top Header:**
+From: [Redacted]
+To: BOBBI C STERNHEIM <[Redacted]> , [Redacted]
+Cc: Christian Everdel <[Redacted]>, Laura Menninger <[Redacted]>, Jeff Pagliuca <[Redacted]>
+Subject: RE: [EXTERNAL] ███████/Boies Articles
+Date: Fri, 26 Nov 2021 19:32:03 +0000
+
+**Top Body:**
+Counsel,
+
+This afternoon, we spoke with David Boies and Sigrid McCawley, counsel for █████████ about the articles you sent. David and Sigrid informed us that the reporting you flagged regarding █████████ is incorrect. █████████ has no intention of providing any press briefings during the upcoming trial, and her attorneys similarly have no intention of providing any such briefings or any other commentary to the press during trial. David and Sigrid both confirmed that they have complied and intend to continue complying with SDNY Local Rule 23.1.
+
+Thank you for raising the issue, and please let us know if there is anything else you would like to discuss in advance of Monday.
+
+Best,
+[Redacted]
+
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew's Plaza
+New York, NY 10007
+[Redacted]
+
+**Bottom Header:**
+From: BOBBI C STERNHEIM <[Redacted]>
+Sent: Wednesday, November 24, 2021 5:56 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: [EXTERNAL] ███████/Boies Articles
+
+**Bottom Body:**
+Attached are the articles we referenced during today’s call:
+[Large Black Box covering attachments]
+
+## Notable Details / Clues
+- **Legal Context:** The correspondence involves United States Attorneys, counsel for a defendant (David Boies is a famous high-profile lawyer), and discussions about press briefings during a trial.
+- **SDNY Jurisdiction:** The email explicitly references the Southern District of New York and SDNY Local Rule 23.1, which governs reporting on proceedings to prevent prejudicial impact.
+- **High-Profile Representation:** The mention of David Boies and Sigrid McCawley suggests this case involves significant public interest or wealthy defendants who can afford top-tier legal representation.
+- **Timeline Discrepancy:** There is a gap of roughly one day and three hours between the bottom email (Nov 24) and the top reply (Nov 26), suggesting the "today’s call" referred to in the second email happened on or shortly before Nov 24, while the reply was drafted two days later.
+- **External Tag:** Both subject lines include "[EXTERNAL]", indicating that either the sender or a recipient is outside the organization's standard domain (e.g., an external law firm or opposing counsel).
+- **Redaction Strategy:** The sensitive information—likely the names of defendants, specific case numbers, and email addresses—is heavily redacted, suggesting this document might be from a legal discovery process or a privacy-sensitive public record release.
+- **Location Specifics:** The physical address provided for the Attorney confirms the official government office location rather than a private firm's headquarters.
+- **Subject Line Phrasing:** The term "Boies Articles" implies that specific media reports or blog posts authored by or concerning David Boies were the subject of the legal exchange.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+Please note my new office address and preferred email address:
+
+BOBBI C. STERNHEIM, ESQ.
+Law Offices of Bobbi C. Sternheim
+[REDACTED]
+[REDACTED]
+
+Main: [REDACTED]
+Cell: [REDACTED]
+Fax: [REDACTED]
+[REDACTED]
+
+This message and any attached documents contain information from the Law Offices of Bobbi C. Sternheim that may be confidential and/or privileged.
+If you are not the intended recipient, you may not read, copy, distribute, or use this information.
+If you have received this transmission in error, please notify the sender immediately by reply e-mail and then delete this message. Thank you.
+
+## Structured Fields
+- **Name:** BOBBI C. STERNHEIM, ESQ.
+- **Organization:** Law Offices of Bobbi C. Sternheim
+- **Document ID:** EFTA00016493
+

@@ -1,0 +1,61 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00026636.pdf ts=2026-03-17T06:49:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document containing two email correspondence entries stacked vertically, appearing to be a forwarded thread or a collection of related communications regarding a federal case. The majority of the sender and recipient names are redacted with thick black bars.
+
+**Top Email Entry:**
+- This section appears to be a reply email dated July 8, 2019.
+- It includes an attachment link or reference to a PDF file named "19_Cr_490_Epstein_Sealed_Indictment.pdf".
+- The body text confirms the attachment is an indictment and notes an expectation that it will be unsealed shortly.
+- It provides a specific date of birth for the defendant (1/20/53).
+- A sentence regarding "seeking detention" is visible, followed by a redacted phone number where the sender can be reached.
+- The signature block is completely obscured by a large black rectangle.
+
+**Bottom Email Entry:**
+- This section is the original email that prompted the reply above it (indicated by the lack of "RE:" and an earlier timestamp).
+- It is timestamped for Monday, July 8, 2019, at 7:51 AM.
+- The body text begins with a greeting to all recipients.
+- The sender states they were notified that Mr. Epstein would be arriving that day.
+- The main request asks for specific legal documentation: "pedigree information," a "copy of the charging instrument," and an estimated time of arrival at Pretrial Services.
+- The email footer indicates it was sent from an iPhone device.
+
+## Visible Text (verbatim)
+**Top Section:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Pretrial Jeffrey Epstein
+Date: Mon, 08 Jul 2019 12:04:42 +0000
+Importance: Normal
+Attachments: 19_Cr_490_Epstein_Sealed_Indictment.pdf
+Hi [Redacted]
+The indictment is attached. We hope to have it unsealed within the next hour or so. The defendant's date of birth is 1/20/53. The Government will be seeking detention in this case, and if you have any questions please feel free to give me a call. My cell is [Redacted]
+Thanks,
+[Redacted Signature Block]
+
+**Bottom Section:**
+From: [Redacted]
+Sent: Monday, July 8, 2019 7:51 AM
+To: [Redacted]
+Cc: [Redacted]
+Subject: Pretrial Jeffrey Epstein
+Good morning all,
+I was notified that Mr. Epstein will be arriving today.
+Can you please provide me with his pedigree information, a copy of the charging instrument and the estimated time of arrival he will be at Pretrial Services
+Thank You
+[Redacted Signature Block]
+Sent from my iPhone
+EFTA00026636 (Watermark in bottom right corner)
+
+## Notable Details / Clues
+- **Case Number:** The attachment filename includes "19_Cr_490," identifying the specific federal case number.
+- **Defendant Identity:** The subject line and text explicitly reference "Jeffrey Epstein" and "Mr. Epstein."
+- **Timing:** The emails occur on July 8, 2019. The first email (top) is sent at roughly 12:04 PM, while the second (bottom) was sent earlier that morning at 7:51 AM.
+- **Legal Procedure:** The top email mentions a "Sealed Indictment" which is expected to be unsealed within an hour, and notes that the government will be "seeking detention."
+- **Documentation Request:** The bottom email specifically requests a "pedigree information," which typically refers to the family tree or background check data associated with a defendant.
+- **Device Used:** The bottom email footer explicitly states "Sent from my iPhone."
+- **Redaction Level:** A significant portion of the metadata (names) and signature blocks are redacted, likely for privacy reasons involving government officials or private individuals involved in the case.
+- **Redacted Phone Number:** In the top email, a cell phone number is partially visible as "My cell is [Redacted]," indicating a direct contact line was provided for urgent questions regarding detention.
+

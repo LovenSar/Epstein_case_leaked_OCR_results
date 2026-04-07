@@ -1,0 +1,31 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032381.pdf ts=2026-03-19T16:34:39 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: Mail Delivery Subsystem <MAILER-DAEMON@DJJMDCJC01-PPOINT09.jcots.jutnet.net>
+To: <[REDACTED]>
+Subject: Returned mail: see transcript for details
+Date: Wed, 14 Aug 2019 15:02:39 +0000
+Embedded: unnamed
+
+------------------------------------------------------------------------
+
+The original message was received at Wed, 14 Aug 2019 15:02:39 GMT
+from [10.187.9.62]
+
+------ The following addresses had permanent fatal errors ------
+<[REDACTED]>
+(reason: 550 Host unknown)
+
+------ Transcript of session follows ------
+550 5.1.2 <[REDACTED]>... Host unknown (Name server: [REDACTED]: host not found)
+
+
+## Structured Fields
+
+*   **Date**: Wed, 14 Aug 2019 15:02:39 +0000
+*   **Source Server**: MAILER-DAEMON@DJJMDCJC01-PPOINT09.jcots.jutnet.net
+*   **Incoming IP**: 10.187.9.62
+*   **Document ID (Footer)**: EFTA00032381
+*   **Error Type**: Permanent fatal error (550 Host unknown)
+

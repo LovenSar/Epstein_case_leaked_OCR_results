@@ -1,0 +1,156 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030798.pdf ts=2026-03-18T22:44:44 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a forensic email export or screenshot containing a threaded conversation between three distinct messages. The document is vertically oriented and consists of header metadata for three separate emails, stacked one above the other. All names and specific identifying information within the "From," "To," and "Cc" fields are heavily redacted with solid black bars.
+
+The top section shows an email forwarded regarding a Department of Justice (DOJ) investigation, dated March 27, 2020. A thick horizontal line separates the metadata from a large, completely blacked-out area that obscures the body content of this first message.
+
+Below that is a second email entry, sent on the same date (March 27, 2020) but slightly earlier in the afternoon. Its body content is also obscured by a wide black rectangular block spanning almost the full width of the page.
+
+The bottom section shows an earlier email in the chain, dated Saturday, March 7, 2020. Similar to the previous sections, the headers list redacted addresses ending with "(USANYS)", and a large black box at the bottom completely hides the message content. A document identification number appears in the bottom right corner of the page.
+
+## Visible Text (verbatim)
+**Top Section:**
+*   From: "[REDACTED] (USANYS)" <[REDACTED]>
+*   To: "[REDACTED] (USANYS)" <[REDACTED]>
+*   Subject: FW: DOJ ongoing Investigation.
+*   Date: Fri, 27 Mar 2020 18:26:20 +0000
+*   Inline-Images: image001.jpg; image002.jpg
+
+**Middle Section:**
+*   From: [REDACTED] (USANYS) <[REDACTED]>
+*   Sent: Friday, March 27, 2020 2:07 PM
+*   To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+*   Cc: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+*   Subject: RE: DOJ ongoing Investigation.
+
+**Bottom Section:**
+*   From: [REDACTED] (USANYS)
+*   Sent: Saturday, March 07, 2020 19:33
+*   To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+*   Cc: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+*   Subject: RE: DOJ ongoing Investigation.
+
+**Footer:**
+*   EFTA00030798
+
+## Notable Details / Clues
+*   **Agency Affiliation:** The text "(USANYS)" appears repeatedly, likely standing for United States Attorney's Office in the Southern District of New York (or similar), indicating these are government officials communicating.
+*   **Investigation Context:** The subject lines consistently reference a "DOJ ongoing Investigation," suggesting a legal matter involving the Department of Justice is being discussed.
+*   **Timeline Discrepancy:** There is a time jump in the headers. The bottom email is dated Saturday, March 7, while the top two emails are both dated Friday, March 27, implying a significant gap or separate event logged into this thread.
+*   **Redaction Style:** Redactions are handled using standard solid black rectangles, typical of legal privilege review or privacy protection measures in law enforcement documentation.
+*   **Missing Content:** The actual content of the emails—the text explaining the investigation details—is entirely missing due to the large black bars spanning the body of each message.
+*   **Inline Images:** The top email specifically references two inline images ("image001.jpg; image002.jpg"), which may contain evidence or screenshots relevant to the investigation but are not visible in this text-based export.
+*   **Time Zone:** The top date includes "+0000", indicating Coordinated Universal Time (UTC), whereas the "Sent" dates for the other emails use local US time (PM/AM).
+*   **Document ID:** The code "EFTA00030798" in the bottom right likely serves as a Bates number or case file reference ID.
+*   **Email Threads:** The subject lines use "FW:" (Forward) and "RE:" (Reply), indicating standard email threading behavior.
+*   **Consistency:** All three emails follow an identical redaction pattern where specific names are blacked out but the domain suffix "(USANYS)" remains visible.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email thread, likely from a litigation discovery system or corporate email archive, heavily redacted to protect sensitive information. The top half of the image is obscured by a large, solid black rectangle, hiding the original message body or a preceding part of the thread. Below this redaction block, standard email headers are visible. The first visible header block indicates a "From" line that is mostly redacted but identifies the sender with the domain or organization "(USANYS)". A timestamp shows the email was sent on Friday, February 14, 2020, at 12:17. The "To" and "Cc" fields contain multiple recipients, all partially redacted, though the text "(USANYS)" appears repeatedly next to blacked-out names. The subject line reads "FW: DOJ ongoing Investigation." Below this header block is a solitary blue text label reading "FYI," indicating this is a forwarded message for information purposes. Beneath that lies a second set of email headers, representing the original message being forwarded. The sender here is identified as "Gary Bloxsome," followed by redacted affiliation text. The timestamp is 12:00 on the same Friday. The recipient list includes names partially obscured by black bars, though one visible name is "Jennifer Richardson." The subject line for this inner email is simply "DOJ ongoing Investigation." Further down is a salutation starting with "Dear" followed immediately by a redacted name. The main body of the text contains a formal statement regarding an investigation involving the Department of Justice (DOJ) and an entity referred to as "the Duke of York." It alleges that DOJ dealings were not for investigation purposes but for gathering publicity for a specific official, Mr. Geoffrey S. Berman. The footer contains a document tracking number in the bottom right corner.
+
+## Visible Text (verbatim)
+*   **From:** [Black Bar] (USANYS)
+*   **Sent:** Friday, February 14, 2020 12:17
+*   **To:** [Black Bar] (USANYS) <[Black Bar]>; [Black Bar] (USANYS) <[Black Bar]>
+*   **Cc:** [Black Bar] (USANYS) <[Black Bar]>; [Black Bar] (USANYS) <[Black Bar]>
+*   **Subject:** FW: DOJ ongoing Investigation.
+*   **FYI**
+*   **From:** Gary Bloxsome [Redacted Text]
+*   **Sent:** Friday, February 14, 2020 12:00
+*   **To:** [Black Bar] (USANYS) <[Black Bar]>; [Black Bar] (USANYS) <[Black Bar]>; [Black Bar]
+*   [Black Bar][Black Bar]; Jennifer Richardson [Black Bar]; [Black Bar]
+*   **[Black Bar]** <[Black Bar]>
+*   **Subject:** DOJ ongoing Investigation.
+*   **Dear** [Black Bar]
+*   We and the Duke of York set out to assist your investigation when the DOJ asked for his help in January 2020.
+*   However, we regret to say that we have reached the conclusion that the DOJ’s dealings with the Duke of York have not been designed to seek his assistance in investigating and prosecuting the targets of the investigation but instead have been used only to gather publicity for Mr Geoffrey S. Berman, the United States Attorney for the Southern District of New York.
+*   **EFTA00030799**
+
+## Notable Details / Clues
+- **Document Classification:** The text "(USANYS)" appears frequently, which likely stands for United States Attorney - Southern District of New York, consistent with the mention of the U.S. Attorney's name later in the text.
+- **Timeline:** The email exchange took place on February 14, 2020 (Valentine's Day). The text references that DOJ assistance was requested in January 2020.
+- **Subject Matter:** The email is a formal complaint or statement of conclusion regarding the conduct of an investigation. It accuses the DOJ of using the "Duke of York" (likely a law firm or individual) for publicity rather than genuine investigative help.
+- **Key Entities Named:**
+    - **Gary Bloxsome:** Identified as the sender of the underlying email.
+    - **The Duke of York:** A specific entity being investigated or involved, possibly a pseudonym for a person or firm.
+    - **Geoffrey S. Berman:** The United States Attorney for the Southern District of New York is specifically named as the beneficiary of alleged publicity efforts.
+    - **Jennifer Richardson:** Visible in the "To" field of the inner email thread.
+- **Formatting:** The use of black bars indicates this document has been redacted for privacy or legal reasons, likely from a public court filing (indicated by the "EFTA" prefix in the footer).
+- **Tone:** The body text is formal and accusatory ("we regret to say," "not been designed," "used only to gather publicity").
+- **Header Structure:** The "FW:" in the top subject line indicates a chain of correspondence, where the sender received an email from Gary Bloxsome and is passing it along with an "FYI."
+- **Date Consistency:** Both emails in the thread were sent within minutes of each other (12:00 and 12:17).
+- **Redaction Extent:** Almost all names and specific email addresses are obscured, leaving only organizational affiliations and one specific individual's last name.
+- **Body Paragraph Count:** There is one visible paragraph in the body of the email starting after "Dear [Redacted]".
+- **Case Reference ID:** The string "EFTA00030799" at the bottom right suggests an internal case management or tracking number (possibly Electronic File Transfer Agency or similar).
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+It is essential, if justice is to be done for Epstein’s victims, that a proper and thorough criminal investigation is carried out. Although the public record indicates your office (SDNY) has been actively investigating Mr. Epstein and other targets for more than 2 years, the first time you ever attempted to make contact and request The Duke of York’s help was on 2 January 2020.
+
+The Duke instructed my firm to make contact with you pertaining to this request. When we made contact, you confirmed that the Duke of York was not and is not a target of the US criminal investigation.
+
+Due to the publicity surrounding the investigation, we asked you to confirm that our discussions and any interview arrangements would remain confidential, in accordance with your rules. The Duke did not want to add to the media circus that has now surrounded the investigation. On 10 January 2020 you confirmed that any arrangements would indeed be kept confidential.
+
+We indicated that we would refer back to you once we had dealt with the various issues and procedures, which would need to be addressed to enable the Duke to cooperate to the fullest extent possible, including the need to obtain all the information that you might need to consider. It was at that time that we informed you, by email dated 20 January, that such preliminary issues would be dealt with within 14 days. It was also in that email that we confirmed that The Duke has a strong desire to cooperate with the ongoing investigation by the DOJ.
+
+Instead of waiting to hear from us (as you indicated on 22 January 2020), Mr Geoffrey S. Berman, the United States Attorney for the Southern District of New York, chose to make a public statement about the Duke on 27 January 2020. This led to press reports that there had been “a wall of silence” and that there had been “zero co-operation” by the Duke. These statements were not true. They should not have been made.
+
+Quite apart from your promise of confidentiality, in England it would not be thought to be in the interests of justice for any prosecutor or investigator to make public statements about witnesses who may be willing, in confidence, to assist their investigation.
+
+In England, prosecutors and investigators try to make sure that the investigation and trial of serious criminal cases take place in court and not in press conferences or publicity battles.
+
+When we complained about the way the Duke (and we) had been treated by the DOJ, you refused to apologise and you have now also gone back on your promise that any arrangements for the interview will be confidential.
+
+We cannot advise the Duke to speak to prosecutors who cannot be trusted to deal with him fairly nor to treat what he says or does confidentially. He has reluctantly accepted our advice that, in those circumstances, there is no purpose to be served in continuing to try to assist further.
+
+Finally we have no wish to engage in any further publicity battle about the DOJ’s conduct and for that reason we ask that you treat this email as private and confidential.
+
+Regards
+
+Gary
+
+## Structured Fields
+*   **Date:** 2 January 2020, 10 January 2020, 20 January (email dated), 22 January 2020, 27 January 2020
+*   **Name:** Epstein, The Duke of York, Mr Geoffrey S. Berman, Gary
+*   **Organization/Office:** SDNY (Southern District of New York), DOJ (Department of Justice)
+*   **Location:** England, Southern District of New York
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Gary Bloxsome | Partner
+[REDACTED]
+
+Blackfords LLP | 15 Old Bailey | London | EC4M 7EF
+DX 161400 Old Bailey 5 | 020 3427 3343 | www.blackfords.com
+
+![Chambers UK 2020 Logo]
+![The Legal 500 Top Tier 2020 Logo]
+
+Blackfords LLP is a limited liability partnership registered in England & Wales with registered number OC325398 at Hill House, 1 Mint Walk, Croydon, CR0 1EA. A list of members' names is available at this address.
+
+GDPR: details of how we handle personal data can be found in our Privacy Statement
+
+Authorised and regulated by the Solicitors Regulation Authority under number 462078.
+
+EFTA00030801
+
+## Structured Fields
+- **Name:** Gary Bloxsome
+- **Role:** Partner
+- **Organization:** Blackfords LLP
+- **Address:** 15 Old Bailey, London, EC4M 7EF
+- **DX:** DX 161400 Old Bailey 5
+- **Phone:** 020 3427 3343
+- **Website:** www.blackfords.com
+- **Registered Number:** OC325398
+- **Registered Address:** Hill House, 1 Mint Walk, Croydon, CR0 1EA
+- **SRA Number:** 462078
+- **Recognition (Chambers):** Leading Firm UK 2020
+- **Recognition (Legal 500):** Top Tier 2020
+- **Document ID:** EFTA00030801
+

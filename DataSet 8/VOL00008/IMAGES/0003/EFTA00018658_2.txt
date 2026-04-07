@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018658.pdf ts=2026-03-13T20:09:46 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot or printout of an email thread containing three distinct message blocks, stacked vertically from top to bottom. The document is heavily redacted with solid black bars obscuring names, email addresses, and specific case details.
+
+**Top Section:**
+This block represents the most recent email in the chain. It features standard email headers where the "From," "To," and "Cc" fields are completely blacked out. The subject line begins with "FW: Referral of MLAT Request from France." Below this is a timestamp for Wednesday, December 30, 2020, at 15:06:08 UTC. An attachments section lists three PDF files; the first two are filenames related to "Depi" (likely Deposition or similar document) in English and French, while the third attachment name is partially redacted but references a "Referral_Letter_(SDNY)_(December_2020)."
+
+**Middle Section:**
+Separating the top section from the content below is a thin horizontal line. Below this, on the far left, is the text "FYI" in blue. The next block down is another email header where the "From," "To," and "Subject" lines are mostly blacked out, with the subject reading "FW: Referral of MLAT Request from France." The sent time for this specific message is listed as Wednesday, December 30, 2020, at 9:32 AM.
+
+**Bottom Section (Content):**
+This section contains the primary body text of an earlier email in the thread. It includes headers with redacted "From," "To," and "Cc" fields. The subject line is "Referral of MLAT Request from France." The message body begins with a salutation to a redacted recipient, followed by a polite greeting about end-of-year festivities. The core text explains that the sender is referring an MLAT (Mutual Legal Assistance Treaty) request from French authorities regarding an investigation into a subject recently arrested and examined in Paris. The text mentions contact regarding "Maxwell bail proceedings" via "SDNY." The message concludes with New Year's wishes. The signature block identifies the sender as a "DOJ Attaché/Magistrat de liaison américain" (U.S. Department of Justice Attaché/US Magistrate Liaison) at the U.S. Embassy, Paris. Below the signature is contact information starting with "Ofc." and "Mob." which are redacted. A document reference number "EFTA00018658" appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Header Block:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: FW: Referral of MLAT Request from France ([Redacted])
+*   Date: Wed, 30 Dec 2020 15:06:08 +0000
+*   Attachments: [Redacted] 2020002015-Depi_En.pdf; 2020002015-Depi_Fr.pdf; [Redacted]_Referral_Letter_(SDNY)_(December_2020).pdf
+
+**Middle Header Block:**
+*   FYI
+*   From: [Redacted]
+*   Sent: Wednesday, December 30, 2020 9:32 AM
+*   To: [Redacted]
+*   Subject: FW: Referral of MLAT Request from France ([Redacted])
+
+**Bottom Header & Body Block:**
+*   From: [Redacted]
+*   Sent: Wednesday, December 30, 2020 5:58 AM
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: Referral of MLAT Request from France ([Redacted])
+*   Dear [Redacted]
+*   I hope you are both doing well, and have been enjoying the end of year festivities.
+*   I am referring for your attention an MLAT request from the French in relation to their investigation of [Redacted] (who was recently arrested and placed under examination here in Paris). Since I have been in touch anyway with [Redacted] and [Redacted] about the Maxwell bail proceedings, I took the opportunity to mention that this might be coming their way.
+*   Thanks in advance, and happy new year! - [Redacted]
+*   [Redacted]
+*   DOJ Attaché/Magistrat de liaison américain
+*   U.S. Embassy, Paris
+*   [Redacted]
+*   Ofc. ([Redacted])
+*   Mob. ([Redacted])
+*   EFTA00018658
+
+## Notable Details / Clues
+*   **Date and Timing:** The emails are dated December 30, 2020, with the main message sent at 5:58 AM. The "happy new year" sign-off confirms this is the very last day of 2020.
+*   **Legal Context (MLAT):** MLAT stands for Mutual Legal Assistance Treaty, indicating international cooperation between legal authorities (US and France) to share evidence or conduct investigations.
+*   **Specific Case Reference:** The text mentions "Maxwell bail proceedings" and "SDNY" (Southern District of New York), linking this correspondence to high-profile U.S. legal cases involving Donald Trump’s personal attorney, Michael Cohen (often associated with the Maxwell investigation).
+*   **Location:** The correspondence takes place between the French judiciary/police ("here in Paris") and the US Embassy in Paris.
+*   **Redaction Level:** The heavy black bars suggest this document is sensitive intelligence or classified legal work-product, likely released under Freedom of Information Act (FOIA) with personal identifiers scrubbed for public viewing.
+*   **File Attachments:** The filenames "2020002015" contain a long numeric string, which is often an internal tracking number used by government agencies (like the DOJ or FBI).
+*   **Title/Role:** The sender identifies as both a "DOJ Attaché" and "Magistrat de liaison américain," indicating a dual role representing the US Department of Justice within the French diplomatic corps.
+

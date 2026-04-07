@@ -1,0 +1,77 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006039.pdf ts=2026-03-07T19:35:12 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a single, vertically oriented document page with a distinct light blue or greyish-blue tint across the entire background, likely due to lighting or paper stock color. In the center of the page, large, bold, uppercase text is stacked in three lines. The text appears to be printed in a dark, sans-serif font. Below this central block, there is handwritten text in a fainter ink, possibly pencil or faded ballpoint pen, written in a casual cursive script. At the very bottom of the page, aligned to the left and right edges respectively, are lines of smaller, printed instructional text and an identification code. Near the top edge, there is a faint, dark rectangular smudge that resembles tape residue or a partial stamp mark against a slightly darker blue band.
+
+## Visible Text (verbatim)
+**Central Block:**
+CSAM
+NOT
+SCANNED
+
+**Handwritten Note:**
+7 images
+
+**Footer Text:**
+Official DocLab Instruction(s) – Revised March 10th, 2025
+
+**Bottom Right ID:**
+EFTA00006039
+
+## Notable Details / Clues
+*   **Document Purpose:** The page functions as a cover sheet or placeholder for a batch of documents, indicating that the following content is restricted.
+*   **"CSAM" Acronym:** The text "CSAM" likely refers to Child Sexual Abuse Material; the phrase "NOT SCANNED" suggests that this specific content was flagged and excluded from standard digital processing or OCR extraction, serving as a legal or safety warning.
+*   **Handwritten Annotation:** The handwritten note "7 images" suggests a manual count of the physical documents present in the batch that were either skipped or noted for review by an operator.
+*   **Future Date:** The footer text lists a revision date of "March 10th, 2025," which is in the future relative to the current real-time context, suggesting this might be a template document or a file from a specific dataset labeled with that metadata.
+*   **Brand/Software Source:** The text "Official DocLab Instruction(s)" identifies the software platform ("DocLab") used for document capture and scanning operations.
+*   **Unique Identifier:** The alphanumeric string "EFTA00006039" serves as a unique tracking number for the batch or the specific scan job.
+*   **Visual Consistency:** The layout is standard for administrative cover sheets, prioritizing legibility with high-contrast text centered on the page.
+*   **Scan Artifacts:** There are minor noise patterns and color shifts typical of older document scanner technology or photocopy processes, particularly visible in the grainy texture of the background.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+MM15
+
+## Structured Fields
+-   Doc ID: EFTA00006040
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+MM 03
+
+
+## Structured Fields
+*   **Doc ID:** EFTA00006041
+*   **Notes/Markings:** MM 03
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image displays a black-and-white scan of a document page, likely part of a legal or official file, characterized by significant paper noise and speckling typical of microfilm or fax reproduction.
+- Dominating the upper center and left quadrant is a large, solid black rectangular shape. Inside this black area, towards the right side, is a distinct white square, creating a negative space effect within the dark block.
+- Faint white scratch marks or lines are visible across the surface of the large black rectangle, suggesting wear on an overlay or underlying transparency.
+- Below the black graphic, occupying the lower third of the page, is a plain white area.
+- In the bottom left corner, there is a distinct rectangular stamp with a thick border. Inside this stamp, text runs vertically from top to bottom.
+- Just to the right of the stamp, on the white background, is the alphanumeric string "MM 15".
+- A thin vertical line runs along the entire right edge of the image, and faint vertical lines appear on the left edge, indicating the physical boundaries of the page or a binder spine.
+- The bottom right corner features a printed identification code.
+- The overall composition suggests a cover sheet or an exhibit page used for display in a courtroom or investigation setting.
+
+## Visible Text (verbatim)
+- **Stamp Text (vertical):** "GOVERNMENT" above "EXHIBIT".
+- **Central Text:** "MM 15".
+- **Bottom Right Code:** "EFTA00006042".
+
+## Notable Details / Clues
+- The stamp is a standard "Government Exhibit" label, indicating the document was submitted as evidence in a legal proceeding.
+- The code "EFTA00006042" appears to be a Bates number or a specific archival ID used for indexing and tracking documents within an agency (likely related to EFTA).
+- The text "MM 15" is ambiguous but could refer to a model, month-day designation (May 15th, though 'M' usually denotes May), or a page reference code.
+- The white square cutout inside the large black block is geometric and precise, possibly intentional redaction of sensitive information or a specific graphical symbol intended for the layout.
+- The image quality, with its grainy texture and high contrast, suggests it was digitized from an older physical medium, such as microfilm or a photocopy rather than an original digital file.
+- The orientation of the stamp text is vertical, which is a common characteristic of rubber stamps applied to documents in a filing system.
+

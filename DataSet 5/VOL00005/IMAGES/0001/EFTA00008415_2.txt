@@ -1,0 +1,39 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008415.pdf ts=2026-03-09T06:42:45 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down, high-angle shot of a digital evidence package resting on a speckled granite-style countertop. The central object is a clear, rectangular plastic bag (top-load style) containing a smaller, sealed clamshell-style plastic case. Inside the case is a stack of electronic storage media—specifically hard drive enclosures wrapped in protective foil or bubble wrap—bundled together by two thin rubber bands. A bright red strip of tape spans the top of the package with black "EVIDENCE" lettering. Attached to the side of the bundle is a bright lime-green label containing metadata about the contents. The entire assembly lies on top of a large, folded brown paper document envelope (brand name "SMEAD" visible at the top). The brown folder has visible perforated stitch lines along the left and right margins. Beneath the clear bag on the bottom left, a corner of a white sheet of paper is visible.
+
+## Visible Text (verbatim)
+**Brown Folder Top Edge:**
+- SМЕAD (logo)
+- NO. 1056EL
+- UPC 71007
+
+**Red Tape:**
+- EVIDENCE (printed in reverse/through the bag)
+- Handwritten date: "16/19" (likely August 16, 2019)
+
+**Green Label:**
+- Header: "90A-NY-3151227 ReqID 112047 1B40"
+- Date/Type: "08/14/2019 MC MASTER COPY"
+- Description Line 1: "Submission of downloaded video from Metropolitan Correctional Center (MCC) located at 150 Park Row:"
+- Description Line 2: "One (1) Seagate 500GB HDD. S/N W2AEXSJV."
+- Description Line 3 (Partial): "...containing video downloaded from DVR1 at MCC"
+- Description Line 4 (Partial): "...for download for 8/10/19; all relevant video from Special Housing Unit floor 9 and Attorney Visit area floor 3 from..."
+
+## Notable Details / Clues
+- **Evidence Chain of Custody:** The presence of the red "EVIDENCE" tape, the clear sealed bag, and the specific metadata label indicates this item is part of a legal or investigative chain of custody.
+- **Date Discrepancy:** The printed label date is 08/14/2019, while the handwritten date on the red evidence tape appears to be 16/19 (August 16th). This suggests the item was processed/sealed two days after it was initially received or logged.
+- **Specific Hardware:** The text identifies a specific piece of hardware: a Seagate 500GB Hard Disk Drive with Serial Number "W2AEXSJV".
+- **Location Context:** The metadata explicitly links the storage media to the Metropolitan Correctional Center (MCC) in New York City ("150 Park Row"), indicating law enforcement activity within a high-security correctional facility.
+- **File Organization:** The identifier "90A-NY" likely refers to a geographic jurisdiction code for the New York Police Department or similar agency. The number "1B40" likely corresponds to a specific drawer, locker, or file bin in an evidence room.
+- **Data Content:** The label describes the contents as "downloaded video," suggesting surveillance footage was extracted from the drive (DVR) for preservation and review.
+- **Packaging Method:** The use of rubber bands suggests multiple drives might be included or that a single large drive is being secured tightly within the clamshell case to prevent movement during shipping.
+- **"Master Copy":** The label "MC MASTER COPY" indicates this is the primary version of the evidence, distinguishing it from forensic copies (which are typically labeled FC for Forensic Copy).
+- **Brand Identification:** The brown folder bears the logo of "SMEAD," a common manufacturer of filing products often used in police and legal settings.
+- **Transparency/Sealing:** The use of a clear outer sleeve allows inspectors to visually verify the integrity of the inner evidence bag (the clamshell) without opening the primary seal.
+- **Surface Texture:** The background surface is a polished stone or laminate with flecks of black, white, and tan, typical of laboratory countertops or police desk surfaces.
+- **Bottom Label Text:** Although cut off at the bottom, there is additional text visible regarding "download failed" events, indicating technical difficulties during the data extraction process from the surveillance system.
+

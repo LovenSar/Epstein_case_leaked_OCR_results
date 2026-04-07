@@ -1,0 +1,113 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028337.pdf ts=2026-03-17T22:06:00 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, likely from an electronic discovery export or legal document review system given the redacted headers and the footer ID number. The document is composed of stacked email messages separated by horizontal lines.
+
+At the very top, standard email headers are visible but partially obscured by black bars covering "From," "To," and "Cc" fields. The subject line reads "RE: SDNY investigation (Rodgers)" and the date is listed as "Thu, 06 May 2021". Below this header is the body of the most recent email, addressed to a recipient named "Brendan." The text asks if he has time for a quick call about "this case" regarding the SDNY investigation. This section ends with "Thanks," followed by a large black rectangular redaction block obscuring the sender's signature or name.
+
+A horizontal grey line separates this from the next section, which contains an older email dated "Friday, June 5, 2020." The headers for this middle email are also heavily redacted. The body text begins with "Appreciate the courtesy," suggesting a response to an incoming inquiry. It mentions not to pass on contact info but offers to be contacted if issues arise in the investigation. This section is signed by "Brendan F. Quigley," followed by another redacted block.
+
+Below Brendan's signature is a divider line labeled "On Jun 5, 2020, at 3:19 PM" (sender name redacted) "wrote:". This introduces the earliest visible text in blue font, indicating it was an "[EXTERNAL EMAIL]." The content explains that an attorney for someone with an active civil case connected to Epstein contacted them regarding the current counsel for Mr. Rodgers. It mentions seeking a request or subpoena but notes they haven't asked specifically yet. The text concludes by offering to pass along contact info so the attorney can reach out directly.
+
+In the bottom right corner, a alphanumeric identifier "EFTA00028337" is printed in grey text. Throughout the document, sensitive personal information such as names and email addresses has been redacted with solid black rectangles. The font is a standard sans-serif typeface typical of corporate email clients (like Outlook or Gmail).
+
+## Visible Text (verbatim)
+**Header Section:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: SDNY investigation (Rodgers)
+Date: Thu, 06 May 2021 16:48:12 +0000
+
+**Email Body 1:**
+Hi Brendan,
+
+Hope you’re doing well. Do you have time this afternoon or tomorrow for a quick call about this case?
+
+Thanks,
+[Redacted Box]
+
+**Divider Line**
+
+**Header Section 2:**
+From: [Redacted]
+Sent: Friday, June 5, 2020 3:35 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: Re: SDNY investigation (Rodgers)
+
+[Redacted Box]
+
+**Email Body 2:**
+Appreciate the courtesy. Please do not pass on our contact info. That said, feel free to contact us if anything comes up in your investigation.
+
+Thank you. Hope you guys are all hanging in okay.
+
+Brendan F. Quigley
+[Redacted Box]
+
+**Divider Line:**
+On Jun 5, 2020, at 3:19 PM [Redacted] wrote:
+
+[EXTERNAL EMAIL]
+Brendan,
+
+An attorney for an individual who has an active civil case in connection with Epstein has reached out to us to ask if we know the current counsel for Mr. Rodgers. I assume that the attorney is seeking to serve a request or subpoena for documents and/or testimony, though we haven’t asked specifically.
+
+I don’t think we ordinarily engage on that type of question, but given that we have been in touch with you in connection with our interview of Mr. Rodgers, if you’d like we can pass along your contact info, so that the attorney goes to you
+
+**Footer:**
+EFTA00028337
+
+## Notable Details / Clues
+*   **Chronology:** The emails are not strictly chronological top-to-bottom. The top email is from May 2021, while the "wrote" section at the bottom dates back to June 2020. This suggests the top email references a case that was previously discussed in the 2020 thread.
+*   **Case Context:** The text mentions "SDNY investigation (Rodgers)" and "active civil case in connection with Epstein." This places the document in the context of high-profile legal proceedings involving Jeffrey Epstein and potentially Paul Rosenfeld (Mr. Rodgers).
+*   **Legal Posturing:** The middle email from Brendan F. Quigley advises against passing contact information ("Please do not pass on our contact info"), which is a common tactic to maintain privilege or control over communication channels during sensitive investigations.
+*   **Redaction Patterns:** All "From", "To", and signature fields are heavily blacked out, indicating this document has been processed for privacy or legal protection before publication.
+*   **External Source:** The blue text explicitly identifies the 2020 message as an "[EXTERNAL EMAIL]," highlighting a boundary between the organization sending the email and outside counsel or investigators.
+*   **ID Number:** The string "EFTA00028337" in the corner is likely a Bates number or case management ID, confirming this is part of a formal legal file.
+*   **Date Discrepancy:** The "On Jun 5, 2020... wrote:" timestamp says "3:19 PM" while the header above it says "3:35 PM". This suggests the 3:19 PM email is the one being quoted in blue, and the 3:35 PM timestamp belongs to the reply immediately preceding it.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+rather than attempting to contact or serve Mr. Rogers directly. And if not, of course no problem, and we’ll just let him know that we’re not able to comment one way or the other on the status of any counsel. Whatever you prefer.
+
+Thanks, and hope you’re well these days.
+
+[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, February 07, 2020 18:36
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: SDNY investigation (Rodgers)
+
+Thanks[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, February 7, 2020 6:13 PM
+To: Quigley, Brendan [REDACTED]
+Cc: [REDACTED]
+Subject: RE: SDNY investigation (Rodgers)
+
+[EXTERNAL EMAIL]
+Brendan,
+
+As promised, attached please find a copy of the proffer agreement signed today.
+
+thanks
+[REDACTED]
+
+Confidentiality Notice:
+The information contained in this email and any attachments is intended only for the recipient[s] listed above and may be privileged and confidential. Any dissemination, copying, or use of or reliance upon such information by or to anyone other than the recipient[s] listed above is prohibited. If you have received this message in error, please notify the sender immediately at the email address above and destroy any and all copies of this message.
+
+EFTA00028338
+
+## Structured Fields
+*   **Date:** February 07, 2020
+*   **Recipient Name:** Quigley, Brendan
+*   **Subject Line:** RE: SDNY investigation (Rodgers)
+*   **Document ID/Reference:** EFTA00028338
+

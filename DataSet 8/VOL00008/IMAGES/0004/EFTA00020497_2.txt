@@ -1,0 +1,153 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020497.pdf ts=2026-03-14T14:21:52 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Intake (Rev. 5-23-17)
+
+UNCLASSIFIED
+FEDERAL BUREAU OF INVESTIGATION
+Intake
+
+Date: 08/24/2020
+
+Case ID #: 50D-NY-3027571                  (U) EPSTEIN, JEFFREY; CHILD SEX TRAFFICKING
+
+Drafted By: [REDACTED]
+
+Date/Time Received: 08/24/2020 05:13 PM EDT
+
+Details:
+On 08/24/2020, at 11:34:48 AM Eastern Time, [REDACTED] [REDACTED], Home telephone number [REDACTED], Email account [REDACTED], Residential address [REDACTED], Internet Protocol (IP) address [REDACTED], which resolves to North Port, Florida 34287, submitted an online tip to the FBI National Threat Operations Center (NTOC) via tips.fbi.gov, regarding a video in relation to Jeffrey Epstein.
+
+Date Submitted: 08/24/2020 11:34:48 AM ET
+Transaction Number: 69F5232F-3BF7-4FFA-AF52-2503E10185FF
+
+Threat To Life: False
+Submitted Text:
+Watched a disturbing video which came up and supposedly was a confession / minor child  confession who worked for Ebstein involving a murder of woman.
+
+Violation: Other
+
+UNCLASSIFIED
+EFTA00020497
+
+## Structured Fields
+*   **Date:** 08/24/2020
+*   **Case ID #:** 50D-NY-3027571
+*   **Subject Name:** EPSTEIN, JEFFREY
+*   **Location:** North Port, Florida 34287
+*   **Organization:** FBI National Threat Operations Center (NTOC), FEDERAL BUREAU OF INVESTIGATION
+*   **Document ID:** EFTA00020497
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+UNCLASSIFIED
+Re: 50D-NY-3027571, 08/24/2020
+
+Violation Questions
+
+What was the exact crime that occurred?: Epstein worker confession in a video
+
+When did the crime/incident occur? (Please provide an approximate date and time): Today 8/24/20
+
+Where did the crime/incident occur? (Please provide the specific location/address if possible): Unknown
+
+Complainant Information
+
+First Name: [REDACTED]
+Middle Name:
+Last Name: [REDACTED]
+Age:
+DOB:
+Additional Info:
+Type: Home
+Phone: [REDACTED]
+Extension:
+Account: [REDACTED]
+Type: Residential
+Address: [REDACTED]
+City:
+
+UNCLASSIFIED
+2
+EFTA00020498
+
+## Structured Fields
+*   **Case ID:** 50D-NY-3027571
+*   **Date:** 08/24/2020 (Report Date)
+*   **Crime Description:** Epstein worker confession in a video
+*   **Location:** Unknown
+*   **Complainant Type:** Home / Residential
+*   **Classification:** UNCLASSIFIED
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+UNCLASSIFIED
+Re: 50D-NY-3027571, 08/24/2020
+
+Zip:
+
+Country: United States
+
+Victim Information
+First Name:
+Middle Name:
+Last Name:
+Age:
+DOB:
+Additional Info:
+Type: Other
+Address:
+City:
+Zip:
+
+Remote IP: [REDACTED]
+Remote Host: api.fbi.gov
+Http Referrer: https://www.fbi.gov/wanted/operation-legend
+User Browser: Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148
+
+UNCLASSIFIED
+3
+
+EFTA00020499
+
+## Structured Fields
+
+*   **Date:** 08/24/2020
+*   **Case ID / Reference:** 50D-NY-3027571
+*   **Location:** United States
+*   **Organization:** FBI (derived from domain api.fbi.gov and www.fbi.gov)
+*   **Document ID:** EFTA00020499
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+UNCLASSIFIED
+Re: 50D-NY-3027571, 08/24/2020
+
+Safari/604.1
+
+Latitude: [REDACTED]
+Longitude: -[REDACTED]
+Country: US
+Region: Florida
+City: North Port
+Postal Code: 34287
+Timezone: -04:00
+
+
+◆ ◆
+
+UNCLASSIFIED
+4
+EFTA00020500
+
+## Structured Fields
+- **Date**: 08/24/2020
+- **Case ID/Reference**: 50D-NY-3027571
+- **Image ID**: EFTA00020500
+- **Country**: US
+- **Region**: Florida
+- **City**: North Port
+- **Postal Code**: 34287
+- **Timezone**: -04:00 (EDT)
+

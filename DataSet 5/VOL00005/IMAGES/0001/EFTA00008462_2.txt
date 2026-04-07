@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008462.pdf ts=2026-03-09T07:11:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Primary Subject:** The central focus is a standard 3.5-inch internal hard disk drive encased in a rigid, clear anti-static plastic molding tray designed for shipping evidence or components.
+*   **Plastic Molding:** The plastic case features distinct transparent "bulbous" bumps or grips at all four corners and along the sides to keep the metal casing secure within the blister pack without direct contact pressure on the sensitive platters.
+*   **Drive Branding:** The main faceplate displays the Western Digital logo, identifying the specific product line as "WD Caviar" with the model number "WD2500" prominently displayed in large black font.
+*   **Regulatory Stickers:** Below the manufacturer's label, there is a cluster of regulatory compliance stickers featuring standard safety logos (UL, CE, FCC) and warnings regarding AC power adapters or legacy power protection.
+*   **Evidence Seals:** Overlying the original manufacturer labels are white security or evidence tags applied by "New York CART Lab," indicated by the text at the very top of the drive faceplate.
+*   **Barcodes and Scans:** Both the top lab sticker and the central manufacturer label feature long barcodes intended for scanning inventory control, tracking chains of custody, or identifying specific serial data.
+*   **Date Stamping:** The manufacturer's label explicitly states a manufacturing date of "21 NOV 2009," providing a timestamp for the hardware's production origin.
+*   **Serial Information:** Several alphanumeric strings are visible, including an ID starting with "NYC025654" and another code reading "FE BINY," suggesting specific internal cataloging or file indexing codes.
+*   **Background Environment:** The object rests on a speckled surface, likely a granite countertop, characterized by a mix of grey, white, and blue mineral flecks visible along the left and right borders.
+*   **Cardboard Surroundings:** Large flaps of plain brown corrugated cardboard frame the top and right sides of the image, suggesting this drive is part of a larger shipping box or evidence bag assembly.
+*   **White Paper Background:** Beneath the plastic packaging, a sheet of white paper is visible through the clear material at the bottom left, showing faint reflections or shadows of text from documents underneath.
+*   **Peripheral Wiring:** A thin black cable or wire runs horizontally across the bottom left corner, partially exiting the frame, which may be associated with the drive assembly or testing equipment.
+
+## Visible Text (verbatim)
+*   **Top Sticker:** "New York CART Lab"
+*   **ID Number:** "NYC025654"
+*   **Manufacturer Label:** "Western Digital", "WD Caviar", "WD2500", "8VDC", "250.0 GB"
+*   **Model Info:** "MDL: WD2500JD-96G980", "DATE: 21 NOV 2009", "DCM: NSCHCVJAA", "Product of Malaysia"
+*   **Evidence Label (Middle):** "FE BINY", "NY C025654", "Master Copy"
+*   **Bottom Warning:** "WARNING: One or more AC Power or Legacy Power protection...", "DO NOT CONNECT THIS DRIVE TO A PC OR OTHER DEVICE..."
+
+## Notable Details / Clues
+*   **Forensic Context:** The presence of the "New York CART Lab" sticker strongly implies this drive is a seized piece of digital evidence processed by the New York Crime Analysis and Records Technical Center (or similar entity).
+*   **Chain of Custody:** The combination of official barcodes, evidence tags ("FE BINY"), and date stamps (manufacturing vs. seizure) allows analysts to distinguish between the hardware's origin and its acquisition as evidence.
+*   **Hardness/Seal:** The hard disk is encased in a sealed blister pack, indicating it has not yet been mounted or physically tampered with in a way that would damage the internal magnetic platters or firmware partition tables.
+*   **"Master Copy" Annotation:** The handwritten text "Master Copy" suggests this specific image file represents the original evidence media before any forensic analysis or data cloning was performed on secondary drives.
+

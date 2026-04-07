@@ -1,0 +1,26 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000991.pdf ts=2026-03-05T09:50:33 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a high-angle, close-up view of a large, clear plastic storage bin resting on a shelf within a beige shelving unit. The bin is nearly full and contains several retail boxes of 3.5-inch computer hard drives. The boxes are arranged somewhat haphazardly. On the left side, two boxes are stacked; the top one features a Western Digital drive graphic on its label. Below that, another box is visible with orange geometric patterns. To the right, a stack of three boxes dominates the view. The top right box shows a Seagate drive and bears the text "PATA/100". Directly beneath it is a box featuring a black-and-white image of a hard drive circuit board side with the text "DATA/100". Bright yellow tape, printed with the word "EVIDENCE" in black capital letters, is wrapped around the top and sides of several boxes. To the far right edge of the frame, a second identical plastic bin is partially visible, containing similar boxed items stacked vertically. The background consists of the interior walls of a cabinet or shelf, showing screw holes and wooden trim at the bottom.
+
+## Visible Text (verbatim)
+- "EVIDENCE" (printed in black on yellow tape, repeated multiple times around the boxes).
+- "PATA/100" (printed on the white box labels).
+- "DATA/100" (printed on a white box label near the bottom right).
+- "Seagate" (visible logo on the top right box).
+- "WD" (Western Digital logo visible on hard drive graphics).
+- "320 Gb" (visible on a small black sticker/tab on one of the boxes).
+- "EFT A00000991" (watermark text in the bottom right corner).
+
+## Notable Details / Clues
+- **Forensic Context:** The yellow tape explicitly labeled "EVIDENCE" indicates that these hard drives have been seized and are being stored as part of a criminal or civil investigation.
+- **Drive Technology:** The labels "PATA/100" refer to Parallel ATA (IDE) hard drives, which were common in the early-to-mid 2000s, suggesting the age or type of data involved might be from that era or are older seized items.
+- **Storage Density:** The bin is packed tightly, maximizing space for storage, implying a high volume of evidence collection (potentially hundreds of drives if multiple bins are used).
+- **Watermark:** The alphanumeric code "EFT A00000991" suggests an official evidence tracking system or inventory database associated with the case.
+- **Stacking Arrangement:** The boxes are not perfectly aligned; some are slightly askew, suggesting they were loaded quickly without much organization, typical of a busy evidence processing center.
+- **Translucency:** The clear plastic bin allows viewers to see through the bottom layers of boxes, revealing faint text like "PATA/100" and other packaging details on items stored deeper in the bin.
+- **Condition:** The hard drives appear to be new-in-box (NIB), as they are inside their original factory retail packaging with graphics intact.
+- **Right Bin Content:** The partially visible bin on the right contains boxes that appear to have blue labeling, possibly different models or manufacturers compared to the Western Digital and Seagate boxes in the main bin.
+

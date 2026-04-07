@@ -1,0 +1,241 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030842.pdf ts=2026-03-18T23:27:56 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital email thread, likely from Microsoft Outlook or a similar client, viewed in vertical layout. The document is heavily redacted; specific names, email addresses, and full message bodies are covered by thick black bars to obscure identity. The background is white with standard sans-serif text.
+
+At the very top, there is a primary header block showing the sender (redacted), recipients (redacted), CC line (redacted), and subject line "RE: Brunel". The timestamp for this final message reads "Tue, 12 Jan 2021 15:01:16 +0000".
+
+Below the header, the body of the email begins with a fragment reading "Thanks [Redacted] We can use the following: [Redacted]". This is followed by a nested email chain separated by horizontal grey lines.
+
+The first nested message, dated 9:55 AM on Jan 12, contains a short acceptance of a time slot ("Sure, I can do 11am") and a request for a phone number ("Let me know what # to call.").
+
+Following this is a section with a blacked-out header, but below it appears a blue hyperlink reading "U.S. Embassy, Paris", followed by three redacted lines representing email addresses.
+
+The next nested message is dated 3:36 PM on Jan 12. It contains a polite inquiry asking if the recipient has time to speak "today about this," noting availability "after 11 am EST."
+
+The final visible nested message in the chain is dated 6:11 AM (presumably the following morning given the date consistency). It simply states "Here are my comments." Below this text is another large redaction block, followed again by the blue hyperlink "U.S. Embassy, Paris."
+
+In the bottom right corner of the image, a unique alphanumeric code "EFTA00030842" is visible.
+
+## Visible Text (verbatim)
+**Header:**
+From: [Redacted]
+To: "[Redacted]" <[Redacted]>; "[Redacted]"
+Cc: "[Redacted]"
+Subject: RE: Brunel
+Date: Tue, 12 Jan 2021 15:01:16 +0000
+
+**Body Text:**
+Thanks [Redacted] We can use the following: [Redacted]
+
+**Nested Email 1:**
+From: [Redacted] <[Redacted]>
+Sent: Tuesday, January 12, 2021 9:55 AM
+To: [Redacted]; [Redacted]
+Cc: [Redacted]
+Subject: RE: Brunel
+Sure, I can do 11am.
+Let me know what # to call.
+
+**Intermediate Section:**
+U.S. Embassy, Paris
+
+**Nested Email 2:**
+From: [Redacted]
+Sent: Tuesday, January 12, 2021 3:36 PM
+To: [Redacted]; [Redacted]
+Cc: [Redacted]
+Subject: RE: Brunel
+Thanks very much, [Redacted] Do you have a few minutes to speak today about this? I’m available after 11 am EST.
+
+**Nested Email 3:**
+From: [Redacted] <[Redacted]>
+Sent: Tuesday, January 12, 2021 6:11 AM
+To: [Redacted]; [Redacted]
+Cc: [Redacted]
+Subject: RE: Brunel
+Here are my comments.
+
+U.S. Embassy, Paris
+
+**Footer:**
+EFTA00030842
+
+## Notable Details / Clues
+*   **Chronology:** The emails form a tight timeline within a single day (Jan 12, 2021), starting at 9:55 AM and ending with the final response at 3:36 PM. One follow-up email appears to be dated for the next morning at 6:11 AM.
+*   **Subject Line Consistency:** Every single message in the thread (except possibly the very top header which implies a reply) uses the subject line "RE: Brunel," indicating a specific project, case study, or personnel name is central to this communication.
+*   **U.S. Embassy Connection:** The blue link "U.S. Embassy, Paris" appears twice near the bottom of the thread, suggesting the recipient is associated with diplomatic service in France.
+*   **Scheduling Coordination:** The text explicitly negotiates a time slot ("11am", "after 11 am EST") and requests a phone number, indicating an urgent or specific need for a voice conversation that same day.
+*   **Redaction Pattern:** The redactions are consistent across names and email headers but leave dates, times, and specific short phrases visible. This suggests privacy filtering rather than complete censorship of the document's metadata.
+*   **Call to Action:** There is a clear progression from scheduling (Top), to agreement ("Sure, I can do 11am"), to seeking availability for a call ("Do you have a few minutes..."), and finally to providing comments (Bottom).
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical stack of three email messages within an interface resembling Microsoft Outlook or a similar webmail client. The layout is text-heavy but significantly obscured by large, thick black bars (redactions) that cover personal names, specific addresses, and substantial portions of message bodies. The emails are chronological, with the most recent at the top and the oldest at the bottom.
+
+At the very top, there is a small block of redacted text above the main headers. The first visible email header begins with "From:" followed by a long black bar. The timestamp reads "Friday, January 8, 2021 7:32 PM". Below this are fields for "To," which contains two redacted blocks separated by a semicolon and parentheses suggesting an email client signature or reply string (ending in `>`; `[...]`). There is a line starting with `<` indicating quoted headers that is also redacted. The "Cc:" field is redacted. The subject line reads "Subject: RE: Brunel".
+
+The body of this top email begins with "Hi" followed by a redacted name block. Below that is a paragraph of blue text, indicating hyperlinks or emphasized text, which thanks the recipient for an update and mentions an attached "MLAT request," inviting discussion on questions. The sign-off "Best," precedes another small redacted block.
+
+The second email down has a header starting with "From:" and a timestamp of "Thursday, January 07, 2021 11:12 PM". The "To:" and "Cc:" fields are heavily redacted. The subject line is "Subject: RE: Brunel". Immediately following the header is a massive, wide black rectangle that obscures almost the entire body of this email message. Below this black box is a visible signature block. This signature shows a redacted name at the top, followed by "Assistant United States Attorney", "Southern District of New York", and the address "1 St. Andrew’s Plaza, New York, NY 10007". Further text below the address is redacted.
+
+The third email (bottom) has a header with a timestamp of "Thursday, January 7, 2021 5:17 PM". The subject line reads "Subject: Brunel" (without the "RE:" prefix). The body simply begins with "Dear all:".
+
+In the bottom right corner of the image, outside the email thread structure, is a document ID number: "EFTA00030843".
+
+## Visible Text (verbatim)
+**Top Email Header:**
+*   From: [Redacted] >
+*   Sent: Friday, January 8, 2021 7:32 PM
+*   To: [Redacted]; [Redacted])
+*   <[Redacted]>; [Redacted] >
+*   Cc: [Redacted] >
+*   Subject: RE: Brunel
+
+**Top Email Body:**
+*   Hi [Redacted]
+*   Thanks again for the update and all of your help. Attached please find our MLAT request. Please let us know if you have any questions or would like to discuss.
+*   Best,
+*   [Redacted]
+
+**Middle Email Header:**
+*   From: [Redacted] >
+*   Sent: Thursday, January 07, 2021 11:12 PM
+*   To: [Redacted] <[Redacted]>; [Redacted]
+*   [Redacted] >; [Redacted] >
+*   Cc: [Redacted] >
+*   Subject: RE: Brunel
+
+**Middle Email Signature:**
+*   [Redacted Name]
+*   Assistant United States Attorney
+*   Southern District of New York
+*   1 St. Andrew’s Plaza
+*   New York, NY 10007
+*   [Redacted]
+
+**Bottom Email Header:**
+*   From: [Redacted] <[Redacted]>
+*   Sent: Thursday, January 7, 2021 5:17 PM
+*   To: [Redacted] >; [Redacted]; [Redacted]
+*   [Redacted] >
+*   Cc: [Redacted] >
+*   Subject: Brunel
+
+**Bottom Email Body:**
+*   Dear all:
+
+**Footer ID:**
+*   EFTA00030843
+
+## Notable Details / Clues
+*   **Chronological Order:** The emails form a timeline starting on Thursday, January 7, 2021 at 5:17 PM, followed by a reply at 11:12 PM (later that day), and a final message on Friday, January 8, 2021 at 7:32 PM.
+*   **Case/Subject Matter:** The recurring subject line "Brunel" and the mention of an "MLAT request" in the text suggest this correspondence relates to a legal matter, likely involving Mutual Legal Assistance Treaties between jurisdictions.
+*   **Location Context:** The visible signature identifies one of the correspondents as an Assistant United States Attorney in the Southern District of New York (SDNY), placing the legal context in New York City.
+*   **Redaction Scope:** While names and specific message contents are blacked out, the professional titles and jurisdictional details of the US Attorney's office remain visible, indicating that the identity of the federal agent is not fully redacted in this document view.
+*   **Document ID:** The alphanumeric code "EFTA00030843" in the bottom right suggests this image might be part of a larger evidence file or a specific case document numbering system (possibly related to a case involving "Brunel").
+*   **Email Chain Structure:** The use of "RE:" in the subject lines for the first two messages indicates these are replies to previous correspondence, while the bottom message initiates the thread with just "Subject: Brunel".
+*   **Attachment Mention:** The text explicitly states "Attached please find our MLAT request," confirming that a file exists within the email chain metadata (though not visible in this screenshot).
+*   **Formatting:** The top email body text is colored blue, standard for hyperlinks in email clients.
+*   **Partial Headers:** In the middle and bottom emails, parts of the "To" and "Cc" headers show email address syntax like `>` or `<`, suggesting that previous header lines (From/Subject) were quoted or included but are redacted.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a document layout, likely an email attachment or a scanned page, featuring a predominantly white background with two distinct blocks of text framing a large, solid black rectangle. The black rectangle occupies the vast majority of the visual field, positioned centrally but extending almost to the edges of the frame, effectively obscuring whatever content was originally intended to be displayed in that space—such as a photo, chart, or slide. At the very top left corner, outside the black area, there is a line of introductory text in a dark gray sans-serif font. At the absolute bottom right corner, separate from the main black box, is a small string of alphanumeric characters. The composition suggests that the central visual element has been intentionally redacted or failed to load, leaving only the header context and a document ID visible against the white margins.
+
+## Visible Text (verbatim)
+- "My meeting on Brunel went well this afternoon."
+- "Here is the quick read out:"
+- "EFTA00030844"
+
+## Notable Details / Clues
+- The black rectangle creates a high-contrast void, indicating that the primary visual information of the document has been removed or blacked out for privacy/security.
+- The phrase "quick read out" implies that the missing image contained bullet points or key data intended to summarize a meeting.
+- The alphanumeric string "EFTA00030844" at the bottom right is a Bates number, which strongly suggests this document is part of a legal discovery process, a formal corporate archive, or a regulated industry report (possibly related to finance or energy given the context of such IDs).
+- The font used for the text is small and uniform, consistent with standard email clients or word processing software default settings (like Arial or Helvetica).
+- The mention of "Brunel" likely refers to a specific project name, a person's name, or a client entity that was the subject of the meeting.
+- The layout implies an asynchronous communication, where a sender attempted to share visual results with a recipient who received a blank or blacked-out image.
+- There are no visible borders around the main text area, suggesting this might be a direct screenshot from a digital interface rather than a scanned physical paper document.
+- The text color is not pure black but a dark gray (#555555 approx), which is common for email headers or secondary text elements to reduce eye strain compared to high-contrast headings.
+- The positioning of the bottom ID string suggests it is watermarked or printed as part of the footer system of the originating software.
+- The "read out" in the text is grammatically a noun phrase ("the quick read out"), indicating a summary document rather than a spoken transcript.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email correspondence thread, heavily redacted with black bars to protect privacy. The document is structured vertically, showing two distinct emails in reverse chronological order (newest on top).
+
+The top section features a massive black rectangle at the very top, obscuring headers or attachments. Below this is a smaller black bar. Following that is a blue hyperlink reading "U.S. Embassy, Paris," followed by three lines of completely redacted text, likely containing email addresses or names.
+
+Below these fields are standard email headers including "From:", "Sent: Thursday, January 7, 2021 12:38 AM", "To:" (with multiple recipients redacted), "Cc:", and "Subject: RE: France". The main body of this specific email is obscured by a very wide, tall black rectangle. Following the rectangle is the sign-off "Thanks," above another small redacted name.
+
+A signature block follows, identifying the sender as an "Assistant United States Attorney" for the "Southern District of New York" located at "1 St. Andrew's Plaza, New York, NY 10007". Below the address are two lines of redacted text.
+
+The lower half of the image shows a previous email in the chain. It begins with headers "From:", "Sent: Wednesday, January 6, 2021 10:15 AM", and "Subject: RE: France". The recipients are heavily redacted. Following the header is a large black box obscuring most of the message body. Visible text at the bottom reads: "Further to our call yesterday, here are the points I plan to make at my meeting tomorrow. Thanks in advance for letting me know if you see any errors, omissions, or additions to make:". In the bottom right corner is a document identification number: EFTA00030845.
+
+## Visible Text (verbatim)
+*   **U.S. Embassy, Paris**
+*   **From:** [Redacted] >
+*   **Sent:** Thursday, January 7, 2021 12:38 AM
+*   **To:** [Redacted]; [Redacted] >; [Redacted]
+*   **[Recipient Line Redacted]** >; [Recipient Line Redacted] >
+*   **Cc:** [Redacted] >
+*   **Subject:** RE: France
+*   **Thanks,**
+*   **[Name Redacted]**
+*   **Assistant United States Attorney**
+*   **Southern District of New York**
+*   **1 St. Andrew's Plaza**
+*   **New York, NY 10007**
+*   **From:** [Redacted] <[Redacted]> >
+*   **Sent:** Wednesday, January 6, 2021 10:15 AM
+*   **To:** [Redacted] >; [Redacted] >; [Redacted]
+*   **Cc:** [Redacted] >
+*   **Subject:** RE: France
+*   **Further to our call yesterday, here are the points I plan to make at my meeting tomorrow. Thanks in advance for letting me know if you see any errors, omissions, or additions to make:**
+*   **EFTA00030845**
+
+## Notable Details / Clues
+*   **Legal/Diplomatic Context:** The presence of an "Assistant United States Attorney" in New York and a reference to the "U.S. Embassy, Paris" combined with the subject line "RE: France" strongly suggests this correspondence involves legal or diplomatic matters between the US government in New York and France.
+*   **Timeline:** The emails are dated very close together (Jan 6 and Jan 7, 2021), indicating a rapid exchange of information likely regarding urgent meeting preparation.
+*   **Meeting Prep:** The bottom text explicitly mentions a "meeting tomorrow" and references a call from the previous day ("call yesterday"), confirming this is preparatory material for an official event.
+*   **Redaction Level:** The redactions are extensive. Names, specific email addresses, and large portions of the message bodies are blacked out, implying high sensitivity or adherence to privacy laws (like FOIA exemptions).
+*   **Document ID:** The code "EFTA00030845" in the footer suggests this document is part of a formal record or docket system, possibly related to Electronic Filing of the Attorney's Office.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email interface, heavily redacted for privacy or security reasons. The upper 60% of the visual field is obscured by a solid, featureless black rectangle, likely covering a document attachment or an image that was redacted during processing. Below this large black void, the lower section reveals the header and partial body of an email against a white background.
+
+The visible text indicates the email originates from or is associated with the "U.S. Embassy, Paris," which appears twice in blue hyperlinked text. The email header contains standard fields: "From," "Sent," "To," "Cc," and "Subject." Most of the specific contact information in these fields has been replaced by solid black rectangular bars.
+
+Specific symbols indicating a forwarded or replied chain are visible next to the redacted "To" and "Cc" lines (specifically a greater-than symbol `>`). The email body contains a single visible sentence explaining the context of the document: it is a response providing a "go-by" for a diplomatic request to France. At the very bottom right, a unique alphanumeric identifier string is printed in small grey text.
+
+## Visible Text (verbatim)
+*   U.S. Embassy, Paris
+*   From: [REDACTED])
+*   Sent: Tuesday, January 5, 2021 9:02 PM
+*   To: [REDACTED]>; [REDACTED]>; [REDACTED]
+*   Cc: [REDACTED]>
+*   Subject: France
+*   Here is our go-by for an outgoing request to France.
+*   U.S. Embassy, Paris
+*   EFTA00030846
+
+## Notable Details / Clues
+*   **Redaction Level:** The redaction is extremely heavy, obscuring names, specific addresses, and the content of the attachment entirely. Only structural elements remain.
+*   **Date and Time:** The email was sent on Tuesday, January 5, 2021, at 9:02 PM. This provides a specific timestamp for the diplomatic event.
+*   **Subject Line:** The subject is simply "France," indicating a high-level, perhaps initial or categorized communication regarding French affairs.
+*   **Email Chain Indicators:** The presence of `>` symbols next to the "To" and "Cc" lines suggests this email is part of an existing thread, reply, or forward chain.
+*   **Footer ID:** The string "EFTA00030846" at the bottom right looks like a document tracking number or a filename suffix, possibly related to the Embassy's internal case management system.
+*   **Link Formatting:** The text "U.S. Embassy, Paris" is blue and underlined (implied), indicating it was originally a clickable hyperlink in the source email client.
+*   **Contextual Sentence:** The phrase "Here is our go-by for an outgoing request to France" clarifies that this communication serves as an approval or a forwarding of authorization for a US consular or diplomatic officer to travel to or interact with France on official business.
+*   **Formatting Consistency:** The redacted blocks in the middle section align with the email header fields, while the large black box at the top likely corresponds to an attachment thumbnail or preview that was blocked out.
+*   **Layout:** The text follows a standard left-aligned structure typical of Outlook or Gmail email clients on a desktop interface.
+*   **Time Zone:** While not explicitly stated, the time "9:02 PM" suggests a local time zone (likely Paris or Washington DC), though without knowing the specific sender location, the exact timezone is ambiguous.
+*   **Privacy Focus:** The extensive black bars over names suggest this is a sensitive diplomatic document where individual identities of officials are being protected in this specific view.
+

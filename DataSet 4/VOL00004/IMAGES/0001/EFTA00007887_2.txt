@@ -1,0 +1,141 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007887.pdf ts=2026-03-09T01:53:22 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ENCE [ILLEGIBLE] EVIDENCE   EVIDENC
+OF INVESTIGATION      DERAL BUREAU OF INVESTIGATION FEDERAL BUREAU OF INVESTIGA
+
+## Structured Fields
+- **Organization:** Federal Bureau of Investigation
+- **Document ID:** EFTA00007887
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- A large, solid black rectangle dominates the upper section of the image, featuring rounded corners at both the top-left and top-right edges.
+- Inside the top-right corner of this black shape, there is a small white rectangular inset with rounded corners containing text.
+- The vast majority of the lower two-thirds of the image consists of a plain white background.
+- A single, thin vertical black line extends downward from the bottom edge of the main black rectangle, positioned slightly to the right of the horizontal center.
+- Faint, dashed vertical lines are visible along the extreme left and right edges of the frame, running parallel to the borders.
+- Along the very top edge of the image, above the black rectangle, there is a thin, dark horizontal line that appears to be part of a document border or margin.
+- There are minor speckling or dot artifacts visible along the top edge, particularly near the center and right side.
+
+## Visible Text (verbatim)
+- **1B7-9** (Located inside the white box within the black area at the top right)
+- **EFTA00007888** (Located in small gray font in the bottom right corner of the image)
+
+## Notable Details / Clues
+- The large black shape suggests a redacted section or a specific area of interest that has been blocked out, though it covers almost no text since the rest is blank.
+- The alphanumeric code "1B7-9" appears to be a classification number, a product identifier, or a case file reference.
+- The string "EFTA00007888" in the bottom right corner functions as an official document control number or Bates stamp, typical of legal or government records.
+- The layout implies this is a cropped section of a larger document where specific information has been obscured for privacy or security purposes.
+- The vertical line extending downwards from the main shape acts as a separator or indicates a specific zone associated with the code above it.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a full-page, portrait-oriented sheet of paper featuring a solid, vibrant pink background color that dominates the entire frame. The text is printed in a dark grey or black sans-serif typeface, utilizing varying font sizes to establish a clear visual hierarchy between the main message and footer information. The layout is vertically centered with generous white space (negative space) on the pink background to separate the two distinct blocks of text. There are no images, illustrations, logos, or graphical elements present; the design relies entirely on typography. The paper appears smooth with a slight sheen, suggesting it may be coated stock often used for archival inserts. The lighting is even, causing minimal glare but allowing for clear visibility of the text against the saturated background.
+
+## Visible Text (verbatim)
+**Top Section:**
+All documents and
+Photographs
+Enclosed have been
+Digitized.
+
+**Middle Section:**
+Negatives and/or
+media have not
+been captured.
+
+**Bottom Left Corner:**
+DL-02 Media v0.1
+April 2018
+
+**Bottom Right Corner:**
+EFTA00007889
+
+## Notable Details / Clues
+*   **Archival Context:** This is clearly a label or insert placed inside an archival box or shipping container to inform researchers or archivists about the processing status of the materials.
+*   **Specific Exclusion:** The text explicitly addresses a common frustration in digitization projects: the absence of film negatives or original media files, explaining that only digital copies of documents and photographs were captured.
+*   **Versioning:** The text "DL-02 Media v0.1" indicates this is a specific template (DL-02) and suggests version 0.1, implying there may be future iterations or a beta release status.
+*   **Date Stamping:** "April 2018" provides a concrete timeline for when this specific message was printed or generated, likely marking a period of transition in the collection's handling protocols.
+*   **Tracking ID:** The alphanumeric string "EFTA00007889" in the bottom right corner resembles an inventory number, accession ID, or a tracking code used by a specific library or museum system (potentially related to EFTA if that is an acronym).
+*   **Formatting Consistency:** The top block of text uses title case for most words, while the second block is sentence case (except for "Negatives"), showing a slight inconsistency in capitalization style between the two paragraphs.
+*   **Punctuation:** Both main message blocks end with periods, giving them the weight of formal statements or rules rather than casual notes.
+*   **Color Contrast:** The choice of dark grey text on pink background offers high contrast for readability but creates a visually striking warning-like appearance often associated with "Do Not" messages or special handling instructions.
+*   **Font Hierarchy:** The words "Digitized" and "captured" carry the same visual weight as the first lines in their respective sections, emphasizing the action verbs to drive the point home quickly.
+*   **Material Nature:** The paper appears to be standard bond weight, suitable for insertion between document boxes without tearing easily or obscuring underlying text if the box contains documents.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Town of Palm Beach Police Department EVIDENCE 
+CASE # 05-368 PROPERTY # 05-1052
+128141 
+
+| Item | Quantity | Description |
+| :--- | :--- | :--- |
+| 2 | 1 | microD/phone calls |
+| | | |
+| | | |
+| | | |
+
+Suspect: Epstein, Jeff 
+Officer [REDACTED] Date: 1/04/05 
+Lab #: 
+
+KL-231 
+9 
+EFTA00007890
+
+## Structured Fields
+*   **Organization:** Town of Palm Beach Police Department
+*   **Location:** Town of Palm Beach (inferred from header)
+*   **Case ID:** 05-368
+*   **Property ID:** 05-1052
+*   **Document Reference/ID:** 128141 (handwritten), KL-231 (form footer), EFTA00007890 (footer code)
+*   **Suspect:** Epstein, Jeff
+*   **Date:** 1/04/05
+*   **Barcode Number:** 023612
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+MICRO CASSETTE
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007891
+
+## Structured Fields
+- **Date:** July 27, 2020
+- **Organization/Department:** Official DocLab
+- **Document Type:** Instruction
+- **Description Item:** Micro Cassette
+- **Case ID / Document ID:** EFTA00007891
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[05/10/94]  SONY A MC-90 title - Phone Call
+
+[ ] MEETING [ ] MEMO )
+A: [REDACTED]
+D613
+B: [REDACTED]
+2-601-050-11
+
+EFTA00007892
+
+## Structured Fields
+- **Organization:** Sony
+- **Document ID:** EFTA00007892
+- **Date (on tape):** 05/10/94 (estimated from scribbles)
+- **Tape Model:** MC-90
+- **Side:** A
+- **Title:** Phone Call
+- **Part Number (on label):** 2-601-050-11
+- **Handwritten Note (label):** D613
+

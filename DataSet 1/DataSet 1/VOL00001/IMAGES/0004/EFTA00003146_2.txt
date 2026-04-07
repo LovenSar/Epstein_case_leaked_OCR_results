@@ -1,0 +1,35 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003146.pdf ts=2026-03-06T01:16:13 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a close-up, low-angle perspective of the rear exterior panel of a desktop computer tower case, resting on a rough, grey stone or concrete surface. The primary component visible is a large, circular ventilation fan grille located in the upper section, constructed from silver-colored aluminum with a distinctive petal-shaped cutout pattern. Through the gaps in the grille, internal wiring—including yellow, red, and black cables—is faintly visible attached to the motherboard area behind the shield. Directly beneath the fan assembly are two sets of mounting holes, featuring threaded inserts for securing screws, positioned symmetrically on either side of a raised horizontal ridge. The bottom edge of the case features a long, narrow black label strip adhered over a seam where the main chassis meets a lower metal or plastic frame. To the left, a section of the rear casing is visible in black, featuring a vertical slot near the top and a silver screw head securing it to the main panel. On the far right edge, a small portion of a port cover is visible with embossed text warning not to remove it. A thick black power cable extends from the bottom right corner, disappearing behind the stone surface. The lighting appears to be natural daylight, casting soft shadows within the fan cage and highlighting the metallic texture of the chassis. The background is out of focus, suggesting an outdoor setting with hints of blue and green foliage or structures in the distance.
+
+## Visible Text (verbatim)
+**On the bottom label:**
+```text
+S/N: CNV74213M3
+HP Inc.
+[Barcode]
+```
+**On the right port cover:**
+```text
+Do Not Remove
+```
+**Bottom right corner of image metadata:**
+```text
+EFTA00003146
+```
+
+## Notable Details / Clues
+*   **Manufacturer Identification:** The text "HP Inc." on the serial number label confirms the hardware is manufactured by Hewlett-Packard.
+*   **Serial Number:** The specific unit identifier "CNV74213M3" allows for potential model lookup or warranty verification (though likely a commercial/enterprise device given the format).
+*   **Chassis Material:** The silver finish indicates an aluminum alloy, typical for heat dissipation and structural rigidity in mid-to-high tower cases.
+*   **Internal Wiring:** The colored wires (Molex/SATA connectors) peeking through suggest the motherboard is installed directly behind this fan cage, likely a standard ATX layout.
+*   **Surface Texture:** The concrete block underneath has a porous, aggregate appearance, contrasting with the smooth, matte finish of the computer casing.
+*   **Screw Heads:** Phillips-head screws are visible near the bottom corners and top left, indicating assembly points for side panels or rear I/O shrouds.
+*   **Port Cover Warning:** The "Do Not Remove" warning suggests this area conceals critical connectivity or internal components that HP deemed sensitive to removal by end-users (possibly a proprietary card slot or specific cable management area).
+*   **Partial Port Labels:** At the very top right edge, the letters "HDI" are partially visible, which likely refers to HDMI or DVI ports usually found on the rear I/O plate.
+*   **Condition:** The case appears used but intact; there is minor dust accumulation on the screw heads and the stone surface, indicating an environment with ambient particulates.
+*   **Cable Management:** The black cable exiting at the bottom right suggests a standard power cord routing through the chassis floor or side panel.
+

@@ -1,0 +1,42 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002520.pdf ts=2026-03-05T20:45:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled view of the interior components and cabling of a server rack or network closet environment. The scene is dominated by two distinct pieces of black hardware mounted within a standard 19-inch rack frame.
+
+**Upper Unit (Server Chassis):**
+- A large, horizontal 1U server chassis dominates the upper portion of the frame. It features a complex arrangement of hard drive bays spanning almost its entire length.
+- **Drive Bays:** Moving from left to right:
+    - Two wider 3.5-inch hot-swap bay slots are visible on the far left, featuring prominent red release levers. Inside, small purple and white labels are visible on the drive backplanes, one clearly reading "146 GB".
+    - A middle section contains a row of narrower bays (likely 2.5-inch enterprise drives), also filled with black drives bearing similar purple labels.
+    - On the right side, two more wide bay slots are present.
+- **Peripherals:** To the far right of the server is an internal optical drive labeled "DVD RW". Adjacent to this are the system I/O ports, including a blue VGA connector, a circular orange power button with a universal power symbol, USB ports, and PS/2 keyboard/mouse connectors (indicated by purple caps).
+- **Front Grill:** A metal slat grill for airflow runs along the right side of the drive enclosure.
+
+**Lower Unit & Cabling Area:**
+- Directly below the server chassis is a black device, likely a network switch or another server component, partially obscured by cables.
+- **Cable Chaos:** A significant tangle of fiber optic cabling dominates the foreground. These are bright yellow cables, typical for single-mode or multi-mode fiber, loosely thrown over the equipment rather than being neatly managed in a tray.
+- **Connectors:** Several blue RJ45 Ethernet ports are visible on the lower device faceplate (or perhaps an SFP cage panel), with orange fiber patch cords plugged into them. A loose grey LC duplex optical connector dangles near the bottom right, connected to an orange cable.
+- **Blue Cable:** On the far left, a thick blue Ethernet patch cable runs vertically up the frame, distinct from the yellow fibers.
+
+**Rack Structure (Left Side):**
+- The vertical black metal rail of the rack is visible on the extreme left edge.
+- White stenciled numbers "30", "29", and "28" mark the rack units (U) vertically, indicating positioning standards.
+- Thumbscrews and mounting holes are visible next to these numbers, used for securing equipment rails or brackets.
+
+## Visible Text (verbatim)
+- **"30"** (Rack unit marker, top left)
+- **"29"** (Rack unit marker, middle left)
+- **"28"** (Rack unit marker, lower left)
+- **"146 GB"** (Visible on a small white label inside the first drive bay from the left)
+- **"DVD RW"** (On the optical drive faceplate to the right)
+- **"EFTA00002520"** (In the bottom right corner of the image)
+
+## Notable Details / Clues
+- **Hardware Generation:** The presence of a DVD-RW drive and the specific layout of the drive bays suggests this is an enterprise server from the mid-to-late 2010s (likely a Dell PowerEdge R610 or R710 chassis style).
+- **Cable Management Issues:** The yellow fiber optic cables are not secured in a management arm or velcro; they are draped loosely across the lower device, creating clutter and potential strain on the connectors.
+- **Drive Capacities:** The visible "146 GB" label indicates small capacity hard drives (likely 10k RPM SAS drives used for RAID caching or older SATA drives), which is smaller than modern enterprise standards but common for this era of hardware.
+- **Connectivity Mix:** The image highlights a mix of legacy connectivity (VGA, PS/2 on the server) and high-density data cabling (fiber optics) being managed simultaneously.
+- **Rack Positioning:** The rack unit numbers (28-30) suggest this equipment is mounted roughly in the middle-to-lower section of a standard 42U rack.
+

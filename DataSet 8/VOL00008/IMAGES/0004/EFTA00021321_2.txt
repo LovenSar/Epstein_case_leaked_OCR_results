@@ -1,0 +1,113 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021321.pdf ts=2026-03-14T23:05:02 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED]" <[REDACTED]>
+To: "[REDACTED]" <[REDACTED]", "[REDACTED]")"
+Subject: Fwd: New York search warrant materials
+Date: Wed, 09 Oct 2019 00:15:10 +0000
+
+Have we heard anything from them since this?
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: "[REDACTED]. (NY) (FBI)" <[REDACTED]>
+Date: September 30, 2019 at 3:22:53 PM EDT
+To: "[REDACTED]", "[REDACTED]" <[REDACTED], "[REDACTED]. (NY) (FBI)" <[REDACTED]>"
+Cc: "[REDACTED]" <[REDACTED], "[REDACTED])" <[REDACTED], "[REDACTED])" <[REDACTED]>"
+Subject: New York search warrant materials
+
+So the short answer is that the load files are not completed yet. One machine alone had over 800,000 emails.
+The limitation of the load files is that they can only be generated with 25,000 entries at a time. So I got out as quickly as I could what fit that bill. Now along has come all the stuff from the Island that had an expiration date, so that took priority. I can now go back and try to generate the stuff that has yet to be processed into load files, but the process is slow and painful. Just as an FYI, all the content is available for taint review in FTK right now.
+
+[REDACTED]
+Senior Forensic Examiner
+[REDACTED] cell
+[REDACTED] desk
+
+On Sep 30, 2019 3:13 PM, "[REDACTED]. (NY) (FBI)" <[REDACTED]> wrote:
+Hey [REDACTED],
+
+I've copied [REDACTED] here who has handled all of the Epstein evidence that was sent to CART. He should be able to answer your questions regarding what he's processed.
+
+[REDACTED]
+
+On Sep 30, 2019 1:57 PM, "[REDACTED])" <[REDACTED]> wrote:
+[REDACTED], [REDACTED]
+
+The taint team here apparently received materials from the search of the New York house but it's way fewer documents than we would have expected. Can you please let us know exactly how many electronic devices (phones, computers, hard drives, thumb drives, and/or discs) were sent to CART for processing, and how many were in fact processed and sent back to us? Or if it's easier to just put us in touch with the CART people directly, that's fine too. My understanding was that they were processing the materials in the attached, which appears to
+
+EFTA00021321
+## Structured Fields
+- Date: Wed, 09 Oct 2019; September 30, 2019
+- Location: New York (implied by "New York search warrant materials" and "(NY)"); The Island (Jamaica)
+- Organizations: FBI, CART, FTK
+- Roles: Senior Forensic Examiner, Taint Team
+- Case IDs/Doc IDs: EFTA00021321
+- Subject: Epstein evidence / Search Warrant Materials
+</think>
+
+From: "[REDACTED]" <[REDACTED]>
+To: "[REDACTED]" <[REDACTED]", "[REDACTED]")"
+Subject: Fwd: New York search warrant materials
+Date: Wed, 09 Oct 2019 00:15:10 +0000
+
+Have we heard anything from them since this?
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: "[REDACTED]. (NY) (FBI)" <[REDACTED]>
+Date: September 30, 2019 at 3:22:53 PM EDT
+To: "[REDACTED]", "[REDACTED]" <[REDACTED], "[REDACTED]. (NY) (FBI)" <[REDACTED]>"
+Cc: "[REDACTED]" <[REDACTED], "[REDACTED])" <[REDACTED], "[REDACTED])" <[REDACTED]>"
+Subject: New York search warrant materials
+
+So the short answer is that the load files are not completed yet. One machine alone had over 800,000 emails.
+The limitation of the load files is that they can only be generated with 25,000 entries at a time. So I got out as quickly as I could what fit that bill. Now along has come all the stuff from the Island that had an expiration date, so that took priority. I can now go back and try to generate the stuff that has yet to be processed into load files, but the process is slow and painful. Just as an FYI, all the content is available for taint review in FTK right now.
+
+[REDACTED]
+Senior Forensic Examiner
+[REDACTED] cell
+[REDACTED] desk
+
+On Sep 30, 2019 3:13 PM, "[REDACTED]. (NY) (FBI)" <[REDACTED]> wrote:
+Hey [REDACTED],
+
+I've copied [REDACTED] here who has handled all of the Epstein evidence that was sent to CART. He should be able to answer your questions regarding what he's processed.
+
+[REDACTED]
+
+On Sep 30, 2019 1:57 PM, "[REDACTED])" <[REDACTED]> wrote:
+[REDACTED], [REDACTED]
+
+The taint team here apparently received materials from the search of the New York house but it's way fewer documents than we would have expected. Can you please let us know exactly how many electronic devices (phones, computers, hard drives, thumb drives, and/or discs) were sent to CART for processing, and how many were in fact processed and sent back to us? Or if it's easier to just put us in touch with the CART people directly, that's fine too. My understanding was that they were processing the materials in the attached, which appears to
+
+EFTA00021321
+## Structured Fields
+- Date: Wed, 09 Oct 2019; September 30, 2019
+- Location: New York (implied by "New York search warrant materials" and "(NY)"); The Island (Jamaica)
+- Organizations: FBI, CART, FTK
+- Roles: Senior Forensic Examiner, Taint Team
+- Case IDs/Doc IDs: EFTA00021321
+- Subject: Epstein evidence / Search Warrant Materials
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+list approximately 38 computers and/or electronic storage devices seized along with an additional approximately 55 CDs.
+
+thanks,
+[REDACTED]
+[REDACTED]
+Assistant U.S. Attorney
+Southern District of New York
+[REDACTED]
+
+## Structured Fields
+*   **Doc ID:** EFTA00021322
+*   **Organization:** Assistant U.S. Attorney
+*   **Location:** Southern District of New York
+

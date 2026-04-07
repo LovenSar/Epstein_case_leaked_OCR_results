@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003067.pdf ts=2026-03-06T00:45:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up photograph of a document titled "Emergency Contact Form" placed inside a three-ring binder. The paper is enclosed in a clear plastic sheet protector, indicated by glare and reflections on the surface. On the left edge, three silver metal binder rings are visible piercing through the top-left corner of the page. The binder rests on a dark, textured surface that appears to be asphalt or stone with light-colored speckles and debris.
+
+The document itself is a standard white form with black sans-serif and serif typography. It is divided into sections for company information, employee details, medical information, and emergency contacts. Significant portions of the form contain Personally Identifiable Information (PII) that has been obscured with solid black rectangular bars, likely added digitally to protect privacy. At the bottom right corner of the image frame, outside the white paper area on the dark background, there is a alphanumeric string "EFTA00003067", suggesting an archival or cataloging number for the digital scan.
+
+## Visible Text (verbatim)
+**Header:**
+LSJE, LLC
+6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: [REDACTED] Fax: [REDACTED]
+
+**Title:**
+Emergency Contact Form
+
+**Employee Information Section:**
+Date: 04/11/12
+Start Date: ________________
+Employee Name: Randy Amparo
+Address: [REDACTED]
+Phone: ________________
+Cell: [REDACTED]
+E-Mail: [REDACTED]
+Title / Position: Boat Captain
+Marital Status: Single
+License: [Empty Box]
+
+**Emergency Information Section:**
+Emergency Information:
+Allergies or Health Concerns: NA
+Blood Type: [REDACTED]
+Current Medication: ________________
+Doctor's Name: ________________ Phone: ________________
+Doctor's Name: ________________ Phone: ________________
+
+**Emergency Contact Section:**
+In case of an Emergency, Please contact :
+Name: [REDACTED]
+Name: [REDACTED]
+Relationship Father
+Relationship Mother
+Phone: [REDACTED/Obscured]
+
+**Footer:**
+This Information is for your safety and the safety of others
+EFTA00003067
+
+## Notable Details / Clues
+*   **Employee Identification:** The form belongs to an employee named **Randy Amparo**.
+*   **Job Title:** The position is listed as **"Boat Captain"**, which suggests the employment involves maritime work. This context aligns with the company address located in St. Thomas, VI (US Virgin Islands).
+*   **Date of Record:** The form was dated and filled out on **04/11/12** (April 11, 2012).
+*   **Privacy Redactions:** Almost all sensitive data has been redacted, including the employee's home address, phone numbers (landline and cell), email address, blood type, current medications, doctors' names/numbers, emergency contact names, and emergency contact phone numbers.
+*   **Medical Status:** The field for "Allergies or Health Concerns" is marked **"NA"** (Not Applicable). Two slots are provided for doctors, but neither has been filled in.
+*   **License:** There is an empty box next to "License," implying a license number (possibly a captain's license) was requested but not recorded in the visible area or left blank.
+*   **Physical Condition of Form:** The form shows signs of being handled; there are slight shadows from the binder rings, and the plastic sleeve has a sheen indicating it is clear plastic.
+*   **Address Line:** The company address is specifically listed as "Red Hook Quarters Suite B-3 St. Thomas," identifying the specific jurisdiction as the US Virgin Islands.
+

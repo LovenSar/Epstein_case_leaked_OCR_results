@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000440.pdf ts=2026-03-05T06:22:32 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image depicts the interior of a telecommunications closet or server room, framed by two large black cabinet doors, one open on the left and closed on the right.
+- A white wall serves as the mounting surface for various networking and telephony hardware, appearing densely packed with legacy equipment.
+- At the very top of the frame, a black metal cable management track runs horizontally, securing numerous grey voice cables and blue Ethernet cables that drape downwards.
+- On the left side of the wall, two vertical stacks of punch-down blocks or modular jacks are mounted; these white/grey panels contain rows of connection points densely populated with grey twisted-pair cabling.
+- A distinct blue Ethernet cable snakes vertically down the left-center, connecting the upper cabling track to the lower equipment near the punch-down blocks.
+- In the center-right area, a large, dark grey rectangular chassis is mounted on the wall; it features the white "VALCOM" logo with three triangles in the bottom right corner of its front face.
+- Directly beneath this large chassis is a smaller beige device with an orange rectangular label attached above it, possibly indicating voltage or hazard warnings (text is illegible).
+- To the left of the center column, two electronic units are mounted: a black square box labeled "VALCOM" and below it a grey/white box also bearing the "VALCOM" branding.
+- Vertical electrical cords hang from these lower units, connecting to power strips or wall outlets visible near the baseboard; some cables loop loosely onto the floor area.
+- On the right side, a tall black equipment rack structure stands vertically, holding additional white networking hardware and terminating points.
+- The top right corner is dominated by a thick bundle of blue Ethernet cables that have been bundled together and secured to the wall or rack mounting.
+- A silver, spherical doorknob is visible on the closed cabinet door on the far right edge of the frame.
+
+## Visible Text (verbatim)
+- **Center Chassis Logo:** "VALCOM" (underneath a logo of three triangles)
+- **Left Lower Box:** "VALCOM" (faintly visible)
+- **Bottom Right Watermark:** "EFTA00000440"
+
+## Notable Details / Clues
+- **Age of Infrastructure:** The equipment style, particularly the Valcom chassis and the use of punch-down blocks for voice/data separation, suggests this is a legacy telecommunications closet from the late 1990s or early 2000s.
+- **Cable Management:** The cabling appears somewhat disorganized near the bottom center, where grey cables are coiled loosely on the floor rather than being strictly managed in trays, indicating an older installation that may need reorganization.
+- **Mixed Media Usage:** The space houses both data (blue Ethernet) and voice (grey punch-down blocks) infrastructure, typical of traditional PBX setups before VoIP fully transitioned to all-Ethernet architectures.
+- **Branding:** The repeated use of "VALCOM" on multiple devices suggests a specific vendor supplied the core signaling or control equipment for this line system.
+

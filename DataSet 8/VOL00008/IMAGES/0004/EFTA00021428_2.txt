@@ -1,0 +1,302 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021428.pdf ts=2026-03-15T00:01:07 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed page of a digital document, specifically an email thread or a transcript of electronic correspondence. The page is white with black text and large black bars (redactions) obscuring sensitive personal information such as names and specific addresses. The document appears to be a legal or official record, indicated by the clean font (likely Times New Roman or similar serif font) and the footer ID.
+
+The layout follows a standard email threading structure but includes multiple nested "Original Message" blocks, suggesting a chain of replies or forwarded communications. At the very top is the header for the most recent email in the sequence. Below that, alternating blocks of text and quoted emails provide context and scheduling details regarding an investigation. The redactions are thick and black, completely removing any legible names. Specific agencies like "(FBI)" are visible in the recipient lines.
+
+The content of the visible text revolves around scheduling meetings or interviews related to an "Epstein investigation." One email mentions being in Florida for a witness interview on Wednesday, while another mentions a doctor's appointment and specific times available (11:00, 3:30, Thursday after 4). The timestamps show the emails were sent rapidly between Monday morning and afternoon (July 15, 2019), with the main document header timestamped in the evening at 17:54:49.
+
+## Visible Text (verbatim)
+**Header Block:**
+*   From: "[REDACTED]" <[REDACTED]>
+*   To: "[REDACTED]"; <[REDACTED]> <[REDACTED]> (NY) (FBI" <[REDACTED]>,
+*   Subject: RE: Epstein investigation
+*   Date: Mon, 15 Jul 2019 17:54:49 +0000
+*   Importance: Normal
+
+**Body Text:**
+*   Great, thanks.
+*   ----Original Message-----
+*   From: [REDACTED] <[REDACTED]>
+*   Sent: Monday, July 15, 2019 1:54 PM
+*   To: [REDACTED]; <[REDACTED]>; <[REDACTED]> (FBI) <[REDACTED]>,
+*   Subject: RE: Epstein investigation
+*   Sounds good, thanks.
+*   ----Original Message-----
+*   From: [REDACTED] <[REDACTED]>
+*   Sent: Monday, July 15, 2019 1:54 PM
+*   To: [REDACTED]; <[REDACTED]>; <[REDACTED]> (NY) (FBI) <[REDACTED]>,
+*   Subject: RE: Epstein investigation
+*   Sorry, forgot about both of those things. Let's say tomorrow at 3:30?
+*   ----Original Message-----
+*   From: [REDACTED] <[REDACTED]>
+*   Sent: Monday, July 15, 2019 1:53 PM
+*   To: [REDACTED]; <[REDACTED]>; <[REDACTED]> (NY) (FBI) <[REDACTED]>,
+*   Subject: RE: Epstein investigation /
+*   I'm going to be in Florida for a witness interview on Wednesday. But tomorrow works.
+*   ----Original Message-----
+*   From: [REDACTED] <[REDACTED]>
+*   Sent: Monday, July 15, 2019 1:51 PM
+*   To: [REDACTED]; <[REDACTED]>; <[REDACTED]> (NY) (FBI)
+*   Subject: RE: Epstein investigation /
+*   I have a doctor's appointment Wednesday at 10:30 so if it's possible to do tomorrow at 11:00 or 3:30, Wednesday at 3:30, or Thursday after 4, I could do any of those times. Or if it ends up being Wednesday at 11:00, I'll get the notes after.
+
+**Footer:**
+*   EFTA00021428
+
+## Notable Details / Clues
+*   **Redaction Pattern:** Extensive redactions cover sender names, recipient names (except for agency identifiers), and email addresses, indicating this is a sealed or public court filing where privacy is protected.
+*   **Agency Identification:** The string "(NY) (FBI)" appears in the "To:" fields of multiple emails, confirming involvement of the New York field office of the Federal Bureau of Investigation.
+*   **Subject Line Consistency:** Every email header, whether top or quoted, has the subject line "RE: Epstein investigation" followed by a redaction, linking the entire thread to Jeffrey Epstein legal matters.
+*   **Date Discrepancy/Coincidence:** The top header is dated 17:54:49 (5:54 PM), while the quoted emails inside the body are dated much earlier that same day (ranging from 1:51 PM to 1:54 PM). This suggests the current email might be a compilation or that the user received and is referencing older messages in one go.
+*   **Scheduling Specifics:** The text reveals precise logistical details: a witness interview planned for Wednesday, a doctor's appointment at 10:30 AM on Wednesday, and proposed meeting times of 11:00, 3:30, and Thursday after 4 PM.
+*   **Document ID:** The bottom right corner contains the identifier "EFTA00021428," which is likely a Bates number or document control number used for tracking in legal proceedings.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+----Original Message----
+From: [REDACTED] <[REDACTED]>
+Sent: Monday, July 15, 2019 13:49
+To: [REDACTED] (NY) (FBI) <[REDACTED]>; [REDACTED]; [REDACTED]
+<[REDACTED]>; [REDACTED]
+<[REDACTED]>
+Subject: FW: Epstein investigation [REDACTED]
+
+Wednesday at 11 work for everyone?
+
+----Original Message--
+From: Michael Bachner [REDACTED]
+Sent: Monday, July 15, 2019 1:42 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]
+<[REDACTED]>
+Subject: RE: Epstein investigation [REDACTED]
+
+Hi [REDACTED]
+
+Tomorrow or Wednesday at 11 or 3:30. Thursday any time after 11:30 to 4.
+
+https://www.actl.com/
+
+Michael Bachner, Esq.
+Bachner & Associates, PC
+39 Broadway, Suite 1610
+New York, NY 10006
+
+[REDACTED]
+www.bhlawfirm.com
+
+CONFIDENTIAL NOTICE: This E-mail (including any attachments) is covered by the Electronic Communications Privacy Act, 18 USC Sections 2510-2521, is confidential, and may be legally privileged. If you are not the intended recipient, you are hereby notified that any retention, dissemination, distribution, or copying of this communication is strictly prohibited. Please reply to the sender that you have received the message in error and then delete it. Thank you.
+
+----Original Message----
+From: [REDACTED] [mailto: [REDACTED] ]
+Sent: Monday, July 15, 2019 12:50 PM
+To: Michael Bachner [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]
+<[REDACTED]>
+Subject: Re: Epstein investigation [REDACTED]
+
+Hi Michael,
+
+## Structured Fields
+- **Date:** Monday, July 15, 2019 (12:50 PM, 1:42 PM, 13:49)
+- **Names:** Michael Bachner
+- **Organizations:** Bachner & Associates, PC; FBI; ACTL (via URL); EFTA (via Doc ID)
+- **Doc IDs:** EFTA0021429
+- **Locations:** New York, NY 10006; (NY)
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Apologies for the delay. Would you please let us know what times would work for you and [REDACTED] in the next two or three days? We’ll then figure out a time when we can all meet.
+
+Thank you,
+[REDACTED]
+
+On Jul 11, 2019, at 10:43 PM, Michael Bachner [REDACTED] > wrote:
+
+Hello [REDACTED]. 6 o’clock is somewhat late. The client lives in [REDACTED]
+
+---
+
+Michael Bachner
+Bachner & Associates, PC
+39 Broadway-Suite 1610
+New York, NY 10006
+[REDACTED]
+
+Please excuse typographical errors. Messages sent through dictation.
+[X]
+
+https://www.actl.com/
+
+NOTICE: The information contained in this communication is legally privileged and/or confidential information, which is intended only for use of recipient. If the reader of this communication is not the intended recipient (or the agent or employee responsible to deliver it to the intended (recipient), you are hereby notified that any dissemination, distribution, or reproduction of this communication is strictly prohibited. If you have received this communication by error, please immediately notify the sender by e-mail and delete this email from your system. Nothing in this email should be construed as a legal opinion or tax advice.
+
+On Jul 11, 2019, at 9:01 PM, [REDACTED])
+<[REDACTED]<mailto:[REDACTED]>> wrote:
+
+Michael,
+
+Would 7/16 at around 6pm work for the reverse proffer in our office at 1 St. Andrews?
+
+Thanks,
+[REDACTED]
+
+---
+
+[REDACTED]
+
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+[REDACTED]<mailto:[REDACTED]>
+
+EFTA00021430
+
+## Structured Fields
+- Date: Jul 11, 2019
+- Time: 9:01 PM, 10:43 PM
+- Name: Michael Bachner
+- Organization: Bachner & Associates, PC; Assistant United States Attorney; Southern District of New York
+- Location: New York, NY (10006); 39 Broadway-Suite 1610; 1 St. Andrews Plaza / 1 St. Andrew's Plaza
+- Website: https://www.actl.com/
+- Document ID: EFTA00021430
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: Michael Bachner <[REDACTED]>
+Sent: Thursday, July 11, 2019 12:26 PM
+To: [REDACTED] <mailto:[REDACTED]>>; [REDACTED] <mailto:[REDACTED]>>
+Cc: [REDACTED] <mailto:[REDACTED]>>; [REDACTED] <mailto:[REDACTED]>>
+Subject: Re: Epstein investigation
+
+Regarding the reverse proffer, We are available next week from the 15-18. I have a 2 o'clock meeting in my office on the 16th and 17th that should last an hour. So I can meet with you on those days at 11 or 1030 in the morning if that works. Please let me know
+
+Michael Bachner
+Bachner & Associates, PC
+39 Broadway-Suite 1610
+New York, NY 10006
+[REDACTED]
+
+Please excuse typographical errors. Messages sent through dictation.
+<~WRD000.jpg>
+
+https://www.actl.com/
+
+NOTICE: The information contained in this communication is legally privileged and/or confidential information, which is intended only for use of recipient. If the reader of this communication is not the intended recipient (or the agent or employee responsible to deliver it to the intended (recipient), you are hereby notified that any dissemination, distribution, or reproduction of this communication is strictly prohibited. If you have received this communication by error, please immediately notify the sender by e-mail and delete this email from your system. Nothing in this email should be construed as a legal opinion or tax advice.
+
+On Jul 10, 2019, at 11:20 AM, Michael Bachner <[REDACTED]> wrote:
+Sure.
+
+Michael Bachner
+Bachner & Associates, PC
+39 Broadway-Suite 1610
+New York, NY 10006
+[REDACTED]
+
+Please excuse typographical errors. Messages sent through dictation.
+<~WRD000.jpg>
+
+https://www.actl.com/
+
+NOTICE: The information contained in this communication is legally privileged and/or confidential information, which is intended only for use of recipient. If the reader of this communication is not the intended recipient (or the agent or employee responsible to deliver it to the intended (recipient), you are hereby notified that any dissemination, distribution, or reproduction of this communication is strictly prohibited. If you have received this communication by error, please immediately notify the sender by e-mail and delete this email from your system. Nothing in this email should be construed as a legal opinion or tax advice.
+
+EFTA0021431
+
+## Structured Fields
+*   **Date:** July 11, 2019 (Sent), July 10, 2019 (Previous Email)
+*   **Time:** 12:26 PM, 11:20 AM
+*   **Subject:** Re: Epstein investigation
+*   **Sender/Recipient Name:** Michael Bachner
+*   **Organization:** Bachner & Associates, PC
+*   **Address:** 39 Broadway-Suite 1610, New York, NY 10006
+*   **Document ID:** EFTA0021431
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+On Jul 10, 2019, at 11:08 AM, [REDACTED])
+<[REDACTED] <mailto:[REDACTED]>> wrote:
+Mike,
+
+I think it would be useful to get a better understanding of your position—it would be helpful for us to know, for example, how much time you propose to take to evaluate matters, and whether we can provide any additional information that might be useful for that process of evaluation. That likely will affect our determination regarding the grand jury appearance, at which we would expect, were we to call [REDACTED] to ask her a number of questions we would expect to argue to the court do not implicate a fifth amendment privilege—i.e., that she couldn’t simply blanket invoke. Would it be useful to discuss via phone?
+
+thanks,
+[REDACTED]
+
+From: Michael Bachner [REDACTED]
+Sent: Wednesday, July 10, 2019 10:25
+To: [REDACTED] <mailto:[REDACTED]>
+Cc: [REDACTED] <mailto:[REDACTED]>; [REDACTED])
+<[REDACTED]<mailto:[REDACTED]>>
+Subject: Re: Epstein investigation / [REDACTED]
+
+Dear Counsel:
+
+I met with [REDACTED] and I need time to evaluate matters. Regarding the subpoena to testify before the Grand Jury on [REDACTED], we hereby notify you that if called as a witness [REDACTED] would invoke her Fifth Amendment privilege against compelled self-incrimination. Please let me know if you will require her to invoke in person or whether this communication suffices and no appertaining will be required.
+
+Yours truly,
+
+Michael Bachner
+
+Michael Bachner
+Bachner & Associates, PC
+39 Broadway-Suite 1610
+New York, NY 10006
+[REDACTED]
+Please excuse typographical errors. Messages sent through dictation.
+<~WRD026.jpg>
+
+https://www.actl.com/
+
+NOTICE: The information contained in this communication is legally privileged and/or confidential information, which is intended only for use of recipient. If the reader of this communication is not the intended recipient (or the agent or employee responsible to deliver it to the intended (recipient), you are hereby notified that any dissemination, distribution, or reproduction of this communication is strictly prohibited. If you have received this communication by error, please immediately notify the sender by e-mail and delete this email from your system. Nothing in this email should be construed as a legal opinion or tax advice.
+EFTA00021432
+
+## Structured Fields
+
+- **Date:** Jul 10, 2019 / Wednesday, July 10, 2019
+- **Time:** 11:08 AM / 10:25
+- **Sender Name:** Michael Bachner
+- **Organization:** Bachner & Associates, PC
+- **Location:** New York, NY 10006 (39 Broadway-Suite 1610)
+- **Subject:** Epstein investigation
+- **Document ID:** EFTA00021432
+- **File Ref:** <~WRD026.jpg>
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+On Jul 9, 2019, at 11:43 AM, [REDACTED])
+<[REDACTED]<mailto:[REDACTED]>> wrote:
+Mr. Bachner,
+
+Following up on our conversation earlier this morning, we wanted to provide you with the additional information and materials we discussed. In the first instance, so that you have full contact info for the team, please feel free to reach out to any of us at any time; we’re all available via email or at the following phone numbers:
+
+[REDACTED]
+
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in Florida, and a blank version of our standard proffer agreement, both as discussed.
+
+As we mentioned, please don’t hesitate to reach out with any questions, and we look forward to setting a time to speak again after you’re able to confer with [REDACTED]
+
+thank you,
+[REDACTED]
+[REDACTED]
+Assistant U.S. Attorney
+Southern District of New York
+[REDACTED]
+
+<blank proffer agreement.pdf>
+<Epstein NPA, dated 2007-09-24.pdf>
+
+## Structured Fields
+
+*   **Date:** Jul 9, 2019
+*   **Time:** 11:43 AM
+*   **Recipient Name:** Mr. Bachner
+*   **Sender Role:** Assistant U.S. Attorney
+*   **Location/Department:** Southern District of New York
+*   **Attachment 1:** blank proffer agreement.pdf
+*   **Attachment 2:** Epstein NPA, dated 2007-09-24.pdf
+*   **Document ID:** EFTA00021433
+

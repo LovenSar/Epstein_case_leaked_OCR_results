@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031247.pdf ts=2026-03-19T03:10:36 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED] (USANYS) [Contractor]" <[REDACTED>>
+To: "[REDACTED])" <[REDACTED>>
+Subject: us v epstein
+Date: Mon, 13 Jul 2020 14:03:56 +0000
+Inline-Images: image001.png
+
+---
+
+easystore (F:)
+
+| Name | Date modified | Type | Size |
+| :--- | :--- | :--- | :--- |
+| BlacklightMacsNY | 7/7/2020 11:34 AM | File folder | |
+| IDE drives | 7/7/2020 12:22 PM | File folder | |
+| Island Macs | 7/6/2020 12:08 PM | File folder | |
+| Island Windows | 7/8/2020 11:41 AM | File folder | |
+| Loose Media | 7/7/2020 12:45 PM | File folder | |
+| NY Macs | 7/8/2020 12:03 PM | File folder | |
+| NY Windows | 7/8/2020 12:04 PM | File folder | |
+
+## Structured Fields
+- **Date**: Mon, 13 Jul 2020 (Email Header); Various dates in July/August 2020 (Folder List)
+- **Organization**: USANYS (visible in From field)
+- **Classification**: [Contractor] (visible in From field)
+- **Document ID / Case ID**: EFTA00031247 (Footer)
+- **File Type**: File folder
+- **Path/Store**: easystore (F:)
+

@@ -1,0 +1,55 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00029195.pdf ts=2026-03-18T06:27:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email header and body with extensive privacy redactions applied via solid black rectangles. The document is oriented in portrait mode on a white background.
+
+**Header Section:**
+At the top, the metadata fields are visible: "From:", "To:", "Cc:", and "Subject:". The content behind these labels is almost entirely obscured by thick black bars, though some text edges are peeking through (e.g., "Co" in Cc). Below this is the date stamp: "Tue, 17 Dec 2019 19:51:58 +0000". The attachment line reads "Attachments: Introductory_Email_ [obscured] -2-16-19.pdf". The inline image is listed as "image001.jpg". A horizontal line separates the header from the message body.
+
+**Message Body:**
+The email begins with a salutation "Dear" followed by a redacted name block. The first paragraph explains a sending error, stating, "Attached please find the email I mistakenly addressed to [redacted]... refer to her as [redacted] by mistake and have since apologized." The second paragraph discusses uncertainty about whether to contact a specific party ("contact you or [redacted]"), ending with a request for instructions. It closes with "Sincerely," followed by a large redacted block where the sender's name signature would appear.
+
+**Signature Block:**
+Just below the first main redaction block in the body, an address is visible in blue hyperlink-style text: "9150 Wilshire Blvd., Suite 241" and "Beverly Hills, California 90212-3429". Below this address is another black rectangle covering contact information. A massive, wide black rectangle obscures the bottom section of the email content before the footer.
+
+**Footer Section:**
+The bottom of the image features a standard confidentiality disclaimer. The header "CONFIDENTIALITY" is in blue text. The paragraph below warns of attorney-client privilege and instructs unauthorized recipients to return the email by mail and delete it. Portions of this legal text are also blacked out, particularly where phone numbers might be listed. In the bottom right corner, a document ID "EFTA00029195" is visible in small grey font.
+
+## Visible Text (verbatim)
+**Header Fields:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: [Redacted]
+*   Date: Tue, 17 Dec 2019 19:51:58 +0000
+*   Attachments: Introductory_Email_ [Redacted]-2-16-19.pdf
+*   Inline-Images: image001.jpg
+
+**Message Body:**
+*   Dear [Redacted]
+*   Attached please find the email I mistakenly addressed to [Redacted]... I refer to her as [Redacted] by mistake and have since apologized.
+*   Frankly, I was not sure whether I should contact you or [Redacted]. At any rate, after you have an opportunity to look at the attached email, let me know how we should proceed.
+*   Sincerely,
+*   [Redacted Name/Signature]
+
+**Address Block:**
+*   9150 Wilshire Blvd., Suite 241
+*   Beverly Hills, California 90212-3429
+
+**Confidentiality Disclaimer:**
+*   CONFIDENTIALITY
+*   This e-mail is for the personal and exclusive use of the recipient(s) named above. It contains confidential information from [Redacted]... Its contents are not only to remain absolutely confidential, but may also be subject to the attorney-client privilege or coverage under the work-product doctrine. If you have received this transmission and are not the intended recipient(s) or his/her agent, please be advised that any disclosure, use, review, copying, selling, dissemination, publication, or distribution of this transmission is strictly unauthorized and prohibited. If you have received this transmission in error, please notify the sender at the number above, return the original e-mail by mail, and delete the e-mail file from your computer. Postage is guaranteed. Your cooperation is appreciated. Thank you.
+
+**Watermark:**
+*   EFTA00029195
+
+## Notable Details / Clues
+*   **Real Estate Location:** The address "9150 Wilshire Blvd., Suite 241" in Beverly Hills corresponds to a commercial office space often used by real estate firms (specifically Coldwell Banker, though the firm name isn't explicitly readable here). This suggests the sender is likely a real estate agent or broker.
+*   **Email Mistake:** The text admits to a significant error: "mistakenly addressed" and "refer to her as... by mistake." This implies the sender accidentally copied an email intended for someone else (perhaps a different client or seller) to the current recipient.
+*   **Date Discrepancy:** The email was sent on December 17, 2019 ("17 Dec 2019"), but the attachment filename references "2-16-19" (February 16, 2019). This suggests the attachment is an older document, perhaps a listing or contract generated months prior.
+*   **Evidence Tracking ID:** The string "EFTA00029195" at the bottom right indicates this screenshot was likely exported from legal case management software (like Evidence Tracker), used to preserve evidence in a litigation context.
+*   **Legal Protection:** The footer mentions "attorney-client privilege," suggesting that the email thread involves ongoing legal proceedings or at least documents protected by work-product doctrine.
+*   **Formatting:** The use of "inline-images" and attachments suggests this is likely a real estate listing presentation (often called an E-Listing) that was accidentally forwarded or sent to the wrong lawyer/agent.
+

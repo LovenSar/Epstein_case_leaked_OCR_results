@@ -1,0 +1,41 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008476.pdf ts=2026-03-09T07:22:00 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Scene Overview:** The image displays a top-down, close-up view of an open shipping package resting on a speckled, granite-like countertop.
+*   **Primary Object:** In the center is a rectangular electronic component encased in a clear, thin plastic bubble-mailer style bag. The object inside appears to be a server hard drive tray or a RAID controller bracket made of silver-colored metal.
+*   **Component Features:** The metal bracket has four rounded corners, each fitted with a dark purple or black rubber bumper (specifically visible at the top and bottom). These are designed to protect the unit from shock or scratching during transport.
+*   **Packaging Labels:** A white shipping label is adhered to the front of the plastic packaging. Due to glare and wrinkles in the plastic, much of the text is obscured, but sections including a barcode and safety warnings (such as "Fragile" icons) are discernible.
+*   **Handwritten Markings:** There is black marker writing directly on the plastic packaging at the bottom corners. The character "18" is visible on the left corner and an "R8" or similar alphanumeric string is visible on the right corner.
+*   **The Box:** Behind the component is the interior flap of a brown corrugated cardboard box. The top edge of this flap contains printed shipping instructions.
+*   **White Insert:** Beneath the plastic bag is a folded white piece of paper or document, which seems to be protecting the bottom of the component from direct contact with the cardboard box.
+*   **Box Branding:** Printed near the top center of the open box flap is the logo "SMEAD," a brand known for office supplies like file folders and boxes.
+*   **Safety Symbols:** Above the Smead logo, there are printed warning symbols, including an explosion hazard diamond (often indicating lithium batteries or similar sensitive electronics) and text regarding "NO TRANSIT" conditions.
+*   **Surface Texture:** The background surface is a busy pattern of grey, white, and black flecks, typical of terrazzo or speckled laminate countertops.
+*   **Lighting/Reflection:** Strong overhead lighting creates a large, bright vertical reflection running down the center of the plastic packaging, obscuring the text in that specific area.
+
+## Visible Text (verbatim)
+**Box Flap (Top Center):**
+*   "SMEAD"
+*   "NO TRANSIT - EXPLOSION HAZARD" (Partial text visible above logo)
+*   Warning diamond symbol.
+
+**Component Label (Center):**
+*   "...ARRAY CONTROLLER" (Visible near bottom of label area)
+*   Barcode present (numbers illegible due to resolution).
+*   Fragile icons.
+
+**Marker Ink:**
+*   "18"
+*   "R8"
+
+**Watermark:**
+*   "EFTA00008476"
+
+## Notable Details / Clues
+*   **Repurposed Packaging:** The use of a Smead file box suggests this item might be a server part (like a Dell PERC card) repackaged into generic office supply packaging for shipping or storage.
+*   **Drive Trays/Cages:** The silver metal object resembles the mounting bracket used to secure hard drives inside a computer chassis, likely a "Top Bay" cage component for a desktop PC.
+*   **Inventory Management:** The handwritten numbers ("18", "R8") indicate this item has been logged into an inventory system, perhaps indicating quantity or row/location code.
+*   **Fragile Handling:** The combination of the bubble mailer inside the box and the rubber bumpers indicates high care was taken to prevent micro-scratches or impact damage during transit.
+

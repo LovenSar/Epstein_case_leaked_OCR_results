@@ -1,0 +1,261 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015090.pdf ts=2026-03-12T12:53:08 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the first page of a formal document titled "Additional Inquiry Response," issued by the Federal Bureau of Investigation - New York (ORI: NYFBINY00). The top left corner shows a digital timestamp reading "10/6/21, 12:58 PM." The header indicates this is an "III/FBI/State Delayed Response." Below the title is the address for the New York State Division of Criminal Justice Services in Albany, including a toll-free number, and names Michael C. Green as the Executive Deputy Commissioner.
+
+The body of the document begins with a section labeled "III Information," marked by a small green icon and a red upward-pointing arrow. The text explains that this is a response to a request for an "III search from the State of Florida." Immediately following this explanatory text is a large, solid black rectangular overlay that obscures specific fields labeled "FBI number:", "Name:", and "Purpose Code:".
+
+Below the first redaction block is a disclaimer stating that additional sentencing information may be available from the originating agency. This is followed by an "Introduction" section, which is also partially obscured by a second large black box covering request details like State Id Number and Request Id. Following the introduction are "caveats" regarding the use of the record, including redacted areas for specific laws or regulations (indicated by black bars). The bottom half of the page features a section titled "IDENTIFICATION," which is entirely covered by a massive black box, likely containing sensitive biometric or personal data. The footer on the right indicates this is page "1/4" and includes a reference code "EFTA0015090".
+
+## Visible Text (verbatim)
+**Header:**
+*   10/6/21, 12:58 PM
+*   III/FBI/State Delayed Response
+*   **Additional Inquiry Response**
+*   ORI: NYFBINY00
+*   Federal Bureau of Investigation - New York
+*   New York State Division of Criminal Justice Services
+*   Alfred E. Smith Building, 80 South Swan St.
+*   Albany, New York 12210. Tel:1-800-262-DCJS
+*   Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+
+**Body Text:**
+*   III Information
+*   The following information is provided in response to your request for a III search from the State of Florida based on:
+*   FBI number: [Redacted]
+*   Name: [Redacted]
+*   Purpose Code: [Redacted]
+*   ADDITIONAL SENTENCING INFORMATION MAY BE AVAILABLE FROM ORIGINATING AGENCY .********************** CRIMINAL HISTORY RECORD ********************
+*   *************************** Introduction ***************************
+*   This rap sheet was produced in response to the following request:
+*   FBI Number [Redacted Block]
+*   State Id Number [Redacted Block]
+*   Request Id [Redacted Block]
+*   Purpose Code [Redacted Block]
+*   Attention [Redacted Block]
+*   The information in this rap sheet is subject to the following caveats:
+*   This record contains [Redacted Box]information only. When explanation of a charge or disposition is needed, communicate directly with the agency that contributed the record information. (; 2021-10-06)
+*   This record may only be used for the purpose requested as defined by the Code of Federal Regulations and/or [Redacted Box] (; 2021-10-06)
+*   This is a multi-source offender record. (; 2021-10-06)
+*   *************************** IDENTIFICATION ***************************
+*   [Full Page Black Box covering identification section]
+
+**Footer:**
+*   1/4
+*   EFTA0015090
+
+## Notable Details / Clues
+*   **Multi-State Origin:** Despite the letterhead being from the FBI New York office, the text explicitly mentions a search request "from the State of Florida," suggesting an inter-agency background check where a state entity requested a federal file.
+*   **Heavy Redaction:** The document is heavily redacted. The main identifier fields (Name, FBI Number) are blacked out on page one, which is unusual for a public-facing or general inquiry response unless privacy filters are strictly applied to the preview or initial copy. The "Identification" section at the bottom is entirely obscured.
+*   **Date Stamp:** The document was generated on October 6, 2021. The dates in brackets within the text (e.g., `(; 2021-10-06)`) correspond to this generation date, indicating when the caveats or data pulls were updated.
+*   **Document Type:** The text "This rap sheet was produced..." identifies the document technically as a Rap Sheet (Criminal History Record), which is the standard FBI form for criminal history information.
+*   **Disclaimer Hierarchy:** The document includes specific legal warnings ("caveats") stating the record contains specific info only, must be used for requested purposes, and requires direct contact with originating agencies for charge explanations. This indicates strict legal usage limitations (likely adhering to 18 U.S.C. § 3500 or similar FBI privacy regulations).
+*   **Agency Structure:** The footer identifies the sender as the "New York State Division of Criminal Justice Services," implying a state agency was likely the primary recipient or submitter, even though the FBI letterhead is used to fulfill a specific data request.
+*   **Page Count:** The indicator "1/4" at the bottom right suggests this is only the first page of a four-page document.
+*   **Reference Code:** The alphanumeric string "EFTA0015090" in the bottom right corner likely serves as an internal tracking number for the electronic transmission or filing system used by the FBI New York office.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, likely a scan or PDF export of an official record, specifically identified by a header as an "III/FBI/State Delayed Response." The top third of the page is dominated by a large, solid black rectangle that completely obscures what are typically booking photographs or mugshots associated with a criminal file. Below this black box, there is a section dedicated to biometric data status. It explicitly states that no fingerprint images were transmitted and no DNA details were included in this specific response packet. A horizontal separator line consisting of asterisks introduces the "CRIMINAL HISTORY" section. The lower two-thirds of the document feature a large, vertical black rectangle overlaying the right-hand side, hiding the specific data values for various criminal charges. To the left of this overlay, standard field labels for a criminal history report are visible in a monospaced font, listing categories such as arrest dates, agency names, and charge codes. This section appears to list multiple distinct incidents, indicated by repeated headers like "Earliest Event Date" and "Tracking Number," though the actual information corresponding to these headers is covered by the black box. At the very bottom right of the content area, a page number indicator reads "2/4," suggesting this is a multi-page document.
+
+## Visible Text (verbatim)
+*   **Top Left:** 10/6/21, 12:58 PM
+*   **Top Center:** III/FBI/State Delayed Response
+*   **Biometric Section:**
+    *   Fingerprint Images
+    *   (No Fingerprint Image Transmitted
+    *   Comment:)
+    *   DNA Data
+    *   (No DNA Detail Transmitted )
+*   **Header:** ******************** CRIMINAL HISTORY ********************
+*   **Field Labels (Visible Left Side):**
+    *   =======================
+    *   Earliest Event Date
+    *   -----------------------
+    *   Arrest Date
+    *   Arrest Case Number
+    *   Arresting Agency
+    *   Charge
+    *     Charge Literal
+    *       Statute
+    *     NCIC Offense Code
+    *     State Offense Code
+    *     Counts
+    *     Severity
+    *   =======================
+    *   Tracking Number
+    *   Earliest Event Date
+    *   -----------------------
+    *   Arrest Date
+    *   Arrest Case Number
+    *   Arresting Agency
+    *   Charge
+    *     Charge Literal
+    *     Charge Description
+    *       Statute
+    *       State Offense Code
+    *       Counts
+    *       Severity
+    *   -----------------------
+    *   Prosecutor Disposition
+    *   Prosecutor Agency
+*   **Bottom Right Corner:** 2/4
+*   **Footer:** EFTA00015091
+
+## Notable Details / Clues
+*   **Redaction Status:** The document contains extensive blackouts. The top box hides photographs, while the large vertical box on the right hides the specific text data (dates, names, case numbers) corresponding to the visible labels on the left.
+*   **Biometric Void:** A key piece of information available is the *absence* of biometric data. The document explicitly notes "(No Fingerprint Image Transmitted" and "(No DNA Detail Transmitted", indicating this packet contains identification history but not the raw biological profiles.
+*   **Date Context:** The timestamp "10/6/21" places this record in October 2021, confirming it is a relatively recent document rather than an archival legacy system file.
+*   **Incident Counting:** The repetition of fields like "Earliest Event Date," "Arrest Date," and "Tracking Number" implies that there are multiple criminal entries or charges associated with this record. The vertical black bar obscures whether there is one entry or several stacked entries.
+*   **Response Type:** The header "III/FBI/State Delayed Response" suggests this document was generated after a request for information (RFI) and may represent a system-generated delay or batch process, rather than a real-time interactive session.
+*   **System Format:** The layout is characteristic of the NGIC (National Instant Criminal Background Check System) or USDOJ fingerprint transmission standards, often used by law enforcement agencies to query NCIC databases.
+*   **Charge Specificity:** Labels such as "NCIC Offense Code" and "State Offense Code" indicate a dual-level classification system for crimes, standard in federal-state data sharing agreements.
+*   **Document Pagination:** The "2/4" at the bottom right indicates this is the second page of a four-page response packet, suggesting a thorough investigation or a file with extensive history attached to it.
+*   **Tracking Number Presence:** The label "Tracking Number" suggests there are unique identifiers (likely 8-digit USDOJ tracking numbers) that define these specific criminal entries, which are currently redacted.
+*   **Agency Redaction:** While the field "Arresting Agency" is visible, the corresponding value is blacked out, preventing identification of who made the arrest.
+*   **Statutory Law References:** The presence of a "Statute" field implies that specific legal codes (e.g., Penal Code sections) are being reported for each charge, though they are hidden.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a computer-generated document page, likely a printout or screenshot of a digital record, featuring a layout divided into two distinct vertical columns. The left column contains a series of alphanumeric field labels organized in a hierarchical text format, while the right column is almost entirely obscured by two massive, solid black rectangular blocks, indicating redacted or missing data fields.
+
+At the very top left, a timestamp reads "10/6/21, 12:58 PM". The document title, centered at the top of the page just above the first black box, reads "III/FBI/State Delayed Response". The text on the left is indented to show data relationships; for example, specific charge details like "Charge Literal" or "Statute" are indented underneath a main "Charge" label. Horizontal dashed lines serve as section breaks between major categories of information, such as separating the initial charge data from court disposition data.
+
+The document appears to be a case processing report detailing a criminal justice workflow. The fields track an individual's involvement through various stages: initial arrest/arresting agency, charging (with tracking numbers and statutes), court disposition, sentencing (listing multiple sentence entries), and finally prosecutor disposition details. The black rectangles on the right span the majority of the vertical space, completely hiding the actual data values (strings of text or numbers) that would normally correspond to these labels. At the bottom right, there is a page indicator "3/4" and a document identification number "EFTA00015092".
+
+## Visible Text (verbatim)
+**Top Header:**
+10/6/21, 12:58 PM
+III/FBI/State Delayed Response
+
+**Upper Section Labels:**
+Charge
+Charge Tracking Number
+Charge Literal
+Charge Description
+Statute
+State Offense Code
+Counts
+Severity
+Disposition
+
+**Divider:**
+----------------------------------
+
+**Court Section Labels:**
+Court Disposition
+Court Case Number
+Court Agency
+Charge
+Charge Literal
+Charge Description
+Statute
+State Offense Code
+Counts
+Severity
+Disposition
+
+**Lower Divider:**
+================================= (partial)
+
+**Sentencing Section Labels:**
+Sentencing
+Sentence Date
+Sentencing Agency
+Charge
+Charge Literal
+Charge Description
+Statute
+State Offense Code
+Counts
+Severity
+Disposition
+Sentence
+Sentence
+Sentence
+Sentence
+Sentence
+Sentence
+
+**Divider:**
+====================================
+
+**Arrest/Tracking Section Labels:**
+Tracking Number
+Earliest Event Date
+----------------------------------
+
+**Arrest Section Labels:**
+Arrest Date
+Arresting Agency
+Charge
+Charge Literal
+Charge Description
+Statute
+State Offense Code
+Counts
+Severity
+
+**Bottom Divider:**
+------------------------------ (partial)
+
+**Prosecutor Section Labels:**
+Prosecutor Disposition
+Prosecutor Agency
+Charge
+Charge Tracking Number
+Charge Literal
+Charge Description
+Statute
+
+**Footer:**
+3/4
+EFTA00015092
+
+## Notable Details / Clues
+*   **Redaction Pattern:** The large black boxes suggest that the actual case data (names, dates of offense, specific sentence lengths) has been intentionally removed or is loading slowly, leaving only the structural schema visible.
+*   **Multi-Sentence Indictment:** Under the "Sentencing" header, the word "Sentence" appears six times in a row vertically, implying that the individual received multiple concurrent or consecutive sentences for different charges before this part of the document was redacted.
+*   **"Delayed Response" Title:** The header "III/FBI/State Delayed Response" suggests this report is specifically tracking the time elapsed or delays between state and federal agencies (FBI), likely in a counter-terrorism or organized crime context where jurisdictional hand-offs occur.
+*   **Field Hierarchy:** The indentation levels are consistent throughout, showing that "Charge Literal," "Description," and "Statute" are sub-fields belonging to the parent "Charge" field.
+*   **Page Context:** The page number "3/4" at the bottom right indicates this is a multi-page document, likely part of a larger case file or incident report.
+*   **Field Repetition:** Several sections repeat a block of fields (Charge Tracking Number, Literal, Description, Statute, State Offense Code). This repetition confirms the presence of multiple distinct criminal charges within a single case file.
+*   **Agency Fields:** The labels explicitly ask for "Arresting Agency" and "Sentencing Agency," distinguishing between law enforcement bodies involved in different phases of the legal process.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the lower section of a scanned document, specifically the footer or end page containing an index of agencies. At the very top left, a timestamp reads "10/6/21, 12:58 PM," indicating the date and time the document was generated. Centered at the top is the header text "III/FBI/State Delayed Response." Immediately below this header area is a solid black rectangle obscuring content.
+
+Below the obscured section, a separator line composed of asterisks frames the title "INDEX OF AGENCIES" in bold, capital letters. Following this title are several entries separated by horizontal dashed lines. Each entry consists of text labels on the left-hand side and corresponding redacted information on the right. The first block lists the words "Agency" and "Address" vertically, followed by a short black bar obscuring the data. The next block is a single long black bar. Subsequent blocks follow a similar pattern with dashed lines separating them; these blocks are labeled "Agency," or both "Agency" and "Address," followed by varying lengths of black bars that completely hide the underlying text.
+
+At the bottom of the content area, separated by another dashed line, is the final entry block with labels "Agency" and "Address." Below this last redaction block is a separator line marked with asterisks reading "* * * END OF RECORD * * *". The rest of the page is white space. In the bottom right corner, the page indicator "4/4" is visible. Beneath that, at the very bottom right edge, is an alphanumeric identifier "EFTA00015093". The entire document appears to be heavily redacted, likely for privacy or security reasons involving law enforcement agencies given the header references.
+
+## Visible Text (verbatim)
+- 10/6/21, 12:58 PM
+- III/FBI/State Delayed Response
+- INDEX OF AGENCIES
+- Agency
+- Address
+- Agency
+- Agency
+- Agency
+- Address
+- Agency
+- Address
+- * * * END OF RECORD * * *
+- 4/4
+- EFTA00015093
+
+## Notable Details / Clues
+- The document is the final page of a report, indicated by the "END OF RECORD" marker and the page count "4/4".
+- A specific FBI case or series identifier is present in the top header: "III/FBI/State Delayed Response."
+- A Bates number or file tracking number "EFTA00015093" is visible at the bottom, suggesting this document is part of a larger legal discovery or public release package.
+- The redaction strategy targets specific agency names and addresses, which would identify law enforcement or investigative bodies involved in the case referenced by the report header.
+- The use of dashed lines suggests this is a form-based structure where fields are pre-defined before data entry.
+- The date "10/6/21" places the document in October 2021.
+- There are multiple blocks of text hidden behind black bars, implying there were multiple jurisdictions or agencies listed in the index that was originally visible.
+

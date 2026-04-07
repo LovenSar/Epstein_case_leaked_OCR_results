@@ -1,0 +1,61 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003065.pdf ts=2026-03-06T00:45:03 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a physical document titled "Emergency Contact Form," placed inside a clear plastic sheet protector within a ring binder. The binder holes are visible on the far left edge, showing three metal rings holding the pages together. The document sits on a dark, textured surface that appears to be a table or desk, with some small white specks (possibly dust or debris) visible near the bottom edge.
+
+The header of the form identifies the organization as "LSJE, LLC" located in St. Thomas, VI. Below the header, various fields are filled out by an employee named "Peter St Omer." Several sensitive fields containing personal data (dates of birth, addresses, phone numbers) have been redacted with thick black bars for privacy. The lower section lists two emergency contacts: one identified as a "Friend" named Kishma and the other as a "Son" named Demitri. The form includes sections for health concerns, blood type (redacted), and doctor information (mostly empty). A disclaimer at the bottom emphasizes safety.
+
+## Visible Text (verbatim)
+**Header:**
+- LSJE, LLC
+- 6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348
+- Phone: [Redacted]
+- E-mail: thesaintjames.group@gmail.com
+
+**Form Title:**
+- Emergency Contact Form
+
+**Fields & Entries:**
+- Today's Date: 10/21/18
+- Start Date: [Blank]
+- Employee Name: Peter St Omer
+- Date of Birth: [Redacted]
+- Physical Address: [Redacted]
+- Mailing Address: [Redacted] St Thomas, VI 00802
+- Cell Phone: [Redacted]
+- Phone (other): [Blank]
+- E-mail: [Blank]
+- Marital Status: Married
+- Title/Position: Operator
+- Driver's License No: [Redacted]
+- Allergies or Health Concerns: N/A
+- Blood type: [Redacted] [Unknown] checkbox is empty.
+- Current Medications: [Blank]
+- Doctor's Name: [Blank] / Doctor's Phone: [Blank]
+- Doctor's Name: [Blank] / Doctor's Phone: [Blank]
+- In case of emergency, please contact:
+
+**Emergency Contacts:**
+- Name: Kishma
+- Relationship: Friend
+- Phone: [Redacted]
+- Name: Demitri
+- Relationship: Son
+- Phone: [Redacted]
+
+**Footer:**
+- This information is for your safety and the safety of others.
+- EFTA00003065 (Bottom right corner watermark)
+
+## Notable Details / Clues
+- **Date of Filing:** The form was filled out on October 21, 2018 ("10/21/18").
+- **Redaction Level:** Significant portions of the document are blacked out, specifically the Date of Birth, physical address, cell phone number, mailing address (partially), driver's license number, blood type, and the phone numbers for the emergency contacts. This indicates an effort to anonymize the data or a sample taken from a public record/dossier.
+- **Employee Profile:** The employee is identified as "Peter St Omer," holding the title of "Operator." He is listed as married.
+- **Health Info:** Under allergies/health concerns, it is noted as "N/A" (Not Applicable). The blood type field is completely blacked out.
+- **Company Connection:** The email address `thesaintjames.group@gmail.com` and the company name `LSJE, LLC` suggest a connection to "Saint James," possibly indicating a real estate or investment management firm (Love's St. James Estates is often associated with LSJE).
+- **Contact Hierarchy:** Two contacts are listed. The primary contact is Kishma (Friend), but the secondary contact is Demitri (Son). This suggests the son might not be available or living nearby, so a friend is used as a fallback.
+- **Form Usage:** The "Start Date" field is empty, and the current medications/doctor fields are blank, suggesting this was likely an initial onboarding form rather than an updated health record at that time.
+- **Location Context:** The address "St. Thomas, VI" indicates the United States Virgin Islands.
+

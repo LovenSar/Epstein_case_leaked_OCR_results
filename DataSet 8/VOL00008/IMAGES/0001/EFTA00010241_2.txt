@@ -1,0 +1,69 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010241.pdf ts=2026-03-10T02:11:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot or digital export of an email thread, likely from a government or law enforcement domain given the "Homeland Security Investigations" title visible. The document is structured as a chronological thread of emails with sensitive information redacted (blacked out).
+
+The top section shows a reply email dated Wednesday, November 17, 2021. It contains headers for From, To, and Cc which are completely blacked out. The subject line reads "RE: Call?". A long list of attachments is visible, consisting of multiple PDF files with filenames starting with "SDNY_GM," suggesting they are documents from the Southern District of New York Grand Jury (e.g., SDNY_GM_00000812). The body text is brief, thanking the recipient for chatting and confirming attachment.
+
+Below this top entry is a horizontal separator line, followed by the main email body which appears to be a thread from Tuesday, November 16, 2021. This section includes headers that are partially redacted. The subject line indicates an external sender: "[EXTERNAL] RE: Call?". The message proposes meeting times ("1-2" or "after 5"), requests a call on a specific cell phone number (which is redacted), and states availability "now if feasible."
+
+The signature block for this middle section identifies the sender as an "Assistant Special Agent in Charge" within "Homeland Security Investigations," though their name and contact info are redacted. Following the signature is a bolded warning notice: "UNCLASSIFIED // LAW ENFORCEMENT SENSITIVE." This notice includes standard text regarding Freedom of Information Act exemptions and Department of Homeland Security policies for handling U//LES information.
+
+At the very bottom, the thread continues downwards with another email header entry dated Tuesday, November 16, 2021 at 7:18 PM (5 minutes before the previous email), initiating the "Call?" subject line chain. The rest of this entry is obscured by wide black bars covering the From and To fields. A footer number "EFTA00010241" is visible in the bottom right corner, likely a document tracking identifier.
+
+## Visible Text (verbatim)
+**Top Email:**
+*   **Subject:** RE: Call?
+*   **Date:** Wed, 17 Nov 2021 01:14:11 +0000
+*   **Attachments:** SDNY_GM_00000812-SDNY_GM_00000814.pdf; SDNY_GM_00000815-SDNY_GM_00000819.pdf; SDNY_GM_00000820-SDNY_GM_00000833.pdf; SDNY_GM_02753139-SDNY_GM_02753141.pdf; SDNY_GM_02753142-SDNY_GM_02753143.pdf; SDNY_GM_00000799-SDNY_GM_00000805.pdf; SDNY_GM_00000806-SDNY_GM_00000811.pdf
+*   **Body:** Thanks so much for chatting. Documents attached here.
+
+**Middle Email:**
+*   **Subject:** [EXTERNAL] RE: Call?
+*   **Sent:** Tuesday, November 16, 2021 7:23 PM
+*   **Body:** Hi [Redacted], Can do the 1-2 or after 5 – whichever is easier/quicker for you. Just give me a call on the below cell phone. Am also free now if feasible. [Redacted Name] Assistant Special Agent in Charge Homeland Security Investigations
+
+**Warning Notice:**
+*   UNCLASSIFIED // LAW ENFORCEMENT SENSITIVE
+*   WARNING: This document is UNCLASSIFIED (U) and is designated LAW ENFORCEMENT SENSITIVE (LES). It contains information that may be exempt from public release under the Freedom of Information Act (5 USC 552). This document is to be controlled, handled, transmitted, distributed, and disposed of in accordance with Department of Homeland Security policies relating to U//LES information, and is not to be released to the public or personnel who do not have a valid "need to know" without prior approval from the appropriate management official. Please notify the sender if this email has been misdirected and immediately destroy all originals and copies of the original.
+
+**Bottom Email Header:**
+*   **Sent:** Tuesday, November 16, 2021 7:18 PM
+*   **Subject:** Call?
+*   **Footer ID:** EFTA00010241
+
+## Notable Details / Clues
+*   **SDNY Filenames:** The attachment filenames (e.g., SDNY_GM...) strongly suggest these are records related to the Southern District of New York Grand Jury proceedings.
+*   **External Sender:** The "[EXTERNAL]" tag in the subject line implies the recipient is communicating with an outside party or a different organization not part of the same mail system domain.
+*   **Timeline:** The emails span roughly 24 hours (Nov 16 PM to Nov 17 AM), indicating an active exchange regarding scheduling and document transfer.
+*   **Law Enforcement Context:** The presence of "Homeland Security Investigations" (HSI) confirms this is a federal law enforcement communication.
+*   **Redaction Extent:** Significant portions of the email headers (names, addresses) are blacked out, likely to protect privacy or because the document is being processed for public release with sensitive info removed.
+*   **FOIA Warning:** The explicit warning text indicates that despite being marked "UNCLASSIFIED," the document is still restricted under US law (5 USC 552), suggesting it is being reviewed for a Freedom of Information Act request or similar public record request.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+CAUTION: This email originated from outside of DHS. DO NOT click links or open attachments unless you recognize and/or trust the sender. Contact ICE SOC SPAM with questions or concerns.
+
+Hi [REDACTED]
+
+I hope you are well. Do you have a few minutes for a call? I am free this week anytime after 5 pm or have a window from 1-2 pm if that works for you.
+
+Thanks so much!
+[REDACTED]
+Assistant United States Attorney
+United States Attorney's Office
+Southern District of New York
+One St. Andrew's Plaza
+New York, New York 10007
+[REDACTED]
+
+EFTA00010242
+
+## Structured Fields
+- **Organization**: United States Attorney's Office, Southern District of New York
+- **Location/Address**: One St. Andrew's Plaza, New York, New York 10007
+- **Doc ID**: EFTA00010242
+- **Redacted Items**: Recipient Name, Sender Name, Contact Information (Phone/Email)
+

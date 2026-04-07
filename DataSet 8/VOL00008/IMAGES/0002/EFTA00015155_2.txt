@@ -1,0 +1,37 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015155.pdf ts=2026-03-12T13:18:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+This document is a formal government response titled "Additional Inquiry Response," originating from the Federal Bureau of Investigation - New York and the New York State Division of Criminal Justice Services. The layout is standard for official correspondence with a letterhead at the top, a section for specific information in the middle, and footer instructions at the bottom.
+
+The upper third of the page contains the header information, including a timestamp in the top-left corner (10/6/21), an ORI code, and the agency names printed in purple text. Below this is a horizontal divider line. The central portion of the document features a section labeled "III Information," preceded by a green globe icon. Directly beneath this heading lies a massive, solid black rectangle that obscures the vast majority of the page content, serving as a redaction to hide personal or sensitive identifying information (PII).
+
+Beneath the large redaction box, there is a smaller line of text indicating a data update date (2016/10/24), followed by another horizontal black bar obscuring specific record identifiers. The bottom section contains procedural instructions regarding obtaining records via the NCIC transaction and an "END" marker. The document footer includes page count information on the right side.
+
+## Visible Text (verbatim)
+- Top Left: "10/6/21, 12:58 PM"
+- Top Center: "III/FBI/State Delayed Response"
+- Title: "Additional Inquiry Response"
+- ORI Code: "ORI: NYFBINY00"
+- Agency Header: "Federal Bureau of Investigation - New York"
+- Address Block: "New York State Division of Criminal Justice Services / Alfred E. Smith Building, 80 South Swan St. / Albany, New York 12210. Tel:1-800-262-DCJS"
+- Executive Signatory Info: "Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services"
+- Section Header: "III Information" (preceded by a green icon)
+- Introductory Text: "The following information is provided in response to your request for a search of the III based on:"
+- Data Update Line: "IDENTIFICATION DATA UPDATED 2016/10/24"
+- Footer Instructions: "THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION INDEX BY USING THE APPROPRIATE NCIC TRANSACTION."
+- End Marker: "END"
+- Page Count: "1/1" (bottom right)
+- Document ID: "EFTA00015155" (bottom right corner)
+
+## Notable Details / Clues
+- **Redaction Extent:** The primary black rectangle covers almost the entire central column of the document, indicating that the specific name, date of birth, or other identifiers requested in the search were present but redacted.
+- **Agency Authority:** The document explicitly cites both the FBI (Federal Bureau of Investigation) and the NYS DCJS (Division of Criminal Justice Services), indicating an interstate jurisdictional search.
+- **"III" Reference:** The text repeatedly refers to "the III," which stands for the Interstate Identification Index, a database containing fingerprints, criminal history records, and other identifying information.
+- **Date Discrepancy:** There is a timestamp in the header reading "10/6/21" (likely 2021) but a data update date of "2016/10/24." This suggests the document might be an old record pulled from the system, or a delayed response to a query that references older data.
+- **NCIC Transaction:** The text mentions obtaining records via an "appropriate NCIC transaction," referring to the National Crime Information Center, the primary database for law enforcement.
+- **Document ID:** The string "EFTA00015155" at the bottom right likely serves as a tracking or archival reference number for this specific electronic file transfer or print.
+- **Tel Number:** The phone number provided (1-800-262-DCJS) is a standard vanity number for the New York State DCJS, confirming the document's origin.
+- **Magenta Text:** The ORI code and Agency name are printed in a distinct magenta/purple ink, which is often used to highlight key identifiers or affiliations in legal printing.
+

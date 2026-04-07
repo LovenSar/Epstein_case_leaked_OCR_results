@@ -1,0 +1,31 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008419.pdf ts=2026-03-09T06:44:46 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an open, brown cardboard storage box resting on a speckled gray and blue linoleum floor or countertop. Inside the box sits a clear, crinkled plastic resealable bag containing a computer hard drive. The hard drive itself appears to be a standard 3.5-inch desktop model with a metallic casing. Underneath the plastic bag is a plain white sheet of paper. The interior of the cardboard box flaps are visible; the top flap features a printed logo for "SMEAD" with text indicating it was "Assembled in Mexico." A red tamper-evident strip seals the top of the plastic bag, featuring yellow and black printed warnings (partially obscured) and handwritten markings.
+
+## Visible Text (verbatim)
+**Yellow Label:**
+- "90A-NY-3151227 Request ID 112048 **1B28**"
+- "08/12/2019 NYC627707 IPC Derivative Copy"
+- "One (1) Western Digital 1TB HDD WD10EADS-00L5B1"
+- "S/N WCAU45903950 containing the Clone Copy of 1B8 hard drive (Western Digital 500GB HDD. WD500AAYDS-63U7B1. S/N WCAV92911026)."
+- "collected via Tableau TD3-B S/N 01D3407C-1222."
+
+**Red Seal & Handwriting:**
+- Printed text: "EVIDENCE" (partially visible across the top red band)
+- Handwritten text in black marker: "1B28" (centered below the printed word)
+
+**Other Labels/Print:**
+- A small recycling triangle symbol with the number 7 inside.
+- Text reading "OTHER" and "STAR LOST LOG COPY" visible through/underneath the yellow label (appearing upside down or faintly printed on the bag's background).
+
+## Notable Details / Clues
+- **Forensic Context:** The packaging is standard for digital forensics evidence collection. The red seal indicates that the chain of custody is maintained; opening it would break the seal.
+- **Derivative Copy:** The label explicitly states "IPC Derivative Copy," meaning the drive inside is a forensic image (clone) used for analysis, not necessarily the original physical device collected from the crime scene (though the label also lists a second drive's serial number).
+- **Hardware Identification:** The label identifies two specific drives: a 1TB Western Digital (WD10EADS) and a 500GB Western Digital (WD500AAYDS), both SATA drives common in laptops or desktops from roughly 2008–2015.
+- **Case Metadata:** The text references specific NYPD case numbers ("NYC627707", "90A-NY") and a date of collection (August 12, 2019), indicating this is an archived item from a New York City police investigation.
+- **Tableau Connection:** The mention of "collected via Tableau TD3-B" suggests this evidence was processed or collected at a specific workstation with that serial number.
+- **Tamper Evidence:** The serrated edge on the red plastic seal is a tamper-evident design; if opened, it would tear, showing signs of unauthorized access.
+

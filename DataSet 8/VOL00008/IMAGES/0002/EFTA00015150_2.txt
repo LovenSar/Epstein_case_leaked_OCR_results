@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015150.pdf ts=2026-03-12T13:17:04 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a formal document header and footer typical of law enforcement or criminal justice database reports, specifically from the FBI/NCIC system. The top left corner shows a timestamp of "10/6/21, 12:40 PM". Centered at the very top is a status indicator reading "III/FBI/State Delayed Response". Below this is the main title "Additional Inquiry Response" in bold black font. An Originating Agency Identifier (ORI) code, "NYFBINY00", is listed in red text. Following that is the agency name, "Federal Bureau of Investigation - New York", also in red. A horizontal line separates the header from the address block for the New York State Division of Criminal Justice Services, located at the Alfred E. Smith Building in Albany. The document lists Michael C. Green as the Executive Deputy Commissioner. Below the header section, a sub-header labeled "III Information" appears next to small graphical icons. The central portion of the document is dominated by a large, solid black rectangle, indicating a redacted area where specific data fields (likely personal identifiers or case details) would normally appear but are currently missing or obscured. Beneath this black block, instructional text in all-caps explains that records can be obtained via the Interstate Identification Index using NCIC transactions. The word "END" appears near the bottom left of the content area. In the bottom right corner, pagination reads "1/1", and a tracking number "EFTA00015150" is visible at the very bottom edge.
+
+## Visible Text (verbatim)
+- Top Left: "10/6/21, 12:40 PM"
+- Top Center: "III/FBI/State Delayed Response"
+- Title: "Additional Inquiry Response"
+- ORI: "ORI: NYFBINY00"
+- Agency Name: "Federal Bureau of Investigation - New York"
+- Address Block: "New York State Division of Criminal Justice Services / Alfred E. Smith Building, 80 South Swan St. / Albany, New York 12210. Tel:1-800-262-DCJS"
+- Official Contact: "Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services"
+- Section Header: "III Information" (preceded by a green globe icon and followed by a red house arrow icon)
+- Redaction/Instruction Text: "THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION INDEX BY USING THE APPROPRIATE NCIC TRANSACTION."
+- Footer Marker: "END"
+- Pagination: "1/1"
+- Document ID: "EFTA00015150"
+
+## Notable Details / Clues
+- **"III/FBI/State Delayed Response":** This specific header code indicates that the request for information was not immediately answered, likely due to a database query interruption, a backlog, or a specific NCIC flag.
+- **Large Black Box:** The massive black rectangle suggests that standard fields such as Name, DOB, SSN, Crime Code, or Arresting Agency would be missing in this view. This is often associated with a "Delayed Response" where the system couldn't pull the immediate record but might hold it for a specific retrieval method (like II-Index).
+- **NCIC Reference:** The text at the bottom explicitly mentions "INTERSTATE IDENTIFICATION INDEX" and "NCIC TRANSACTION," confirming this is a National Crime Information Center report used by law enforcement.
+- **Location Data:** The address is specifically for Albany, New York, linking the document to state-level oversight in addition to federal FBI jurisdiction.
+- **Document ID Format:** The string "EFTA00015150" at the bottom right follows a standard Bates stamp format used for evidentiary tracking, suggesting this was downloaded or printed for a legal case file.
+- **Contact Information:** The inclusion of the telephone number (1-800-262-DCJS) provides a direct line to the New York State Division of Criminal Justice Services for inquiries regarding the delayed response.
+- **Hierarchy:** The document lists Michael C. Green as an "Executive Deputy Commissioner," indicating high-level administrative oversight or signing authority on the record.
+- **Date Context:** The timestamp "10/6/21" places the document creation during a period when the FBI might have been experiencing IT issues or backlogs, explaining the "Delayed Response" tag.
+- **Redaction Style:** The black box is solid and uniform, typical of an automated redaction tool used to hide sensitive PII (Personally Identifiable Information) or to mask data that failed to load from a database query.
+

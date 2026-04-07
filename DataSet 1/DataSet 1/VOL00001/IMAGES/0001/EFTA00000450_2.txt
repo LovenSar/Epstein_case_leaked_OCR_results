@@ -1,0 +1,25 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000450.pdf ts=2026-03-05T06:26:12 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts an industrial utility or mechanical room featuring a row of electrical control panels mounted on a white-painted cinder block wall. The upper section of the wall displays four large, grey metal disconnect switches or motor control centers. The three panels on the left bear the "SIEMENS" logo near the top; these units feature large vertical handles with white levers and black grips, along with red push-button indicators at the bottom. To the right of these are two additional grey panels of a different model configuration, featuring long vertical handles and labels such as "P-5". Further to the right, mounted higher on the wall, are two smaller grey disconnect boxes clearly labeled with vertical "ON" and "OFF" text. White electrical conduit (EMT) runs in an arc from these small upper switches down towards the floor level. Below the mounted panels are two large, light-blue painted metal cabinet doors standing on the concrete floor. The left cabinet is labeled "P-6" with a small red indicator light. The right cabinet is labeled "P-7"; notably, a row of single-pole circuit breakers is sitting directly on top of its door. To the far left of the frame, partially visible in the shadows, is a large industrial pump assembly painted yellow with a black electric motor and pressure gauges, surrounded by blue insulated piping running along the ceiling.
+
+## Visible Text (verbatim)
+*   "SIEMENS" (on the upper-left panels)
+*   "ON" / "OFF" (on the smaller upper-right switches)
+*   "P-6" (on the lower-left cabinet)
+*   "P-7" (on the lower-right cabinet)
+*   "WATER RET." (partial text on a green tag in the background)
+*   "EFTA00000450" (image ID in bottom right corner)
+
+## Notable Details / Clues
+*   **Equipment Branding:** The presence of Siemens branding suggests standard industrial electrical components.
+*   **Circuit Identification:** The labels "P-5", "P-6", and "P-7" indicate a specific panel numbering system used for maintenance or schematic reference.
+*   **Conduit Routing:** The white conduit connecting the upper-right switches to the right-most lower cabinet implies a direct electrical link, possibly feeding that specific circuit breaker bank.
+*   **Pumping System:** The yellow equipment in the background is clearly a booster pump or circulation pump setup, typical for building HVAC or fire suppression systems.
+*   **Wall Construction:** The exposed cinder block wall indicates this is likely a basement or subfloor area.
+*   **Conduit Color:** The electrical piping is painted white, while the hydraulic/water piping visible in the background is painted blue, helping to distinguish utility types.
+*   **Indicator Lights:** Red push buttons on the upper panels serve as visual indicators for fault conditions or circuit status.
+*   **Circuit Breakers:** The breakers resting on top of the P-7 cabinet are loose and not currently installed into a panel busway, suggesting a modular setup or a specific field-installation step.
+

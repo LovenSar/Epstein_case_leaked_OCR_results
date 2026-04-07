@@ -1,0 +1,53 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025173.pdf ts=2026-03-16T17:46:18 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a digital document, specifically an email thread or legal correspondence screenshot, characterized by significant redaction of personal identifiers while preserving institutional metadata.
+
+**Email Headers:**
+At the very top, the standard email header fields are visible: "From:", "To:", and "Cc:". In each field, the sender's specific name is obscured by a black rectangular bar, but immediately following it is the text "(USANYS)" indicating the New York United States Attorney's Office domain. The email address fragments (after the `@` symbol) are also redacted.
+
+**Subject and Date:**
+Below the recipients, the "Subject" line reads: "Re: Tartaglione Taint Team Question". This suggests a reply regarding a specific legal investigation or procedure involving a team member named Tartaglione and digital evidence ("taint team"). The "Date" is listed as "Wed, 21 Apr 2021 23:51:33 +0000", indicating the email was sent late at night in UTC.
+
+**Body Content:**
+Following the headers is a horizontal line separator. Immediately below this is a large black rectangular bar that completely obscures the first paragraph of the message. Beneath this redaction, small text reads "Sent from my iPhone," confirming the device used to send the email. Further down, a standard email reply header appears: "On Apr 21, 2021, at 7:04 PM, [Redacted Name] (USANYS) <[Redacted Email]> wrote:". Below this quote header is another massive black rectangle that obscures the main content of the previous message.
+
+**Signature Block:**
+Underneath the second large black box, a signature block is visible. It begins with "Thanks," followed by two separate black bars covering the sender's first and last names. The title below reads "Assistant United States Attorney." A specific mailing address is provided: "300 Quarropas Street, White Plains, NY 10601." A "Telephone:" label precedes a final redacted phone number.
+
+**Attachment and Footer:**
+At the bottom left, there is text indicating an attachment or attached file reference: "<US v Tartaglione, ECF 119.pdf>". In the bottom right corner of the white background, a unique alphanumeric document identifier reads "EFTA00025173".
+
+## Visible Text (verbatim)
+
+- From: "[Redacted] (USANYS)" <[Redacted]>
+- To: "[Redacted] (USANYS)" <[Redacted]>
+- Cc: "[Redacted] (USANYS)" <[Redacted]>
+- Subject: Re: Tartaglione Taint Team Question
+- Date: Wed, 21 Apr 2021 23:51:33 +0000
+- [Large Black Redaction Bar]
+- Sent from my iPhone
+- On Apr 21, 2021, at 7:04 PM, [Redacted] (USANYS) <[Redacted]> wrote:
+- [Large Black Redaction Bar]
+- Thanks,
+- [Redacted Name Block 1] [Redacted Name Block 2]
+- Assistant United States Attorney
+- 300 Quarropas Street
+- White Plains, NY 10601
+- Telephone: [Redacted]
+- <US v Tartaglione, ECF 119.pdf>
+- EFTA00025173
+
+## Notable Details / Clues
+
+- **Legal Context:** The presence of "Assistant United States Attorney" and the address in White Plains, NY confirms this is an official government communication from a federal prosecutor's office.
+- **Case Reference:** The file attachment "<US v Tartaglione, ECF 119.pdf>" links the email directly to a specific court case involving the defendant Tartaglione. "ECF" indicates Electronic Case File.
+- **Investigation Type:** The subject line mentions a "Taint Team Question." In legal contexts, a Taint Team is a specialized group that reviews seized digital evidence (computers, phones) to ensure it is admissible in court and free from contamination or warrant issues.
+- **Redaction Pattern:** The redactions are consistent across all instances, replacing the specific names with black bars but leaving the department acronym "(USANYS)" visible, which helps identify the jurisdiction even without knowing the individual's name.
+- **Timing Discrepancy:** The email timestamp says "23:51:33 +0000" (UTC time), while the quoted text references a message from earlier that same day at "7:04 PM". If White Plains is in the Eastern Time zone (EST/EDT), 23:51 UTC corresponds roughly to 6:51 PM or 8:51 PM depending on Daylight Savings, showing the email was sent late in the evening.
+- **Device:** The "Sent from my iPhone" text indicates the prosecutor utilized a mobile device to send this correspondence, likely while outside of the office given the time of day.
+- **Document Tracking:** The string "EFTA00025173" appears to be an internal or archive tracking number for this specific document scan.
+

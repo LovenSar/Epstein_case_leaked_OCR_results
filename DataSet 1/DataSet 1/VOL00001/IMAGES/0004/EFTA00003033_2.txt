@@ -1,0 +1,55 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003033.pdf ts=2026-03-06T00:28:56 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-resolution view of the rear lower section of a black electronic device, likely an LCD monitor or computer tower given the branding. The casing appears to be made of matte-finish injection-molded plastic with a visible, fine-grained texture. Three silver Phillips-head screws are arranged vertically along the left edge, securing the side panel or mounting hardware. To the right of the labels, there is a recessed, U-shaped grip cutout molded directly into the plastic housing, designed for lifting or moving the device. The background to the far left is out of focus but reveals a bright yellow vertical surface and a grey floor or wall area. Two adhesive labels are affixed to the black panel: a smaller, multi-language regulatory sticker at the top and a larger, primary specification label below it. The lighting is diffuse, casting soft shadows within the recessed handle grip and under the raised edges of the labels.
+
+## Visible Text (verbatim)
+
+**Top Regulatory Sticker:**
+QC NFA335 Contains FCC ID: PPD-QCNFA335
+IC: 4104A-QCNFA335
+NTC Complies with IDA Standards
+Type Accepted DB104328
+No: ESD-1368027C 32282/SDPPV/2913
+TRC/LPD/2013/2/19 1320
+FT No: RCPQUQC14-0956
+CCAI13LP2670T9
+MSIP-CRM-ATH-QCNFA335
+해당 무선설비는 운용중 전파혼신가능성이 있음
+CNC C-12770 전파통신기능이 있음
+DPC Approved by PTA, year 2013 DPN: NJ4CT A00
+
+**Main Spec Label:**
+DELL
+Reg Model: D19M
+Reg Type: D19M005
+Assembled in Mexico
+V: 100-240 V~
+A: 5.4 A
+Hz: 50-60 Hz
+www.dell.com
+
+**Center/Lower Icons & Text:**
+CAN ICES-3 (B)/NMB-3 (B)
+[Warning Triangle Icon]
+FC [FCC Logo]
+C UL US LISTED I.T.E E105106 [WEEE Symbol]
+DP
+DP/N: K41DX A00  JSD2
+
+## Notable Details / Clues
+- **Model Identification:** The label explicitly identifies the device as a "Reg Model: D19M", confirming it is part of Dell's D-series monitor lineup.
+- **Power Specifications:** The voltage range is listed as universal (100-240 V~), and the amperage is 5.4 A, indicating a high-power consumption device for its size class.
+- **Assembly Location:** Despite being a global brand product, this specific unit was assembled in Mexico ("Assembled in Mexico").
+- **Regulatory Compliance:** The device carries multiple compliance marks including FCC (USA), IC (Canada), PTA (Korea), and UL Listed certification, indicating it is sold for use across North America.
+- **Part Numbering:** The Design Part Number (DP/N) is listed as "K41DX A00", with a revision code of "JSD2" located at the bottom right.
+- **Waste Disposal:** The crossed-out wheeled bin symbol indicates the product must not be disposed of as municipal waste and requires recycling according to EU/Canada directives (WEEE directive).
+- **Frequency Range:** The device operates on frequencies between 50-60 Hz, standard for North American power grids.
+- **Korean Text:** The top label includes Korean text warning that the wireless device may interfere with radio communications during operation, suggesting this specific model was marketed in South Korea as well.
+- **Dell URL:** The Dell website address is printed on the right side of the main label for user reference.
+- **Warning Symbol:** A triangle with an exclamation point inside is visible above the FCC logo, indicating general user attention or safety warning.
+- **FCC/IC IDs:** The specific regulatory identifiers (PPD-QCNFA335 and 4104A-QCNFA335) are printed on the top sticker for customs and compliance verification.
+- **Surface Texture:** The plastic surface is not glossy but has a dull, textured finish which helps reduce reflections in the environment.
+

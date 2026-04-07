@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020687.pdf ts=2026-03-14T16:31:06 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot of an email thread, likely captured within a client like Microsoft Outlook, concerning a legal matter. The document features a white background with black text, standard email headers, and distinct blocks of blue hyperlinked-style text. Several key fields in the email headers (From, To, Cc, addresses) are obscured by thick black redaction bars to protect privacy.
+
+The email thread appears to follow this chronological structure from top to bottom:
+1.  **Top Email:** The first visible portion is a forwarded message ("FW:") regarding a court case "US v. Tartaglione." The subject line indicates it concerns the "Unsealing of Records." There is an attachment listed as a PDF file starting with "NYTLEGAL". The date stamp is Tuesday, September 10, 2019, at roughly 9:00 PM UTC.
+2.  **Blue Text Message:** Below the first header block, there is a paragraph of blue text (likely a hyperlink or emphasized text). It summarizes that "The Post and Daily News moved to unseal the submissions," noting that "The NYT has joined." It states a response is due on Wednesday.
+3.  **Second Email Block:** Separated by a horizontal line, there is another email entry. Most of its headers are redacted. However, its body contains blue text stating: "NYT has joined the Post and Daily News in opposing sealing." The timestamp here is 4:54 PM on September 10, 2019.
+4.  **Third Email (Original Message):** This section contains visible sender information. It is from an individual named Al-Amyn Sumar of the New York Times Company's Legal Department. The email was sent at 4:46 PM, a minute before the previous email in the thread.
+5.  **Main Body Text:** The body of this final email addresses "All," and states that a letter on behalf of the New York Times Company and reporter Ben Weiser is attached (via fax) regarding the case. It ends with "Regards," followed by a signature block.
+6.  **Signature Block:** Located at the bottom left, it lists Al-Amyn Sumar, Legal Department, The New York Times Company, and an address in New York, NY 10018. A phone number is redacted above the city/state line.
+7.  **Footer:** In the bottom right corner, there is a document identifier string: "EFTA00020687".
+
+## Visible Text (verbatim)
+
+**Top Header Section:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: FW: US v. Tartaglione, 16-cr-832 - Unsealing of Records
+*   Date: Tue, 10 Sep 2019 21:00:44 +0000
+*   Attachments: NYTLEGAL-_64879-v2-Tartaglione_Access_Letter.pdf
+
+**Blue Text Section 1:**
+*   FYI – As discussed on Monday, the Post and Daily News moved to unseal the submissions in Tartaglione. The NYT has joined. Our response is due on Wednesday.
+
+**Middle Email Header:**
+*   From: [Redacted]
+*   Sent: Tuesday, September 10, 2019 4:54 PM
+*   To: [Redacted]
+*   Cc: [Redacted]
+*   Subject: FW: US v. Tartaglione, 16-cr-832 - Unsealing of Records
+
+**Blue Text Section 2:**
+*   NYT has joined the Post and Daily News in opposing sealing.
+
+**Bottom Email Header:**
+*   From: Sumar, Al-Amyn [Redacted]
+*   Sent: Tuesday, September 10, 2019 4:46 PM
+*   To: [Redacted]
+*   Cc: David McCraw [Redacted]
+*   Subject: US v. Tartaglione, 16-cr-832 - Unsealing of Records
+
+**Bottom Email Body:**
+*   All,
+*   Attached is a letter on behalf of the New York Times Company and reporter Ben Weiser regarding the above-referenced case, which was sent to the Court today by fax.
+*   Regards,
+
+**Signature Block:**
+*   --
+*   Al-Amyn Sumar
+*   Legal Department
+*   The New York Times Company
+*   [Redacted Phone Number]
+*   New York, NY 10018
+
+**Bottom Right Corner:**
+*   EFTA00020687
+
+## Notable Details / Clues
+
+*   **Legal Context:** The subject line "US v. Tartaglione, 16-cr-832" indicates a criminal case number in the Southern District of New York (implied by the address). The topic is "Unsealing of Records," suggesting a media freedom or FOIA-related motion where news organizations are fighting to keep court documents public.
+*   **Coalition Building:** The blue text explicitly mentions a coalition: "The Post and Daily News moved to unseal... The NYT has joined." This suggests the New York Times was initially reacting to other major papers (Washington Post, Daily News) taking action.
+*   **Reporter Identification:** Reporter Ben Weiser is specifically named as acting on behalf of the company, implying his direct involvement in the reporting or litigation regarding this case.
+*   **Timeline Compression:** The emails are timestamped within minutes of each other (4:46 PM, 4:54 PM, and 9:00 PM UTC), indicating a rapid back-and-forth communication chain among legal teams.
+*   **Fax Delivery:** The text notes the attached letter was "sent to the Court today by fax," suggesting a traditional method of service in federal courts is being used alongside digital correspondence.
+*   **Redaction Scope:** While headers are blacked out, names like "David McCraw" (a known reporter for The Post) and "Al-Amyn Sumar" (NYT Legal) remain visible in the specific email fields or signature block.
+*   **Geographic Location:** The footer of the sender confirms the location as New York, NY 10018, consistent with the headquarters of The New York Times Company.
+

@@ -1,0 +1,212 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00005924.pdf ts=2026-03-07T18:15:27 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+[REDACTED]
+DOB:
+[REDACTED]
+[ILLEGIBLE]
+
+## Structured Fields
+- Document ID: EFTA00005924
+- DOB: [REDACTED]
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NJP Response
+Page 1 of 1
+
+Unauthorized access, reproduction, or dissemination is prohibited.
+RECEIVED AT 07/02/2019 19:37:08
+[IMAGE]
+
+DR. [REDACTED]
+19:37 07/02/2019 24038
+19:37 07/02/2019 00336 NY10100T2
+*0420470034
+TXT
+
+[REDACTED]
+
+TYPE LIC: CLASS E OPERATOR CURRENT LICENSE ISSUED: 06/29/2009 EXPIRED: 06/29/2010
+EXPIRED LICENSE SOC SEC: [REDACTED]
+
+PALM BEACH FL 33480
+PALM BEACH FL 33480
+
+DOB: [REDACTED] HT: 510 RACE: W SEX: F
+
+[REDACTED]
+
+END OF DDL/DHSMV RESPONSE.
+Unauthorized access, reproduction, or dissemination is prohibited.
+
+https://www.ejustice.ny.gov/JWI/ViewMessage.jsp?msgid=2669354&pager.offset=0 7/2/2019
+EFTA00005925
+
+## Structured Fields
+- **Date:** 07/02/2019 (Received), 06/29/2009 (License Issued), 06/29/2010 (License Expired), 7/2/2019 (Footer date)
+- **Case ID / Reference Numbers:** NY10100T2, 24038, 00336, *0420470034, msgid=2669354
+- **Location:** PALM BEACH, FL 33480
+- **Organization:** DDL/DHSMV (Dept of Driver Licenses), NJP Response
+- **Demographics:** Height: 510 (cm?), Race: W, Sex: F
+- **Name:** DR. [REDACTED]
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Grand Jury Subpoena
+United States District Court
+SOUTHERN DISTRICT OF NEW YORK
+
+TO: [REDACTED] [REDACTED]
+
+GREETINGS:
+WE COMMAND YOU that all and singular business and excuses being laid aside, you appear and attend before the GRAND JURY of the people of the United States for the Southern District of New York, at the United States Courthouse, 40 Foley Square, Room 220, in the Borough of Manhattan, City of New York, N.C., York, in the Southern District of New York, at the following date, time and place:
+
+Appearance Date: July 24, 2019                                Appearance Time: 10:00 a.m.
+to testify and give evidence in regard to an alleged violation of :
+[REDACTED] [REDACTED]
+and not to depart the Grand Jury without leave thereof, or of the United States Attorney, and that you bring with you and produce at the above time and place the following:
+
+**See attached Advice of Rights**
+
+Failure to attend and produce any items hereby demanded will constitute contempt of court and will subject you to civil sanctions and criminal penalties, in addition to other penalties of the Law.
+
+DATED: New York, New York
+[REDACTED]
+July 5, 2019
+GEOFFREY S. BERMAN
+United States Attorney for the Southern District of New York
+[REDACTED]
+
+Assistant United States Attorneys
+One St. Andrew's Plaza
+New York, New York 10007
+Telephone: (212) 637-2415
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+[ILLEGIBLE]
+
+rev. 02.01.12                                                                 EFTA00005926
+
+## Structured Fields
+*   **Date:** July 24, 2019 (Appearance Date); July 5, 2019 (Dated/Issuance)
+*   **Location:** United States Courthouse, 40 Foley Square, Room 220, Borough of Manhattan, City of New York, New York; Southern District of New York
+*   **Names:** Geoffrey S. Bereman; [REDACTED] (Recipient); [ILLEGIBLE] (Handwritten signature)
+*   **Organizations:** United States District Court; United States Attorney for the Southern District of New York; Assistant United States Attorneys
+*   **Doc IDs/Ref:** EFTA00005926; rev. 02.01.12
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Advice of Rights
+
+1. You may refuse to answer any question if a truthful answer to the question would tend to incriminate you.
+2. Anything that you do say may be used against you by the grand jury or in a subsequent legal proceeding.
+3. If you have a lawyer, the grand jury will permit you a reasonable opportunity to step outside the grand jury room to consult with your lawyer if you so desire.
+4. If you would like a lawyer but do not have funds to retain one, you may make an application to the United States Magistrate Judge who will decide whether to appoint a lawyer to represent you.
+
+## Structured Fields
+- **Doc IDs**: EFTA00005927
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+U.S. Department of Justice
+United States Attorney
+Southern District of New York
+
+The Silvio J. Mollo Building
+One Saint Andrew's Plaza
+New York, New York 10007
+
+July 5, 2019
+
+Re: **Grand Jury Subpoena**
+
+Please be advised that the accompanying grand jury subpoena has been issued in connection with an official criminal investigation of a suspected felony being conducted by a federal grand jury. The Government hereby requests that you voluntarily refrain from disclosing the existence of the subpoena to any third party. While you are under no obligation to comply with our request, we are requesting you not to make any disclosure in order to preserve the confidentiality of the investigation and because disclosure of the existence of this investigation might interfere with and impede the investigation.
+
+Moreover, if you intend to disclose the existence of this subpoena to a third party, please let me know before making any such disclosure.
+
+Thank you for your cooperation in this matter.
+
+Very truly yours,
+
+GEOFFREY S. BERMAN
+United States Attorney
+
+By: [REDACTED]
+
+Assistant United States Attorneys
+(212) 637-2415
+
+EFTA00005928
+```
+
+## Structured Fields
+*   **Date:** July 5, 2019
+*   **Document ID (Footer):** EFTA00005928
+*   **Organization:** U.S. Department of Justice, United States Attorney, Southern District of New York
+*   **Address:** The Silvio J. Mollo Building, One Saint Andrew's Plaza, New York, New York 10007
+*   **Name (Signatory):** Geoffrey S. Berman
+*   **Title:** United States Attorney
+*   **Subject:** Grand Jury Subpoena
+```
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 1 of 1
+
+[REDACTED]
+
+file:///C:/Users/byrne941477/AppData/Local/Microsoft/Windows/Temporary%20Internet%... 7/2/2019
+EFTA00005929
+
+## Structured Fields
+*   **Date:** 7/2/2019
+*   **Doc ID:** EFTA00005929
+*   **User/File Path Reference:** byrne941477
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image is composed almost entirely of a solid, uniform black field that fills the entire visual frame.
+*   There are no discernible objects, figures, landscapes, or physical scenes depicted within the main area of the image.
+*   The lighting appears non-existent or extremely low, resulting in a complete absence of shadows or highlights.
+*   A very faint, light gray border surrounds the black rectangle, indicating the edge of a digital file or scanned page.
+*   The aspect ratio is vertical (portrait orientation), consistent with standard document formats like A4 or Letter size.
+*   There are no gradients or color variations; the image is binary, consisting almost exclusively of the background color and the text in the footer.
+*   The texture appears flat and digital, suggesting this is a computer-generated graphic or a scan that failed to capture paper content.
+*   The visual information is sparse to the point of being null, suggesting it might be a cover page, a placeholder, or a page of a document with no text.
+*   No other graphical elements, icons, watermarks, or background patterns are visible anywhere on the canvas.
+*   The composition is static and unchanging across the entire surface area.
+
+## Visible Text (verbatim)
+EFTA00005930
+
+## Notable Details / Clues
+*   The identifier "EFTA" likely stands for European Free Trade Association, suggesting this document belongs to an official registry or legal collection from that region.
+*   The number "00005930" acts as a unique tracking code, implying this is one of many documents in a large sequence (e.g., case files).
+*   The location of the text—bottom right—is standard for document headers/footers found in legal or bureaucratic records.
+*   The high contrast between the white text and black background makes the identifier the single focal point of the image.
+*   This visual presentation strongly implies that the page was intended to be blank, perhaps indicating a "No Content" status or a failed printing job.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image consists almost entirely of a solid black void, occupying roughly 98% of the visual field.
+*   There are no visible people, animals, objects, or environmental textures within the frame.
+*   A single line of white alphanumeric text is positioned in the extreme bottom-right corner.
+*   The background is uniform in color, showing no gradients or shadows, suggesting a digital placeholder or an empty page.
+*   No borders, headers, footers, or graphical elements are visible outside of the identified text.
+
+## Visible Text (verbatim)
+*   EFTA00005931
+
+## Notable Details / Clues
+*   The alphanumeric code "EFTA" is located at the beginning of the string, which typically corresponds to the European Free Trade Association in official document contexts or specific case numbering systems.
+*   The number "00005931" follows immediately after, suggesting a sequential tracking number or Bates stamp common in legal discovery or administrative records.
+*   The presentation of this text at the bottom right is characteristic of automated pagination markers used when documents are scanned or digitized in batches.
+*   The lack of any other content suggests this may be a blank page intended to separate sections within a larger document collection.
+

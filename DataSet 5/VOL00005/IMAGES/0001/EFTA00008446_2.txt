@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008446.pdf ts=2026-03-09T07:00:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Subject:** The primary subject is a standard form-factor computer hard drive enclosed within a clear, crinkled plastic evidence bag.
+*   **Positioning:** The hard drive sits centrally atop an open, brown corrugated cardboard box with flaps spread outward horizontally.
+*   **Flooring:** The scene is set against a terrazzo-style linoleum floor characterized by a mottled pattern of grey, blue, and white speckles.
+*   **Packaging:** The plastic bag appears to be an anti-static or standard evidence bag, showing reflections and wrinkles typical of flexible plastic packaging.
+*   **Drive Housing:** The internal metal casing of the hard drive is visible through the clear plastic, reflecting overhead lighting.
+*   **Mounting Bracket:** A screw-down mounting bracket is visible on the left side of the drive, secured into the drive cage or tray structure.
+*   **Ink Markings:** There are black ink scribbles drawn directly onto the bottom corners of the plastic bag, possibly for handling or orientation purposes.
+*   **Cables/Connectors:** Along the very bottom edge of the package inside the bag, small connectors (likely SATA power or data cables) are partially visible extending from the drive head assembly area.
+
+## Visible Text (verbatim)
+*   "NEW YORK CRIME LAB" (Visible at the top of the label near the barcode).
+*   "Seagate" (Brand logo).
+*   "Barracuda" (Product series).
+*   "1000GB" (Drive capacity).
+*   "FOR 2 DISK ARRAY" (Intended usage configuration).
+*   "BAY ? CLONE" (Printed text below the array specification, text is slightly smudged/obscured).
+*   "Clone #7" (Handwritten in black marker on a white label area near the bottom).
+*   Standard regulatory symbols: "CE", recycling symbol (Mobility), and others near the bottom edge.
+
+## Notable Details / Clues
+*   **Forensic Context:** The label explicitly identifying the item as property of the "NEW YORK CRIME LAB" confirms this is a seized piece of digital evidence, likely photographed during inventory or processing.
+*   **Data Recovery Process:** The handwritten notation "Clone #7" strongly suggests that this specific drive has been imaged or cloned to create a seventh forensic copy for analysis, ensuring data integrity while the original is preserved.
+*   **Enterprise Hardware:** The label indicates the drive was intended "FOR 2 DISK ARRAY," implying it was originally sourced from a server or RAID configuration rather than a single-pair desktop PC.
+*   **Storage Capacity:** The "1000GB" specification places this unit in the Terabyte (TB) capacity range, likely manufactured between 2005 and 2012 when that size became standard for enterprise drives.
+*   **Handling Protocols:** The presence of ink drawings on the outside of the bag suggests a rigorous tracking or chain-of-custody protocol is being followed to orient specific items within a collection box or locker.
+*   **Seal Status:** The drive appears to be sealed or contained within the bag, preventing direct physical contact with the drive electronics to avoid contamination or static damage before formal analysis.
+

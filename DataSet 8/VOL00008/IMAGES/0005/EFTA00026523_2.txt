@@ -1,0 +1,74 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00026523.pdf ts=2026-03-17T05:45:16 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Mod AO 442 (09/13) Arrest Warrant AUSA Name & Telno: [REDACTED], [REDACTED]
+<div style="text-align: center; font-weight: bold; margin-top: 50px;">UNITED STATES DISTRICT COURT</div>
+<div style="text-align: center;">for the</div>
+<div style="text-align: center; font-size: 1.2em;">Southern District of New York</div>
+
+United States of America
+v.
+) ) Case No.
+)
+)
+)
+Ghislaine Maxwell )
+Defendant )
+
+<div style="text-align: center; font-weight: bold; margin-top: 40px; text-transform: uppercase;">ARREST WARRANT</div>
+
+To: Any authorized law enforcement officer
+
+YOU ARE COMMANDED to arrest and bring before a United States magistrate judge without unnecessary delay (name of person to be arrested) Ghislaine Maxwell , who is accused of an offense or violation based on the following document filed with the court:
+[✓] Indictment [ ] Superseding Indictment [ ] Information [ ] Superseding Information [ ] Complaint
+[ ] Probation Violation Petition [ ] Supervised Release Violation Petition [ ] Violation Notice [ ] Order of the Court
+
+This offense is briefly described as follows:
+Title 18, United States Code, Section 371 (conspiracy to entice minors)
+Title 18, United States Code, Sections 2422 and 2 (enticement of a minor)
+Title 18, United States Code, Section 371 (conspiracy to transport minors)
+Title 18, United States Code, Sections 2423(a) and 2 (transportation of a minor)
+Title 18, United States Code, Section 1623 (perjury)
+
+Date: 06/29/2020
+
+<div style="text-align: right;">
+Lisa Margaret Smith (Signature)
+</div>
+
+<div style="text-align: center; margin-top: 40px; font-style: italic;">Issuing officer's signature</div>
+
+<div style="text-align: left; width: 30%;">Date:</div><div style="text-align: left; width: 70%; text-align: right; padding-left: 20px;">06/29/2020</div>
+<div style="text-align: left;">City and state: White Plains, NY</div>
+
+<div style="margin-top: 30px;">Hon. Lisa Margaret Smith, U.S. Magistrate Judge</div>
+<div style="font-style: italic; margin-left: auto; width: 40%;">Printed name and title</div>
+
+<div style="width: 98%; border: 2px solid black; margin-top: 50px;">Return</div>
+<div style="margin-top: 10px; padding: 0 20px; width: 96%;">This warrant was received on (date) , and the person was arrested on (date)</div>
+<div style="padding-left: 15px; font-style: italic;">at (city and state)</div>
+
+Date:
+
+<div style="text-align: right; margin-top: 40px;">Arresting officer's signature</div>
+
+Printed name and title
+
+EFTA00026523
+
+## Structured Fields
+- **Document ID:** Mod AO 442 (09/13) Arrest Warrant
+- **Footer Reference ID:** EFTA00026523
+- **Defendant Name:** Ghislaine Maxwell
+- **Issuing Judge/Honorable Magistrate:** Hon. Lisa Margaret Smith, U.S. Magistrate Judge
+- **Date Issued:** 06/29/2020
+- **Location (City and State):** White Plains, NY
+- **Indictment Type:** Indictment
+- **Charges Listed:**
+    - Title 18, United States Code, Section 371 (conspiracy to entice minors)
+    - Title 18, United States Code, Sections 2422 and 2 (enticement of a minor)
+    - Title 18, United States Code, Section 371 (conspiracy to transport minors)
+    - Title 18, United States Code, Sections 2423(a) and 2 (transportation of a minor)
+    - Title 18, United States Code, Section 1623 (perjury)
+

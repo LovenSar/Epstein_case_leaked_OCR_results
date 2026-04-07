@@ -1,0 +1,154 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020861.pdf ts=2026-03-14T18:42:37 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread interface, likely from a webmail client. The view is vertical, showing a sequence of messages threaded together in chronological order with the most recent message at the top. Significant redaction has been applied; almost all "From" and "To" fields are obscured by black bars to protect personal identity information.
+
+The interface features standard email header elements including subject lines, dates, and timestamps. The background is white, and text is primarily black, with link text appearing in a blue shade (though the specific links themselves are part of the redacted areas or plain text). A horizontal rule separates the header from the body content in the topmost email.
+
+The content revolves around a project titled "Fourth Production - Scene2Go." The conversation involves the exchange of documents, specifically cover letters and MDC files. One email references a production from "JPMorgan." The bottom right corner contains a reference code or footer ID, likely part of a legal hold or archival process, reading "EFTA00020861".
+
+The thread contains five distinct email entries visible. The topmost email is dated Tuesday, September 29, 2020. The subsequent emails below it are dated Monday, September 28, 2020, with timestamps ranging from 3:31 PM to 9:00 PM. This indicates the thread spans across two days of business hours in late September 2020. The text is formatted as a standard block style without bullet points within the message body.
+
+## Visible Text (verbatim)
+**Top Email Block:**
+*   From: [Redacted]
+*   To: [Redacted]
+*   Subject: RE: Fourth Production - Scene2Go
+*   Date: Tue, 29 Sep 2020 14:58:14 +0000
+*   Attachments: 2020.09.29_Maxwell_Discovery_Letter.docx; 2020.09.29_MDC_-_Maxwell_MAIN.docx
+*   Body Text: "Attached are both cover letters. I also overlooked the most recent JPMorgan production that we received:"
+*   [Black Bar Redacting text]
+*   Body Text: "Luckily, it's much smaller than the previous productions we've received and can thus be re-stamped manually. Let me know if you'd like me to do so for this production."
+
+**Second Email Block:**
+*   From: [Redacted]
+*   Sent: Monday, September 28, 2020 9:00 PM
+*   To: [Redacted]
+*   Subject: RE: Fourth Production - Scene2Go
+*   Body Text: "Thanks, would you send me a cover letter for each, please?"
+
+**Third Email Block:**
+*   From: [Redacted]
+*   Sent: Monday, September 28, 2020 3:36 PM
+*   To: [Redacted]
+*   Subject: RE: Fourth Production - Scene2Go
+*   Body Text: "Those are ready as well."
+
+**Fourth Email Block:**
+*   From: [Redacted]
+*   Sent: Monday, September 28, 2020 3:34 PM
+*   To: [Redacted]
+*   Subject: RE: Fourth Production - Scene2Go
+*   Body Text: "Thank you both so much! Would you please send me a draft cover letter?"
+*   Body Text: "Once you get the [Redacted word] straightened out, please let me know."
+*   Body Text: "Also, how are the replacement files for Maxwell's MDC drive coming?"
+
+**Fifth Email Block:**
+*   From: [Redacted]
+*   Sent: Monday, September 28, 2020 3:31 PM
+*   To: [Redacted]
+*   Subject: RE: Fourth Production - Scene2Go
+
+**Footer:**
+*   EFTA00020861
+
+## Notable Details / Clues
+*   **Chronology:** The timestamps indicate a rapid back-and-forth conversation occurring late in the day on Monday (3:31 PM, 3:34 PM, 3:36 PM) followed by a message sent later that night at 9:00 PM, and finally a response the next morning on Tuesday at roughly 2:58 PM.
+*   **Redaction Extent:** In almost every email header, the "From" and "To" fields are entirely blacked out. However, the subject lines and body text remain visible (with some specific words redacted in the fourth email down).
+*   **Specific Terminology:** The use of terms like "re-stamped manually," "JPMorgan production," and "Maxwell's MDC drive" suggests a technical or data processing context, possibly related to legal discovery given the filenames containing "Discovery_Letter."
+*   **File Naming Convention:** The attached files follow a strict naming convention: `YYYY.MM.DD_Name_Description.ext`.
+*   **Partial Message at Bottom:** The very last email (3:31 PM) is cut off or contains no body text visible in this specific crop, ending abruptly after the "To:" line.
+*   **Blue Text:** In the top email, phrases like "Attached are both cover letters..." and "Luckily..." appear in blue, indicating they may be hyperlinks within the rich text editor, though they function as regular paragraphs here.
+*   **Reference Code:** The alphanumeric string "EFTA00020861" at the bottom right suggests this document is part of a larger record-keeping system, possibly an Electronic Data Transfer Agent (EFTA) ID or similar internal tracking number.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread consisting of four visible message exchanges, plus an initial unattached header block at the top. The interface appears to be from an email client or a document management system. The background is white with text in standard dark gray/black and blue hyperlinks (or default link color). Significant portions of personal identifying information—specifically "From" names, "To" recipient lists, and sign-off blocks—are obscured by thick black rectangular redaction bars.
+
+At the very top, there is a paragraph of text without visible header information, followed by a single black square at the bottom of that block. Below this is the first email header block dated Friday, September 25, 2020, at 2:05 PM. This is followed by a second email header block from almost exactly one minute later (2:04 PM). The third email follows immediately after that at 1:51 PM. Finally, a fourth partial email block is visible at the bottom dated 11:15 AM. A case or document ID number is printed in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Unattached Block:**
+Hi all,
+All the materials have been stamped and are ready to go. A big shout out to [REDACTED] for a great job on her first stamping project. We went ahead and stamped the two [REDACTED] productions that are not password locked. The other two we still have to figure out how to open. I’ve been in contact with [REDACTED] who has one of the productions that we need. The first files he sent over were corrupted; I’m hoping that the second time is the charm.
+[Black Box]
+
+**Email 1:**
+From: [REDACTED]
+Sent: Friday, September 25, 2020 2:05 PM
+To: [REDACTED]
+Subject: RE: Fourth Production - Scene2Go
+Ah got it, sorry I was confused. That plan for marking is fine with me, thanks.
+
+**Email 2:**
+From: [REDACTED]
+Sent: Friday, September 25, 2020 2:04 PM
+To: [REDACTED]
+Subject: RE: Fourth Production - Scene2Go
+Hey [REDACTED]
+I believe what [REDACTED] meant was that we would still be producing everything in the folder but would only stamp select files; in doing so we’d be avoiding the filler and supporting files which don’t contain any viewable data.. My thinking is that we stamp only the folders and leave the files as they are since the structure and contents of the folder are already confusing as is. On something like this, defense will be leaning entirely on the manual that is included for viewing. I fear that if we were to alter file names it would greatly complicate the process of figuring out how to work the files.
+Thanks,
+[REDACTED]
+
+**Email 3:**
+From: [REDACTED]
+Sent: Friday, September 25, 2020 1:51 PM
+To: [REDACTED]
+Subject: RE: Fourth Production - Scene2Go
+Hi [REDACTED]
+Thanks very much for working through this. My preference is to produce everything where possible. Is it possible to produce the entirety of the files and app related to LSJ Scene2Go? We are trying to produce everything we can.
+Thanks,
+[REDACTED]
+
+**Email 4 (Partial):**
+From: [REDACTED]
+Sent: Friday, September 25, 2020 11:15 AM
+To: [REDACTED]
+
+**Footer:**
+EFTA00020862
+
+## Notable Details / Clues
+- **Redaction Pattern:** The names of senders and recipients are consistently blacked out, suggesting this document has been declassified or redacted for privacy before being shared. The recipient lists (black bars) appear to be the same across emails, implying a group distribution list.
+- **Subject Line Consistency:** Every email subject line is identical: "RE: Fourth Production - Scene2Go". This indicates a focused discussion thread regarding a specific digital device or software instance.
+- **Temporal Proximity:** The top email lacks a date but the subsequent replies are clustered on September 25, 2020. The replies span from 11:15 AM to 2:05 PM. This suggests a rush to process files within a short window of time.
+- **Technical Terminology:** The text uses forensic terminology such as "stamping" (likely watermarking evidence), "viewable data," and "filler and supporting files." This indicates the communication is between legal counsel and a digital forensics examiner or IT specialist.
+- **Software Mention:** The phrase "LSJ Scene2Go" appears, identifying a specific mobile forensic imaging tool (often associated with Cellebrite).
+- **Conflict of Preference:** One email writer expresses a preference to "produce everything where possible," while another argues for limiting output to avoid confusion and because the defense will rely on manuals. This highlights a tension between exhaustive discovery and manageable, understandable evidence presentation.
+- **Corrupted Files:** The top text mentions that initial files sent by a third party were "corrupted," indicating technical hurdles in retrieving data from devices (likely phones).
+- **Manual Reliance:** There is a specific note about the "manual that is included for viewing," suggesting the extracted data might not be native and requires a guide to interpret.
+- **"First Stamping Project":** The top email mentions "her first stamping project," giving context to one of the participants' experience level.
+- **Password Lock Issues:** The text explicitly distinguishes between productions that are "not password locked" (which were stamped) and others that are still being figured out, highlighting a limitation in access rights.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Subject: Fourth Production - Scene2Go
+
+Hi all,
+
+I’m bates stamping files within the Fourth Production folder, and one of the items we’re going to produce is called “LSJ Scene2Go.” From what I gather, this is an application for viewing 3D maps – in this case, there’s a 3D view of the grotto and the main structure. When not viewed in the Scene2Go app itself, you can view screenshots of the 3D maps, and I’m assuming these images are what we want to produce.
+
+For your reference, here are the files pertaining to the grotto ([REDACTED])
+[REDACTED]
+[REDACTED] and those pertaining to the main structure ([REDACTED] In each location,
+the “map” and “scans” folders contain the viewable files. Within the map folder is an aerial view, and within the scans folder are essentially screenshots of the 3D view of the landscapes. Each view is saved 7 different times, each increasing in size. For the sake of easy review, I think that only the largest (and highest quality) images should be stamped, instead of stamping every duplicate.
+
+This looks similar to the issues we faced with the Second Production, as the vast majority of files within the larger Scene2Go folder are system- or application-generated files that simply accompany the files (in this case, scans and maps of the grotto and the main structure) that are actually viewable and of interest. I’m thinking it would be best to just stamp these viewable files, along with the Scene2Go user manual (for context), but of course I wanted to run this by you all first.
+I’ll defer to your better judgement!
+
+I’m happy to talk this over further as well – thank you so much!
+[REDACTED]
+
+EFTA00020863
+
+## Structured Fields
+- **Doc ID**: EFTA00020863
+- **Subject/Project**: Fourth Production - Scene2Go
+- **Application Name**: LSJ Scene2Go
+- **Locations/Subjects**: Grotto, Main Structure
+- **Referenced Folder**: Fourth Production
+- **Software**: Scene2Go
+

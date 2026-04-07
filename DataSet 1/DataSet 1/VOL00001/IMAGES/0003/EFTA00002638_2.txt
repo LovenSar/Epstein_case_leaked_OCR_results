@@ -1,0 +1,46 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002638.pdf ts=2026-03-05T21:45:51 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image presents a close-up, low-angle view of the rear panel of a rack-mounted telecommunications or network equipment chassis, likely situated in a server room or communications closet. The primary focus is a vertical stack of electronic units housed in black metal frames with silver and grey faceplates. A chaotic array of network cables—predominantly blue Ethernet (CAT5e/CAT6), white striped Ethernet, and orange/red jumper cables—emerges from the port rows at the top and trails down the front face.
+
+At the very top left, a silver label identifies the hardware stack components. Below the ports, a small white USB-like dongle or modem hangs loosely from a blue cable on the right side of the port block. The middle section of the chassis features a black panel with a small green LED indicator light illuminated. This area bears a "Panasonic" logo and model number. The bottom portion of the image shows a modular card slotting system with metallic grey inserts. Several cards are installed, while others show labels indicating they are unused or specific functions like "LCOTA" and "DLCR." To the right of the main equipment, the background reveals an unfinished concrete ceiling with white PVC pipes running horizontally. Further to the right, a wire mesh cable management grid is mounted against a wall, holding a bundle of loose white cables. The lighting appears to be from an external flash, casting deep shadows within the rack depth.
+
+## Visible Text (verbatim)
+
+*   **Top Left Faceplate:**
+    *   "NDC-FIREWALL-ROUTER"
+    *   "NDC-SWITCH-24"
+    *   "NDC-FOS..." (Partially cut off, likely NDC-FOSWITCH or similar)
+*   **Caution Label (Bottom Left):**
+    *   "CAUTION: Static sensitive devices used. To protect the printed circuit board from static electricity, first discharge any body static by touching the ground terminal or wear the grounded strap."
+*   **Middle Section Label:**
+    *   "Panasonic"
+    *   "KY-TDE100"
+*   **Slot Labels (Bottom Left to Center):**
+    *   "THIS SLOT NOT USED"
+    *   "PRI2"
+    *   "LCOTA"
+    *   "DLCR"
+    *   "SLC..."
+    *   "CA..."
+*   **Red Warning Sticker (On a blue card):**
+    *   "WARNING" (Partial view)
+*   **Bottom Right Corner (Watermark):**
+    *   "EFTA00002638"
+
+## Notable Details / Clues
+
+*   **Hardware Specificity:** The labels "NDC-FIREWALL-ROUTER" and "NDC-SWITCH-24" suggest specialized network hardware, possibly related to government or military communications (Network Domain Control).
+*   **Modular Architecture:** The bottom section clearly displays a card-slotting system typical of 19-inch rack telecom equipment, where different functional cards are inserted into the chassis.
+*   **Panasonic Integration:** The presence of "Panasonic KY-TDE100" indicates this network stack is likely integrated with an IP telephony or intercom system.
+*   **External Modem/Key:** The white USB device hanging from the cable bundle suggests an external modem (e.g., USB 3G/4G modem) or a security authentication token is being used directly at the rack edge for connectivity or access control.
+*   **Cable Messiness:** The cables are not neatly managed with vertical理线器; they are zip-tied in loose bunches and drape over the front of the unit, indicating an older installation or active field maintenance environment.
+*   **Slot Status:** Labels like "THIS SLOT NOT USED" confirm that this is a modular chassis where hardware cards are added as needed to save cost or space.
+*   **Ceiling Structure:** The rough concrete ceiling and exposed white conduit pipes suggest a basement, industrial space, or utility room rather than a polished office data center.
+*   **Status Indicator:** A single green LED light is visible in the middle section, indicating power or active status for that specific card/module.
+*   **Red Labeling:** Red text on blue cards typically denotes alarm states or critical warning functions in telecom hardware (e.g., "ALARM").
+*   **Zip Ties:** Black plastic cable ties are used to bundle the loose wires, preventing them from falling completely free but keeping the wiring somewhat organized.
+

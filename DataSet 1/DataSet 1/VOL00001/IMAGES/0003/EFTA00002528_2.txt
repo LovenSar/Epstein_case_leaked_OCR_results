@@ -1,0 +1,46 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002528.pdf ts=2026-03-05T20:49:33 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Equipment Stack:** Three silver-faced networking chassis are mounted vertically on a black rack frame, labeled with white tape strips. The units occupy rack positions 45, 44, and 43 (counting from top to bottom).
+*   **Top Unit (Rack U45):** This device is labeled "NDC-FIREWALL-ROUTER" and features the "Unifi" logo near the left edge. It has visible Ethernet ports and a small USB port on its front faceplate.
+*   **Middle Unit (Rack U44):** Labeled "NDC-SWITCH-24," this device also displays the "Unifi" branding. The front panel shows multiple network ports, many of which are occupied by cables.
+*   **Bottom Unit (Rack U43):** The lowest visible networking unit is labeled "NDC-FOSW-16." It features a row of indicator lights and Ethernet ports along the bottom edge.
+*   **Cable Management:** A chaotic but managed bundle of Ethernet cables hangs down from the ports. Black plastic vertical clips (cable guides) are inserted into slots to hold the wires in place.
+*   **Color-Coded Cabling:** The cable bundle includes standard blue Cat5e/Cat6 cables, white cables, a distinct orange cable pair on the left, thin yellow jumper-style wires running vertically, and a thicker red cable on the right side.
+*   **Peripherals:** On the far right, a white USB wireless network adapter (dongle) is plugged into a port on one of the devices.
+*   **Rack Structure:** The black metal side rail features U-slot markings ("45", "44", "43", "42", "41") in white text, indicating the standard rack units used for sizing equipment height.
+*   **Lower Equipment:** Below the main network stack, partially obscured by cables, is a black device with a label reading "Panasonic KX-TDE..." which suggests this rack contains telecommunications or PBX equipment as well.
+*   **Safety Sticker:** A white rectangular sticker is affixed near the bottom center containing a "CAUTION" warning about static-sensitive devices and instructions to discharge body static before handling the printed circuit board.
+*   **Background:** The background is out of focus but shows dark, textured ceiling or wall surfaces and large white pipes or conduits running diagonally in the upper right corner.
+*   **Serial/Model Tags:** Small black-and-white labels are visible on the bottom equipment near a metal terminal strip, including text that appears to read "9KP E001948".
+
+## Visible Text (verbatim)
+*   **Device Labels:**
+    *   "NDC-FIREWALL-ROUTER"
+    *   "Unifi" (Logo)
+    *   "NDC-SWITCH-24"
+    *   "Unifi SWITCH 24" (smaller text below logo)
+    *   "NDC-FOSW-16"
+*   **Rack Markings:**
+    *   "45", "44", "43", "42", "41"
+*   **Stickers/Warning Labels:**
+    *   "CAUTION:"
+    *   "Static sensitive devices..." (rest is partially obscured)
+    *   "To protect the printed circuit board from static electricity, first discharge any body static by touching the ground terminal or wear the grounded s..."
+    *   "TDE200-C1A" (model code on sticker)
+    *   "9KP E001948" (on serial sticker)
+*   **Device Below:**
+    *   "Panasonic"
+    *   "KX-TDE..."
+*   **Image Metadata:**
+    *   "EFTA00002528"
+
+## Notable Details / Clues
+*   **Meraki Ecosystem:** The devices are clearly part of the Cisco Meraki (formerly Microtide) ecosystem, specifically their Unified Networking Devices (NDC) or cloud-managed hardware, given the distinct silver bezel and "Unifi" branding.
+*   **Unified Communications Mix:** The presence of Panasonic KX-TDE equipment (a digital PBX phone system) stacked directly below Cisco networking gear suggests a combined data and voice infrastructure installation.
+*   **Fiber vs. Copper Ambiguity:** The label on the bottom unit says "FOSW" (likely Fiber Optical Switch), but the visible ports appear to be RJ45 copper Ethernet ports, which is an interesting contradiction or implies a specific configuration where fiber uplinks are not currently in use or replaced by copper for this deployment.
+*   **Improvised Power/Data:** The USB dongle on the right suggests someone needed wireless access but didn't have a dedicated access point, or perhaps they were testing Wi-Fi signal strength in that specific location (possibly an elevator or confined space given the pipe layout).
+*   **Rack Height Constraint:** The rack face is tight. Unit 45 starts near the top edge, and the cable management clips are jammed between the devices to prevent wires from falling out, indicating a potentially cramped vertical space.
+

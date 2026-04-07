@@ -1,0 +1,71 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016130.pdf ts=2026-03-12T21:09:00 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence, likely viewed within a legal case management system or an archive viewer given the document ID in the bottom right corner. The interface shows a forwarded message with a reply chain.
+
+**Top Section (Incoming/Reply Email):**
+The upper portion of the document represents a newer email that appears to be a forward or reply. The header information is heavily redacted with thick black bars covering the "From," "To," and "Cc" fields, obscuring sender and recipient addresses. The Subject line reads "RE: US v. Gatto - Oath Inc. Motion to Intervene." The timestamp indicates Friday, August 2, 2019, at 15:22 UTC. A single attachment is listed: "Brown_v_Maxwell.doc". Below a horizontal dividing line, the email body is written in blue text (indicating it might be hyperlinked or distinct formatting). It is a short message from "Jon" asking counsel for an objection to filing a decision from *Brown v. Maxwell* with the Court. The sender signature block reveals the full name "Jonathan M. Albano" and his affiliation with the law firm "Morgan, Lewis & Bockius LLP." His address in Boston, MA is visible, along with a redacted phone number and email, but an assistant's name, Kathleen A. Slowe, is visible.
+
+**Middle/Bottom Section (Original Email):**
+Below Jonathan Albano’s signature block is the original email he is forwarding. The header again shows blacked-out sender/recipient fields. The "Sent" date is Monday, July 22, 2019. The recipient list ("To:") partially reveals names including "Albano, Jonathan M," "Peng, Victoria," "Haney," "Schachter, Michael," and "Moore, Mark." The subject line is slightly different (no "RE:" prefix). The body begins with the tag "[EXTERNAL EMAIL]" and is addressed to "Counsel." The text explains that the attached document is the Government's opposition to Oath Inc.'s motion to intervene. A crucial legal detail mentions that an unredacted version is being provided "on an ex parte basis." The signature block at the very bottom identifies the sender as an "Assistant United States Attorney" from the "United States Attorney's Office" in the "Southern District of New York," specifically located in New York, NY 10007.
+
+## Visible Text (verbatim)
+**Header Block:**
+Subject: RE: US v. Gatto - Oath Inc. Motion to Intervene
+Date: Fri, 02 Aug 2019 15:22:13 +0000
+Attachments: Brown_v_Maxwell.doc
+
+**Body Text (Top):**
+Dear Counsel: Would you please let me know if you have any objection to my filing with the Court a copy of the attached decision of the Second Circuit in Brown v. Maxwell (July 3, 2019)? Thank you, and have a good weekend. Jon
+
+**Sender Info Block:**
+Jonathan M. Albano
+Morgan, Lewis & Bockius LLP
+One Federal Street | Boston, MA 02110-1726
+Assistant: Kathleen A. Slowe | [Redacted] | [Redacted]
+www.morganlewis.com
+
+**Header Block (Lower Email):**
+From: [Redacted]
+Sent: Monday, July 22, 2019 5:17 PM
+To: Albano, Jonathan M [Redacted]; Peng, Victoria [Redacted]; Steve Haney [Redacted]; Schachter, Michael <[Redacted]>; Moore, Mark C. <[Redacted]>
+Cc: [Redacted]
+Subject: US v. Gatto - Oath Inc. Motion to Intervene
+
+**Body Text (Lower Email):**
+[EXTERNAL EMAIL]
+Counsel,
+
+Please find attached the Government’s opposition to Oath Inc.’s motion to intervene for the limited purpose of obtaining materials. An unredacted version of this filing is being provided to the Court on an ex parte basis.
+
+Best,
+[Redacted Signature Image]
+Assistant United States Attorney
+United States Attorney's Office
+Southern District of New York
+New York, NY 10007
+
+**Footer:**
+EFTA00016130
+
+## Notable Details / Clues
+*   **Case Context:** The correspondence relates to two specific legal matters: *Brown v. Maxwell* (a Second Circuit case from July 3, 2019) and *US v. Gatto*.
+*   **Litigation Strategy:** The email discusses a "Motion to Intervene" for "Oath Inc." (now known as Verizon/Truthfinder in some contexts, historically linked to Facebook), suggesting a dispute involving user data or platform liability where Oath wants to participate in the lawsuit.
+*   **Ex Parte Filing:** The lower email explicitly states that an unredacted version of the filing is provided "on an ex parte basis," meaning one party (likely the Government) filed documents without opposing counsel having immediate knowledge, which can raise ethical concerns about notice and comment periods.
+*   **Timeline Discrepancy:** There is a date discrepancy between the decision in *Brown v. Maxwell* mentioned in the text (July 3, 2019) and the email sending date (Aug 2, 2019), showing that the legal team is reviewing older case law while engaging in current proceedings.
+*   **Law Firm Representation:** The top email comes from Jonathan M. Albano of Morgan, Lewis & Bockius LLP, a prominent corporate litigation firm based in Boston.
+*   **Government Representation:** The bottom email is signed by an Assistant United States Attorney (AUSA) representing the government in the Southern District of New York.
+*   **Privacy Redactions:** Extensive black bars cover names and specific addresses within the To/Cc fields, likely to comply with privacy rules during public court records release or internal document sharing.
+*   **Attachment Purpose:** The attachment *Brown_v_Maxwell.doc* is specifically requested as a "decision of the Second Circuit," indicating it serves as precedent or background material for the current motion.
+*   **Document ID:** The footer "EFTA00016130" suggests this document has been ingested into an electronic filing archive system (possibly from Electronic Filing Terminal Association or similar).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+DISCLAIMER
+This e-mail message is intended only for the personal use of the recipient(s) named above. This message may be an attorney-client communication and as such privileged and confidential and/or it may include attorney work product. If you are not an intended recipient, you may not review, copy or distribute this message. If you have received this communication in error, please notify us immediately by e-mail and delete the original message.
+
+## Structured Fields
+*   **Doc ID:** EFTA00016131
+

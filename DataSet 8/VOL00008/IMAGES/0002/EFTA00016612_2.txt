@@ -1,0 +1,226 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016612.pdf ts=2026-03-13T00:44:50 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a vertical segment of a data visualization, likely a bar chart, set against a plain white background. On the left side, a column of text lists numerical identifiers formatted as "3501.xxy". To the immediate right of this list is a large, solid black rectangular area that spans almost the entire height of the visible text. This black area obscures any data values or bar lengths that would typically accompany these labels in a chart. Above the list is a header indicating a category count. The layout suggests a redacted document where specific data points (the interview counts or durations) have been blocked out, leaving only the identifiers visible on the left and a uniform black void on the right.
+
+## Visible Text (verbatim)
+**Header:**
+Interviews (136)
+
+**List of Identifiers:**
+3501.002
+3501.005
+3501.007
+3501.008
+3501.012
+3501.014
+3501.016
+3501.017
+3501.018
+3501.019
+3501.020
+3501.021
+3501.022
+3501.023
+3501.026
+3501.027
+3501.028
+3501.030
+3501.032
+3501.033
+3501.035
+3501.036
+3501.037
+3501.041
+3501.042
+3501.043
+3501.045
+3501.051
+3501.053
+3501.054
+3501.055
+3501.056
+3501.058
+3501.060
+3501.063
+3501.064
+3501.068
+3501.070
+3501.076
+3501.083
+3501.087
+3501.089
+3501.094
+3501.098
+3501.101
+3501.102
+3501.103
+
+**Footer:**
+EFTA00016612
+
+## Notable Details / Clues
+- **Redaction/Blackout Effect:** A solid black rectangle covers the right portion of the graphic, effectively hiding the quantitative data associated with each ID number listed on the left. This is typical of a privacy redaction or simply a chart where all bars are equal length and dark (though unlikely given the distinct labels).
+- **Sequential Gaps:** The numerical list is not perfectly sequential; for example, it jumps from 002 to 005, skipping 003 and 004. This suggests these are specific case IDs or file references rather than a simple sequence 1 through 100.
+- **Total Count Indicator:** The header "Interviews (136)" implies that the total dataset for this chart contains 136 entries, though only a subset of these labels (ranging from roughly ID .002 to .103) is visible in this crop.
+- **Formatting:** All text is in a sans-serif font, likely Arial or Helvetica, which is standard for government or corporate reports.
+- **Document Control:** The string "EFTA00016612" in the bottom right corner suggests a document control number, potentially related to the European Free Trade Association (EFTA) given the acronym.
+- **Vertical Alignment:** The text labels are left-aligned, and the black bar extends from just past the end of the numbers to the edge of the white page space on the right.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical column of numerical data on a white background, partially obscured by a large, solid black rectangular block covering the right side and most of the center of the frame.
+
+- **Layout:** The layout consists of a single column of text-aligned numbers on the far left. Adjacent to these numbers is a tall, rectangular void that is filled with pure black ink, effectively hiding any data columns to the right.
+- **Numerical Data:** The visible numbers appear to be a list of coordinates or values, specifically formatted with four digits before the decimal point and two after (e.g., 3501.104).
+- **Spacing:** The numbers are vertically stacked. There is an irregular spacing pattern; while many consecutive integers follow each other (e.g., .104, .105, .106), several rows appear to be missing or skipped in the sequence (e.g., jumping from .106 to .108). This suggests a sparse dataset or a view of a specific subset of a larger table.
+- **Obscuration:** The black rectangle starts slightly below the top row and extends downwards, covering approximately 75-80% of the vertical height of the visible numbers. It has sharp, straight edges.
+- **Footer Text:** In the bottom right corner of the white background, distinct from the main data column, is a faint alphanumeric string "EFTA00016613".
+
+## Visible Text (verbatim)
+**Left Column:**
+3501.104
+3501.105
+3501.106
+3501.108
+3501.109
+3501.111
+3501.112
+3501.117
+3501.119
+3501.120
+3501.121
+3501.123
+3501.124
+3501.125
+3501.129
+3501.130
+3501.135
+3501.137
+3501.138
+3501.139
+3501.142
+3501.143
+3501.144
+3501.145
+3501.146
+3501.147
+3501.149
+3501.151
+3501.155
+3501.156
+3501.158
+3501.159
+3501.161
+3501.162
+3501.165
+3501.168
+3501.170
+3501.174
+3501.175
+3501.182
+3501.186
+3501.187
+3501.188
+3501.189
+3501.191
+3501.193
+3501.197
+3501.204
+
+**Bottom Right Corner:**
+EFTA00016613
+
+## Notable Details / Clues
+- **Data Format:** The numbers (e.g., 3501.104) likely represent scientific measurements, possibly in nanometers (nm), given the range around 3500-3502 nm which falls into the mid-infrared spectrum. This suggests the image is a screenshot from an astronomical or spectroscopic data reduction tool.
+- **Missing Rows:** The sequence is not continuous. For instance, the list jumps from 3501.106 to 3501.108 (skipping .107), then from 3501.112 to 3501.117 (skipping .113-.116). This non-sequential listing implies these are specific channels or samples that have been selected, rather than a continuous timeline.
+- **Redaction:** The heavy black box suggests this image is an excerpt where sensitive or raw data columns have been redacted or simply cropped out for privacy or brevity.
+- **File ID:** The code "EFTA00016613" in the corner serves as a unique identifier, likely a dataset ID or file handle used in scientific archives (possibly related to instruments like ESPRESSO on the VLT, given the spectral range).
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of a data table, likely from an Excel spreadsheet or similar software, dominated by numerical identifiers on the left side and extensive redactions to the right. The primary data block occupies the upper two-thirds of the image. On the far left, a single column lists sequential numeric values starting at `3501.208` and ending at `3501.516`. Immediately adjacent to these numbers is a large, solid black rectangular area that obscures an entire column or set of columns of data, spanning the height of the main numerical list. Below this main section, separated by white space, is a secondary smaller block labeled "Contact" in underlined text. This lower section lists two specific values: `3501.004` and `3501.128`, next to a smaller black box. In the bottom right corner of the white background, a unique identifier code is printed in small font.
+
+## Visible Text (verbatim)
+**Main Column List:**
+- 3501.208
+- 3501.210
+- 3501.213
+- 3501.215
+- 3501.219
+- 3501.221
+- 3501.222
+- 3501.223
+- 3501.226
+- 3501.238
+- 3501.330
+- 3501.340
+- 3501.377
+- 3501.384
+- 3501.401
+- 3501.409
+- 3501.472
+- 3501.474
+- 3501.477
+- 3501.478
+- 3501.478
+- 3501.479
+- 3501.480
+- 3501.481
+- 3501.482
+- 3501.483
+- 3501.484
+- 3501.485
+- 3501.486
+- 3501.492
+- 3501.496
+- 3501.497
+- 3501.499
+- 3501.500
+- 3501.503
+- 3501.504
+- 3501.511
+- 3501.512
+- 3501.513
+- 3501.514
+- 3501.515
+- 3501.516
+
+**Lower Section:**
+- Contact
+- 3501.004
+- 3501.128
+
+**Footer:**
+- EFTA00016614
+
+## Notable Details / Clues
+- **Redaction Pattern:** The large black bar suggests that sensitive or proprietary data is being hidden, specifically covering columns likely containing names, values, or descriptions corresponding to the row indices.
+- **Sequential IDs:** The numbers in the main list follow a non-linear but sequential progression (e.g., jumping from .238 to .330), which may indicate time intervals, frequency settings (like Hz), or specific measurement points rather than a simple counting sequence.
+- **Document Identifier:** The text `EFTA00016614` appears to be a Bates number or a document control ID, suggesting this image is from a legal discovery set, official record, or audit log.
+- **"Contact" Section:** The presence of the word "Contact" implies these specific rows (3501.004 and 3501.128) are metadata entries for contact information rather than data points within the main sequence.
+- **Spacing:** There is significant white space between the main block and the "Contact" section, indicating a structural break in the spreadsheet layout.
+- **Duplicate Values:** The number `3501.478` appears twice consecutively in the list, suggesting a potential data entry artifact or that a row was skipped/merged.
+- **Column Width:** The main black rectangle is significantly wider than the "Contact" section's redaction box, implying the main table has multiple hidden columns while the contact section might only hide one column (perhaps an email address).
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+3501.205- [REDACTED]
+3501.206- [REDACTED]
+
+Interview/Contact with third party
+
+3501.240 [REDACTED]
+3501.447 [REDACTED]
+3501.450 [REDACTED]
+
+EFTA00016615
+
+## Structured Fields
+- **Doc ID**: EFTA00016615
+- **Codes/Topics**: 3501.205, 3501.206, Interview/Contact with third party, 3501.240, 3501.447, 3501.450
+

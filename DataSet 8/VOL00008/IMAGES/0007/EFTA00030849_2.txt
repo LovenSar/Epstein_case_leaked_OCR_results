@@ -1,0 +1,117 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030849.pdf ts=2026-03-18T23:32:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot or PDF export of an email correspondence thread, specifically involving legal filings and court orders. The document is structured with two distinct email messages stacked vertically, separated by standard email client dividers.
+
+-   **Top Email Message:** This message appears at the top of the page. The header fields (Subject, Date, Attachments) are partially redacted with black bars. The visible text indicates this email was sent on Thursday, January 21, 2021. The body of the email addresses "Counsel" and requests that they review an attached Order regarding a case number "19-mc-179." The sender identifies themselves as a Courtroom Deputy to the Hon. Sarah Netburn at the United States District Court for the Southern District of New York. The signature block is heavily redacted with large black rectangles obscuring the name and signature.
+
+-   **Bottom Email Message:** Located below the first message, this email has a header showing it was sent on Tuesday, January 19, 2021 (7:08 PM) and includes a footer timestamp from Monday, July 27, 2020 (9:54 PM). The subject line mirrors the top email. A distinctive yellow highlighted box warns "CAUTION - EXTERNAL:". The body text explains that an attached letter is in response to the Court's Order dated July 27, 2020. It respectfully requests that this specific letter be filed under seal. Like the first message, the signature area is obscured by a large black rectangle.
+
+-   **Redactions:** Throughout the document, various sensitive details are redacted with solid black blocks of varying sizes (rectangles and filled bars), obscuring sender names, recipient names, email addresses, specific file attachment names, and other header metadata.
+
+-   **Legal Context:** The subject lines repeatedly reference "Grand Jury Subpoena_19-mc-00179," indicating this correspondence is part of a legal defense or investigation involving a grand jury subpoena filed in the Southern District of New York.
+
+-   **Sealing Requests:** Both emails explicitly mention documents being "filed under seal," which is a procedural step used to keep court records confidential from the general public during active investigations.
+
+## Visible Text (verbatim)
+**Top Section:**
+Subject: Re: In Re: Grand Jury Subpoena_19-mc-00179
+Date: Thu, 21 Jan 2021 15:12:59 +0000
+Attachments:[Redacted]
+Counsel,
+Please see the attached Order that was filed under seal today in 19-mc-179.
+Thank you,
+[Redacted]
+Courtroom Deputy to the Hon. Sarah Netburn
+United States District Court
+Southern District of New York
+[Redacted]
+
+**Divider:**
+Sent: Tuesday, January 19, 2021 7:08 PM
+
+**Bottom Section:**
+Subject: RE: In Re: Grand Jury Subpoena_19-mc-00179
+CAUTION - EXTERNAL:
+[Redacted]
+Attached is a letter in response to the Court’s July 27, 2020 Order. We respectfully request that the letter be filed under seal.
+Thank you,
+[Redacted]
+Sent: Monday, July 27, 2020 9:54 PM
+
+**Footer:**
+EFTA00030849
+
+## Notable Details / Clues
+-   **Jurisdiction:** The correspondence is from the "United States District Court, Southern District of New York."
+-   **Judge Involvement:** The email is addressed to or sent by someone acting for Judge "Hon. Sarah Netburn."
+-   **Case Number:** The specific docket number referenced is "19-mc-00179" (appearing as 19-mc-179 in the body).
+-   **Security Warning:** The yellow highlighter box containing "CAUTION - EXTERNAL:" suggests the email was forwarded to someone outside the organization, or originated from an external party.
+-   **Document Sealing:** There is a specific request to "file under seal," which implies that the content of the attached letter and the Grand Jury Subpoena are highly sensitive and not meant for public record.
+-   **Timestamp Discrepancy:** The bottom email footer shows a "Sent" date of July 27, 2020, while the header above it (for the reply) shows January 19, 2021. This indicates an older attachment or previous correspondence is being referenced in the chain.
+-   **Formatting:** The use of standard email formatting (Subject lines, Date headers, "Counsel" salutation) confirms this is professional legal communication.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped digital document, specifically a screenshot or PDF export of an email thread involving legal correspondence. The document is structured vertically with several distinct email messages separated by horizontal dividing lines and black bars obscuring sensitive information.
+
+- **Top Email Segment:** At the very top, a thick black bar completely covers the recipient's address or header line. Below this, a subject line is partially visible, starting with "Subject: Re: In Re: Grand Jury Subpoena_19-mc-00179". The message body begins with "Good evening," and states, "Attached is an endorsed Order that will be filed under seal in this case." It concludes with "Thank you," followed by a signature block that has been mostly redacted but reveals the sender's title: "Courtroom Deputy to the Hon. Sarah Netburn" of the "United States District Court Southern District of New York". A small dash is visible on the right side.
+
+- **Middle Email Segment:** Separated by a horizontal line, this section shows a date stamp: "Sent: Wednesday, July 22, 2020 4:41 PM". Following a thick redacted bar for the subject line, the text reads "Subject: RE: In Re: Grand Jury Subpoena_19-mc-00179". The body is addressed "To the Chambers of Judge Netburn:" and requests to "Please see the attached letter in connection with the order referenced below, in the above-captioned case." It ends with "thank you," followed by a large black rectangle obscuring the sender's name.
+
+- **Bottom Email Segment:** Below another horizontal line, email headers are partially visible: "From" (redacted), "Sent: Wednesday, July 15, 2020 09:09", "To:" (redacted), and "Subject: In Re: Grand Jury Subpoena_19-mc-00179". A small redacted bar sits above the body text. The visible body text reads: "Please see the attached PDF for an Order that was filed under seal today in 19-mc-179." followed by "Thank you," and a large black rectangle at the bottom obscuring the sender's signature.
+
+- **Footer:** In the bottom right corner, a case identifier is printed in small grey text: "EFTA00030850". The background is plain white, typical of standard email clients or PDF viewers.
+
+## Visible Text (verbatim)
+Subject: Re: In Re: Grand Jury Subpoena_19-mc-00179
+Good evening,
+
+Attached is an endorsed Order that will be filed under seal in this case.
+
+Thank you.
+Courtroom Deputy to the Hon. Sarah Netburn
+United States District Court
+Southern District of New York
+
+Sent: Wednesday, July 22, 2020 4:41 PM
+Subject: RE: In Re: Grand Jury Subpoena_19-mc-00179
+To the Chambers of Judge Netburn:
+
+Please see the attached letter in connection with the order referenced below, in the above-captioned case.
+
+thank you.
+
+From [REDACTED]
+Sent: Wednesday, July 15, 2020 09:09
+To: [REDACTED]
+Subject: In Re: Grand Jury Subpoena_19-mc-00179
+
+Please see the attached PDF for an Order that was filed under seal today in 19-mc-179.
+
+Thank you,
+[REDACTED]
+
+EFTA00030850
+
+## Notable Details / Clues
+- **Legal Context:** The emails relate to a "Grand Jury Subpoena," indicating active criminal investigation proceedings or federal litigation involving witness subpoenas.
+- **Case Caption:** The specific case number is identified as "19-mc-00179", with a later reference to "19-mc-179" (likely the same shortened citation).
+- **Secrecy/Sealing:** Multiple references to documents being "filed under seal" suggest that the proceedings or evidence are confidential and not part of the public record.
+- **Court Jurisdiction:** The correspondence originates from the "United States District Court Southern District of New York," a federal district in Manhattan.
+- **Judicial Involvement:** The judge involved is identified as "Judge Netburn" (Sarah Netburn). The sender of the top email is explicitly identified as her "Courtroom Deputy."
+- **Timeline:** The earliest visible email date is July 15, 2020, and the most recent visible action is on July 22, 2020.
+- **Redaction Pattern:** Black bars are used consistently to hide personal identifiers (names, addresses), specific legal arguments not fully transcribed in the text body, and email addresses, adhering to standard privacy practices for legal filings or screenshots of such.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+CAUTION - EXTERNAL EMAIL: This email originated outside the Judiciary. Exercise caution when opening attachments or clicking on links.
+
+## Structured Fields
+*   **Organization:** Judiciary
+*   **Document Type/Note:** External Email Warning
+*   **Doc ID:** EFTA00030851
+

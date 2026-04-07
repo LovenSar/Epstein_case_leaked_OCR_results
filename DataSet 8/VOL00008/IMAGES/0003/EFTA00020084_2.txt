@@ -1,0 +1,52 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00020084.pdf ts=2026-03-14T10:06:51 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+From: "[REDACTED](USANYS)" <[REDACTED]>
+    To: [REDACTED](USANYS)" <[REDACTED]>
+Subject: Lengthy Letter
+Date: Wed, 28 Aug 2019 22:03:33 +0000
+Attachments: 2019.08.29_Letter_to_RMB_v2.docx
+
+-------------------------------------------------------------------------
+
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+Tel: [REDACTED]
+```
+
+## Structured Fields
+*   **Date:** Wed, 28 Aug 2019 22:03:33 +0000
+*   **Location/Office:** Southern District of New York
+*   **Organization:** Assistant United States Attorney (USANYS)
+*   **Document ID / Case Reference:** EFTA00020084
+*   **Attachment Filename:** 2019.08.29_Letter_to_RMB_v2.docx
+</think>
+
+```markdown
+From: "[REDACTED](USANYS)" <[REDACTED]>
+    To: [REDACTED](USANYS)" <[REDACTED]>
+Subject: Lengthy Letter
+Date: Wed, 28 Aug 2019 22:03:33 +0000
+Attachments: 2019.08.29_Letter_to_RMB_v2.docx
+
+-------------------------------------------------------------------------
+
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+Tel: [REDACTED]
+```
+
+## Structured Fields
+*   **Date:** Wed, 28 Aug 2019 22:03:33 +0000
+*   **Location/Office:** Southern District of New York
+*   **Organization:** Assistant United States Attorney (USANYS)
+*   **Document ID / Case Reference:** EFTA00020084
+*   **Attachment Filename:** 2019.08.29_Letter_to_RMB_v2.docx
+```
+

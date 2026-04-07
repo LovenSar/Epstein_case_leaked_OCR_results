@@ -1,0 +1,320 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007859.pdf ts=2026-03-09T01:39:05 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a high-contrast, nearly monochromatic view dominated by a vast, solid black field that occupies approximately 90% of the frame. The top edge features a narrow strip of white paper or cardstock with slight shadowing along its bottom edge, suggesting the curvature of a physical object like a file folder flap. This upper section contains faint, illegible smudges and debris near the left margin, indicating wear on the original document surface.
+
+In the upper right quadrant, affixed to the dark background, is a distinct white rectangular label with rounded corners. The label appears to be a standard adhesive sticker or pre-printed tab. The primary visible content of the image is isolated to this label and the identification number in the bottom right corner. Scattered across the deep black negative space are several microscopic white specks and tiny dust particles, typical of a scanned physical document. A single, faint vertical line artifact runs slightly left of the center, likely a scanning streak or a crease in the original material. The bottom right corner features a cataloging identifier printed in small, sans-serif font against a white background strip that separates the main image from the frame edge. The lighting is flat and high-contrast, rendering any texture or gradient within the black area completely lost to shadow, except for the aforementioned particulate noise.
+
+## Visible Text (verbatim)
+**On White Label:**
+1B7-5
+
+**Bottom Right Corner:**
+EFTA00007859
+
+## Notable Details / Clues
+- **Object Type:** The rounded top right corner and the distinct "tab" appearance suggest this is an image of a file folder or a binder, specifically the flap area where labels are placed.
+- **Exposure Issue:** The extreme darkness of the main body indicates either a severely underexposed photograph, a view through a dark negative, or a specific visual style (like a silhouette) that obscures the background content entirely.
+- **Archival Context:** The string "EFTA00007859" is likely an automated accession number generated during digitization or archival processing, identifying this specific frame or document page in a database.
+- **Label Placement:** The label "1B7-5" is positioned high up on the right side, which is standard placement for folder tabs used to sort documents within a vertical filing system.
+- **Surface Noise:** The scattered dots and faint vertical line indicate the physical texture of the original paper or plastic surface, capturing dust, scratches, or optical artifacts from the camera sensor.
+- **Border Artifacts:** Along the very top edge, there are thin horizontal lines and smudges that suggest the presence of a staple line, a tear in the document, or printing marks on the reverse side of the page.
+- **Contrast Range:** The image utilizes near-maximum contrast, separating the white text elements from the black background completely without any mid-tone gradients visible in the main area.
+- **Font Style:** The text on the label ("1B7-5") is printed in a bold, condensed sans-serif typeface, likely Arial or Helvetica, chosen for quick legibility at a glance.
+- **Cropping:** The image appears slightly cropped on the top left, cutting off a small curve of the white border, while the bottom and right edges are cleaner.
+- **Color Profile:** Despite being black and white (grayscale), the deep blacks suggest a specific film stock or digital sensor setting designed for high dynamic range compression or document scanning where light information is secondary to text recognition.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Town of Palm Beach
+Police Department
+POLICE
+EVIDENCE
+
+CASE # 05-368 PROPERTY # 05-1023 / 129443 (scribble)
+CONTENTS
+
+| Item | Quantity | Description |
+| :--- | :--- | :--- |
+| 1 | 3 | floor Plans |
+
+
+Suspect: Epstein Jeffrey
+Of [REDACTED] . Date: 6-20-05
+Lab #:
+
+KL-231
+
+
+5
+```
+
+## Structured Fields
+*   **Organization:** Town of Palm Beach Police Department, FLORIDA POLICE
+*   **Document Type:** EVIDENCE tag (Form KL-231)
+*   **Case Number:** 05-368
+*   **Property Numbers:** 05-1023 / 129443
+*   **Item Description:** floor plans
+*   **Quantity:** 3
+*   **Suspect Name:** Epstein Jeffrey
+*   **Date:** 6-20-05 (June 20, 2005)
+*   **Barcode ID (Top):** 023566
+*   **Box Identifier:** 5
+*   **Barcode ID (Footer):** EFTA00007860
+</think>
+
+```markdown
+[Barcode Image]
+023566
+
+Town of Palm Beach
+Police Department
+POLICE
+EVIDENCE
+
+CASE # 05-368 PROPERTY # 05-1023
+129443
+CONTENTS
+
+Item | Quantity | Description
+---|---|---
+1 | 3 | floor Plans
+
+
+Suspect: Epstein Jeffrey
+Of [REDACTED] . Date: 6-20-05
+Lab #:
+
+KL-231
+
+
+5
+
+EFTA00007860
+```
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EPSTEIN RESIDENCE
+358 El Brillo Way
+Palm Beach, Florida
+ARCHITECT [REDACTED]
+TELEPHONE [REDACTED]
+FAX [REDACTED]
+ASSOCIATED ARCHITECT [REDACTED]
+WEST PALM BEACH, FLA.
+
+REMOVE EXIST TUNNEL/STALL A/C UNIT INSTALL NEW HEAT PUMP IN KITCHEN
+RELOCATE EXIST COOLING TOWER & CONDENSATION UNIT TO NEW PAD AT DRAY YARDS AND ELEV 7-9 PER FEMA REGULATIONS
+NEW PRECAST CONCRETE POWERS AWARD TO BE EQUAL SIZE DETERMINED BY SOUTH EAST CORN OF POUL (FEMA)
+BRUSH = 1/8 INCH
+
+ENLARGE TERRACE AT SW PAVES ALL SIDES
+INSTALL NEW RETRACTABLE AWWNING - PORCHEZIERED?
+NEW CONC TERRACE AND PRECAST PATTERNS (#3) 12'x 7' SIZES
+REMOVE EXIST SLIDING DOOR ENLARGE MID TO WIDTH OF CROWNING PLA & INSTALL NEW GLAZED GLASS DOOR
+
+POOL NOTES
+CONSTRUCT NEW POOL WALL TO SQUARE OFF POOL, ABANDON OLD STRIP, FILL AND COVER OVER WITH CONCRETE & TRANSFORMING PAVING IS PATCH. CONSTRUCT NEW STAIR. REMOVE EXISTING TILE & WATER LINE, INSTALL NEW TILE, REMOVE LEAN & RE-SURFACE ENTIRE INTERIOR OF POOL.
+
+MESH RM.
+REMOVE EXIST A/C UNIT & INSTALL NEW A/C UNIT 8 X 10' TO CONTAIN W/FEMA
+EXIST MOTOZED GARAGE DOORS TO REMAIN
+
+KITCHEN
+PANTRY
+INSTALL NEW LINOLEUM FLOOR AROUND EXIST RIMING FORMING KITCHEN & PANTRY
+NEW ROUND DOUBLE ENTRY WINDOWS (ILLEGIBLE/SMALL TEXT)
+FOYER
+INSTALL NEW FIXED WOOD WINDOW / PLANTATION SHUTTERS OPEN FLOOR TO GLE CASE INSTALL NEW PARTITIONS PATH COLUMN AS REQD 6'x6' BOOK
+
+GARDEN ROOM
+INSTALL NEW PECT CHESPEER VANDOR PANEL INSTALL 6 CROWN & CENTER ON DOORS INSTALL NEW CYPRESS PLANTATION SHUTTERS & 6'x6' GLASS DOOR
+
+DINING ROOM
+LAKE ROOM
+INSTALL NEW FIXED CYPRESS PLANTATION SHUTTERS & 6'x6' GLASS DOOR
+PATCH CEILING AS NEEDED BY REMOVAL OF LIGHT FIXTURES
+
+STAFF
+BACK HALL
+REAR STAIRWAY
+EXISTING GLAZIER
+NEW BUILT UP ROOM
+PLANTER
+
+GARAGE
+DRIVEWAY
+INSTALL NEW MOTORIZED GATING AT DRIVEWAY
+REMOVE PORTION OF EAST & SOUTH CAROL AND THROUGH NEW WALL TO MATCH EXISTING INSTALL NEW GATE THORST TO PERMIT ENTR...
+
+SWIMMING POOL
+SECTION POOL DECKS
+INSTALL NEW RETRACTABLE AWINN FULL LENGTH OF LAKE ROOM - PORCHEZIERED?
+
+DRAWING TITLE FIRST FLOOR PLAN PACTUAL SITE PLAN
+SCALE 1/4 = 1'-0""
+DATE 8 24 94
+PROJECT NO. [BLANK]
+DRAWING NO. A-1
+
+## Structured Fields
+*   **Date:** 8/24/94 (August 24, 1994)
+*   **Location:** Palm Beach, Florida; 358 El Brillo Way
+*   **Project Name:** Epstein Residence
+*   **Drawing Title:** First Floor Plan / Pactual Site Plan
+*   **Scale:** 1/4" = 1'-0"
+*   **Architect:** [Redacted]
+*   **Associated Architect:** [Redacted]
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EPSTEIN RESIDENCE
+358 El Brillo Way
+Palm Beach, Florida
+[REDACTED]
+ARCHITECT
+10021
+TEL: [REDACTED]
+FAX: [REDACTED]
+ASSOCIATED ARCHITECT
+WEST PALM BEACH, FLA.
+
+EAST ROOF TERRACE
+INSTALL NEW RAILING -
+TOP RAIL TO BE ALUMINUM
+DO NOT DAMAGE ROOF PAPER
+GUEST ROOM 1
+(BLUE ROOM)
+BATH 2
+BATH 1
+GUEST ROOM 2
+(BACK ROOM)
+HOUSEKEEPER
+BEDROOM
+BATH 5
+GUEST ROOM 3
+(RED ROOM)
+BATH 3
+GUEST HALL
+HOUSEKEEPER
+SITTING ROOM
+STAIR HALL
+VESTIBULE
+MASTER
+BEDROOM
+WEST ROOF TERRACE
+INSTALL COPPER AND
+UNDER DRAIN GUTTER
+INSTALL NEW DROOP,
+CHANGE DOOR TO ENTRY.
+SOUTH ROOF TERRACE
+INSTALL NEW BALUNING -
+TOP RAIL TO BE TEAK
+INSTALL NEW WATERPROOFING &
+ROOF FANTHES -
+PRIME COAT *3
+25 LBS
+REMOVE & REPLACE WINDOW
+ROOF FLARING AND FRAME
+KEEP IN REPLACE
+COPPER FLASHING
+BALCONY
+BATH 4
+TUB
+GENERAL NOTES:
+1. BATHS #1, 2 & 3 TO BE FLOORED
+WITH MARBLE TILE ON FLOOR &
+WALLS FULL HEIGHT. COUNTERS &
+SILLS 3/4" R. G. HARD. DETAILS
+TO BE PAINTED QTY BR.
+2. BATHS #4 & 5 TO BE FLOORED
+WITH MARBLE TILES AND WALLING.
+GLASS SCREEN SHOWER & BATHTUB.
+FLOOR TO BE IN GLASS/STAIN.
+CEILINGS TO BE PAINTED QP
+RED W/O CEILING MOLDINGS.
+(GUARD RAIL 1/2" ROUND MARB/CLE).
+3. INSTALL NEW CROWN MOULDING
+IN GUEST ROOMS #1, 2 & 3.
+4. INSTALL NEW DOORS STAINED.
+(CHANGE MARKED O)
+5. INSTALL NEW G.W.D. PARTITION
+MARKED
+6. A.C. DUCT CONTRACTOR WILL
+REMOVE GUARD SHADE FROM
+MODIFICATIONS TO A.C. DUCTTOP
+1 SWIMD DATE PER PERMIT
+NORTH
+NO. DESCRIPTION REVISIONS
+DRAWING TITLE: SECOND FLOOR PLAN
+SCALE 1/4"=1'-0"
+DATE 4-4-94
+PROJECT NO.
+DRAWING NO. A-2
+
+## Structured Fields
+- **Project Name:** EPSTEIN RESIDENCE
+- **Address:** 358 El Brillo Way, Palm Beach, Florida
+- **Architect:** Associated Architect, West Palm Beach, FLA.
+- **Drawing Title:** SECOND FLOOR PLAN
+- **Date:** 4-4-94
+- **Scale:** 1/4" = 1'-0"
+- **Drawing No:** A-2
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EPSTEIN RESIDENCE
+558 EL BELLO WAY
+PALM BEACH FLA.
+
+ARCHITECT
+
+NEW YORK, NEW YORK 10021
+TEL.
+FAX:
+
+ASSOCIATED ARCHITECT
+
+WEST PALM BEACH FLA.
+
+REMOVE BULK DOOR INSTALL NEW WINDOW WALL N GBE
+REMOVE BATH TOILET & CAP PIPES
+INSTALL NEW TOILET ON BASE WLLS
+REMOVE EXIST VNTY INSTALL NEW
+
+CABANA
+
+BATH #2
+Clo Laundry
+
+EXISTING TRAVERTINE PAVING TO REMAIN
+
+NEW TRAVERTINE PAVING TO MATCH
+
+-REMOVE DIRT LAB
+4 WHEELS
+
+SWIMMING POOL
+
+REMOVE POOL & FILL & WAVER
+REPLACE PAVERS
+
+DOCK
+BULKHEAD 2
+
+[Grid Pattern]
+[Grid Pattern]
+
+## Structured Fields
+*   **Location:** 558 EL BELLO WAY, PALM BEACH FLA.
+*   **Project Name:** EPSTEIN RESIDENCE / CABANA PLAN
+*   **Drawing Title:** EXTERIOR PAVING PLAN
+*   **Date:** 3-23-94
+*   **Scale:** 4' = 1'-0"
+*   **Document ID:** EFTA00007863
+*   **Drawing No.:** A - 15
+

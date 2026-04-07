@@ -1,0 +1,57 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003051.pdf ts=2026-03-06T00:38:53 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled shot of an "Emergency Contact Form" clipped into a clear plastic sheet protector within a ring binder. The binder's metal rings are visible on the far left edge against a dark, speckled background surface. The document is printed on white paper with black text. A significant portion of personal data (phone numbers, partial address, date of birth) has been redacted with solid black bars. There is a noticeable glare/reflection on the plastic sheet protector covering the middle-left section of the form, slightly obscuring the "Title/Position" and "Allergies or Health Concerns" areas. At the bottom right corner, a white alphanumeric watermark "EFTA00003051" is visible outside the document area.
+
+## Visible Text (verbatim)
+**Header:**
+LSJE, LLC
+6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: [REDACTED] Fax: [REDACTED]
+
+**Form Title:**
+Emergency Contact Form
+
+**Employee Information Block:**
+Date: 04/10/18
+Start Date: 04/10/18
+Employee Name: Durison B. Donissaint
+Address: [REDACTED] St Thomas, VI 00802
+Phone: [REDACTED]
+Cell: [REDACTED]
+Date of Birth: [REDACTED]
+E-Mail: [REDACTED]
+Title/Position: Landscape [faintly written/obscured by glare]
+Marital Status: Married
+License: [Blank Box]
+
+**Medical Information Block:**
+Emergency Information [Glare obscures line above]
+Blood type not specified
+Allergies or Health Concerns:
+Blood Type: [Empty box]
+Current Medication:
+Doctor's Name: [Blank Line] Phone: [Blank Line]
+Doctor's Name: [Blank Line] Phone: [Blank Line]
+
+**Emergency Contact Block:**
+In case of an Emergency, Please contact :
+Name [REDACTED] Relationship Friend Phone [REDACTED]
+Name [Blank Line] Relationship [Blank Line] Phone [Blank Line]
+
+**Footer:**
+This Information is for your safety and the safety of others
+
+## Notable Details / Clues
+- **Company Location:** The header indicates the company is located in St. Thomas, VI (U.S. Virgin Islands), evidenced by the "VI" in the zip code 00802.
+- **Employee Identity:** The form belongs to an employee named Durison B. Donissaint.
+- **Date of Completion:** Both the form date and start date are recorded as April 10, 2018 (04/10/18).
+- **Privacy Measures:** Sensitive fields like telephone numbers, email addresses, dates of birth, and partial street addresses have been intentionally blacked out.
+- **Highlighting:** The text "Blood Type" near the bottom left medical section is highlighted in yellow, possibly indicating it was filled or emphasized digitally (though the box next to it is empty).
+- **Relationship Status:** The employee is listed as "Married".
+- **Emergency Contact:** One contact person has the relationship "Friend" and their name/phone are redacted. A second row for contacts is left blank.
+- **Medical History:** Under "Allergies or Health Concerns," the text "Blood type not specified" appears, though there is an empty box next to "Blood Type."
+- **Form Security:** The footer note emphasizes that the information is critical for safety.
+- **Binder Context:** The presence of binder rings suggests this document is part of a larger employee file system.
+

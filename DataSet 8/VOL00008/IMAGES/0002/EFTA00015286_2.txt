@@ -1,0 +1,49 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015286.pdf ts=2026-03-12T14:27:25 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document resembling an email or a PDF attachment containing "SDNY Press Clippings." The document is heavily redacted with black bars obscuring personal information and potentially sensitive text. 
+
+At the top left, standard email header fields are visible but mostly obscured: "From:", "To:", and "Cc:" are followed by large black rectangles covering the corresponding data. Below this area, unredacted metadata indicates the "Subject" line reads "SDNY Press Clippings, July 31, 2020". The email date is listed as "Fri, 31 Jul 2020 16:43:22 +0000", and an "Inline-Images" tag lists "image001.png".
+
+A prominent blue horizontal banner dominates the upper-middle section. To its left is the circular seal of the Department of Justice, featuring an eagle holding a shield and olive branch. Centered in white capital letters on the blue background is the text "SDNY PRESS CLIPPINGS". Directly below this banner, the date "July 31, 2020" appears in small grey text.
+
+Below the date is a horizontal black bar redacting a paragraph of text. Underneath that redaction, a section lists news sources and hyperlinks. The heading "Maxwell" appears on the left. Below it are lines starting with "BBC:", "CNN:", and "Mediaite:". Each line contains a URL. The BBC link is fully visible. The CNN link is partially obscured by a black box in the middle of the address. The Mediaite link discusses finding Bill Clinton's name in Jeffrey Epstein court documents. A massive black rectangle covers the entire bottom half of the visible page area. In the bottom right corner, a document control number "EFTA00015286" is printed.
+
+## Visible Text (verbatim)
+**Header Section:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: SDNY Press Clippings, July 31, 2020
+Date: Fri, 31 Jul 2020 16:43:22 +0000
+Inline-Images: image001.png
+
+**Banner Section:**
+DEPARTMENT OF JUSTICE (on seal)
+SDNY PRESS CLIPPINGS
+
+**Content Section:**
+July 31, 2020
+
+[Redacted Bar]
+
+Maxwell
+BBC: https://www.bbc.com/news/world-us-canada-53605784
+CNN: https://www.cnn.com/videos/us/2020/07/31/ghislaine-maxwell-jeffrey-epstei[Redacted]scannell-newday-vpx.cnn/video/playlists/new-day-highlights/
+Mediaite: https://lawandcrime.com/high-profile/heres-where-we-found-bill-clintons-name-in-newly-unsealed-jeffrey-epstein-court-documents/
+
+**Footer Section:**
+EFTA00015286
+
+## Notable Details / Clues
+- **Subject Matter:** The document is clearly related to the Jeffrey Epstein legal case, specifically regarding Ghislaine Maxwell and new unsealed court documents. This is evidenced by the subject line and the specific URLs listed (mentioning "Ghislaine Maxwell," "Jeffrey Epstein," and "Bill Clinton").
+- **Source Authority:** The seal and the text "SDNY" indicate this document originates from the U.S. Attorney's Office for the Southern District of New York, a federal prosecutorial district.
+- **Date Relevance:** The date July 31, 2020, corresponds with a significant period during which new documents related to Epstein were unsealed by court order, sparking intense media coverage (hence the "Press Clippings").
+- **Redaction Strategy:** The black bars are strategically placed to hide the email chain participants (From/To/Cc) and likely names of individuals mentioned within the redacted text block, as well as parts of URLs that might contain tracking parameters or specific context.
+- **Media Sources:** The list includes major broadcasters (BBC, CNN) and legal/journalism sites (Law & Crime via Mediaite), suggesting a dissemination strategy to share official press releases with various media outlets.
+- **Document ID:** The code "EFTA00015286" at the bottom right is likely an identifier used by the Electronic Freedom of Information Act (FOIA) archive or the EFF (Electronic Frontier Foundation) which compiled these documents, often referred to as the "Epstein Archive."
+- **Link Integrity:** The CNN link appears broken or altered. It reads "...epstei[redacted]scannell...", suggesting the text "n" or a separator was blacked out, or two separate links were merged visually.
+- **Tone:** The document is dry and administrative, typical of government press distribution materials.
+

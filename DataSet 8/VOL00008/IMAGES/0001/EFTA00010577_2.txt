@@ -1,0 +1,65 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010577.pdf ts=2026-03-10T05:18:22 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email client interface showing a thread of correspondence regarding the Jeffrey Epstein case. The document is heavily redacted with black bars obscuring personal names, email addresses, and parts of sentences.
+
+At the top, a header section shows standard email fields ("From:", "To:", "Cc:") which are completely blacked out. Below these, visible metadata identifies the subject line as "RE: Epstein NPA Appendix" (suggesting an appendix to a Non-Prosecution Agreement). The timestamp reads "Thu, 27 Jun 2019 20:24:29 +0000" and the importance is marked as "Normal".
+
+A horizontal divider line separates the header from the body. The body begins with a blue hyperlinked sentence fragment starting "I've provided the document to," followed immediately by another redacted black bar. Below this, a nested email quote begins. This quoted email has a header sent at 10:54 AM on June 27, 2019. The visible text body mentions "OPR will be able to help with this" (referring to the Office of Professional Responsibility). It mentions copying a lead counsel who is redacted, and notes that someone else will respond separately. This section concludes with a signature block identifying the sender as "Director and Chief Counsel" for the "Office of Professional Responsibility" at the "U.S. Department of Justice" in Washington, D.C., with the URL "www.justice.gov/opr".
+
+Below that, another quoted email from 10:37 AM states, "I do not have it, but OPR should." A final quoted email at the bottom is dated 10:34 AM. It has a subject line "Epstein NPA Appendix" and begins with "Hi" followed by a redacted name. In the bottom right corner, a document control number "EFTA00010577" is visible.
+
+## Visible Text (verbatim)
+*   **From:** [Redacted]
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** RE: Epstein NPA Appendix
+*   **Date:** Thu, 27 Jun 2019 20:24:29 +0000
+*   **Importance:** Normal
+*   **Body Start:** I've provided the document to [Redacted]
+*   **Quoted Email 1 - Sent:** Thursday, June 27, 2019 10:54 AM
+*   **Quoted Email 1 - Subject:** RE: Epstein NPA Appendix
+*   **Quoted Email 1 - Body:** OPR will be able to help with this. Copying [Redacted] who is lead counsel on our investigation. [Redacted] will respond separately.
+*   **Quoted Email 1 - Sign-off:** Best, [Redacted]
+*   **Quoted Email 1 - Title:** Director and Chief Counsel
+*   **Quoted Email 1 - Org:** Office of Professional Responsibility
+*   **Quoted Email 1 - Dept:** U.S. Department of Justice
+*   **Quoted Email 1 - Address:** Washington, D.C. 20530
+*   **Quoted Email 1 - URL:** www.justice.gov/opr
+*   **Quoted Email 2 - Sent:** Thursday, June 27, 2019 10:37 AM
+*   **Quoted Email 2 - Subject:** RE: Epstein NPA Appendix
+*   **Quoted Email 2 - Body:** I do not have it, but OPR should. I have copied [Redacted] Thanks [Redacted]
+*   **Quoted Email 3 - Sent:** Thursday, June 27, 2019 10:34 AM
+*   **Quoted Email 3 - Subject:** Epstein NPA Appendix
+*   **Quoted Email 3 - Body Start:** Hi [Redacted]
+*   **Footer ID:** EFTA00010577
+
+## Notable Details / Clues
+*   **Context of Redaction:** The extensive black bars indicate that this is likely a leaked or archived document where sensitive PII (Personally Identifiable Information) like names and emails were removed to protect privacy, typical of legal discovery documents.
+*   **Key Entity - OPR:** The repeated mention of "OPR" (Office of Professional Responsibility) identifies this correspondence as coming from the internal investigation division of the Department of Justice, specifically handling misconduct or professional liability issues.
+*   **Subject Matter:** The subject line "Epstein NPA Appendix" connects these emails to the legal defense mechanisms used for Jeffrey Epstein's associates, specifically the Non-Prosecution Agreements (NPAs) obtained by then-DOJ Director Andrew Weissmann.
+*   **Timeline:** All emails in the thread occur on a single morning, June 27, 2019, between 10:34 AM and 10:54 AM EST, suggesting a rapid back-and-forth coordination regarding the location of a document.
+*   **Lead Counsel Reference:** The text "who is lead counsel on our investigation" implies an FBI or Department of Justice internal probe was ongoing at that time.
+*   **Document Tracking Number:** The string "EFTA00010577" at the bottom right is likely a document tracking number used by the Electronic Freedom of Information Act (EOFA) system or a specific agency repository.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+There is non-public appendix to the Epstein NPA that includes a list of victims entitled to receive compensation. Does ODAG have a copy of it or would you be able to help us retrieve it?
+
+Thank you,
+
+[REDACTED]
+Chief, Public Corruption Unit
+United States Attorney’s Office for the
+Southern District of New York
+[REDACTED]
+
+## Structured Fields
+- **Organization**: United States Attorney’s Office for the Southern District of New York
+- **Unit**: Public Corruption Unit
+- **Mentioned Organization**: ODAG (Office for Victim Assistance)
+- **Document ID**: EFTA00010578
+- **Subject**: Epstein NPA (Non-Prosecution Agreement) Appendix regarding victim compensation list
+

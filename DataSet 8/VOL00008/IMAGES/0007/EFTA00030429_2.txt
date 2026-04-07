@@ -1,0 +1,65 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030429.pdf ts=2026-03-18T18:53:29 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+DOUBLETREE SUITES BY HILTON SANTA MONICA
+1707 FOURTH STREET
+SANTA MONICA, CA 90401
+United States of America
+TELEPHONE 310-395-3332 • FAX
+Reservations
+www.doubletree.com or 1-800-222-TREE
+
+DoubleTree
+BY HILTON
+
+Room No:                                      629/NKXI
+Arrival Date:                                11/13/2019 7:43:00 PM
+Departure Date:                              11/15/2019 12:22:00 PM
+Adult/Child:                                 1/0
+Cashier ID:                                  VDLT
+Room Rate:                                   247.00
+AL:
+HH #                                         992288328 SILVER
+VAT #
+Folio No/Che                                 879282 A
+
+Confirmation Number: 90447796
+
+DOUBLE TREE SUITES BY HILTON SANTA MONICA 11/15/2019 12:21:00 PM
+
+DATE          REF NO        DESCRIPTION              CHARGES
+11/13/2019   6336280       GUEST ROOM               $247.00
+11/13/2019   6336280       OCCUPANCY TAX            $35.06
+11/13/2019   6336280       TMD ASSESSMENT           $4.50
+11/14/2019   6337005       GUEST ROOM               $247.00
+11/14/2019   6337005       OCCUPANCY TAX            $35.06
+11/14/2019   6337005       TMD ASSESSMENT           $4.50
+11/15/2019   6337280                                      ($573.12)
+[REDACTED] REF=0000879282-01477708 CHIP
+                  05
+Application Label: CHASE VISA
+TC: 902AEFA3AAFC308E
+TVR: 0080008000
+
+**BALANCE**                                     $0.00
+
+CREDIT CARD DETAIL
+APP R CODE            07576I                           MERCHANT ID          150557
+CARD NUMBER           VS *6964                         EXP DATE             01/22
+TRANSACTION ID         6337280                         TRANS TYPE           Sale
+
+Page:1                                                                 EFTA00030429
+
+## Structured Fields
+- **Organization:** DoubleTree Suites by Hilton Santa Monica (DoubleTree by Hilton)
+- **Location:** 1707 Fourth Street, Santa Monica, CA 90401, United States of America
+- **Confirmation Number:** 90447796
+- **Folio No/Che:** 879282 A
+- **Room Number:** 629/NKXI
+- **Dates:** 11/13/2019 to 11/15/2019
+- **Payment Method:** CHASE VISA (Credit Card)
+- **Transaction ID:** 6337280
+- **Merchant ID:** 150557
+- **Cashier ID:** VDLT
+

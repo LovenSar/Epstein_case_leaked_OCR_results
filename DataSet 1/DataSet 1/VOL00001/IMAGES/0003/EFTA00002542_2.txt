@@ -1,0 +1,37 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002542.pdf ts=2026-03-05T20:59:54 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an industrial-grade rack-mountable server lying upside down on a grey concrete floor. The chassis is a standard 2U form factor, constructed from stamped metal sheeting. The device is oriented with its front I/O panel facing the viewer and its main heat sink assembly facing upward towards the ceiling.
+
+**Front Panel (Bottom in orientation):**
+The front bezel features a series of hot-swap drive bays. Starting from the left:
+-   There are four hard drive slots stacked vertically. Each bay contains a black drive handle or cage with a square, red release latch on the right side.
+-   To the right of these bays is a slot occupied by an optical media drive.
+-   On the far right side of the bezel are peripheral connection ports, including a blue 15-pin VGA port for KVM access and a power button with status LEDs.
+-   Silver rack-mounting ears extend from both the left and right ends of the chassis.
+
+**Top Surface (Back/Fan Assembly):**
+Since the server is inverted, the top surface reveals the rear fan array and internal component covers.
+-   The metal sheeting shows signs of wear, including dust accumulation and distinct rust-colored stains, particularly in a circular area directly beneath the front drive bays.
+-   Faint dark marks are visible near the center, likely thermal paste residue or dried fluid marks from heat pipes.
+-   Several white and yellow adhesive labels are stuck to the surface, bearing barcodes and asset information text that is largely illegible due to resolution and angle.
+
+## Visible Text (verbatim)
+-   **Optical Drive Faceplate:** "DVD", "RW", "LightScribe"
+-   **Far Right Bezel:** "HP ProLiant DL360 G5" (Partially legible on the far right edge)
+-   **Top Left Sticker:** Contains standard barcode and text fields including "Serial Number", "Asset Tag", and "Model" (Text is too small to transcribe verbatim beyond headers).
+-   **Bottom Right Corner:** "EFTA00002542" (Image ID stamp)
+
+## Notable Details / Clues
+-   **Server Model Identification:** The combination of the specific bezel design, four drive bays plus an optical bay, and the text on the right edge identifies this as an HP ProLiant DL360 G5 server.
+-   **Red Latches:** The bright red release levers are a distinctive feature of HP Gen 5 servers (G5 series), designed for quick removal of hard drives without tools.
+-   **Rust Stains:** The rust-colored circle directly under the drive bays suggests that moisture may have pooled there previously, or perhaps a spill occurred near the edge of the chassis before it was wiped dry but not cleaned completely.
+-   **Dust and Grime:** The top surface is dusty, indicating the server has been stored in an environment with particulate matter for a significant period.
+-   **Cabling:** A black power cord or cable loop is visible trailing off to the left side of the image, disconnected from the unit.
+-   **Drive Slots:** The drive slots themselves appear empty (or covered by protective plastic), suggesting the drives have been removed.
+-   **VGA Port:** The blue VGA port indicates legacy connectivity options typical for server hardware of this era (mid-to-late 2000s).
+-   **LightScribe Technology:** The optical drive supports LightScribe, a feature allowing users to burn labels directly onto CD/DVD surfaces.
+-   **Rack Ears:** The mounting ears at the ends are missing their rubber isolation feet or they are obscured by the angle, but the threaded inserts are visible.
+

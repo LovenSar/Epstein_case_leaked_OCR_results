@@ -1,0 +1,93 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006383.pdf ts=2026-03-07T22:05:16 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Jane Doe # 7
+[REDACTED]
+## Structured Fields
+- Names: Jane Doe
+- Doc IDs: EFTA00006383
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```html
+<!DOCTYPE html>
+<html>
+<body>
+&lt;div&gt;&lt;b&gt;Top Left Slip&lt;/b&gt;&lt;br&gt;
+IMPORTANT MESSAGE&lt;br&gt;
+FOR [REDACTED]&lt;br&gt;
+DATE [REDACTED] TIME 10 A.M.&lt;br&gt;
+M [REDACTED]&lt;br&gt;
+OF [REDACTED]&lt;br&gt;
+PHONE/MOBILE [REDACTED]&lt;br&gt;
+
+TELEPHONED | PLEASE CALL ||
+CAME TO SEE YOU | WILL CALL AGAIN ||
+WANTS TO SEE YOU | RUSH ||
+RETURNED YOUR CALL | SPECIAL ATTENTION x &lt;/div&gt;
+
+&lt;div&gt;&lt;b&gt;Top Right Slip&lt;/b&gt;&lt;br&gt;
+IMPORTANT MESSAGE&lt;br&gt;
+FOR [REDACTED]&lt;br&gt;
+DATE 7/17/04 TIME 8.02 P.M.&lt;br&gt;
+M [REDACTED]&lt;br&gt;
+OF [REDACTED]&lt;br&gt;
+PHONE/MOBILE [REDACTED]&lt;br&gt;
+
+TELEPHONED | PLEASE CALL ||
+CAME TO SEE YOU | WILL CALL AGAIN ||
+WANTS TO SEE YOU | RUSH ||
+RETURNED YOUR CALL | SPECIAL ATTENTION ||&lt;br&gt;
+
+MESSAGE "I AM JET-LAG AND NODDING OFF. JUST SAY I CALLED HER."&lt;br&gt;
+SIGNED [REDACTED]&lt;/div&gt;
+
+&lt;div&gt;&lt;b&gt;Bottom Left Slip&lt;/b&gt;&lt;br&gt;
+IMPORTANT MESSAGE&lt;br&gt;
+FOR MR EPSTEIN&lt;br&gt;
+DATE 7/17/04 TIME 6:55 A.M. P.M.:&lt;br&gt;
+M [REDACTED]&lt;br&gt;
+OF [REDACTED]&lt;br&gt;
+PHONE/MOBILE [REDACTED]&lt;br&gt;
+
+TELEPHONED | PLEASE CALL ||
+CAME TO SEE YOU | WILL CALL AGAIN ||
+WANTS TO SEE YOU | RUSH ||
+RETURNED YOUR CALL | SPECIAL ATTENTION ||&lt;br&gt;
+
+MESSAGE ME &amp; [REDACTED] CAN COME TOMORROW ANY TIME OR [REDACTED] ALONE&lt;br&gt;
+SIGNED [REDACTED]&lt;/div&gt;
+
+&lt;div&gt;&lt;b&gt;Bottom Right Slip&lt;/b&gt;&lt;br&gt;
+IMPORTANT MESSAGE&lt;br&gt;
+FOR [REDACTED] OR MR EPSTEIN&lt;br&gt;
+DATE 07/17/04 TIME 6:45 A.M. P.M.:&lt;br&gt;
+M [REDACTED]&lt;br&gt;
+OF [REDACTED]&lt;br&gt;
+PHONE/MOBILE [REDACTED]&lt;br&gt;
+
+TELEPHONED | PLEASE CALL ||
+CAME TO SEE YOU | WILL CALL AGAIN ||
+WANTS TO SEE YOU | RUSH ||
+RETURNED YOUR CALL | SPECIAL ATTENTION ||&lt;br&gt;
+
+MESSAGE WAS IN A CAR ACCIDENT ON HER WAY. SO CAN NOT COME. SHE JUST GET BACK&lt;br&gt;
+SIGNED [REDACTED]&lt;/div&gt;
+
+&lt;b&gt;Marginalia/Notes (Left Side)&lt;/b&gt;
+Vertical strip with perforation holes and illegible text fragments including numbers like 16, D, O, P.
+
+&lt;b&gt;Document ID (Bottom Right)&lt;/b&gt;
+EFTA00006384
+&lt;/div&gt;
+
+## Structured Fields
+*   **Dates:** 7/17/04 (appears on three slips), 07/17/04 (appears on bottom right slip)
+*   **Names:** Mr. Epstein
+*   **Document ID:** EFTA00006384
+*   **Times:** 10 A.M., 8:02 P.M., 6:55 P.M., 6:45 P.M.
+</body>
+</html>
+```
+

@@ -1,0 +1,66 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003042.pdf ts=2026-03-06T00:34:28 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up photograph of a printed document titled "Emergency Contact Form" resting on a dark, textured surface. The form is affiliated with an entity named "LSJE, LLC," which lists a business address in St. Thomas, VI (US Virgin Islands). The document features several fillable fields where personal information has been entered by hand or has been redacted using digital black bars.
+
+The top section contains the company letterhead and contact info, though the phone number is obscured. Below this is the main title. The form itself is divided into grid-like sections.
+-   **Top Left:** "Today's Date" is filled in with handwritten ink as "2/14/19". To its right is an empty "Start Date" field.
+-   **Middle Section:** This area contains fields for "Employee Name," which is handwritten (appearing to start with "Sheridan"), and "Date of Birth," which is partially covered by a black box. The "Physical Address" and "E-mail" fields are entirely covered by wide black rectangular bars. "Mailing Address" is empty.
+-   **Right Side Middle:** There are redacted fields for "Phone (other)" and "Cell Phone," as well as empty boxes for "Marital Status" and "Driver's License No."
+-   **Medical Section:** Fields for "Allergies or Health Concerns" and "Current Medications" are empty. Below the allergies field is a row of checkboxes for "Blood type" (A-, A+, B-, etc.), all of which are unchecked. Two rows for "Doctor's Name" and "Doctor's Phone" are present but left blank.
+-   **Emergency Contact Section:** Located at the bottom, this section asks for emergency contacts. The first row has a redacted name field, but the relationship is handwritten as "wife." The phone number next to it is also redacted. A second contact row is below it but is empty.
+-   **Bottom:** A disclaimer sentence reads "This information is for your safety and the safety of others." There is a faint vertical strip of text visible on the far left edge, suggesting another document lies underneath or beside this page.
+
+## Visible Text (verbatim)
+**Header:**
+LSJE, LLC
+6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348
+Phone: [Black Box] E-mail: thesaintjames.group@gmail.com
+
+**Form Title:**
+Emergency Contact Form
+
+**Fields & Entries:**
+Today's Date: 2/14/19
+Start Date: [Blank]
+Employee Name: Sheridan S[illegible]
+Date of Birth: [Partially Redacted]
+Physical Address: [Redacted]
+Mailing Address: [Blank]
+Cell Phone: [Redacted]
+Phone (other): [Redacted]
+E-mail: [Redacted]
+Marital Status: [Blank]
+Title/Position: [Blank]
+Driver's License No: [Blank]
+Allergies or Health Concerns: [Blank]
+Blood type options listed: A-, A+, AB-, AB+, B-, B+, O-, O+, Unknown
+Current Medications: [Blank]
+Doctor’s Name: [Blank] / Doctor’s Phone: [Blank]
+Doctor’s Name: [Blank] / Doctor’s Phone: [Blank]
+
+**Emergency Contact Section:**
+In case of emergency, please contact:
+Name: [Redacted]
+Relationship: wife
+Phone: [Redacted]
+Name: [Blank]
+Relationship: [Blank]
+Phone: [Blank]
+
+**Footer:**
+This information is for your safety and the safety of others.
+EFTA00003042
+
+## Notable Details / Clues
+-   **Location Context:** The business address indicates a location in St. Thomas, VI, which places this form in the US Virgin Islands.
+-   **Date of Entry:** The form was completed on February 14th, 2019 (Valentine's Day).
+-   **Privacy/Redaction:** Significant portions of the data are blacked out, specifically physical addresses and phone numbers for both the employee and emergency contacts. This suggests the document may have been digitized or scanned with privacy in mind, or is part of a dataset where PII is being obscured.
+-   **Relationship:** The only clear handwritten entry besides the date and name is the emergency contact relationship, which is explicitly typed/written as "wife."
+-   **Incomplete Data:** Several fields are notably empty, including "Start Date," "Mailing Address," "Marital Status," "Title/Position," "Driver's License No," all medical fields (Allergies, Medications, Doctors), and the emergency contact name/phone for the second row.
+-   **Handwriting Style:** The handwriting for the name ("Sheridan...") and the relationship ("wife") is cursive. The date is written in a standard handwritten format.
+-   **Image Artifact:** On the far left margin, fragments of text like "erg," "od T," and "rrent" are visible vertically, indicating another document is partially underlaid or adjacent to this form.
+-   **Document ID:** A code "EFTA00003042" appears in the bottom right corner, likely a file tracking number or metadata added during processing.
+

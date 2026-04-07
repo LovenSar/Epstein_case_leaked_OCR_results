@@ -1,0 +1,88 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007556.pdf ts=2026-03-08T23:02:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Primary Object:** The central subject is a large, dark grey or black folder, likely made of heavy paper or cardstock with a cloth-like texture. It dominates the majority of the visual frame, appearing to be a standard legal-size file folder.
+*   **Label Placement:** Affixed to the upper-right quadrant of the dark folder is a white rectangular label or sticker that stands out in high contrast against the dark background.
+*   **Underlying Object:** Visible behind and slightly above the main dark folder is the edge of a light-colored, possibly white or off-white, manila-style folder. Only the top border and a sliver of the spine are visible.
+*   **Texture and Surface:** The surface of the dark folder exhibits a subtle, grainy texture rather than being perfectly smooth, suggesting a matte finish material common in archival files.
+*   **Corner Geometry:** The top-right corner of the dark folder is slightly rounded, while the bottom corners extend out of the frame.
+*   **Vertical Edge Detail:** Along the far right edge of the dark folder, there is a thin, distinct black vertical strip, which appears to be a marker on the file tab or the spine itself.
+*   **Lighting Conditions:** The lighting is diffuse and even, casting very soft shadows that suggest an indoor office environment without harsh directional light.
+*   **Image Framing:** The image is enclosed by a thin white border, characteristic of a scanned photograph or a printout from a document management system.
+*   **File Orientation:** The entire composition is tilted slightly clockwise relative to the viewer's perspective, giving it a casual, unposed appearance.
+*   **Digital Annotation:** In the bottom right corner, outside the main file object but inside the image border, there is a printed alphanumeric string serving as an accession or document ID.
+
+## Visible Text (verbatim)
+**On the Label:**
+1B1-23a
+
+**In Bottom Right Corner:**
+EFTA00007556
+
+## Notable Details / Clues
+*   **Filing Code Structure:** The text "1B1-23a" follows a logical hierarchical filing system. "1B1" likely designates a specific cabinet, drawer, or series, while "23a" indicates a sequence within that category, suggesting an organized but extensive archive.
+*   **Archival Context:** The ID number "EFTA00007556" strongly indicates this image is part of the Electronic Freedom of Information Act (FOIA) electronic document repository, likely from the National Archives or a similar government declassification office.
+*   **Empty Folder Face:** The front face of the dark folder contains no other writing, titles, or images; it acts solely as a cover for the documents inside, with the only identifier being the small label tab.
+*   **High Contrast Labeling:** The white label was likely applied to enhance readability in a filing system where the folders themselves are non-descript (dark grey/black), ensuring that location codes can be easily seen.
+*   **Monochrome Tone:** The image is presented in grayscale, which emphasizes the textural differences between the dark folder and the lighter paper behind it, removing color information that might have been present in the original physical scene.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up view of a clear plastic ziplock-style bag resting on a pale mint-green surface, likely a folder or manila envelope. Inside the bag, centered towards the right side, is a white paper receipt. To the left of the receipt, strong vertical reflections and glare are visible on the surface of the plastic bag, obscuring whatever item lies beneath that section of the bag. In the upper right corner of the green background, handwritten in black marker, is the alphanumeric code "IB1-23a". The top portion of the receipt's header logo is obscured by thick black rectangular bars redacting specific text or a barcode. The date on the receipt indicates July 23, 2005. The footer of the receipt contains specific policy warnings about returns and lingerie tags.
+
+## Visible Text (verbatim)
+**Handwritten Note (Top Right):**
+IB1-23a
+
+**Receipt Header:**
+ADULT VIDEO WAREHOUSE
+[Redacted]
+
+**Receipt Data Fields:**
+07/23/05
+Emp#: [Redacted]
+Inv#: 679654
+5:07:38 pm
+Store#: 11
+
+**Item List (All labeled NOVELTY):**
+NOVELTY ... 12.99
+NOVELTY ... 12.99
+NOVELTY ... 19.99
+NOVELTY ... 69.99
+NOVELTY ... 7.99
+NOVELTY ... 6.99
+NOVELTY ... 19.99
+NOVELTY ... 5.99
+NOVELTY ... 21.99
+NOVELTY ... 21.99
+
+**Receipt Totals:**
+Sub: 208.98
+Tax: 13.86
+Tot: 213.96
+
+**Payment Info:**
+Tendered: MasterCard/Visa ... 213.96
+
+**Receipt Footer:**
+NO NOVELTY RETURNS, NO REFUNDS.
+LINGERIE MUST HAVE TAGS ATTACHED.
+EFTA00007557 (Watermark in bottom right corner)
+
+## Notable Details / Clues
+- **Store Identity:** The header clearly reads "ADULT VIDEO WAREHOUSE," indicating the nature of the merchandise sold is adult-oriented.
+- **Redacted Information:** A significant portion of the top logo area and employee number is blacked out, suggesting this image was taken for sensitive or evidentiary purposes where privacy was being protected.
+- **Date Context:** The transaction occurred on July 23, 2005, making this a relatively old record (over 18 years ago).
+- **Inventory Coding:** The handwritten "IB1-23a" likely corresponds to an inventory tracking system, case file index, or evidence cataloging code.
+- **Item Uniformity:** Despite the total value being over $200, every single item on the list is generically labeled "NOVELTY," implying a lack of detailed item descriptors on the original POS receipt printout.
+- **High-Value Items:** Among the items, there are two higher-priced entries: one for $69.99 and two for $21.99, suggesting some specialized or larger items were purchased alongside smaller ones.
+- **Store Policy Warning:** The footer explicitly states "NO NOVELTY RETURNS, NO REFUNDS" and adds a requirement that "LINGERIE MUST HAVE TAGS ATTACHED," which is standard retail policy but notable here given the store's nature.
+- **Payment Method:** The tender was a credit or debit card (MasterCard/Visa).
+- **Reflections:** The glare on the left side of the bag suggests an overhead fluorescent light source or a window nearby, creating a distorted vertical reflection pattern on the plastic.
+- **Background Material:** The mint-green background appears to be a standard file folder or paper document used to hold the bag open for photography.
+- **Watermark:** An alphanumeric string "EFTA00007557" is visible in the bottom right corner, likely an archival or case reference number added during digitization.
+

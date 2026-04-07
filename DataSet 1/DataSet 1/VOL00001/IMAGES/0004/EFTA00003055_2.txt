@@ -1,0 +1,50 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003055.pdf ts=2026-03-06T00:40:45 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-angle shot of an "Emergency Contact Form" inserted into a clear plastic sheet protector within a three-ring binder. The binder rings are visible on the left edge, piercing through punch holes in the paper. The background surrounding the binder appears to be a rough, grey concrete or stone surface with scattered small debris. A significant glare and reflection is visible across the center-left portion of the document, slightly obscuring the text under "Emergency Information" and "Title / Position." The form is from a company identified as "LSJE, LLC" located in St. Thomas, VI. Several sensitive fields have been redacted with solid black bars.
+
+## Visible Text (verbatim)
+*   **Header:**
+    *   "LSJE, LLC"
+    *   "6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: [REDACTED] Fax: [REDACTED]"
+*   **Title:**
+    *   "Emergency Contact Form"
+*   **Top Section:**
+    *   "Date: 03/19/18"
+    *   "Start Date: ___________________" (Blank)
+    *   "Employee Name: Hilian Bedminster"
+    *   "Address: [REDACTED] SNQ14D"
+    *   "Date of Birth: [REDACTED]"
+    *   "Phone: [REDACTED]"
+    *   "Cell: [REDACTED]"
+    *   "E-Mail: ___________________" (Blank)
+*   **Middle Section:**
+    *   "Title / Position: Painting..." (Text partially obscured by glare/reflection)
+    *   "Marital Status: Single"
+    *   "License: [REDACTED]"
+*   **Emergency Information Section:**
+    *   "Emergency Information:"
+    *   "Allergies or Health Concerns: ___________________" (Blank)
+    *   "Blood Type: [REDACTED]"
+    *   "Current Medication: ___________________" (Blank area)
+    *   "Doctor's Name: ___________________" (Blank) | "Phone: ___________________" (Blank)
+    *   "Doctor's Name: ___________________" (Blank) | "Phone: ___________________" (Blank)
+*   **Contact Section:**
+    *   "In case of an Emergency, Please contact :"
+    *   Row 1: "Name [REDACTED] Relationship Mother Phone [REDACTED]"
+    *   Row 2: "Name Ann Relationship Anty Phone [REDACTED]" (Note: "Anty" is likely a misspelling of Aunt)
+*   **Footer:**
+    *   "This Information is for your safety and the safety of others"
+    *   Bottom Right ID: "EFTA00003055"
+
+## Notable Details / Clues
+*   **Location Context:** The address "St. Thomas, VI 00802" indicates the document belongs to a business located in the U.S. Virgin Islands.
+*   **Employee Identity:** The employee name "Hilian Bedminster" is fully legible and distinct from the redacted fields.
+*   **Redaction Pattern:** Privacy is handled by using solid black rectangular blocks for phone numbers, addresses (except the suffix), dates of birth, blood types, license numbers, and names of emergency contacts (except "Ann").
+*   **Document Condition:** The form shows signs of being in use or storage, evidenced by the clear plastic sleeve glare and the visible binder hardware.
+*   **Glare Interference:** A strong specular highlight covers parts of the form, making the text for "Current Medication" and parts of the "Doctor's Name" fields difficult to read clearly, though the field labels are distinct.
+*   **Relationship Field:** The relationship listed as "Anty" is a likely typographical error for "Aunt," providing a clue about the handwriting or printing style (possibly OCR conversion or manual entry quirks).
+*   **Date Discrepancy:** The form is dated "03/19/18", but no "Start Date" is filled in, suggesting this might be an initial intake form.
+

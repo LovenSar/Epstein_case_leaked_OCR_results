@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008481.pdf ts=2026-03-09T07:24:24 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up of an official document, specifically a Federal Bureau of Investigation (FBI) field photograph identification card (Form FD-674). The document is printed on standard white paper with black ink for both printing and handwriting. In the top right corner is the circular official seal of the FBI. The form features printed labels in bold, sans-serif typeface on the left side ("DATE", "CASE ID", "PHOTOGRAPHER", "LOCATION") corresponding to fields intended for data entry.
+
+The majority of the document has been filled out with handwritten entries in black ballpoint or mechanical pencil. A large, solid black rectangular redaction box obscures the content of the "PHOTOGRAPHER" field and extends over part of the "LOCATION" field. Despite this, several lines of alphanumeric codes and an address are visible below the date and case ID sections. The handwriting varies in style, with some characters appearing as block letters and others in cursive script (particularly in the address).
+
+The top left corner contains a printed form identifier and revision date. The date written at the top is notably from the future relative to standard current dates. Below the date field, two distinct lines of alphanumeric strings are present. The case ID line below that contains one alphanumeric string. The location section uses multiple ruled lines to fit the full address, including what appears to be a division or office code at the very top of that section.
+
+## Visible Text (verbatim)
+- **Top Left Corner:** FD-674 (Rev. 5-10-2013)
+- **Seal Text:** DEPARTMENT OF JUSTICE, FEDERAL BUREAU OF INVESTIGATION, FBI
+- **Date Field:** 3, 11, 2025
+- **Sub-text under Date:** 90C-NY-31554599 | 31E-MM-108062
+- **Case ID Label/Field:** CASE ID [Label] / 50D-NY 3027571 [Text]
+- **Photographer Field:** [Redacted by Black Box]
+- **Location Field (Line 1):** IMD
+- **Location Field (Line 2):** 200 Constitution Drive
+- **Location Field (Line 3):** Winchester, VA
+- **Bottom Right Corner:** EFTA00008481
+
+## Notable Details / Clues
+- **Anomalous Date:** The date "3, 11, 2025" suggests the document was created in or for the future, indicating this is either a prediction, a mistake, or a template from a future timeline context (though visually it looks like a standard fill-out).
+- **Redaction:** The entire photographer's name has been deliberately blacked out, hiding the identity of the agent who took the photo.
+- **Address Layout:** The address is split across three lines. The top line under "LOCATION" contains "IMD", which might be an abbreviation for a division (e.g., Intelligence Management Division) or initials, rather than part of the street address itself.
+- **Form Revision Mismatch:** The form header indicates it is revision 5 dated "5-10-2013," while the seal and document style appear consistent with modern FBI forms.
+- **Location Discrepancy:** While "Constitution Drive" is a common street name, specifically associated with the FBI headquarters (200 Constitution Ave), the city listed "Winchester, VA" creates a geographical confusion, as the FBI HQ is in Washington D.C., not Winchester, Virginia.
+- **Alphanumeric Codes:** The codes under the date (e.g., "90C-NY...") likely represent internal asset tracking numbers, camera sequence IDs, or specific office identifiers ("NY" often denotes New York, though "MM" and "E" appear elsewhere).
+- **Document ID:** The code "EFTA00008481" in the bottom right corner is likely an evidence or file transfer number used for tracking the document within a specific database system.
+

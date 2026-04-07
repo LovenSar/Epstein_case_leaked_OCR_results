@@ -1,0 +1,79 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00011414.pdf ts=2026-03-10T12:02:40 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, likely a page from an official record or a printed email chain, featuring three distinct blocks of communication stacked vertically. The entire page is white with black text, except for blue font used in signatures and hyperlinks. Significant portions of personal information (names, addresses, full email addresses) are obscured by thick black rectangular redaction bars.
+
+At the top of the document, a header block is partially visible. The "From," "To," and "Cc" fields are entirely blacked out. The subject line reads "RE: [EXTERNAL EMAIL] - Images from Epstein devices." The date stamp indicates Wednesday, October 14, 2020. Below this, the body of the first email contains a closing sentiment ("Amazing, thank you so much...") and a signature block identifying the sender as an "Assistant United States Attorney" for the Southern District of New York.
+
+The middle section features a second email block. The header shows the message was sent on Tuesday, October 13, 2020, at 11:21 PM. The subject line matches the top block exactly. The body text explains that the sender worked through the weekend and is currently processing forensic devices ("done with all but 5 or 6 machines"), promising delivery of data the following afternoon. The signature identifies the sender as a "NY CART Coordinator" and "Senior Forensic Examiner."
+
+The bottom section contains the original email that prompted the previous messages. It is timestamped October 13, 2020, at 11:18 PM. The text asks for an estimated timeline regarding when the recipient's office will begin receiving images from "all of the Epstein devices from the New York and Virgin Island searches." This document is marked with a footer ID code "EFTA0011414".
+
+## Visible Text (verbatim)
+**Header Block 1:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: [EXTERNAL EMAIL] - Images from Epstein devices
+Date: Wed, 14 Oct 2020 03:26:51 +0000
+
+**Body Block 1:**
+Amazing, thank you so much, [Redacted] Very, very grateful for the extraordinary effort.
+Best,
+[Redacted]
+Assistant United States Attorney
+Southern District of New York
+[Redacted]
+New York, NY 10007
+[Large Redacted Bar]
+
+**Header Block 2:**
+From: [Redacted]
+Sent: Tuesday, October 13, 2020 11:21 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: [EXTERNAL EMAIL] - Images from Epstein devices
+
+**Body Block 2:**
+Hey [Redacted]
+I was in the office all weekend. I am done with all but 5 or 6 machines. I will be able to get you what I have tomorrow afternoon and the remaining as I get them.
+[Redacted Bar]
+NY CART Coordinator
+Senior Forensic Examiner
+[Redacted Bar]
+
+**Quoted Block:**
+On Oct 13, 2020 11:18 PM, [Redacted] wrote:
+Hi [Redacted],
+Hope you enjoyed the long weekend. I’m checking in to see whether you have a sense of when our office might begin receiving copies of the images from all of the Epstein devices from the New York and Virgin Island searches. Any sense of timing would be much appreciated.
+Thanks very much,
+[Redacted]
+
+**Footer:**
+EFTA0011414
+
+## Notable Details / Clues
+*   **Subject Line Consistency:** The subject line "[EXTERNAL EMAIL] - Images from Epstein devices" appears twice, linking the correspondence directly to the investigation of Jeffrey Epstein's digital devices.
+*   **Redaction Extent:** The redactions are systematic and heavy, covering names and contact information but leaving job titles and location stamps (NY CART Coordinator) visible, which suggests this document is a government or law enforcement record where identity protection is prioritized over operational context.
+*   **Work Timeline:** The timestamps show a continuous workflow from late Tuesday night (Oct 13) through Wednesday morning (Oct 14). The second email was sent late at night, and the first reply was sent early in the morning, indicating high-priority processing.
+*   **Forensic Context:** The phrase "done with all but 5 or 6 machines" implies a volume of hardware being extracted, consistent with the recovery of multiple cell phones and laptops from Epstein's residences.
+*   **External Email Tag:** The subject line explicitly flags "[EXTERNAL EMAIL]," which in corporate/government environments often implies a message coming from an outside domain that requires scrutiny or is not part of standard internal comms channels.
+*   **Jurisdiction:** The involvement of the "Southern District of New York" and mentions of searches in both "New York and Virgin Island" places the case firmly within the US Attorney's office for that specific district.
+*   **CART Coordinator:** The title "NY CART Coordinator" likely stands for Computer-Assisted Review or Case Analysis/Review Team, pointing to legal discovery teams working with law enforcement.
+*   **Document ID:** The code "EFTA0011414" in the bottom right corner is a standard Federal Records System (FRS) identification number used by US government agencies (like DOJ or FBI) to catalog documents for public release or litigation.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Assistant United States Attorney
+Southern District of New York
+[REDACTED]
+New York, NY 10007
+[REDACTED]
+
+## Structured Fields
+- **Location:** New York, NY 10007
+- **Organization:** Assistant United States Attorney, Southern District of New York
+- **Doc ID:** EFTA00011415 (Footer)
+

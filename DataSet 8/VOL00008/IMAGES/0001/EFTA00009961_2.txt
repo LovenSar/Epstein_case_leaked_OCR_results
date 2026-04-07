@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00009961.pdf ts=2026-03-09T22:56:39 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED]"
+To: [REDACTED]
+[REDACTED]
+[REDACTED]
+Cc: "[REDACTED]"
+Subject: [REDACTED] 302
+Date: Fri, 30 Aug 2019 16:51:39 +0000
+Attachments: [REDACTED].pdf
+
+---
+Finalized 302 for [REDACTED]
+[REDACTED]
+Special Agent
+FBI New York Field Office
+Violent Crimes Task Force
+[REDACTED]
+[REDACTED]
+
+## Structured Fields
+*   **Date:** Fri, 30 Aug 2019 16:51:39 +0000
+*   **Subject (Partial):** 302
+*   **Organization:** FBI New York Field Office, Violent Crimes Task Force
+*   **Role/Title:** Special Agent
+*   **Attachment Extension:** .pdf
+*   **Document ID (Footer):** EFTA00009961
+

@@ -1,0 +1,82 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032483.pdf ts=2026-03-19T17:31:49 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+<style> #repeatFields,#reminderFields,#linkFields,#copyFields { display:block!important }
+#tzFields,#permFields,#styleFields,#catFields,#elistFields,#conflictFields,#notifyFields,#reminderFields,#editorFields,#displayFields,#csFields,#obgFields,#obFields,
+#otherFields { display:block!important }< /style>
+Close X
+
+# Argument Calendar, Courtroom 1703
+Date: Tuesday, October 13, 2020
+Time: 2:00pm
+
+Venue
+Courtroom 1703
+Thurgood Marshall US Courthouse
+40 Foley Square
+New York, NY 10007
+
+Tuesday, October 13, 2020, 2:00pm
+
+Panel: Cabranes, Pooler, Raggi, C.JJ.
+
+
+Docket number Case name Time allotted
+20-2413-cv [REDACTED] ] (12)
+ v. Ghislaine Maxwell ] (12)
+ Julie Brown, Miami Hearld Co., et al
+20-3061-cv United States of America ( )
+ v. Ghislaine Maxwell ( )
+
+] Time to be shared.
+```
+
+## Structured Fields
+*   **Date:** Tuesday, October 13, 2020
+*   **Time:** 2:00pm
+*   **Location:** Thurgood Marshall US Courthouse, 40 Foley Square, New York, NY 10007, Courtroom 1703
+*   **Panel Judges:** Cabranes, Pooler, Raggi, C.JJ.
+*   **Docket Number 1:** 20-2413-cv
+*   **Case Name 1 (Plaintiff):** [REDACTED] v. Ghislaine Maxwell; Julie Brown, Miami Hearld Co., et al
+*   **Time Allotted 1:** (12) minutes
+*   **Docket Number 2:** 20-3061-cv
+*   **Case Name 2:** United States of America v. Ghislaine Maxwell
+*   **Time Allotted 2:** Unspecified (shown as empty parentheses)
+*   **Document ID:** EFTA00032483
+</think>
+
+<style> #repeatFields,#reminderFields,#linkFields,#copyFields { display:block!important }
+#tzFields,#permFields,#styleFields,#catFields,#elistFields,#conflictFields,#notifyFields,#reminderFields,#editorFields,#displayFields,#csFields,#obgFields,#obFields,
+#otherFields { display:block!important }< /style>
+
+Close X
+
+**Argument Calendar, Courtroom 1703**
+
+Date: Tuesday, October 13, 2020
+Time: 2:00pm
+
+**Venue**
+Courtroom 1703
+Thurgood Marshall US Courthouse
+40 Foley Square
+New York, NY 10007
+
+Tuesday, October 13, 2020, 2:00pm
+
+Panel: Cabranes, Pooler, Raggi, C.JJ.
+
+
+**Docket number** | **Case name** | **Time allotted**
+--- | --- | ---
+20-2413-cv | [REDACTED] ] | (12)
+| v. Ghislaine Maxwell ] |
+| Julie Brown, Miami Hearld Co., et al | (12)
+20-3061-cv | United States of America | ( )
+| v. Ghislaine Maxwell | ( )
+| | ] Time to be shared. |
+
+**EFTA00032483**
+

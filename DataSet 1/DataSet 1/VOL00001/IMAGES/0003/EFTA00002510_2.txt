@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002510.pdf ts=2026-03-05T20:39:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a close-up, slightly high-angle shot of the side panel of an industrial server chassis. The primary object is a large sheet of light grey metal with a matte, speckled texture, typical of painted steel or aluminum used in hardware manufacturing. A white rectangular sticker is adhered to the surface, positioned slightly left of the center. To the left of the main panel, a darker, out-of-focus grey surface suggests the adjacent chassis or interior of the server rack. Several dark circular holes are visible on the metal: one near the top edge, one immediately to the left of the sticker, and two clustered near the bottom edge near a mounting bracket. The metal surface shows signs of wear, including faint scratches and small marks, particularly to the right of the label. In the bottom left corner, a portion of a darker metallic component, possibly a drive bay or bracket, is visible. A watermark number appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**iLO Default Network Settings**
+**Serial Number:MXQ3220187**
+[Barcode]
+**User Name: Administrator**
+**DNS Name: ILOMXQ3220187.**
+[Barcode]
+**Password:SGSBRD6N**
+[Barcode]
+
+## Notable Details / Clues
+*   **Hardware Identification:** The text "iLO" identifies the hardware as an HPE (Hewlett Packard Enterprise) server component, specifically referencing their Integrated Lights-Out management port.
+*   **Security Implication:** The sticker displays default credentials. The username is explicitly listed as "Administrator," and a default alphanumeric password ("SGSBRD6N") is visible, indicating that if the device has not been reconfigured, it is accessible via these default settings.
+*   **Unique Identifier:** The Serial Number (MXQ3220187) is identical to the DNS Name listed on the label, creating a unique network identifier for this specific unit.
+*   **Barcoding:** Each text field containing critical information (Serial Number, User Name area, DNS Name, Password area) is accompanied by a corresponding barcode beneath it, likely for inventory tracking or quick scanning of credentials via mobile devices.
+*   **Mounting Points:** The holes visible on the panel indicate standard screw-hole patterns for securing internal components (like drives or fan cages) or for mounting external brackets.
+*   **Watermark:** The text "EFTA00002510" in the bottom right corner suggests this image is part of a dataset, stock archive, or specific collection cataloged by that ID.
+*   **Physical Condition:** The presence of scuffs and slight discoloration on the metal panel implies the equipment has been in use or transported prior to being photographed.
+*   **Label Orientation:** The label is printed with text running vertically relative to the camera frame, but the text orientation is upright for a viewer looking at the side of the box.
+*   **Missing Text Elements:** While there are barcodes, the specific numbers encoded within the bars themselves are not legible as text; only the visual pattern of the bars is visible.
+*   **Panel Edge:** The right edge of the image cuts off cleanly against the grey metal, suggesting the camera was positioned at a distance or zoomed in to focus on the sticker.
+*   **Bottom Corner Detail:** Near the bottom center, faint "L" shaped markings are stamped into the metal, likely alignment guides for screw placement used during manufacturing.
+

@@ -1,0 +1,57 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030959.pdf ts=2026-03-19T00:43:03 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+https://csamdoj.iscm.doj.gov/IAMDOJSA/CardholdersApplicationsSearch/CardholdersApplications?cardholderId=74971&accountAppId=0
+Search...
+
+iamDOJ Search & Reporting
+File  Edit  View  Favorites  Tools  Help
+Perspecta Assured Identity    DOJ internal White Pages    DOJ Net    DOJ Portal    Enterprise Apps    For Employees    Forms    IPTV    Learn DOJ    WebTA    cert1    CSAM    remedy    Travel
+**iamDOJ Search & Reporting**  [Search]  [Reports]  IamDOJ  CSAM Portal
+Account Details
+USAccess
+
+| **General** | **Current PIV Card** |
+| :--- | :--- |
+| Last Name: THOMAS | Issuance ID: 3 |
+| First Name: MICHAEL | Serial: [REDACTED] |
+| Middle Initial: A | CHUID Expires: 7/10/2024 12:00:00 AM |
+| Type: Employee | CHUID Status: Activated |
+| Component: Bureau of Prisoners/Federal Prison System | FASC-N: [REDACTED] |
+| Status: Active | UPN: [REDACTED] |
+| DOB: [REDACTED] | PIV Auth Certificate Expires: 7/17/2022 2:33:47 PM |
+| SSN: [REDACTED] | Digital Signature Certificate Expires: 7/17/2022 2:33:47 PM |
+| Gender: Male | Certs Expire: 7/17/2022 2:33:47 PM |
+| Race: Black or African American | First Issued: 3/11/2015 12:56:29 PM |
+| Eye Color: Brown | Card Certs: 15 |
+| Hair Color: Black | PIVAuth Cert UPN: [REDACTED] |
+| Height: 66 | |
+| Weight: 172 | **Sponsorship** |
+| Business Email: [REDACTED] | Status: Sponsored |
+| Employer: | Last Update: 7/10/2019 11:08:35 AM |
+| USAccess Role: [] | Person ID: [REDACTED] |
+| | Sponsor Organizational Identifier: Bureau of Prisoners/Federal Prison System |
+| | Current Sponsor: [REDACTED] |
+| | Credential Option: PIV credential to be issued |
+| | Shipping Address Code: 10517 |
+| | Shipping Address Name: DOJ - 150 PARK ROW |
+| | UPN: [REDACTED] |
+| | Original Sponsorship Date: 9/4/2014 12:00:00 AM |
+
+## Structured Fields
+*   **Name:** THOMAS, MICHAEL A.
+*   **Role:** Employee
+*   **Component/Organization:** Bureau of Prisoners/Federal Prison System (BOP)
+*   **Status:** Active / Sponsored
+*   **Race/Ethnicity:** Black or African American
+*   **Physical Attributes:** Male, Brown Eyes, Black Hair, 6'0", 172 lbs.
+*   **CHUID Expiration:** 7/10/2024
+*   **Certificate Expiration:** 7/17/2022
+*   **PIV Card Issued:** 3/11/2015
+*   **Shipping Address Code:** 10517
+*   **Sponsorship Status:** Sponsored
+*   **Credential Option:** PIV credential to be issued
+*   **System ID/EFTA:** EFTA00030959
+*   **Date Captured:** 8/14/2019
+

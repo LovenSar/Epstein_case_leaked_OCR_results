@@ -1,0 +1,185 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731618.pdf ts=2026-03-06T17:23:49 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email thread, likely from a webmail client or mobile application interface, featuring a vertical scrolling layout. The document background is white with standard black sans-serif text. Several distinct sections of text are interspersed between solid black rectangular redaction bars that obscure sender names and potentially sensitive details. The header at the top indicates this is a reply ("RE:") to a subject line concerning a "Spinoff interview from Maxwell," dated Wednesday, August 18, 2021. The conversation appears to be a professional or investigative correspondence discussing the timing of interviews with victims, specifically referencing the Jeffrey Epstein case context. The final email in the thread proposes delaying interviews until after a trial to coordinate with other victims involved in FBI investigations. A document control number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+From: [REDACTED]
+To: [REDACTED]
+Subject: RE: Spinoff interview from Maxwell
+Date: Wednesday, August 18, 2021 12:59:51 PM
+
+Me too
+
+[REDACTED BLOCK]
+Subject: RE: Spinoff interview from Maxwell
+
+Ok with me.
+
+[REDACTED BLOCK]
+Subject: Re: Spinoff interview from Maxwell
+
+I’d like to do that so it doesn’t seem like we are just rebuffing the victim.
+
+[REDACTED BLOCK]
+
+Ok with me. Will you tell the lawyer that we want to interview her but the timing would be closer to the end of the year?
+
+[REDACTED BLOCK]
+Subject: RE: Spinoff interview from Maxwell
+
+Following up:
+
+[REDACTED INITIALS/BLOCK] prefers we wait until after the trial to interview this new victim, at which point we could also talk to the two victims from the Epstein investigation who were assaulted by Black and discussed it during their initial FBI interviews. Assuming we wouldn’t have issues securing an interview in a few months, that plan is ok with me. Do you see any issue with that?
+
+Thanks,
+
+EFTA02731618
+
+## Notable Details / Clues
+-   **Redaction Strategy:** Extensive use of black bars to hide names and potentially identifying information (headers, sender names), suggesting this document is being handled with privacy or legal sensitivity in mind.
+-   **Subject Line Consistency:** The subject line "RE: Spinoff interview from Maxwell" remains consistent throughout the thread, indicating a singular topic focus on Ghislaine Maxwell's interview process.
+-   **Date Context:** The email is timestamped August 18, 2021, placing the correspondence in a specific period of the long-running investigation and potential proceedings involving Ghislaine Maxwell.
+-   **Specific Terminology:** The text mentions "assaulted by Black" and "Epstein investigation," linking the correspondence to high-profile legal matters involving Jeffrey Epstein and his associates.
+-   **Timing Strategy:** The correspondents are debating scheduling, specifically preferring to delay an interview until "after the trial" or "closer to the end of the year."
+-   **Legal Coordination:** Mentions of telling "the lawyer" indicates collaboration between investigators (possibly law enforcement) and legal counsel.
+-   **Victim Count:** The text references a "new victim," a specific individual being interviewed, and "two victims from the Epstein investigation."
+-   **FBI Involvement:** A reference is made to victims discussing events during their "initial FBI interviews," confirming government involvement in the investigation.
+-   **Document ID:** The alphanumeric string "EFTA02731618" in the footer likely serves as a case file or document control number for internal tracking.
+-   **Tone:** The tone is polite and cooperative ("Ok with me," "Following up," "Thanks"), typical of professional government or legal correspondence.
+-   **Reasoning for Delay:** One correspondent explicitly states the desire to wait to avoid the appearance of "rebuffing the victim."
+-   **Interface Elements:** Faint horizontal grey lines separate the email messages, characteristic of standard email client threading visual design.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread or digital messaging interface featuring a white background and black sans-serif text. The conversation is heavily redacted using solid black rectangular bars that obscure sender names, timestamps, and specific message content. The layout is vertical, with distinct blocks of visible text separated by these redaction areas.
+
+-   At the very top left, there is a small, isolated black rectangle.
+-   Immediately below this, a wide, horizontal black bar spans most of the width of the screen, obscuring what appears to be an image attachment or a header section.
+-   Below the first redaction block, the text "Subject: RE: Spinoff interview from Maxwell" is visible in bold, followed by the message body: "You can call our cells – we’re both remote today, thanks!"
+-   Further down, another wide black bar obscures content. Beneath it, the subject line repeats as "Subject: RE: Spinoff interview from Maxwell".
+-   The text below this section reads: "I am in the office today so let me know whether to call cell or office (or I can come by if either of you are here). Talk soon."
+-   A third black bar appears, shorter and positioned towards the left-center.
+-   Below this is the subject line "Subject: Re: Spinoff interview from Maxwell" followed by the text: "I have a 9:30, but could do 10."
+-   A fourth, slightly wider black bar is visible below that section.
+-   The text beneath reads: "Sorry, any chance we can move this up to 10 (or 9:30)?"
+-   Another black bar follows, similar in width to the previous wide ones.
+-   Below it, the subject line reads: "Subject: Re: Spinoff interview from Maxwell".
+-   The final visible message body states: "Great, can we plan for 10:30?"
+-   At the very bottom, a short black bar is present with a small chevron arrow pointing up and to the left at its left edge.
+-   In the bottom right corner, an alphanumeric identifier "EFTA02731619" is printed in a smaller font.
+
+## Visible Text (verbatim)
+Subject: RE: Spinoff interview from Maxwell
+You can call our cells – we’re both remote today, thanks!
+
+Subject: RE: Spinoff interview from Maxwell
+I am in the office today so let me know whether to call cell or office (or I can come by if either of you are here). Talk soon.
+
+Subject: Re: Spinoff interview from Maxwell
+I have a 9:30, but could do 10.
+
+Sorry, any chance we can move this up to 10 (or 9:30)?
+
+Subject: Re: Spinoff interview from Maxwell
+Great, can we plan for 10:30?
+
+EFTA02731619
+
+## Notable Details / Clues
+-   **Context:** The text indicates a scheduling negotiation regarding an "interview from Maxwell."
+-   **Communication Method:** The participants discuss being "remote" versus being "in the office," indicating a hybrid work environment. They mention calling "cells" (mobile phones).
+-   **Subject Line Variations:** The subject line shifts slightly from "RE:" (standard Reply All) to "Re:" in later emails, potentially indicating different threads or slight formatting differences.
+-   **Time Negotiation:** The conversation revolves around settling on a specific meeting time, shifting between 9:30, 10:00, and finally agreeing on 10:30.
+-   **Redaction Pattern:** The redaction bars are distinct widths; some span the full width (likely hiding images or signatures), while others are shorter, suggesting they might be hiding specific metadata fields or shorter blocks of text like timestamps.
+-   **Interface Artifacts:** The small arrow icon at the bottom of the last black bar suggests this is a screenshot taken from a threaded email view where one can collapse or expand messages.
+-   **Identifier:** The code "EFTA02731619" in the footer looks like a Bates number or a case file identifier, suggesting this document may be part of a legal discovery process or official record-keeping system.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical screenshot of an email conversation thread, likely from a standard web-based email interface or a document viewer. The layout consists of a series of alternating blocks of blacked-out header information (likely sender names, dates, and times) and visible text content. Several solid black rectangles obscure the "From" fields and portions of the body text throughout the chain. The conversation appears to be between at least two parties, discussing scheduling an interview regarding the "Spinoff interview from Maxwell." The text discusses coordination with an attorney representing a victim. The bottom right corner contains a document identification code, suggesting this image is part of a larger evidentiary file or investigation document. The lighting is uniform and flat, typical of a screen capture.
+
+## Visible Text (verbatim)
+- **Before 11 or after 3 works for me**
+- **[Black Redacted Box]**
+- **Subject: RE: Spinoff interview from Maxwell**
+- **Sure- tomorrow before 11 or after 2 works for me.**
+- **[Black Redacted Box]**
+- **Subject: RE: Spinoff interview from Maxwell**
+- **I spoke with the attorney today. I think it would be worth a short conversation with you both. I would be open to interviewing her.**
+- **[Black Redacted Box]**
+- **Subject: RE: Spinoff interview from Maxwell**
+- **Got it, thanks very much.**
+- **[Black Redacted Box]**
+- **Subject: RE: Spinoff interview from Maxwell**
+- **[Small Black Redacted Box]**
+- **I received an email last week from the attorney representing [Redacted] (the victim I met with in May per the below). She is now representing a second victim who reported being sexually assaulted by Black in a similar manner at Epstein’s Manhattan townhouse in 2001. This victim now lives in**
+- **EFTA02731620**
+
+## Notable Details / Clues
+- **Email Subject Line:** The subject line "RE: Spinoff interview from Maxwell" is consistent across all visible emails, indicating a direct reply thread to an initial request about Jeffrey Epstein’s associate Ghislaine Maxwell.
+- **Scheduling Conflict Resolution:** The conversation at the top shows negotiations over time slots ("Before 11 or after 3", then changed to "before 11 or after 2").
+- **Legal Representation:** Multiple emails reference an "attorney" and discussions about interviewing a victim, implying a legal defense strategy is being formed.
+- **Specific Names/Entities:** The text explicitly names "Maxwell," "Black" (likely Jeffrey Epstein), and "Epstein’s Manhattan townhouse."
+- **Victim Identification:** The final email mentions a victim met in "May" and a "second victim" who reported an assault in 2001. The name of the first victim is redacted with a black bar.
+- **Investigative Context:** The document ID code "EFTA02731620" at the bottom right suggests this is part of a formal investigation file (likely FBI or law enforcement based on the format).
+- **Redaction Pattern:** The redactions are uniform and opaque, intended to hide sensitive identities while allowing the context of the emails to remain legible.
+- **Chronology:** The text implies a sequence: scheduling an interview -> attorney consultation -> agreement ("Got it") -> receipt of new info about representation changes.
+- **Grammar/Style:** The writing is functional and direct, typical of professional or investigative correspondence (e.g., "works for me," "Got it").
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED] I am planning to speak to the attorney tomorrow to get better background before discussing with you, but I wanted to let you know that she reached out.
+
+Thanks,
+[REDACTED]
+
+[REDACTED]
+Subject: RE: Spinoff interview from Maxwell
+
+Great, thank you for the update.
+
+[REDACTED]
+Subject: RE: Spinoff interview from Maxwell
+[REDACTED]
+Just following up on this. It took a bit to sort out with [REDACTED] and the victim’s attorney, but the interview is tentatively scheduled for next Tuesday, 5/18. I will keep you posted.
+
+Thanks,
+[REDACTED]
+
+[REDACTED]
+Subject: Spinoff interview from Maxwell
+Hi [REDACTED],
+
+EFTA02731621
+
+## Structured Fields
+- **Date:** 5/18 (mentioned as "next Tuesday")
+- **Doc ID:** EFTA02731621
+- **Names/Organizations:** Maxwell, victim’s attorney
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+We'd like to ask you to interview a witness that would be a spin-off from the Maxwell case, in order to decide whether we should open an investigation. [REDACTED] can fill you in on the details, and [REDACTED] will be the agent who sits in on the interview. Please let us know if you have any questions or would like to discuss.
+
+Thanks very much!
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+U.S. Attorney's Office
+Southern District of New York
+[REDACTED]
+[REDACTED]
+
+EFTA02731622
+
+## Structured Fields
+- **Organization:** U.S. Attorney's Office, Southern District of New York
+- **Case Reference:** Maxwell case
+- **Document ID:** EFTA02731622
+

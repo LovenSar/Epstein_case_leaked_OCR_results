@@ -1,0 +1,225 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00009802.pdf ts=2026-03-09T21:15:28 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED]" <[REDACTED]>
+To: "[REDACTED] (USANYS)" <[REDACTED>,"[REDACTED] (USANYS)"
+Cc: "[REDACTED])" <[REDACTED>,"[REDACTED])"
+Subject: FW: Epstein search warrant documents
+Date: Mon, 09 Mar 2020 16:01:54 +0000
+
+Notwithstanding their many promises to us about quick and effective processing of the 60+ devices they seized, the FBI is completely fucking us on this.
+
+From: [REDACTED]
+Sent: Monday, March 09, 2020 12:00
+To: [REDACTED]' <[REDACTED>; [REDACTED] (USANYS) <[REDACTED>; [REDACTED]
+[REDACTED]; [REDACTED] (USANYS) <[REDACTED>
+Cc: [REDACTED]>; [REDACTED) <[REDACTED>;
+[REDACTED] <[REDACTED>; [REDACTED) <[REDACTED>; [REDACTED]
+[REDACTED] <[REDACTED>
+Subject: RE: Epstein search warrant documents
+
+[REDACTED],
+
+Unfortunately I don’t think this is very helpful to us. Did you take a look at the example spreadsheet I sent on 2/24? The excel file you sent has descriptions that don’t match up to the items listed in the search warrant returns (that we sent on 2/23), and we don’t have the 1B or CART numbers to be able to cross-reference. We also can’t tell what you mean by “loose media” without a specific comparison to what was seized, we don’t know which items you’re referring to as “Windows machines,” and we can’t tell whether the entirety of any particular item has been transferred, or just partial. For example, it looks like we have gotten very, very few image files, which is surprising.
+
+We have also encountered some very significant problems in trying to review the more than 1 million documents we recently received:
+
+- The data we’ve received has no way to put any emails and attachments together. So if an email says, “see the attached flight records,” for example, we have no way of linking that up with the records themselves. Not only is that a big problem for us in review, it’s going to be a huge problem for producing the documents to defense counsel.
+
+- The load file has no link to the native file, so when we load the data to the database, there’s no way to have the native files show up in the database. Because many of the files are too large to open in the viewer, it effectively means that there are many files that are completely invisible to us.
+
+- Related, the control numbers in the load file don’t match up to the native files. So we have two sets of numbers and no way to match up anything—that is, even if we were to try to go hunt down every individual large file in the native files, it would be impossible.
+
+So the data that we most recently got, we need to get in a form that addresses those issues, and we likely will need to get a similar reproduction of the data we received a couple months ago. Otherwise we’re sifting through more than a million documents without much rhyme or reason.
+
+## Structured Fields
+*   **Date**: Mon, 09 Mar 2020 16:01:54 +0000 / Monday, March 09, 2020 12:00
+*   **Subject**: FW: Epstein search warrant documents / RE: Epstein search warrant documents
+*   **Document ID (Footer)**: EFTA00009802
+*   **Organization (Email Headers)**: USANYS
+*   **Mentioned Terms/IDs**: 1B, CART, Windows machines, loose media
+*   **Topic**: Epstein search warrant documents
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+I’ve re-attached the spreadsheet we sent last week – I think that’s a good place to start in terms of our necessary record-keeping, and we need that info at the very least, as well as anything else you think would be useful. Also attaching the SW returns for reference. And again, we’re happy to meet up anytime and hash all this out in person if that’s useful.
+thanks,
+[REDACTED].
+
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, March 04, 2020 16:36
+To: [REDACTED] <[REDACTED> ; [REDACTED] (USANYS) <[REDACTED>;
+[REDACTED]; [REDACTED] (USANYS) <[REDACTED]>
+Cc: [REDACTED]; [REDACTED] <[REDACTED> ;
+[REDACTED] <[REDACTED> ; [REDACTED] <[REDACTED>; [REDACTED]
+Subject: RE: Epstein search warrant documents
+
+Here is a listing of what I have already handed over in load files to the US Attorney’s Office for taint review. Some points of clarification: There were 9 IDE hard drives found in the Manhattan apartment, they turned out to be 3 copies of 3 drives (9 drives in total) from a July 2007 search on one of his properties. I only processed 3 (as they were all copies). All the loose media from the NY apartment is included. All the Windows machines from the NY apartment are included. Only 2 Macs from NY and 1 from the Island are included.
+
+        I will have to more closely coordinate with whoever is loading up Relativity with the remaining Macs as the tool they have to be processed with does not easily re-name the load files.
+
+Spreadsheet is attached.
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED] (office)
+[REDACTED] (cell)
+
+From: [REDACTED] [mailto:[REDACTED]]
+Sent: Tuesday, March 03, 2020 12:25 PM
+To: [REDACTED] <[REDACTED> ; [REDACTED] (USANYS) <[REDACTED>; [REDACTED]; [REDACTED]
+[REDACTED]; [REDACTED] (USANYS) <[REDACTED]>
+Cc: [REDACTED] <Christopher.Rozier@usdoj.gov>; [REDACTED])
+<[REDACTED> ; [REDACTED] <[REDACTED> ; [REDACTED]
+<[REDACTED> ; [REDACTED] <[REDACTED>
+Subject: RE: Epstein search warrant documents
+
+I could do Thursday morning, but I think it would be helpful for us to get the accounting in advance of the meeting so we can figure out in advance what (if any) additional steps we need – is that possible?
+
+From: [REDACTED] <[REDACTED]>
+Sent: Tuesday, March 03, 2020 09:59
+To: [REDACTED] (USANYS) <[REDACTED> ; [REDACTED] <[REDACTED>;
+[REDACTED]; [REDACTED] (USANYS) <[REDACTED]>
+Cc: [REDACTED> ; [REDACTED] <[REDACTED> ;
+
+EFTA00009803
+
+## Structured Fields
+*   **Case ID:** EFTA00009803
+*   **Date Range:** March 03, 2020 – March 04, 2020
+*   **Organizations:** US Attorney’s Office, USANYS (United States Attorneys National Affairs System?), USDOJ (United States Department of Justice).
+*   **Names/Emails:** Christopher.Rozier@usdoj.gov.
+*   **Locations Mentioned:** Manhattan apartment, NY apartment, Island (likely Nassau County/Family Island), July 2007 search location.
+*   **Documents/Media:** IDE hard drives, Windows machines, Macs, Relativity tool, load files, SW (Search Warrant) returns, Spreadsheet.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]) <[REDACTED]>
+Subject: RE: Epstein search warrant documents
+
+Can we do Thursday morning? My network should be back by then and I can give you a good accounting.
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED] cell
+[REDACTED] desk
+
+On Mar 2, 2020 11:15 AM, "[[REDACTED]]" <[REDACTED]> wrote:
+Doing the weekly check in on this – is there a time this week when everyone can meet on this?
+
+thanks,
+
+[REDACTED]
+
+From: [REDACTED])
+Sent: Monday, February 24, 2020 17:38
+To: [REDACTED]) <[REDACTED]>; [REDACTED] (USANYs) <[REDACTED]>; [REDACTED]
+[REDACTED]; [REDACTED] (USANYs) <[REDACTED]>
+Cc: [REDACTED]; [REDACTED] <[REDACTED]>;
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+[REDACTED] <[REDACTED]>
+Subject: RE: Epstein search warrant documents
+
+[REDACTED]
+
+Totally understand about the network issues—we can relate. I do still think it will be helpful to all sit down together to have an in-person discussion, to make sure everybody is on the same page. Are folks available for that next week? And what I think would be most helpful to facilitate that would be a spreadsheet of each separate device referenced in the two search warrant returns, with columns for whether we’ve dumped the contents, whether they’ve been reviewed and/or transferred, what portions were transferred, etc.
+
+Something roughly like the attached, with any other categories you think would be useful – and the info on the attached is mostly hypothetical, obviously, just as examples. That will help us fully understand what’s been reviewed, transferred, and received so far, and what remains.
+
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices – I think FBI was going to do an initial screen to make sure no CP, and since I think the answer was no, we’ll need to get those to be able to review them as well.)
+
+many thanks,
+
+[REDACTED]
+
+From: [REDACTED]) <[REDACTED]>
+Sent: Monday, February 24, 2020 09:24
+To: [REDACTED] (USANYs) <[REDACTED]>; [REDACTED] <[REDACTED]>;
+[REDACTED]; [REDACTED] (USANYs) <[REDACTED]>
+Cc: [REDACTED]; [REDACTED] <[REDACTED]>;
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+[REDACTED] <[REDACTED]>
+Subject: RE: Epstein search warrant documents
+
+EFTA00009804
+
+## Structured Fields
+- **Date**: Mar 2, 2020; Monday, February 24, 2020 (17:38 and 09:24)
+- **Doc ID**: EFTA00009804
+- **Organizations**: USANYs, FBI
+- **Subject**: Epstein search warrant documents
+- **Redacted Names/Emails**: All individual names and email addresses are redacted.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED],
+
+Sorry for the delayed response. They are tearing out our old network and giving us a new one, they mandated we delete old stuff (about 400 TB worth). Now that they are working on replacing the network, we can do only local work. I should be able to give you an accounting of what is what. I can say, off the top of my head, that all windows based items from the NY search have been handed over as well as all loose media. The CDs from NY only contained pictures, no documents. There are still some Apple items from NY that need to be produced. As far as the Island stuff goes, the 1st item on your spreadsheet, the "kitchen" mac has been produced. Still working on the rest.
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+cell
+desk
+
+On Feb 23, 2020 12:21 AM, "[REDACTED]" <[REDACTED]> wrote:
+Team,
+
+Following up on the below from last weekend, I’m still not sure how we’re addressing this so I thought it would make sense for us to all schedule a (hopefully relatively brief) meeting to all get on the same page? We didn’t hear back on which files had previously been provided, but our tech folks did their best to differentiate, and we got access to the materials yesterday and its well over a million documents, and we don’t have any idea what we’re looking at – i.e., which devices the materials came from, whether it’s full or partial results, how many more devices we have coming, etc.
+
+Based on the attached search warrant returns, it looks like from the New York mansion (the PDF) there are approximately 40 devices that would have storage (computers, hard drives, thumb drives, etc.) and that’s not even counting at least 60+ CDs. And then from the Virgin Islands (the Excel spreadsheet), at least more than 25 devices, including multiple servers / server racks.
+
+So we gotta know what we’ve already received, what remains, anticipated schedule, etc, and I know it’s a lot of moving pieces on all sides so wanted to loop in everybody at once. The case team will be in California this coming week from Tuesday through Friday, but then I think generally around the first week of March, which will hopefully be plenty of time to schedule a productive meeting.
+
+thanks all,
+[REDACTED].
+
+From: [REDACTED]
+Sent: Saturday, February 15, 2020 16:30
+To: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+Cc: [REDACTED]; [REDACTED]; [REDACTED]
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+Subject: RE: Epstein search warrant documents
+
+[REDACTED], [REDACTED]
+
+I’m not sure who’s the exact right person to ask this, so wanted to get everybody on one email chain about it – I have the hard drive that [REDACTED] dropped off that has new Epstein search warrant materials, but it looks like there are also old materials (that I think we had previously received and uploaded??) on the hard drive, and so I’m not sure what’s new.
+
+Just generally, and [REDACTED] and I talked about this last week too, but it’s basically impossible for us to keep track of what we’re getting, and what has been completed, without some kind of identification or labeling system, along with a list of which devices have been extracted and downloaded.
+
+EFTA00009805
+
+## Structured Fields
+*   **Date:** Feb 23, 2020; Saturday, February 15, 2020
+*   **Doc ID:** EFTA00009805
+*   **Locations:** New York (Mansion), Virgin Islands, California
+*   **Subject Matter:** Epstein search warrant documents / materials extraction
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+So for example on the hard drive currently, there are 38 folders labeled “loadFiles” through “37loadFiles” with a modified date of 11/14/19, which I think we may have already previously received – but I’m not sure, because we haven’t gotten any info on which folders match up to which devices, etc. And then there’s another folder titled “NYC024362” that has a modified date of 1/27/20, so I think that may be the materials we hadn’t previously received? That folder by itself has more than 600,000 items.
+
+I don’t want to give [REDACTED] anything that we’ve already previously received and uploaded, and I can’t tell from the folder or file names whether everything on the drive is new, or whether just additional materials were saved onto it in addition to what we already have. [REDACTED], are you able to give us some guidance on this? Ultimately what we really need is a spreadsheet of every device, whether it’s been dumped (or partially dumped), and then identifying that same info – which device, and what materials from it – are being given to us with each data transfer. Otherwise I think organizationally and for review purposes it will be a total disaster for us.
+
+We’re happy to have a meeting on this if that’s helpful – and thanks everybody for the assistance.
+
+[REDACTED]
+
+[REDACTED]
+Assistant U.S. Attorney
+Southern District of New York
+[REDACTED]
+
+EFTA00009806
+
+## Structured Fields
+- **Dates**: 11/14/19, 1/27/20
+- **File Names/Folders**: loadFiles, 37loadFiles, NYC024362
+- **Organization**: Southern District of New York
+- **Role/Title**: Assistant U.S. Attorney
+- **Document ID**: EFTA00009806
+

@@ -1,0 +1,62 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003064.pdf ts=2026-03-06T00:44:37 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled view of a white paper document titled "Emergency Contact Form" secured inside a clear plastic binder sleeve. The form is perforated along the left margin by two metal hole punches from a ring binder. The document belongs to an organization identified at the top as "LSJE, LLC," with a physical address in St. Thomas, VI (Virgin Islands). The form collects personal employment and medical data for a specific employee.
+
+The upper section contains identification fields. The date of the form is recorded as 03/19/18, while a separate "Start Date" field lists 02/05/18. The employee's name is identified as Patrick L. Cena. Below this, an address line begins with a thick black redaction block before displaying the suffix "Ste 201, St Thomas VI 00802." To the right of the address, fields for Date of Birth and contact information (Phone, Cell, E-Mail) are present but entirely obscured by black rectangular redaction marks.
+
+Further down, professional details are listed. The "Title / Position" is filled in as "Captain," suggesting a leadership role, likely in law enforcement or public safety given the address context. The "Marital Status" is recorded as "Divorce." A blank box for a license number is provided to the right but remains empty.
+
+The middle section, labeled "Emergency Information," contains several fields that are either empty or covered. A line regarding "Allergies or Health Concerns" has pre-printed small text above it reading "No blood type specified." The "Blood Type" label is visible next to a bright yellow rectangular sticky note that obscures the actual data field. The fields for "Current Medication" and two rows of "Doctor's Name" and "Phone" numbers are all blank and devoid of handwriting.
+
+The bottom section is dedicated to emergency contacts under the header "In case of an Emergency, Please contact :". Two rows allow for contact entry. In the first row, the relationship field is pre-printed or typed as "Father/Stepmother." The second row lists the relationship as "Friend." Both names and phone numbers in this section are heavily redacted with black blocks. The document concludes with a centered sentence emphasizing the purpose of the form regarding safety for the individual and others.
+
+## Visible Text (verbatim)
+**Header:**
+LSJE, LLC
+6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: [REDACTED] Fax: [REDACTED]
+
+**Title:**
+Emergency Contact Form
+
+**Field Data:**
+Date: 03/19/18
+Start Date: 02/05/18
+Employee Name: Patrick L. Cena
+Address: [REDACTED] Ste 201, St Thomas VI 00802
+Date of Birth: [REDACTED]
+Phone: [REDACTED]
+Cell: [REDACTED]
+E-Mail: [REDACTED]
+Title / Position: Captain
+Marital Status: Divorce
+License: [Empty Box]
+
+**Emergency Information Section:**
+Allergies or Health Concerns: No blood type specified
+Blood Type: [Covered by Yellow Note]
+Current Medication: [Blank]
+Doctor's Name: [Blank] Phone: [Blank]
+Doctor's Name: [Blank] Phone: [Blank]
+
+**Contact Section:**
+In case of an Emergency, Please contact :
+Name: [REDACTED] Relationship Father/Stepmother Phone: [REDACTED]
+Name: [REDACTED] Relationship Friend Phone: [REDACTED]
+
+**Footer:**
+This Information is for your safety and the safety of others
+EFTA00003064 (Crop code in bottom right)
+
+## Notable Details / Clues
+*   **Redaction Level:** Significant portions of personal data, specifically phone numbers (cell, home, email), date of birth, and emergency contact names/numbers are blacked out, suggesting privacy was prioritized during the image creation or extraction.
+*   **Sticky Note:** A bright yellow Post-it note is placed over the "Blood Type" section, effectively hiding that specific piece of medical information.
+*   **Relationship Field:** The term "Father/Stepmother" is an unusual pre-printed or filled option for a single line, suggesting standard form usage where one contact is primary.
+*   **Job Title:** The title "Captain" combined with the address in "Red Hook Quarters" (a known commercial/residential hub) and the formal nature of the form suggests this employee works for a government entity, such as the Police or Fire Department of St. Thomas.
+*   **Marital Status:** The status is explicitly listed as "Divorce," which is legally relevant information often required for emergency forms to determine next-of-kin priorities.
+*   **License Field:** The box next to "License" is completely empty, likely indicating that no professional license (like a driving license or medical license) was recorded at this time.
+*   **Medical Disclaimer:** The small text "No blood type specified" indicates that the form does not mandate blood type entry, hence the yellow note might be there specifically to block it from public view without needing a black bar.
+*   **Date Discrepancy:** The form date (03/19/18) is roughly two months after the employee's start date (02/05/18), implying this document was filled out shortly after hiring or during a standard new-employee packet review.
+

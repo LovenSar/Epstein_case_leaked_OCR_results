@@ -1,0 +1,44 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002549.pdf ts=2026-03-05T21:03:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of an enterprise-grade hard drive installed within a server hot-swap backplane cage or carrier. The object rests on a flat, dark gray surface that appears metallic and slightly worn. To the left of the main drive faceplate is a black plastic mounting bracket featuring a finger latch mechanism used to secure the drive into a chassis. Extending from this bracket towards the center are parallel rows of gold-plated contact fingers (gold fingers) arranged in two columns, designed for electrical connection with the motherboard backplane.
+
+The hard drive itself features a standard silver aluminum alloy enclosure, typical of 3.5-inch form factor drives. It is secured by four screws, one at each corner (top-left, top-right, bottom-left, bottom-right), which appear slightly oxidized or dirty near the screw heads. A large white labeling sheet adheres to the center and right side of the drive face. The surface of the enclosure shows signs of use, with significant accumulation of black grease or grime, particularly noticeable in the top-right corner area and along the bottom edge near the right-side screws.
+
+## Visible Text (verbatim)
+**Left Sticker Area:**
+*   "GPN: 375863-010"
+*   Handwritten mark: "5"
+*   Vertical text at bottom left edge: "98422221."
+
+**Main Label Block (Right Side):**
+*   HP Logo
+*   Invert Logo (Arrow)
+*   "146GB 10K SAS"
+*   "HP MODEL: DG-14588975"
+*   "HP P/N: 438185-003"
+*   "CT: 2997802CWDLG"
+*   "PRODUCT OF SINGAPORE" (Small text below model)
+*   "NEW DEAL" (Chinese characters visible next to regulatory marks)
+*   "PART NUMBER: *SF6966-035*"
+*   "LOT NUMBER: #A-01-0928-6*"
+*   "SERIAL NUMBER: *3VWBH-8*" (Vertical text)
+*   "LUN: S984C5aae292CD9E"
+*   "ST9146802SS" (Vertical text near bottom)
+*   "VDC APPS CS0 LOT +S 1.8 NUMBER +T2 P.3"
+*   "FIRMWARE HPDC"
+*   **Far Right Edge Sticker:**
+    *   Handwritten: "3U"
+    *   "SN: 2SD859LFE"
+    *   Regulatory logos: ETL List 607, N176, CCC, CE, UL.
+
+## Notable Details / Clues
+*   **Drive Capacity and Type:** The text "146GB 10K SAS" indicates this is a Serial Attached SCSI drive with a relatively low capacity for modern standards (likely manufactured around the late 2000s), featuring a spindle speed of 10,000 RPM.
+*   **Form Factor:** The physical dimensions and "3.5-inch" scale (inferred from the cage size) suggest this is intended for a desktop or rackmount server bay, not a laptop drive (which would be 2.5 inch).
+*   **Environmental Condition:** The presence of significant grime and oil residue on the metal casing suggests the drive may have been stored in an oily environment or operated in harsh conditions where lubricant from bearings leaked onto the case.
+*   **Regulatory Markings:** The cluster of logos (FCC, CE, ETL) confirms compliance with international electrical safety standards required for commercial shipping to regions like North America and Europe.
+*   **Identification Tags:** The "GPN" likely refers to a Global Part Number or internal inventory tracking number, while the "SN" on the far right is the unique serial number for the specific physical unit.
+*   **Watermark:** A small alphanumeric code "EFTA00002549" is visible in the bottom right corner of the image file itself.
+

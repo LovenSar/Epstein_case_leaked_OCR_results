@@ -1,0 +1,49 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015113.pdf ts=2026-03-12T13:03:10 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned official document, specifically an "Additional Inquiry Response" from the FBI and New York State Division of Criminal Justice Services (DCJS). The page is predominantly white with black text, containing several large, solid black rectangular blocks that redact sensitive information such as names, dates of birth, and fingerprint data.
+
+The top section features a header with a timestamp in the top left corner ("10/6/21, 12:43 PM") and a document classification on the right ("III/FBI/State Delayed Response"). Centered below this is the bold title "Additional Inquiry Response." Beneath the title is an Originating Agency Identifier (ORI) code. The header block lists two primary agencies: the Federal Bureau of Investigation - New York and the New York State Division of Criminal Justice Services. An address for the DCJS in Albany, NY, along with a toll-free telephone number, is printed centrally. Below the address is the name and title of Michael C. Green.
+
+Below the header block is a section marked "III Information" accompanied by a small icon. A massive black rectangle obscures this entire section, likely covering biographical data or specific inquiry details. Following this redacted area are headers reading "FINGERPRINT CLASS" and "PATTERN CLASS." Beneath these headers is a second large black rectangle, which presumably covered fingerprint images or classifications but has been blacked out. Below this block is a line of text indicating when identification data was updated (January 16, 2018). A third, smaller black rectangle appears below the date stamp. The document concludes with a disclaimer stating that full records can be obtained through the Interstate Identification Index using an NCIC transaction. The word "END" appears on the bottom left, and page numbering "1/2" is in the bottom right.
+
+## Visible Text (verbatim)
+*   10/6/21, 12:43 PM
+*   III/FBI/State Delayed Response
+*   Additional Inquiry Response
+*   ORI: NYFBINY00
+*   Federal Bureau of Investigation - New York
+*   New York State Division of Criminal Justice Services
+*   Alfred E. Smith Building, 80 South Swan St.
+*   Albany, New York 12210. Tel: 1-800-262-DCJS
+*   Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+*   III Information
+*   FINGERPRINT CLASS PATTERN CLASS
+*   IDENTIFICATION DATA UPDATED 2018/01/16
+*   THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION INDEX BY USING THE APPROPRIATE NCIC TRANSACTION.
+*   END
+*   1/2
+*   EFTA00015113
+
+## Notable Details / Clues
+*   **Delayed Response:** The header "III/FBI/State Delayed Response" indicates this is not a standard immediate response but rather a document generated later due to processing delays, common in FBI fingerprint checks.
+*   **Agency Identification:** The ORI code "NYFBINY00" identifies the originating agency as an FBI office in New York (NYFBI), with "NY00" typically signifying the main federal office jurisdiction rather than a local state branch.
+*   **Data Currency:** There is a temporal discrepancy; while the document was generated on October 6, 2021, the text notes "IDENTIFICATION DATA UPDATED 2018/01/16," suggesting the background check relies on data from three years prior to the date of this specific report.
+*   **Redaction Strategy:** The document uses solid black blocks rather than dots or lines for redactions, which is a standard method for protecting personal identifiable information (PII) in law enforcement reports to prevent unauthorized access to names and biometric data.
+*   **Official Signatory:** Michael C. Green is listed as the Executive Deputy Commissioner of the NYS DCJS, establishing the official legal standing of the document within New York state jurisdiction.
+*   **Document Control:** The code "EFTA00015113" in the bottom right corner serves as a unique tracking or case file number for this specific inquiry response.
+*   **Interstate Access:** The footer text confirms that this is likely a summary or partial record intended to be cross-referenced with the National Crime Information Center (NCIC) database for full details.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+10/6/21, 12:43 PM                       III/FBI/State Delayed Response
+
+## Structured Fields
+*   **Date:** 10/6/21
+*   **Time:** 12:43 PM
+*   **Header/Section Title:** III/FBI/State Delayed Response
+*   **Page Number:** 2/2
+*   **Document ID:** EFTA00015114
+

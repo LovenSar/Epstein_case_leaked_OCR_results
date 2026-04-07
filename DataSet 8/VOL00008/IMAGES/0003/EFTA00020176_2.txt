@@ -1,0 +1,234 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00020176.pdf ts=2026-03-14T11:09:05 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a partial view of an email chain thread, heavily redacted to protect personal identifying information. The document appears to be a digital scan or PDF page from an official record or legal disclosure, indicated by a reference number in the footer. The layout follows standard email threading conventions, with newer messages at the top and "Original Message" headers demarcating earlier emails in the chain.
+
+The thread consists of four distinct email segments, though some are nested within quotes.
+1.  **Top Segment (August 16):** This is the most recent email in the visible thread. It features standard email headers (From, To, Cc) which are obscured by black bars. The subject line is visible. The body text begins with a brief acknowledgment. Below this is a horizontal rule and an "Original Message" header starting the next segment.
+2.  **Second Segment (August 15):** Nested within the first email as a quote. It displays the date August 15, 2019. The headers are redacted. Following the header block, there is visible body text asking a recipient to "circulate" something and ending with "thanks," followed by a redacted signature block.
+3.  **Third Segment (August 13):** Another quoted original message dated Tuesday, August 13, 2019. The headers are redacted. There is very little visible text in the body section other than redaction bars.
+4.  **Bottom Segment (August 07):** The oldest email shown in this chain segment, dated Wednesday, August 07, 2019. The headers are redacted. Below a final redaction block, there is text reading "Will do." and "Thanks," suggesting this might be the tail end of a specific reply or a separate short message included in the thread.
+
+Throughout the document, black rectangular bars cover all names in the From, To, and Cc fields. Some of these black bars have small white arrowheads (`>`) on their right edges, indicating that the redacted text extends beyond the visible area or represents multi-line fields. The background is stark white, and the text is printed in a standard serif font (likely Times New Roman).
+
+## Visible Text (verbatim)
+**Subject Line:**
+Subject: RE: Epstein (FinCEN records)
+
+**Date Line:**
+Date: Fri, 16 Aug 2019 05:47:54 +0000
+
+**Body Text (Top):**
+Great, received -- thanks very much.
+
+**Header Details (Middle):**
+Sent: Thursday, August 15, 2019 08:27
+
+**Body Text (Middle):**
+Following up on the below -- could you please circulate?
+thanks,
+
+**Header Details (Bottom):**
+Sent: Tuesday, August 13, 2019 2:59 PM
+Subject: RE: Epstein (FinCEN records)
+
+**Header Details (Very Bottom):**
+Sent: Wednesday, August 07, 2019 15:00
+Subject: RE: Epstein (FinCEN records)
+
+**Footer Text:**
+EFTA00020176
+
+## Notable Details / Clues
+-   **Topic Context:** The recurring subject line "Epstein (FinCEN records)" strongly suggests this communication relates to the investigation into Jeffrey Epstein and involves financial records held by or submitted to FinCEN (Financial Crimes Enforcement Network).
+-   **Timeline:** The email thread spans one week in August 2019, running from Wednesday, August 7th through Friday, August 16th. This places the correspondence shortly after Epstein's arrest on July 20, 2019.
+-   **Request for Action:** The phrase "could you please circulate?" implies an effort to share information or documentation with a wider group of people.
+-   **Redaction Pattern:** The redactions are systematic and complete for names. The use of angle brackets (`>`) next to redacted lines in the email header suggests that the full address or list of recipients was longer than what fits on one line, but the content itself has been fully blacked out.
+-   **Reference Number:** The string "EFTA00020176" at the bottom right is likely a docket number or exhibit identifier used in a legal proceeding (possibly related to the "Epstein Files" released by the DOJ in 2024, which contained documents from this era).
+-   **Tone:** The visible text ("Great, received", "thanks", "Will do") indicates a professional, somewhat rapid exchange of confirmations.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+----Original Message-----
+From: [REDACTED]
+Sent: Tuesday, August 06, 2019 5:43 PM
+To: [REDACTED]; >
+Cc: [REDACTED]; [REDACTED]; [REDACTED]
+Subject: FW: Epstein (FinCEN records)
+
+Could you please pull the FinCEN records listed below and circulate to the team? It sounds like they're potentially useful so we'd like to review. Thank you!
+
+----Original Message-----
+From: [REDACTED] >
+Sent: Tuesday, August 06, 2019 11:53
+To: [REDACTED]; [REDACTED]
+Cc: [REDACTED]
+Subject: RE: Epstein
+
+We wanted to make sure you all were aware of several records. See below - a list of relevant document IDs that will allow you to pull the records up in FinCEN Query or cross-reference with your files. Please let me know if you have any issues.
+
+BSA IDs:
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+Thanks,
+[REDACTED]
+
+----Original Message-----
+From: [REDACTED] >
+Sent: Monday, August 5, 2019 9:45 AM
+To: [REDACTED]; [REDACTED]
+Cc: [REDACTED] >
+Subject: RE: Epstein
+
+EFTA00020177
+
+## Structured Fields
+- **Dates:**
+    - Tuesday, August 06, 2019 5:43 PM
+    - Tuesday, August 06, 2019 11:53
+    - Monday, August 5, 2019 9:45 AM
+- **Subject Matter:** Epstein, FinCEN records
+- **Case/File ID:** EFTA00020177
+- **Document Types mentioned:** BSA IDs (redacted list), FinCEN Query records
+- **Email Threads:** Three distinct messages nested in a thread.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]:
+
+Sorry I was inartful. Yes, my understanding is that we have information to send your way. [REDACTED] can confirm that.
+
+[REDACTED]
+Assistant Chief Counsel
+Financial Crimes Enforcement Network
+
+This e-mail message and any attachments from the United States Department of the Treasury/Financial Crimes Enforcement Network is for the exclusive use of the intended recipient and may contain privileged information, including information protected by the attorney-client and attorney work product privileges. If you are not an intended recipient, please do not read, distribute, or take action in reliance on this message. If you have received this message in error, please notify the sender immediately by return e-mail and promptly delete this message and its attachments from your computer system. Be advised that no privilege is waived by the transmission of this message.
+
+----Original Message----
+From: [REDACTED] >
+Sent: Monday, August 5, 2019 9:43 AM
+To: [REDACTED] >
+Cc: [REDACTED]; [REDACTED]
+Subject: [EXTERNAL] RE: Epstein
+
+Hi [REDACTED],
+
+I had the impression from [REDACTED] [REDACTED] email that you had particular documents or reports you were looking to send our way ("so you can coordinate with them to make sure they have already seen any SAR information you guys are looking at") -- if so, we would be grateful for you to send whatever it is you think would be useful. Or please let us know if that's not correct (when [REDACTED] says "the relevant SAR information" I'm not sure what that's referring to), and if so what it was you were envisioning.
+
+thanks,
+[REDACTED].
+
+----Original Message----
+From: [REDACTED] >
+Sent: Monday, August 05, 2019 09:18
+To: [REDACTED]; [REDACTED] >
+Cc: [REDACTED] >
+Subject: RE: Epstein
+
+[REDACTED]:
+
+We just want to ensure you have the relevant SAR information you need. To that end, I'm copying [REDACTED] [REDACTED] of our Intelligence Division, with whom you can liaise directly if necessary.
+
+Best,
+EFTA00020178
+
+## Structured Fields
+- **Date:** Monday, August 5, 2019
+- **Time:** 9:43 AM / 09:18
+- **Organization:** United States Department of the Treasury/Financial Crimes Enforcement Network
+- **Role:** Assistant Chief Counsel
+- **Subject:** RE: Epstein
+- **Document ID:** EFTA00020178
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+[REDACTED]
+Assistant Chief Counsel
+Financial Crimes Enforcement Network
+[REDACTED]
+[REDACTED]
+
+This e-mail message and any attachments from the United States Department of the Treasury/Financial Crimes Enforcement Network is for the exclusive use of the intended recipient and may contain privileged information, including information protected by the attorney-client and attorney work product privileges. If you are not an intended recipient, please do not read, distribute, or take action in reliance on this message. If you have received this message in error, please notify the sender immediately by return e-mail and promptly delete this message and its attachments from your computer system. Be advised that no privilege is waived by the transmission of this message.
+
+----Original Message-----
+From: [REDACTED]
+Sent: Sunday, August 4, 2019 7:44 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: [EXTERNAL] RE: Epstein
+
+[REDACTED],
+
+Thanks for reaching out, and let us know how we can best proceed.
+
+thanks again,
+[REDACTED].
+
+----Original Message-----
+From: [REDACTED]
+Sent: Friday, August 02, 2019 20:17
+To: [REDACTED]
+Cc: [REDACTED]; [REDACTED]
+Subject: Re: Epstein
+
+Thanks so much for the introduction, [REDACTED]. I'll have the folks on my end reach out to confirm the status of this.
+
+Thanks again and nice weekend to all.
+
+[REDACTED]
+
+From: "Wilson, Alexander (USANYS) 3"
+<[REDACTED]<mailto:[REDACTED]>
+Date: Friday, August 2, 2019 at 7:00:36 PM
+To: "[REDACTED]<mailto:[REDACTED]>"
+
+EFTA00020179
+
+## Structured Fields
+- **Dates:** Sunday, August 4, 2019; Friday, August 02, 2019 (20:17); Friday, August 2, 2019 (7:00:36 PM)
+- **Organizations:** United States Department of the Treasury/Financial Crimes Enforcement Network; Financial Crimes Enforcement Network; USANYS
+- **Names:** Wilson, Alexander
+- **Case IDs/Doc IDs:** EFTA00020179
+- **Subject:** [EXTERNAL] RE: Epstein; Re: Epstein
+- **Title:** Assistant Chief Counsel
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: "[REDACTED]"
+[REDACTED] < [REDACTED] >>, "[REDACTED]"
+Subject: [EXTERNAL] Epstein
+[REDACTED],
+As discussed, I'm cc'ing a couple of the AUSAs on the Epstein team so you can coordinate with them to make sure they have already seen any SAR information you guys are looking at, or pass it over if they haven't.
+
+Guys, [REDACTED] is with FinCEN counsel (formerly the Office's best friend at OIA), and has some information FinCEN has seen and wants to make sure we're aware of.
+
+Thanks,
+[REDACTED]
+[REDACTED]
+Co-Chief, Money Laundering and Transnational Criminal Enterprises Unit
+Asset Forfeiture Coordinator
+United States Attorney's Office
+Southern District of New York
+Tel: [REDACTED]
+[REDACTED]
+
+EFTA00020180
+
+## Structured Fields
+- **Document ID:** EFTA00020180
+- **Subject:** Epstein
+- **Organization:** United States Attorney's Office, Southern District of New York
+- **Unit/Role:** Money Laundering and Transnational Criminal Enterprises Unit, Asset Forfeiture Coordinator
+- **Partner Agency mentioned:** FinCEN (Financial Crimes Enforcement Network)
+- **Reference Agency mentioned:** OIA (Office for Intelligence and Analysis)
+- **Case Reference/Accused:** Epstein (mentioned in Subject and body)
+- **Terminology observed:** AUSAs (Assistant United States Attorneys), SAR (Suspicious Activity Report)
+

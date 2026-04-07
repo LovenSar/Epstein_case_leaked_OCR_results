@@ -1,0 +1,186 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00029020.pdf ts=2026-03-18T04:45:28 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From:" [REDACTED] (USANYS)" <[REDACTED]>
+To: " [REDACTED] (USANYS)" <[REDACTED]>
+Subject: RE: Maxwell
+Date: Mon, 07 Jun 2021 16:51:03 +0000
+Inline-Images: image003.jpg; image002.jpg
+
+Excellent. Thanks for your careful handling.
+
+On Jun 7, 2021, at 12:43 PM, [REDACTED] (USANYS) <[REDACTED]> wrote:
+
+From: [REDACTED] (USAEO) <[REDACTED]>
+Sent: Monday, June 7, 2021 12:11 PM
+To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USAEO) <[REDACTED]>
+Subject: RE: Maxwell
+
+Thanks [REDACTED].
+[REDACTED]
+
+[REDACTED] CISSP, C|EH
+Assistant Director & Chief Information Security Officer
+Department of Justice
+Executive Office for the United States Attorneys'
+Office of the Chief Information Officer, Cybersecurity Services Group
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+<image002.jpg>
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Monday, June 7, 2021 11:49 AM
+To: [REDACTED] (USANYS) <[REDACTED]>
+Cc: [REDACTED] (USAEO) <[REDACTED]>
+Subject: RE: Maxwell
+
+The issue as it relates to conduct of [REDACTED] is closed.
+
+As to [REDACTED], he is leaving CACI's employ this Friday, but it has nothing to do with the transfer of documents. I think we can let it die on Friday.
+
+Thanks,
+
+EFTA00029020
+
+## Structured Fields
+*   **Date:** Mon, 07 Jun 2021 / Monday, June 7, 2021 (Times: 16:51:03, 12:11 PM, 11:49 AM)
+*   **Subject:** RE: Maxwell
+*   **Document ID:** EFTA00029020
+*   **Organizations:** USANYS, USAEO (United States Attorneys' Executive Office), Department of Justice, Executive Office for the United States Attorneys', Cybersecurity Services Group, CACI.
+*   **Images Referenced:** image003.jpg, image002.jpg
+*   **Roles/IDs:** CISSP, C|EH, Assistant Director & Chief Information Security Officer, Office of the Chief Information Officer.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED] (USAEO) <[REDACTED]>
+Sent: Monday, June 7, 2021 10:56 AM
+To: [REDACTED] (USANYS) <[REDACTED]>
+Cc: [REDACTED] (USAEO) <[REDACTED]>
+Subject: RE: Maxwell
+
+Good morning [REDACTED],
+
+GCO’s records show that this matter, as it applies to [REDACTED], was already addressed by GCO back on April 19. Those records show that the USAO took necessary steps to mitigate the action and did not wish to proceed with any disciplinary actions given the circumstances. Would you like to discuss the circumstances regarding the new incident with employee [REDACTED], who I understand is also a contractor?
+
+Thank you,
+[REDACTED]
+
+Assistant United States Attorney
+General Counsel’s Office (On Detail)
+Executive Office for U.S. Attorneys
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+From: [REDACTED] (USAEO) <[REDACTED]>
+Sent: Friday, June 4, 2021 12:45 PM
+To: SOC-EOUSA <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Cc: [REDACTED] (USAEO) <[REDACTED]>; [REDACTED] (USAEO) <[REDACTED]>; [REDACTED]
+[REDACTED] (USAEO) <[REDACTED]>; [REDACTED] (USAEO) <[REDACTED]>; [REDACTED]
+(USAEO) <[REDACTED]>
+Subject: RE: Maxwell
+Importance: High
+
+SOC,
+Please complete the following actions with the district:
+•	I’ve spoken with [REDACTED], this is not a classified spill. The data label is based on a protective order issued by the court.
+•	The Information Disclosure will need to be completed as there was a substantial amount of PII included in the upload.
+•	Validate the information was received by the intended recipient.
+•	Insure the data has been removed from [REDACTED] and [REDACTED].
+
+[REDACTED]
+I believe the district did speak to the individual on this, not sure if you have any further questions. A summary of the incident is below for your reference.
+
+•	On April 13th, [REDACTED] uploaded 5.5 GB of data to [REDACTED]
+•	Analysts determined the content of these files were discovery for the Jeffrey Epstein case against Ghislaine Maxwell. It contained the under-age victim names among other PII.
+•	The CISO notification was sent May 26th and the SOC notification with the Information Disclosure form sent on May 28th.
+
+EFTA00029021
+
+## Structured Fields
+*   **Date**: June 7, 2021 (Sent); June 4, 2021 (Sent); April 19 (Mentioned); April 13 (Incident Date); May 26 (CISO Notification); May 28 (SOC Notification).
+*   **Organization**: USAEO, USANYS, GCO, SOC-EOUSA, Executive Office for U.S. Attorneys.
+*   **Case Reference**: Jeffrey Epstein case against Ghislaine Maxwell.
+*   **Document ID**: EFTA00029021.
+*   **Names**: Ghislaine Maxwell, Jeffrey Epstein (Case Parties); Employee [REDACTED]; SOC recipient.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+- Contractor stated they chose to use the Sharefile.com instead of USAfx.
+- In the last 24 hours, another user from the same district, uploaded less than a GB of data to another law firm that uses sharefile.com. This user is: [REDACTED] in NYS.
+
+R/G
+[REDACTED] CISSP, C|EH
+Assistant Director & Chief Information Security Officer
+Department of Justice
+Executive Office for the United States Attorneys’
+Office of the Chief Information Officer, Cybersecurity Services Group
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+[image003.jpg>
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Thursday, June 3, 2021 1:59 PM
+To: [REDACTED] (USAEO) <[REDACTED]>
+Subject: FW: Maxwell
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Thursday, June 3, 2021 1:49 PM
+To: [REDACTED] (USANYS) <[REDACTED]>
+Cc: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: Maxwell
+
+[REDACTED],
+Attached is the Court ordered protective order, which requires us to mark things as confidential (paragraph 7).
+
+The production [REDACTED] uploaded was non-testifying witness 3500. An example page is attached, and includes our “confidential” marking that we applied pursuant to the protective order. Given that this information clearly contains PII for victims, the designation is necessary. We’d also ask that this page not be widely disseminated outside of those at EOUSA who already have access.
+
+Thank you,
+[REDACTED]
+Chief, Public Corruption Unit
+U.S. Attorney’s Office
+Southern District of New York
+[REDACTED]
+[REDACTED]
+
+EFTA00029022
+
+## Structured Fields
+- **Date:** Thursday, June 3, 2021 (Times: 1:49 PM, 1:59 PM)
+- **Case ID/Doc ID:** EFTA00029022
+- **Location:** Southern District of New York, NYS
+- **Organizations:** Department of Justice, Executive Office for the United States Attorneys (EOUSA), U.S. Attorney's Office, USANYS, USAEO, Cybersecurity Services Group, Sharefile.com, USAfx
+- **Roles/Names:** CISSP, C|EH; Assistant Director & Chief Information Security Officer; Chief, Public Corruption Unit; [REDACTED] (User from same district)
+- **Witness ID:** non-testifying witness 3500
+- **Subject Line:** FW: Maxwell / Maxwell
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+THE EXECUTIVE OFFICE
+for
+UNITED STATES ATTORNEYS
+Cybersecurity Staff
+THE EXECUTIVE OFFICE
+for
+UNITED STATES ATTORNEYS
+Cybersecurity Staff
+EFTA00029023
+
+## Structured Fields
+- **Organization:** The Executive Office for United States Attorneys
+- **Department/Staff:** Cybersecurity Staff
+- **Document ID:** EFTA00029023
+

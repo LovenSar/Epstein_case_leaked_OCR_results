@@ -1,0 +1,168 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031569.pdf ts=2026-03-19T07:09:33 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+9 EAST 71 STREET                                  Borough: MANHATTAN
+                                                  Block: 1386 Lot: 10
+
+Property Owner(s)
+----------------------------------------------
+MAPLE, INC.
+
+Property Data
+----------------------------------------------
+Tax Year                        2020/21
+Lot Grouping
+Property Address                9 EAST 71 STREET, 10021
+Tax Class                       1
+Building Class                  A5 - ONE FAMILY ATTACHED OR SEMI -
+                                  DETACHED
+Condo Development
+Condo Suffix
+
+EFTA00031569
+
+## Structured Fields
+- **Location**: 9 EAST 71 STREET, Manhattan, Block 1386 Lot: 10
+- **Owner**: MAPLE, INC.
+- **Tax Year**: 2020/21
+- **Property Address**: 9 EAST 71 STREET, 10021
+- **Tax Class**: 1
+- **Building Class**: A5 - ONE FAMILY ATTACHED OR SEMI - DETACHED
+- **Document ID**: EFTA00031569
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Property Information Apply for Exemptions Get Help
+[Property Address Search] [BBL Search] [REUC Search]
+
+9 EAST 71 STREET                                      Borough: MANHATTAN
+                                                        Block: 1386 Lot: 10
+
+Property Info
+Account Balance    [07/18/2019]   [icon]      1 of 1
+Account History    Notes                                                  Return to Searc
+Notices of Property Value This account is paid in full as of July 18, 2019. Action
+Property Tax Bills                                                 Printable Su
+Benefits - Prop. Owners                                           Printable Ve
+Benefits - Business & Construction                              More In
+Benefits - Gov & Non-Prof                                       FAQ
+Market Values & Assessments                                    Printable Version
+2019-2020 Final
+
+Current & Prior Years
+
+
+Directory of City Agencies    Contact NYC Government     City Employees
+Notify NYC                   CityStore                    Stay Connected
+NYC Mobile Apps              Maps                        Resident Toolkit
+
+City of New York, 2018
+All Rights Reserved.
+NYC is a trademark and service mark of the
+City of New York
+
+Privacy Policy Terms of Use
+
+EFTA00031570
+
+## Structured Fields
+- **Date:** 07/18/2019
+- **Location:** 9 EAST 71 STREET, MANHATTAN, Block: 1386 Lot: 10
+- **Document ID:** EFTA00031570
+- **Organization:** City of New York / NYC Government
+- **Status:** Account paid in full as of July 18, 2019
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+9 EAST 71 STREET
+Borough: MANHATTAN
+Block: 1386 Lot: 10
+
+Notes
+This account history is for informational purposes only. The amounts below do not include interest due through today. Visit our NYCePay or CityPay payment sites for today's balance. Payments made today will be visible the next business day.
+
+Profile
+Building Class A5 - ONE FAMILY ATTACHED OR SEMI - DETACHED
+Tax Class 1
+Unused SCRIE Credit
+Unused DRIE Credit
+Refund Amount
+Overpayment amount
+
+Account History Summary
+Year Period Charge Type Original Due Date Interest Begin/Process Date Charge Paid Balance
+2020 3 TAX 01/01/2020 171,775.47 -171,775.47 0.00
+2020 1 TAX 07/01/2019 173,510.58 -173,510.58 0.00
+2019 3 TAX 01/01/2019 176,248.93 -176,248.93 0.00
+2019 1 TAX 07/01/2018 169,081.34 -169,081.34 0.00
+2018 3 TAX 01/01/2018 169,412.92 -169,412.92 0.00
+2018 1 TAX 07/01/2017 164,571.60 -164,571.60 0.00
+
+Account History Details
+Click here for the Account History Details
+
+## Structured Fields
+- **Address:** 9 EAST 71 STREET
+- **Borough:** MANHATTAN
+- **Block/Lot:** 1386 / 10
+- **Building Class:** A5 - ONE FAMILY ATTACHED OR SEMI - DETACHED
+- **Tax Class:** 1
+- **Date Range:** 2017 - 2020
+- **Document ID (Footer):** EFTA00031571
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ASSESSMENT ROLL 2018-2019
+City of New York
+Taxable Status Date: January 5, 2018
+
+Parcel Information
+Owner Name                                      Borough: Manhattan
+MAPLE, INC.                                     Block: 1386
+                                                 Lot: 10
+Property Address and Zip Code                   Tax Class: 1
+9 EAST 71 STREET 10021                         Building Class: A5
+
+Real Estate Billing Name and Address            MAPLE, INC.
+MAPLE, INC.                                     9100 HAVE NSIGHT, PO
+9100 HAVE NSIGHT, PO                           ST. THOMAS    00802
+ST. THOMAS      00802
+
+Land Information                                Lot Size           Irregular   Corner
+50.00 FT x 102.17 FT
+
+Building Information                            Number of Buildings Building Size Extension Stories
+1                                                50.00 FT x 92.17 FT                             6.00
+
+Assessment Information                           Description        Land          Total
+ESTIMATED MARKET VALUE                          75,016,000
+ACTUAL AV                                       330,378          1,658,880
+ACTUAL EX AV                                    0                0
+TRANS AV                                        0                0
+TRANS EX AV                                     0                0
+
+Taxable/Billable Assessed Value                 SUBJECT TO ADJUSTMENTS, YOUR 2018/19 TAXES WILL BE BASED ON   1,658,880
+
+Property is assessed at the following uniform percentages of full market value, unless limited
+to a lesser amount by law:                      Class 1 - 6%        Class 2 - 45%         Class 3 - 45%      Class 4 - 45%
+
+EFTA00031572
+
+## Structured Fields
+- **Document Title:** ASSESSMENT ROLL 2018-2019
+- **Jurisdiction:** City of New York, Manhattan
+- **Taxable Status Date:** January 5, 2018
+- **Parcel Identification:** Block: 1386, Lot: 10
+- **Owner Name:** MAPLE, INC.
+- **Property Address:** 9 EAST 71 STREET 10021
+- **Real Estate Billing Address:** MAPLE, INC., 9100 HAVE NSIGHT, PO ST. THOMAS 00802
+- **Tax Class:** 1
+- **Building Class:** A5
+- **Land Size:** 50.00 FT x 102.17 FT
+- **Building Size:** 50.00 FT x 92.17 FT
+- **Stories:** 6.00
+- **Actual Assessed Value (AV):** 1,658,880
+- **Estimated Market Value:** 75,016,000
+- **Document ID (Footer):** EFTA00031572
+

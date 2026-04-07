@@ -1,0 +1,100 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032090.pdf ts=2026-03-19T12:57:25 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+# Requester Information
+Collapse [■]
+
+### Requester
+[REDACTED]
+Organization
+Requester Has Account No
+Email Address [REDACTED]
+Phone Number
+Fax Number
+Address [REDACTED]
+City New York
+State/Province NY
+Zip Code/Postal Code 10001
+
+
+### Tracking Number
+EOUSA-2020-003495
+Submitted Date 07/08/2020
+Received Date 07/08/2020
+Perfected Date 07/08/2020
+Last Assigned Date 07/08/2020
+Assigned To [REDACTED] (Executive Office for United States Attorneys)
+
+### Last Assigned By
+[REDACTED] (Executive Office for United States Attorneys)
+Request Track Simple
+Fee Limit $20.00
+
+EFTA00032090
+```
+
+## Structured Fields
+- **Tracking Number**: EOUUSA-2020-003495
+- **Submitted Date**: 07/08/2020
+- **Received Date**: 07/08/2020
+- **Perfected Date**: 07/08/2020
+- **Last Assigned Date**: 07/08/2020
+- **Organization**: Executive Office for United States Attorneys
+- **City**: New York
+- **State/Province**: NY
+- **Zip Code**: 10001
+- **Document ID (Bottom Right)**: EFTA00032090
+- **Request Track**: Simple
+- **Fee Limit**: $20.00
+</think>
+
+```markdown
+# Requester Information
+Collapse [■]
+
+### Requester
+[REDACTED]
+Organization
+Requester Has Account No
+Email Address [REDACTED]
+Phone Number
+Fax Number
+Address [REDACTED]
+City New York
+State/Province NY
+Zip Code/Postal Code 10001
+
+
+### Tracking Number
+EOUSA-2020-003495
+Submitted Date 07/08/2020
+Received Date 07/08/2020
+Perfected Date 07/08/2020
+Last Assigned Date 07/08/2020
+Assigned To [REDACTED] (Executive Office for United States Attorneys)
+
+### Last Assigned By
+[REDACTED] (Executive Office for United States Attorneys)
+Request Track Simple
+Fee Limit $20.00
+
+EFTA00032090
+```
+
+## Structured Fields
+- **Tracking Number**: EOUUSA-2020-003495
+- **Submitted Date**: 07/08/2020
+- **Received Date**: 07/08/2020
+- **Perfected Date**: 07/08/2020
+- **Last Assigned Date**: 07/08/2020
+- **Organization**: Executive Office for United States Attorneys
+- **City**: New York
+- **State/Province**: NY
+- **Zip Code**: 10001
+- **Document ID (Bottom Right)**: EFTA00032090
+- **Request Track**: Simple
+- **Fee Limit**: $20.00
+```
+

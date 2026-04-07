@@ -1,0 +1,64 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010043.pdf ts=2026-03-10T00:03:39 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread regarding legal research for a jury selection process. The document appears to be a compiled view of three emails, ordered from newest at the top to oldest at the bottom. The interface resembles Microsoft Outlook or a similar webmail client. Significant portions of sender and recipient names have been redacted with black bars for privacy.
+
+At the top, the most recent email is dated Wednesday, November 17, 2021. It includes an attachment regarding "outside juror research" for the case *US v Maxwell*. The body text explains that a spreadsheet has been attached containing research on 40 jurors and typed-up notes. It specifies visual cues within the spreadsheet: green highlighting for juror #117 (the starting juror) and yellow highlighting for the 40th juror. A link to a shared drive is included.
+
+Below this, separated by a horizontal line, is a partial view of an email sent on Tuesday, November 16, 2021, at 7:19 PM. The sender's header is obscured. The visible body text is a request asking the recipient to research "the next 40 jurors tonight" to assist the team with "voir dire tomorrow."
+
+At the bottom of the image is the earliest email in the thread, sent on Tuesday, November 16, 2021, at 6:14 PM. The sender's name and header are redacted. The body text explains that research has been conducted online on jurors proceeding to voir dire (excluding those struck). It mentions attached sample notes that have not yet been corroborated by the sender's own notes taken that day. An example is given regarding narrowing down lists with duplicate names. The email concludes by asking the team what specific information or timing would be most helpful in advance of the next day.
+
+## Visible Text (verbatim)
+**Email 1 (Top):**
+Subject: RE: Outside juror research
+Date: Wed, 17 Nov 2021 04:33:58 +0000
+Attachments: 2021.11.16_US_v_Maxwell_Jurors_Proceeding_to_VD-outside_research_&_VD_notes.xlsx
+
+Hi all,
+Attached please find the completed research on the next 40 jurors and typed-up VD notes from [Redacted] and me.
+Green highlight indicates starting juror #117 and the 40th juror is highlighted in yellow.
+Saved here on the Shared as well.
+Best,
+[Redacted]
+
+**Email 2 (Middle):**
+Subject: RE: Outside juror research
+[Redacted] if you could please get through the next 40 jurors tonight so the team has whatever research you can find for voir dire tomorrow, that would be great. Thank you so much!
+
+**Email 3 (Bottom):**
+Subject: Outside juror research
+Hi team,
+[Redacted] have been looking into the jurors proceeding to voir dire (excluding those that were struck today) online, with many thanks to them. A sample of their notes is attached (which hasn’t yet been corroborated by the notes I took today, which I’ve sent them—for example, if there’s two people with the same name, my notes from today should narrow it down).
+Can you please let [Redacted] know what would be most helpful to you in advance of tomorrow (e.g., how many jurors you want them to get through, by what time, etc.)?
+Thanks,
+
+Footer text: EFTA00010043
+
+## Notable Details / Clues
+*   **Legal Context:** The emails discuss "voir dire," which is the process of questioning potential jurors during jury selection. This indicates an ongoing criminal trial (*US v Maxwell*).
+*   **Urgency/Workflow:** The communication highlights a tight deadline, with requests for work to be completed "tonight" (by 7 PM or 6 PM) for a proceeding starting the following morning ("tomorrow").
+*   **Volume of Work:** The team is tasked with researching and vetting exactly "40 jurors."
+*   **Data Management:** The team uses an Excel spreadsheet (`.xlsx`) for organizing the data, utilizing color-coding (green/yellow) to mark specific juror numbers.
+*   **Collaboration:** The thread involves multiple people ("me," "them," "team"), suggesting a larger legal support staff or paralegal team working together.
+*   **Redaction Pattern:** Names are systematically blacked out, likely because this document was leaked or released publicly while attempting to maintain the privacy of legal personnel and potentially juror names (though juror names aren't explicitly visible in text, they are implied).
+*   **Verification Process:** There is a specific mention that attached notes "hasn’t yet been corroborated by the notes I took today," showing a workflow where initial online research is cross-referenced with physical/first-hand notes.
+*   **Timestamps:** The thread spans late on Tuesday (6:14 PM, 7:19 PM) into the early hours of Wednesday morning (04:33 AM), indicating overtime work.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+Paralegal Specialist
+U.S. Attorney’s Office | SDNY
+1 Saint Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+## Structured Fields
+- **Organization:** U.S. Attorney's Office | SDNY
+- **Role/Title:** Paralegal Specialist
+- **Address:** 1 Saint Andrew's Plaza, New York, NY 10007
+- **Document ID:** EFTA00010044
+

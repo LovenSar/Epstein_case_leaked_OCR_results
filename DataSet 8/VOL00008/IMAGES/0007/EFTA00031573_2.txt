@@ -1,0 +1,75 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031573.pdf ts=2026-03-19T07:11:40 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital email thread, heavily redacted with black bars to conceal personal identifying information such as names and email addresses. The document appears to be a legal or professional communication regarding drafting memos. At the very top, standard email headers are visible but mostly obscured. Below the headers, specific metadata indicates the subject line, date (April 9, 2020), and an attachment name referencing "Geoff's Notes" regarding potential perjury. The body of the message is divided into several sections separated by "----Original Message-----" break lines, indicating a chain of replies.
+
+The first visible paragraph thanks a recipient for something that "works for the team" and mentions attaching a list of excerpts found on Geoff's notes. Following this is a nested reply block where a sender asks to meet earlier, specifically around 3:30 (written as "330"). Below that is another nested quote from an email sent at 10:27 AM which discusses struggling with comments on a "Maxwell memo," specifically the "perjury section." This sender proposes a call at 5 PM to discuss the issue.
+
+Further down, there is another "Original Message" separator followed by a text block discussing internal updates made "last night." The sender explains that both memos have expanded considerably and aims to send polished final versions early next week, though they acknowledge that if comments are few, the drafts could be pushed up as early as tomorrow. The document concludes with an alphanumeric ID in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header Section:**
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: Memos
+Date: Thu, 09 Apr 2020 14:52:11 +0000
+Attachments: Geoff_Notes_Potential_Perjury_by_Maxwell.docx
+
+**Body Section:**
+Thanks, that works for the team. In case it's helpful, I'm attaching the list you sent us of Geoff's excerpts, so that nobody needs to search for it.
+
+----Original Message-----
+From: [REDACTED]
+Sent: Thursday, April 9, 2020 10:36 AM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: Re: Memos
+
+Could you do a little earlier, maybe around 330?
+
+Sent from my iPhone
+
+> On Apr 9, 2020, at 10:27 AM, [REDACTED] wrote:
+> > To add to this, on the Maxwell memo, one issue we've been struggling with is how to address the comments on the perjury section, and that issue isn't straightforward. We think it would be helpful to have a call to talk through the perjury issue-- would it be possible to have a call later today, perhaps around 5?
+> > Thanks--
+
+----Original Message-----
+From: [REDACTED]
+Sent: Thursday, April 9, 2020 10:05 AM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: Memos
+> We circulated updates to both memos internally last night, and we're all hoping to be able to both provide and incorporate comments to the respective drafts today, with the goal of getting you updates later today as well. We should preview that both memos have expanded considerably based on the comments and suggestions, so it may be helpful to do an additional turn once you're able to review so we're sending up the best (and not unnecessarily rushed) products -- it would give everybody some breathing room, I think, if we aimed for very polished final versions early next week. But if you both have very few comments on the next rounds, they likely could get pushed up as early as tomorrow.
+
+**Footer:**
+EFTA00031573
+
+## Notable Details / Clues
+*   **Legal Context:** The attachment name `Geoff_Notes_Potential_Perjury_by_Maxwell.docx` strongly implies this is related to a legal case involving an individual named Geoff Maxwell and issues of perjury.
+*   **Case Reference Number:** The code "EFTA00031573" in the bottom right corner resembles a docket number or an internal reference ID often found in government or corporate litigation files.
+*   **Timeline of Activity:** The correspondence occurred on a single day, April 9, 2020, with multiple messages sent between 10:05 AM and 3:52 PM (+0000 timezone).
+*   **Urgency:** There is significant pressure to complete the work. One sender asks for a call at "5" (presumably 5:00 PM) and mentions hoping to send "polished final versions early next week."
+*   **Communication Medium:** One of the messages explicitly notes "Sent from my iPhone," indicating the communication happened via mobile device.
+*   **Drafting Process:** The text describes a multi-stage drafting process involving internal circulation, incorporating comments, and potential additional review turns ("additional turn").
+*   **Specific Struggle:** The participants identify a specific point of friction: "how to address the comments on the perjury section, and that issue isn't straightforward."
+*   **Expansion of Documents:** A sender notes that "both memos have expanded considerably based on the comments and suggestions," implying significant revision work has already taken place.
+*   **Redaction Pattern:** The redactions are consistent blocks covering names and email addresses but leave the core message content intact, suggesting this image was likely extracted from a public legal filing where privacy details must be suppressed.
+*   **"330":** The request "Could you do a little earlier, maybe around 330?" uses numerals for the time without a colon, a common shorthand in quick email exchanges or notes.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```html
+<html>
+<body>
+<div class="image">
+<p><img src="https://thumbs.dreamstime.com/z/old-school-farmhouse-landscape-view-natural-scenery-pastoral-background-countryside-summer-holiday-sunny-day-blue-z639803110.jpg" alt="A redacted email screenshot showing headers like 'From:', 'To:', 'Cc', and 'Subject: Memos'. The body starts with '>' Hey guys,'. It contains the text: '> Do you think you will get either of the memos to us today? Would be great to review one of them so that we can get it to the brass tomorrow while the other is finished up.' followed by '&gt; Thanks, and a signature redacted as [REDACTED]. The footer reads 'EFTA00031574'." /></p>
+<p><a href="https://pixabay.com/users/216900/">Photo source</a> | <b>Description:</b></p>
+<blockquote>"&gt;-----Original Message----- &gt; From: [REDACTED] &gt; Sent: Thursday, April 09, 2020 08:51 &gt; To: [REDACTED] &gt; Cc: [REDACTED] &gt; Subject: Memos &gt;&gt;&gt; Hey guys,&gt; Do you think you will get either of the memos to us today? Would be great to review one of them so that we can get it to the brass tomorrow while the other is finished up.&gt; Thanks,[REDACTED]&gt; Sent from my iPhone"</blockquote>
+<div class="footer">Source ID: 48723</div></div>
+</body>
+</html>
+```
+

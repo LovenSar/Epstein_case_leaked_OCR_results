@@ -1,0 +1,38 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008500.pdf ts=2026-03-09T07:39:49 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a large, rectangular, silver metallic panel lying flat on a speckled grey and brown terrazzo-style floor. The object appears to be the front faceplate or bezel of a rack-mounted server or computer chassis.
+
+*   **Left Edge and Stickers:** The left vertical edge features several adhered labels. At the top is a white specification sticker with barcodes. Below that is a smaller white barcode label indicating "New York CART LAB." Further down is a bright yellow sticky note with handwritten text in black marker reading "IBM 1817." Near the bottom is a larger sheet of paper or tape containing typed and handwritten data, including a date of "8/15/19" (August 15, 2019) and partially redacted information regarding "Cell Bay" and "Web Host."
+*   **Center Panel:** The central majority of the panel is a flat sheet metal surface. Near the top center is a recessed, silver handle or latch mechanism featuring two inward-pointing arrows. Below this are faint smudges, scuffs, and remnants of adhesive residue (white tape circles) indicating prior use or labeling.
+*   **Right Side:** The right third of the panel features two large, vertical rectangular vents consisting of grids of circular perforations for airflow. On the far right edge, black rubberized latches or handles protrude outward perpendicular to the panel face. A thin beige tag hangs from one of these latches via a wire or string.
+*   **Top Right Corner:** A yellow triangular warning sticker is visible, featuring an exclamation mark and heat waves symbol, indicating hot surfaces. Next to it is a smaller white regulatory compliance sticker.
+*   **Bottom Edge:** Running horizontally across the bottom edge is a strip of clear adhesive tape. Handwritten in black marker on this tape is a long alphanumeric string, appearing to be an asset tag or serial number ending with "IBM 17."
+
+## Visible Text (verbatim)
+**Left Side Stickers:**
+*   [Top White Label]: Barcode and illegible fine print text.
+*   [Middle White Label]: "New York CART LAB" vertically printed. Barcode visible.
+*   [Yellow Sticky Note]: "IBM 1817" (Handwritten).
+*   [Bottom Paper Label]:
+    *   "MEM: 16-BB"
+    *   "Date: 8/15/19"
+    *   "Cell Bay:"
+    *   "[Redacted Box]"
+    *   "Web Host:"
+
+**Right Side Stickers:**
+*   [Yellow Warning]: Standard triangular caution symbol with heat waves and exclamation point.
+
+**Bottom Tape (Handwritten):**
+*   "SOD-NY-S02-71 IBM 17" (Handwriting is scrawled, middle section is partially obscured/messy).
+
+## Notable Details / Clues
+*   **Provenance:** The text "New York CART LAB" and the date "8/15/19" suggest this piece of hardware was part of a computing lab inventory in New York around August 2019.
+*   **Identification:** The handwritten label "IBM 1817" strongly suggests an IBM model number or asset identifier, though the physical hardware design (latches, vent placement) is consistent with Dell PowerEdge server faceplates.
+*   **Condition:** The metal surface shows signs of aging and heavy use. There is noticeable scuffing on the central panel, residue from removed stickers, and slight oxidation or rust near the bottom left corner screw holes.
+*   **Ventilation:** The dual vent grids on the right side indicate this is likely a high-density computing component requiring significant airflow cooling.
+*   **Asset Management:** The extensive use of tape, labels, and handwritten tracking numbers (like "SOD-NY...") indicates a strict inventory or decommissioning process where specific hardware was tracked by location (SOD - possibly Server Operations Department) and lab name.
+

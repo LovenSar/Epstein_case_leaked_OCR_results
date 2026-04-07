@@ -1,0 +1,201 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024004.pdf ts=2026-03-16T05:16:59 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays two segments of an email thread, likely captured from a legal discovery release or public filing regarding Jeffrey Epstein. The documents utilize a standard white-background email interface (resembling Outlook Web Access). 
+
+**Top Email Segment:**
+This section shows the most recent message in the thread. The header information (From, To, Cc) is heavily obscured by large black rectangular redactions covering the entire right side of the header block. Below the redacted headers, the Subject line, Date, and Attachment list are clearly visible. The body text follows immediately with a standard "Dear all" salutation. The message requests the completion of an attached form regarding document preservation. The sender urges promptness, warning that failure to comply can have negative consequences ("come back to bite us"). A postscript (PS) appears at the bottom, apologizing for any oversight if the recipient had already provided the information. A small black rectangle obscures the sender's signature block.
+
+**Bottom Email Segment:**
+Below a horizontal gray divider line (implied or just spacing), a second email header and partial body are visible. The "From" field shows a name redaction, while the "Sent" date is clearly legible as Monday, August 12, 2019. A massive black rectangle obscures the middle section of this email's header (likely covering recipients) and potentially part of the early body text. Below this obstruction, the Subject line repeats. The visible body text explains the context: a "formal litigation hold" is being instituted in connection with Mr. Epstein’s death at MCC (Metropolitan Correctional Center). It identifies the recipients as having supervised work on the Epstein matter and thus possessing responsive records.
+
+A Bates number ("EFTA00024004") is visible in the bottom right corner, indicating this document was part of a formal government release.
+
+## Visible Text (verbatim)
+**Top Email Header:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Epstein OIG/FBI--Document Preservation
+Date: Thu, 15 Aug 2019 21:33:52 +0000
+Attachments: Jeffrey_Epstein_lit_hold_notice_form_08_12_2019.pdf
+
+**Top Email Body:**
+Dear all,
+
+I’m sorry to pester but I think I haven’t heard from you on this. Please complete and fill out the attached form by COB tomorrow, and return to me.
+
+It takes very little time. And failing to take care of this can really come back to bite us.
+
+Many thanks,
+[Redacted Signature]
+
+PS apologies if you provided this and I overlooked it.
+
+**Bottom Email Header:**
+From: [Redacted]
+Sent: Monday, August 12, 2019 5:13 PM
+
+**Bottom Email Subject/Body:**
+Subject: RE: Epstein OIG/FBI--Document Preservation
+Dear all,
+
+As [Redacted] explained, we are instituting a formal litigation hold in connection with Mr. Epstein’s death at MCC. You have been identified as having done work on or supervised the Epstein matter, and thus as possibly having responsive records.
+
+**Footer:**
+EFTA00024004
+
+## Notable Details / Clues
+*   **Timeline Logic:** The bottom email (August 12) issues the initial notice, and the top email (August 15) is a follow-up giving "tomorrow" as a deadline (implying an August 16 close). The attachment filename in the top email explicitly dates the form to "08_12_2019", corroborating the timeline.
+*   **Legal Terminology:** Terms like "litigation hold," "responsive records," "OIG" (Office of Inspector General), and "FBI" indicate a formal federal investigation context.
+*   **Location Reference:** "MCC" refers to the Metropolitan Correctional Center in New York City, where Jeffrey Epstein died on August 10, 2019. The notice was issued two days later.
+*   **Urgency and Tone:** The sender uses phrases like "sorry to pester" but balances this with a stern warning that failing to comply "can really come back to bite us," highlighting the legal risks of non-compliance with discovery orders.
+*   **Redaction Pattern:** The redactions are standard black bars used to protect personally identifiable information (PII) such as names and email addresses in public documents.
+*   **Document Flow:** The visible text flows from a general notification ("As [redacted] explained...") to a specific request for action, suggesting the top email is an administrative follow-up to ensure compliance with the initial legal hold notice.
+*   **Attachment Name:** The specific filename `Jeffrey_Epstein_lit_hold_notice_form_08_12_2019.pdf` links the two emails directly; it confirms the bottom email was indeed sent on the 12th and contains the form referenced.
+*   **Partial Visibility:** In the bottom section, a large black box obscures the body text between the header and the visible paragraph starting "As [redacted] explained," suggesting that much of the original message's context or recipient list has been redacted or is unreadable in this view.
+*   **Date Format:** The top email uses UTC time (+0000), while the bottom email uses local time (PM), which can be useful for geolocation of when the emails were sent relative to business hours.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence, likely from the Google Workspace interface given the blue font on a white background. The document is a formal communication regarding legal record preservation, specifically concerning the Jeffrey Epstein case.
+
+**Main Body:**
+The primary text consists of five distinct paragraphs instructing the recipient on how to handle records. The first paragraph emphasizes preserving information about "Mr. Epstein," specifically noting his death and an earlier reported physical injury incident. It explicitly advises recipients not to alter relevant records and instead save working copies as new documents to preserve the original version.
+
+The second paragraph introduces a formal litigation hold notice attached as an "EOUSA-provided form." It instructs the reader to review, fill out (indicating responsive records), sign, and return the form. A specific request is made regarding USAO numbers for share directories likely to contain relevant information.
+
+The third paragraph notes a preference for scanned returns via email but allows for interoffice mail as an alternative method.
+
+The fourth paragraph requests notification if other personnel within the USAO (United States Attorney's Office) might possess relevant documents or evidence.
+
+The fifth paragraph invites questions or discussion. It concludes by stating that the sender is copying a redacted individual to inform them of the hold and request they suspend routine email maintenance deletions for recipients of this specific thread.
+
+**Signature Block:**
+Below "Many thanks," there is a large black rectangle redacting the sender's name. The title provided is "Deputy Chief, Civil Division, and Litigation Hold Coordinator." The organization is listed as "U.S. Attorney's Office, S.D.N.Y." The address is listed as "New York, NY 10007" with a redacted email address below.
+
+**Email Thread Snippet:**
+The bottom portion of the image reveals a thread history.
+*   **Header 1:** A "From" field (redacted) and a timestamp "Monday, August 12, 2019 4:46 PM."
+*   **Content Area:** A massive blacked-out section obscures the main body of this previous email.
+*   **Subject Line:** Visible below the black box is the subject line: "Subject: RE: Epstein OIG/FBI--Document Preservation."
+*   **Text Snippet:** Below the subject, a snippet reads: "FYI, as a result of a preservation request Epstein’s lawyers have made on behalf of the family, which indicates a potential wrongful death case, you will shortly be receiving a formal litigation hold request from [redacted] our litigation hold coordinator."
+*   **Header 2:** At the very bottom, another "From" field (redacted) and timestamp "Monday, August 12, 2019 11:43 AM" are visible.
+
+**Footer:**
+In the bottom right corner, a document identifier code is visible: "EFTA00024005".
+
+## Visible Text (verbatim)
+
+Please note and preserve whatever you have about Mr. Epstein, not limited to his death and to the earlier reported incident in which he suffered physical injuries. In addition, to the extent possible, please avoid altering any relevant records. If you need to use existing documents, please save what you’re working off of as a new document so that the version that now exists remains preserved and available.
+
+I attach a formal litigation hold notice, which as required is on an EOUSA-provided form. Please review the notice, fill out the form to indicate whether and where you have responsive records, and sign and return it to me. In particular, be sure to let me know by USAO number if possible what records and share directories we have that are likely to include relevant information.
+
+I prefer scanned and emailed return of the forms, but you can also use interoffice mail if you prefer.
+
+Please let me know if you think other USAO personnel may have relevant documents or evidence.
+
+And please let me know if you have questions or want to discuss.
+
+Finally, I am copying [REDACTED] to inform him of the new litigation hold, and to ask him to ensure that all responsive information on our electronic record systems is preserved, including by suspending the routine maintenance email deletions for recipients of this email.
+
+Many thanks,
+
+[REDACTED]
+
+Deputy Chief, Civil Division, and Litigation Hold Coordinator
+U.S. Attorney’s Office, S.D.N.Y.
+[REDACTED]
+New York, NY 10007
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, August 12, 2019 4:46 PM
+[REDACTED]
+Subject: RE: Epstein OIG/FBI--Document Preservation
+
+FYI, as a result of a preservation request Epstein’s lawyers have made on behalf of the family, which indicates a potential wrongful death case, you will shortly be receiving a formal litigation hold request from [REDACTED] our litigation hold coordinator.
+
+From: [REDACTED]
+Sent: Monday, August 12, 2019 11:43 AM
+
+EFTA00024005
+
+## Notable Details / Clues
+*   **Jurisdiction:** The correspondence originates from the U.S. Attorney's Office for the Southern District of New York (S.D.N.Y.), a key location in the Epstein case investigation.
+*   **Role:** The sender holds a high-ranking position: Deputy Chief and Litigation Hold Coordinator, indicating this is an official government legal directive, not just standard counsel advice.
+*   **Date Context:** The email dates are August 12, 2019. This places the document during the critical period shortly after Jeffrey Epstein's death in August 2019, when law enforcement was hunting for others he had recruited.
+*   **Legal Mechanism:** The term "Litigation Hold" is specific legal terminology used to prevent the spoliation (destruction) of evidence during potential litigation or investigations.
+*   **Specific Agency Acronym:** "EOUSA-provided form" likely refers to the Executive Office for United States Attorneys (part of the DOJ).
+*   **Privacy Redaction:** There are extensive black bars obscuring names and email addresses, consistent with government records that redact sensitive personnel information or ongoing investigation details.
+*   **Technical Instruction:** The sender specifically asks recipients to suspend "routine maintenance email deletions," showing an awareness of eDiscovery issues where server auto-cleanup might destroy evidence before it is reviewed.
+*   **Wrongful Death Implication:** The mention of "Epstein's lawyers... indicating a potential wrongful death case" provides context for the urgency and scope of the document preservation request.
+*   **Document ID:** The code "EFTA00024005" in the footer suggests this image might be part of a larger exhibit or public record docket (likely from an EFTA - Epstein Family Trust Association, though that is an inference based on common usage of such codes).
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a digital screenshot or PDF export of an email chain, heavily redacted in areas pertaining to names and specific contact information. The document is structured as a "Forwarded" message containing a nested original email regarding legal document preservation.
+
+At the very top, a large, solid black rectangular block obscures the header of the primary email client window or the top portion of the first message, effectively blacking out recipient addresses and likely the subject line of the forwarder. Below this block, the visible subject line for the current view reads "Subject: FW: Epstein OIG/FBI--Document Preservation," indicating a Forwarded message concerning an Office of Inspector General (OIG) or FBI investigation into Jeffrey Epstein.
+
+The body of this first email is brief and formatted in blue hyperlink-style text. It begins with a directive to "All" recipients, instructing them to see the content below and follow specific instructions that are partially redacted by a small black box. The sender mentions sending copies ("cc") to others at SDNY (Southern District of New York) if applicable. A closing salutation "Thanks," is followed by another small redacted box where the sender's name would appear.
+
+A horizontal divider separates this header from the original email thread below. The "From" field for the original email is obscured by a wide black bar. However, the timestamp is visible: "Sent: Monday, August 12, 2019 11:35 AM." Beneath the "From" line is another large black bar obscuring the subject line area of the original message, though the text "Subject: Epstein OIG/FBI--Document Preservation" is repeated immediately below this block in standard text.
+
+The main body of the original email provides specific instructions on a legal hold or preservation notice. It requests that the recipient forward the message to anyone possessing documents related to Jeffrey Epstein's suicide and copy (cc) the sender. The email explicitly asks for preservation of documents relating to Epstein’s conditions of confinement.
+
+Three bullet points detail the preservation requirements:
+1.  **Emails:** The sender notes that emails are already preserved via a "regular three-year backup" but asks recipients to confirm if they possess any related emails.
+2.  **Hard Copies:** Recipients with hard-copy notes are instructed to scan them and send them electronically. If they have none, they must report this.
+3.  **Text Messages:** The sender specifically requests checking for pertinent text messages ("texted anything pertinent") and establishing a method to preserve them if found.
+
+The footer of the original email features a signature block that is partially redacted. The visible text identifies the sender as an "Associate U.S. Attorney" within the "United States Attorney’s Office" in the "Southern District of New York." An address line is visible showing "New York, NY 10007," though the street address above it is redacted. A final large black bar sits at the bottom of the signature block area. In the extreme bottom right corner, a document tracking number "EFTA0024006" is printed in small grey text.
+
+## Visible Text (verbatim)
+
+**Subject:** FW: Epstein OIG/FBI--Document Preservation
+
+**Body (Top Email):**
+All – Please see below and follow [redacted] instructions. Additionally, if you believe there are others at SDNY to whom this email should be sent, please let me know immediately.
+Thanks,
+[redacted name]
+
+**Header (Original Message):**
+From: [redacted]
+Sent: Monday, August 12, 2019 11:35 AM
+Subject: Epstein OIG/FBI--Document Preservation
+
+**Body (Original Message):**
+Please forward this to everyone who might have any documents relating to the Epstein suicide, and cc me:
+Please make sure to preserve any documents you may have relating to Epstein’s conditions of confinement.
+*   Your emails will be adequately preserved, for present purposes, by the regular three-year backup. But let me know if you have any or not.
+*   If you have any hard-copy notes, please scan them and send them to me. If you have none, let me know that too.
+*   Most particularly, please check to see if you have texted anything pertinent. If so let me know, one way or the other. If you do have anything, we’ll figure out how to preserve that.
+
+**Signature Block:**
+[redacted header]
+Associate U.S. Attorney
+United States Attorney’s Office
+Southern District of New York
+[redacted address line]
+New York, NY 10007
+[redacted footer]
+
+**Footer:**
+EFTA0024006
+
+## Notable Details / Clues
+
+*   **Investigation Context:** The text explicitly references the "Epstein suicide," indicating this legal hold was likely activated immediately following Jeffrey Epstein's death in 2019.
+*   **Specific Evidence Types:** The email targets three specific digital and physical mediums: standard emails, hard-copy notes (scanned), and mobile text messages, suggesting an investigation where metadata or fleeting communications were of interest.
+*   **Jurisdiction:** The document is firmly anchored to the "Southern District of New York" (SDNY), a federal district court known for handling major white-collar and high-profile criminal investigations.
+*   **Legal Preservation Protocol:** The mention of a "regular three-year backup" suggests standard compliance procedures, but the specific request for text messages implies that standard email backups might not capture cellular data, highlighting a need to bridge different types of electronic evidence.
+*   **Date Sensitivity:** The timestamp "Monday, August 12, 2019" places this document just months after Epstein's death (which occurred in August 2019), suggesting a rapid response time by the U.S. Attorney's Office to secure potential evidence before it was lost or deleted.
+*   **Redaction Pattern:** The use of black boxes is consistent and standard for declassified documents or privacy-redacted public records, hiding specific names of attorneys while leaving job titles visible.
+*   **CC Instructions:** The request to "cc me" indicates a need for a chain of command within the U.S. Attorney's office to be kept apprised of all potential evidence sources.
+

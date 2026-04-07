@@ -1,0 +1,110 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00014022.pdf ts=2026-03-11T21:08:43 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+U.S. Department of Justice
+
+**United States Attorney**
+**Southern District of Florida**
+
+[REDACTED]
+West Palm Beach, FL 33401
+Facsimile: [REDACTED]
+
+[Date]
+
+VIA UNITED STATES MAIL
+[Name and address of victim’s attorney]
+
+Re: **[Defendant]/[Victim]: NOTIFICATION OF IDENTIFIED VICTIM**
+
+Dear Mr. [Attorney]:
+
+By virtue of this letter, the United States Attorney’s Office for the Southern District of Florida asks that you provide the following notice to your client, [victim], who has been identified as a victim of a federal offense.
+
+On June 30, 2008, [defendant] entered a plea of guilty to violations of Florida Statutes Sections [case information] and was sentenced to a term of twelve months’ imprisonment to be followed by an additional six months’ imprisonment, followed by twelve months of Community Control 1, with conditions of community confinement imposed by the Court.
+
+In light of the entry of the guilty plea and sentence, the United States has agreed to defer federal prosecution in favor of this state plea and sentence, subject to certain conditions, including the following:
+
+1. An independent Special Master was assigned the task of selecting an attorney representative to represent the victims in connection with civil litigation between the victims and [defendant]. The Special Master selected Robert Josefsberg, Esq. of the firm Podhurst Orseck, P.A., a highly-respected and experienced attorney. [The victim] is not obligated to use Mr. Josefsberg as her civil attorney, but, as explained in greater detail below, Mr. Josefsberg’s services will be provided at no cost to [the victim] because [defendant] is obligated to pay the costs and fees of the attorney-representative. Also, [defendant] and his attorneys
+
+EFTA00014022
+
+## Structured Fields
+*   **Date:** [Date] / June 30, 2008 (mentioned in text)
+*   **Location:** West Palm Beach, FL 33401
+*   **Organization:** U.S. Department of Justice, United States Attorney, Southern District of Florida, Podhurst Orseck, P.A.
+*   **Names:** Robert Josefsberg, Esq.
+*   **Roles:** Defendant, Victim, Attorney, Special Master
+*   **Document ID:** EFTA00014022
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[NAME OF VICTIM’S ATTORNEY]
+AMENDED NOTIFICATION OF IDENTIFIED VICTIM [NAME]
+[DATE]
+PAGE 2 OF 3
+
+can only contact [the victim] via Mr. Josefsberg, assuming that she would like Mr. Josefsberg to serve as her attorney.
+
+2. If [the victim] elects to file suit against [the defendant] pursuant to Title 18, United States Code, Section 2255, [defendant] will not contest the jurisdiction of the United States District Court for the Southern District of Florida over his person and/or the subject matter, and [defendant] waives his right to contest liability and also waives his right to contest damages up to an amount as agreed to between [the victim] and [defendant], so long as [the victim] elects to proceed exclusively under 18 U.S.C. § 2255, and she waives any other claim for damages, whether pursuant to state, federal, or common law. Notwithstanding this waiver, [defendant’s] agreement with the United States, his waivers and failure to contest liability and such damages in any suit are not to be construed as an admission of any criminal or civil liability.
+
+3. As stated above, [defendant] has agreed to pay the fees of the attorney representative selected by the independent third party. This provision, however, shall not obligate [defendant] to pay the fees and costs of contested litigation filed against him. Thus, if after consideration of potential settlements, [the victim] and Mr. Josefsberg elect to file a contested lawsuit pursuant to 18 U.S.C. § 2255 or she elects to pursue any other contested remedy, the obligation to pay the costs of the attorney representative, as opposed to any statutory or other obligations to pay reasonable attorneys fees and costs such as those contained in Section 2255, shall cease.
+
+Mr. Josefsberg will be contacting you within the next two weeks to explain these terms and to determine if he may contact [the victim] directly. If you would like to contact Mr. Josefsberg directly, he can be reached at [REDACTED].
+
+If [the victim] has selected other counsel to represent her, or if she does so in the future, and she decides to pursue a claim against [the defendant,] his attorney, [name] asks that he be contacted at [firm name and address].
+
+In addition, there has been litigation between the United States and two other victims regarding the disclosure of the entire agreement between the United States and [defendant]. Mr. Josefsberg can provide further guidance on this issue, or if [the victim] selects another
+
+EFTA00014023
+
+## Structured Fields
+- **Doc ID**: EFTA00014023
+- **Page**: 2 of 3
+- **Date**: [DATE] (Placeholder)
+- **Victim's Attorney**: [NAME OF VICTIM'S ATTORNEY]
+- **Victim Name**: [NAME] (Placeholder)
+- **Defendant**: [defendant] (Placeholder)
+- **Attorney Name**: Mr. Josefsberg, [name] (Placeholder)
+- **Firm/Contact Info**: [firm name and address] (Placeholder), [REDACTED] (Phone number)
+- **Legal Reference**: Title 18, United States Code, Section 2255; 18 U.S.C. § 2255
+- **Court Jurisdiction**: United States District Court for the Southern District of Florida
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[NAME OF VICTIM’S ATTORNEY]
+AMENDED NOTIFICATION OF IDENTIFIED VICTIM [NAME]
+[DATE]
+PAGE 3 OF 3
+
+attorney to represent her, that attorney can review the Court’s order in the matter of In re
+Jane Does 1 and 2, S.D. Fl. Court File No. 08-80736-CIV-MARRA.
+
+As I stated in my earlier notification, please understand that neither the U.S.
+Attorney’s Office nor the Federal Bureau of Investigation can take part in or otherwise assist
+in civil litigation, but we again thank you and your client for all of her assistance during the
+course of this investigation.
+
+R. ALEXANDER ACOSTA
+UNITED STATES ATTORNEY
+
+By:
+[REDACTED]
+ASSISTANT U.S. ATTORNEY
+
+cc: Robert Josefsberg, Esq.
+[Defendant’s attorney’s name]
+
+EFTA00014024
+
+## Structured Fields
+- **Date:** [DATE] (Placeholder text)
+- **Case ID:** 08-80736-CIV-MARRA
+- **Court/Locality:** S.D. Fl. (Southern District of Florida)
+- **Attorney/Signatory:** R. Alexander Acosta, United States Attorney
+- **Deputy Signatory:** Assistant U.S. Attorney (Name Redacted)
+- **CC Recipient:** Robert Josefsberg, Esq.
+- **Organization:** U.S. Attorney’s Office, Federal Bureau of Investigation
+- **Document ID:** EFTA00014024
+

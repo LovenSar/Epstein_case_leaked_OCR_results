@@ -1,0 +1,92 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00011135.pdf ts=2026-03-10T10:14:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing three distinct messages arranged vertically. The interface appears to be a standard email client with a white background and black text. Large portions of the "From," "To," and "Cc" fields are obscured by heavy black rectangular redaction bars across the entire width or height of those sections.
+
+The top section shows an email sent on Thursday, October 14, 2021. The subject line indicates it concerns a legal case, "US v. Maxwell," involving a joint proposed juror questionnaire and voir dire. Two Word document attachments are listed. The body text is brief, addressed to "Chambers," requesting the documents be attached and signing off with "Respectfully," followed by a redacted name block.
+
+Below that is a second email from "Nathan NYSD Chambers" sent on the same day (Thursday, October 14, 2021) at 9:36 AM. This message serves as a judicial instruction or request, written by Judge Alison J. Nathan (referred to as "Chambers of the Hon. Alison J. Nathan"). She is asking counsel for Word document versions of specific legal filings regarding the jury selection process.
+
+The bottom section shows the earliest email in the thread, sent on Monday, October 11, 2021. It features a bright yellow highlighted warning label at the very bottom reading "CAUTION - EXTERNAL:". The visible body text begins with "Good evening," before cutting off. The subject line remains consistent across all three emails regarding the Maxwell case and jury materials.
+
+## Visible Text (verbatim)
+
+**Top Email Header:**
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire
+Date: Thu, 14 Oct 2021 14:57:31 +0000
+Attachments: Joint_Maxwell_Jury_Questionnaire_[to_Court].docx; Joint_Proposed_Voir_Dire_[to_Court].docx
+
+**Top Email Body:**
+Chambers,
+Please see attached.
+Respectfully,
+[REDACTED]
+
+**Middle Email Header:**
+From: Nathan NYSD Chambers [REDACTED]
+Sent: Thursday, October 14, 2021 9:36 AM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: Re: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire
+
+**Middle Email Body:**
+Counsel:
+
+The Court requests that counsel provide Word doc versions of the proposed juror questionnaire and voir dire.
+
+Sincerely,
+Chambers of the Hon. Alison J. Nathan
+
+**Bottom Email Header:**
+From: [REDACTED]
+Sent: Monday, October 11, 2021 7:53 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire
+
+**Bottom Email Body:**
+CAUTION - EXTERNAL:
+Good evening,
+
+**Footer:**
+EFTA00011135
+
+## Notable Details / Clues
+- **Case Identification:** The case is identified as "US v. Maxwell" with docket number "20 Cr. 330" in the Southern District of New York (indicated by "(AJN)" which often stands for Allison J. Nathan, the assigned judge).
+- **Judicial Role:** The middle email explicitly identifies the sender as the chambers of Judge Alison J. Nathan.
+- **Document Requests:** There is a specific administrative request in the second email asking for files to be provided as "Word doc versions" rather than PDFs, likely to allow the court editing capabilities or easier review.
+- **Timeline:** The emails span a few days (Monday Oct 11 to Thursday Oct 14), indicating a back-and-forth process between counsel and the court.
+- **Security Flag:** The bottom email has a yellow highlight box with "CAUTION - EXTERNAL:", suggesting it was originally received from an outside source or sent to an external party, prompting security warnings in the client software.
+- **File Naming:** The attachments are specifically named "[to_Court]", indicating they were prepared for submission to judicial authorities.
+- **Redaction Extent:** The redactions are very aggressive, covering almost all personal email addresses and server information (SMTP/From headers).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Attached please find the parties' joint proposed juror questionnaire and voir dire. Per the attached letter, the parties respectfully request that the Court accept the joint proposed juror questionnaire and voir dire under seal.
+
+In addition, the Government has produced Jencks Act material and exhibits to the defense today. If the Court would like a copy, we would be happy to provide it.
+
+Respectfully submitted,
+
+[REDACTED]
+Assistant United States Attorney
+United States Attorney's Office
+Southern District of New York
+One St. Andrew's Plaza
+New York, New York 10007
+Te[REDACTED]
+
+CAUTION - EXTERNAL EMAIL: This email originated outside the Judiciary. Exercise caution when opening attachments or clicking on links.
+
+EFTA00011136
+
+## Structured Fields
+*   **Organization:** United States Attorney's Office, Southern District of New York
+*   **Location:** One St. Andrew's Plaza, New York, New York 10007
+*   **Document ID:** EFTA00011136
+

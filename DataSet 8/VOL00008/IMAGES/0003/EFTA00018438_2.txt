@@ -1,0 +1,123 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018438.pdf ts=2026-03-13T18:33:39 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot or printed excerpt of an email thread regarding the revocation of a passport belonging to Jeffrey Epstein. The document is formatted with white background and standard email client styling, utilizing black text for headers and metadata, and blue text for the body of the messages. Several sensitive fields, such as names and specific addresses, are obscured by solid black rectangular redaction bars.
+
+The layout is organized chronologically from bottom to top, indicating a reply chain.
+*   **Bottom Section:** Represents the earliest email in the thread, sent at 15:50 (3:50 PM). It features headers with a redacted "From" field and date. Below a large black bar obscuring the recipient lines, the body text asks for a copy of a detention order to revoke Epstein's passport, noting his incarceration status.
+*   **Middle Section:** Represents the reply sent at 3:57 PM. It is distinguished by a header indicating "Official" and "UNCLASSIFIED" in green text. A large black bar sits above the body text, likely covering an attachment reference or further redacted headers. The body text explains that an order denying Epstein's application is attached but explicitly states the sender takes no position on State Department extra-judicial processes.
+*   **Top Section:** Represents a final reply sent at 20:25 (8:25 PM). It features headers with redacted names. The visible text is brief, reading "Understood and thanks" followed by a redacted block. A small black square icon appears below this text, possibly indicating a signature or status indicator.
+*   **Footer:** At the very bottom right corner, a document control number "EFTA00018438" is visible in black text.
+
+## Visible Text (verbatim)
+**Top Header Block**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Epstein Passport
+Date: Wed, 31 Jul 2019 20:25:28 +0000
+
+**Body Segment 1**
+Understood and thanks [Redacted Square]
+[Redacted Square Icon]
+
+**Middle Header Block**
+Official
+UNCLASSIFIED
+
+From: [Redacted] <[Redacted]>
+Sent: Wednesday, July 31, 2019 3:57 PM
+To: [Redacted Bar]
+Subject: RE: Epstein Passport
+
+**Body Segment 2**
+The decision and order denying Mr. Epstein’s application, which was publicly filed on the case docket, is attached. Just to be clear, we take absolutely no position on any State Department or other extra-judicial processes relating to Mr. Epstein—I’m sending this publicly-filed document just as a courtesy. I don’t know if individuals have any due process or any other rights in connection with their passports (and have never previously had a defendant who had his or her passport revoked upon arrest and/or detention), and so do not have any view or position on the determinations of any other department or agency. All that said, the order is attached, which I hope that is useful.
+
+thank you,
+[Redacted Signature Block]
+
+**Bottom Header Block**
+From: [Redacted]
+Sent: Wednesday, July 31, 2019 15:50
+To: [Redacted Bar]
+Subject: RE: Epstein Passport
+
+**Body Segment 3**
+Would you be able to send me a copy of the detention order? Consular Affairs will use the order to revoke his passport. Even though he is incarcerated, the State Department would like to revoke his U.S. passport.
+
+Thanks.
+[Redacted Square Icon]
+
+**Footer**
+EFTA00018438
+
+## Notable Details / Clues
+*   **Government Origin:** The presence of "Official" and "UNCLASSIFIED" in green text strongly suggests this correspondence comes from a government entity, likely the U.S. State Department given the context of passports.
+*   **Chronology:** The timestamps establish a sequence: A request at 15:50 (3:50 PM), a response at 15:57 (3:57 PM), and a final acknowledgment at 20:25 (8:25 PM).
+*   **Legal Context:** The text references "case docket," "detention order," and "incarcerated," confirming that Jeffrey Epstein is currently detained or imprisoned.
+*   **Bureaucratic Tone:** The middle email uses distancing language ("take absolutely no position on any State Department... processes"), indicating the sender (possibly a judicial officer or different agency) does not want to overstep into executive branch (State Department) territory regarding passport rights.
+*   **Redaction Extent:** Almost all identifying information (names, agencies, specific case numbers) is blacked out, emphasizing the need for privacy while preserving the metadata (dates and subject).
+*   **Subject Consistency:** All three emails share the same thread subject: "RE: Epstein Passport."
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Assistant Special Agent in Charge
+[REDACTED]
+New York Field Office
+U.S. Department of State
+Diplomatic Security Service
+[REDACTED]
+
+Official
+UNCLASSIFIED
+
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, July 10, 2019 10:13 PM
+Subject: RE: Epstein Passport
+[REDACTED]
+Happy to be in touch – let us know what info we can provide or how we can be of help.
+thanks,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, July 10, 2019 22:12
+To: [REDACTED]
+Subject: Epstein Passport
+[REDACTED]
+Cc’ed to this email is the prosecution team for the Epstein case.
+
+Team,
+
+Please meet [REDACTED] an ASAC at the DSS NY Field Office (and my former boss).
+
+State Department’s Consular Affairs Bureau is looking for some information regarding Epstein’s passport, as they considering revoking it. Can you guys please coordinate with [REDACTED] regarding this issue.
+
+Thanks!
+
+[REDACTED]
+Special Agent
+U.S. Attorney’s Office
+Southern District of New York
+[REDACTED]
+[REDACTED]
+
+EFTA00018439
+
+## Structured Fields
+- **Date:** Wednesday, July 10, 2019 (Sent at 10:13 PM and 22:12)
+- **Organization:** U.S. Department of State, Diplomatic Security Service, New York Field Office, DSS NY Field Office, State Department's Consular Affairs Bureau, U.S. Attorney's Office Southern District of New York, Prosecution team (Epstein case)
+- **Subject:** Epstein Passport
+- **Role/Title mentioned:** Assistant Special Agent in Charge (ASAC), Special Agent
+- **Document ID:** EFTA00018439
+- **Classification:** UNCLASSIFIED / Official
+- **Locations mentioned:** New York Field Office, Southern District of New York
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EFTA00018440
+
+## Structured Fields
+*   **Doc ID:** EFTA00018440
+

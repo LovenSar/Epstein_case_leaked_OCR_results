@@ -1,0 +1,25 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008428.pdf ts=2026-03-09T06:50:24 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of computer hardware components stored inside packaging on a speckled surface. Dominating the center is a clear, anti-static plastic bag containing a vertical stack of three 3.5-inch enterprise hard disk drives. The drives are oriented with their labels facing upward. Inside the lid of the open cardboard box, standard shipping markings and logos are visible, appearing upside down relative to the viewer. The bottom flap of the box lies flat on the surface. Underneath the plastic bag and slightly beneath the right edge of the box is a sheet of white paper. The entire assembly rests on a glossy, mottled countertop featuring a mix of grey, black, and white granules. A clear plastic sleeve or document folder is visible at the very bottom edge of the frame. The plastic bag containing the drives has punched holes in the top corners, typical for ESD-safe packaging.
+
+## Visible Text (verbatim)
+- **On the hard drive labels:** "New York CART Lab"
+- **Handwritten on the bag:** "clone #4"
+- **Bottom of the label:** "seagate.com"
+- **On the cardboard box lid (upside down):** A logo resembling a cross within a circle, text reading "SMEAD", and a date code block that partially reads "No. 106923 Upc 7180...".
+
+## Notable Details / Clues
+- **Forensic Context:** The phrase "clone #4" implies a series of duplications or copies, likely part of a data preservation workflow where multiple identical drives are created from source evidence.
+- **Legal/Court Environment:** The text "New York CART Lab" suggests this is a Criminal Action Response Team lab (common in legal contexts) within New York state, indicating these drives are likely digital evidence.
+- **Enterprise Hardware:** The visible drive sizes and the "Seagate" branding suggest high-capacity enterprise-grade storage devices, typically used in server arrays or NAS systems rather than consumer desktops.
+- **Packaging Condition:** The bottom edge of the pinkish-tinted plastic bag appears to be torn or roughly cut, suggesting the drives were extracted quickly from an inventory box for immediate processing.
+- **Box Branding:** The "SMEAD" logo on the box identifies it as standard business packaging often used by legal discovery vendors or evidence holding facilities.
+- **Stacked Configuration:** The drives are stacked tightly, maximizing space within the shipping box, a common practice when moving multiple identical units (like clones) to a single destination.
+- **Orientation:** The drives are secured face-up, ensuring that the labels containing serial numbers and forensic identifiers remain easily visible without needing to handle the drives immediately.
+- **Surface Texture:** The background surface appears to be a granite or quartz composite countertop, suggesting the photo was taken in an office, crime lab, or evidence processing station rather than a residential setting.
+- **Lighting:** There is a slight glare on the plastic bag, particularly near the center-right, indicating overhead artificial lighting typical of an indoor workspace.
+- **Paper Document:** The white paper beneath the drives is mostly blank or obscured, likely serving as a barrier to protect the bottom surface of the plastic bag or holding a label that has fallen out.
+

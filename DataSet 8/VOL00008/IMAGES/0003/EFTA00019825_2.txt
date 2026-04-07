@@ -1,0 +1,187 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019825.pdf ts=2026-03-14T07:00:06 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED]" <[REDACTED]>
+To: "[REDACTED]" <[REDACTED]>
+Subject: FW: Your Thursday morning trip with Uber
+Date: Fri, 15 Nov 2019 23:46:59 +0000
+Inline-Images: map_bb88f481-b723-437f-96ff-061c4538cb83_wide.png; map_bb88f481-b723-437f-96ff-061c4538cb83.png; image001.jpg; image002.png; image003.jpg; image004.jpg;
+image005.jpg; image006.jpg; image007.jpg; image008.jpg; image009.jpg; image010.jpg;
+image011.jpg; image012.jpg; image013.jpg
+
+---
+
+Hi [REDACTED],
+
+Below is my receipt for my Uber from the LA airport to my meeting with the Epstein team for my most recent work trip.
+
+Thanks!
+[REDACTED]
+
+---
+
+From: [REDACTED] >
+Sent: Thursday, November 14, 2019 9:07 PM
+To: [REDACTED] ) < [REDACTED] >
+Subject: Fwd: Your Thursday morning trip with Uber
+
+Begin forwarded message:
+
+From: Uber Receipts <uber.us@uber.com>
+Date: November 14, 2019 at 12:10:44 PM PST
+To: [REDACTED]
+Subject: Your Thursday morning trip with Uber
+
+[Image of receipt header showing blue background, white placeholder box on left, and text on right: "Total: $24.93" and "Thu, Nov 14, 2019"]
+
+EFTA00019825
+
+## Structured Fields
+- **Date:** Fri, 15 Nov 2019 (Email Date) / Thu, November 14, 2019 (Trip Date/Receipt Date)
+- **Time:** 23:46:59 UTC / 9:07 PM PST / 12:10:44 PM PST
+- **Organization:** Uber
+- **Email Account:** uber.us@uber.com
+- **Total Amount:** $24.93
+- **Location:** LA airport
+- **Doc ID:** EFTA00019825
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks for riding,
+[REDACTED]
+We hope you enjoyed your ride this morning.
+
+Total                  $24.93
+
+Trip fare              $24.93
+
+Subtotal               $24.93
+
+•••• 8688 Switch             $24.93
+
+A temporary hold of $24.93 was placed on your payment method •••• 8688 at the start of the trip. This is not a charge and has or will be removed. It should disappear from your bank statement shortly. Learn More
+
+You rode with Sung
+EFTA00019826
+
+## Structured Fields
+*   **Organization:** [Inferred Ride-Share App]
+*   **Payment Method:** •••• 8688 Switch
+*   **Driver Name:** Sung
+*   **Total Amount:** $24.93
+*   **Document ID:** EFTA00019826
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+How was your ride?
+Rate Or Tip
+Rate Or Tip
+
+[REDACTED]
+[REDACTED]
+
+[REDACTED]
+Has passed a multi-step safety screen
+
+4.91 [REDACTED] Rating
+
+[REDACTED]
+Sung is known for:
+Excellent
+Service
+
+When you ride with Uber, your trips are insured in case of a covered accident. Learn more.
+
+Google
+Map data ©2019
+
+UberX 11.68 mi | 27 min
+
+11:42am
+6365 Sky Way, Los Angeles,
+CA
+12:10pm
+
+EFTA00019827
+
+## Structured Fields
+*   **Date:** [Not explicitly visible, inferred from map copyright]
+*   **Case ID/Doc ID:** EFTA00019827
+*   **Location:** 6365 Sky Way, Los Angeles, CA
+*   **Trip Distance:** 11.68 mi
+*   **Duration:** 27 min
+*   **Service Type:** UberX
+*   **Start Time:** 11:42am
+*   **End Time:** 12:10pm
+*   **Driver/Associate:** Sung
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical screenshot of a mobile interface, likely a digital receipt or trip summary for the ride-sharing service Uber. The screen is divided into distinct sections: a map and address at the top, a promotional offer in the middle, navigation buttons on a blue bar, and a footer area with links and company information.
+
+At the very top left, the text "1717 4th St, Santa Monica, CA" identifies a specific location in California. To the right of this address is a Google Maps inset. The map displays a coastal region with the Pacific Ocean on the left side (west). A teal-colored route line connects two points: a red circular pin located near the coastline and a green circular pin located further inland to the south-east. Several highway shields are visible, including Interstate 405, Interstate 10, State Route 2, State Route 90, and State Route 187. The "Google" logo appears in the bottom left corner of the map, with copyright text "Map data ©2019" in the bottom right.
+
+Below the map is a light gray rectangular box containing a referral promotion. On the left side of this box is a white rectangular placeholder (likely hiding an icon or image). To the right, black text invites users to "Invite your friends and family." It further states, "Get $5 off your next ride when you refer a friend to try Uber. Share code: cfhp6".
+
+Below the promo box is a bright blue horizontal navigation bar containing three white links separated by vertical dividers. From left to right, these are labeled "REPORT LOST ITEM >", "CONTACT SUPPORT >", and "MY TRIPS >".
+
+The bottom section of the screen features a dark mode interface with a black background. On the left, there is another white rectangular placeholder. Below that are underlined blue text links: "FAQ" and "Forgot password". To the right of these links is white text displaying the corporate address: "Uber Technologies", "1455 Market St", "San Francisco, CA 94103".
+
+In the extreme bottom right corner of the image, outside the main app frame on a white background, there is an alphanumeric identifier code.
+
+## Visible Text (verbatim)
+*   **Top Address:**
+    *   1717 4th St, Santa Monica, CA
+*   **Map Labels:**
+    *   Google
+    *   Map data ©2019
+    *   Highway signs: 405, 10, 2, 90, 187, 1
+*   **Promotional Box:**
+    *   Invite your friends and family.
+    *   Get $5 off your next ride when you refer a friend to try Uber. Share code: cfhp6
+*   **Blue Action Bar:**
+    *   REPORT LOST ITEM >
+    *   CONTACT SUPPORT >
+    *   MY TRIPS >
+*   **Footer Links & Info:**
+    *   FAQ
+    *   Forgot password
+    *   Uber Technologies
+    *   1455 Market St
+    *   San Francisco, CA 94103
+*   **Corner ID:**
+    *   EFTA00019828
+
+## Notable Details / Clues
+*   **Service Identification:** The presence of the referral code "cfhp6", the specific wording "try Uber," and the corporate address "Uber Technologies" confirms this is an Uber digital receipt or confirmation screen.
+*   **Date Context:** The map copyright date is explicitly stated as "2019," indicating the screenshot was taken in or after 2019, though the code expiration suggests it might be from that specific year.
+*   **Location Specifics:** The destination is specifically Santa Monica, California, near the intersection of the coast and major freeways (I-10/I-405).
+*   **Redacted Content:** Both white rectangles in the image serve as placeholders for content that has been obscured or removed—likely a rider tip, a photo of the item, or the specific driver name.
+*   **Referral Incentive:** The text explicitly offers a monetary incentive ("Get $5 off") for sharing a referral code, highlighting the app's growth strategy at the time.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot, likely taken from a web browser or an application interface. The visual composition is divided into two distinct horizontal zones. The top zone, occupying approximately the upper 25% of the frame, features a black rectangular background containing white text and hyperlinks, characteristic of a website footer. This black area is framed by a thin, light grey border on its bottom edge. Below this black footer, the remainder of the image (roughly 75%) consists of a stark, empty white background with no visible interface elements or content. In the extreme bottom right corner of the white space, there is a distinct alphanumeric code printed in standard black text.
+
+## Visible Text (verbatim)
+**Within the Black Footer Area:**
+*   Privacy
+*   Terms
+*   Read about our **zero** **tolerance policy.**
+*   Report a zero **tolerance complaint** by visiting **help.uber.com.**
+
+**Bottom Right Corner:**
+*   EFTA00019829
+
+## Notable Details / Clues
+*   **Source Identification:** The presence of the URL "help.uber.com" and the specific phrasing regarding a "zero tolerance complaint" confirms that this screenshot originates from the Uber platform.
+*   **Legal Context:** The code "EFTA00019829" in the corner is a Bates number or evidence identifier. EFTA stands for the European Free Trade Association (Surveillance Authority). This suggests the image was likely part of a legal document, affidavit, or regulatory filing concerning Uber, possibly regarding tax disputes or labor laws in Europe.
+*   **Hyperlink Formatting:** The text indicates interactive elements. "Privacy," "Terms," the phrase "zero tolerance policy," and the URL "help.uber.com" are underlined, signifying they are clickable hyperlinks.
+*   **User Interface (UI):** The layout is a standard web design pattern where copyright, privacy, and terms of service links are aggregated in a footer bar.
+*   **Scroll Position:** The presence of only the footer at the top implies that the screenshot was taken when the user scrolled to the very top of a long webpage, or the content below this header has not loaded/rendered.
+*   **Color Contrast:** The design relies on high-contrast elements: white text on black background for readability in the footer, and standard black text on white for the document ID.
+*   **Typography:** The font appears to be a standard sans-serif typeface commonly used in web interfaces (like Roboto or Helvetica), typical of modern tech company sites like Uber.
+

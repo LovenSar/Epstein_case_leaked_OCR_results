@@ -1,0 +1,47 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018544.pdf ts=2026-03-13T19:15:11 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document page, likely a scanned PDF or official filing, with a high-contrast black-and-white color scheme. The layout is standard for legal or government correspondence. At the very top center, there is a three-line header block. Below that, indented to the left side, is a section heading labeled with the Roman numeral "I." The vast majority of the page—occupying the space from below the section heading down to the bottom margin—is obscured by a large, solid black rectangular block, indicating redacted information. This black box has sharp, defined edges and covers approximately 75 percent of the vertical height of the document. There are no other visible graphics, images, or background elements; the background is pure white. The text is rendered in a dark, solid font (likely Times New Roman or a similar serif typeface). A unique alphanumeric identifier is present in the bottom right corner, aligned to the right margin.
+
+## Visible Text (verbatim)
+**Header:**
+DAG Meeting Case Overview
+Acting U.S. Attorney Audrey Strauss
+November 5, 2020
+
+**Section Header:**
+I. Anticipated Charges and Investigative Steps
+
+**Footer ID:**
+EFTA00018544
+
+## Notable Details / Clues
+*   **Redaction Strategy:** The content is heavily redacted, suggesting this document was released under conditions requiring the protection of sensitive data (e.g., classified information, ongoing investigation details, or witness identities).
+*   **Contextual Hints:** The phrase "DAG Meeting" implies a high-level government meeting, likely involving the Deputy Attorney General. The presence of "Acting U.S. Attorney Audrey Strauss" places this within the timeline of the Special Counsel investigation (Mueller), which took place around 2018-2019/2020.
+*   **Document Type:** This appears to be a case overview intended for internal or specific government review rather than public disclosure.
+*   **Date Significance:** The date "November 5, 2020" is significant in the context of US politics and legal proceedings regarding the Mueller Report timeline.
+*   **Case Number Format:** The footer code "EFTA00018544" appears to be an Electronic Freedom of Information Act (FOIA) log or a specific archival tracking number for a released document.
+*   **Section Content:** Despite being redacted, the header "Anticipated Charges and Investigative Steps" confirms that the hidden text likely contained legal theories, potential felony charges, or witness testimony summaries.
+*   **Page Structure:** The use of Roman numerals suggests this is the first section of a longer document or report containing multiple sections (II, III, etc.).
+*   **Formatting Consistency:** The centering of the title and left-alignment of the body text follows standard official document formatting guidelines.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+DAG Meeting Case Overview  
+Acting U.S. Attorney Audrey Strauss  
+November 5, 2020  
+
+**II. Charged Cases**  
+**U.S. v. Maxwell, 20 Cr. 330 (AJN):** This summer, we charged Ghislaine Maxwell with conspiring to entice minors to travel for the purpose of sexual abuse in connection with helping Jeffrey Epstein to abuse his many victims. The case focused on three specific victims that traveled to be abused by Epstein, including instances in which Maxwell herself participated in the acts of abuse. Trial is set for this coming July. We are finishing discovery, and motions are scheduled for December. Motion practice could generate further press; for example, the defendant continues to press for the identity of the specific victims, and if she is successful, that would surely lead to a round of press about the victims and the details of our case. Relatedly, we are in plea negotiations with counsel for [REDACTED], another Epstein co-conspirator. [REDACTED] who scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his sexual abuse, may plead to an obstruction of justice-related count.  
+
+EFTA00018545  
+
+## Structured Fields
+*   **Date:** November 5, 2020
+*   **Case ID:** U.S. v. Maxwell, 20 Cr. 330 (AJN)
+*   **Document ID:** EFTA00018545
+*   **Names:** Audrey Strauss, Ghislaine Maxwell, Jeffrey Epstein
+*   **Organizations:** U.S. Attorney's Office (implied by "Acting U.S. Attorney")
+

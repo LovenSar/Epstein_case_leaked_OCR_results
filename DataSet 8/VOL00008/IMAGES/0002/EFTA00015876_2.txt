@@ -1,0 +1,65 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015876.pdf ts=2026-03-12T19:25:24 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+From: [REDACTED]
+To: [REDACTED]
+Subject: FW: Re: Jeffrey Epstein investigation
+Date: Thu, 03 Oct 2019 21:01:30 +0000
+
+FYI
+
+From: [REDACTED]
+Sent: Thursday, October 03, 2019 4:37 PM
+To: [REDACTED]
+Subject: Re: Jeffrey Epstein investigation
+
+Dear [REDACTED] Thank you for your interest in the case of U.S. v. Jeffrey Epstein. Attorney General Barr’s chief of staff has forwarded your questions and insights to the U.S. Attorney’s Office for the Southern District of New York, as the investigation that resulted in Jeffrey Epstein’s July arrest was conducted by our office and the New York Office of the Federal Bureau of Investigation. Your questions and concerns have been forwarded to the appropriate people here in our office. As I’m sure you can appreciate, we will be extremely limited in what we can tell you about the ongoing investigation. You may nevertheless feel free to email me with any additional information or questions, and I will forward them to the appropriate people here. Jim Margolin
+
+[REDACTED]
+
+
+EFTA00015876
+```
+
+## Structured Fields
+- **Date:** Thu, 03 Oct 2019 / Thursday, October 03, 2019
+- **Time:** 21:01:30 +0000 / 4:37 PM
+- **Case ID/Subject:** U.S. v. Jeffrey Epstein / Jeffrey Epstein investigation
+- **Location:** Southern District of New York
+- **Names:** Jim Margolin, Jeffrey Epstein, Attorney General Barr (William Barr implied)
+- **Organizations:** U.S. Attorney’s Office for the Southern District of New York, Federal Bureau of Investigation (FBI), Department of Justice (implied via Attorney General/DOJ offices)
+- **Document ID:** EFTA00015876
+</think>
+
+```markdown
+From: [REDACTED]
+To: [REDACTED]
+Subject: FW: Re: Jeffrey Epstein investigation
+Date: Thu, 03 Oct 2019 21:01:30 +0000
+
+FYI
+
+From: [REDACTED]
+Sent: Thursday, October 03, 2019 4:37 PM
+To: [REDACTED]
+Subject: Re: Jeffrey Epstein investigation
+
+Dear [REDACTED] Thank you for your interest in the case of U.S. v. Jeffrey Epstein. Attorney General Barr’s chief of staff has forwarded your questions and insights to the U.S. Attorney’s Office for the Southern District of New York, as the investigation that resulted in Jeffrey Epstein’s July arrest was conducted by our office and the New York Office of the Federal Bureau of Investigation. Your questions and concerns have been forwarded to the appropriate people here in our office. As I’m sure you can appreciate, we will be extremely limited in what we can tell you about the ongoing investigation. You may nevertheless feel free to email me with any additional information or questions, and I will forward them to the appropriate people here. Jim Margolin
+
+[REDACTED]
+
+
+EFTA00015876
+```
+
+## Structured Fields
+- **Date:** Thu, 03 Oct 2019 (21:01:30 UTC) / Thursday, October 03, 2019 (4:37 PM)
+- **Subject/Case Reference:** FW: Re: Jeffrey Epstein investigation / U.S. v. Jeffrey Epstein
+- **Location:** Southern District of New York / New York Office
+- **Names:** Jeffrey Epstein, Attorney General Barr, Jim Margolin
+- **Organizations:** U.S. Attorney’s Office for the Southern District of New York, Federal Bureau of Investigation (FBI)
+- **Document ID:** EFTA00015876
+```
+

@@ -1,0 +1,81 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024297.pdf ts=2026-03-16T09:31:26 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Event: Epstein estate
+---
+Start Date: 2019-10-23 18:30:00 +0000
+End Date: 2019-10-23 19:00:00 +0000
+Organizer: Weinstein, Marc A. <[REDACTED]>
+Location: Skype Meeting; Conference ID: 803 102 52;
+Class: X-PERSONAL
+Date Created: 2019-10-23 13:15:32 +0000
+Date Modified: 2019-10-23 13:15:32 +0000
+Priority: 5
+DTSTAMP: 2019-10-23 13:06:08 +0000
+Attendee: [REDACTED]) <[REDACTED]>; [REDACTED] )
+<[REDACTED]>; [REDACTED] ) <[REDACTED]>; Tomback, Andrew
+<[REDACTED]>
+Alarm: Display the following message 15m before start
+| Reminder
+
+.....................................................................................................................................................................
+
+Dial-In Information (for meetings with no presentations or video)
+Dial-In Number: [REDACTED]
+Conference ID: [REDACTED]
+
+One touch dial-in from mobile phone (via cellular service)
+Additional Dial-In Numbers
+Brazil
+Canada
+China
+France
+Germany
+India
+Ireland
+Israel
+Japan
+Singapore
+United Kingdom
+United States
+[REDACTED]
+
+EFTA00024297
+
+## Structured Fields
+- **Event Name:** Epstein estate
+- **Start Date:** 2019-10-23 18:30:00 UTC
+- **End Date:** 2019-10-23 19:00:00 UTC
+- **Organizer:** Weinstein, Marc A.
+- **Location:** Skype Meeting (Conference ID: 803 102 52)
+- **Class:** X-PERSONAL
+- **Created:** 2019-10-23 13:15:32 UTC
+- **Priority:** 5
+- **Attendee:** Tomback, Andrew (partial list)
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Full list of dial-in numbers
+Meetings with a presentation or video
+Connect from computer or mobile device (via network/internet connection)
+
+Help
+
+Try Skype Web App if you are having trouble joining
+
+Joining from a computer using the “Connect from computer or mobile device” link provides additional capabilities, however you can simply call in from your telephone using the number provided above if your meeting will not include video or a presentation. Click the “Help” link for additional information if you are a guest joining a Skype for Business meeting from your computer or mobile device for the first time.
+
+For meeting organizers: Reset your dial-in PIN?
+
++12016300824
+[!OC([CUSTOMINVITE])!]
+
+---
+
+EFTA00024298
+
+## Structured Fields
+*   **Document ID:** EFTA00024298
+*   **Phone Number:** +12016300824
+

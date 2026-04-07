@@ -1,0 +1,38 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003057.pdf ts=2026-03-06T00:41:27 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image shows a standard white paper document titled "Emergency Contact Form" clipped into a white binder with silver metal rings visible on the left edge. The form belongs to a company called "LSJE, LLC". At the very top, company contact information is printed in a serif font. Below that, specific employee data is filled in using pre-printed lines and handwriting (printed for names like "James Cesar" and "Carpenter"). Several sensitive fields such as address, phone numbers, email, and date of birth are obscured with thick black rectangular bars. A section titled "Emergency Information" contains fields for allergies, blood type (which has a yellow highlight behind the text), and medications; these areas appear mostly blank or contain very faint writing. The bottom section lists emergency contacts by name ("Wisner Piern" and "Afred Piern"). At the very bottom right corner of the binder, a document ID number is printed. The background suggests the binder is resting on a dark, textured surface, possibly concrete or carpet with debris.
+
+## Visible Text (verbatim)
+- **Header:** "LSJE, LLC"
+- **Address/Contact:** "6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: 340-775-8100 Fax: 340-775-8108"
+- **Title:** "Emergency Contact Form"
+- **Date Fields:** "Date: 04/10/18", "Start Date: 05/04/17"
+- **Employee Name:** "James Cesar"
+- **Address:** "[Redacted]"
+- **Date of Birth:** "[Redacted]"
+- **Phone:** "[Redacted]"
+- **Cell:** "[Blank]"
+- **E-Mail:** "[Redacted]"
+- **Title / Position:** "Carpenter"
+- **Marital Status:** "Married"
+- **License:** "[Blank Box]"
+- **Emergency Information Section:** "Allergies or Health Condition: [Faint text, possibly 'None']", "Blood Type: [Yellow Highlight][Blank]", "Current Medication:"
+- **Doctor Fields:** "Doctor's Name:", "Phone:" (Repeated twice)
+- **Contact Section Heading:** "In case of an Emergency, Please contact :"
+- **Contact 1:** "Name Wisner Piern", "Relationship"
+- **Contact 2:** "Name Afred Piern", "Relationship"
+- **Footer Text:** "This Information is for your safety and the safety of others"
+- **Document ID:** "EFTA00003057"
+
+## Notable Details / Clues
+- **Location Context:** The address ends in "St. Thomas, VI 00802", indicating the company is located in St. Thomas, U.S. Virgin Islands (indicated by the area code 340 and the state code VI).
+- **Date Discrepancy:** The form was dated "04/10/18" (April 10, 2018), but the "Start Date" listed for employment is "05/04/17" (May 4, 2017). This suggests the employee joined a year prior to this specific form date, or the form is an update/addendum.
+- **Typo in Contact Name:** The second emergency contact name is spelled "Afred Piern", likely a misspelling of "Alfred".
+- **Redaction Pattern:** Sensitive PII (Personally Identifiable Information) like addresses, phone numbers, emails, and birth dates are heavily blacked out for privacy compliance. A large block at the bottom covers the emergency contact phone number(s).
+- **Highlighting:** The label "Blood Type:" has a bright yellow marker highlight next to it, drawing attention to that specific field, though no blood type is written in.
+- **Faint Medical Info:** Under "Allergies or Health Condition", there is extremely faint text that appears to say "None" and possibly "Specified", suggesting the employee declared no medical issues but leaving a note.
+- **Binder Hardware:** The silver plastic comb binding and metal rings on the left suggest this document is part of a physical personnel file kept in an office or site safety binder.
+

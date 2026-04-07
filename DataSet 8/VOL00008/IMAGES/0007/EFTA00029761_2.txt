@@ -1,0 +1,651 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029761.pdf ts=2026-03-18T12:02:10 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+:Date: 9/01/06                                                          Page:       1
+Time: 13:38:06                                                        Program: CMS301L
+PALM BEACH POLICE DEPARTMENT
+Incident Report
+------------------------------------------------------------------------
+Case Number   . : 1-03-001498           SPECIAL NOTES    :
+Occur From Date: 10/05/03 0824          Occur To Date   : 10/05/03 0824
+Report Date   . : 10/05/03 0845        Day Of Week     . : Sunday
+Common/Location: 358 EL BRILLO WY
+City          . : PALM BEACH, FL       Location Type    : RESIDENCE-SINGLE FAMILY
+Beat Assignment: SHIFT 2               Map Reference    : 10
+Dept Class    . : BURGLARY RESIDENCE   Report Officer   : [REDACTED]
+Case Status   . : EXCEPTIONALLY CLEARED Case Status Dt  : 10/15/03
+Supervisory Dt.: [REDACTED]           Entry Date      : [REDACTED]
+                            10/05/03
+                            10/06/03
+Names?        . :
+Vehicles?     . :
+Narrative?    . :
+Interfaces?   . :
+
+Property?      . :
+Offenses?     . :
+Related Cases? :
+------------------------------------------------------------------------
+********** PROPERTY INFORMATION # 1 ************
+Case number   . : 1-03-001498          Category        . : **MISC OR UNFOUNDED PROP **
+Description    . : PISTOL               Color            . :
+Serial number  . :                     Make             . : GLOCK
+Model          . :                     UCR Prop Type   . : FIREARMS
+Property type  . : HANDGUN              Insured?         . :
+Insured by     . :                     NCIC number      . :
+Value          . : 1,000.00            Recovered by    . :
+Recovered Date . : 0/00/00             Recovery value   . : 0.00
+Street number  . :
+City           . :
+Drug?          . :                     Document?        . :
+Property Msg   . :                     Property Seq     . :
+------------------------------------------------------------------------
+********** PROPERTY INFORMATION # 2 ************
+Case number   . : 1-03-001498          Category        . : *STOLEN/RECOVERED*
+Description    . : U.S.CURRENCY         Color            . :
+Serial number  . :                     Make             . :
+Model          . :                     UCR Prop Type   . : CURRENCY, NOTE, ETC.
+Property type  . : CURRENCY/NEGOTIABLE  Insured?         . :
+Insured by     . :                     NCIC number      . :
+Value          . : 2,700.00            Recovered by    . :
+Recovered Date . : 10/13/03            Recovery value   . : 2,700.00
+Street number  . :                     Document?        . :
+City           . :                     Property Seq     . :
+Drug?          . :
+
+------------------------------------------------------------------------
+********** PERSON REPORTING INFO - # 1 ***********
+Case Number   . : 1-03-001498          Last Name       . : [REDACTED]
+Street Number . : 301 E 66TH ST 10N    Employer?       . :
+City          . : NEW YORK, NY 10021   Oper Lic No.    . : [REDACTED]
+Birth Date/Age.: [REDACTED]            Race            . : White
+Occupation    . :                      Height           . : 508
+Home Phone No.:                        Other Phone Nbr: [REDACTED]
+Sex           . : Female               Weight           . : 0
+```
+
+## Structured Fields
+- **Date:** 9/01/06, 10/05/03, 10/15/03, 03/25/2015 (Footer)
+- **Time:** 13:38:06
+- **Case ID:** 1-03-001498
+- **Location:** 358 EL BRILLO WY, PALM BEACH, FL
+- **Department:** Palm Beach Police Department
+- **Organization:** CMS301L (Program)
+- **Person Info:** Street: 301 E 66TH ST 10N, City: NEW YORK, NY, Sex: Female, Race: White, Height: 508
+- **Document ID (Footer):** Public Records Request No.: 16-268
+- **Image ID/Tag:** EFTA00029761
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                       PALM BEACH POLICE DEPARTMENT                   Page: 2
+Time: 13:38:06                                     Incident Report                                Program: CMS301L
+                                                    1-03-001498 (Continued)
+
+********** PERSON REPORTING INFO   # 2 **********
+Case Number    : 1-03-001498                   Last Name      : [REDACTED]
+Street Number  : 358 EL BRILLO WY
+City           : PALM BEACH, FL 000033480
+Birth Date/Age : [REDACTED]
+Occupation     : HOUSE MANAGER                  Employer?      : [REDACTED]
+Home Phone No. :                                Oper Lic No.   : [REDACTED]
+Sex            : Male                            Race           : White
+Weight         : 190                             Height          : 601
+                                                   Other Phone Nbr: [REDACTED]
+
+********** PERSON REPORTING INFO - # 3 **********
+Case Number    : 1-03-001498                   Last Name      : [REDACTED]
+Street Number  : 358 EL BRILLO WY
+City           : PALM BEACH, FL 000033480
+Birth Date/Age : [REDACTED]
+Occupation     : HOUSE MANAGER                  Employer?      : [REDACTED]
+Home Phone No. :                                Oper Lic No.   : [REDACTED]
+Sex            : Female                          Race           : [REDACTED]
+Weight         : 135                             Height          : [REDACTED]
+                                                   Other Phone Nbr: [REDACTED]
+
+********** PERSON REPORTING INFO - # 4 **********
+Case Number    : 1-03-001498                   Last Name      : [REDACTED]
+Street Number  : 22 AVENUE FOCH
+City           : PARIS,
+Birth Date/Age : 0/00/0000 0                    Employer?      : [REDACTED]
+Occupation     :                                 Oper Lic No.   : [REDACTED]
+Home Phone No. : 561/000-0000                   Race           : [REDACTED]
+Sex            :                                Height          : 0
+Weight         : 0                               Other Phone Nbr: 561/000-0000
+
+************** V I C T I M   I N F O R M A T I O N - # 1 ***************
+Case Number    : 1-03-001498                    Prompt valid in: EPSTEIN, JEFFREY EDWARD
+Street Number  : 358 EL BRILLO WY
+City           : PALM BEACH, FL 000033480
+Birth Date/Age : [REDACTED]                      Employer?      : [REDACTED]
+Occupation     : BANKER/SELF                     Oper Lic No.   : [REDACTED]
+Home Phone No. : 561/655-7626                    Race           : White
+Sex            : Male                             Height          : 600
+Weight         : 0                                Misc. ID#      : [REDACTED]
+Be On Look Out?:                                  Other Phone Nbr: [REDACTED]
+Victim Type    :                                 Residency Type : [REDACTED]
+Residency Sts  :                                 File Charges   : [REDACTED]
+Can Identify   :                                 Victim Sobriety: [REDACTED]
+Injury Extent  :                                 Injury Type 1  : [REDACTED]
+Injury Type 2  :                                 Hospital ID    : [REDACTED]
+Med Treatment  :                                 Phys First Name: [REDACTED]
+Phys Last Name :
+
+                                                    ***EMPLOYER INFORMATION***
+Case Number    : 1-03-001498                  Employer Name   :
+Address       :
+
+03/25/2015                                         Page 54 of 95                                       Public Records Request No.: 16-268
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06 Time: 13:38:06
+PALM BEACH POLICE DEPARTMENT Incident Report Page: 3 Program: CMS301L
+1-03-001498 (Continued)
+
+City/State/Zip : PALM BEACH, FL 000033480 Phone Number . : 212/750-9895
+
+********** O T H E R P E R S O N I N F O R M A T I O N - # 1 ***********
+Case Number . : 1-03-001498 Last Name . . : [REDACTED]
+Street Number : 1515 SO FLAGLER DR. #1901
+City . . . . . : WEST PALM BEACH, FL 33407
+Birth Date/Age : [REDACTED] Employer? . . :
+Occupation . . : Oper Lic No. . :
+Home Phone No. : 561/000-0000 Race . . . . . : White
+Sex . . . . . : Female Height . . . . . : 0
+Weight . . . . . : 0 Person Type . : OTHER PERSON
+Other Phone Nbr: 561/000-0000
+
+********** O T H E R P E R S O N I N F O R M A T I O N - # 2 ***********
+Case Number . : 1-03-001498 Last Name . . : [REDACTED]
+Street Number : 525 SO SEQUOIA APT. A
+City . . . . . : WEST PALM BEACH, FL 33409
+Birth Date/Age : [REDACTED] Employer? . . :
+Occupation . . : Oper Lic No. . :
+Home Phone No. : 561/000-0000 Race . . . . . : White
+Sex . . . . . : Male Height . . . . . : 0
+Weight . . . . . : 0 Person Type . : OTHER PERSON
+Other Phone Nbr: 561/000-0000
+
+******************************* N A R R A T I V E # 1 ******************************
+Original Report LO Reported By: [REDACTED] Entered By::
+10/05/03
+10/06/03
+
+On Sunday 10/5/03 at approximately 0824 hours, I was dispatched to a burglary at 358 El Brillo Way. Upon arrival, I met with reporting party/victim Jeffrey Epstein, white male, dob/012053. Epstein advised he and his [REDACTED]
+[REDACTED] arrived in the residence on Friday evening, 10/3/03. Epstein advised that on Saturday evening 10/4/03, he left his briefcase at his desk and went to bed at approximately 1230 am. Epstein said when he left his briefcase, it contained approximately $5000 U.S. currency. [REDACTED] advised the case was in $100 bills and kept in a white envelope inside the briefcase. Epstein stated at approximately 0715 hours on Sunday, 10/5/03, while sitting at his desk, he noticed the briefcase had been opened and some of the cash was missing. Epstein believed approximately $3500 was taken from the briefcase. Epstein advised that he did not know if the cash was sequential or recorded. Epstein further advised a black Glock handgun was taken from the bookshelf located behind his desk. Epstein advised he suspected cash had been taken from his briefcase on two other occasions while he was in town for the weekend. The first was over Labor Day weekend Aug. 30-Sept 1, 2003. The second time was a weekend in mid September, 2003. Epstein stated he did not
+
+03/25/2015 Page 55 of 95 Public Records Request No.: 16-268
+EFTA00029763
+
+## Structured Fields
+- **Date**: 9/01/06, 10/05/03, 10/06/03, 0824 hours, 10/3/03, 10/4/03, 1230 am, 0715 hours
+- **Case ID**: 1-03-001498
+- **Location**: Palm Beach, FL; 000033480; 1515 SO FLAGLER DR. #1901 (West Palm Beach, FL 33407); 525 SO SEQUOIA APT. A (West Palm Beach, FL 33409); 358 El Brillo Way
+- **Names**: Jeffrey Epstein; [REDACTED]
+- **Organizations**: Palm Beach Police Department; CMS301L
+- **Doc IDs**: 16-268 (Public Records Request No.); EFTA00029763
+- **Gender**: Female, Male
+- **Race**: White
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06
+Time: 13:38:06                                      PALM BEACH POLICE DEPARTMENT                     Page: 4                                              Incident Report                                           Program: CMS301L
+
+1-03-001498   (Continued)
+
+report these incidents because he was not sure the money
+was accounted for. Possible footage of the incident may
+exist. I next met with [REDACTED] who advised [REDACTED] went to bed at
+approximately 1130 pm on 10/4/03 and did not hear or see
+anything unusual through the night or on the morning of
+10/5/03. [REDACTED] advised that [REDACTED] went to
+bed at approximately 1030 pm on 10/4/03 and began work at
+approximately 6:20 am on 10/5/03. [REDACTED] stated that [REDACTED] did
+not see or hear anything unusual from the staff residence locate don the east side of the property. I next spoke to [REDACTED] who are the house managers. [REDACTED] stated that he went to the staff residence at approximately 8:30 hours on 10/4/03 and got up at approximately 11:30 pm same night to move the Mercedes into the garage. [REDACTED] said returned to the residence at approximately 6:20 am on 10/5/03 but did not notice anything unusual. [REDACTED] stated that [REDACTED] checked the exterior of the residence at approximately 7:30pm on 10/4/03 as part of [REDACTED] duties. [REDACTED] stated at that time, [REDACTED] saw no one and everything appeared in order. [REDACTED] stated [REDACTED] left the main house at approximately 11:30 pm and returned at approximately 8:30 on 10/5/03. It should be noted that [REDACTED] have been employed as the house managers since 9/24/03. Prior to them, the live on site house managers were Epstein was unsure of the last name. [REDACTED] employed at 358 El Brillo approximately 9 months. Prior to the house manager was [REDACTED] who was employee at 358 El Brillo approximately 10 years. Epstein signed an affidavit of prosecution, it is attached to this report. Crime Scene manager [REDACTED] responded and processed the scene. Det. [REDACTED] also responded. See Det. [REDACTED] report for further information. Officer [REDACTED] responded and conducted a neighborhood canvas which is also attached to this report. It should be noted that Epstein will contact Palm Beach Police Department with the serial number of the stolen handgun so that it may be entered into FCIC.
+
+************************** NARRATIVE # 2 **************************
+
+[REDACTED]
+Reported By: [REDACTED]                                      10/06/03
+Entered By.: [REDACTED]                                      10/06/03
+
+On 10/05/03, at 1000 hours, I responded to 358 El Brillo Way reference a burglary that had occurred at the residence during the night. Upon my arrival, I met with the homeowner who verbally identified himself as Jeffrey Epstein, DOB 01/20/53.
+
+Epstein told me that over the last couple of months, when he has come into town, he has money he had left in his carry on bag, has turned up missing. Epstein said he wasn't sure of the amount of money in the carry on bag on any specific incident and thought that he possibly had misplaced the money. Epstein
+
+03/25/2015                                        Page 56 of 95                                        Public Records Request No.: 16-268
+
+EFTAA00029764
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                       PALM BEACH POLICE DEPARTMENT                       Page: 5
+Time: 13:38:06                                        Incident Report                                  Program: CMS301L
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+1-03-001498                                                                                     (Continued)
+
+told me that he had purchased a spy camera from a store on
+Okeechobee Blvd. and had set up the camera which was in a
+clock in his office facing the briefcase with the money in it.
+Epstein then placed $4,000. in U.S. currency, one hundred dollar
+bill increments and left the bag on his desk as he always does
+when he is in town. Epstein said that he went to bed with the
+camera system monitoring the bag and desk area, only to wake up
+and twice to have $100. missing from the bag and the suspects
+image on his computer hard drive. It should be noted that there
+were thirteen one hundred dollar bills still in the white envelope
+and that nothing else in the house appeared to be disturbed by the
+suspect.
+
+Epstein took me to the computer room where he showed me a computer
+monitor that was displaying a still frame of the suspect. The
+computer indicated a time of 0428 a.m., when the suspect came into
+the office area, walked behind the desk, opened the hand bag, and
+then opened the center drawer to the desk. It appeared as though
+the suspect was familiar with the house and the desk. Epstein
+told me that he did not know who the suspect in the photo was
+but thought it might be his former houseman because of his size
+and shape. Epstein also pointed out that the suspect in the
+video was wearing moccasin type shoes like his former houseman
+did due to his back injury. The suspect was a white male who
+was 5'10" in height, 250 lbs., wearing tan pants, white shirt,
+and a hat. Epstein provided me with the former houseman's
+information which was [REDACTED]
+
+I advised Epstein that I would need to obtain a copy of the
+surveillance video from his computer hard drive in order to
+have in hands. Epstein told me that he had limited working
+knowledge of the system but he would contact the company who
+had installed the system and have them make a copy by Monday.
+Epstein told me he would call when he had more information.
+
+Epstein took me to the desk where the carry on bag was and told
+me that he believed that the suspect might have gained entry
+into the house from the sliding glass doors on the south side
+of the house but not the west side of house because he had
+personally locked all the sliders on that side of the house.
+It is believed that the suspect also left the house by the
+same sliding door that was unlocked as there were no pry marks
+or indication of forced entry into the house. Epstein also showed
+me the bookcase behind the desk where he kept his Glock 9 mm
+handgun between the books which was now missing. Epstein could
+not supply me with the serial number for the handgun at this
+time but advised he would contact Gator Gun on Okeechobee
+Blvd. to obtain the information
+
+Crime Scene Manager [REDACTED] processed the crime scene and
+collected the envelope that the money had been taken out of.
+
+03/25/2015                                           Page 57 of 95                                   Public Records Request No.: 16-268
+EFTA00029765
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                      PALM BEACH POLICE DEPARTMENT                    Page:        6
+Time: 13:38:06                                 Incident Report                                   Program: CMS301L
+                                                                                        1-03-001498 (Continued)
+
+Officer [REDACTED] conducted a neighborhood canvas and failed to produce any new information as most of the neighbors were not home at this time.
+
+Officer [REDACTED] collected the names of the house guests which included [REDACTED], who is from [REDACTED], who is a massage therapist from [REDACTED]. All the subjects advised that they hadn't heard anything during the night.
+
+Officer [REDACTED] also collected the names of the live in employees were [REDACTED] and Chef [REDACTED]. All the subjects advised that they hadn't heard anything during the night.
+
+The criminal history search of [REDACTED] revealed no criminal history other than being a naturalized United States citizen and that full name was [REDACTED]
+
+ATTN POLICE CLERKS; Please show a stolen value for the U.S. currency as **$2,700.** Please show a stolen value for the Glock 9 mm handgun as $1,000.** Invest.Cont.
+
+************************************************ N A R R A T I V E   # 3 ************************************************
+                                                                                              Reported By:        [REDACTED]                  10/08/03
+                                                                                               Entered By.:    [REDACTED]                  10/08/03
+
+At 8:42 a.m., Sunday morning, 10/05/03, I was notified at home by the communication unit of the Palm Beach Police Dept. that a burglary had been reported at 358 El Brillo. I responded to the scene and proceeded directly to headquarters where I picked up the necessary equipment and the crime scene vehicle to process the crime scene.
+
+I went in service at 9:32 a.m. and arrived on the scene at 9:33 a.m. Upon arrival I noted that the house is located at the extreme west end of the street and is located on the south side of the street with the front of the house facing north. The house is basically a two story CBS type of structure having a white flat tile roof. The trim is painted white and there are walls approximately 8' tall with metal closing gates which are controlled with a electronic touch pad on the outside. There are white gargoyle figures on the tops of the entrance of the gate as well as black numerals approximately 6" high indicating the address numerics of 358. The east most drive way is a large flagstone type of drive way leading to a three car garage.
+
+The dwelling has in addition to the main entrance to the garage two other gated entrances which have black floral lighted tops on them. These gates were metallic. The central gate which leads
+
+03/25/2015                                         Page 58 of 95                                       Public Records Request No.: 16-268
+                                                                                                                                  EFTA00029766
+
+## Structured Fields
+*   **Date:** 9/01/06 (Report Date); 10/05/03 (Incident Date); 10/08/03 (Narrative Date)
+*   **Time:** 13:38:06
+*   **Location:** 358 El Brillo
+*   **Organization:** Palm Beach Police Department
+*   **Case ID / Document ID:** 1-03-001498 (Continued); CMS301L
+*   **Public Records Request No.:** 16-268
+*   **Page Number:** 58 of 95
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                      PALM BEACH POLICE DEPARTMENT                  Page: 7
+Time: 13:38:06                                     Incident Report                               Program: CMS301L
+------------------------------------------------------------------------------------------------------------------
+1-03-001498 (Continued)
+
+into a circular flagstone drive way was in the open position. The western most gate was in the closed position. The front was locked on my approach and I continued traveling to the west where there is a small double gate which has a sign, "Please keep gate closed". This gate was opened and leads to a large patio with a swimming pool. To the west of the swimming pool is a walk way leading to a dock which then leads directly across to the intra coastal waterway. The dock was examined and checked for any signs of a boat tying up or the presence of anyone that may have left either debris such food containers, cigarettes, cigars etc. None was found. It should be noted that the exterior temperature was 79 degrees and the humidity was 63 percent. There is a small cabana at the southern end of the pool which had computer equipment as well as exercise equipment. None of this had been touched or tampered with.
+
+On the south side of the residence in the southwest corner Mr. Epstein indicated that he believed this was the area that the intruder made entry to the residence. The room is a computer room and Florida type room and has three double sliding glass windows present. The eastern most and western most are identical in shape having two glass panels. The central one has three glass panels and is the only one of the three that has a set of 14 flagstones leading directly into the room. The flooring is a wood type of flooring and the western set of sliding doors was found ajar, however the sandy area directly outside of the door did not indicate the presence of shoe prints or barefoot prints. The central window was found ajar and still had the lock mechanism in the extended outward position. The two windows believed to have been entered were processed and no latent fingerprints were found on the western most, no fingerprints were found on the eastern most. There was one mark that was found that was not a fingerprint but could have been made from either a cloth or a rubber glove and this was found on the interior of the central window.
+
+Once inside the residence, the person went over to a desk which is a veneer covered desk and there was a black bag underneath. The black bag is approximately 2' long by 1' high and was placed on the southern side of the interior of the desk by the pedestal. The individual knelt down and pulled the case open and removed cash from a white envelope. There were thirteen one hundred dollar bills left, still in the envelope when I examined it. The thirteen one hundred dollar bills were removed in the presence of Det. Melnichok and Mr. Epstein and they were counted and turned directly over to Mr. Epstein for security purposes. The top of the desk, sides of the desk and bottom of the desk was processed for latent fingerprints and no latent fingerprints of value were found on those areas. The envelope will be transported to headquarters and processed chemically for latent fingerprints. There will be a supplement to that effect that will follow.
+
+03/25/2015                                   Page 59 of 95                               Public Records Request No.: 16-268
+                                                                                                 EFTA00029767
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06 Time: 13:38:06 PALM BEACH POLICE DEPARTMENT Incident Report Page: 8 Program: CMS301L
+
+1-03-001498 (Continued)
+************************ NARRATIVE # 4 ************************
+Reported By: [REDACTED] 10/09/03
+Entered By.: [REDACTED] 10/09/03
+
+On 10/06/03, at 1100 hours, Det. [REDACTED] and I went to
+358 El Brillo and met with Mr. Epstein's personal
+assistant [REDACTED] in regards to obtaining the video
+footage of the suspect burglar.
+
+Det. [REDACTED] obtained a video of the footage starting at
+0426 hrs, and ending at 0430 hours. The before
+mentioned video shows a white male inside the Epstein
+residence moving a duffle bag and opening a desk
+drawer. A copy of this video footage was captured onto
+a compact disk and was placed into evidence via a
+property receipt.
+
+At 1400 hours, Det. [REDACTED] and I went to the [REDACTED] in West Palm
+Beach, where the suspect currently resides. I observed
+several video cameras on the outside of the building and
+a doorman at the main entrance on the south side of the
+building.
+
+At 1550 hours, I was advised by Crime Scene Manager [REDACTED] that he had located fingerprints for the
+suspect [REDACTED] from a Town of Palm Beach
+identification card application.
+
+At 1630 hours, I called the [REDACTED] and
+spoke with the manager of the condominium who
+verbally identified himself to me as [REDACTED]
+[REDACTED] gave me his direct business number
+and his home phone number
+[REDACTED] told me that he was familiar
+with the name [REDACTED] but he advised he wouldn't
+recognize him. [REDACTED] told me that they had several
+video cameras and that they did record the surveillance
+camera but the recording system had broken on Sunday
+night and he didn't have anything on the tapes.
+
+[REDACTED] told me that the condo does have a midnight
+doorman who stands duty at the desk in the lobby and
+anyone coming in the building regardless of what door
+they come in, would have to pass the doorman. [REDACTED]
+told me that the desk man for Sunday morning, 2300 to
+0700 hours was [REDACTED] and he next worked on
+Wednesday, 10/08/03. [REDACTED] was not familiar with
+what [REDACTED] drives or which parking spot was his but he
+advised that he would check and call me back in the
+morning.
+
+03/25/2015 Page 60 of 95 Public Records Request No.: 16-268
+EFTA00029768
+## Structured Fields
+*   **Date:** 9/01/06 (Document Date), 10/06/03 (Incident Date), 10/09/03 (Report Entry Date), 03/25/2015 (Stamp Date), 10/08/03 (Future Reference)
+*   **Time:** 13:38:06, 1100 hours, 1400 hours, 1550 hours, 1630 hours
+*   **Case ID / Doc ID:** 1-03-001498, Page 8 (CMS301L), Page 60 of 95, Public Records Request No. 16-268
+*   **Locations:** Palm Beach Police Department, 358 El Brillo, West Palm Beach
+*   **Names/Organizations:** Mr. Epstein, Town of Palm Beach, Crime Scene Manager, [REDACTED] (Detective), Condominium manager, Doorman
+*   **Entities/Programs:** CMS301L
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                              PALM BEACH POLICE DEPARTMENT                              Page: 9
+Time: 13:38:06                                          Incident Report                                           Program: CMS301L
+
+1-03-001498 (Continued)
+
+A Palm Beach County property search revealed that,
+[REDACTED], and has resided there since 2001.
+Invest.Cont.
+
+****************** N A R R A T I V E # 5 ***********************
+Reported By: [REDACTED]                                      10/15/03
+Entered By.: [REDACTED]                                       10/15/03
+
+On Monday, 10/13/03, at 2:00 p.m., Mr. Jeffrey Epstein came into
+the police department and informed me that earlier today he met
+with his former houseman [REDACTED] at Green's Pharmacy in Palm
+Beach. Epstein stated that he presented [REDACTED] with a photograph
+obtained off the video surveillance system, whereby [REDACTED]
+admitted to breaking into the house and taking the money. [REDACTED]
+told Epstein that he broke into the house to take a gun that
+Epstein usually keeps behind his desk. He could not find the
+gun so he took the money. [REDACTED] are having
+problems and they no longer live together. He wanted the gun
+because he was contemplating suicide.
+
+Epstein stated that [REDACTED] has already returned $2,000. of the
+stolen money and that he will be making arrangements with [REDACTED]
+to pay off the remaining funds. I asked Epstein if he knew of
+[REDACTED] current address or phone number and Epstein said that
+[REDACTED] was going to call him at 5:00 p.m. today and he would
+make arrangements for [REDACTED] to come into the police station to
+be interviewed. Epstein stated he no longer wants to prosecute
+[REDACTED] but is concerned over the fact that the gun [REDACTED] said
+he broke into the house to steal is still missing, yet [REDACTED]
+said he does not have it.
+
+ATTN POLICE CLERKS: As [REDACTED] has returned $2,000. to Epstein
+and arrangements have been made for the return of the rest of
+the money, please show a full recovery of the $2700. cash. **
+
+****************** N A R R A T I V E # 6 ***********************
+Reported By: [REDACTED]                                      10/15/03
+Entered By.: [REDACTED]                                       10/15/03
+
+On Monday, 10/13/03, Det. [REDACTED] and I responded to [REDACTED]
+[REDACTED] where we met with [REDACTED] [REDACTED]
+stated [REDACTED] does not know [REDACTED] current address and
+provided us with a cell phone for him. While speaking to [REDACTED],
+Det. [REDACTED] made telephone contact with [REDACTED] and
+made arrangements to meet with him back at the Palm Beach Police
+Department. According to [REDACTED] the last time she saw [REDACTED]
+was today, 10/13/03.
+According to [REDACTED] [REDACTED] was at Ross Department Store located
+on Okeechobee Blvd. when [REDACTED] saw [REDACTED] drive by. [REDACTED]
+stated [REDACTED] received a telephone call from him on [REDACTED] cell phone
+
+03/25/2015                                            Page 61 of 95                          Public Records Request No.: 16-268
+EFTA00029769
+
+## Structured Fields
+*   **Date:** 9/01/06 (Report Date), 10/13/03 (Incident Date), 10/15/03 (Entry Date)
+*   **Case ID:** 1-03-001498
+*   **Location:** Palm Beach Police Department, Green's Pharmacy in Palm Beach, Ross Department Store on Okeechobee Blvd
+*   **Names:** Mr. Jeffrey Epstein
+*   **Organizations:** Palm Beach Police Department
+*   **Doc ID/Ref:** CMS301L, Public Records Request No.: 16-268
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                               PALM BEACH POLICE DEPARTMENT                                  Page: 10
+Time: 13:38:06                                          Incident Report                                                Program: CMS301L
+-------------------------------------------------
+1-03-001498          (Continued)
+
+at which time [REDACTED] did not talk to [REDACTED] per instructions by [REDACTED]
+[REDACTED] stated prior to that [REDACTED] last saw
+on 10/08/03, in which [REDACTED] responded to the apartment
+building, [REDACTED] at approximately 2:00 a.m.
+
+[REDACTED] stated [REDACTED] contacted West Palm Beach Police Department
+via 911, and officer's responded. I contacted the West Palm Beach
+Police Department which queried their CAD system and confirmed
+Officer [REDACTED] responded to that address in reference to a
+911 phone call. There is no report on file and list said CAD
+entry only that Juan P. Alessi was in the building reference to a
+civil matter. They have no current information for [REDACTED]
+This concludes my involvement in the matter.
+
+*********************** N A R R A T I V E # 7 ****************************
+[REDACTED]                    Reported By: [REDACTED]                                    10/15/03
+Entered By.:                  [REDACTED]                                    10/15/03
+
+On 10/13/03, Det. [REDACTED] and I went to [REDACTED] in an
+attempt to locate suspect [REDACTED]. As we were
+getting into the elevator on the ground floor, we came in
+contact with [REDACTED]. I explained to
+[REDACTED] why we were there and [REDACTED] agreed to speak to us.
+
+[REDACTED] said [REDACTED] have been
+[REDACTED] for approximately two months and they are
+going through [REDACTED]
+
+[REDACTED] said on this date, at approximately 1100 hours,
+[REDACTED] drove by [REDACTED] as [REDACTED] was walking out of the Ross
+Department Store located on the southeast corner of
+Okeechobee Blvd. and Military Trail. [REDACTED] said [REDACTED]
+waved at [REDACTED] and that was the extent of their contact.
+[REDACTED] said [REDACTED] does not know where [REDACTED] is living. [REDACTED]
+said [REDACTED] is driving a white Caravan. [REDACTED] supplied me
+with [REDACTED] cell phone number, [REDACTED] advised [REDACTED] has been depressed lately, due to their
+surroundings I advised [REDACTED] to be aware of [REDACTED]
+surroundings and be on the lookout for Juan and if she
+comes in contact with [REDACTED] to call the police
+immediately. [REDACTED] also supplied me with [REDACTED]
+phone number, [REDACTED]
+
+I called [REDACTED] on [REDACTED] cell phone. [REDACTED] agreed to
+come to the Palm Beach Police Station for an interview.
+Juan arrived at the police department and I placed [REDACTED]
+in the interview room in the Detective Bureau. I read
+Miranda Rights from a prepared rights card in
+stated [REDACTED] understood and signed .
+
+I asked [REDACTED] what [REDACTED] connection was with Mr. Epstein,
+
+03/25/2015                                                  Page 62 of 95                                         Public Records Request No.: 16-268
+EFTA00029770
+
+## Structured Fields
+*   **Date:** 9/01/06 (Header), 10/08/03 (Text), 10/13/03 (Text), 10/15/03 (Narrative Header), 03/25/2015 (Footer)
+*   **Case ID/Report ID:** 1-03-001498, CMS301L, 16-268 (Public Records Request No.)
+*   **Location:** West Palm Beach Police Department, Ross Department Store (Okeechobee Blvd. and Military Trail), Palm Beach Police Station, Detective Bureau.
+*   **Names:** Juan P. Alessi, Mr. Epstein, Det. [REDACTED].
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                      PALM BEACH POLICE DEPARTMENT                    Page: 11
+Time: 13:38:06                              Incident Report                                  Program: CMS301L
+                                                                                                                    
+1-03-001498 (Continued)
+
+[REDACTED] lives at 358 El Brillo. [REDACTED] said [REDACTED] worked for Mr. Epstein from January 1991 to until September 2002, as the house manager. [REDACTED] said [REDACTED] was very familiar with Epstein's schedule and the lay out of the house. I asked [REDACTED] took money and a gun from Epstein in the past weeks and [REDACTED] said [REDACTED] did not take the gun but did take money from Epstein's house. [REDACTED] explained approximately six weeks ago [REDACTED] became very depressed about [REDACTED] advised [REDACTED]
+
+became suicidal and decided to steal a gun from Mr. Epstein in order to kill [REDACTED]. said [REDACTED] knew Mr. Epstein had a gun in [REDACTED] office because [REDACTED] helped Mr. Epstein put it there. [REDACTED] described the gun as a silver revolver with a medium barrel that was holstered. [REDACTED] did not know the exact date, but said it was approximately six weeks ago at about 0500 hours on a Sunday morning, [REDACTED] decided to enter Mr. Epstein's house at 358 El Brillo Avenue, in an attempt to steal the gun. [REDACTED] drove [REDACTED] white Caravan and parked it in the driveway of the house. [REDACTED] entered the house through an unlocked sliding glass door located near Epstein's office. [REDACTED] entered the office and attempted to locate the gun. [REDACTED] searched the office but could not find the gun. [REDACTED] then went into Epstein's briefcase and removed approximately $1900 in one hundred dollar bills from a white envelope. [REDACTED] said after taking the money [REDACTED] immediately left the house
+
+[REDACTED] said on Sunday morning, 10/05/03, at approximately 0500 hours, [REDACTED] decided to return to 358 El Brillo in order to steal money once again from Epstein. [REDACTED] said [REDACTED] once again drove [REDACTED] white Caravan to the house and parked in the driveway. [REDACTED] entered the house through the sliding glass door and entered the office. [REDACTED] opened the briefcase and removed $5600 in one hundred dollar bills from a white envelope. [REDACTED] left through the same glass door and drove away. [REDACTED] believed [REDACTED] wore a creme colored loafers, light colored pants, a short sleeve shirt, and a baseball hat. [REDACTED] did not wear gloves on [REDACTED] hands. [REDACTED] said [REDACTED] needed the money to pay for immigration papers.
+
+I asked [REDACTED] if [REDACTED] was still suicidal. [REDACTED] was not and that [REDACTED] was seeing a psychologist on a weekly basis. (this was verified by [REDACTED]) once again denied taking a gun from Epstein's house. [REDACTED] had a talk with Mr. Epstein on 10/12/03, and they agreed [REDACTED] would pay Epstein back for all the money that was taken
+
+03/25/2015                                     Page 63 of 95                              Public Records Request No.: 16-268
+                                                                                                                    
+EFTA00029771
+
+## Structured Fields
+*   **Date:** 9/01/06, 10/05/03, 10/12/03, 03/25/2015
+*   **Time:** 13:38:06, approximately 0500 hours
+*   **Location:** 358 El Brillo Avenue, Palm Beach Police Department
+*   **Names/Organizations:** Mr. Epstein, PALM BEACH POLICE DEPARTMENT
+*   **Document IDs:** 1-03-001498, CMS301L, EFTA00029771, Page 63 of 95, Public Records Request No.: 16-268
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06 Time: 13:38:06 PALM BEACH POLICE DEPARTMENT Page: 12 Incident Report Program: CMS301L
+
+1-03-001498 (Continued)
+
+I placed the Miranda Rights card along with the VCR
+tape of [REDACTED] admission, into evidence.
+
+ATTN POLICE CLERKS: Please add the following
+names and their information into the system.
+[REDACTED]
+
+**************************** N A R R A T I V E # 8 ****************************
+Reported By: [REDACTED] 11/12/03
+Entered By.: [REDACTED] 11/12/03
+
+On 10/08/03, Officer [REDACTED] advised me that he had located [REDACTED] the vehicle parked in parking space #6, at the [REDACTED] Condominium. Officer [REDACTED] further advised that [REDACTED] vehicle was a Ford Explorer, dark in color, bearing Florida tag
+
+On 10/13/03, I was advised by Sgt. [REDACTED] that Epstein had met with [REDACTED] and had reached an agreement to pay back the money taken and subject Epstein did not wish to prosecute at this time. I was also advised that Det. [REDACTED] had interviewed [REDACTED] and had obtained a full confession on the theft of the money but had denied taking the Glock hand gun.
+
+In previous conversations, Epstein was not sure of the location
+of the hand gun but believed it had possibly been between the
+books behind his desk. The surveillance video does not show
+[REDACTED] taking the hand gun and [REDACTED] denies taking the gun.
+
+On 10/15/03, at 1400 hours, I faxed the affidavit of prosecution
+to Epstein asking that he complete the document indicating that
+he does not wish to prosecute and fax it back to me along with
+mailing the original back to me for my case file.
+
+At 1500 hours, Det. [REDACTED] removed the video surveillance
+equipment from Epstein's residence located at 358 El Brillo.
+
+Several attempts to obtain the affidavit of prosecution
+indicated that Epstein did not wish to prosecute were met
+with no response from his staff. It should be noted that
+Epstein had personally met with Capt. [REDACTED] and at
+that time advised he no longer wished to prosecute [REDACTED]
+for the burglary and theft from his residence.
+
+ATTN POLICE CLERKS: Please show a full recovery of the U.S.
+Currency. Please do not show the Glock hand gun as stolen.
+
+03/25/2015 Page 64 of 95 Public Records Request No.: 16-268
+EFTA00029772
+
+## Structured Fields
+- **Date**: 9/01/06, 10/08/03, 10/13/03, 10/15/03, 11/12/03, 03/25/2015
+- **Time**: 13:38:06
+- **Page**: 12, 64 of 95
+- **Program**: CMS301L
+- **Document ID**: 1-03-001498
+- **Public Records Request No.**: 16-268
+- **Location**: Palm Beach Police Department, Condominium (parking space #6), 358 El Brillo
+- **Names/Organizations**: Epstein, Det., Sgt., Capt., Officer, Attn Police Clerks
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/01/06                                                                                                    Page: 13
+Time: 13:38:06                                                                                                     Program: CMS301L
+
+PALM BEACH POLICE DEPARTMENT
+Incident Report
+
+1-03-001498                     (Continued)
+Please show this case as **Except.Cleared** as the identity
+of the suspect was established, there was enough information
+to support an arrest, the exact location of the offender is
+known and the victim declines to prosecute.
+* * * * * * * * * * * * * * END OF REPORT * * * * * * * * * * * * * * *
+
+(03/25/2015                                                                                                    Page 65 of 95                     Public Records Request No.: 16-268
+EFTA00029773
+## Structured Fields
+*   **Date:** 9/01/06 (and 03/25/2015 in footer)
+*   **Time:** 13:38:06
+*   **Organization:** PALM BEACH POLICE DEPARTMENT
+*   **Case ID:** 1-03-001498
+*   **Page Number:** 13 (document header), 65 of 95 (footer)
+*   **Program:** CMS301L
+*   **Public Records Request No.:** 16-268
+

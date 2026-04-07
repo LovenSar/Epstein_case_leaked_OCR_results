@@ -1,0 +1,55 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028140.pdf ts=2026-03-17T20:39:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email header and body text with significant portions redacted using thick black bars. The document appears to be a formal communication, likely legal in nature given the references to "plea negotiations" and victims. The layout consists of a standard email header block at the top, followed by a horizontal separator line, then the message body which starts with "All," and a short paragraph of text before a large block of redacted content obscures the rest of the message.
+
+The header contains fields for Sender (From), Recipients (To), Carbon Copy (Cc), Subject, and Date. The "To" field lists specific names alongside heavily redacted email addresses indicated by angle brackets. The "Cc" line is almost entirely covered by a single long black bar. The date indicates the message was sent on Sunday, December 13, 2020, late at night (UTC). Below the visible text body, there is a horizontal rule separating the signature block from the main content, which is completely redacted. At the very bottom right corner of the page, an alphanumeric code is visible.
+
+## Visible Text (verbatim)
+**Header Section:**
+*   **From:** " [Redacted]
+*   **To:** " [Redacted] <[Redacted]> , Susan Necheles <[Redacted] > ,
+    *   "Kathleen E. Cassidy" <[Redacted] >,
+*   **Cc:** [Long Redacted Bar]
+*   **Subject:** following up
+*   **Date:** Sun, 13 Dec 2020 23:37:04 +0000
+
+**Body Text Section:**
+*   All,
+*   Thanks for speaking with us yesterday. Below is the most current version of the statement of facts we have discussed. We want to emphasize that this is not a plea offer or a proposal, but we are passing this along since you’ve asked us to send you a draft that reflects our must recent discussions. This is not final from our perspective, and this may change following our conversations with victims during the conferral process.
+*   We recognize and respect that you will need to speak with your client this week. However, we do not want to delay notifying the victims, and, as we’ve discussed, we plan to issue a letter to the victims notifying them that we are in plea negotiations. That letter will need to go out this week. From our conversation, it sounds like you plan to meet with your client in the next few days, so let’s plan to talk mid-week.
+*   Thanks, [Redacted Signature Block]
+
+**Footer Section:**
+*   EFTA00028140 (Bottom right corner)
+
+## Notable Details / Clues
+*   **Contextual Clue:** The text mentions "conferral process" and "plea negotiations," strongly suggesting this is communication between defense counsel, prosecutors, or victim advocacy groups regarding a criminal case.
+*   **Redaction Pattern:** The majority of the email body (below the signature) is redacted with varying lengths of black bars, indicating sensitive information such as specific legal facts, financial figures, or detailed arguments was hidden.
+*   **Date/Time:** The timestamp "23:37:04" indicates the email was sent shortly before midnight UTC.
+*   **Recipient Names:** Two specific names are readable in the "To" field: Susan Necheles and Kathleen E. Cassidy, suggesting these individuals were part of the primary communication loop (possibly victim advocates or opposing counsel).
+*   **Tone:** The tone is professional but urgent ("We do not want to delay notifying the victims").
+*   **Formatting:** The text uses standard serif typography, typical for legal document printing or email client defaults. There are quotation marks around the "To" and "Cc" name fields before redaction.
+*   **Signature Block:** The signature block is barely visible, appearing as a small black rectangle where the sender's name would typically be.
+*   **Document ID:** The code "EFTA00028140" in the bottom right suggests this document has been processed through a court system or a document management system (EDiscovery).
+*   **"Must Recent":** There appears to be a typo in the text: "reflects our must recent discussions" likely should read "most recent."
+*   **Separator Lines:** Two horizontal lines separate the header from the body, and the signature block from the redacted content, organizing the document into distinct sections.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document page characterized by significant redaction in the upper section and a blank white background below. At the very top, a dense block of text has been obscured by approximately 19 horizontal, solid black rectangular bars. These bars are aligned to the left margin but exhibit varying lengths on their right sides; most extend nearly across the full width of the page, though several lines (specifically the third, fifth, eighth, tenth, and last visible bars) terminate significantly earlier, creating a jagged, stepped right edge for the block. Below this block of black bars, the remainder of the vertical space—roughly 80% of the image height—is completely empty white space. In the extreme bottom-right corner, there is a faint, small-font alphanumeric watermark or page identifier. The overall appearance suggests a classified or sensitive document where specific details have been intentionally masked for release or archival purposes.
+
+## Visible Text (verbatim)
+EFTA00028141
+
+## Notable Details / Clues
+- **Redaction Pattern:** The black bars are uniform in height but variable in width, indicating that the underlying text lines had different lengths before being covered.
+- **Specific Line Irregularity:** The fifth line down from the top is visibly shorter than almost all others, stopping abruptly about two-thirds of the way across the page.
+- **Watermark Format:** The code "EFTA00028141" follows a standard bureaucratic format often seen in European Union or EFTA (European Free Trade Association) official documents, consisting of an acronym followed by a numeric sequence.
+- **Blank Space:** The large white area below the text suggests this might be the end of a section, a footer page, or simply a page with content concentrated at the top.
+- **Contrast:** The high contrast between the black redaction bars and the stark white background makes the document easy to scan but unreadable in its primary text section.
+- **Alignment:** All redacted lines share a common left-aligned starting point, which is typical for standard word processing documents (e.g., Word or Google Docs) before redaction was applied.
+

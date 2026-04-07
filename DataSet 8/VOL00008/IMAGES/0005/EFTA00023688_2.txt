@@ -1,0 +1,187 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00023688.pdf ts=2026-03-16T00:58:35 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital record of an email correspondence thread, likely from a Windows-based email client like Microsoft Outlook, characterized by a white background and blue hyperlinks. The document is heavily redacted; solid black bars obscure sender names, recipient lists, and specific file paths in most instances.
+
+At the very top, a primary email header establishes the context with a subject line reading "RE: Epstein/Maxwell Upload" and a timestamp of September 25, 2020. The body text of this initial message discusses logistical procedures regarding legal discovery ("producing"), specifically asking about the handling of text and Excel files for parties named "Maxwell vs. Counsel" versus "MDC." It raises concerns about whether converted versions or original native formats are being produced to the defense.
+
+Below the first email, a series of subsequent messages appear in chronological order (descending from newest at top to oldest at bottom).
+*   The second message confirms that zip files have been copied to a location and requests a review for data issues.
+*   The third message references "Deutsche Bank and JPMorgan productions" and provides a shared network path link.
+*   The fourth message addresses a technical limitation regarding placing a "confidential stamp" directly on an Excel file, proposing an image placeholder as a workaround.
+*   The fifth message (bottommost) follows up with thanks and confirms that a check for confidential stamps on native format Excel files yielded a negative result ("the answer is no"), though the sender wants to be sure they aren't missing something.
+
+Throughout the document, the "From," "To," and "Cc" fields are almost entirely obscured by thick black bars, preserving anonymity or complying with data privacy protocols. Arrows (>) occasionally appear next to redacted email addresses, indicating reply chains. In the bottom right corner, a case identifier or file reference number is visible: "EFTA00023688". The text generally uses a sans-serif font, typical of standard document viewing interfaces.
+
+## Visible Text (verbatim)
+**Top Header Section:**
+*   Subject: RE: Epstein/Maxwell Upload
+*   Date: Fri, 25 Sep 2020 14:46:59 +0000
+*   Body: "How are we handling producing to Maxwell vs. Counsel? With these files there are tons of text and excel files that need to be converted in order to be sent to MDC. Are we also producing the converted versions to defense or rather the original natives?"
+
+**Second Email Section:**
+*   Subject: RE: Epstein/Maxwell Upload
+*   Body: "The zip files have been copied to the below location. Please let me know if there are any issues with the data in the zip files. Thank you."
+
+**Third Email Section:**
+*   Subject: RE: Epstein/Maxwell Upload
+*   Body: "That’s what I figured. Thanks! Now that they are all good to go would you please export both Deutsche Bank and JPMorgan productions to the shared here: \\\\USA.doj.gov\\cloud\\NYS\\StAndrews\\Shared\\USvEpstein-2018R01618\\Discovery\\GM\\04 Fourth Production\\TO BE PRODUCED"
+
+**Fourth Email Section:**
+*   Subject: RE: Epstein/Maxwell Upload
+*   Body: "No way to put a confidential stamp on a excel file. There should be an image placeholder that says document produced in native format which has the confidential stamp."
+
+**Fifth Email Section:**
+*   Subject: RE: Epstein/Maxwell Upload
+*   Body: "Thanks [Redacted]. These look great. One quick question, on documents in native format (excel files) is there a confidential stamp? I’ve checked and it seems the answer is no but I just want to be sure that I’m not missing anything."
+
+**Footer:**
+*   EFTA00023688
+
+## Notable Details / Clues
+*   **Legal Context:** The terminology "producing," "MDC" (likely a defendant or legal entity), and "native format" suggests this is a law firm discovery team communicating regarding a court case.
+*   **Jurisdiction/Agency:** The URL path `\USA.doj.gov\` indicates the United States Department of Justice, specifically related to the Epstein case ("USvEpstein").
+*   **Financial Institutions:** Mentions of "Deutsche Bank" and "JPMorgan" suggest the discovery involves financial records from these major banks.
+*   **Technical Constraints:** The emails highlight specific IT/Document Management challenges, such as converting Excel files and the inability to apply security stamps directly to native spreadsheet formats without workarounds like image placeholders.
+*   **Date Discrepancy:** The top email is dated Friday (Sep 25), while the threaded responses below are dated Thursday (Sep 24), showing the thread order starts with the oldest email at the bottom (11:20 AM) and moves up to the most recent (14:46 PM).
+*   **Security Measures:** The heavy redaction suggests this document is part of a sealed record, a public release that has been sanitized, or an internal audit where identities are protected.
+*   **File Organization:** The file path indicates a structured directory for "Fourth Production" organized by matter type ("GM").
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>;
+[REDACTED] <[REDACTED]>
+Subject: RE: Epstein/Maxwell Upload
+The documents should now be available for review. Please let me know if there are any questions.
+Thank you.
+[REDACTED].
+
+From: [REDACTED] >
+Sent: Thursday, September 24, 2020 9:11 AM
+To: [REDACTED] <[REDACTED]>; [REDACTED]
+[REDACTED] >
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED] <[REDACTED]>;
+[REDACTED] <[REDACTED]>
+Subject: RE: Epstein/Maxwell Upload
+These documents are not supposed to be privileged reviewed. The only documents that need to be privilege reviewed are the electronic search warrant returns.
+Thanks,
+[REDACTED]
+
+From: [REDACTED] >
+Sent: Thursday, September 24, 2020 9:05 AM
+To: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED] >
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Epstein/Maxwell Upload
+The data is probably secured for privilege review. Please let me know if these documents are not supposed to be privileged reviewed.
+Thank you.
+[REDACTED].
+
+From: [REDACTED] >
+Sent: Wednesday, September 23, 2020 5:39 PM
+To: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED] >
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Epstein/Maxwell Upload
+Hey [REDACTED],
+When I click on each of those links I'm brought to a Relativity page with no data. Am I doing something wrong?
+Thanks,
+[REDACTED]
+
+From: [REDACTED] >
+Sent: Wednesday, September 23, 2020 11:32 AM
+To: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED] >
+Subject: RE: Epstein/Maxwell Upload
+The production of the documents has been completed. The below are links to the production for you to review:
+Deutsche Bank - https://d1pe.nss.pae.com/Relativity/go?id=1420850-2343058
+JP Morgan - https://d1pe.nss.pae.com/Relativity/go?id=1420850-2343059
+Please review the documents and let me know if anything needs to be adjusted with the production.
+Thank you.
+[REDACTED].
+
+From: [REDACTED] >
+Sent: Friday, September 18, 2020 10:26 AM
+To: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED] >
+
+EFTA00023689
+
+## Structured Fields
+*   **Dates:** Thursday, September 24, 2020 (Sent at 9:11 AM and 9:05 AM); Wednesday, September 23, 2020 (Sent at 5:39 PM and 11:32 AM); Friday, September 18, 2020.
+*   **Organizations:** Deutsche Bank; JP Morgan; Relativity.
+*   **Document IDs/Cases:** EFTA00023689 (Footer).
+*   **Subject Lines:** RE: Epstein/Maxwell Upload.
+*   **Links:** https://d1pe.nss.pae.com/Relativity/go?id=1420850-2343058; https://d1pe.nss.pae.com/Relativity/go?id=1420850-2343059.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+
+**Subject: RE: Epstein/Maxwell Upload**
+
+1. Yes, we want to mark all of them confidential
+2. We are working on that.
+3. I suppose database load files? We want to retain the files as they are currently formatted as best we can.
+4. That won't be an issue. I don't think we will be searching through them; the purpose is just to be able to stamp them.
+
+Thanks!
+
+***
+
+**From:** [REDACTED] <[REDACTED]>
+**Sent:** Friday, September 18, 2020 10:10 AM
+**To:** [REDACTED]
+**Cc:** [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED] <[REDACTED]>
+**Subject: RE: Epstein/Maxwell Upload**
+
+I know you want to produce these documents can you please tell me the following:
+1. Will you placing a Confidential stamp on these documents?
+2. What bates number do you wish to use on the documents?
+3. How do you want to produce the documents (single page tiff images, database load files or PDF production).
+4. Also please note that once the documents have been loaded to Relativity there is no way to run any searches for these images since they are mostly images and video.
+
+Please let me know if there are any questions.
+Thank you.
+
+[REDACTED].
+
+***
+
+**From:** [REDACTED] <[REDACTED]>
+**Sent:** Thursday, September 17, 2020 4:54 PM
+**To:** [REDACTED] <[REDACTED]>
+**Cc:** [REDACTED] <[REDACTED]>; [REDACTED]; [REDACTED] <[REDACTED]>
+**Subject: Epstein/Maxwell Upload**
+
+Hey [REDACTED],
+
+We have some materials that we need uploaded to Relativity to the Epstein database for the purpose of stamping them. The files in question number about 40,000 and are about 300GB in size. They are currently copying onto a drive to be sent to Relativity and should be ready by tomorrow. Do you want to see them first or can they go directly to PAE?
+
+**Folder/Subfolder in Relativity:** US v. Epstein -> FBI Case File -> Images Seized During Search
+
+Thanks,
+
+[REDACTED]
+[REDACTED]
+Paralegal Specialist
+U.S. Attorney's Office | SDNY
+1 St. Andrew's Plaza
+New York, NY 10007
+
+[REDACTED]
+[REDACTED]
+
+EFTA00023690
+
+## Structured Fields
+*   **Date:** Friday, September 18, 2020; Thursday, September 17, 2020
+*   **Case ID/Database:** US v. Epstein; Relativity
+*   **Location:** New York, NY 10007 (St. Andrew's Plaza)
+*   **Organization:** U.S. Attorney's Office | SDNY; FBI Case File; PAE
+*   **Document Count:** about 40,000 files
+*   **Size:** about 300GB
+*   **Doc ID:** EFTA00023690
+

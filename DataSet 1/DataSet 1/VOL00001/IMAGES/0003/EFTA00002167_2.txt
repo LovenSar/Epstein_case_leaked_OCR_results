@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002167.pdf ts=2026-03-05T18:03:04 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a close-up, angled perspective of a white product tag attached to a black textile object on the left side. The tag hangs vertically against a background of dark, horizontal structural bars, likely part of a display rack or shelving unit. To the right, out-of-focus white and grey panels suggest an interior setting, possibly a retail environment or storage area. The lighting is soft and diffuse, casting subtle shadows within the folds of the black fabric and behind the tag. The black object on the left appears to be made of a woven material with a visible grid-like texture, suggesting canvas, nylon, or a similar synthetic fabric. A zipper track or seam is faintly visible near where the tag is attached. The background structure consists of smooth, cylindrical dark bars running diagonally across the frame from top-right to bottom-left, creating strong leading lines. Depth of field is shallow, keeping the text on the white tag relatively sharp while blurring the background bars and the far wall.
+
+## Visible Text (verbatim)
+*   **Top Barcode Section:** "8031 146935" (upside down relative to viewer orientation).
+*   **Middle Tag Body:** "TRESTAZANILA LACS".
+*   **Orange Text Strip (Partial):** "HEA..." (partially obscured by fold).
+*   **Bottom Tag Section:** "TRESTAZANILA LACS".
+*   **Bottom Secondary Code:** "AA 943 GB STT".
+*   **Bottom Right Barcode:** "8031 146935".
+*   **Image Watermark:** "EFTA00002167" (bottom right corner).
+
+## Notable Details / Clues
+*   **Product Identification:** The text "TRESTAZANILA LACS" likely refers to a specific item model or SKU, possibly indicating "Three Szania La Lacs" if broken down by spacing, or a specific manufacturing code.
+*   **Inventory Logic:** The presence of barcodes and SKU numbers (e.g., "943 GB STT") strongly implies this is an inventory management shot, likely for retail stock taking or supply chain verification.
+*   **Tag Orientation:** The tag has distinct sections; the upper part holds the primary barcode and name, while a lower flap or section duplicates the barcode information and adds a secondary code ("AA 943...").
+*   **Fabric Texture:** The black material on the left shows a distinct woven pattern, typical of bags, backpacks, or luggage.
+*   **Attachment Point:** The tag is clipped or sewn near a corner or edge of the black object, suggesting it marks the handle or a specific compartment of a bag.
+*   **Background Structure:** The horizontal bars in the background are uniform in thickness and spacing, characteristic of industrial shelving, clothing racks, or wire display frames often found in warehouses.
+*   **Color Contrast:** There is high contrast between the stark white tag, the deep black fabric, and the neutral grey/white background.
+*   **Text Alignment:** The text on the white strips runs parallel to the long edge of the tag strip, which is oriented diagonally across the frame.
+*   **Barcode Consistency:** Both visible barcodes appear to share the same sequence "8031 146935", indicating redundancy for scanning purposes.
+*   **Watermark Context:** The alphanumeric code "EFTA00002167" in the corner is likely an internal reference ID, image hash, or file identifier from a database management system (DMS).
+*   **Wear and Tear:** The edge of the bottom tag flap appears slightly frayed or cut unevenly, suggesting it might be a tear-away tab for customers to remove.
+*   **Orange Accents:** A sliver of orange printing is visible on the left side of the white tag, contrasting with the black and white elements, possibly indicating a brand logo or "New" indicator that got folded over.
+

@@ -1,0 +1,44 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015094.pdf ts=2026-03-12T12:54:33 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned document titled "Additional Inquiry Response," formatted as an official law enforcement record from the United States and New York State. At the very top left, a timestamp reads "10/6/21, 12:58 PM." Centered at the top is a classification header stating "III/FBI/State Delayed Response." Below this is the main document title in bold black text. Directly beneath the title is an alphanumeric ORI code and the name of the Federal Bureau of Investigation - New York, highlighted in red text. A horizontal separator line divides the header from the address block, which lists the New York State Division of Criminal Justice Services, including a full street address in Albany, a telephone number, and the signature block for Michael C. Green, Executive Deputy Commissioner. Further down, a section labeled "III Information" introduces a statement regarding a search request. This is followed by a massive, solid black rectangular redaction that obscures the bulk of the document's central data, likely containing personal identifiers or sensitive investigative details. Below this large box is a line indicating identification data was updated on 10/24/2016, followed immediately by a smaller black rectangle. At the bottom, text instructs how records can be obtained via the Interstate Identification Index using NCIC transactions. The document ends with a marker "END" on the left and pagination/case numbers on the right.
+
+## Visible Text (verbatim)
+**Header:**
+10/6/21, 12:58 PM
+III/FBI/State Delayed Response
+Additional Inquiry Response
+ORI: NYFBINY00
+Federal Bureau of Investigation - New York
+New York State Division of Criminal Justice Services
+Alfred E. Smith Building, 80 South Swan St.
+Albany, New York 12210. Tel:1-800-262-DCJS
+Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+
+**Section III:**
+III Information
+The following information is provided in response to your request for a search of the III based on:
+
+[Redacted Black Box]
+IDENTIFICATION DATA UPDATED 2016/10/24
+[Redacted Black Box]
+THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION INDEX BY USING THE APPROPRIATE NCIC TRANSACTION.
+
+**Footer:**
+END
+1/1
+EFTA00015094
+
+## Notable Details / Clues
+*   **Redaction Scope:** The central content is entirely blacked out, indicating a request to protect Personally Identifiable Information (PII) or sensitive investigative findings from public disclosure.
+*   **Jurisdictional Mix:** The document header combines the "Federal Bureau of Investigation - New York" with the "New York State Division of Criminal Justice Services," suggesting a cooperative state-federal inquiry.
+*   **Status Indicator:** The top right corner explicitly marks this as an "FBI/State Delayed Response," implying the data took time to compile or was pending before release.
+*   **Update Discrepancy:** There is a notable date discrepancy where the document header is dated 10/6/21 (2021), but the identification data update stamp inside the redacted area says "2016/10/24" (2016).
+*   **NCIC Reference:** The text at the bottom references the National Crime Information Center (NCIC), confirming this is a criminal justice database record.
+*   **Case ID:** The document number in the bottom right corner, EFTA00015094, likely serves as the internal tracking number for this specific request or response.
+*   **Contact Info:** The telephone number provided (1-800-262-DCJS) is a toll-free line for the NY State Division of Criminal Justice Services.
+*   **Document Length:** The "1/1" indicator suggests this is a single-page report, likely a summary or a specific data page rather than a full file packet.
+*   **Section Marker:** The purple icon next to "III Information" corresponds to standard III (Interstate Identification Index) reporting structures used by law enforcement agencies.
+

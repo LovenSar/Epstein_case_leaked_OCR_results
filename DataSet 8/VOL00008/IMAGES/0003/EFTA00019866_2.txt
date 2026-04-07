@@ -1,0 +1,69 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019866.pdf ts=2026-03-14T07:25:35 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[IMPORTANT MESSAGE]
+FOR Jeffrey
+DATE 02/26/05 TIME 11:15 A.M.
+M [REDACTED]
+OF [REDACTED]
+PHONE/MOBILE [REDACTED]
+TELEPHONED | PLEASE CALL
+CAME TO SEE YOU | WILL CALL AGAIN
+WANTS TO SEE YOU | RUSH
+RETURNED YOUR CALL | SPECIAL ATTENTION
+MESSAGE Please call her back in 1h 30
+She is on the way to the gym
+SIGNED [Empty] 1184
+
+[IMPORTANT MESSAGE]
+FOR Jeffrey
+DATE 02/25/05 TIME 05:30 A.M.
+M [REDACTED]
+OF [REDACTED]
+PHONE/MOBILE You have it
+TELEPHONED | PLEASE CALL
+CAME TO SEE YOU | WILL CALL AGAIN
+WANTS TO SEE YOU | RUSH
+RETURNED YOUR CALL | SPECIAL ATTENTION
+MESSAGE Going back to consultation...
+what about Paris on Saturday?
+SIGNED [Empty] 1184
+
+[IMPORTANT MESSAGE]
+FOR Jeffrey
+DATE 2/26/05 TIME R 40 A.M.
+M [REDACTED]
+OF [REDACTED]
+PHONE/MOBILE [REDACTED/Blank]
+TELEPHONED | PLEASE CALL
+CAME TO SEE YOU | WILL CALL AGAIN
+WANTS TO SEE YOU | RUSH
+RETURNED YOUR CALL | SPECIAL ATTENTION
+MESSAGE Please call her
+SIGNED [Empty] 1184
+
+[IMPORTANT MESSAGE]
+FOR Jeffrey
+DATE 2/26/05 TIME 12:21 A.M.
+M [REDACTED]
+OF [REDACTED]
+PHONE/MOBILE [REDACTED]
+TELEPHONED | PLEASE CALL
+CAME TO SEE YOU | WILL CALL AGAIN
+WANTS TO SEE YOU | RUSH
+RETURNED YOUR CALL | SPECIAL ATTENTION
+MESSAGE Please call him back
+SIGNED [Empty] 1184
+
+01/22/2015 Page 2206 Public Records Request No.: 10-200 EFTA00019866
+
+## Structured Fields
+- **Names:** Jeffrey (repeated), "her" (female subject in messages)
+- **Dates:** 02/26/05, 02/25/05, 2/26/05, 01/22/2015 (stamp)
+- **Times:** 11:15 A.M., 05:30 A.M., R 40 A.M. (or 2:40), 12:21 A.M.
+- **Locations/Events:** gym, consultation, Paris, Saturday
+- **Doc IDs:** 1184 (slip ID), EFTA00019866 (Page ID), Page 2206, Public Records Request No.: 10-200
+- **Organizations:** None visible
+- **Redactions:** Phone numbers, Names (M/OF fields) are redacted/black-boxed.
+

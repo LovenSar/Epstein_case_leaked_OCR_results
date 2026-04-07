@@ -1,0 +1,48 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003050.pdf ts=2026-03-06T00:38:30 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly high-angle shot of a printed document titled "Emergency Contact Form" placed inside a clear plastic sheet protector within a binder. On the left edge, three silver metal binder rings are visible holding the pages together. The form belongs to an entity named "LSJE, LLC" located in St. Thomas. The document is partially filled out; specifically, the date "10/18/18", the employee name "Donald Pollon," and various redacted fields at the bottom. Most other fields for addresses, phone numbers, email, and medical information are left blank. At the bottom right corner of the image, outside the document area, there is a black strip with the white alphanumeric code "EFTA00003050". Several sensitive data points have been obscured with solid black rectangular redaction marks, particularly the phone number in the header, the names and phone numbers of emergency contacts at the bottom.
+
+## Visible Text (verbatim)
+- LSJE, LLC
+- 6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348
+- Phone [Redacted]
+- E-mail: thesaintjames.group@gmail.com
+- Emergency Contact Form
+- Today's Date: 10/18/18
+- Start Date: [Blank]
+- Employee Name: Donald Pollon
+- Date of Birth: [Blank]
+- Physical Address: [Blank]
+- Mailing Address: [Blank]
+- Cell Phone: [Blank]
+- Phone (other): [Blank]
+- E-mail: [Blank]
+- Marital Status: [Blank]
+- Title/Position: [Blank]
+- Driver's License No: [Blank]
+- Allergies or Health Concerns: [Blank]
+- Blood type: A-, A+, AB-, AB+, B-, B+, O-, O+, Unknown (All boxes empty)
+- Current Medications: [Blank]
+- Doctor's Name: [Blank] / Doctor's Phone: [Blank]
+- Doctor's Name: [Blank] / Doctor's Phone: [Blank]
+- In case of emergency, please contact:
+- Name: [Redacted] / Relationship: [Blank] / Phone: [Redacted]
+- Name: [Redacted] / Relationship: [Blank] / Phone: [Redacted]
+- This information is for your safety and the safety of others.
+- EFTA00003050
+
+## Notable Details / Clues
+- **Company Location:** The address "St. Thomas, VI" indicates the US Virgin Islands.
+- **Specific Date:** The form was filled out on October 18, 2018 (10/18/18).
+- **Employee Name:** The specific name filled in is Donald Pollon.
+- **Empty Fields:** Extensive fields for physical address, mailing address, cell phone, email, title, driver's license, allergies, medications, and doctor info are completely empty despite the form being filled out partially.
+- **Redaction Pattern:** The bottom section has two rows for emergency contacts; in both cases, the "Name" field is completely blacked out, and the "Phone" field is heavily blacked out, leaving only the start of the box visible.
+- **Checkbox State:** There are eight checkboxes for blood type (A-, A+, AB-, AB+, B-, B+, O-, O+) plus an "Unknown" checkbox; none are marked with a check.
+- **Form Header Contact:** The phone number in the header is redacted, but the email address "thesaintjames.group@gmail.com" remains visible and unaltered.
+- **Footer Warning:** A small italicized sentence at the very bottom reads "This information is for your safety and the safety of others."
+- **Binder Hardware:** The silver spiral binding coils are clearly visible on the left side, piercing the plastic sheet protector.
+- **Document Texture:** The surface shows slight glare from lighting, particularly on the left side near the binder rings, indicating a glossy plastic overlay or paper sheen.
+

@@ -1,0 +1,80 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030788.pdf ts=2026-03-18T22:39:01 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread or folder view from an email client (likely Microsoft Outlook or a similar enterprise mail system). The interface is clean with a white background and black text. Most personally identifiable information, such as sender names and email addresses, has been redacted with solid black bars. The emails are sorted in descending chronological order (newest at the top), all dated Wednesday, February 12, 2020.
+
+The thread centers on an investigation regarding "child exploitation/sex crimes," specifically referencing the Jeffrey Epstein case. The conversation involves updates being distributed to multiple recipients.
+
+At the very top of the image, there is a header block with redacted sender/receiver information and a timestamp of 20:30:34 +0000 (8:30 PM UTC). Below this header is a short message body reading "Ha no worries at all!!". Following a horizontal separator line, the next email down is timestamped 15:08 (3:08 PM), containing a reply where the sender admits to missing an item in their scan.
+
+Further down, there is an email from 2:39 PM (14:39) updating that the "Epstein case is charged" and noting a "nolle submitted post-death."
+
+At the bottom of the list is the original "blast" or mass email sent at 14:30 (2:30 PM). This email was sent to a very long list of recipients, indicated by a dense stack of redacted black bars in the "To:" field. The subject line for this original email is visible near the bottom text, and the body begins with "It’s that time again..." implying a recurring newsletter or update cadence. A reference code "EFTA00030788" appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header Section:**
+From: "███████████████"
+To: "███████████"
+Subject: RE: Please read - child exploitation/sex crimes case updates
+Date: Wed, 12 Feb 2020 20:30:34 +0000
+
+**Message Body:**
+Ha no worries at all!!
+
+**Second Email Block:**
+From: ███████
+Sent: Wednesday, February 12, 2020 15:08
+To: ███████
+Subject: RE: Please read - child exploitation/sex crimes case updates
+
+Thanks. I did do a quick scan for the obvious ones but I guess I missed this one. ☺
+
+**Third Email Block:**
+From: ███████████
+Sent: Wednesday, February 12, 2020 2:39 PM
+To: ████████
+Subject: RE: Please read - child exploitation/sex crimes case updates
+
+Epstein case is charged and . . . nole submitted post-death.
+
+**Fourth Email Block (Original/Mass Email):**
+From: ███████
+Sent: Wednesday, February 12, 2020 14:30
+To: ██████████████████
+[Multiple redacted email addresses]
+Subject: Please read - child exploitation/sex crimes case updates
+
+It’s that time again...
+
+**Footer:**
+EFTA00030788
+
+## Notable Details / Clues
+*   **Redactions:** Identifying headers are obscured, but the "To:" field in the final (bottom) email shows a significant number of recipient addresses were blacked out, suggesting this was an official notification sent to a large distribution list.
+*   **Content Context:** The emails reference "child exploitation/sex crimes case updates" and specifically mention the "Epstein case." One message mentions a "nolle submitted post-death," referring to a *Nolle Prosequi* (a formal decision by a prosecutor not to pursue charges).
+*   **Timing:** The timestamps span from 14:30 (2:30 PM) to 20:30 (8:30 PM) on the same day, suggesting a workday discussion among professionals in the UK/Europe time zone (indicated by the +0000 offset).
+*   **Reference ID:** The code "EFTA00030788" at the bottom right suggests this screenshot might be from an archived document or legal database.
+*   **Tone:** The use of "☺" emoji and phrases like "Ha no worries" contrasts with the serious legal subject matter, indicating a casual internal communication channel among colleagues.
+*   **Typo/Omission:** In the 2:39 PM email, the word "nolle" is used instead of the full legal term *Nolle Prosequi*.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+If you are in the “to” line of this email, you have a Project Safe Childhood case for which we need an update. Because of the sensitive nature of these cases, it’s critical that we don’t let cases linger, and, in consultation with your supervisors, we close cases when necessary.
+
+Please review the attached list, noting the most recent entry for any case under your name. Then...
+*   If the case is *uncharged*, please advise me of the status of any expected charges and/or come by to discuss next steps.
+*   If the case has been *charged*, please send me a quick email with any updates to the case status (e.g., pled, sentenced, on appeal) or, if the status is up to date, please confirm that no changes need to be made.
+
+Thanks in advance for your prompt reply to this email. (Read: Please don’t make me hunt you down for updates – this will take approximately 5 minutes.)
+
+Thanks,
+[REDACTED]
+
+EFTA00030789
+
+## Structured Fields
+*   **Organization:** Project Safe Childhood
+*   **Doc ID:** EFTA00030789
+

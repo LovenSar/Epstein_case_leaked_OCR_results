@@ -1,0 +1,479 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019798.pdf ts=2026-03-14T06:41:08 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed "Daily Assignment Roster" for the MCC New York facility in New York, NY, dated Saturday, August 10, 2019. The document is formatted as a grid schedule with rows listing specific job posts or locations and columns representing time blocks of the day.
+
+The header at the top identifies the location ("MCC NEW YORK") and the document type ("Daily Assignment Roster"). On the top right, the date "Saturday August 10, 2019" and "Page 1" are visible. A timestamp "10/2019 10:46:54 AM" appears in the bottom left corner, and a document ID "EFTA00019798" is in the bottom right.
+
+The main body of the document consists of a grid. The first column lists various "Post" titles (e.g., OPS LT, ACT LT, SHU LT, Control units, North/South unit numbers). Following this are columns for time shifts.
+- The first time column header is "2 00:00 - 08:00".
+- The second is "3 06:00 - 14:00".
+- The third section contains stacked headers "6 07:00 - 15:00" and "8 08:00 - 16:00".
+- The fourth section contains stacked headers "9 12:00 - 20:00" and "10 14:00 - 22:00".
+- The final column is "12 16:00 - 00:00".
+
+A significant portion of the schedule grid is obscured by large, solid black rectangular shapes that cover the right-hand side of the document and parts of the bottom left. This suggests data redaction to protect privacy or due to scanning issues. Despite the heavy blacking out, two specific staff assignments are visible in the early morning shift column (under the row for SHU #1 and SHU #2):
+- Row "SHU #1": Contains text "**2 Noel, T" on one line and "OT" below it.
+- Row "SHU #2": Contains text "**2 Thomas, M" on one line and "OT (NC)" below it.
+
+A row at the bottom labeled "***Special Assignments****" is visible but covered by a black block. The list of posts includes various operational roles typical of a correctional facility, such as SEARCH OFFICER, PHONE MONITOR, CONTROL units, and specific housing units like 5 NORTH, 5 SOUTH, etc.
+
+## Visible Text (verbatim)
+**Header Section:**
+- MCC NEW YORK
+- NEW YORK, NY
+- Daily Assignment Roster
+- Saturday August 10, 2019
+- Page 1
+
+**Column Headers:**
+- Post
+- Split Shift
+- 2 00:00 - 08:00
+- 3 06:00 - 14:00
+- 6 07:00 - 15:00
+- 8 08:00 - 16:00
+- 9 12:00 - 20:00
+- 10 14:00 - 22:00
+- 12 16:00 - 00:00
+
+**Row Content (Post Titles):**
+- OPS LT
+- ACT LT
+- SHU LT
+- SIS TECH #1
+- PHONE MONITOR
+- SEARCH OFFICER
+- LOBBY
+- CONTROL #1
+- CONTROL #2
+- INTERNAL
+- INTERNAL #2
+- ATTY CONF
+- UNIT 2
+- UNIT 3
+- 5 NORTH
+- 5 SOUTH
+- 7 NORTH
+- 7 SOUTH
+- 9 NORTH
+
+**Visible Assignments in Grid:**
+- **2 Noel, T
+- OT
+- **2 Thomas, M
+- OT (NC)
+
+**Footer/Bottom Text:**
+- ***Special Assignments****
+- 10/2019 10:46:54 AM
+- EFTA00019798
+
+## Notable Details / Clues
+- **Facility Type:** The acronyms (MCC, SHU, OSP, Search Officer) and unit designations (North/South units, Control) strongly indicate this is a Correctional facility roster (Metropolitan Correctional Center).
+- **Redaction:** The document has been heavily blacked out, likely to remove sensitive information such as inmate names or specific security assignments associated with the later shifts.
+- **Specific Assignments:** Only two people are identified by name: Noel, T and Thomas, M. They appear to be assigned to SHU (Segregation Housing Unit) and marked with "OT" (Overtime?) and "NC" (No Call/No Show? or similar status).
+- **Time Layout:** The schedule uses a complex overlapping shift system with 4-hour blocks and specific start times (e.g., Shift 3 starts at 06:00, Shift 6 starts at 07:00).
+- **Document ID:** The string "EFTA00019798" suggests a formal government or agency filing number.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned document, likely a law enforcement or security shift roster for "Saturday August 10, 2019," identified as Page 2. The document features a two-column layout where the left side lists specific posts or categories (e.g., "PHONE RM," "DRY CELL") and the right side contains corresponding data that is heavily redacted with black rectangular bars.
+
+The top section lists standard roster categories like "STAFF SEARCH" and "LOBBY #2." Below this, a header reads "****Back Page Categories****," followed by sections labeled "DAY OFF," "SICK LEAVE," "ANNUAL LEAVE," and "COP," all of which have their corresponding data rows completely blacked out.
+
+The bottom section, titled "****Change Records****," presents a detailed table tracking administrative updates to the roster. This section reveals specific names and timestamps, indicating a series of corrections made on August 5th (RW 8/5). The table columns include "Post," "Split," "Shift," "Officer," "Relieved Officer's New Status," "Relieving Officer," "Relieving Officer's Previous Status," "Ret Shft," and "Changed By."
+
+Specific rows show posts like "OPS LT," "11 SOUTH #2," "9 NORTH," "SHU #2," and "INTERNAL." A name, "Thomas, M," appears frequently in the change records, associated with status changes to "[Sick/Annual]" or "<Unassigned>." The document footer includes a timestamp of "10/2019 10:46:56 AM" and an identification number "EFTA00019799."
+
+## Visible Text (verbatim)
+**Top Right:**
+Saturday August 10, 2019
+Page 2
+
+**Left Column Labels:**
+PHONE RM
+STAFF SEARCH
+LOBBY #2
+DRY CELL
+ESCORT #1
+ESCORT #2
+
+**Section Headers:**
+****Back Page Categories****
+DAY OFF
+SICK LEAVE
+ANNUAL LEAVE
+COP
+****Change Records****
+
+**Table Headers:**
+Post | Split | Shift | Officer | Relieved Officer's New Status | Relieving Officer | Relieving Officer's Previous Status | Ret Shft | Changed By
+
+**Table Data Rows (from top to bottom):**
+OPS LT | 12 [Redacted]
+OPS LT | 8 [Redacted]
+Assignment Swap [Redacted]
+11 SOUTH #2 | 12 [Redacted]
+[Sick / Annual] [Redacted]
+9 NORTH | 8 [Redacted]
+[Inserted NCS] | Thomas, M | [Sick/Annual] | RW 8/5 08:34
+SHU #2 | 2 <Unassigned> | Thomas, M | [Sick / Annual] | RW 8/5 08:34
+[Inserted NCS] | Thomas, M | [Sick/Annual] | RW 8/5 08:35
+INTERNAL | 8 <Unassigned> | Thomas, M | [Sick / Annual] | RW 8/5 08:36
+
+**Footer:**
+10/2019 10:46:56 AM
+EFTA00019799
+
+## Notable Details / Clues
+*   **Redaction Strategy:** The document uses broad black bars to hide specific officer names and shift assignments for the top sections (Phone RM through COP), while the bottom "Change Records" section leaves some data visible, specifically identifying "Thomas, M."
+*   **Date Discrepancy:** The header date is "Saturday August 10, 2019," but the change records reference dates of "8/5" (August 5th), and the bottom left timestamp says "10/2019" (likely October). This suggests the document might be a printout from a system where changes were made in May/August, or the bottom date refers to a different time zone/format (October vs August is a significant difference, suggesting potential confusion in OCR or manual entry of the footer date).
+*   **Specific Terminology:** Terms like "DRY CELL" (high security cell), "OPS LT" (Operations Lieutenant?), "SHU #2" (Special Housing Unit), and "NCS" (Non-Custody?) indicate a correctional facility or police precinct context.
+*   **"Assignment Swap":** This text appears in the table, suggesting a shift exchange occurred for one of the redacted rows.
+*   **Sequence of Events:** The change records show a rapid succession of entries for "Thomas, M" with timestamps between 08:34 and 08:36 on 8/5, indicating a cluster of administrative updates or corrections happening within two minutes.
+*   **Status Codes:** The text "[Sick / Annual]" and "<Unassigned>" are used to denote the status of an officer in the roster system.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document, specifically Page 3 of a report dated Saturday, August 10, 2019. The document is formatted as a table with column headers at the top: "Post", "Split Shift Officer", "Relieved Officer's New Status", "Relieving Officer", "Relieving Officer's Previous Status", and "Ret Shft Changed By".
+
+The leftmost column, labeled "Post", lists various locations or sectors within a facility. These entries include specific identifiers like "SHU #3" (likely Secure Housing Unit), "CONTROL #2", "VISIT #3", and directional zones such as "7 SOUTH", "11 SOUTH", "7 NORTH". There are also multiple placeholder entries denoted as "[Inserted NCS]", "[Inserted]", or "[Sick / Annual]".
+
+A significant portion of the document, specifically the middle and right sections where officer names and status changes would typically appear, is covered by a large, solid black rectangular redaction box. This obliterates any text in the columns starting from "Split Shift Officer" through to the end of the page. At the bottom left corner, a timestamp reads "10/2019 10:46:57 AM", and at the bottom right, an alphanumeric document ID "EFTA00019800" is visible.
+
+## Visible Text (verbatim)
+**Header:**
+Saturday August 10, 2019 Page 3
+
+**Column Headers:**
+Post | Split Shift Officer | Relieved Officer's New Status | Relieving Officer | Relieving Officer's Previous Status | Ret Shft Changed By
+
+**Row Content (Left Column "Post"):**
+*   SHU #3
+*   CONTROL #2
+*   VISIT #3
+*   7 SOUTH
+*   [Inserted NCS]
+*   5 SOUTH
+*   [Inserted NCS]
+*   CONTROL #1
+*   INTERNAL #2
+*   [Inserted NCS]
+*   11 SOUTH
+*   10 SOUTH #1
+*   ACT LT
+*   [Inserted]
+*   [Inserted]
+*   [Inserted]
+*   [Inserted]
+*   [Sick / Annual]
+*   [Sick / Annual]
+*   [Sick / Annual]
+*   [Sick / Annual]
+*   5 SOUTH
+*   7 NORTH
+*   ACT LT
+*   ACT LT
+*   [Inserted NCS]
+*   7 SOUTH
+*   [Inserted NCS]
+
+**Footer:**
+10/2019 10:46:57 AM | EFTA00019800
+
+## Notable Details / Clues
+*   **Redaction:** The vast majority of the data is blacked out, suggesting a privacy review where officer names and specific shift details were removed for public release while keeping the assignment structure (the "Post") visible.
+*   **Facility Context:** Terms like "SHU" (Secure Housing Unit), "Control", "Visit", and numbered South/North sectors strongly suggest this is a roster for a prison, jail, or high-security correctional facility.
+*   **"Inserted" Markers:** The repeated use of "[Inserted NCS]" and "[Inserted]" indicates that records were likely manually added or inserted into the roster after the original generation, perhaps to correct shifts or add temporary staff.
+*   **Shift Statuses:** The block of text "[Sick / Annual]" suggests a block of officers are marked as being out on sick leave or taking annual time during this specific timeframe.
+*   **Timestamp Discrepancy:** The header date is August 10, 2019, but the print timestamp at the bottom left says "10/2019" (October 2019). This implies the document was retrieved or printed from an archive system in October, even though it covers August data.
+*   **Page Numbering:** The header indicates this is "Page 3", suggesting there are preceding pages of similar rosters.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned page of a digital roster or schedule document, heavily redacted with black bars covering the central data fields. The document appears to track law enforcement officer shifts and assignments.
+
+-   **Header Information:** In the top right corner, the date is printed as "Saturday August 10, 2019" and it is identified as "Page 4".
+-   **Column Structure:** The leftmost column lists various posts or locations (e.g., "7 SOUTH", "7 NORTH", "VISIT #2", "SHU #1", "INTERNAL #2", "OSP #1"). Next to this is a column labeled "Split Shft Officer" containing numbers indicating shift types or counts (e.g., 12, 2, 8).
+-   **Redaction:** A massive black rectangle obscures the majority of the central columns ("Relieved Officer's New Status", "Relieving Officer", "Relieving Officer's Previous Status"), hiding specific officer names and status details for the top two-thirds of the page.
+-   **Visible Entries (Top to Bottom):**
+    -   Rows list posts like "7 SOUTH" with shifts "12", "2", and "2".
+    -   Several rows are marked "[Sick / Annual]" or "[Inserted NCS]", indicating non-shift personnel or inserted entries.
+    -   Posts include "VISIT #2" (shift 8), "SHU #2" (shift 8), "INTERNAL #2" (shift 2), "7 NORTH" (shift 12).
+    -   Middle section lists "SHU #1" (shift 8), "11 SOUTH" (shift 12), "INTERNAL" (shift 12), "OSP #1" (shift 2), and "(sp)DRY CELL" (shift 2).
+-   **Visible Entry (Bottom Section):** Below the main redaction block, a specific row is partially visible without full blacking out. It lists Post "SHU #1", Shift "2", Status "<Unassigned>", Relieving Officer "Noel, T", Previous Status "12 SHU #1", Ret Shift "Y", and Changed By "MC 8/9 17:19". Below this entry are sub-labels like "Shift", "Staff", "OT/CT Start End".
+-   **Footer Information:** At the very bottom left, a timestamp reads "10/2019 10:46:57 AM". In the bottom right corner, a document ID is visible: "EFTA00019801".
+-   **Final Rows:** Below the partial entry, there are rows for "[Sick / Annual]", "11 SOUTH" (shift 2), "(sp)LOBBY #2" (shift 8).
+
+## Visible Text (verbatim)
+**Top Right:**
+Saturday August 10, 2019
+Page 4
+
+**Headers:**
+Post
+Split Shft Officer
+Relieved Officer's New Status
+Relieving Officer
+Relieving Officer's Previous Status
+Ret Shft Changed By
+
+**Left Column (Post):**
+7 SOUTH
+[Sick / Annual]
+7 SOUTH
+7 SOUTH
+7 NORTH
+[Inserted NCS]
+VISIT #2
+SHU #2
+[Sick / Annual]
+INTERNAL #2
+7 NORTH
+[Inserted NCS]
+SHU #1
+11 SOUTH
+INTERNAL
+INTERNAL #2
+OSP #1
+(sp)DRY CELL
+OSP #1
+
+**Split Shft Officer Column:**
+12
+2
+2
+2
+8
+8
+2
+12
+8
+12
+12
+2
+2
+2
+
+**Visible Bottom Section:**
+SHU #1 | 2 | <Unassigned> | Noel, T | 12 SHU #1 | Y | MC 8/9 17:19
+Shift | SHU #1 | Staff | Noel, T
+SHU #1 | Noel, T
+
+**Lower Left Rows:**
+[Sick / Annual]
+11 SOUTH
+11 SOUTH
+(sp)LOBBY #2
+
+**Footer:**
+10/2019 10:46:57 AM
+EFTA00019801
+
+## Notable Details / Clues
+-   **Redaction Pattern:** The black bars are uniform and cover specific columns, suggesting a deliberate privacy mask applied by an automated system or manual editor to hide personnel names while keeping shift data visible.
+-   **"Split Shft" Typo:** The column header "Split Shft Officer" contains a typo ("Shft" instead of "Shift").
+-   **Special Duties:** Posts like "(sp)DRY CELL", "(sp)LOBBY #2", and "[Inserted NCS]" suggest special duty assignments or inserted personnel not on the standard roster.
+-   **"Sick / Annual":** Brackets around these text entries indicate leaves of absence (sick leave or annual leave).
+-   **Specific Handover:** The bottom entry shows a handover involving "Noel, T" relieving someone in "SHU #1" (Secure Housing Unit), changing the shift to 2 (likely a specific shift code) from a previous status of "12 SHU #1".
+-   **Date Discrepancy:** The document header says August 10, 2019, but the footer timestamp is in October 2019 ("10/2019"). This suggests the roster was exported or printed later than the scheduled date, or "10/2019" refers to October (Month/Year) while August is the specific day. Given the Saturday date, August 10 matches a Saturday in 2019. The footer time stamp might just be the software log-in/out time of the editor.
+-   **Document ID:** The alphanumeric code "EFTA00019801" at the bottom right is likely an Electronic Fingerprint/Time and Attendance tracking number (often associated with agencies using ADP or similar systems).
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a portion of a digital document, specifically a page from what appears to be a correctional facility officer roster or shift schedule update. The document is structured as a table with a header row and multiple data rows below it. A large, solid black rectangle covers the majority of the right-hand side of the page, redacting sensitive information such as officer names, relieved officer status, relieving officers, and previous status columns.
+
+On the left side, visible columns list "Post" (job titles/locations), "Split," "Shift," and "Officer." The numbers in the "Shift" column (mostly '8', with some '3' and '10') likely denote hours or specific shift codes. Interspersed among the standard posts are entries indicating absences, labeled "[Sick / Annual]" and "Sick Leave." At the top right, a date stamp reads "Saturday August 10, 2019" on "Page 5." At the bottom left, a timestamp is partially visible reading "10/2019 10:46:57 AM," which appears inconsistent with the header date. A document identification code is printed in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+*   Saturday August 10, 2019
+*   Page 5
+*   Post
+*   Split Shift Officer
+*   Relieved Officer's New Status
+*   Relieving Officer
+*   Relieving Officer's Previous Status
+*   Ret Shft Changed By
+
+**Column Content (Post/Shift):**
+*   5 SOUTH ... 8
+*   [Inserted NCS]
+*   (sp)LOBBY #2 ... 8
+*   LOBBY ... 3
+*   LOBBY ... 10
+*   (sp)PHONE RM ... 8
+*   SEARCH OFFICER ... 8
+*   CONTROL #1 ... 8
+*   9 NORTH ... 8
+*   OSP #1 ... 8
+*   Sick Leave ... 0
+*   11 SOUTH ... 8
+*   OSP #1 ... 8
+*   LOBBY ... 10
+*   (sp)DRY CELL ... 8
+*   11 SOUTH ... 8
+*   (sp)DRY CELL ... 8
+*   5 NORTH ... 8
+*   [Sick / Annual]
+*   11 SOUTH ... 12 (partially cut off by black box)
+*   LOBBY ... 3
+*   [Sick / Annual]
+*   SHU #3 ... 3
+*   [Sick / Annual]
+*   CONTROL #2 ... 3
+*   SHU #3 ... 3
+*   SEARCH OFFICER ... 8
+*   UNIT 2 ... 8
+*   5 NORTH ... 8
+*   [Sick / Annual]
+
+**Footer:**
+*   10/2019 10:46:57 AM (Bottom Left)
+*   EFTA00019802 (Bottom Right)
+
+## Notable Details / Clues
+*   **Redaction:** The central visual feature is a massive black overlay that obscures the core data columns ("Relieving Officer," "Previous Status," etc.), indicating privacy protection or deliberate concealment of specific personnel assignments.
+*   **Absence Markers:** Several rows are explicitly marked with "[Sick / Annual]" (likely Sick Leave or Annual Leave) and "Sick Leave," suggesting a significant number of officers were on leave during this period.
+*   **Specific Locations/Posts:** The list includes varied roles and locations such as "5 SOUTH," "11 SOUTH," "9 NORTH," "5 NORTH" (likely specific units or housing areas), "LOBBY," "PHONE RM" (Phone Room), "SEARCH OFFICER," "(sp)DRY CELL" (Dry Cell/Segregation area), "SHU #3" (Secure Housing Unit #3), and "UNIT 2."
+*   **Date Discrepancy:** There is a potential conflict between the header date ("Saturday August 10, 2019") and the bottom-left timestamp text which appears to read "10/2019," suggesting either a formatting standard like MM/DD/YYYY where October comes later, or a mismatch in the document's metadata.
+*   **Formatting:** The term "(sp)" likely abbreviates "Special Assignment" or similar, distinguishing specific sub-posts like "(sp)LOBBY #2" from generic "LOBBY."
+*   **Page Numbering:** The header indicates this is "Page 5," implying a larger roster document.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document, likely an electronic schedule or roster log for personnel shifts, possibly within a correctional facility or security agency given the terminology used (e.g., SHU, Control Units). The document is formatted as a table with column headers and rows of data. A large, solid black rectangle has been digitally applied over the majority of the central columns, redacting names and specific status changes for most entries. 
+
+Visible text appears primarily in the leftmost column ("Post") indicating station or location assignments (e.g., "5 NORTH," "CONTROL #1," "UNIT 3"). The second column lists shift numbers (mostly "8," with some "10" and "3"). To the far right, there are timestamps and administrative codes. At the very bottom, a single row contains visible text identifying an officer named "Thomas, M" being reassigned to sick or annual leave status. The date at the top right indicates Saturday, August 10, 2019.
+
+## Visible Text (verbatim)
+**Header:**
+- Saturday August 10, 2019
+- Page 6
+
+**Column Headers:**
+- Post
+- Shift
+- Officer
+- Relieved Officer's New Status
+- Relieving Officer
+- Relieving Officer's Previous Status
+- Ret Shift
+- Changed By
+
+**Row Data (Left Column - Post/Shift):**
+- 5 NORTH | 8
+- CONTROL #1 | 8
+- UNIT 3 | 8
+- ACT LT | 10
+- [Sick / Annual]
+- ACT LT | 10
+- ACT LT | 3
+- 7 NORTH | 8
+- [Sick / Annual]
+- UNIT 2 | 8
+- [Inserted NCS]
+- UNIT 2 | 8
+- (sp)ESCORT #1 | 8
+- (sp)ESCORT #2 | 8
+- [Inserted NCS]
+- SHU #3 | 3
+- SHU #3 | 3
+- SHU #2 | 8
+- [Sick / Annual]
+- SHU #2 | 8
+- SHU #4 | 8
+- CONTROL #2 | 3
+- LOBBY | 3
+- [Sick / Annual]
+- INTERNAL | 8
+- [Inserted NCS]
+- INTERNAL | 8
+- [Inserted NCS]
+
+**Row Data (Right/Middle Columns & Statuses):**
+- End (appearing vertically on the right side)
+- End
+- End
+- End 16:00
+- End (next to CONTROL #2)
+- SJ 8/10 10:35 (aligned with bottom rows)
+- Thomas, M | [Removed]
+- Thomas, M | [Sick / Annual] | <Unassigned>
+
+**Footer:**
+- 10/2019 10:46:58 AM
+- EFTA00019803 (bottom right corner)
+
+## Notable Details / Clues
+- **Redaction:** The vast majority of the document is redacted with a black box, suggesting privacy concerns regarding officer names and previous statuses.
+- **Date Context:** The document is dated August 10, 2019. This corresponds to a Saturday.
+- **Terminology:** Terms like "SHU" (Secure Housing Unit), "spESCORT," "CONTROL," and "NCS" strongly imply a law enforcement or prison context. "ACT LT" likely stands for Acting Lieutenant.
+- **Specific Event:** Near the bottom, there is a clear record of an action taken at 10:35 AM by an initial "SJ": Officer Thomas, M was removed from their post (or moved) and assigned to [Sick / Annual] status. Immediately below this, another entry shows Thomas, M in shift 8 with status [Sick / Annual] as the relieving officer, noting they are now "<Unassigned>".
+- **Shift Patterns:** Most shifts listed are "8" hour shifts. There are occasional "10" and "3" (likely morning or afternoon slots).
+- **Page Numbering:** This is "Page 6" of a larger document.
+- **Timestamp:** The bottom left timestamp "10/2019 10:46:58 AM" matches the date in the header but notes October? Wait, looking closer at the bottom left corner text: "10/2019...". This might mean Oct 2019 or simply a system clock format YYYY/MM/DD. Given the header says August, it is likely MM/DD/YYYY format (October day of the month?) or perhaps the user created the document in October? Or maybe "10" refers to the 10th of the month (August 10)? No, standard US date is MM/DD. If Header is Aug 10, then footer "10/2019" is confusing. Let's look really closely at the footer. It says "10/2019". If the header is Aug 10, maybe the footer refers to a print run or generation date? Or perhaps the header is August and the footer is October? No, likely same document. Maybe the footer meant Oct 2019? But the header says Saturday August 10. 8/10/2019 is a Saturday. 10/10/2019 was a Thursday. This suggests the date in the footer might be MM/DD (Oct 10) or there is a discrepancy. Actually, looking at the footer again: "10/2019". It could be interpreted as Oct 2019. However, usually these documents are printed on the day of. Let's assume it's just a timestamp field that might be out of sync or represents a batch date.
+- **File ID:** The string "EFTA00019803" in the corner looks like a Bates number or an internal case/reference file ID.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, specifically a roster or duty schedule page for a correctional facility, dated Saturday, August 10, 2019. The layout consists of a data grid at the top and a summary section ("Recapitulation") at the bottom left. A large, opaque black rectangle obscures the central columns containing officer names and specific status details, likely for privacy or redaction purposes.
+
+The top right corner identifies the document as "Page 7" of a larger set. The table columns define shifts based on "Post," "Split Shft Officer," "Relieved Officer's New Status," "Relieving Officer," "Relieving Officer's Previous Status," and "Ret Shft Changed By." The rows list specific correctional units such as "10 SOUTH #2," "SHU #1" (High Security Unit), "UNIT 3," "VISIT #2," and "5 SOUTH." Interspersed with these posts are administrative entries marked in brackets, such as "[Sick / Annual]."
+
+Below the main grid, a section labeled "***Recapitulation****" aggregates shift data: Morning Watch (8), AM Watch (1), Day Watch (10), PM Watch (3), and Evening Watch (12). Further down, under "**Back Page Categories**," it lists staff availability categories like Day Off (64), Sick Leave (11), Annual Leave (5), and COP (2). Total staffing counts are listed at 116 Correctional Svcs. Staff and 7 Non Correctional Svcs. Staff. The bottom right features signature lines for the "Ops Lt. Evening Watch" and the "Captain."
+
+## Visible Text (verbatim)
+*   **Header:** Saturday August 10, 2019 Page 7
+*   **Columns:** Post, Split Shft Officer, Relieved Officer's New Status, Relieving Officer, Relieving Officer's Previous Status, Ret Shft Changed By
+*   **Row Data (Top to Bottom):**
+    *   10 SOUTH #2 | 3 | [Redacted] | SJ 8/10 10:38
+    *   10 SOUTH #2 | 3 | [Redacted] | SJ 8/10 10:38
+    *   (OT/CT Start End 08:00 14:00)
+    *   SHU #1 | 8 | [Redacted] | SJ 8/10 10:38
+    *   [Sick / Annual] | [Redacted] | SJ 8/10 10:38
+    *   SHU #1 | 8 | [Redacted] | SJ 8/10 10:38
+    *   UNIT 3 | 8 | [Redacted] | SJ 8/10 10:39
+    *   [Sick / Annual] | [Redacted] | SJ 8/10 10:39
+    *   UNIT 3 | 8 | [Redacted] | Y SJ 8/10 10:39
+    *   (OT CT)
+    *   [Sick / Annual] | [Redacted] | SJ 8/10 10:40
+    *   VISIT #2 | 8 | [Redacted] | SJ 8/10 10:40
+    *   [Sick / Annual] | [Redacted] | SJ 8/10 10:40
+    *   VISIT #3 | 8 | [Redacted] | SJ 8/10 10:40
+    *   5 SOUTH | 12 | [Redacted] | SJ 8/10 10:41
+    *   SHU #1 | 12 | Noel, T | Sick Leave | <Unassigned> | SJ 8/10 10:41
+*   **Recapitulation Section:**
+    *   Morning Watch 8
+    *   AM Watch 1
+    *   Day Watch 10
+    *   PM Watch 3
+    *   Evening Watch 12
+    *   **Back Page Categories**
+    *   Day Off 64
+    *   Sick Leave 11
+    *   Annual Leave 5
+    *   COP 2
+    *   Total Correctional Svcs. Staff: 116
+    *   Non Correctional Svcs. Staff: 7
+    *   Overtime Occurrences: 25
+    *   Comptime Occurrences: 0
+*   **Footer:** Ops Lt. Evening Watch Signature:, Captain's Signature:, 10/2019 10:46:58 AM, EFTA00019804
+
+## Notable Details / Clues
+*   **Date Discrepancy:** The document content is dated "August 10, 2019," but the system timestamp in the bottom left corner reads "10/2019 10:46:58 AM." This indicates the file was saved or printed in October of that year (assuming standard MM/DD/YYYY or similar formatting), creating a contradiction with the roster date.
+*   **Redaction:** A massive black box covers the columns for "Officer" names, "Relieving Officer" names, and "Previous Status," making it impossible to identify specific individuals working the shift other than one named "Noel, T" in the bottom row.
+*   **Facility Code:** The initials "SJ" appearing frequently in the rightmost column likely correspond to a location code (potentially "San Jacinto").
+*   **Shift Overlap/Changes:** Several rows show times like "10:38," "10:39," and "10:40," suggesting these are snapshots of a roster being processed in real-time or a system log rather than a static PDF generated at midnight.
+*   **OT/CT Entry:** One row explicitly lists "OT/CT Start End 08:00 14:00," indicating Overtime or Compensatory Time hours for that specific post.
+*   **Staffing Ratios:** The recapitulation shows a significant number of officers are on "Day Off" (64), which is higher than the active shifts listed, suggesting this page represents only the active staff or a subset of the total workforce.
+

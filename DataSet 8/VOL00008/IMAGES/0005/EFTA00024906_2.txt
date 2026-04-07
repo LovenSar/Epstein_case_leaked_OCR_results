@@ -1,0 +1,62 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024906.pdf ts=2026-03-16T15:04:43 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing two distinct messages stacked vertically, likely captured from an interface like Outlook or Gmail. The document background is white with black sans-serif text. Most header fields (From, To, Cc) in both emails are heavily redacted with thick black bars, obscuring specific names and addresses, though the recipient "Laura Menninger" and "Jeff Pagliuca" are visible in the body of the headers.
+
+The top email is a reply dated Sunday, November 21, 2021. It references an attachment regarding a PDF file concerning evidence and redactions for a specific witness labeled "Witness-3." The sender identifies themselves implicitly by sending a reply to counsel but signs off with a signature block that is partially redacted, situated above the title "Assistant United States Attorney" which is visible only in the lower email.
+
+The bottom email appears to be the original message or an earlier part of the chain sent on Saturday, November 20, 2021, at 9:50 PM. It mirrors the content of the top email but lacks the "RE:" prefix in the subject line. The body text is consistent across both messages, confirming that proposed redactions are being attached to supplemental filings and an order regarding Witness-3. A professional signature block appears at the bottom left of this lower message, identifying the sender as an Assistant United States Attorney from the Southern District of New York.
+
+In the bottom right corner, outside the main email body area, there is a document control number or Bates number: "EFTA00024906". The layout suggests a formal legal exchange where one party is refining filings regarding a protected witness's identity before court submission.
+
+## Visible Text (verbatim)
+**Top Email Header:**
+From: [Redacted Bar]
+To: [Redacted Bar], Laura Menninger, Jeff Pagliuca
+Cc: [Redacted Bar]
+Subject: RE: Witness-3 - proposed redactions
+Date: Sun, 21 Nov 2021 03:25:03 +0000
+Attachments: 2021.11.11_Letter_to_Judge_Nathan_re_Response_to_Government_Letters_re_Accuser-3_Evidence_[revised_proposed_redactions].pdf
+
+**Top Email Body:**
+Counsel – we have a corrected version of one of these filings regarding Witness-3. Attached are our proposed redactions.
+
+Thanks,
+[Redacted Name/Signature]
+
+---
+
+**Bottom Email Header:**
+From: [Redacted Bar]
+Sent: Saturday, November 20, 2021 9:50 PM
+To: [Redacted Bar], Laura Menninger, [Redacted Bar]; Jeff Pagliuca
+Subject: Witness-3 - proposed redactions
+
+**Bottom Email Body:**
+Counsel,
+
+Attached are our proposed redactions to the supplemental filings and order regarding Witness-3.
+
+Thanks,
+[Redacted Block]
+Assistant United States Attorney
+Southern District of New York
+[Redacted Email Address/Block]
+
+**Footer:**
+EFTA00024906
+
+## Notable Details / Clues
+*   **Legal Context:** The emails explicitly mention "Witness-3," "supplemental filings," and "redactions," indicating a legal proceeding where witness anonymity or identity protection is being managed.
+*   **Jurisdiction:** The signature block "Southern District of New York" places this case in a major federal district in the United States, known for high-profile cases.
+*   **Recipient:** Laura Menninger appears to be a primary contact on the receiving end (counsel), likely a defense attorney or another legal representative, while Jeff Pagliuca is copied.
+*   **Time Stamps:** The emails were sent within a 12-hour window (Saturday night to Sunday early morning UTC), suggesting an urgent or ongoing legal process happening across time zones.
+*   **Attachment Filename:** The filename "Letter_to_Judge_Nathan_re_Response_to_Government_Letters_re_Accuser-3_Evidence" suggests there is a specific Judge Nathan presiding over this matter.
+*   **Redaction Strategy:** The black bars in the headers obscure the sender's names entirely, but the body text confirms they are sending "proposed redactions," meaning they intend to remove sensitive information from documents before they are filed publicly or with the court.
+*   **Revised Version:** The attachment filename includes "[revised_proposed_redactions]," implying a previous version was submitted and this is an update/correction to that filing.
+*   **Professional Tone:** Both messages use formal language ("Counsel," "Attached are our proposed redactions") typical of legal correspondence between opposing sides or government counsel and defense/other parties.
+*   **Signature Block Discrepancy:** The top email has a small redacted block for the signature, whereas the bottom email clearly displays the title "Assistant United States Attorney" below the signature area, confirming the sender is federal government counsel.
+*   **Document Tracking:** The alphanumeric code in the footer "EFTA00024906" suggests this image is part of an official document archive or a discovery set where documents are indexed and numbered for court record purposes.
+

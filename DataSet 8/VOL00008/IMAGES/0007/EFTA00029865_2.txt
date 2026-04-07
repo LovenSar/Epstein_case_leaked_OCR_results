@@ -1,0 +1,31 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029865.pdf ts=2026-03-18T13:10:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a digital snapshot of an email message header and body set against a plain white background. The top section is heavily redacted to protect privacy, featuring large, solid black rectangular bars that obscure the "From," "To," and "Cc" fields. Below these redactions, standard email metadata fields are visible in a dark sans-serif font. A thin horizontal line divides the header information from the message body. The text in the body is left-aligned and appears to be a professional business communication regarding legal proceedings. The bottom right corner features a document control number. The overall layout is clean and typical of standard email clients like Outlook or Gmail.
+
+## Visible Text (verbatim)
+- From: [Black Redaction Bar]
+- To: [Black Redaction Bar spanning full width]
+- Cc: [Black Redaction Bar]
+- Subject: Maxwell testifying witness materials
+- Date: Sat, 24 Jul 2021 01:04:29 +0000
+- Attachments: [Black Redaction Bar spanning full width]
+- Hi all,
+- Attached please find notes from trial prep with testifying witnesses for Maxwell. Would one of you please save these in the 3500 folder and the witness folder for the relevant testifying witness named in the file name for each pdf?
+- Thanks,
+- [Black Redaction Bar]
+- EFTA00029865
+
+## Notable Details / Clues
+- **Legal Context:** The subject line "Maxwell testifying witness materials" and body text "notes from trial prep with testifying witnesses" strongly indicate this email is related to a legal case or court deposition.
+- **Timing:** The email was sent very early in the morning, at 01:04 AM UTC on Saturday, July 24, 2021.
+- **Instruction Specifics:** The sender provides specific file management instructions, asking recipients to save files into two distinct folders: "3500 folder" and a "witness folder."
+- **File Naming Convention:** Recipients are instructed to organize PDFs based on the "relevant testifying witness named in the file name," implying a specific naming structure is already established for the attachments.
+- **Redaction Strategy:** The sender identity, recipient list, and attached filenames are completely blacked out, suggesting this document may have been processed through an electronic discovery (e-discovery) system or is being shared where PII (Personally Identifiable Information) needs to be scrubbed.
+- **Document ID:** The string "EFTA00029865" at the bottom right suggests a Bates number or a specific case management docket number, further confirming legal provenance.
+- **Subject Line Focus:** The subject is straightforward, focusing entirely on the content (Maxwell's witness materials) rather than including the sender's name or a thread subject line.
+- **Tone:** The greeting "Hi all," and sign-off "Thanks," indicate an internal team communication likely sent to legal assistants or paralegals.
+- **Formatting:** The text under "Attachments" is completely obscured, meaning the number of attachments or their names are not visible in this specific view.
+

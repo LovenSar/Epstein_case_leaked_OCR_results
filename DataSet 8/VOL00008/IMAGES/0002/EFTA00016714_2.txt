@@ -1,0 +1,91 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016714.pdf ts=2026-03-13T02:27:01 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence chain regarding a legal case. The interface resembles a standard email client or a PDF view of an email archive. The document is composed of three distinct emails stacked vertically, separated by thin horizontal lines. The majority of the "From," "To," and "Cc" fields are heavily redacted with solid black rectangular bars for privacy.
+
+The top section shows a forwarded email ("FW:") with a subject line concerning a "Joint Proposed Juror Questionnaire." Below the headers, there is a short body paragraph addressed to "Counsel" asking for consent to publicly file a specific letter. The sender's name is obscured by a black bar beneath a "Thanks," sign-off.
+
+A horizontal separator line divides this from the second email in the thread. This central email is from "Nathan NYSD Chambers" (Judge Nathan’s chambers) sent on Tuesday, October 12, 2021. It addresses procedural rules regarding sealing documents and requests Jencks Act material. The signature block identifies the sender as "Chambers of the Hon. Alison J. Nathan."
+
+Another horizontal line separates this from the bottom-most visible email fragment. This section shows headers for an email sent on Monday, October 11, 2021, addressed to "Nathan NYSD Chambers," indicating it is the precursor to the court's response in the middle block. In the bottom right corner, a unique alphanumeric ID ("EFTA00016714") is visible, likely an internal docketing number for the Electronic Filing System (EDNY).
+
+## Visible Text (verbatim)
+**Top Email Block:**
+*   **From:** [Redacted]
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** FW: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire
+*   **Date:** Tue, 12 Oct 2021 23:31:35 +0000
+*   **Attachments:** 2021.10.11_Letter_re_Jury_Questionnaire_and_Voir_Dire_[to_Court].pdf
+
+**Top Email Body:**
+*   Counsel,
+*   Please let us know if you consent to us publicly filing the letter referenced in the Court's email below this evening (reattached here for your convenience) or if you intend to file a letter seeking sealing.
+*   Thanks,
+*   [Redacted Name]
+
+**Middle Email Block:**
+*   **From:** Nathan NYSD Chambers [Redacted]
+*   **Sent:** Tuesday, October 12, 2021 5:32 PM
+*   **To:** [Redacted]
+*   **Subject:** Re: US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire
+
+**Middle Email Body:**
+*   Counsel:
+*   Consistent with the Court's Individual Rules, if one or both sides are requesting sealing, the letter making that request must be docketed on ECF unless counsel is also seeking, with explanation and justification, to file the letter under seal.
+*   The Court would also like a copy of the Jencks Act material and exhibits.
+*   Sincerely,
+*   Chambers of the Hon. Alison J. Nathan
+
+**Bottom Email Block:**
+*   **From:** [Redacted]
+*   **Sent:** Monday, October 11, 2021 7:53 PM
+*   **To:** Nathan NYSD Chambers [Redacted]
+
+## Notable Details / Clues
+*   **Case Identification:** The case is identified as *US v. Maxwell*, docket number 20 Cr. 330 (AJN), which indicates a criminal case in the Southern District of New York (SDNY) assigned to Judge Alison J. Nathan.
+*   **Procedural Conflict:** The correspondence highlights a specific procedural debate between the defense/prosecution: whether to file juror questionnaire materials publicly or "under seal" (privately).
+*   **Court Instructions:** The middle email provides strict procedural guidance: if one party wants to keep something private ("sealing"), they must formally request it on the public record ("docketed on ECF") unless they want to keep that very request private as well, in which case they need a strong "explanation and justification."
+*   **Discovery Request:** The court explicitly requests "Jencks Act material and exhibits." Under the Jencks Act (18 U.S.C. § 3500), defendants can obtain grand jury transcripts and government documents used during trial, suggesting this stage of discovery is active or pending.
+*   **Timeline:** The emails are tightly clustered. The initial discussion happens Monday evening (Oct 11) regarding a letter sent that day. The court responds the next morning/evening (Oct 12), creating a tight turnaround for legal arguments.
+*   **Attachment Reference:** The top email references an attachment: `2021.10.11_Letter_re_Jury_Questionnaire_and_Voir_Dire_[to_Court].pdf`. This confirms the specific document being debated is about jury selection (voir dire).
+*   **Redaction Extent:** The privacy masking is extensive, completely hiding email addresses and names in the top and bottom sections, while leaving the judge's name visible in the signature block.
+*   **Filing System ID:** The code `EFTA00016714` at the bottom suggests this document is part of a formal record kept by the EDNY (Electronic Database for Federal Courts) system.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+**Subject:** US v. Maxwell, 20 Cr. 330 (AJN) - Joint Proposed Juror Questionnaire and Voir Dire
+
+**CAUTION - EXTERNAL:**
+
+Good evening,
+
+Attached please find the parties’ joint proposed juror questionnaire and voir dire. Per the attached letter, the parties respectfully request that the Court accept the joint proposed juror questionnaire and voir dire under seal.
+
+In addition, the Government has produced Jencks Act material and exhibits to the defense today. If the Court would like a copy, we would be happy to provide it.
+
+Respectfully submitted,
+
+[REDACTED]
+Assistant United States Attorney
+United States Attorney’s Office
+Southern District of New York
+One St. Andrew’s Plaza
+New York, New York 10007
+Tel: [REDACTED]
+
+**CAUTION - EXTERNAL EMAIL:** This email originated outside the Judiciary. Exercise caution when opening attachments or clicking on links.
+
+EFTA00016715
+
+## Structured Fields
+
+*   **Case ID:** US v. Maxwell, 20 Cr. 330 (AJN)
+*   **Organization:** United States Attorney’s Office, Southern District of New York
+*   **Location:** One St. Andrew’s Plaza, New York, New York 10007
+*   **Doc ID:** EFTA00016715
+

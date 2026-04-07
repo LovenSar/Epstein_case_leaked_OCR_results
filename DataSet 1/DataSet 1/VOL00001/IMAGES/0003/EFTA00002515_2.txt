@@ -1,0 +1,60 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002515.pdf ts=2026-03-05T20:43:07 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a 3.5-inch Enterprise SATA hard disk drive manufactured by Western Digital, positioned flat on a scratched grey metallic surface. The drive features a standard silver metal casing with cutouts for air intake and mounting. On the left edge (the bottom in this orientation), a black plastic connector "shoe" extends outward, exposing gold-plated pins for data transfer and power supply. A large white label is affixed to the center of the top face, containing model identification, serial numbers, and technical specifications. To the right of the main label, a bright yellow sticker with black text indicates compatibility with HP Enterprise Storage systems. Four screws are visible securing the drive's outer shell at the top-left, top-right, and bottom corners, while a threaded mounting hole is present near the center-bottom edge. The metal casing shows signs of minor scuffing and wear consistent with handling during logistics or installation.
+
+## Visible Text (verbatim)
+**Main Label (Left to Right, Top to Bottom):**
+*   "WD" Logo inside a white box.
+*   "Western Digital"
+*   "www.westerndigital.com"
+*   "WD5003ABYX"
+*   "WD RE4"
+*   "500GB DFP"
+*   "S/N : WMAVP5976261"
+*   "CT : 2CEHE003H4QABJ"
+*   "GPN : 857753-006"
+*   "SATA"
+*   "7200RPM"
+*   "WD-NB0500ECEHE"
+*   "WD-HD1-BU500CEHE"
+*   "Product of Malaysia"
+*   "Do not cover any drive holes"
+*   "LBA : 976773168"
+*   "5VDC : 0.65A"
+*   "12VDC : 0.50A"
+*   "R/N : 771702"
+*   "DATE : 26 MAY 2013"
+*   "DCM : HGRNHTJCH"
+*   "DCX : 7C06Z5ML6"
+*   "U.S. Patents: 6178056, 5956196, 6284402, 6263459"
+*   "ATA FRAGILE" symbol (triangle with exclamation mark)
+*   "CE" mark
+*   "UL" logo
+*   "RoHS" text
+*   "DSC3015"
+
+**Yellow Sticker (Right Side):**
+*   HP Logo
+*   "Enterprise Storage"
+*   "SN : 2Y532510RM"
+*   "DP"
+*   Barcode
+
+**Handwritten Text:**
+*   "3" (painted or written in black marker near the bottom right corner of the label).
+
+## Notable Details / Clues
+*   **Model Identification:** The model number "WD5003ABYX" combined with the "RE4" designation identifies this as a Western Digital Red Edition 4, a 7200 RPM SATA drive designed for enterprise environments.
+*   **Manufacturer Location:** The label explicitly states "Product of Malaysia," indicating the assembly origin.
+*   **Date of Manufacture:** The production date is listed as "26 MAY 2013," placing this hardware in the early era of SSD adoption but still a popular mechanical drive choice for storage servers.
+*   **System Compatibility:** The yellow sticker featuring the HP logo and the text "Enterprise Storage" suggests this specific drive was pre-installed or sold as an OEM part for an HP workstation (likely a ProLiant or similar server line) rather than being a purely retail consumer unit.
+*   **Connector Type:** The visible gold pins on the left confirm it is a standard 2x70-pin SATA connector, compatible with LSI/HBA controllers commonly found in older enterprise servers.
+*   **Serial Number:** The specific Serial Number "WMAVP5976261" allows for precise tracking of this specific physical unit.
+*   **Condition:** The metal chassis has visible abrasion marks along the top and right edges, suggesting it was shipped on a shipping pallet in a crate where components could rub against cardboard or other hardware.
+*   **Handwritten Marking:** The number "3" painted on the drive suggests it was part of a batch inventory, perhaps labeled for sorting or installation into a specific server slot (Slot 3).
+*   **Regulatory Compliance:** The presence of CE, UL, and FCC symbols confirms compliance with international electrical safety and electromagnetic interference standards.
+*   **Capacity:** The "500GB DFP" indicates a relatively small capacity drive by modern standards, but typical for older backup or archive configurations in servers where multiple drives were used to increase total storage.
+

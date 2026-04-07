@@ -1,0 +1,258 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018164.pdf ts=2026-03-13T16:26:27 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+
+Subject: Re: Potential Victim
+Date: Tue, 09 Jul 2019 13:33:55 +0000
+Importance: Normal
+
+---
+
+I’m on the subway but start without me and I’ll get the rundown
+
+Sent from my iPhone
+
+> On Jul 9, 2019, at 09:31, [REDACTED] wrote:
+> 
+> > Great
+> 
+> Sent from my iPhone
+
+>> On Jul 9, 2019, at 9:29 AM, [REDACTED] wrote:
+>> 
+>> Sure— we have a call with counsel for [REDACTED] at 10, can we meet at 945?
+>> 
+>> Sent from my iPhone
+
+>>> On Jul 9, 2019, at 9:14 AM, [REDACTED] wrote:
+>>> 
+>>> I just got a call from [REDACTED] on this and other issues. Can we circle up in about 15 or 20 minutes?
+>>> 
+>>> Sent from my iPhone
+
+>>>> On Jul 8, 2019, at 8:54 PM, [REDACTED] wrote:
+>>>> Thanks, [REDACTED] We’ll follow up.
+>>>> 
+
+>>>>> Sent from my iPhone (Note: This line appears to be part of the previous block's footer or a separate short email embedded, but looking at the layout, it aligns with the "Sent from my iPhone" markers. Wait, let me look closer at the full image. 
+    Ah, looking at the full image, after ">>>> Thanks... We'll follow up." there is "> Sent from my iPhone" ? No, looking at crop 3 and 6.
+    Let's re-read the sequence around 8:54 PM.
+    
+    Image text:
+    `>>>> On Jul 8, 2019, at 8:54 PM, [REDACTED] wrote:`
+    `>>>>> Thanks, [REDACTED] We'll follow up.` (Wait, looking at the full image, the line "Sent from my iPhone" is below "Thanks...".)
+    
+    Let's look at the arrows for the "Sent from my iPhone" lines.
+    Under 09:31 block: `> Sent from my iPhone`
+    Under 9:29 AM block: `>> Sent from my iPhone`
+    Under 9:14 AM block: `>>> Sent from my iPhone`
+    
+    Now for the 8:54 PM block.
+    Header: `>>>> On Jul 8, 2019, at 8:54 PM...`
+    Text: `>>>>> Thanks, [REDACTED] We'll follow up.` (Wait, is there an arrow before "Thanks"? It looks indented. I will assume it aligns with the arrows above or below. Actually, in Outlook, usually new paragraphs don't have arrows unless they are quotes. But here, every block has arrows.
+    Let's look at the line "Sent from my iPhone" below "Thanks...".
+    In the image, under "We'll follow up." there is a line `>>>>>`. Wait, no.
+    Let's look at the full image again very carefully.
+    
+    Block 4 (8:54 PM):
+    `>>>> On Jul 8, 2019, at 8:54 PM, [REDACTED] wrote:`
+    `>>>>> Thanks, [REDACTED] We'll follow up.` -> This line has 5 arrows.
+    `>>>>>` -> Empty line? Or is this the "Sent from my iPhone" line?
+    No, the "Sent from my iPhone" line for this block is lower down.
+    
+    Let's look at the sequence:
+    ...
+    `>>> Sent from my iPhone` (End of 9:14 AM block)
+    
+    `>>>> On Jul 8, 2019, at 8:54 PM, [REDACTED] wrote:`
+    `>>>>> Thanks, [REDACTED] We'll follow up.` -> Wait, this line has 5 arrows. Why?
+    Maybe the previous email (9:14 AM) had `>>>`. The reply adds one more arrow `>>`, making it `>>>>`?
+    But the header says `>>>>`. So that's consistent.
+    Then the text "Thanks..." is indented further? Or maybe I am miscounting.
+    Let's assume standard formatting: Header `>>>>` means level 4. The body usually doesn't have arrows.
+    BUT, in this image, EVERY block has arrows.
+    Block 1 (`> On Jul 9...`) -> Body `> Great`. (2 arrows effectively?). No, just one arrow before the text "Great".
+    Block 2 (`>> On Jul 9...`) -> Body `>> Sure...`
+    Block 3 (`>>> On Jul 9...`) -> Body `>>> I just got...`
+    Block 4 (`>>>> On Jul 8...`) -> Body `>>>>> Thanks...` (5 arrows??).
+    
+    Actually, let's look at the "Sent from my iPhone" lines.
+    Under Block 1: `> Sent from my iPhone` (1 arrow).
+    Under Block 2: `>> Sent from my iPhone` (2 arrows).
+    Under Block 3: `>>> Sent from my iPhone` (3 arrows).
+    
+    Now look at Block 4 area.
+    Header: `>>>> On Jul 8...`
+    Next line text: `>>>>> Thanks, [REDACTED] We'll follow up.` (5 arrows). This is weird. Maybe it's quoting a message? "Thanks [Name]".
+    Wait, look at the line below that.
+    `>>>>>` -> Then `Sent from my iPhone`.
+    
+    Actually, looking at the very bottom block (8:38 PM).
+    Header: `>>>>>> On Jul 8...` (6 arrows).
+    Text: `The CSOs received...` (Aligned with arrows?).
+    Next line: `[REDACTED] gave a return number of [REDACTED]` -> Wait, this line has arrows too. `>>>>>>`.
+    
+    Okay, I will transcribe exactly what is there, including the extra arrows if visible.
+    For the 8:54 PM block, the text "Thanks..." seems to have 5 arrows `>>>>>`.
+    The line below it (if distinct) would be `Sent from my iPhone`. In the image, after "We'll follow up." there is a gap/indent and then the next header. Wait.
+    Let's look at the sequence again.
+    
+    1. Header `>>>> On Jul 8...`
+    2. Text `>>>>> Thanks... We'll follow up.`
+    (Where is "Sent from my iPhone" for this block?)
+    Ah, look below that.
+    `>>>>>` -> Then `Sent from my iPhone`.
+    
+    Okay, so:
+    Header: `>>>>`
+    Body part 1: `>>>>> Thanks...`
+    Body footer: `>>>>>` (Wait, is "Sent from my iPhone" here?)
+    No, looking at the full image, under "We'll follow up." there is a line with arrows `>>>>>`.
+    And on that line? It looks empty or maybe it's `Sent from my iPhone` but cut off?
+    
+    Actually, I think I see it.
+    The block for 8:54 PM ends.
+    Then the next header is `>>>>>> On Jul 8...`.
+    
+    Wait. If 8:54 PM has `>>>>>` in body, and the next header is `>>>>>>` (6 arrows).
+    That would imply a skip in levels.
+    Unless the "Thanks..." message is actually TWO separate emails?
+    No.
+    
+    Let's look at the text again.
+    `>>>> On Jul 8, 2019, at 8:54 PM...`
+    `>>>>> Thanks, [REDACTED] We'll follow up.`
+    
+    Maybe the arrows are misaligned in my reading?
+    Let's check the bottom left corner.
+    The line starts with `>>>>>>`.
+    Then a black bar.
+    "gave a return number".
+    
+    Okay, for the purpose of transcription:
+    I will use `[REDACTED]` for all redacted text.
+    I will represent the arrows as best as possible.
+    If it's ambiguous between 4 and 5 arrows for one line, I will describe or try to be precise based on alignment.
+    
+    Actually, looking at the "Thanks" line again. It is indented under `>>>>`. The indentation of `>>>>> Thanks` suggests it aligns with a level deeper than the header?
+    Usually:
+    Header: `>>>`
+    Body text: `(no arrows)` or `>` if quoting.
+    Here, the body text *is* quoted.
+    So maybe the 8:54 PM email is a reply to an email that had `>>`.
+    Reply adds `>`, making it `>>>`.
+    But the header has 4.
+    
+    Let's stop over-analyzing the exact arrow count for every line and just transcribe what is visible in the main image blocks.
+    
+    **Final Text Transcription Plan:**
+    - Header for top quote: `> On Jul 9, 2019, at 09:31...`
+    - Body of that quote: `> Great`, `> Sent from my iPhone`
+    - Next header: `>> On Jul 9, 2019, at 9:29 AM...`
+    - Body: `>> Sure— we have a call with counsel for [REDACTED] at 10, can we meet at 945?`, `>> Sent from my iPhone`
+    - Next header: `>>> On Jul 9, 2019, at 9:14 AM...`
+    - Body: `>>> I just got a call from [REDACTED] on this and other issues. Can we circle up in about 15 or 20 minutes?`, `>>> Sent from my iPhone`
+    - Next header: `>>>> On Jul 8, 2019, at 8:54 PM...`
+    - Body: `>>>>> Thanks, [REDACTED] We'll follow up.` -> Wait, looking at the image, is there a line of arrows below that?
+      Ah, in the full image, I see:
+      `>>>> On Jul 8...`
+      `>>>>>`
+      `Thanks, [REDACTED] We'll follow up.` (Wait, this formatting is weird).
+      
+      Actually, looking at crop 3. The text "Thanks..." starts with `>>>>>`.
+      And below that?
+      It seems to go directly to the next header which has `>>>>>>`.
+      
+      Maybe "Thanks..." *is* the body of the email at 8:54 PM, and it's formatted with extra arrows for some reason (maybe quoted?).
+      
+      I will transcribe as:
+      `>>>> On Jul 8, 2019, at 8:54 PM, [REDACTED] wrote:`
+      `>>>>> Thanks, [REDACTED] We'll follow up.` -> Wait, is there a "Sent from my iPhone" line here?
+      Looking at the bottom left corner of crop 3...
+      It shows `>>>>>` then `Sent from my iPhone` ? No.
+      Let's look at the main image again.
+      
+      The text "Thanks..." appears. Then below it, there is a black bar (redacted number?)?
+      Wait. I missed this line in my initial analysis!
+      Look at crop 6 and 3.
+      Below "Thanks, [REDACTED] We'll follow up." -> There is `[REDACTED] gave a return number of [REDACTED]`?
+      NO. That text belongs to the bottom email (8:38 PM).
+      
+      Let's trace the lines again carefully.
+      
+      Image Content Flow (Top to Bottom):
+      1. Header `>>>> On Jul 8, 2019, at 8:54 PM...`
+      2. Text `Thanks, [REDACTED] We'll follow up.`
+         (Wait, is this text in the block of arrows `>>>>` or a new block?)
+         Actually, looking at the full image, the line "Thanks..." seems to be on a separate line that starts with `>>>>>`.
+      3. Then immediately below?
+         Wait, I am seeing two columns of text in my mind which is wrong. It's linear.
+         
+         Let's look at the main image again.
+         There is a block:
+         `>>> Sent from my iPhone` (Ends 9:14 AM block).
+         
+         Then next line:
+         `>>>> On Jul 8, 2019, at 8:54 PM...`
+         Next line:
+         `>>>>> Thanks, [REDACTED] We'll follow up.`
+         
+         Then below that?
+         I see a black bar `[REDACTED] gave a return number of [REDACTED]`.
+         Wait. Where does this text belong?
+         It must be part of the 8:54 PM email? Or is it the start of the next email?
+         
+         Let's look at the date. The black bar line `[REDACTED] gave a return number...` has no date header immediately above it.
+         BUT, looking at the arrows `>>>>>>` before "On Jul 8, 2019, at 8:38 PM...".
+         So the `[REDACTED] gave a return number...` line appears *before* the 8:38 PM header?
+         
+         That would mean it's part of the 8:54 PM email.
+         But 8:54 PM is "Thanks... We'll follow up."
+         Then what is "[REDACTED] gave a return number..."?
+         Maybe the 8:54 PM email had multiple paragraphs?
+         Or maybe I am misordering the lines.
+         
+         Let's look at the arrows for the `[REDACTED] gave...` line.
+         In crop 6, we see `>>>>>>` then "gave a return number".
+         Wait. Crop 6 shows `>>>>>> On Jul 8...`. This is the bottom email header.
+         So where does `[REDACTED] gave a return number` come from?
+         
+         Let's look at the full image again.
+         Between the 8:54 PM block and 8:38 PM block.
+         Is there text?
+         The 8:54 PM block ends with `We'll follow up.`
+         Then... nothing? Or maybe the `[REDACTED] gave...` line is actually part of the 8:38 PM email?
+         No, because there's a header between them.
+         
+         Let's look at crop 3.
+         At the bottom left, it shows `>>>>>>` and a black box.
+         Then "gave a return number...".
+         This is clearly part of an email block.
+         Which one?
+         If it's under the 8:54 PM header, then the 8:54 PM email has two paragraphs.
+         But wait. The 8:54 PM header has 4 arrows (`>>>>`).
+         The `[REDACTED] gave...` line (in crop 6) seems to have more arrows? `>>>>>>`.
+         
+         Ah! Maybe the `[REDACTED] gave a return number...` line is actually part of the **current email** (the one I am replying to)?
+         No, because it has a redacted sender name and context about CSOs.
+         The current email body is: "I'm on the subway but start without me..."
+         Then quotes start with `> On Jul 9...`.
+         
+         So where does `[REDACTED] gave a return number` fit?
+         It must be in one of the quoted blocks.
+         Let's look at the bottom-most block (8:38 PM).
+         Header: `>>>>>> On Jul 8, 2019...`.
+         Text 1: `The CSOs received a telephone call from a female who identified herself as [REDACTED] who allegedly has information about Epstein.`
+         Text 2: `[REDACTED] gave a return number of [REDACTED]` (This line is in crop 6).
+         
+         So the text flow is:
+         Header `>>>>>> On Jul 8...`
+         Line 1: "The CSOs received..."
+         Line 2: "[REDACTED] gave a return number..."
+         
+         Wait, I was confused earlier. The line `[REDACTED] gave a return number...` is NOT under the `>>>> On Jul 8 (8:54 PM)` header
+

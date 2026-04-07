@@ -1,0 +1,121 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00022432.pdf ts=2026-03-15T09:17:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, likely from a desktop client like Microsoft Outlook. The interface is clean with black text on a white background, typical of standard business software. The content consists of a chain of emails regarding an "SDNY investigation," heavily redacted to protect personal identifying information (PII) such as names, email addresses, and phone numbers.
+
+The thread appears in reverse chronological order, starting at the top with the most recent message dated May 6, 2021. The first visible block of text is a mid-conversation response proposing a time of 4:30 for a call and asking for the best number to reach the recipient. Below this is a reply from "Quigley, Brendan" (dated 3:32 PM on the same day) offering availability in the afternoon and potentially late the next morning. Further down, there is an email marked "[EXTERNAL EMAIL]" sent at 12:48 PM requesting a call about a case. At the very bottom, partially obscured by large black rectangles, is an older email thread dated June 5, 2020. Large black censorship bars obscure headers, subject lines (where not redacted by "Subject:" labels), and signature blocks throughout the document, leaving only specific phrases, dates, and a visible professional signature for Brendan Quigley from "Baker Botts L.L.P." A document control number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+*   **Header 1 (Top):**
+    *   `From: [Redacted]`
+    *   `To: [Redacted]`
+    *   `Cc: [Redacted]`
+    *   `Subject: RE: SDNY investigation[... redacted ...]`
+    *   `Date: Thu, 06 May 2021 20:00:56 +0000`
+*   **Body 1:**
+    *   `Thanks very much. If 4:30 works, I can call you then. Which number is best to reach you?`
+*   **Header 2 (Middle):**
+    *   `From: Quigley, Brendan[... redacted ...]`
+    *   `Sent: Thursday, May 6, 2021 3:32 PM`
+    *   `To: [Redacted]`
+    *   `Cc: [Redacted]`
+    *   `Subject: RE: SDNY investigation[... redacted ...]`
+*   **Body 2:**
+    *   `[Black Rectangle]`
+    *   `Sure. I am around the rest of the afternoon today. Tomorrow is a bit rougher, but I could talk first thing (like 9) or late afternoon.`
+*   **Signature Block:**
+    *   `Brendan F. Quigley [bio]`
+    *   `Partner`
+    *   `Baker Botts L.L.P`
+*   **Header 3 (Lower):**
+    *   `From: [Redacted]`
+    *   `Sent: Thursday, May 6, 2021 12:48 PM`
+    *   `To: [Redacted]`
+    *   `Cc: [Redacted]`
+*   **Body 3:**
+    *   `[Black Rectangle]`
+    *   `[EXTERNAL EMAIL]`
+    *   `Hi Brendan,`
+    *   `Hope you’re doing well. Do you have time this afternoon or tomorrow for a quick call about this case?`
+    *   `Thanks,`
+*   **Header 4 (Bottom):**
+    *   `From: [Redacted]`
+    *   `Sent: Friday, June 5, 2020 3:35 PM`
+*   **Footer:**
+    *   `EFTA00022432`
+
+## Notable Details / Clues
+*   **Legal Context:** The subject line repeatedly mentions "SDNY investigation" and the signature block identifies a partner at "Baker Botts L.L.P.", indicating high-level legal counsel work.
+*   **Scheduling Negotiation:** The visible text shows a negotiation for a phone call time, with one party offering 4:30, the other (Brendan) offering "rest of the afternoon" or late the next morning, and a third proposal of 9 AM or late afternoon tomorrow.
+*   **External Contact:** The tag `[EXTERNAL EMAIL]` on the email from 12:48 PM suggests a non-lawyer is contacting an attorney inside Baker Botts regarding a case.
+*   **Date Discrepancy/History:** While most emails are dated May 6, 2021, the bottom-most visible header shows a date of "Friday, June 5, 2020," suggesting this thread may have been archived or is an old forwarded chain with recent replies added.
+*   **Redaction Patterns:** The redactions are consistent thick black bars, standard in legal discovery documents to anonymize sensitive data for public review or privacy compliance.
+*   **Time Zone Indication:** The date header includes `+0000`, indicating Coordinated Universal Time (UTC), whereas the email body uses local times (PM).
+*   **Document ID:** The alphanumeric string "EFTA00022432" in the bottom right suggests this is part of an official evidence file or discovery log.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: Re: SDNY investigation [REDACTED]
+[REDACTED]
+Appreciate the courtesy. Please do not pass on our contact info. That said, feel free to contact us if anything comes up in your investigation.
+
+Thank you. Hope you guys are all hanging in okay.
+
+Brendan F. Quigley
+[REDACTED]
+
+On Jun 5, 2020, at 3:19 PM, [REDACTED] wrote:
+
+[EXTERNAL EMAIL]
+Brendan,
+
+An attorney for an individual who has an active civil case in connection with Epstein has reached out to us to ask if we know the current counsel for [REDACTED]. I assume that the attorney is seeking to serve a request or subpoena for documents and/or testimony, though we haven’t asked specifically.
+
+I don’t think we ordinarily engage on that type of question, but given that we have been in touch with you in connection with our interview of [REDACTED] if you’d like we can pass along your contact info, so that the attorney goes to you rather than attempting to contact or serve [REDACTED] directly. And if not, of course no problem, and we’ll just let him know that we’re not able to comment one way or the other on the status of any counsel. Whatever you prefer.
+
+Thanks, and hope you’re well these days.
+[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, February 07, 2020 18:36
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: SDNY investigation [REDACTED]
+
+Thank[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, February 7, 2020 6:13 PM
+To: Quigley, Brendan[REDACTED]
+Cc: [REDACTED]
+Subject: RE: SDNY investigation [REDACTED]
+
+[EXTERNAL EMAIL]
+Brendan,
+
+## Structured Fields
+- **Date Range:** Jun 5, 2020 - Feb 7, 2020
+- **Names:** Brendan F. Quigley
+- **Organizations/Entities:** SDNY, Epstein
+- **Document ID:** EFTA00022433
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+As promised, attached please find a copy of the proffer agreement signed today.
+
+thanks,
+[REDACTED]
+
+**Confidentiality Notice:**
+The information contained in this email and any attachments is intended only for the recipient[s] listed above and may be privileged and confidential. Any dissemination, copying, or use of or reliance upon such information by or to anyone other than the recipient[s] listed above is prohibited. If you have received this message in error, please notify the sender immediately at the email address above and destroy any and all copies of this message.
+
+EFTA00022434
+
+## Structured Fields
+*   **Doc ID:** EFTA00022434
+*   **Document Type:** Proffer Agreement
+

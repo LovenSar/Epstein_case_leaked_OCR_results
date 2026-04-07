@@ -1,0 +1,23 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001480.pdf ts=2026-03-05T12:47:13 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an industrial mechanical room, likely a chiller plant or boiler room, featuring a row of large pumps and associated piping infrastructure. In the immediate foreground on the left, a black cage-style floor fan stands on a tripod-like base. Behind the fan, there are pump assemblies mounted on heavy grey concrete baseplates. These pumps feature dark blue electric motors with top-mounted cooling vents and orange nameplates or pull cords. To the left of the central pumps, a tall, grey vertical cylindrical tank (possibly an air separator or expansion vessel) stands adjacent to a blue motor assembly.
+
+Dominating the upper portion of the scene is a large, horizontal primary piping run heavily insulated in light blue foam. Below this, connecting pipes descend vertically; those on the far left are painted blue, while those in the center and right transition to a beige or tan insulation color (likely fiberglass wrap). These vertical risers connect to horizontal runs that feed into the pumps. Various pressure gauges with white faces and black dials are mounted near valve stems and piping tees throughout the assembly.
+
+On the far right edge, a large white electrical control cabinet is partially visible, featuring blue push-button switches or indicators. In the background, behind the beige piping, there is a large blue piece of machinery, likely a chiller compressor unit or a large motor starter, with exposed conduit and wiring. The ceiling consists of industrial metal panels with recessed lighting fixtures reflecting off the smooth surfaces. The floor appears to be a grey, seamless epoxy coating typical for mechanical rooms.
+
+## Visible Text (verbatim)
+*   **White tag on top pipe:** "PP"
+*   **Green tag on top pipe:** "<- CHILLED WATER RET." (Arrow points left)
+*   **Bottom Right Corner (Image ID):** "EFTA00001480"
+
+## Notable Details / Clues
+*   **System Identification:** The green tag identifies the primary overhead line as a "CHILLED WATER RETURN" line, indicating this is part of an HVAC system moving cold water back to chillers.
+*   **Pump Configuration:** There appear to be at least four parallel pump units lined up, suggesting redundancy or capacity staging for the facility's cooling load.
+*   **Insulation Discrepancy:** The main overhead pipe is light blue (standard for chilled water), but the vertical risers in the center are tan/beige, which often indicates hot water supply lines; this color coding suggests a complex manifold connecting different systems or zones.
+*   **Safety/Utility Features:** A grey pressure tank or accumulator is visible near the pumps, essential for maintaining system pressure. The floor fan indicates temporary ventilation needs in a confined space.
+*   **Mechanical Mounting:** All major equipment (pumps) sits on isolated vibration pads (shock mounts) on the baseplates to prevent noise and vibration transmission to the building structure.
+

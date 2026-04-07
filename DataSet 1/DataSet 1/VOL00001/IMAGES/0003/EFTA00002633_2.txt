@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002633.pdf ts=2026-03-05T21:43:30 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+*   **Central Server Rack:** The focal point is a tall, black 19-inch server rack filled with networking equipment. The upper unit features an orange "APC" logo on the front bezel. Below it, the rack frame is open or removed, revealing a chaotic tangle of network cables hanging freely in loops. Further down, a solid-faced device (possibly a switch or router) is installed, followed by more equipment at the base with wires snaking across the bottom.
+*   **Cabling and Wires:** An extensive mess of Category 5e or Cat6 Ethernet cables dominates the center. Colors include bright blue, orange, yellow, and white cables draped vertically and horizontally. Black power cords and bulkier cables run along the top wire mesh trays and drop down from the ceiling area.
+*   **Left Wall Area:** A large sheet of light-colored plywood covers the lower portion of a painted cinder block wall. Mounted on this plywood is a small cluster of network jacks (likely phone or Ethernet inputs) with black and orange cables trailing loosely down towards the floor.
+*   **Right Wall Area:** The right side features another plywood board covering the wall. Mounted high up are two gray metal junction boxes or patch panels. Below these boxes, a black metal shelving unit is visible.
+*   **Shelving Unit Contents:** The top shelf of the black unit holds a folded bright yellow garment (possibly a safety vest or shirt) and dark clothing. Papers or flat objects are also present on this surface.
+*   **Lower Right Shelf:** On the shelf below, a large black speaker (resembling a subwoofer or studio monitor) sits next to crumpled white fabric or paper towels.
+*   **Ceiling and Infrastructure:** Near the top left corner, a small industrial wall fan is mounted high on the wall. White PVC conduit or pipes run along the upper right corner near the ceiling line. Wire mesh cable trays (Ez-lok style) are mounted near the ceiling, holding organized runs of cables that feed into the central rack.
+*   **Room Construction:** The room appears to be an unfinished utility closet or server room. The walls are painted white cinder blocks at the bottom and covered with plywood above, suggesting a temporary setup or concealed plumbing/electrical work.
+
+## Visible Text (verbatim)
+
+*   "APC" (Logo on top rack unit)
+*   "EFTA00002633" (Watermark in bottom right corner)
+*   Faint asset tags/labels on the top rack unit (text is illegible, appears to be white stickers with black text)
+
+## Notable Details / Clues
+
+*   **Cable Management Issues:** The central rack suffers from poor cable management, with loose ethernet cables hanging freely in large loops rather than being secured to the back of the units or routed through a vertical ladder.
+*   **Plywood Coverings:** The extensive use of plywood on the walls suggests this space might be an older closet converted for IT use, or the builder chose not to finish the drywall to save time/money.
+*   **Utility Fan:** The presence of a fan mounted high up indicates that the equipment generates significant heat and requires active cooling, which is necessary given the density of electronics.
+*   **Mixed Equipment:** The mix of branded gear (APC, Cisco-style switches) alongside generic gray boxes suggests an environment with mixed-vendor infrastructure or a DIY network build.
+*   **Clothing Presence:** The presence of clothes on the shelf indicates that this room is not strictly controlled and is used for general storage in addition to hosting critical network hardware.
+*   **Wall Jacks:** On the left, there appear to be 4-8 unconnected wall jacks mounted on the plywood, suggesting hardwired ports for desktops or phones that are currently unused.
+

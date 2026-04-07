@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002539.pdf ts=2026-03-05T20:58:05 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, angled view of the rear mounting panel of an industrial electronic device, likely a server chassis or networking hardware. The surface is a matte, light-grey metal, possibly steel, showing significant signs of wear and age. A strong glare from a light source creates a white reflection across the upper third of the panel, obscuring some surface texture in that area. The panel is bisected horizontally by a seam near the top.
+
+Two rows of circular mounting holes or dimples are visible along the width of the device; four distinct holes appear in the upper section and several are visible along the bottom edge before being obscured by shadows or debris. On the far left, a black cable curves into the frame, suggesting power or data connections extending out of view. The bottom of the unit features an L-shaped metal bracket or rail attachment point on the lower-left side. The paint at the very bottom right corner is heavily degraded, showing discoloration, bubbling, and what appears to be dried sealant or rust staining along the edge.
+
+## Visible Text (verbatim)
+**iLO 2 Default Network Settings**
+**Server Serial Number: MXQ824A1RJ**
+[Barcode]
+**User Name: Administrator**
+**DNS Name: ILOMXQ824A1RJ**
+[Barcode]
+**Password: 5U5CNHGG**
+[Barcode]
+*(File ID in bottom right corner: EFTA00002539)*
+
+## Notable Details / Clues
+*   **Hardware Interface:** The text "iLO 2" identifies this as an Intel Integrated Lights-Out management interface, common in older HP servers.
+*   **Default Credentials:** The label explicitly lists default administrative credentials ("Administrator" and a specific password), which are security risks if left on the device after deployment.
+*   **Serial Number:** The specific serial number "MXQ824A1RJ" is printed above a barcode for inventory tracking.
+*   **DNS Name:** The DNS name is auto-generated to match the server's serial number ("ILOMX...").
+*   **Environmental Damage:** The bottom right corner shows clear signs of environmental exposure, with white, ring-like discoloration and paint chipping, suggesting moisture intrusion or aging sealants.
+*   **Surface Scratches:** The metal surface has numerous fine scratches and scuffs scattered across the middle section, indicating movement or contact with tools/cables during operation.
+*   **Mounting Style:** The rows of holes suggest this panel is slide-rail mounted into a 19-inch server rack, though the rails themselves are not fully visible.
+*   **Cable Management:** The black cable on the left runs loosely against the wall/rack side before presumably connecting to ports located off-frame or further down the device.
+*   **Sticker Placement:** The sticker is applied centrally but covers a portion of the mounting holes, which might be intentional to prevent tampering with the management settings or accidental scratching of that specific area.
+*   **Lighting Condition:** The harsh lighting suggests the photo was taken with a direct flash in a darker environment, typical of rack closets or server rooms where ambient light is low.
+

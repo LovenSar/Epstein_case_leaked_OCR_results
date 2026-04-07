@@ -1,0 +1,35 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002463.pdf ts=2026-03-05T20:17:01 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image displays the underside (base) of a black laptop, specifically focusing on the hinge area and rear ventilation.
+- The chassis features a distinct carbon fiber weave texture pattern across the entire visible surface, giving it a matte, industrial finish.
+- At the top right, a robust metal hinge assembly is visible, featuring cylindrical polished metal pins that connect the screen to the base.
+- Adjacent to the hinge on the left is a sliding plastic latch mechanism used for accessing the battery compartment.
+- The latch itself has embossed icons indicating battery removal and ventilation slots.
+- Below the main chassis area in the lower-left quadrant, there is a rectangular perforated grille serving as an air vent or speaker enclosure.
+- This grille consists of hundreds of small, uniform circular pinholes arranged in a dense grid pattern.
+- To the left of the vent, near the edge, there is a regulatory compliance sticker printed directly onto the plastic surface.
+- The lighting creates a gradient across the image, with the right side being well-lit and the bottom-left fading into deep shadow.
+- A small hole, likely for an antenna or mounting screw, is barely visible on the far left edge near the vent.
+- The overall composition suggests a high-durability workstation design, typical of enterprise-grade hardware.
+
+## Visible Text (verbatim)
+**Regulatory Markings Area:**
+- "UL" (Logo present)
+- "FC" (Certification mark clearly visible)
+- "IC" (Certification mark visible)
+- Faint text block includes "Compliance Radio Model: RTL8230E" and other small illegible technical specifications.
+
+**Image Identifier:**
+- "EFTA00002463" (Located in the bottom right corner in white font)
+
+## Notable Details / Clues
+- **Device Identification:** The combination of the specific hinge ball design, the carbon fiber texture, and the battery latch placement strongly identifies this as a Lenovo ThinkPad, likely from the T-series or X1 Carbon lineage.
+- **Battery Accessibility:** The presence of the sliding latch near the top hinge indicates that the user must slide the cover to remove the bottom panel and replace the battery.
+- **Wireless Hardware:** The text "RTL8230E" confirms the presence of an Intel Dual Band Wireless-AC 3165 (or similar) adapter, a common component in mid-range business laptops.
+- **Antenna Ports:** The vent area often houses internal antenna connections for WiFi/Bluetooth, explaining the specific cutout or lack of plastic directly over the metal grille frame.
+- **Build Quality:** The exposed hinge pins suggest a design that prioritizes mechanical durability and repairability over extreme slimness.
+- **Color Coding:** The "Carbon Black" finish is distinct from standard "Jet Black" or "Dark Grey" plastics, often used to denote premium business models.
+

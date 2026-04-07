@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731415.pdf ts=2026-03-06T15:28:22 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical screenshot of a mobile device interface, specifically resembling an augmented reality (AR) or advanced camera application viewfinder running on an iPhone. The background is a somewhat pixelated and blurry video feed or photograph taken outdoors during the day.
+
+**Visual Scene:**
+*   **Subject Matter:** The primary visual content shows a marina or harbor setting featuring several boats.
+*   **Boats:** A large white boat hull dominates the foreground and mid-ground, curving upwards towards the right. Several vertical masts are visible in the background, suggesting sailboats docked nearby.
+*   **Figures:** Two human figures are partially visible on the boat deck. On the left side, a figure stands wearing what appears to be a bright green shirt or dress. Near the center-right, another figure is seated or crouching, appearing to wear a yellow top.
+*   **Censorship/Redaction:** Several solid black rectangular boxes are overlaid on the scene. One vertical box obscures the upper body of the standing figure. A second horizontal box obscures the central area near the seated person. A third box is located higher up on the left, obscuring part of a mast or background structure.
+*   **UI Overlays:** The bottom half of the screen is dominated by a dark control panel floating above the video feed. It features two horizontal sliders with yellow circular knobs. The top slider corresponds to zoom (indicated by a magnifying glass icon) and is set to a high value (near the right side). The second slider corresponds to brightness (indicated by a sun icon) and is set slightly left of center.
+*   **Action Buttons:** Below the sliders, there are three circular buttons. On the left is a gear icon for settings. In the center is a large white "X" inside a circle, likely used to exit the view or close the overlay. On the right is an icon depicting overlapping squares, typically used to switch between cameras or layers.
+*   **Top Icons:** In the top right corner of the video feed area, there is a yellow share icon (an arrow pointing upward out of a box).
+
+## Visible Text (verbatim)
+EFTA02731415
+
+## Notable Details / Clues
+*   The interface design, specifically the rounded rectangles and the style of the sliders, strongly mimics Apple's iOS Camera Controller or ARKit UI components.
+*   The blurriness of the background image suggests that the camera is currently zoomed in significantly, or the video feed is being processed at a lower resolution for real-time display.
+*   The yellow accent color used for the slider knobs and icons indicates a specific theme setting within the application.
+*   The black boxes suggest a privacy filter has been applied to the video feed, hiding specific facial features or identities.
+*   The text "EFTA02731415" appears in small white font at the bottom right corner, likely serving as an internal asset ID or image hash for the screenshot itself.
+*   A small home indicator bar is visible at the very bottom center of the screen, confirming the device is an iPhone with Face ID / Touch ID features.
+*   The lighting in the video feed indicates a sunny day, casting distinct shadows on the boat hulls.
+*   The "plus" and "minus" flanking the sliders confirm these are adjustment controls for parameters like magnification and exposure.
+

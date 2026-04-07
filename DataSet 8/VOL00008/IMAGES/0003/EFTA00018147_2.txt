@@ -1,0 +1,108 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018147.pdf ts=2026-03-13T16:07:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email correspondence that includes a forwarded message containing an embedded news update or social media post. The document is oriented vertically with a white background. At the very top, standard email header fields are visible but heavily redacted; the "From" and "To" lines are followed by large black rectangular bars obscuring names and addresses. Below these headers, the subject line details a forwarded story regarding the prosecution team in the Jeffrey Epstein case involving James Comey's daughter. The date is listed as Sunday, July 7, 2019. A thin horizontal black line separates the email header from the body text below. The body contains an "FYI" note requesting that case agents accompany specific individuals (names redacted) and AUSAs to/from court. Following this note is a large graphical area dominated by a black rectangle with a small, outlined box inside it near the top left, suggesting a redacted image. Below this black area is a white section resembling a news feed or tweet embed. This section features an orange banner reading "URGENT UPDATE" and a timestamp from July 6, 2019. A bold headline repeats the story about James Comey's daughter on the prosecution team. Below the headline is a greyed-out header indicating this is an "ORIGINAL PUBLIC TWEET." Inside a white container mimicking a social media post, a black bar redacts the beginning of a sentence identifying the prosecutor by name. The rest of the text identifies her as James Comey's daughter and notes the information comes from a source. At the bottom, a location field lists "New York, NY, USA" and handles for reporter Shimom Prokupecz.
+
+## Visible Text (verbatim)
+- **Header Section:**
+    - From: [Redacted]
+    - To: [Redacted]
+    - Subject: Fwd: Daughter of former FBI director Comey revealed to be part of prosecution team in sex trafficking case against billionaire Jeffrey Epstein: Shimon Prokupecz, Reporter via Twitter.
+    - Date: Sun, 07 Jul 2019 23:50:03 +0000
+    - Importance: Normal
+- **Email Body:**
+    - FYI - can we please make sure the case agents accompany [Redacted] and other AUSAs to/from court.
+- **Embedded Content Header:**
+    - URGENT UPDATE
+    - 10:37pm July 06, 2019 EDT REPORTER
+- **Embedded Headline:**
+    - Daughter of former FBI director Comey revealed to be part of prosecution team in sex trafficking case against billionaire Jeffrey Epstein: Shimon Prokupecz, Reporter via Twitter.
+- **Embedded Tweet Header:**
+    - ORIGINAL PUBLIC TWEET (10:37pm July 06, 2019 EDT)
+- **Tweet Body:**
+    - [Redacted] the daughter of former FBI director James Comey, is one of the prosecutors, according to a source with knowledge of the case.
+- **Tweet Author Info:**
+    - Shimon Prokupecz @ShimonPro
+- **Location Info:**
+    - ESTIMATED EVENT LOCATION:
+    - New York, NY, USA
+- **Footer:**
+    - EFTA00018147
+
+## Notable Details / Clues
+- **Redaction Context:** The names and likely image content are blacked out with digital ink markers (rectangles), indicating either privacy protection or the removal of sensitive information for a specific audience.
+- **Date Discrepancy Note:** The email date is July 7, 2019, but the embedded tweet date is July 6, 2019, indicating the email was a forwarding of a previous day's news event received late in the evening.
+- **Source Attribution:** The text explicitly attributes the story to "Shimon Prokupecz" and the handle "@ShimonPro," identifying him as a reporter via Twitter.
+- **Specific Case Detail:** The text mentions "AUSAs" (Assistant United States Attorneys), indicating the legal level of the officials involved.
+- **Visual Artifacts:** In the large black area above the white tweet box, there is a faint outline of a white rectangle and a tiny icon in the top-left corner, revealing that an image or graphic was originally placed there before being redacted.
+- **Formatting:** The "URGENT UPDATE" text is orange, contrasting with the black headline text, suggesting it was part of a specific news feed interface (likely Fox News or similar, given the typical layout, though not explicitly named).
+- **Geographic Context:** The event location is specified as New York, NY, USA, which aligns with the jurisdiction of federal cases involving high-profile defendants like Jeffrey Epstein.
+- **Family Connection:** The text highlights a specific connection between the prosecutor and former FBI Director James Comey ("Daughter of former FBI director..."), suggesting potential public interest or conflict of interest discussions.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+<IMAGE>
+
+[Image Placeholder]
+
+ALERT VERIFICATION :
+REPORTER @SHIMONPRO
+Account Created: 08.13.2009
+Public Tweets 16,247 | Followers 80,826
+Journalist insta: @shimonpro
+Track Story Open in First Alert
+
+EVENT TIMELINE CAPTIONS
+
+* Billionaire Jeffrey Epstein expected to be charged in a sex trafficking scheme allegedly involving "dozens" of victims after being arrested in Teterboro, New Jersey: News Outlet via NBC News.
+* Billionaire Jeffrey Epstein arrested for allegedly sex trafficking dozens of minors and will appear in court in New York: News Outlet via The Daily Beast.
+
+EVENT TIMELINE DETAIL
+10:27pm July 06, 2019 EDT
+
+EFTA00018148
+
+</IMAGE>
+
+## Structured Fields
+*   **Date:** 08.13.2009 (Account Created), July 06, 2019 (Event Date)
+*   **Doc ID:** EFTA00018148
+*   **Names:** Jeffrey Epstein, @SHIMONPRO
+*   **Locations:** Teterboro, New Jersey; New York
+*   **Organizations:** NBC News, The Daily Beast
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+New York, NY, USA
+Billionaire Jeffrey Epstein expected to be charged in a sex trafficking scheme
+allegedly involving "dozens" of victims after being arrested in Teterboro, New Jersey:
+News Outlet via NBC News.
+OPEN IN First Alert | VIEW POST VIA NBC NEWS
+
+New York, NY, USA                                     07:57pm July 06, 2019 EDT
+Billionaire Jeffrey Epstein arrested for allegedly sex trafficking dozens of minors and
+will appear in court in New York: News Outlet via The Daily Beast.
+OPEN IN First Alert | VIEW POST VIA THE DAILY BEAST
+
+Lists: NYC AOR
+Topics: Public Safety - Legal Action
+Adjust your settings by clicking here
+
+Copyright, 2019. All rights are reserved under U.S. Copyright Law. Any unauthorized use, including reproduction, modification, distribution or publication, without the prior written consent of Dataminr, is strictly prohibited.
+
+You agree to the following terms of use here.
+Powered By D
+
+EFTA00018149
+
+## Structured Fields
+- **Date:** July 06, 2019 EDT
+- **Location:** New York, NY, USA; Teterboro, New Jersey
+- **Names:** Jeffrey Epstein
+- **Organizations:** NBC News, The Daily Beast, Dataminr
+- **Topics:** Public Safety - Legal Action
+- **Lists:** NYC AOR
+- **Doc ID:** EFTA00018149
+

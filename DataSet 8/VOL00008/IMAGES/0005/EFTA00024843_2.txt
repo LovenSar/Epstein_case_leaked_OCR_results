@@ -1,0 +1,194 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024843.pdf ts=2026-03-16T14:13:54 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7/20/2021                                                              FD-1087
+31E-MM-108062 - 1B4
+Evidence Item:                       31E-MM-108062 -- 1B4
+Evidence Type:                       General
+Description:                         (U//FOUO) One box containing: 1) WHITE PAPER A. PBPD 05-381(1) 2) WHITE PAPER JET BLUE RECEIPT (2) 3) WHITE PAPER JU. (3) 4) WHITE PAPER JO. (4) 5) MESSAGE M.H. (5) 6) WHITE PAPER H. S. (6) 7) WHITE PAPER A. (7) 8) WHITE PAPER J.S. (8) 9) WHITE PAPER H. (9) 10) WHITE PAPER ST. BARTHS (10) 11) MESSAGE - G. (11) 12) MESSAGE - J.L...................................(12) 13) WHITE PAPER - F. (13) 14) MESSAGE S. (14) 15) MESSAGE - J.L. (15) 16) MESSAGE J.L. GIRL (16) 17) WHITE PAPER - S. (17) 18) WHITE PAPER #S (18) 19) WHITE PAPER - J. (19) 20) WHITE PAPER - J. (20) 21) WHITE PAPER (917) (21) 22) WHITE PAPER D.M. (22) 23) PHONE # PRINT OUT (23)
+Location:                            E03707388 - ECR8
+                                      E4640430 - ECR8, I4
+Barcode:                             E6516714
+
+Details
+Collected On:                       08/28/2006 8:00 AM                      Receipt Item #: None
+CATS ID #:                           None                                     CATS Abandonment #: None
+FBI Seizure #:                       None                                      Abandonment #: None
+Storage Location
+Holding Office:                      NY - NEW YORK                             Discovery Location
+Finalized By:                        [REDACTED]                                Area:                                 Unavailable in data migrated from ACS
+Last Inventory:                      07/20/2021 12:00 AM                       Seizing Individual: None
+                                      Other Seizing                              Collected By:                         Unavailable in data migrated from
+                                      Individual:                               [REDACTED]                           ACS
+                                      Specific:                                 [REDACTED]
+
+Retention
+Retention: Missing
+Legal Caveats                       None
+Chain of Custody
+Shipping Log
+History
+Acquisition Event
+Acquisition Event:                   (U//FOUO) Items migrated on 2006-08-28
+Collected From:                      (U//FOUO) DET. [REDACTED]
+                                      345 SOUTH COUNTY ROAD
+                                      PALM BEACH, FL, 33480
+Receipt Given:                       No
+
+https://sentinel.fbinet.fbi/lavender///Cases/2383628                                                            1/2
+                                                                                                                 EFTA00024843
+
+## Structured Fields
+- **Date:** 7/20/2021, 08/28/2006, 07/20/2021
+- **Case ID/File Number:** 31E-MM-108062 - 1B4, FD-1087
+- **Evidence Location IDs:** E03707388, E4640430
+- **Holding Office:** NY - NEW YORK
+- **Discovery Area:** ACS (Unavailable in data migrated from)
+- **Collection Address:** 345 SOUTH COUNTY ROAD, PALM BEACH, FL, 33480
+- **Document ID (Bates):** EFTA00024843
+- **Organization:** FBI (implied by domain), ACS
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+7/20/2021                                                          FD-1087
+Holding Office: MM - MIAMI
+Evidence Log: Missing
+Missing
+
+## Structured Fields
+- Date: 7/20/2021
+- Document ID: FD-1087
+- Holding Office: MM - MIAMI
+- Evidence Log: Missing
+- URL: https://sentinel.fbinet.fbi/lavender///Cases/2383628
+- Page: 2/2
+- Tracking ID: EFTA00024844
+```
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Chain of Custody FD-192
+
+Case ID . : 31E-MM-108062                                1B4                       Barcode . E6526714 (scribbled)
+------------------------------------------------------------------------------------------
+Accepted By: [REDACTED]                                    Signature: [REDACTED]
+Printed Name:..[REDACTED].
+
+Reason...Collected.                                         Date/Time: 08/28/2006. 11.00am.
+
+------------------------------------------------------------------------------------------
+Accepted By: [REDACTED]                                     Signature: jgb
+Printed Name: [REDACTED]                                    Reason: STORAGE.
+Date/Time: 2-8-08                      330PM
+
+------------------------------------------------------------------------------------------
+Accepted By: [REDACTED]
+Printed Name: BAYARDO L. RAMOS (Handwritten)                Signature: fgh-
+Reason: RELEASED TO SA.                                      Date/Time: 4-10-08    1100AM
+
+------------------------------------------------------------------------------------------
+Accepted By: [REDACTED]                                    Signature: [REDACTED]
+Printed Name: [REDACTED]                                     Reason: Review
+Date/Time: 04/19/2008. 11.01am
+
+------------------------------------------------------------------------------------------
+Accepted By: [REDACTED]                                    Signature: [REDACTED]
+Printed Name: [REDACTED]                                     Reason: Returned all 1Bs
+Date/Time: 01/13/2009 314PM
+
+------------------------------------------------------------------------------------------
+Accepted By: [REDACTED]                                     Signature: oal
+Printed Name: [REDACTED]                                     Reason: STORAGE.
+Date/Time: 01-13-09                     315PM
+
+------------------------------------------------------------------------------------------
+Accepted By: [Blank]                                        Signature: [Blank]
+Printed Name:..[Blank]....                                   Reason:....
+------------------------------------------------------------------------------------------
+Accepted By: [Blank]                                        Signature: [Blank]
+Printed Name:..[Blank]....                                   Reason:....
+------------------------------------------------------------------------------------------
+Accepted By: RF 601419 (Handwritten diagonal across section)  Signature: [Blank]
+Printed Name:..[Blank]....                                   Reason:....
+------------------------------------------------------------------------------------------
+Accepted By: [Blank]                                        Signature: [Blank]
+Printed Name:..[Blank]....                                   Reason:....
+------------------------------------------------------------------------------------------
+Accepted By: [Blank]                                        Signature: [Blank]
+Printed Name:..[Blank]....                                   Reason:....
+------------------------------------------------------------------------------------------
+
+WEAPONS CHECKED & CLEARED BY FIREARMS INSTRUCTOR
+Printed Name:........................................ Signature:............................... Date:...........
+
+EFTA00024845
+
+## Structured Fields
+- **Document ID:** Chain of Custody FD-192
+- **Case ID:** 31E-MM-108062
+- **Barcode/ID Note:** E6526714
+- **Dates/Times Recorded:**
+    - 08/28/2006 11:00 am
+    - 02-08-2008 3:30 pm
+    - 04-10-2008 11:00 am
+    - 04/19/2008 11:01 am
+    - 01/13/2009 3:14 pm
+    - 01-13-2009 3:15 pm
+- **Names:** BAYARDO L. RAMOS
+- **Reasons for Custody Transfer:** Collected, STORAGE, RELEASED TO SA., Review, Returned all 1Bs, STORAGE
+- **Handwritten Codes/Notes:** RF 601419 (stamped/handwritten diagonally)
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+# EVIDENCE CHAIN OF CUSTODY
+
+| Relinquished Custody | Date and Time | Accepted Custody | Date and Time |
+| :--- | :--- | :--- | :--- |
+| **FedEx: 4J834467 6408** (Handwritten Note) | | | |
+| Signature: [REDACTED] | 6/17/19<br>9:35 am | Signature: [REDACTED] | 6/18/19<br>2:36p |
+| Printed Name/Agency: Rashida Forana FBI | | Printed Name/Agency: [REDACTED] | |
+| Reason: Transferred to NY | | Reason: [ILLEGIBLE HANDWRITING]<br>*(Appears to say Evidence Transfer...)* | |
+| **Relinquished Custody** | **Date and Time** | **Accepted Custody** | **Date and Time** |
+| Signature: [REDACTED - Scribble] | 6/12/19<br>3:54a | Signature: [REDACTED] | 6/18/19<br>3:45p |
+| Printed Name/Agency: [REDACTED] | | Printed Name/Agency: [REDACTED] | |
+| Reason: [REDACTED - Crossed Out] | | Reason: Evidence Review | |
+| **Relinquished Custody** | **Date and Time** | **Accepted Custody** | **Date and Time** |
+| Signature: [REDACTED] | 7/26/19<br>2:20p | Signature: [ILLEGIBLE SCRIBBLE] | 7/26/19<br>2:20 pm |
+| Printed Name/Agency: [REDACTED] FBI | | Printed Name/Agency: [REDACTED] | |
+| Reason: Storage | | Reason: [ILLEGIBLE SCRIBBLE] | |
+| **Relinquished Custody** | **Date and Time** | **Accepted Custody** | **Date and Time** |
+| Signature: | | Signature: | |
+| Printed Name/Agency: | | Printed Name/Agency: | |
+| Reason: | | Reason: | |
+| **Relinquished Custody** | **Date and Time** | **Accepted Custody** | **Date and Time** |
+| Signature: | | Signature: | |
+| Printed Name/Agency: | | Printed Name/Agency: | |
+| Reason: | | Reason: | |
+| **Relinquished Custody** | **Date and Time** | **Accepted Custody** | **Date and Time** |
+| Signature: | | Signature: | |
+| Printed Name/Agency: | | Printed Name/Agency: | |
+| Reason: | | Reason: | |
+| **Relinquished Custody** | **Date and Time** | **Accepted Custody** | **Date and Time** |
+| Signature: | | Signature: | |
+| Printed Name/Agency: | | Printed Name/Agency: | |
+| Reason: | | Reason: | |
+| **Relinquished Custody** | **Date and Time** | **Accepted Custody** | **Date and Time** |
+| Signature: | | Signature: | |
+| Printed Name/Agency: | | Printed Name/Agency: | |
+| Reason: | | Reason: | |
+
+Case ID: 31E-MM-108062 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1B: 4
+Barcode: [REDACTED] E 6516719
+
+*This form is incomplete without reference to the FD-1087.*
+
+## Structured Fields
+- **Case ID**: 31E-MM-108062
+- **Document Control Number (Bottom Right)**: EFTA00024846
+- **Barcode ID**: E 6516719
+- **Person Name**: Rashida Forana (FBI)
+- **Date Range**: 6/12/19 to 7/26/19
+- **Locations/Reasons**: NY, Storage, Evidence Review, FedEx (4J834467 6408)
+

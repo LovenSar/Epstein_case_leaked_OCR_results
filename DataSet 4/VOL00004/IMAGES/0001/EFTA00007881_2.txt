@@ -1,0 +1,123 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007881.pdf ts=2026-03-09T01:49:20 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+...ACE
+VESTIGATI...N
+EVIDENCE [ILLEGIBLE HANDWRITTEN MARKS] EVIDENCE
+FEDERAL BUREAU OF INVESTIGATION ...FEDERAL BUREAU OF INVE[STIGATION]
+(blank space)
+EFTA00007881
+
+## Structured Fields
+*   **Organization:** Federal Bureau of Investigation
+*   **Document ID:** EFTA00007881
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+1B7-8
+[ILLEGIBLE]
+EFTA00007882
+
+## Structured Fields
+*   **Doc ID:** 1B7-8
+*   **Case ID/Sequence No:** EFTA00007882
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a rectangular informational label or sticker featuring a solid, vibrant magenta-pink background. The surface appears matte with slight texture visible near the edges, suggesting it is adhered to a box, folder, or archival container. The primary content consists of two distinct blocks of black text centered on the page. The top section uses a large, bold serif typeface, arranged in five lines to convey a status update regarding digitization efforts. Below this, a second block of text in a similar but slightly smaller serif font clarifies that original film negatives were excluded from the digital capture process. In the bottom left corner, much smaller sans-serif text provides versioning and dating information ("DL-02 Media v0.1" and "April 2018"). At the very bottom right edge, a small alphanumeric code is visible, likely an archival identifier or barcode data string. The lighting is even, casting no significant shadows, highlighting the high contrast between the black ink and the bright pink background.
+
+## Visible Text (verbatim)
+**Main Centered Text:**
+All documents and
+Photographs
+Enclosed have been
+Digitized.
+Negatives and/or
+media have not
+been captured.
+
+**Footer Left Text:**
+DL-02 Media v0.1
+April 2018
+
+**Bottom Right Edge Text:**
+EFTA00007883
+
+## Notable Details / Clues
+*   **Archival Context:** The text explicitly mentions "Negatives" and "media," indicating this label is part of a library, museum, or heritage archive workflow where physical film materials are processed.
+*   **Digitization Status:** The label serves as an informational bridge for researchers or staff, clarifying that while the positive images (documents/photographs) are available in digital format, the source material (negatives) remains in physical form and was not scanned.
+*   **Template Versioning:** The inclusion of "v0.1" suggests this is a standardized sticker design used across multiple batches or projects, with potential for future revisions to the template itself.
+*   **Date Specificity:** The date "April 2018" provides a timestamp for when this specific instruction set was printed or issued, helping to contextualize the workflow timeline relative to other archival records.
+*   **Color Coding:** The use of a distinct pink color likely categorizes this item (e.g., a warning label, an informational tag, or part of a specific "pink" series of labels used by the organization).
+*   **Layout Hierarchy:** The visual hierarchy is established through font size and weight, with the most critical information ("Digitized" vs "not captured") taking precedence in the center, while administrative data (version/date) is relegated to the periphery.
+*   **Inclusive/Exclusive Language:** The phrasing "Negatives and/or media" uses inclusive conjunctions ("and/or"), acknowledging that a box might contain slides, microfilm, or other analog media alongside film negatives.
+*   **Document Identifier:** The string "EFTA00007883" appears to be an internal tracking number, potentially standing for a specific format type code (e.g., Electronic Format Type A) combined with a unique ID.
+*   **Serif Font Choice:** The main text uses a traditional serif font (resembling Times New Roman), which conveys formality and authority often associated with official institutional announcements.
+*   **Spelling Note:** The text uses "Enclosed" rather than "Enclosing," suggesting the label is placed *on* an object that has items inside it, rather than describing an action being performed on the item itself.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+VHS
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007884
+
+## Structured Fields
+
+*   **Date:** July 27, 2020
+*   **Document ID:** EFTA00007884
+*   **Item Description:** VHS
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-contrast black-and-white view of a VHS cassette tape, specifically focusing on its spine area where labels are attached. The object is oriented horizontally across the top third of the frame, resting against a plain background that fades into digital noise/grain in the lower two-thirds.
+
+There appear to be two distinct labeling areas visible on the black plastic casing:
+1.  **Primary Label (Upper Spine Area):** This section features a standard white label strip containing branding and handwritten information. On the far left is a boxed "VHS" logo. A large, solid black rectangle obscures the center-left area of this label. To the right of the black box, handwritten in capital letters, is the word "INTERVIEW". Below that, written in a slightly sloped script, is "PROP # 05-1052" followed by a caret symbol and the number "1". On the far right edge of this strip, printed vertically along the tape's edge, is the brand name "maxell" and text reading "PROFESSIONAL PROFESSIONAL Hi", accompanied by checkboxes for "PLAIN HI-GX".
+2.  **Secondary Label (Lower Spine Area):** Positioned below the main spine label area is a second white sticker or section containing inventory markings. This area features a standard vertical barcode on the right side. To the left of the barcode, there are large handwritten numbers "05-1052" at the bottom and smaller, slightly blurrier numbers above it reading "128744". The handwriting here appears to be done in a thick marker or pencil.
+
+The overall image quality is grainy and high-contrast, resembling a photocopy or a scan of an archival document. The lighting highlights the texture of the VHS tape shell above and below the white label areas.
+
+## Visible Text (verbatim)
+*   **Logo/Branding:** "VHS", "maxell PROFESSIONAL PROFESSIONAL Hi", "PLAIN HI-GX"
+*   **Primary Label Handwriting:** "INTERVIEW", "PROP # 05-1052 ^1"
+*   **Secondary Label Handwriting:** "128744" (small, above barcode), "05-1052" (large, below)
+*   **Barcode ID:** "L19620" (visible as tiny text above the barcode on the secondary label)
+
+## Notable Details / Clues
+*   **Inventory System:** The number "05-1052" appears consistently across different labels (top and bottom), suggesting a rigorous cataloging or archiving system where tapes are assigned unique IDs.
+*   **"PROP #" Suffix:** The prefix "PROP #" likely stands for "Property Number," commonly used in television archives, film productions, or news organizations to track equipment or media assets.
+*   **Content Indicator:** The word "INTERVIEW" clearly identifies the content type of the recording.
+*   **Tape Brand:** The "Maxell Professional Hi-GX" branding indicates this is a high-quality video tape, likely used for broadcast or professional recording rather than consumer use.
+*   **Sequential Marker:** The symbol "^1" next to the ID suggests this might be Part 1 of a set of interviews or tapes.
+*   **Image Artifacts:** The black rectangular box on the upper label appears to be either an intentional black-out for privacy/security or an over-written section covering original printed text (like a title) that was replaced by the handwritten "INTERVIEW".
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a high-contrast, black-and-white graphic, likely from a product catalog or technical manual page. The composition is divided into three distinct horizontal sections. The top section features a close-up view of a Maxell VHS cassette tape oriented horizontally across the frame. The label on the cassette is visible but largely blank, featuring standard checkboxes for recording speeds (SP, EP, LP) and recording types (PLUS UCX, MASTER, ORIGINAL, DUB), along with the "VHS" logo on the right side of the label. Below the cassette, the middle section acts as a graphical header or title area. This area features large, vertical text running up the right side spelling "maxell." On the left side, vertical text reads "Ideal for use in Time Lapse Recording." Dominating the center of this middle section is a large white rectangular box containing a handwritten-style number "8," suggesting this image serves as page 8 of a document. The bottom third of the image consists of a textured, grainy background with horizontal striations that mimic the appearance of magnetic tape tracks or film grain, fading into noise at the very bottom edge.
+
+## Visible Text (verbatim)
+*   **Cassette Label (Top):** "maxell", "PROFESSIONAL INDUSTRIAL P/I" (small text), "P/I" (inside box), checkboxes labeled "SP", "EP", "LP", "PLUS UCX", "MASTER", "ORIGINAL", "DUB", "VHS".
+*   **Left Side Text:** "Ideal for use in Time Lapse Recording"
+*   **Bottom Left Logo:** "VHS"
+*   **Right Side Text:** "maxell" (vertical)
+*   **Center Number:** "8"
+*   **Document ID (Bottom Right):** "EFTA00007886"
+
+## Notable Details / Clues
+*   **Product Type Identification:** The text "P/I" and "PROFESSIONAL INDUSTRIAL P/I" indicates this is a specific industrial-grade tape designed for professional recording equipment.
+*   **Specific Use Case:** The phrase "Ideal for use in Time Lapse Recording" provides context for the product's purpose, suggesting it was engineered for low-speed playback or capturing long events in compressed time.
+*   **Page Context:** The large number "8" inside the white box strongly implies this image is a page turner or section divider within a larger instruction booklet or brochure.
+*   **Visual Texture:** The bottom portion of the image uses a halftone or grain effect to simulate the look of magnetic tape media, reinforcing the product theme.
+*   **Checkbox Layout:** The standard layout of checkboxes allows potential buyers or technicians to quickly see what formats (Standard Play, Extended Play, Long Play) are available or selected on the specific unit shown.
+*   **Vertical Typography:** The use of vertical text for branding ("maxell") and utility descriptions creates a strong framing effect around the central page number.
+

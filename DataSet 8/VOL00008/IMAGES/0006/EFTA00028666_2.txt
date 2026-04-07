@@ -1,0 +1,68 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028666.pdf ts=2026-03-18T00:47:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot or scan of an email message containing a "SDNY NEWS CLIPS" digest. The document is structured with a standard email header at the top, followed by a large blacked-out section obscuring sender/recipient information, and a main content body formatted as a press clipping summary.
+
+At the very top, the email interface shows fields for "From," "To," and "Cc." All identifying contact information within these fields is heavily redacted using thick, black bars. The "To" field specifically features a jagged series of black bars covering almost the entire area, suggesting multiple recipients were CC'd or BCC'd.
+
+Below the header is the subject line: "SDNY NEWS CLIPS, NOVEMBER 4, 2020," and the date stamp "Wed, 04 Nov 2020 18:12:29 +0000." An "Inline-Images" field lists "image001.png," indicating the following content is an embedded image or attachment.
+
+The main content area begins with a blue header banner featuring the gold seal of the U.S. Department of Justice on the left and the title "SDNY PRESS CLIPPINGS" in white capital letters. Below this header is a list of news articles formatted as hyperlinks (though appearing as black text on white background). The list is categorized by bolded headers such as "MAXWELL," "SCHULTE," "MATTERS OF INTEREST," and various news outlet names like WAPO, LAW.COM, USATODAY, POLITICO, WSJ, PROPUBLICA, JD SUPRA, NYT, MEDIAITE, and THE ECONOMIST. Each entry consists of a bold category name followed by a URL to a specific news story relevant to legal or political events surrounding late November 2020.
+
+## Visible Text (verbatim)
+**Header Section:**
+From: [Redacted]
+To: [Heavily Redacted/Blacked Out]
+Cc: [Redacted]
+Subject: SDNY NEWS CLIPS, NOVEMBER 4, 2020
+Date: Wed, 04 Nov 2020 18:12:29 +0000
+Inline-Images: image001.png
+
+**Main Content:**
+(SDNY seal visible in header)
+SDNY PRESS CLIPPINGS
+
+MAXWELL
+POST: https://nypost.com/2020/11/03/two-epstein-victims-drop-cases-against-estate-ghislaine-maxwell/
+SCHULTE:
+AP: https://www.kob.com/national-news/june-retrial-date-set-for-ex-cia-engineer-in-leak-case/5915314/
+MATTERS OF INTEREST
+WAPO: https://www.washingtonpost.com/outlook/2020/11/04/trump-court-election-count/
+LAW.COM: https://www.law.com/dailybusinessreview/2020/11/03/us-case-against-venezuelas-oil-minister-hits-another-snag/
+USATODAY: https://www.usatoday.com/story/tech/2020/11/03/facebook-twitter-trump-giuliani-censorship-bias-biden-election-2020/6149742002/
+LAW.COM: https://www.law.com/newyorklawjournal/2020/11/03/2nd-circuit-upholds-conviction-of-missouri-man-sentenced-to-10-years-in-payday-lending-scheme/
+POLITICO: https://www.politico.com/news/2020/11/04/1-in-3-americans-lives-where-recreational-marijuana-legal-434004
+WSJ: https://www.wsj.com/articles/court-considers-life-without-parole-sentencing-for-juveniles-11604443211
+PROPUBLICA: https://www.propublica.org/article/robocalls-told-at-least-800-000-swing-state-residents-to-stay-home-on-election-day-the-fbi-is-investigating
+JD SUPRA: https://www.jdsupra.com/legalnews/increased-threat-of-cybercrime-in-40588/
+POLITICO: https://www.politico.com/newsletters/morning-defense/2020/11/04/defense-policy-in-limbo-as-election-drag-on-791386
+NYT: https://www.nytimes.com/2020/11/04/nvreign/nj-prisoner-release-covid.html
+WSJ: https://www.wsj.com/articles/twitter-facebook-fined-by-turkey-for-breaching-law-aimed-at-curbing-dissent-11604501440
+MEDIAITE: https://www.mediaite.com/uncategorized/trump-reportedly-telling-advisers-hes-increasingly-spooked-at-the-prospect-of-being-indicted-if-he-loses/?utm_source=mostpopular
+THE ECONOMIST: https://www.economist.com/europe/2020/11/03/despite-the-horrors-in-vienna-and-paris-jihadism-has-declined
+
+Footer: EFTA00028666
+
+## Notable Details / Clues
+- **Redaction Extent:** The "To" field is almost entirely blacked out with staggered black bars, a common technique in government emails to protect recipient privacy while acknowledging the existence of other recipients (like those in Cc or Bcc).
+- **Document Source:** The header identifies the source as the Southern District of New York (SDNY), a federal court district known for handling high-profile white-collar crimes and political cases.
+- **Date Context:** The date November 4, 2020, places the document immediately after the U.S. Presidential Election on November 3, 2020. Many links relate to election aftermath (e.g., "trump-court-election-count," "defense-policy-in-limbo-as-election-drag-on").
+- **Legal Themes:** A significant portion of the links relates to legal proceedings, including the Ghislaine Maxwell case ("two-epstein-victims-drop-cases"), Julian Assange/leaks case ("ex-cia-engineer-in-leak-case"), and a conviction in a payday-lending scheme.
+- **URL Anomaly:** The AP link for "SCHULTE" contains an unusual URL prefix (`www.kob.com`), which appears to be a typo or a specific internal domain, rather than a major news site like the others (Politico, WSJ, NYT).
+- **Footer Reference Number:** The string "EFTA00028666" in the bottom right corner suggests this image is part of a government archive or legal docket system (possibly related to the Electronic Frontier Foundation or similar, given the context of civil liberties cases mentioned like Assange).
+- **Mix of Topics:** The list mixes high-stakes federal criminal law with broader political news (marijuana legalization in 1/3rd of states, Turkey fining social media for censorship) and public health/crime issues (NJ prisoner release due to COVID-19).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ICIJ: https://www.icij.org/inside-icij/2020/11/goldman-sachs-1mdb-settlement-a-meaningful-punishment-for-major-financial-crimes/
+FOX: https://www.foxbusiness.com/politics/ex-nypd-commissioner-hundreds-of-protests-will-erupt-on-wednesday
+SHORENEWS: https://www.shorenwewsnetwork.com/2020/11/03/orlando-wealth-management-executive-charged-with-securities-fraud/
+
+## Structured Fields
+*   **Date**: 2020-11-03 (visible in URL)
+*   **Organizations**: ICIJ, Fox Business, Shore News Network (Shorenewsnetwork)
+*   **Doc ID**: EFTA00028667
+*   **Subjects**: Goldman Sachs, Orlando wealth-management executive
+

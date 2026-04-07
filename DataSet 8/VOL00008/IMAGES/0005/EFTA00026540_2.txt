@@ -1,0 +1,83 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00026540.pdf ts=2026-03-17T05:53:01 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED]"
+To: "Moore, Amanda G. (NY) (FBI)" <[REDACTED]>
+Subject: Fwd: Then #10
+Date: Mon, 25 May 2020 17:33:27 +0000
+Inline-Images: IMG_1292.JPG
+
+Begin forwarded message:
+
+From: STACEY RICHMAN <[REDACTED]>
+Date: May 25, 2020 at 1:09:48 PM EDT
+To: "[REDACTED]"
+Subject: Fw: Then #10
+
+STACEY RICHMAN
+Law Offices of
+Richman Hill & Associates PLLC
+2027 Williamsbridge Road
+Bronx, New York 10461
+[REDACTED](Main)
+(718) 518-0674 (Facsimile)
+
+***Confidentiality Notice***
+This email and any accompanying documents contains information that is intended only for the use of the individual or entity to whom it is addressed and may contain information that is legally privileged, confidential or otherwise exempt from disclosure under applicable laws. If the reader of this message is not the recipient, any disclosure, dissemination, distribution, copying, or other use or retention of this communication or its substance is prohibited. If you have received this email in error, please delete it and notify the sender by return email. Thank you.
+
+From: Mark L. Epstein <[REDACTED]>
+Sent: Sunday, May 24, 2020 6:47 PM
+To: STACEY RICHMAN <[REDACTED]>
+Subject: Then
+
+## Structured Fields
+*   **Date:** Mon, 25 May 2020; May 25, 2020; Sunday, May 24, 2020
+*   **Names:** Mark L. Epstein, Stacey Richman, Amanda G. Moore
+*   **Organizations:** FBI, Law Offices of Richman Hill & Associates PLLC
+*   **Location:** Bronx, New York 10461
+*   **Doc IDs:** IMG_1292.JPG, EFTA00026540
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled view of a black LG feature phone (likely an AT&T Flip or similar candy bar model) held in a person's hand. The device features an orange AT&T logo illuminated at the top bezel and the silver LG logo centered below the screen. The screen is active, displaying a messaging application with a limited color palette, primarily shades of blue, white, and grey typical of early smart-era feature phones.
+
+At the top of the display, the phone number sender is identified as "+16203229434(8/8)", indicating this message is the eighth in a series sent from that specific number. Below this header are two distinct message entries. The first entry, timestamped "05/24 09:43 am," contains a threatening message ending with a shortened URL. The second entry, timestamped "05/24 10:11 am," is a shorter warning instructing the recipient to look around. At the very bottom of the screen, a navigation bar offers menu options labeled "Options Expand Reply."
+
+Behind the phone, the background is out of focus but reveals a glimpse of a dark wooden surface and part of a computer keyboard with blue backlighting, suggesting the photo was taken near a workstation or desk. Beneath the photograph, a caption reads "Sent via tin can and string," which appears to be an ironic or descriptive note added during the image's publication. In the bottom right corner, an alphanumeric code "EFTA00026541" is visible, identifying this as an evidence photograph from the Electronic Frontier Task Force (or a similar investigative organization).
+
+## Visible Text (verbatim)
+**Screen Header:**
++16203229434(8/8)
+
+**Message 1 (05/24 09:43 am):**
+You will diiiie
+like your brother,
+wait for us
+grat.in/uxdyd
+
+**Message 2 (05/24 10:11 am):**
+Look behind you.
+
+**Screen Footer Menu:**
+Options Expand Reply
+
+**Image Caption:**
+Sent via tin can and string.
+
+**Image Watermark:**
+EFTA00026541
+
+## Notable Details / Clues
+*   **Threat Escalation:** The messages demonstrate a classic escalation tactic in digital harassment or stalking campaigns. The first message uses hyperbolic language ("diiiie") mixed with familial threats ("like your brother") to induce fear.
+*   **Malicious Link:** The link "grat.in/uxdyd" is a known domain associated with cyberbullying malware and phishing attempts, specifically designed to compromise the user's device upon clicking (which is difficult on this phone model but still a tactic).
+*   **Social Engineering Defense:** The second message ("Look behind you") is a calculated distraction technique. By forcing the victim to turn their head away from the phone screen, the sender creates an opening for physical attack, a common strategy in real-world stalking scenarios.
+*   **Chain Messaging:** The "(8/8)" indicator strongly suggests this text was forwarded multiple times or is the final message in a sequence of 8. This indicates the recipient might have received this threat from someone else, highlighting how malicious actors use existing contact lists to distribute threats.
+*   **Legacy Hardware:** The use of a non-smartphone (feature phone) highlights that these threats are not limited to modern apps or social media; they target basic mobile technology as well.
+*   **Investigative Context:** The EFTA watermark suggests this image was part of a public exhibition or evidence report regarding cyberstalking, likely presented to educate the public or court about the dangers of such messages.
+*   **Date Context:** The timestamp "05/24" places the event in May (likely 2016 given the prevalence of this specific viral meme/exhibit), providing a historical context for the technology being used during that specific campaign.
+*   **Visual Layout:** The text on the screen is broken into multiple lines to fit the small display width, forcing the reader to move their eyes down, mimicking the "slow reveal" often used in these types of warnings.
+*   **Battery/Signal Status:** At the very top right, there are faint indicators for signal strength and battery life, standard for this device model, though the details are slightly washed out by the lighting.
+*   **Illumination:** The orange glow from the AT&T logo suggests the phone is in "standby" or has missed calls/notifications active, which might explain why the screen is lit up when the photo is taken.
+

@@ -1,0 +1,83 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00023307.pdf ts=2026-03-15T20:12:57 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: Lyft Ride Receipt <no-reply@lyftmail.com>
+To: "[REDACTED]"
+Subject: Your ride with [REDACTED] on February 26
+Date: Wed, 26 Feb 2020 10:56:02 +0000
+
+![Lyft Logo](https://example.com/placeholder-logo.png) <!-- Placeholder for actual logo location -->
+FEBRUARY 26, 2020 AT 4:53 AM
+
+# Thanks for riding with
+[REDACTED] [REDACTED]
+
+Lyft fare (12.32mi, 27m 21s) $45.89
+New York Sales Tax $4.07
+Black Car Fund Surcharge $1.15
+Tip $7.67
+[REDACTED] **$58.78**
+
+![Ride Map](https://example.com/placeholder-map.png) <!-- Placeholder for actual map location -->
+
+**Pickup** 4:53 AM
+[REDACTED]
+
+**Drop-off** 5:20 AM
+Long Island, JFK Access Rd, Jamaica, NY
+
+TIP DRIVER
+FIND LOST ITEM
+
+EFTA00023307
+
+## Structured Fields
+- **Date**: February 26, 2020 (Trip Date), Feb 26, 2020 (Email Date)
+- **Location**: Long Island, JFK Access Rd, Jamaica, NY
+- **Organization**: Lyft
+- **Document ID**: EFTA00023307
+- **Total Amount**: $58.78
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+REQUEST REVIEW
+
+Review price in the Lyft app help tab
+
+Dispatching Base: Tri-City (B02510). Affiliated Base: (B02875)
+Vehicle License Number: T738469C. Driver TLC License: 5939003.
+To submit a complaint to the NYC TLC, please call 311.
+
+Help Center
+
+Receipt #1376134985404169114
+
+We never share your address with your driver after a ride.
+Learn more about our commitment to safety.
+
+© Mapbox © OpenStreetMap Improve this map
+
+© 2020 Lyft, Inc.
+548 Market St., P.O. Box 68514
+San Francisco, CA 94104
+CPUC ID No. TCP0032513 - P
+
+Work at Lyft
+Become a Driver
+
+EFTA00023308
+
+## Structured Fields
+
+*   **Organization:** Lyft, Inc.
+*   **Receipt Number:** #1376134985404169114
+*   **Document ID (Footer):** EFTA00023308
+*   **Dispatching Base:** Tri-City (B02510)
+*   **Affiliated Base:** (B02875)
+*   **Vehicle License Number:** T738469C
+*   **Driver TLC License:** 5939003
+*   **CPUC ID No.:** TCP0032513 - P
+*   **Location:** San Francisco, CA 94104
+*   **Complaint Jurisdiction:** NYC TLC
+

@@ -1,0 +1,91 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014156.pdf ts=2026-03-11T22:26:28 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```text
+From: "[REDACTED], [REDACTED]. (FBI)" <[REDACTED]>
+To: "[REDACTED]. (USAFLS)" <[REDACTED]>,
+"[REDACTED]"
+Subject: Re: Epstein Investigation
+Date: Fri, 04 Jul 2008 18:21:07 +0000
+Importance: Normal
+
+Hey happy 4th. FYI, I do not know that name, but I did just recv a call from [REDACTED]. She does recall everything and said [REDACTED] took her and she only went once. She said she was ashamed and uncomfortable. She is coming to FBI @ 930 Mon. We may want to met with [REDACTED] as well.
+
+------ Original Message ------
+From: [REDACTED].(USAFLS) <[REDACTED]>
+To: [REDACTED], [REDACTED]: [REDACTED]
+Sent: Fri Jul 04 11:24:41 2008
+Subject: FW: Epstein Investigation
+
+Hi guys – Have we ever heard of [REDACTED]. (below)?
+
+[REDACTED]
+
+Assistant U.S. Attorney
+
+[REDACTED]
+
+West Palm Beach, FL 33401
+
+Phone [REDACTED]
+Fax [REDACTED]
+
+From: Ted Leopold [mailto:[REDACTED]]
+Sent: Thursday, July 03, 2008 4:25 PM
+To: [REDACTED]. (USAFLS)
+Cc: Spencer Kuvin
+Subject: RE: Epstein Investigation
+
+[REDACTED]
+
+Our two client names are:
+
+1. [REDACTED]
+2. [REDACTED]
+
+EFTA00014156
+```
+
+## Structured Fields
+*   **Date:** Fri, 04 Jul 2008 18:21:07 +0000 (Top Header); Fri Jul 04 11:24:41 2008 (Quoted Header); Thursday, July 03, 2008 4:25 PM (Bottom Quoted Header)
+*   **Subject:** Re: Epstein Investigation / FW: Epstein Investigation / RE: Epstein Investigation
+*   **Locations:** West Palm Beach, FL 33401; FBI @ 930
+*   **Names/Organizations:** Spencer Kuvin; USAFLS; FBI; Ted Leopold; Assistant U.S. Attorney
+*   **Document ID:** EFTA00014156
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+if you need any other information please let me know.
+
+Ted
+
+----Original Message-----
+From: [REDACTED]. (USAFLS) [mailto:[REDACTED]]
+Sent: Monday, June 30, 2008 5:00 PM
+To: Ted Leopold
+Subject: Epstein Investigation
+
+Dear Ted: Here is my e-mail address and contact information.
+
+Thank you for your assistance.
+
+[REDACTED]
+
+Assistant U.S. Attorney
+
+[REDACTED]
+
+West Palm Beach, FL 33401
+
+Phone [REDACTED]
+
+Fax [REDACTED]
+
+## Structured Fields
+- **Date:** Monday, June 30, 2008
+- **Location:** West Palm Beach, FL 33401
+- **Names:** Ted Leopold
+- **Organizations:** USAFLS (United States Attorney's Office for the Southern District of Florida), Assistant U.S. Attorney
+- **Document ID:** EFTA00014157
+

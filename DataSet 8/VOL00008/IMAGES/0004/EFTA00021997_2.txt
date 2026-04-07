@@ -1,0 +1,834 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021997.pdf ts=2026-03-15T05:11:15 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JPMorgan Account
+Account type [Redacted]
+Account number [Redacted]
+Account type [Blank Boxes]
+Account number [Blank Boxes]
+BAC # [Boxes]
+
+Month/Date/Year
+Social Security no. / Tax ID no. / Passport no.
+
+Account title: 116 East 65th Street LLC
+
+All Account holders/Signers must sign this Signature Form exactly as the checks/instructions will be signed.
+
+Print (Account holder/Signer, Trustee, Custodian, Director, etc.) | Title | SIGN HERE X [Signature] if facsimile signature, check box []
+Print (Joint Account holder/Signer, Trustee, Custodian, Director, etc.) | Title | SIGN HERE X if facsimile signature, check box []
+Print (other) | Title | SIGN HERE X if facsimile signature, check box []
+Print (other) | Title | SIGN HERE X if facsimile signature, check box []
+
+Is this an existing account? [X] yes [ ] no If yes, does this card replace all other cards against this account? [ ] yes [X] no
+Signing instructions (Please use back of card if necessary.)
+
+JPMorgan Account
+Account type [Blank Boxes]
+Account number [Blank Boxes]
+Account type [Blank Boxes]
+Account number [Blank Boxes]
+BAC # [Boxes]
+
+Month/Date/Year
+Social Security no. / Tax ID no. / Passport no.
+
+Account title
+
+Print (Account holder/Signer, Trustee, Custodian, Director, etc.) | Title | SIGN HERE X [Signature] if facsimile signature, check box []
+Print (Joint Account holder/Signer, Trustee, Custodian, Director, etc.) | Title | SIGN HERE X if facsimile signature, check box []
+Print (other) | Title | SIGN HERE X if facsimile signature, check box []
+[Black Box covering name/title area]
+
+Print (other) | Title | [Blank/Redacted] if facsimile signature, check box []
+
+Is this an existing account? [X] yes [ ] no If yes, does this card replace all other cards against this account? [ ] yes [ ] no
+Signing instructions (Please use back of card if necessary.)
+
+SB1062192-F1
+1
+EFTA00021997
+
+## Structured Fields
+
+*   **Organization:** JPMorgan Account
+*   **Account Title:** 116 East 65th Street LLC
+*   **Signer Name:** Ghislaine Maxwell
+*   **Document ID:** SB1062192-F1
+*   **Archive/File Number:** EFTA00021997
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+A1
+###
+Comments
+Date[mmddyyyy] Box Number           Form Type = "CITADEL"
+02102010       [ _ _ _ _ _ _ _ _ ]
+Doc Code Doc Code Doc Code Doc Code Account Numbers
+194             |                  |
+Account Numbers .................................
+
+|  |  |  |
+|---|---|---|---|
+| [REDACTED]   |                       |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+|                |                      |
+
+SB1062192-F1                              2
+
+EFTA00021998
+```
+
+## Structured Fields
+- **Date:** 02/10/2010
+- **Doc Code:** 194
+- **Form Type:** CITADEL
+- **Document ID:** SB1062192-F1
+- **External Reference ID:** EFTA00021998
+</think>
+
+## Structured Fields
+- **Date**: 02/10/2010
+- **Doc Code**: 194
+- **Form Type**: CITADEL
+- **Document ID**: SB1062192-F1
+- **External Reference ID**: EFTA00021998
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Jul 27 2011 02:34 PM JPMorgan Chase 302-634-5955                                              7/13
+JPMorgan Account.                                                                                 
+Account Type          Account number                                                                                        Account type   Account number
+                                                                                                      Account type   Account number
+
+Ghislaine Maxwell                                            SIGN HERE [scribbled signature/stamp]                                                                  
+SIGN HERE            X                                                                                                                                
+SIGN HERE            X                                                                                                                                
+SIGN HERE            X                                                                                                                                
+SIGN HERE            X                                                                                                                                
+Is this an existing account?           yes  no          If yes, does this card replace all other cards against this account?   yes    no
+Signing Instructions (Please use back of card if necessary.)
+
+JPMorgan Account                                                                                     Account type   Account number
+Account Type              Account number                                                                                        Account type   Account number
+                                                                                                                                                      BAC #
+
+[REDACTED/BLANK]                                              SIGN HERE   X
+[REDACTED/BLANK]                                              SIGN HERE   X
+[REDACTED/BLANK]                                              SIGN HERE   X
+[REDACTED/BLANK]                                              SIGN HERE   X
+
+Is this an existing account?       yes    no          If yes, does this card replace all other cards against this account?           yes   no
+Signing Instructions (Please use back of card if necessary.)
+
+                                                                                                    SB1062192-F1                                               3
+EFTA00021999
+```
+
+## Structured Fields
+*   **Date:** Jul 27 2011
+*   **Organization:** JPMorgan Chase
+*   **Names:** Ghislaine Maxwell
+*   **Document IDs:** SB1062192-F1, EFTA00021999
+*   **Page Number:** 3 (of a document referenced as 7/13 in the header)
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+A1
+
+Comments
+Date[mmddyyyy]  Box Number                  Form Type = "CITADEL"
+07272011         [ ][ ][ ][ ][ ][ ][ ][ ]
+Doc Code Doc Code Doc Code Doc Code Account Numbers
+194              []                 []                 []                 [_________________]
+Account Numbers  [_________________]
+[REDACTED]      [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+[]               [_________________]
+
+SB1062192-F1                                4
+EFTA00022000
+
+## Structured Fields
+- **Date:** 07/27/2011
+- **Form Type:** CITADEL
+- **Doc Code:** 194
+- **Document ID:** SB1062192-F1
+- **Page Number:** 4
+- **Reference ID:** EFTA00022000
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JPMorgan Account
+Account Type [Blank Boxes] Account Number [Blank Boxes]
+Account Type [Blank Boxes] Account Number [Blank Boxes] BAC # [Blank Boxes]
+Monthly/Date/Payer [Illegible] Special Security no / Tax ID no / Passport no [Blank]
+FREEDOM AIR INTERNATIONAL INC.
+All Account holders/Signers must sign the Signature Card exactly in the checks/instructions will be signed.
+
+[ILLEGIBLE TEXT IN BOXES]
+Sign Here X [Signature: Harry Beller]
+Name (Joint Account Holder/Signer, Title, Capacity/Director, etc.): [Illegible]
+Sign Here X [Signature: Jeffrey Epstein]
+Name (Spouse): [Illegible]
+Sign Here X [Signature: Darren Indyk]
+
+Is this an existing account? [ ] yes [ ] no If yes, does this card replace all other cards against this account? [ ] yes [ ] no
+Signing instructions [Blank]
+
+JPMorgan Account
+Account Type [Blank Boxes] Account Number [Blank Boxes]
+Account Type [Blank Boxes] Account Number [Blank Boxes] BAC # [Blank Boxes]
+Monthly/Date/Payer [Illegible] Social Security no / Tax ID no / Passport no [Blank]
+[ILLEGIBLE TEXT IN BOXES]
+Sign Here X
+Name (Joint Account Holder/Signer, Title, Capacity/Director, etc.): [Illegible]
+Sign Here X
+Name (Spouse): [Illegible]
+Sign Here X
+Name (Executor) [Illegible]
+Sign Here X
+
+Is this an existing account? [ ] yes [ ] no If yes, does this card replace all other cards against this account? [ ] yes [ ] no
+Signing instructions [Blank]
+
+15047
+SB1062192-F1
+5
+EFTA00022001
+
+## Structured Fields
+- **Organization:** JPMorgan Account, Freedom Air International Inc.
+- **Names:** Harry Beller, Jeffrey Epstein, Darren Indyk
+- **Document ID:** SB1062192-F1
+- **Page Number:** 5
+- **Case/Tracking ID:** EFTA00022001
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JPMorgan Account
+
+Account type
+[REDACTED]
+
+Account number
+[REDACTED]   [ ] [ ]
+
+Account type
+Account number
+[REDACTED]
+
+Month/Date/Year
+Social Security no. / Tax ID no. / Passport no.
+
+Account title
+Ghislaine Maxwell
+
+All Accountholders/Signers must sign this Signature Form exactly as the checks/instructions will be signed.
+
+Print (Account Holder/Signer, Trustee, Custodian, Director, etc.)
+Title
+Ghislaine Maxwell          SIGN HERE X             If facsimile signature, check here [ ]
+
+Print (Joint Account Holder/Signer, Trustee, Custodian, Director, etc.)
+Title
+SIGN HERE X                If facsimile signature, check here [ ]
+
+Print (other)
+Title
+If facsimile signature, check here [ ]
+
+Print (other)
+Title
+[REDACTED]
+
+Print (other)
+Title
+[REDACTED]
+
+Is this an existing account? [X] yes [ ] no    If yes, does this card replace all other cards against this account? [ ] yes [ ] no
+Signing instructions (Please use back of card if necessary)
+
+Account type Account number
+
+Account type Account number
+
+BAC #
+[REDACTED]   [ ] [ ]
+
+JPMorgan Account
+
+Account type    Account number
+
+Account type    Account number
+
+Month/Date/Year Social Security no. / Tax ID no. / Passport no.
+
+Account title
+All Accountholders/Signers must sign this Signature Form exactly as the checks/instructions will be signed.
+
+Print (Account Holder/Signer, Trustee, Custodian, Director, etc.) Title:
+Ghislaine Maxwell          SIGN HERE X               If facsimile signature, check here [ ]
+
+Print (Joint Account Holder/Signer, Trustee, Custodian, Director, etc.) Title:
+SIGN HERE X                If facsimile signature, check here [ ]
+
+Print (other)
+Title
+If facsimile signature, check here [ ]
+
+Print (other)
+Title
+[REDACTED]
+
+Print (other)
+Title
+SIGN HERE X                If facsimile signature, check here [ ]
+
+Is this an existing account? [X] yes [ ] no    If yes, does this card replace all other cards against this account? [ ] yes [ ] no
+Signing instructions (Please use back of card if necessary)
+
+SB1062192-F1                                          6
+EFTA00022002
+
+## Structured Fields
+- **Organization:** JPMorgan
+- **Name:** Ghislaine Maxwell
+- **Document ID:** SB1062192-F1
+- **Reference Code:** EFTA00022002
+- **Page Number:** 6
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+A1
+Comments
+[_________________________________________]
+Date[mmddyyyy]	Box Number		(Form Type = "CITADEL")
+02102010		[□ □ □ □ □ □ □ □ □ □]
+Doc Code Doc Code Doc Code Doc Code Account Numbers
+194 [ ] [ ] [ ] _________________________________________
+Account Numbers
+[REDACTED] ________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+_________________________________________________ ____________________________________________
+
+SB1062192-F1											7
+EFTA00022003
+
+## Structured Fields
+- **Date:** 02/10/2010
+- **Form Type:** CITADEL
+- **Doc Code:** 194
+- **Page Number:** 7
+- **Document ID:** SB1062192-F1
+- **Reference ID:** EFTA00022003
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+MAR-05-03 14:47 FROM:
+ID: 2127502408
+
+| The Morgan Account | JPMorgan Private Bank |
+| :--- | :--- |
+| Application: Signature Page | |
+
+**MORGAN USE ONLY**
+Title GHI SLAINE MAXWELL
+SPN [REDACTED]
+Primary CAS [REDACTED]
+Accounts Opened: [ ] ASSET [ ] FAAS [ ] BROK... [X] ODA? [ ] MMUA [ ] MARGIN
+
+THIS APPLICATION MUST BE COMPLETED BEFORE MORGAN WILL BE ABLE TO PROVIDE FINANCIAL SERVICES. IF ANY SECTION IS INCOMPLETE YOU WILL CONTACT ME TO OBTAIN ADDITIONAL INFORMATION. YOU WILL SEND ME A COMPLETED COPY OF THE APPLICATION. I MUST ALSO NOTIFY YOU OF ANY CHANGE IN THE INFORMATION IN THIS APPLICATION. ABSENT NOTIFICATION, THE INFORMATION CONTAINED IN THE APPLICATION WILL BE CONSIDERED COMPLETE AND CORRECT.
+
+| A | MORGAN AGREEMENT | The General Terms for Accounts and Services and Appendices along with this Application and all amendments and supplements to any of them in effect from time to time comprise the agreement between you and me. By signing this Application, I acknowledge that I have, or will read all the various documents but not limited to, the General Terms for Accounts and Services, Account Agreements, Rate Schedules, and Appendices, including Risk Disclosures, Supplemental Forms, and if applicable, Global Custody Account Agreement, which comprise the agreement between you and me. I further acknowledge that I will notify you immediately if I have any issues with the Agreement. Otherwise, I will be deemed to concur with this Agreement between you and me. I also agree that of the Accounts I am applying for is pledged as Collateral for all of my obligations. I acknowledge that I have read and consent to the terms of the JPMorgan Private Bank Privacy Policy, which describes in a manner in which my information is received and used, and that upon opening an account with JPMorgan Private Bank my client information will be used by one or more members of the JPMorgan Family of companies (as listed in the Policy) in order to make available to me all the products and services available through the JPMorgan Private Bank. I understand that you do not give tax or legal advice, and that I am advised to consult a tax Advisor about tax, legal, and estate-planning issues affecting my Accounts, including the accounts being titled. |
+| **B** | TAX CERTIFICATION | I CERTIFY AS THE ACCOUNTHOLDER SIGNING BELOW AND UNDER PENALTIES OF PERJURY THAT (1) THE NUMBER ENTERED ON THIS APPLICATION IS MY CORRECT TAXPAYER IDENTIFICATION NUMBER (OR I AM WAITING FOR A NUMBER TO BE ISSUED TO ME), AND (2) THAT I AM NOT SUBJECT TO BACK-UP WITHHOLDING BECAUSE: (A) I AM EXEMPT FROM BACK-UP WITHHOLDING, OR (B) I HAVE NOT BEEN NOTIFIED BY THE INTERNAL REVENUE SERVICE (IRS) THAT I AM SUBJECT TO BACK-UP WITHHOLDING AS A RESULT OF A FAILURE TO REPORT ALL INTEREST AND DIVIDENDS, OR (C) THE IRS HAS NOTIFIED ME THAT I AM NO LONGER SUBJECT TO BACK-UP WITHHOLDING, AND (3) I AM A U.S. PERSON (INCLUDING A U.S. RESIDENT ALIEN). I UNDERSTAND THAT IF I HAVE BEEN NOTIFIED BY THE IRS THAT I AM SUBJECT TO BACK-UP WITHHOLDING AS A RESULT OF DIVIDEND OR INTEREST UNDERREPORTING, AND I HAVE NOT RECEIVED A NOTICE FROM THE IRS ADVISORY OF TERMINATION OF BACK-UP WITHHOLDING IS TERMINATED, I MUST STRIKE OR CROSS OUT THE INFORMATION CONTAINED IN ITEM 2 IN THIS PARAGRAPH. THE IRS DOES NOT REQUIRE CONSENT TO ANY PROVISION OF THIS DOCUMENT OTHER THAN THE CERTIFICATION REQUIRED TO AVOID BACK-UP WITHHOLDING. LIMITED LIABILITY COMPANIES ONLY - FOR FEDERAL TAX PURPOSES IF THE MEMBERS HAVE CHOSEN TO BE CLASSIFIED AS AN ASSOCIATION TAXABLE AS A CORPORATION YOU MUST CHECK THE BOX TO THE LEFT OF THE WORD EXEMPT TO BE EXEMPT FROM BACKUP WITHHOLDING ON INTEREST AND DIVIDEND PAYMENTS. OTHERWISE, THIS CLASSIFICATION WILL BE DISREGARDED TO A PARTNERSHIP OR AS A SINGLE OWNER DISREGARDED AS AN ENTITY SEPARATE FROM ITS OWNERS. [ ] EXEMPT (CLASSIFIED AS AN ASSOCIATION TAXABLE AS A CORPORATION). |
+| **C** | ACCOUNTS OPENED | I HAVE APPLIED TO OPEN THE FOLLOWING ACCOUNTS: [ ] Asset [ ] Brokerage [ ] Investment Management [X] Deposit [ ] Custody |
+| **D** | PRE-DISPUTE ARBITRATION | By signing below, I acknowledge my agreement to arbitrate any controversies arising out of the Morgan Brokerage Agreements with JPMSL in accordance with paragraph 6 of the Brokerage Agreement. |
+
+| | SIGN HERE [X] | ALL ACCOUNTHOLDERS ARE REQUIRED TO SIGN BELOW: IF SIGNATURES ARE ON BEHALF OF ENTITY ACCOUNTHOLDER, PLEASE SPECIFY NAME OF ENTITY |
+| :--- | :--- | :--- |
+| | [X] Signature (Accountholder) | Date Print Name GHISLAINE MAXWELL |
+| | [X] Signature (Additional Accountholder) | Date Print Name |
+| | [X] Signature (Additional Accountholder) | Date Print Name |
+| | [X] Signature (Additional Accountholder) | Date Print Name |
+
+Rcnf MAR 05 '03 14:50
+** TOTAL PAGE 389 **
+2127502408 -PAGE 6-
+
+SB1062192-F1 8
+
+EFTA00022004
+
+## Structured Fields
+- **Date:** MAR 05 '03 (March 5, 2003)
+- **Document ID:** SB1062192-F1
+- **Page Number:** 8
+- **Account Holder Name:** Ghislaine Maxwell
+- **Organization:** JPMorgan Private Bank, The Morgan Account
+- **Internal ID:** 2127502408
+- **Fax Timestamp:** MAR-05-03 14:47 / 14:50
+- **Accounts Applied To Open:** Deposit (Checked)
+- **Title:** [Redacted/Illegible] (Likely related to existing client status)
+- **SPN:** [REDACTED]
+- **Primary CAS:** [REDACTED]
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JPMorgan Account
+194
+Account Type          Account Number
+Account Type          Account Number
+Member Date/Time     Social Security no / Tax ID no / Passport no
+Account Name         Hyperion Air
+Print (Account Holder Name)  Signature               [REDACTED] X      [ILLEGIBLE]
+Print (Account Holder Name)  Signature               [REDACTED] X      [ILLEGIBLE] Jeffrey Epstein
+Print (Account Holder Name)  Signature               [REDACTED] X      [ILLEGIBLE] Debra Dudyka
+[REDACTED]           [REDACTED]
+
+JPMorgan Account
+Account Type          Account Number
+Account Type          Account Number
+Member Date/Time     Social Security no / Tax ID no / Passport no
+Print (Account Holder Name)  Signature               [REDACTED] X      [ILLEGIBLE]
+Print (Account Holder Name)  Signature               [REDACTED] X      [ILLEGIBLE]
+Print (Account Holder Name)  Signature               [REDACTED] X      [ILLEGIBLE]
+Print (Account Holder Name)  Signature               [REDACTED] X      [ILLEGIBLE]
+Is this an existing account?    Yes   No   If yes, does the card replace all other cards against this account?    Yes    No
+Signing instructions (Please use back of Card if necessary)
+
+3061
+
+SB1062192-F1                                              9
+EFTA00022005
+
+## Structured Fields
+- **Organization:** JPMorgan (Account Holder)
+- **Names:** Harry Beller, Jeffrey Epstein, Debra Dudyka
+- **Account Name:** Hyperion Air
+- **Document ID:** SB1062192-F1
+- **Page/Ref:** 194, 3061, 9
+- **Case/File Ref:** EFTA00022005
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+CLIDPCS
+Tracking ID
+0827201213863
+Submitted By: TIMOTHY ANDREWS (U709412)
+Document Codes: 194
+ECL Numbers:
+Account Numbers: 000000739474322
+SB1062192-F1                                                10
+EFTA00022006
+
+## Structured Fields
+*   **Name:** TIMOTHY ANDREWS
+*   **ID Number:** U709412
+*   **Document Code:** 194
+*   **Account Number:** 000000739474322
+*   **Tracking ID:** 0827201213863
+*   **Page Number:** 10
+*   **Reference ID:** SB1062192-F1
+*   **EFT Reference:** EFTA00022006
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+The Chase Manhattan Bank
+CHASE                                          BUSINESS SIGNATURE CARD
+                                               BRANCH COPY
+
+CARD COMPLETION DATE          ACCOUNT NUMBER                   BAC/PROFIT CENTER
+7/17/02                        [REDACTED]                       0134
+
+DATE ACCOUNT OPENED           ACCOUNT TITLE ("DEPOSITOR")
+                               MAY HOTELS SERVICES CORP
+
+TAXPAYER IDENTIFICATION NUMBER   NUMBER OF SIGNATURES REQUIRED      POA?
+[REDACTED]                       CHECKS [1]        NOTES [1]       YES [ ] NO [x]
+
+The Depositor certifies that it has reviewed the information contained in this Signature Card and the Business Account Application and finds it accurate on this date. The Depositor has received and agrees to the Terms and Conditions for Business Accounts and the Business Banking Card Agreement currently in effect and as may be amended for the type of account and services it has selected. The Depositor certifies that the (No.) signature(s) presented below, including reverse side, is/are the signature(s) of the person(s) authorized to sign and/or act with respect to account transactions.
+
+LINE OUT UNUSED SIGNATURE BOXES
+PRINTED NAME                    TITLE                            SIGNATURE
+DARREN R. INDYKE                PRESIDENT                        [Signature: Darren Indyke]
+GHISLAINE MAXWELL               VICE PRES                        [Scribble/Signature]
+[Lines]                         [X]
+[Lines]                         [X]
+
+Under the penalty of perjury, the Depositor certifies (1) that the number shown on this form is its correct taxpayer identification number and (2) that the Depositor is not subject to backup withholding either because: (a) it is exempt from backup withholding, or (b) it has not been notified that it is subject to backup withholding as a result of a failure to report all interest or dividends, or (c) the Internal Revenue Service has notified it that the Depositor is no longer subject to backup withholding. (If the Depositor has in fact been notified by the IRS that it is subject to backup withholding due to notified payee underreporting, please strike out the appropriate phrase within the certification.)
+
+[Signature: Darren Indyke]                  Date: 7/17/02
+      Signature                           Signature
+
+THIS SECTION FOR CORPORATIONS ONLY
+The undersigned Secretary of the Corporation hereby certifies that the above signatures are the signatures of persons authorized to sign and/or act on the Corporation's behalf with respect to account transactions.
+
+Secretary [Scribble]                                          Date: 7/17/02
+[ ] Check here if there are additional account signers on reverse side of BRANCH COPY.
+THE ABOVE INFORMATION AND (NO.) SIGNATURE(S) WERE VERIFIED BY:
+Print Name TJACKSON                    Initials TJ                      Dept. No./Br. No.: 134
+
+Retain card in branch for one year after account closes. Then send to Pawling for additional retention of five years.
+039020* (4-00)                                                                 BRANCH COPY - DO NOT SEND TO CHECK REVIEW
+
+SB1062192-F1                                                                     11
+EFTA00022007
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+CHECK ACCOUNT ARRANGEMENT: [ ] Corporation [ ] Partnership [ ] Municipality [ ] Unincorporated Association [ ] Sole Proprietorship [ ] Estate [ ] Other ________________
+CHECK ACCOUNT TYPE: [ ] Checking [ ] Checking with Interest [ ] MMA [ ] Savings
+
+ADDITIONAL ACCOUNT SIGNERS - LINE OUT UNUSED SIGNATURE BOXES
+| PRINTED NAME | TITLE | SIGNATURE |
+|---|---|---|
+| | | X |
+| | | X |
+| | | X |
+| | | X |
+| | | X |
+
+COMPLETE ADDITIONAL CARD TOP(S) IF THERE ARE MORE THAN NINE (9) SIGNERS (EXCLUDING POA) ON THE ACCOUNT.
+
+POWER OF ATTORNEY INFORMATION (Not valid for Corporations and Municipalities) | DATE POWER OF ATTORNEY RECEIVED __/__/__
+POWER OF ATTORNEY NAME _________________________________________________________ | POWER OF ATTORNEY SIGNATURE X _______________________________
+ADDRESS (Street and Number) ____________________________________________________________________
+CITY _________ STATE ________ ZIP CODE ________
+
+Check Imaging or No Checks With Statement: The Depositor authorizes you not to return paid checks with its account statements. If the Depositor selected the Check Imaging option, the Depositor agrees to receive images (front only) of its paid checks. The Depositor agrees that the account statement will contain information about each check paid, including check number, dollar amount and date paid, thereby enabling a proper reconciliation of the account. Upon request, photocopies of checks will be provided. You will not retain original checks.
+
+| PRINTED NAME | TITLE | SIGNATURE |
+|---|---|---|
+| | | |
+
+THIS SECTION FOR CORPORATIONS ONLY
+The undersigned Secretary of the Corporation hereby certifies that the above signatures are the signatures of persons authorized to sign and/or act on the Corporation's behalf with respect to account transactions.
+Secretary X __________________________________________________________ Date: _______________
+
+THE ABOVE INFORMATION AND (NO.) __________________ SIGNATURE(S) (POA AND ADDITIONAL SIGNERS) WERE VERIFIED BY:
+Print Name _________ Initials _________ Dept No/Br No.: _______
+
+Retain card in branch for one year after account closes. Then send to Pawling for additional retention of five years.
+039020* (4-00) BRANCH COPY - DO NOT SEND TO CHECK REVIEW
+
+SB1062192-F1 12 EFTA00022008
+
+## Structured Fields
+- **Document ID**: SB1062192-F1
+- **Image/Record ID**: EFTA00022008
+- **Form Number**: 039020* (4-00)
+- **Page Number**: 12
+- **Section Title**: POWER OF ATTORNEY INFORMATION
+- **Disclaimer**: Not valid for Corporations and Municipalities
+- **Note Text**: Retain card in branch for one year after account closes. Then send to Pawling for additional retention of five years.
+- **Footer Instruction**: BRANCH COPY - DO NOT SEND TO CHECK REVIEW
+- **Checkbox Options**: Corporation, Sole Proprietorship, Partnership, Estate, Municipality, Unincorporated Association, Other, Checking, MMA, Checking with Interest, Savings
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Jul 27-2011 02:34 PM JPMorgan Chase 302-634-9555
+7/13
+
+JPMorgan Account.
+Account Type   Account number
+[ ]            [ ][ ][ ][ ][ ][ ][ ][ ]
+Account type   Account number
+[ ]            [ ][ ][ ][ ][ ][ ][ ][ ] BAC # [ ][ ][ ]
+
+All Account holders/Signers must sign this Signature form exactly as the checks/instructions will be signed.
+
+Ghislaine Maxwell
+SIGN HERE    (Signature)
+______________      SIGN X
+______________      SIGN X
+______________      SIGN X
+______________      SIGN X
+
+Is this an existing account? yes no     If yes, does this card replace all other cards against this account? yes no
+Signing Instructions (Please use back of card if necessary.)
+
+JPMorgan Account
+Account Type   Account number
+[ ]            [ ][ ][ ][ ][ ][ ][ ][ ]
+Account type   Account number
+[ ]            [ ][ ][ ][ ][ ][ ][ ][ ] BAC # [ ][ ][ ]
+
+All Account holders/Signers must sign this Signature form exactly as the checks/instructions will be signed.
+
+SIGN X
+______________
+SIGN X
+______________
+SIGN X
+______________
+SIGN X
+______________
+
+Is this an existing account? yes no     If yes, does this card replace all other cards against this account? yes no
+Signing Instructions (Please use back of card if necessary.)
+
+SB1062192-F1                                        13
+EFTA00022009
+
+## Structured Fields
+- Date: Jul 27-2011
+- Organization: JPMorgan Chase, JPMorgan Account
+- Name: Ghislaine Maxwell
+- Document ID: SB1062192-F1
+- Reference Code: EFTA00022009
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+A1
+[Black Bars]
+Comments
+[_________________________________]
+Date[mmddyyyy]      Box Number     Form Type = "CITADEL"
+07272011             [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Doc Code Doc Code    Doc Code Doc Code Account Numbers
+194                  [ ]   [ ]       [ ]      [_________________________________]
+Account Numbers                                            [_________________________________]
+[REDACTED]                                                 [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+[_________________________________]                                      [_________________________________]
+
+SB1062192-F1                                        14
+EFTA00022010
+
+## Structured Fields
+- **Date:** 07/27/2011
+- **Doc Code:** 194
+- **Form Type:** CITADEL
+- **Document ID:** SB1062192-F1
+- **Page Number:** 14
+- **Bates Number:** EFTA00022010
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Apr-12-2012 04:44 PM JPMorgan Chase 102-534-5955
+-7/11
+JPMorgan Account
+April 12, 2012
+TerraMar Project, Inc.
+All Authorized Signers must sign the signature form exactly in the individual accounts will be signed.
+Ghielaine Maxwell Chairman
+[REDACTED]
+[ILLEGIBLE]
+X
+SIGNATURE
+X
+SIGNATURE
+X
+SIGNATURE
+X
+SIGNATURE
+If [ILLEGIBLE] signature, check box.
+If [ILLEGIBLE] signature, check box.
+If [ILLEGIBLE] signature, check box.
+If [ILLEGIBLE] signature, check box.
+
+JPMorgan Account
+Account Type Account Number:
+[REDACTED]
+Account Type Account Number:
+[REDACTED]
+[REDACTED]
+All Authorized Signers must sign the signature form exactly in the individual accounts will be signed.
+[ILLEGIBLE]
+SIGNATURE
+X
+SIGNATURE
+X
+SIGNATURE
+X
+SIGNATURE
+X
+If [ILLEGIBLE] signature, check box.
+If [ILLEGIBLE] signature, check box.
+If [ILLEGIBLE] signature, check box.
+If [ILLEGIBLE] signature, check box.
+
+## Structured Fields
+- **Date:** Apr 12, 2012 / April 12, 2012
+- **Organization:** JPMorgan Chase, TerraMar Project, Inc.
+- **Name:** Ghielaine Maxwell
+- **Title:** Chairman
+- **Doc ID:** SB1062192-F1
+- **Fax Header:** 102-534-5955
+- **Page Number:** 15
+- **Reference ID:** EFTA00022011
+- **Handwritten Note:** 194
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+A1
+
+Comments
+
+Date[mmddyyyy]           Box Number                              Form Type = "CITADEL"
+04272012                   [ ][ ][ ][ ][ ][ ][ ][ ][ ]
+
+Doc Code Doc Code         Doc Code  Doc Code      Account Numbers
+194    [     ] [     ] [     ]    [                       ]
+
+Account Numbers
+[REDACTED] [             ]    [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+[           ]            [                 ]
+
+SB1062192-F1                                        16
+
+EFTA00022012
+
+## Structured Fields
+*   **Date:** 04/27/2012 (mmddyyyy format: 04272012)
+*   **Form Type:** CITADEL
+*   **Document ID / Footer ID:** SB1062192-F1
+*   **Page Number:** 16
+*   **System/Reference ID:** EFTA00022012
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Apr 12, 2012 04:44 PM JPMorgan Chase 305-636-5955                                    -7/11
+
+JPMorgan Account
+April 23, 2012.
+[REDACTED]
+Account Type
+[REDACTED]
+
+Name/Given Name: TerraMar Project, Inc.
+
+All Accounts/Authority Signer(s) must sign the Signature form exactly as the individual account owner will be signed...
+Name (Given/Last/Family Name, Title, Division, Office, etc.): Ghislaine Maxwell Chairman
+[Signature/Initial] X
+[Scribbled signature/stamp] if facsimile signature, check box [ ]
+
+Pres. Direct Account Signer, Officer, Controller, Director, etc.: [ILLEGIBLE]
+Pres. (Title): [ILLEGIBLE]
+Sign: [ILLEGIBLE]
+[Signature/Initial] X
+[Scribbled signature/stamp] if facsimile signature, check box [ ]
+
+Pres. Officer*: [ILLEGIBLE] Sign: [ILLEGIBLE]
+[Signature/Initial] X
+[Scribbled signature/stamp] if facsimile signature, check box [ ]
+
+Pres. Account [ILLEGIBLE] Title: [ILLEGIBLE]
+Sign: [ILLEGIBLE]
+[Signature/Initial] X
+[Scribbled signature/stamp] if facsimile signature, check box [ ]
+
+Is this an existing account? Yes No If yes, does the card replace all other cards for this account? Yes No
+Signing instructions (Please use back of form if necessary)
+
+JPMorgan Account
+Account Type Account Number:
+[Box] [Box] [Box] [Box] [Box] [Box]
+Account Type Account Number:
+[Box] [Box] [Box] [Box] [Box] [Box] DTC #
+[Box] [Box] [Box] [Box] [Box] [Box]
+
+All Accounts/Authority Signer(s) must sign the Signature form exactly as the individual account owner will be signed...
+Name (Given/Last/Family Name, Title, Division, Office, etc.): [ILLEGIBLE] SIGNATURE/INITIAL X if facsimile signature, check box [ ]
+Pres. Direct Account Signer, Officer, Controller, Director, etc.: [ILLEGIBLE] SIGNATURE/INITIAL X if facsimile signature, check box [ ]
+Pres. (Title): [ILLEGIBLE] SIGNATURE/INITIAL X if facsimile signature, check box [ ]
+Pres. Account [ILLEGIBLE] Title: [ILLEGIBLE] SIGNATURE/INITIAL X if facsimile signature, check box [ ]
+
+Is this an existing account? Yes No If yes, does the card replace all other cards for this account? Yes No
+Signing instructions (Please use back of form if necessary)
+
+194
+
+SB1062192-F1 17 EFTA00022013
+
+## Structured Fields
+- **Date:** April 23, 2012 / Apr 12, 2012 (Fax date)
+- **Organization:** JPMorgan Chase, TerraMar Project, Inc.
+- **Name:** Ghislaine Maxwell
+- **Title:** Chairman
+- **Document ID:** SB1062192-F1
+- **Page Number:** 17
+- **Reference Code:** EFTA00022013
+- **Handwritten Note:** 194
+

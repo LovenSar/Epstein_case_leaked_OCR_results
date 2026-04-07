@@ -1,0 +1,270 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015140.pdf ts=2026-03-12T13:14:03 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the first page of a formal document titled "Additional Inquiry Response," issued by the Federal Bureau of Investigation (FBI) and associated with the New York State Division of Criminal Justice Services. The document features a standard header layout with contact information for the Albany, NY office. A significant portion of the document is obscured by large black rectangular redaction blocks, likely hiding the subject's name, birth date, and specific criminal record details.
+
+The text is organized into distinct sections separated by horizontal lines or asterisk-heavy dividers. Below a section labeled "Introduction," there is a paragraph detailing legal caveats regarding the use of the "rap sheet." The document specifies that it contains Florida information only and references specific Florida statutes regarding expungement and sealing. A second large black box obscures what would be the identification section at the bottom. The footer indicates this is page 1 of 10 and includes a Bates number (EFTA00015140).
+
+## Visible Text (verbatim)
+**Header Section:**
+- "10/6/21, 12:42 PM" (Top Left)
+- "III/FBI/State Delayed Response" (Top Center)
+- "Additional Inquiry Response" (Title in Bold)
+- "ORI: NYFBINY00" (Red/Pink text)
+- "Federal Bureau of Investigation - New York" (Red/Pink text)
+- "New York State Division of Criminal Justice Services"
+- "Alfred E. Smith Building, 80 South Swan St."
+- "Albany, New York 12210. Tel:1-800-262-DCJS"
+- "Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services"
+
+**Body Section III:**
+- "III Information" (with a small icon)
+- "ADDITIONAL SENTENCING INFORMATION MAY BE AVAILABLE FROM ORIGINATING AGENCY"
+- ".********************* CRIMINAL HISTORY RECORD **********************"
+- "******************* Introduction ***********************"
+
+**Caveats Text:**
+- "The information in this rap sheet is subject to the following caveats:"
+- "This record contains Florida information only. When explanation of a charge or disposition is needed, communicate directly with the agency that contributed the record information. (; 2021-10-06)"
+- "This record may only be used for the purpose requested as defined by the Code of Federal Regulations and/or Florida Statute. (; 2021-10-06)"
+- "** Expunged pursuant to Florida Statute(s) 943.0515 ** (; 2021-10-06)"
+- "** Sealed pursuant to Florida Statute(s) 943.0595 ** (; 2021-10-06)"
+- "This is a single-source offender record. (; 2021-10-06)"
+
+**Body Section Identification:**
+- "IDENTIFICATION" (centered between asterisks)
+
+**Footer:**
+- "1/10" (Bottom Right)
+- "EFTA00015140" (Bottom Far Right)
+
+## Notable Details / Clues
+- **Redaction Strategy:** Two massive black bars are placed strategically: one immediately under the "III Information" header and another covering the entire space under the "IDENTIFICATION" header, effectively hiding the core data of the record.
+- **Jurisdictional Overlap:** While the letterhead claims to be FBI/New York State, the internal text explicitly states "This record contains Florida information only," suggesting this document is a federal compilation or addendum pulling records from a specific state database (likely regarding fugitives or background checks).
+- **Statutory References:** The text cites specific Florida statutes: 943.0515 (expungement) and 943.0595 (sealing), indicating the legal status of certain entries in the history record.
+- **Single Source Record:** A specific note identifies this as a "single-source offender record," implying it wasn't compiled from multiple jurisdictions at the time of entry, but rather represents a single pull or contribution.
+- **Document Age:** The timestamp and internal dates (2021-10-06) indicate this document was generated in late October 2021.
+- **Formal Tone:** The language is bureaucratic and legalistic ("caveats," "disposition," "pursuant to"), typical of law enforcement records used for employment or travel vetting.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a page from a formal document, likely a law enforcement background check report, which has been heavily redacted with large black bars. The layout is divided into two primary sections by a text header.
+
+*   **Top Section:** The upper portion of the page is dominated by a massive, solid black rectangle that obscures the main body of the form. This area likely contained fingerprint images or specific identification data related to the case date visible in the header. Just below the bottom edge of this black box, a faint line of text is partially visible before the next section begins.
+*   **Middle Section (Header):** Separating the top redacted block from the bottom one is a distinct header line formatted with asterisks. This line introduces the second major redaction area. The text reads "CRIMINAL HISTORY".
+*   **Bottom Section:** Below the "CRIMINAL HISTORY" header is a second, equally large solid black rectangle. This block obscures what would typically be the specific criminal record entries or case notes associated with that section of the report. The content here is completely hidden by the black fill.
+
+## Visible Text (verbatim)
+- **Top Left Corner:** "10/6/21, 12:42 PM"
+- **Top Center/Header:** "III/FBI/State Delayed Response"
+- **Gap Text (faint):** "(No DNA DATA TRANSMITTED - )"
+- **Section Divider Header:** "************** CRIMINAL HISTORY *******************"
+- **Bottom Right Corner (Page Number):** "2/10"
+- **Absolute Bottom Right Corner (ID Code):** "EFTA00015141"
+
+## Notable Details / Clues
+*   **Document Type Identification:** The ID code "EFTA00015141" indicates this is an Electronic Fingerprint Transmission Application document, specifically the FBI response form. EFTAs are standard for submitting fingerprints to the FBI and state bureaus.
+*   **Data Privacy/Redaction:** The two massive black rectangles serve as redactions. This suggests that while the metadata (date, time, ID number) is preserved, the actual biometric data (fingerprints) or specific criminal case numbers within those blocks have been intentionally obscured, likely for privacy compliance or to show a template rather than the specific content of a real case.
+*   **FBI Formatting:** The header "III/FBI/State Delayed Response" indicates that this is page 3 (implied by Roman numeral III in the sequence, though page numbers usually start at 1) or section III of a multi-part response packet where information was returned with a delay.
+*   **DNA Status:** The faint text "(No DNA DATA TRANSMITTED)" is a standard feature in FBI fingerprint reports, indicating whether DNA profiles (CODIS) were associated with the fingerprint submission. Its presence here is significant as it confirms the nature of the digital form used for these submissions.
+*   **Date Context:** The timestamp "10/6/21" places this document in 2021 (October 6th).
+*   **Sequence Indicator:** The page number "2/10" suggests this is a multipart form, consisting of at least 10 pages in total. The "II/FBI/State..." or similar headers usually denote the sequence of the response sections.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical composition dominated by a large, solid black rectangle that occupies the vast majority of the frame, resembling a redacted document page viewed in a PDF viewer or document management system.
+
+-   **Visual Structure:** The central area is completely obscured by a black block, suggesting that sensitive information has been digitally redacted or blurred out.
+-   **Top Header Area:** At the very top edge, just above the black rectangle, there are two distinct lines of small text against a white background.
+-   **Bottom Corner Details:** In the bottom right corner, outside the main black area but inside the document frame, is a page number indicator. Further down in the absolute bottom right corner of the image file itself is a Bates number or identifier.
+-   **Contextual Imagery:** The visual language implies an official government or legal document that has been processed for public release or internal review, where specific content was masked to protect privacy or classify information.
+
+## Visible Text (verbatim)
+-   Top Left: "10/6/21, 12:42 PM"
+-   Top Center: "III/FBI/State Delayed Response"
+-   Bottom Right (inside black box): "3/10"
+-   Bottom Right (outside): "EFTA00015142"
+
+## Notable Details / Clues
+-   **Timestamp:** The text "10/6/21, 12:42 PM" indicates the date and time of the document's generation or last save, which is October 6th, 2021.
+-   **Agency Identification:** The header "III/FBI/State Delayed Response" explicitly links the document to the Federal Bureau of Investigation (FBI) and references a specific procedural status ("Delayed Response"), likely referring to a subpoena response or information request.
+-   **Page Numbering:** The text "3/10" near the bottom right suggests this is page 3 of a 10-page document set.
+-   **Redaction Marker:** The large black void is a standard visual convention for "redaction," used to hide names, dates, locations, or classified information from public view while maintaining the document's structure.
+-   **Document Identifier:** The alphanumeric string "EFTA00015142" is a Bates number, a unique identifier used in legal discovery and court proceedings to track specific pages of documents.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The primary focus of this image is an almost entirely black rectangular shape that dominates the frame, suggesting a completely opaque object or a significant area of darkness obscuring whatever lies beneath. To the immediate right of this black rectangle is a narrow strip of white space, indicating the edge of the page or document on which the black shape is printed. In the very top left corner, small white text displays a timestamp reading "10/6/21, 12:42 PM". Centered at the top, also in small white text, is a label that appears to categorize or title the page as "III/FBI/State Delayed Response". In the bottom right corner of the black area itself, very faint white numerals read "4/10", likely indicating a page number or sequence. Below the black rectangle and outside its boundary in the white margin, there is a document identifier code "EFTA00015143" printed in the bottom right corner. The overall impression is that of a redacted page from an official document or report, where sensitive information has been covered in solid black ink to protect privacy or classified content.
+
+## Visible Text (verbatim)
+- **Top Left:** "10/6/21, 12:42 PM"
+- **Top Center:** "III/FBI/State Delayed Response"
+- **Bottom Right (on black area):** "4/10"
+- **Bottom Right (below black area):** "EFTA00015143"
+
+## Notable Details / Clues
+*   **Redaction:** The massive black box is a clear indicator of redaction, commonly used in government documents to hide names, dates, locations, or other sensitive details.
+*   **FBI Reference:** The text "III/FBI/State Delayed Response" explicitly links the document to the Federal Bureau of Investigation (FBI), suggesting this is an internal report, a subpoena response, or a classified file related to state-level investigations.
+*   **Date Context:** The date stamp "10/6/21" places the redaction event in October 2021, which would be relevant if investigating past events occurring around that time or earlier.
+*   **Page Numbering:** The "4/10" suggests this is a multi-page document set (perhaps page 4 of 10), implying the full redacted section might span several pages.
+*   **Document ID:** The code "EFTA00015143" serves as a unique tracking number, likely for legal discovery or Freedom of Information Act (FOIA) requests, where every document needs a specific reference number.
+*   **Opacity:** The black fill is uniform and devoid of texture, suggesting digital redaction software rather than hand-drawn masking tape, which further supports the idea that this is a scanned PDF of a digital file.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a tall, portrait-oriented rectangular frame dominated by a solid, uniform black field that occupies approximately 95% of the visual space. This black area suggests a redacted section of a document or a complete lack of image data in the center region. Framing this central void are narrow white margins at the top and bottom containing small, legible text elements. The overall composition is stark and high-contrast, with no gradients, shadows, or internal details visible within the main body, indicating a digital suppression of content or a printing error. The image appears to be a captured page from a scanned document or a PDF viewer, characterized by thin white borders surrounding the primary content area.
+
+## Visible Text (verbatim)
+*   Top Left Corner: "10/6/21, 12:42 PM"
+*   Top Center Header: "III/FBI/State Delayed Response"
+*   Bottom Right Corner: "EFTA00015144"
+
+## Notable Details / Clues
+*   **Document Classification:** The header text "III/FBI/State Delayed Response" strongly implies this is a government or law enforcement related document, specifically one that involves the FBI and potentially states.
+*   **Redaction Evidence:** The large black rectangle is characteristic of "blacked out" content found in legal depositions or public records where sensitive information has been redacted for privacy or security reasons.
+*   **Date Stamping:** The timestamp "10/6/21" corresponds to October 6th, 2021, placing the document's creation or processing date in that specific year.
+*   **Metadata Identifier:** The code "EFTA00015144" resembles a Bates number or a unique tracking ID used by agencies like the FBI (EFTA might refer to Electronic Field Training Academy or similar internal coding) to index documents.
+*   **Time of Processing:** The time "12:42 PM" suggests the document was processed, scanned, or generated at noon on that specific date.
+*   **Layout Standardization:** The placement of text in the header and footer is consistent with standard document management software used by federal agencies to track page progression (likely page 1 given the lack of a page number, though only "I" is visible in the header sequence).
+*   **Lack of Imagery:** Aside from the text overlays, there are no photographs, charts, tables, or signatures visible, reinforcing the idea that the core content of this page has been removed.
+*   **Header Sequence:** The Roman numeral "III" in the header suggests this is the third page of a larger multi-page document set.
+*   **Visual Noise:** There is zero visual noise within the black field; it is mathematically solid, indicating digital masking rather than smudging or fading ink.
+*   **Footer Placement:** The ID code is positioned flush to the right edge and bottom margin, a standard convention for database exports.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document page that is almost entirely obscured by a large, solid black rectangle, indicating redaction or a blank page. At the very top left corner, outside the black area, a timestamp reads "10/6/21, 12:42 PM". Centered at the top edge, above the black box, is the header text "III/FBI/State Delayed Response". Inside the black rectangle, near the bottom right corner, small gray text indicates page numbering as "6/10". Outside the main image area in the bottom right white margin, a file tracking number or Bates stamp is visible: "EFTA00015145".
+
+## Visible Text (verbatim)
+*   **Top Left Header:** 10/6/21, 12:42 PM
+*   **Top Center Header:** III/FBI/State Delayed Response
+*   **Footer Number:** 6/10
+*   **Bottom Right ID:** EFTA00015145
+
+## Notable Details / Clues
+*   **Redaction Status:** The primary content is completely blacked out, suggesting either sensitive information removal or a technical error in scanning.
+*   **Official Classification:** The header "III/FBI/State Delayed Response" indicates this document was likely routed between federal and state agencies regarding a delayed official response.
+*   **Document Sequence:** The "6/10" marking confirms this is the sixth page of a ten-page set.
+*   **Date Context:** The date 10/6/21 aligns with the specific timeframe of initial FBI document releases.
+*   **File Identifier:** The string "EFTA" in the bottom right corner serves as a unique identifier for digital archiving, often associated with leaked or released government documents.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document record, likely from a federal background check system (indicated by "FBI" in the header), which features a significant redaction or error block obscuring the majority of the page.
+
+*   **Layout:** The document is oriented vertically with a standard white paper background at the very top and bottom borders.
+*   **Central Obstruction:** A massive, solid black rectangle dominates the center of the frame, extending from just below the header text down to the bottom edge of the visible content area. This indicates that the primary content (likely an individual's personal information or specific case details) has been digitally redacted for privacy or access reasons.
+*   **Header Section:** Located at the very top is a metadata strip. On the far left, a timestamp reads "10/6/21, 12:42 PM". To the right of that, a system status label reads "III/FBI/State Delayed Response".
+*   **Metadata Above Redaction:** Just above the solid black area, two lines of text describe the nature of the legal record. The first line is labeled "Severity" with the value "Misdemeanor". Directly below that, a second line is labeled "Disposition".
+*   **Redaction Delineation:** A series of horizontal dashes forms a border immediately beneath the "Disposition" text, visually separating the metadata from the redacted content below.
+*   **Footer Section:** In the extreme bottom right corner, outside the main black block area, there is an alphanumeric identifier string used for internal tracking or retrieval purposes.
+
+## Visible Text (verbatim)
+*   Top Left: "10/6/21, 12:42 PM"
+*   Top Right: "III/FBI/State Delayed Response"
+*   Column Header Row 1: "Severity Misdemeanor"
+*   Column Header Row 2: "Disposition (Guilty/Convicted 2012-01-18; Same)"
+*   Bottom Right ID: "EFTA00015146"
+
+## Notable Details / Clues
+*   **Document Origin:** The text "III/FBI/State Delayed Response" strongly suggests this is a CPIC (Computerized Photo Identification Center) or NGI (Next Generation Identification) background check response retrieved from the FBI.
+*   **Nature of Offense:** The visible text reveals the severity level is a "Misdemeanor," which is less severe than a felony.
+*   **Legal Status:** The disposition indicates a "Guilty/Convicted" status, confirming the legal action was successful against the individual in question.
+*   **Date of Conviction:** The specific date associated with the conviction or charge resolution visible above the black box is January 18, 2012 ("2012-01-18").
+*   **"Same" Indicator:** The text "(Guilty/Convicted 2012-01-18; Same)" implies that there may have been multiple charges or the status was identical to a previously listed entry, hence "Same".
+*   **System Latency:** The label "Delayed Response" at the top suggests this retrieval might be part of an automated batch process or an error state where information was not immediately available, possibly leading to the redaction or blank space if data failed to load.
+*   **Redaction Extent:** The black area is nearly 100% of the document's visible height, suggesting that the core content (names, dates of birth, specific charge codes, jail numbers) has been completely blocked out.
+*   **Internal Tracking Number:** The string "EFTA00015146" at the bottom right is likely a unique identifier for the response record within the FBI's internal database or a case management system.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document that appears to be heavily redacted or containing a blank, black-filled section. The overall layout mimics a standard page from an official report or database export.
+
+*   **Central Area:** The vast majority of the frame is occupied by a solid black rectangle that obscures any underlying content. This suggests sensitive information has been redacted.
+*   **Top Left Header:** Small text in the top left corner displays a timestamp reading "10/6/21, 12:42 PM", indicating the date is October 6th of the year 2021.
+*   **Top Center Header:** Centered at the very top is the title "III/FBI/State Delayed Response". This text indicates the document is likely a report regarding incidents involving delayed responses between federal (FBI) and state agencies, specifically for section III or page III of a larger series.
+*   **Bottom Left Footer:** At the bottom left, two lines of text are visible. The first reads "Prosecutor Disposition (Cycle 010)". The line immediately below it reads "Prosecutor Agency". This suggests the document is tracking how prosecutors handle cases, likely in an automated batch or cycle.
+*   **Bottom Right Footer:** Near the bottom right edge, above the very lowest margin, is the page number "8/10", indicating this is the eighth page of a ten-page document.
+*   **Document ID:** In the absolute bottom right corner, outside the main content box, is an alphanumeric string: "EFTA00015147". This is likely an Electronic Field Transfer Agent (EFTA) control number used for case tracking in law enforcement data exchanges.
+*   **Contextual Clues:** The combination of "FBI," "Prosecutor," and "Delayed Response" strongly implies a government report, possibly involving criminal investigations or administrative reviews of agency performance.
+
+## Visible Text (verbatim)
+10/6/21, 12:42 PM
+III/FBI/State Delayed Response
+Prosecutor Disposition (Cycle 010)
+Prosecutor Agency
+8/10
+EFTA00015147
+
+## Notable Details / Clues
+*   **Redaction:** The central black block is almost certainly a redaction layer, commonly used in public records to hide names, addresses, or specific evidence before release.
+*   **Agency Connection:** The text "FBI/State" confirms inter-agency collaboration between federal and state levels.
+*   **Automated Reporting:** The "(Cycle 010)" in the footer suggests this data is pulled from a database system that processes cases in cycles, rather than being manually written for each individual case.
+*   **Standard Format:** The "EFTA" code at the bottom right indicates this document adheres to specific federal standards (Electronic Field Transfer Application) used by local, state, and federal law enforcement agencies to exchange case information.
+*   **Page Context:** Being page 8 of 10 suggests this is likely a summary or detail sheet following an initial intake or arrest report.
+*   **Date Specificity:** The timestamp allows for precise dating of the data entry or retrieval event to the afternoon of October 6, 2021.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Primary Visual Element:** The central and dominant feature is a solid black rectangular block that occupies approximately 95% of the vertical frame height and nearly the entire width, suggesting a redacted section or a scanning error where content was replaced with pure black ink.
+*   **Background:** A clean white background surrounds the central black area, creating distinct borders at the top and bottom margins where text is located.
+*   **Top Left Timestamp:** In the upper left corner, outside the main content area, a timestamp is visible indicating "10/6/21, 12:42 PM". This follows a standard US date format (Month/Day/Year).
+*   **Top Center Header:** Centered at the top of the page, just above the black area, is the text "III/FBI/State Delayed Response", indicating the document type or routing priority.
+*   **Bottom Right Page Indicator:** Near the bottom right edge, within the white margin but before the final ID code, there is a small number "9/10", suggesting this is the ninth page of a ten-page document.
+*   **Document Identification Code:** In the absolute bottom right corner, below the main image frame on the white background, a long alphanumeric string reads "EFTA00015148".
+*   **Redaction Implication:** The large black void implies that sensitive information—likely images of text or photos—has been deliberately obscured for privacy or security reasons.
+*   **Agentic Context:** The header referencing "FBI" strongly suggests this is a law enforcement record, likely an internal investigation file, FOIA release, or criminal case documentation.
+*   **Formatting Consistency:** The font used for the text is a standard sans-serif typeface, typical of digital scanning and document management systems used by government agencies.
+*   **Layout Orientation:** The image is oriented vertically, maintaining standard portrait mode proportions suitable for A4 or Letter-sized paper documents.
+*   **Absence of Visual Artifacts:** Aside from the black rectangle and text, there are no visible smudges, scan lines, or background noise, indicating a high-contrast digital extraction.
+*   **Procedural Note:** The phrase "State Delayed Response" in the header suggests a bureaucratic workflow note, possibly explaining why a response to a request was not immediate.
+
+## Visible Text (verbatim)
+*   10/6/21, 12:42 PM
+*   III/FBI/State Delayed Response
+*   9/10
+*   EFTA00015148
+
+## Notable Details / Clues
+*   **Document Classification:** The header text "III/FBI" indicates this is likely part of a larger, multi-part dossier (possibly Part III of a series).
+*   **Redaction Strategy:** The content has not just been blurred; it is pitch black, which is a common technique in official redactions to permanently block viewing of sensitive data.
+*   **Time of Generation:** The timestamp "12:42 PM" suggests the document was generated or viewed at midday on a weekday (likely October 6th).
+*   **Sequential Numbering:** The "9/10" marker confirms this is part of a sequence, implying there are preceding documents and potentially one following page not shown.
+*   **Identifier Prefix:** The ID starting with "EFTA" often refers to the Electronic File Tracking Application, a system used by the US Department of Justice for FOIA document tracking.
+
+## Page 10 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the bottom portion of a digital document, likely an administrative log or data export from a law enforcement database. The upper half of the page is covered by a large, solid black rectangle, obscuring whatever content was previously visible there. Below the black box, a section titled "INDEX OF AGENCIES" lists various government entities associated with a case. The text is presented in a monospaced, typewriter-style font (resembling Courier), which is typical for raw data exports or older legacy systems. Entries are separated by horizontal dashed lines. On the far left, field labels such as "Agency" and "Address" appear stacked vertically before their corresponding data values on the right. The document concludes with an "END OF RECORD" marker at the bottom.
+
+## Visible Text (verbatim)
+**Header:** 10/6/21, 12:42 PM | III/FBI/State Delayed Response
+**Separator:** ****************************** INDEX OF AGENCIES ******************************
+**Block 1:** Agency ... Palm Beach County Sheriffs Office; FL0500000;
+**Block 2:** Agency ... Volusia County State Attorney's Office; FL064015A; Address ... 251 North Ridgewood Avenue Daytona Beach, FL 32114
+**Block 3:** Agency ... Daytona Beach Police Department; FL0640100;
+**Block 4:** Agency ... Palm Beach County Clerk of Court; FL050015J;
+**Block 5:** Agency ... Palm Beach County State Attorney's Office; FL050015A; Address ... 401 N. Dixie Hwy West Palm Beach, FL 33401
+**Block 6:** Agency ... Palm Beach Shores Police Department; FL0503300; Address ... 247 Edwards Lane Palm Beach Shores, FL 33404
+**Block 7:** Agency ... North Palm Beach Police Department; FL0502300;
+**Footer Marker:** * * * END OF RECORD * * * | 10/10 | EFTA00015149
+
+## Notable Details / Clues
+- **Date Stamp:** The document is timestamped for October 6, 2021, at 12:42 PM.
+- **Document Type:** The header "III/FBI/State Delayed Response" suggests this is part of a larger investigation involving multiple levels of law enforcement (Federal, FBI, and State).
+- **Agency Codes:** Each agency has a specific alphanumeric code following a semicolon (e.g., FL0500000, FL064015A), which likely serves as an internal database identifier.
+- **Geographic Focus:** All agencies listed are based in Florida (FL), specifically in Palm Beach County and Volusia County.
+- **Institutional Variety:** The list includes Sheriff's offices, State Attorney's Offices, Police Departments, a Clerk of Court, and a county clerk, indicating a multi-disciplinary legal or investigative effort.
+- **Formatting Consistency:** The layout is rigid, with specific fields for Agency names and Addresses only where relevant, separated by dotted dividers.
+- **File Identification:** The bottom right corner contains the page number "10/10" and a file reference number "EFTA00015149".
+

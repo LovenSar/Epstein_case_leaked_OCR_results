@@ -1,0 +1,42 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008496.pdf ts=2026-03-09T07:37:38 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a large, rectangular piece of industrial computer hardware, likely the top cover or backplane of a server chassis (possibly an IBM System x3650 M2), lying flat on a speckled grey and white terrazzo floor. The device is a matte silver-grey metal panel showing signs of wear, including scuff marks, fingerprints, and dust accumulation across its surface. Several vertical strips of clear packing tape run down the center and right side, adhering loose pieces of paper and labels to the chassis to prevent them from falling off during transport.
+
+On the left edge, there is a small black plastic latch mechanism surrounded by several yellow safety warning stickers featuring triangular hazard symbols. Handwritten in black marker near the top left corner is an inventory code starting with "1B". Below this, two distinct yellow stickers provide cautionary text regarding heat or electrical hazards. A third yellow warning sticker is located at the very bottom left corner.
+
+The center of the device features a large taped-down section. One piece of yellow tape holds a handwritten note reading "IB 115". Next to it is a standard yellow sticky note containing typed inventory details, including a date of "7/12/19" and location specifics mentioning "Little Saint James Island, BVI." On the top edge (now facing upward relative to the frame), a long strip of packing tape covers an asset tag or serial number that has been written over with black marker. The right side of the chassis features a printed label indicating "Drive Bay 0" with corresponding slots for hard drives (1, 2, 3, 4). Below this are several white barcode stickers and asset management labels.
+
+## Visible Text (verbatim)
+**Top Edge (on packing tape, text appears upside down):**
+"S00-N1-3027571 18115"
+
+**Left Side (Handwritten in marker):**
+"1B MS" (or possibly "IB MS")
+
+**Center (Handwritten on yellow tape):**
+"IB 115"
+
+**Sticky Note (Inventory information):**
+- Top line: "3U - N1-3027571"
+- Date: "7/12/19"
+- Location: "Little Saint James Island, BVI"
+- Room details: "Room D, in Racks 6-8"
+- Device description: "HP Server Unit (4) 510 GB"
+- Serial: "...MXD322..."
+
+**Right Side Labels:**
+- Top Right Black/White Label: "Drive Bay 0", numbers "1 2 3 4" stacked vertically.
+- Bottom Right Stickers contain standard barcode data and "PERIMETRO CART" text (partially visible).
+
+## Notable Details / Clues
+*   **Inventory Context:** The presence of specific handwritten notes regarding inventory location ("Little Saint James Island, BVI") suggests this is a seized, auctioned, or relocated piece of hardware being tracked for storage.
+*   **Hardware Identification:** The asset tag number "N1-3027571" matches the text on the sticky note and top tape, confirming it is a single unit identified across multiple points.
+*   **Condition:** The metal surface is not pristine; there are smudges and faint scratches, indicating the equipment has been in service or handled roughly.
+*   **Orientation Marker:** The writing "1B MS" on the left and "IB 115" in the center likely correspond to a specific aisle, rack, or bin location code used by the entity managing this item (possibly an IT asset disposal facility or liquidator).
+*   **Safety Warnings:** The presence of multiple yellow "Caution" and "Warning" stickers regarding hot surfaces or electrical hazards indicates this is a high-power device that generates significant heat.
+*   **Drive Bay Labeling:** The printed label on the right side specifically marks "Drive Bay 0," confirming the chassis supports hard drive storage components, likely in a specific slot configuration typical of blade servers or enterprise racks.
+*   **Date Stamping:** The date "7/12/19" on the sticky note suggests the inventory check or seizure occurred on July 12th of a year (likely 2019 given the hardware age context, though the last digit is obscured).
+

@@ -1,0 +1,152 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007570.pdf ts=2026-03-08T23:06:58 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image displays a high-contrast, black-and-white view that appears to be the cover or front of a standard file folder or document sleeve.
+- At the very top edge, there is a thin black horizontal strip followed immediately by a wide white band, which resembles the cut-out tab flap on a manila folder.
+- Protruding from the upper right edge is a rectangular white label or tab with rounded corners on the top-right side only.
+- The majority of the image surface area is obscured by a solid, deep black field, suggesting missing content or an extremely dark original scan.
+- Significant scanning artifacts and noise are visible along the entire left vertical edge, appearing as faint vertical streaks and texture.
+- Similar grainy noise and speckling appear in the bottom left corner, where the black density fades slightly into white paper texture.
+- A similar amount of noise and grain is present in the bottom right corner near the watermark text.
+- The lighting appears flat and even across the white areas (the tab and top strip), creating a stark silhouette against the black center.
+- The orientation is landscape, typical for an A4 or Letter-sized document scan.
+- The edges of the image are sharply defined by a thin white border surrounding the main content area.
+- There is no visible text in the large central black area; it is purely negative space or void.
+- The white tab on the right stands out distinctly against the black background due to high luminance contrast.
+
+## Visible Text (verbatim)
+**1B3-10**
+**EFTA00007570**
+
+## Notable Details / Clues
+- The text "1B3-10" inside the tab likely indicates a Bates number, an exhibit index code, or a specific catalog reference for legal or archival purposes.
+- The code "EFTA00007570" in the bottom right corner resembles a document control number, possibly associated with the European Free Trade Association (EFTA), though its exact meaning is not visually defined by context.
+- The vertical streaks on the left side suggest the document might have been scanned while resting on glass that had dust or wear, or the paper itself had vertical creases that picked up ink/scan noise.
+- The blackness in the center suggests the content may have been redacted, the scan failed to pick up light text, or the original sheet was covered in heavy ink.
+- The white tab's shape (cut only on one corner) is characteristic of standard "manila folder" filing systems used in offices and archives.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+10
+EFTA00007571
+
+## Structured Fields
+*   **Doc ID:** EFTA00007571
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+Evidence Bag
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+
+## Structured Fields
+*   **Date:** July 27, 2020
+*   **Doc ID:** EFTA00007572
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical, full-frame shot of a clear, zip-lock style plastic evidence bag resting against a dark, solid grey background. Attached to the center-left of the bag is a white, rectangular printed label titled "EVIDENCE." The label features official seals and logos for the Town of Palm Beach Police Department.
+
+The top of the bag shows a crimped seal with significant glare and reflection, suggesting the plastic surface is smooth and possibly contains an object that is faintly visible through the top portion. The label contains several distinct sections:
+-   **Header:** At the very top left is a barcode with the number "022695" beneath it. To its right is a shield logo reading "FLORIDA POLICE." Centered at the top is the text "Town of Palm Beach Police Department." To the right of the text is a circular seal featuring an eagle.
+-   **Case Information:** Below the header, large bold text reads "EVIDENCE." Underneath this, there are fields for "CASE #" and "PROPERTY #," both filled with handwritten ink. Under the Property number line, a second handwritten number is visible.
+-   **Contents Table:** A section labeled "CONTENTS" features a three-column grid with headers "Item," "Quantity," and "Description." Only the first row is filled. It lists Item "1," Quantity "1," and Description "Maxell Cassette Tape" written in cursive handwriting. Several empty rows follow below.
+-   **Footer Information:** The bottom section of the label includes fields for "Suspect," "Officer," and a date (partially obscured by a black rectangular redaction box covering the middle). The officer's name appears to start with "De". To the right of the redaction box, a date is handwritten. At the very bottom left corner of the label is the code "KL-231."
+
+## Visible Text (verbatim)
+*   **Barcode Number:** 022695
+*   **Logo Text:** FLORIDA POLICE
+*   **Department Header:** Town of Palm Beach Police Department
+*   **Main Title:** EVIDENCE
+*   **Case Line:** CASE # 05-368
+*   **Property Line:** PROPERTY # 05-313
+*   **Secondary Property Number:** 128148
+*   **Section Header:** CONTENTS
+*   **Table Headers:** Item, Quantity, Description
+*   **Row Data:** 1 | 1 | Maxell Cassette Tape
+*   **Suspect Line:** Suspect:
+*   **Officer Line:** Officer: De[obscured] ... ate: 4-4-[obscured] (likely 05 or 26)
+*   **Lab Line:** Lab #:
+*   **Bottom Code:** KL-231
+*   **Watermark (bottom right):** EFTA00007573
+
+## Notable Details / Clues
+*   **Redaction Box:** A solid black rectangle has been placed over the middle section of the label, obscuring the "Suspect" name and part of the "Officer" name/dates.
+*   **Handwriting Analysis:** The handwriting for the case number "05-368" and property number "05-313" is done in blue or black ink. The description "Maxell Cassette Tape" is written slightly diagonally across the line.
+*   **Date Context:** Although partially obscured, the date field ends with "...ate: 4-4-[digit]". Given the case number starts with "05," it is highly probable this evidence was logged in April of 2005.
+*   **Glare and Reflection:** The plastic bag has a distinct sheen at the top, obscuring the contents inside slightly, though you can see the texture of what appears to be the cassette tape through the clear plastic above the label.
+*   **Official Seals:** There are two distinct departmental seals. The left one is a shield shape with "POLICE" text. The right one is a more intricate circular seal, typical of law enforcement badges, featuring an eagle and likely the state name.
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+DESCRIPTION
+Audio Cassette Tape
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007574
+
+## Structured Fields
+*   **Doc ID:** EFTA00007574
+*   **Date:** July 27, 2020
+*   **Description:** Audio Cassette Tape
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a high-contrast, black-and-white vertical composition featuring two Maxell audio cassettes set against a stark black background, likely a page from a catalog or archival document.
+
+**Top Object:**
+The upper portion of the frame displays a clear plastic cassette jewel case. The front label is dominated by branding text printed in white. At the very top left is the "maxell" logo in its distinctive blocky font, followed by the stacked text "PROFESSIONAL INDUSTRIAL P/I." Below this, the product line is identified as "Communicator Series™" with a trademark symbol. A smaller descriptor reads "P/I Cassette Low Noise/High Output." Dominating the lower half of the case is a massive, outline-style font reading "C90," indicating the tape's length capacity.
+
+**Bottom Object:**
+Below the case is the actual audio cassette tape, likely resting inside its own clear shell or loose. It features a white label strip across the top spine.
+- **Top Label Area:** On the far left is a boxed letter "A." To the right of this, handwritten in red ink, is the text "05-368 Voice Mail messages." Above the red handwriting, typewritten or stamped text reads "Prop. 05-319." In the top right corner, printed in very small font, are the words "45 Minutes per Side Running Time."
+- **Bottom Faceplate:** The bottom of the cassette is dark gray/black. On the bottom left, the "maxell" logo appears again with "PROFESSIONAL INDUSTRIAL P/I" underneath. In the center, the text reads "Communicator Series." On the bottom right, the model number "C90" is printed in bold white font.
+- **Mechanical Features:** The two spools (wheels) are visible inside the plastic shell. They have star-shaped hubs with metal guides. At the very bottom of the cassette, two silver cylindrical locking tabs protrude from the chassis, designed to engage the deck mechanism.
+
+**Background and Periphery:**
+The background is a solid, featureless black surface that highlights the white and red text on the cassettes. The image appears to be a scan or photocopy, evidenced by the slight grain and a faint white border visible at the edges. In the bottom right corner of the page, outside the main content area, is a document identifier code: "EFTA00007575."
+
+## Visible Text (verbatim)
+**Top Cassette Case:**
+- "maxell"
+- "PROFESSIONAL"
+- "INDUSTRIAL P/I"
+- "Communicator Series™"
+- "P/I Cassette Low Noise/High Output"
+- "C90"
+
+**Bottom Cassette Label (Top Strip):**
+- "CATALOG NO."
+- Boxed Letter: "A"
+- Handwritten Red Ink: "05-368 Voice Mail messages"
+- Typewritten/Stamped: "Prop. 05-319"
+- Printed Small Text: "45 Minutes per Side Running Time"
+
+**Bottom Cassette Label (Face):**
+- "maxell"
+- "PROFESSIONAL INDUSTRIAL P/I"
+- "Communicator Series"
+- "C90"
+
+**Footer:**
+- "EFTA00007575"
+
+## Notable Details / Clues
+*   **Specific Usage:** The red handwriting explicitly identifies the content as "Voice Mail messages," suggesting this specific tape was a master archive or backup for telephone recordings.
+*   **"Prop." Designation:** The text "Prop. 05-319" suggests this is a proprietary or property copy, likely an internal company document or archived asset from a firm identified by the catalog number (possibly related to EFTA based on the footer).
+*   **Capacity Indicator:** The large "C90" logo corresponds with the printed "45 Minutes per Side Running Time," confirming it is a standard 90-minute tape capable of holding approximately two hours and 20 minutes of audio.
+*   **"Low Noise/High Output":** This text on the case highlights the specific technical performance of this industrial-grade series, implying it was designed for critical listening or long-distance telephony recording rather than casual music playback.
+*   **Side Designation:** The boxed "A" on the label indicates that the tape is currently configured with side A information (the voice mail messages), though a C90 tape implies there would be a matching side B likely containing the return path or secondary data.
+*   **Industrial Branding:** The repeated use of "PROFESSIONAL INDUSTRIAL P/I" branding suggests these are not standard consumer tapes (like Audio C60 or CR-C90) but were built with more robust construction for office equipment, dictaphones, or industrial voice recording systems common in the 1980s and 90s.
+

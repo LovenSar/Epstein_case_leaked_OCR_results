@@ -1,0 +1,335 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00005832.pdf ts=2026-03-07T17:45:53 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cell [REDACTED]
+     USED ON [REDACTED]
+SSN: [REDACTED]
+ADDRESS: ASTORIA , NY 11103
+PLACE OF BUSINESS: [REDACTED]
+
+## Structured Fields
+*   **Location:** Astoria, NY 11103
+*   **Doc ID:** EFTA00005832
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7134(9
+
+[REDACTED] DOB [REDACTED]
+[REDACTED]
+
+Shawn photo - unknown to her
+[REDACTED] High School, Brazil. back to U.S./N.Y.
+2001-2002 18 yrs -> 20 yrs
+
+San Diego - 21
+Back to NYC 2005.
+
+## Structured Fields
+- **Date/Case ID**: 7134(9
+- **Doc ID**: EFTA00005833
+- **Location**: Brazil, U.S./N.Y., San Diego, NYC
+- **Name**: Shawn (partial reference)
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents as a solid, monochromatic field of black that occupies nearly the entire visual frame. The central area is devoid of any imagery, objects, text, or graphical elements, suggesting that this is either an intentionally blank page, a corrupted image file where content failed to load, or a placeholder for missing data. The only discernible feature is a small textual identifier located in the extreme lower-right corner. This text is rendered in a light color (likely white or very light grey) against the dark background, providing a stark contrast that allows it to be legible despite its small size. The overall composition is static and featureless, lacking depth, texture, or any variation in tone aside from the black background itself. There are no shadows, gradients, or artifacts visible within the main body of the image other than the uniform darkness.
+
+## Visible Text (verbatim)
+EFTA00005834
+
+## Notable Details / Clues
+*   **File Identification**: The alphanumeric string "EFTA00005834" appears to be a unique tracking number or Bates stamp, commonly found on legal or official government documents.
+*   **Acronym Suggestion**: The prefix "EFTA" could stand for the EFTA Surveillance Authority (associated with the Nordic-Baltic countries) or potentially a specific internal filing system code for an organization like the European Free Trade Association.
+*   **Missing Content Context**: The presence of a document ID on a blank page suggests that a scan or digital copy may have skipped a frame, or the content layer was not captured during digitization.
+*   **Typography**: The text is rendered in a standard sans-serif font, typical for administrative headers or footers on official forms.
+*   **Alignment**: The text is right-aligned and positioned very close to the bottom and right edges of the image canvas.
+*   **Color Palette**: The image is limited strictly to black (RGB 0,0,0) and a light neutral tone for the text. There are no variations in hue or saturation.
+*   **Resolution/Sharpness**: While hard to judge precisely, the text appears relatively sharp, suggesting a decent DPI scan even if the page content is missing.
+*   **No Watermarks**: Aside from the file ID, there are no visible watermarks, logos, or graphical headers that usually accompany official documents.
+*   **Document Orientation**: The image is oriented in a standard portrait aspect ratio.
+*   **Potential Error State**: Visually, this resembles a "broken" image file where the header/footer data persisted but the actual page content rendered as black.
+*   **Lighting Uniformity**: The "blackness" is uniform across the entire frame, indicating a lack of ambient light or reflected light usually seen in photographs; it is digital black.
+*   **Edge Condition**: The borders of the image are perfectly cut off at the pixel level, with no white borders or padding visible around the content area (other than the text).
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Dominant Visual:** The image is composed almost entirely of a solid, uniform black field that fills nearly the entire frame. There are no gradients, shadows, or distinct textures visible within this black area.
+*   **Orientation and Aspect Ratio:** The composition is in a vertical (portrait) aspect ratio, taller than it is wide, consistent with standard letter or A4 paper document scans.
+*   **Content Absence:** There are no discernible objects, figures, text blocks, or graphical elements within the main body of the image. It presents as a blank or empty page.
+*   **Lighting/Color:** The color is strictly monochrome black (hex #000000), indicating a high-contrast negative space or a deliberately darkened page rather than a lack of light in a physical scene.
+*   **Edge Quality:** The edges are sharp and rectangular, bounded by the digital frame of the image file itself.
+
+## Visible Text (verbatim)
+*   "EFTA00005835"
+
+## Notable Details / Clues
+*   **Document Identifier:** The text string "EFTA00005835" functions as a Bates number or unique identifier. This suggests the image is part of a legal, corporate, or archival document set.
+*   **EFTA Context:** The acronym "EFTA" typically refers to the European Free Trade Association. This implies the document may relate to official correspondence, agreements, or records from an organization within that framework.
+*   **Location of Text:** The text is positioned in the bottom right corner, a standard placement for page numbers, footers, or internal tracking codes in document management systems.
+*   **Black Page Implication:** Since the rest of the image is black with no other text, this is likely a "blackout" placeholder used in PDF readers to hide sensitive information on a page, or it represents a completely blank page from a larger document scan (such as a divider or unnumbered sheet).
+*   **White Strip Artifact:** The text appears against a very thin strip of white at the extreme bottom edge, suggesting this might be an overlay or footer added by a scanning software or digital archive interface.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The primary visual field is dominated by a vast area of uniform solid blackness that fills nearly the entire frame.
+*   There are no discernible objects, figures, landscapes, or textures within the main body of the image.
+*   The lighting appears non-existent for the majority of the composition, resulting in zero visibility beyond the black void.
+*   At the very bottom edge of the image, there is a narrow horizontal strip of white space that contrasts sharply with the black background.
+*   This white footer area occupies only a tiny fraction (approximately 2-3%) of the total vertical height of the image.
+*   The text contained within this footer is aligned to the far right edge.
+*   The font used for the text is a small, sans-serif typeface in black color.
+*   There are no gradients, shadows, or highlights visible on the main black surface; it is a flat, monochromatic field.
+*   The aspect ratio of the image appears to be vertical (portrait orientation).
+*   There are no borders or frames surrounding the black content.
+*   The visual information density is extremely low, consisting almost entirely of negative space.
+
+## Visible Text (verbatim)
+EFTA00005836
+
+## Notable Details / Clues
+*   **Missing Content Indicator:** The vast majority of the image being pure black usually indicates a technical error where an image failed to load or is missing from the database.
+*   **Accession Number Format:** The text string "EFTA00005836" resembles a unique identifier, likely an accession number used by an archive or library (EFTA stands for European Free Trade Association).
+*   **Footer Layout:** The layout of the ID in the bottom right corner on a white bar is typical of document scanning footers or PDF metadata stamps.
+*   **No Other Metadata:** Aside from this specific ID, there are no dates, titles, or other captions visible to provide context about the intended subject matter.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a vertical, portrait-oriented frame that is almost entirely obscured by solid black ink or digital fill. This suggests a "redacted" document where sensitive information has been deliberately removed, or a scan failure resulting in a blank page. The composition is devoid of any internal imagery, charts, or paragraphs; it is a field of uniform darkness. A very thin, light-colored border frames the entire perimeter, typical of a digital file view or a scanned page preview within a document viewer. The aspect ratio approximates standard letter or A4 paper dimensions.
+
+## Visible Text (verbatim)
+EFTA00005837
+
+## Notable Details / Clues
+*   **Document Identifier**: The code "EFTA" strongly suggests this is related to the European Free Trade Association Agreement documents, likely part of a regulatory filing or trade dossier involving Norway or Iceland.
+*   **Redaction or Blackout**: The pervasive blackness indicates that either the entire text was redacted for privacy/security reasons, or the image provided is specifically a placeholder/blackpage artifact from a larger set of files.
+*   **Watermark/Reference Number**: The text in the corner acts as a unique reference number (likely an internal tracking ID), which is standard practice in official EU or EEA legal submissions to link documents with databases.
+*   **Absence of Content**: Despite being labeled as a document page, there is no visual evidence of the original content that might have been underneath the black fill.
+*   **High Contrast Edge**: The text is high-contrast (white on black background) in that specific corner, whereas the rest of the image offers zero contrast between foreground and background.
+*   **Font Style**: The visible text uses a clean, sans-serif typeface, common in official administrative forms and digital headers.
+*   **Uniformity**: There are no gradients or noise; it is binary black pixels, indicating a digital overlay rather than a physical shadow or ink blot.
+*   **Page Structure**: The layout implies this was the first or middle page of a larger document where pagination would normally occur at the top right or bottom center, but those areas are also black.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image presents a field that is overwhelmingly solid black, occupying approximately 95% of the visual space.
+- There are no discernible objects, figures, illustrations, or text visible within the main central area of the frame.
+- A narrow white strip runs along the bottom right edge, creating a stark contrast with the surrounding darkness.
+- This white strip appears to be a page margin or footer area typical of scanned documents.
+- The black background is uniform, lacking any gradients, shadows, or texture that would suggest a physical surface like paper grain or screen noise.
+- No other graphical elements, borders, or headers are present above the visible text line.
+- The composition is extremely sparse, focusing almost entirely on the bottom-right corner where information is retained.
+
+## Visible Text (verbatim)
+- EFTA00005838
+
+## Notable Details / Clues
+- The alphanumeric string "EFTA" at the start likely refers to the European Free Trade Association, indicating this may be part of a treaty or official document archive.
+- The sequence "00005838" functions as a unique identifier, suggesting this is page 5838 or item #5838 in a series.
+- The high probability that the main body of the text has been redacted, obscured by digital noise, or cropped out of the image entirely.
+- The font style is a standard monospaced or sans-serif typeface often used in official government filings and legal documents for metadata.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is dominated by an almost entirely solid black field that fills nearly 100% of the visual frame.
+*   **Background:** The background is a uniform, deep black with no visible texture or gradient, suggesting a blank page or a specific graphic element set against darkness.
+*   **Top Edge Artifact:** Along the absolute top horizontal edge of the image, there is a very faint, thin strip of light grey or white. This resembles the edge of a physical sheet of paper visible during a scan or a reflection on a glossy surface.
+*   **Bottom Right Element:** The only distinct feature besides the darkness is a small block of text located in the extreme bottom-right corner.
+*   **Clarity:** Aside from the text and the top edge, the image contains no other objects, figures, lines, or shapes.
+*   **Contrast:** There is high contrast between the black background and the white/light grey text and border elements.
+
+## Visible Text (verbatim)
+EFTA00005839
+
+## Notable Details / Clues
+*   **Document Code:** The code "EFTA" likely stands for the European Free Trade Association, suggesting this might be a page from a legal document, treaty, or trade agreement related to that organization.
+*   **Sequential Numbering:** The string of digits "00005839" implies this is part of a sequence, indicating it could be page 5839 of a very large document, or simply a high sequential ID number for the document itself.
+*   **Scan Artifacts:** The faint line at the top suggests the image was captured from a physical document where the top margin was visible to the scanner.
+*   **Minimalism:** The extreme lack of visual information (just black space) suggests this might be a cover page, an unnumbered insert, or a placeholder page within a larger file.
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+eJusticeNY Integrated Justice Portal
+Page 1 of 1
+eJusticeNY INTEGRATED JUSTICE PORTAL
+People » DMV Photo System » DMV Photo Request [+] Feedback
+
+DMV Photo Request
+DMV Photo
+Subject Information
+Name: [REDACTED]
+ClientID: [REDACTED]
+Case Number: 31ENY3027175
+DMV Transaction Number: 1168491
+DMV Transaction Date/Time: 2019-06-06 13:44:13:513
+Back
+
+About | Site Map | Site Policies
+June 6, 2019 1:44 PM EDT
+
+https://www.ejustice.ny.gov/wps/myportal/lut/p/a1/jY_LcoJAEEW_JQu30w1EHJdYiQTLi... 6/6/2019
+EFTA00005840
+
+## Structured Fields
+- **Date:** June 6, 2019
+- **Time:** 1:44 PM EDT
+- **Case Number:** 31ENY3027175
+- **DMV Transaction Number:** 1168491
+- **Transaction Timestamp:** 2019-06-06 13:44:13:513
+- **Organization:** eJusticeNY Integrated Justice Portal
+
+## Page 10 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image displays a large, predominantly monochromatic field of solid black, occupying nearly the entire visual frame from top to bottom and left to right.
+- There are no visible figures, objects, illustrations, or graphical elements within the central area of the image; it serves as a blank canvas or negative space.
+- In the extreme bottom-right corner, contrasting sharply against the dark background, is a line of white alphanumeric text.
+- The lighting appears uniform and flat across the black area, suggesting a digital reproduction of a physical page or a generated graphic without depth or texture.
+- The composition is minimalist, characterized by high contrast between the void-like black center and the specific informational mark at the periphery.
+- The visual weight is almost entirely concentrated in the bottom-right corner due to the text presence, while the rest of the image acts as empty background.
+
+## Visible Text (verbatim)
+- EFTA00005841
+
+## Notable Details / Clues
+- The text string "EFTA00005841" appears to be a document control number, likely an EFTA (European Free Trade Association) accession or case number.
+- The placement of the code in the bottom right suggests it functions as a page footer or identification stamp often found on official documents.
+- The stark blackness implies this might be a "redacted" version of a document where sensitive information has been covered with black ink, or simply an intentionally blank cover page within a file.
+- There are no other markings, stamps, watermarks, or decorative borders visible aside from the ID code.
+- The text is sans-serif and small relative to the frame size.
+
+## Page 11 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image is composed almost entirely of a deep, uniform black field that fills the central frame.
+*   A distinct, thin white line borders the entire perimeter of the image, acting as a margin or edge.
+*   There are no discernible objects, people, landscapes, or structures visible within the darkness.
+*   The background texture appears perfectly smooth and digital, lacking film grain or paper noise.
+*   Lighting is non-existent within the frame; it appears to be a flat representation rather than a photograph of an illuminated room.
+*   There are no shadows or depth cues present in the main area of the image.
+*   The composition is minimalist, relying entirely on the high contrast between the white border/text and the black background.
+*   The visual weight is heavily concentrated at the very bottom right corner where the text resides.
+
+## Visible Text (verbatim)
+EFTA00005842
+
+## Notable Details / Clues
+*   The alphanumeric string "EFTA00005842" suggests a Bates number or an official reference ID commonly found in legal discovery documents.
+*   The prefix "EFTA" likely refers to the European Free Trade Association, indicating potential archival content related to that specific international organization.
+*   The format of the stamp (letters followed by a sequential number) is typical for document tracking systems used by courts or government bodies.
+*   The lack of any other text or header/footer suggests this might be a blank page from such a file or the footer area of a larger document that was cropped out.
+*   The position of the ID is standard for automated printing stamps which usually run along the bottom edge.
+*   The high contrast of the white text against the black background implies this was likely scanned as a black-and-white document or a dark photo.
+
+## Page 12 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The visual field is dominated by an expansive, uniform black background that fills nearly the entire frame.
+- There are no discernible subjects, objects, people, or actions present in the main area of the image.
+- The scene lacks texture or gradient, presenting a flat, solid black tone.
+- A faint, semi-transparent watermark is visible in the upper left corner of the dark field.
+- White text serves as a footer or header element located at the very bottom right edge of the frame.
+- The composition suggests a blank page from a digital document or a scanned report where visual content may have been omitted or failed to load.
+
+## Visible Text (verbatim)
+- **Top Left Watermark:** "ECHA - One Pictogram"
+- **Bottom Right Footer:** "EFTA00005843"
+
+## Notable Details / Clues
+- The acronym "ECHA" likely refers to the European Chemicals Agency, indicating a regulatory context.
+- The phrase "One Pictogram" relates to Globally Harmonized System (GHS) chemical hazard communication standards.
+- The alphanumeric string "EFTA00005843" functions as a unique document identifier or tracking number associated with the EFTA (European Free Trade Association).
+- The stark blackness of the image body implies this is likely a cover sheet, a placeholder page, or a specific section of a compliance report containing no visual data.
+- The placement of the text in the corners suggests standard document formatting where the main content area is reserved for figures, graphs, or tables which are currently empty.
+
+## Page 13 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+-   **Dominant Darkness:** The image is overwhelmingly composed of deep black pixels, indicating an environment with extremely low visibility or lighting conditions.
+-   **Central Figure:** In the lower-left quadrant, barely distinguishable from the shadows, is the silhouette of a person.
+-   **Subject Posture:** The figure is crouching or kneeling, with knees bent sharply and feet planted on the unseen ground. Their body is angled slightly towards the right side of the frame.
+-   **Arm Positioning:** One arm appears to be raised slightly, suggesting a gesture or an action involving holding an object or pointing, while the other remains obscured or low.
+-   **Environmental Texture:** Subtle variations in the blackness suggest a rough texture to the walls or ground, consistent with a cavernous space like a cave.
+-   **Upper Left Area:** Faint grey smudges are visible in the upper left corner, likely representing distant rock formations or shadows cast on a ceiling/wall.
+-   **Lighting Conditions:** The scene is lit by a minimal light source that is not directly visible, creating a high-contrast silhouette effect where details are lost in shadow.
+-   **Composition:** The subject is placed off-center, leaving a significant amount of negative space (blackness) to the right and top, which creates a sense of isolation or emptiness within the space.
+-   **Subject Size:** Based on standard human proportions, the figure appears relatively small in the frame, further emphasizing the vast, dark expanse around them.
+-   **Visual Noise:** The image displays some graininess typical of photography taken in near-total darkness where the camera sensor must boost sensitivity (ISO).
+
+## Visible Text (verbatim)
+EFTA00005844
+
+## Notable Details / Clues
+-   **Bates Number/ID:** The text "EFTA00005844" in the bottom right corner is a standard archival identifier, often used by law enforcement or government agencies (like the EFTA office) to catalog documents.
+-   **Context Inference:** The combination of a person crouching in a pitch-black environment strongly suggests the subject is inside a cave system (spelunking).
+-   **Safety Hazard:** The lack of visibility implies potential danger; the figure's posture suggests they are stationary, possibly looking for landmarks or avoiding obstacles.
+-   **Documentation Type:** This appears to be an evidence photo or field survey image taken in harsh conditions where capturing light without overexposing the scene is difficult.
+-   **Absence of Gear:** While hard to see clearly due to contrast, no obvious safety gear (like headlamps) is distinctively visible, though they are likely illuminating the immediate area.
+
+## Page 14 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image is overwhelmingly dominated by a uniform, solid black field that fills nearly the entire vertical frame.
+- There are no visible objects, figures, patterns, or textures within the main body of the image; it is purely negative space.
+- A very thin, narrow strip of white background is visible exclusively at the extreme bottom-right corner of the frame.
+- The composition suggests a portrait orientation, consistent with scanned legal documents or standard paper formats like letter size.
+- The contrast is binary and high, distinguishing only between the solid black area and the tiny sliver of white text box at the bottom right.
+- No gradients, shadows, or lighting effects are present within the black section, indicating a flat digital background rather than a photograph of a physical object.
+- The visual weight is heavily skewed to the center and top, as the only active element is relegated to the bottom-right margin.
+- There are no watermarks, logos, or graphical elements embedded in the darkness of the main image area.
+- The edges of the black region appear sharp and defined against the white background strip at the bottom.
+- The image quality appears high enough to resolve the text clearly but lacks detail beyond that specific text element.
+
+## Visible Text (verbatim)
+EFTA00005845
+
+## Notable Details / Clues
+- The identifier "EFTA" is strongly associated with the European Free Trade Association, suggesting this document originates from an EFTA member state or related legal body.
+- The numeric sequence following "EFTA" (00005845) resembles a Bates number or a docket number commonly used for page numbering in large litigation files.
+- This image likely serves as a cover page, a blank spacer page, or a footer artifact attached to a larger digital file rather than containing primary content itself.
+- The specific code format implies an archival or legal context where tracking individual pages is necessary.
+- The lack of any other imagery suggests this might be the first or last page of a document where text was omitted or the page was intentionally left blank for formatting reasons.
+
+## Page 15 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image consists entirely of a solid, pitch-black field with no visible content in the central area. There are no objects, figures, landscapes, or lighting variations to describe within the main frame; the surface is uniform and featureless. The composition lacks any horizontal or vertical structure, depth cues, or perspective. The visual information is restricted almost exclusively to a small mark located at the very bottom edge of the frame.
+
+## Visible Text
+EFTA00005846
+
+## Notable Details / Clues
+- The image serves primarily as a placeholder or blank page, likely part of a scanned document set where this specific page contained no substantive content (perhaps a back cover or a blank insert).
+- The text "EFTA00005846" in the bottom right corner is formatted like a Bates number or a specific document reference ID used in legal proceedings or administrative filing systems.
+- This specific alphanumeric string indicates the document belongs to an entity associated with the European Free Trade Association (EFTA) or its secretariat, serving as a unique tracking identifier for the physical or digital file.
+- The font of the text is thin and sans-serif, typical of automated stamping software used in court filings or official record-keeping.
+- The positioning at the bottom right aligns with standard footer conventions for document pagination or indexing.
+
+## Page 16 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is composed almost entirely of a solid black background that fills the entire frame from top to bottom and left to right. There are no visible objects, figures, or distinct shapes present within the main body of the image. The darkness is uniform, suggesting either an intentionally blank page, a scanned document where the text has been obscured by blacking out, or a failure to load the correct visual content. No gradients, textures, or lighting changes are observable in the central area. In the very bottom right corner, a small line of white text breaks the uniformity of the black field. The overall aspect ratio appears to be vertical (portrait), typical of a standard document page layout. The image quality is clean with no visible noise or artifacts apart from the stark contrast between the background and the footer text.
+
+## Visible Text (verbatim)
+- EFTA00005847
+
+## Notable Details / Clues
+- **Document Identifier:** The string "EFTA00005847" appears to be a case number, file reference, or Bates number commonly found on legal or official government documents.
+- **Location:** The text is positioned in the extreme bottom-right corner, which is standard placement for footer watermarks or pagination.
+- **Contrast:** The white font stands out sharply against the black background, indicating high contrast suitable for OCR (Optical Character Recognition) processing.
+- **Obfuscation:** The absence of content above the footer suggests that this might be a redacted version of a document where sensitive information has been replaced with a black overlay.
+- **Format:** The layout implies a digital scan or PDF export, likely intended to be read from top to bottom, but currently showing no text body.
+- **Alphanumeric Structure:** The code consists of letters "EFTA" followed by eight digits, which is a common format for tracking numbers in legal or administrative systems.
+- **Typography:** The font appears to be a standard sans-serif typeface, likely Times New Roman or Arial at a small point size relative to the image resolution.
+- **Color Palette:** The image is strictly monochromatic black and white, lacking any color information.
+- **Spatial Context:** The black area takes up approximately 98% of the vertical space, leaving only about 2% at the bottom for the identifier.
+- **Potential Content:** While invisible now, this visual structure suggests a document containing text, images, or data that was either missing from the upload or intentionally hidden.
+- **File Integrity:** The presence of a unique ID suggests the file has been tracked through an official archival or evidence management system.
+

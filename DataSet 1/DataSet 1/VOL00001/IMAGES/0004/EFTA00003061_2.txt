@@ -1,0 +1,49 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003061.pdf ts=2026-03-06T00:43:24 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a white document titled "Emergency Contact Form" contained within a clear plastic sheet protector inside a three-ring binder. The binder rings are visible vertically along the left edge, piercing through punched holes in the paper. The form belongs to a company named "LSJE, LLC," identified at the very top center in bold, uppercase letters. Below the company name is the physical address: "6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802". To the right of the address, fields for telephone and fax numbers are present but completely blacked out with digital redaction marks.
+
+The form is organized into distinct sections separated by horizontal lines. The first section captures employee details. The "Date" field is filled with "06/14/18," while the "Start Date" is "04/20/18." The "Employee Name" is listed as "Michael J Glidden." The "Address" field contains only the abbreviation "GSJ." Personal contact information including Date of Birth, Phone, Cell, and E-Mail are all obscured by thick black rectangular bars. The employee's "Title / Position" is filled in as "Engineer," and "Marital Status" is listed as "Divorce." A field for a license number exists but is redacted.
+
+The middle section, labeled "Emergency Information," addresses medical details. Next to "Allergies or Health Concerns," the word "None" is faintly printed or handwritten above the line. The "Blood Type" field is redacted. Below that, next to "Current Medication," the word "None" appears again. Two rows for "Doctor's Name" and corresponding phone numbers are present but appear blank or illegible due to blur.
+
+The bottom section is titled "In case of an Emergency, Please contact :" followed by two rows. The first row lists a "Relationship" of "Son," with the name and phone number redacted. The second row lists a "Relationship" of "Brother," but the name field is partially cut off by the binder ring on the left, showing only "ame," and the phone number is redacted. At the very bottom, a disclaimer reads: "This Information is for your safety and the safety of others." In the bottom right corner of the image, outside the form's border but printed on the photo, is a reference code "EFTA00003061". The document rests on a dark, speckled surface, likely a granite countertop or table.
+
+## Visible Text (verbatim)
+*   **LSJE, LLC**
+*   **6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: [REDACTED] Fax: [REDACTED]**
+*   **Emergency Contact Form**
+*   **Date:** 06/14/18
+*   **Start Date:** 04/20/18
+*   **Employee Name:** Michael J Glidden
+*   **Address:** GSJ
+*   **Date of Birth:** [REDACTED]
+*   **Phone:** [REDACTED]
+*   **Cell:** [REDACTED]
+*   **E-Mail:** [REDACTED]
+*   **Title / Position:** Engineer
+*   **Marital Status:** Divorce
+*   **License:** [REDACTED]
+*   **Emergency Information:**
+*   **Allergies or Health Concerns:** None (faint text visible)
+*   **Blood Type:** [REDACTED]
+*   **Current Medication:** None (faint text visible)
+*   **Doctor's Name:** [Blank/Illegible] | **Phone:** [Blank/Illegible]
+*   **Doctor's Name:** [Blank/Illegible] | **Phone:** [Blank/Illegible]
+*   **In case of an Emergency, Please contact :**
+*   **Name** [REDACTED] | **Relationship:** Son | **Phone:** [REDACTED]
+*   **ame** [REDACTED] | **Relationship:** Brother | **Phone:** [REDACTED]
+*   **This Information is for your safety and the safety of others**
+*   **EFTA00003061**
+
+## Notable Details / Clues
+*   **Privacy Redactions:** Significant portions of sensitive data (phone numbers, email, blood type, license number, emergency contact names) have been digitally blacked out with solid black rectangles.
+*   **Location Context:** The address "St. Thomas, VI" indicates the employee is based in the U.S. Virgin Islands.
+*   **Employment Status:** The form dates back to June 2018 (Date: 06/14/18) with an employment start date of April 20, 2018, suggesting the document is likely an archive or a scanned record from several years ago.
+*   **Internal Coding:** The address "GSJ" in the Address field suggests a corporate housing code, military housing identifier, or internal facility abbreviation rather than a residential street address.
+*   **Family Structure:** The emergency contacts listed are specifically a "Son" and a "Brother," indicating the employee's family support network.
+*   **Physical Condition:** The paper shows slight curling at the top left, and the binder rings catch the light, showing the metallic texture of the rings piercing the plastic sheet protector.
+*   **Incomplete Name Entry:** At the bottom left, the word "Name" is partially cut off by the binder hole, leaving only the suffix "ame" visible in the text field for the second emergency contact.
+

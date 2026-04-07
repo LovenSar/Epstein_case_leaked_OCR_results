@@ -1,0 +1,224 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00005774.pdf ts=2026-03-07T17:26:52 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NO NYS OR IT history
+VIA E-JUSTICE
+Cell [REDACTED]
+(NO ADS)
+SSN: [REDACTED]
+ADDRESS: [REDACTED]
+Sleepy Hollow NY
+(Westchuren CTY) 10591
+Possible Source:
+[REDACTED]
+[REDACTED]
+Same Address
+NYS D/L APPEAR AS:
+[REDACTED]
+[REDACTED]
+
+## Structured Fields
+- **Location:** Sleepy Hollow, NY (Westchuren CTY) 10591
+- **Doc ID:** EFTA00005774
+- **Status:** NO NYS OR IT history via E-Justice
+- **Note:** Same Address noted under Possible Source section
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+DMV Photo
+Subject Information
+Name: [REDACTED]
+ClientID: [REDACTED]
+Case Number: SI
+DMV Transaction Number: 1069006
+DMV Transaction Date/Time: 2019-06-05 18:36:18:690
+
+## Structured Fields
+- Date: 2019-06-05
+- Time: 18:36:18:690
+- Case Number: SI
+- Transaction Number: 1069006
+- Document ID (Footer): EFTA00005775
+- Organization: DMV
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Last updated: 01/08/2017
+
+# Request for NYS DMV PHOTO IMAGE
+
+To: New York Ops Center (NYOC) [office: 212-384-2921; fax: 212-384-4073 or 4074]
+Requestor Email: [REDACTED]@fbi.sgov.gov Squad: C-30
+************************
+1) Name & Rank of Requestor: [REDACTED] TFO
+MUST be Special Agent or other sworn law enforcement – may not be support personnel
+
+2) Name & Rank of Supervisor: LT. [REDACTED] TFO SUPERVISOR
+MUST be Supervisory Special Agent or other sworn law enforcement – may not be support personnel
+
+3) Subject Name: [REDACTED]
+
+4) DMV Client ID # (Nine Digits): [REDACTED]
+If no Client ID available, include Subject’s DOB
+
+5) Reason for request (Circle one): Criminal Investigation Warrant Investigation Witness Investigation Missing Person Investigation
+
+6) Exigent Circumstances (if applicable)*:
+Comments
+
+7) Case number: 31E-NY-3027571
+
+8) Phone number of Requestor: [REDACTED]
+
+The requester acknowledges that the requested image cannot be used as filler in a photo array; the DMV photo may only be used in an array if the subject of the DMV photo is the subject in the photo array. A new request for a photo image must be made for any unrelated criminal investigation. The digital image obtained will not be saved in a database or stored in any manner for secondary or subsequent use unrelated to the original investigation.
+
+I hereby certify that the above-requested DMV Photo Image is relevant to an active investigation and that, to the best of my knowledge, the subject of interest possesses a driver’s license, learner’s permit or non-driver identification card issued by the New York State DMV, and acknowledge that if this request was made for an impermissible purpose I may be subject to
+
+[REDACTED] 6/5/19
+Requestor (Signature) Date
+
+[REDACTED]
+Supervisor (Signature) Date 6/5/19
+
+*When the exigent circumstances exception applies, the “Comments” section must identify the type of investigation and explain the urgency. In addition, the “Request for DMV Photo Image – Exigent Circumstances” form must be completed and retained by the requesting agency.
+
+EFTA00005776
+## Structured Fields
+- **Date:** 01/08/2017 (Last updated), 6/5/19 (Form dates)
+- **Case ID:** 31E-NY-3027571
+- **Organization:** New York Ops Center (NYOC), FBI (@fbi.sgov.gov), New York State DMV
+- **Squad:** C-30
+- **Rank/Role Indicators:** TFO, LT, TFO SUPERVISOR
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image is dominated entirely by a solid, uniform black field that occupies approximately 90% of the frame.
+*   There are no visible objects, illustrations, photographs, or figures present within the main body of the document.
+*   The visual texture appears completely flat with no gradients, shadows, or highlights suggesting a three-dimensional scene.
+*   The black area is consistent in tone, indicating either a redacted document, a blank page filled with ink, or a technical artifact where content failed to render.
+*   At the very bottom of the image, there is a distinct white strip running across the width of the page.
+*   On the right side of this bottom white strip, a footer area is visible against the white background.
+*   The layout suggests a standard portrait orientation, typical of official reports or scanned paper documents.
+*   There are no visible grid lines, borders, or graphical elements within the black void itself.
+*   The lighting in the image is non-existent (total darkness) for the main body, contrasting with the white footer area.
+*   The absence of any other markings suggests this might be a placeholder page or a specific redaction format used in administrative files.
+
+## Visible Text (verbatim)
+*   EFTA00005777
+
+## Notable Details / Clues
+*   **Document Identifier:** The text "EFTA" likely stands for the European Free Trade Association, suggesting this document originates from an official EU or international organization context.
+*   **Redaction Indication:** The solid black color strongly implies that sensitive information has been intentionally obscured or redacted rather than being a missing image.
+*   **File Tracking:** The numerical sequence "00005777" indicates this is a specific file in a series, likely an administrative reference number used for archival purposes.
+*   **Scan Quality:** The presence of the white footer confirms this is a scan of a physical paper document rather than a digital native file with a black background, as paper edges often bleed through slightly or are preserved in scanning software.
+*   **Lack of Content:** If this is meant to convey information, the content has been completely hidden, making it a blank slate for administrative classification.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The visual field is dominated entirely by a solid, uniform black background that fills almost the entire frame.
+- There are no discernible images, illustrations, photographs, or graphical elements present in the main area of the image.
+- No human figures, animals, or objects can be seen due to the lack of content.
+- The composition is devoid of depth, perspective, or texture, appearing as a flat, dark void.
+- The lighting is non-existent across the majority of the visual space.
+- The bottom edge contains a slight white border area where the text resides.
+
+## Visible Text (verbatim)
+- EFTA00005778
+
+## Notable Details / Clues
+- **Document Identification:** The alphanumeric string "EFTA00005778" functions as a Bates number or document control ID, commonly used in legal discovery processes to track pages of evidence or documents.
+- **Jurisdiction Hint:** The prefix "EFTA" typically stands for the European Free Trade Association, suggesting this page may be part of a document set related to legal proceedings within that region.
+- **Image State:** The image likely represents a blank page from a scanned document or a placeholder image where visual content failed to render.
+- **Color Palette:** The palette is strictly binary, consisting only of pure black and pure white pixels.
+- **Typography:** The text is rendered in a clean, sans-serif typeface that offers high legibility against the dark background.
+- **Placement Strategy:** The identifier is right-aligned at the very bottom edge, a standard convention for footer metadata on legal filings or archival scans.
+- **Lack of Context:** Without surrounding text or imagery, the specific subject matter of the document (if any) cannot be determined from this page alone.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The visual field is almost entirely consumed by a solid, uniform black background that offers no texture or gradient.
+- There are no visible physical objects, furniture, or environmental elements present within the frame.
+- No people or living creatures can be discerned in the darkness of the image.
+- No text or writing is visible in the central or upper portions of the document.
+- The bottom edge of the image reveals a thin white border typical of scanned paper documents.
+- Inside this bottom area, specifically in the bottom right corner, a specific identifier is printed.
+- The lighting (or lack thereof) suggests either a completely dark room or a failed image capture where no light hit the sensor.
+- The aspect ratio of the image appears to be vertical (portrait orientation), standard for text documents.
+- There are no shadows, highlights, or reflections to indicate three-dimensional objects or sources of light.
+- The overall composition is devoid of visual interest except for the singular string of characters at the bottom.
+
+## Visible Text (verbatim)
+EFTA00005779
+
+## Notable Details / Clues
+- **Document ID:** The text "EFTA00005779" functions as a unique identifier, likely serving as a page number or an internal reference code for the document.
+- **Prefix Significance:** The prefix "EFTA" visually suggests a connection to the European Free Trade Association, indicating this might be a scanned page from a related legal or official report.
+- **Placement:** The text is relegated to the absolute bottom right corner, which is a standard location for footer information in formal documents.
+- **Font Style:** The characters appear to be printed in a standard, non-stylized typeface, consistent with typewriter or standard laser printer output.
+- **Contrast:** The white text provides the only contrast against the black void, making it difficult to read in low-resolution contexts but clear here due to high luminance difference.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a vertically oriented rectangular field dominated entirely by a uniform, deep black color. There are no visible illustrations, photographs, diagrams, or standard typographical text occupying the majority of the visual space. The composition is stark and minimalist, characterized by a high-contrast absence of visual detail. The bottom right corner of the frame breaks this uniformity with small, white alphanumeric text. The lighting appears flat and artificial, consistent with a digital scan or a computer-generated document page rather than an environment photo. The aspect ratio suggests standard paper formatting, likely A4 or Letter size.
+
+## Visible Text (verbatim)
+EFTA00005780
+
+## Notable Details / Clues
+*   **Document Code:** The visible text begins with "EFTA," which likely refers to the European Free Trade Association, suggesting this image is part of a legal document, trade agreement filing, or official administrative record from that organization.
+*   **Sequential Numbering:** The trailing string "00005780" indicates a specific case number, docket number, or Bates stamp, common in legal discovery or official correspondence to identify specific pages within a large file.
+*   **Blank/Redacted State:** The total lack of content in the main body suggests this might be a blank page included within a document packet (common for covers or spacers) or a page where text has been intentionally obscured via digital redaction software.
+*   **Placement Convention:** Placing reference codes in the bottom right corner is a standard convention for legal and bureaucratic documents to avoid obscuring main body text while maintaining identification.
+*   **Contrast:** The white text stands out sharply against the black background, indicating a deliberate high-contrast overlay rather than natural lighting.
+*   **No Watermarks:** Aside from the code in the corner, there are no faint watermarks or logos visible, which simplifies the visual hierarchy but also leaves the source institution ambiguous without external context.
+*   **Uniformity:** The blackness is consistent throughout, suggesting a solid color fill (RGB 0,0,0) rather than a dark photograph of an object.
+*   **Absence of Margins:** There appear to be no visible white margins bordering the text area or the edges, as the black fills the entire frame.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a field of uniform, solid blackness that dominates almost the entire frame. There are no discernible objects, figures, landscapes, or textures visible within the main body of the image. The visual information is extremely limited, appearing essentially as a blank space or a failed capture where content was intended to be. A very narrow strip of white margin is visible along the extreme bottom edge and right edge, framing the black area. The lighting appears flat and non-existent in the central area, creating a silhouette-like void. No gradients, shadows, or highlights are present except for the text element at the bottom right.
+
+## Visible Text (verbatim)
+EFTA00005781
+
+## Notable Details / Clues
+-   **Positioning:** The alphanumeric text "EFTA00005781" is situated in the extreme bottom-right corner of the image.
+-   **Color Contrast:** The text is rendered in white, creating a high contrast against the surrounding black background.
+-   **Formatting:** The text appears to be in a standard sans-serif font, likely used for document control or reference numbers.
+-   **Content Status:** The rest of the page content is completely obscured or absent, suggesting this might be a cover page, a redacted section, or an error image where the actual content failed to render.
+-   **Character Count:** The text string consists of 15 characters (5 letters followed by 9 digits).
+-   **Visual Noise:** Aside from the text, there is no visible noise, grain, or imperfections in the black background; it is a pure, digital black.
+-   **Border/Frame:** A thin white line runs along the very bottom and right edges of the image frame, indicating the boundary of the file or the margin.
+-   **Readability:** The text is sharp and fully legible, unlike the rest of the image which contains no information.
+-   **Document Type:** Based on the ID format ("EFTA"), this could likely be associated with an agreement or document from the EFTA (European Free Trade Association) Secretariat.
+-   **Orientation:** The text is horizontal and oriented correctly for reading from left to right.
+-   **Absence of Graphics:** There are no watermarks, logos, or graphical elements visible other than the text identifier.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The primary visual field consists entirely of a solid, uniform black background.
+*   There are no discernible objects, figures, furniture, or environmental elements visible within the frame.
+*   No lighting gradients, shadows, or highlights are present; the image is monochromatic at 0% brightness (pure black).
+*   The image maintains a vertical aspect ratio, consistent with standard document scanning formats like A4 or Letter size.
+*   There is no visible texture; the surface appears digitally flat and void of detail.
+*   No graphical borders, page numbers, or decorative elements are present aside from the identification code.
+*   The edges of the image are sharp and straight, indicating a digital file rather than a physical photograph of paper.
+
+## Visible Text (verbatim)
+*   EFTA00005782
+
+## Notable Details / Clues
+*   The alphanumeric string is located exclusively in the bottom-right corner, separated from the main black area by a sliver of white background or digital padding typical of OCR/batch processing.
+*   The prefix "EFTA" suggests an index number related to evidence management, specifically potentially linked to the European Free Trade Association (or similarly named entities using this indexing convention).
+*   The numerical sequence "00005782" implies a sequential database entry, suggesting this image is part of a larger set of documents.
+*   This specific visual signature (black page with a Bates number) is frequently used to indicate redacted pages or administrative cover sheets in legal and investigative contexts.
+*   The font used for the code appears to be a standard sans-serif typeface, likely white on black.
+*   The lack of any other content strongly implies this might be the back cover, a spacer page, or an error state (e.g., camera not turned on) in a document sequence.
+

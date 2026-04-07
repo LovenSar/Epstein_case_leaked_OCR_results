@@ -1,0 +1,87 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010178.pdf ts=2026-03-10T01:47:11 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email chain thread, likely viewed in a PDF reader or word processor, documenting a legal discovery process. The document features a vertical sequence of email headers and corresponding text messages. Most personal names and specific email addresses have been redacted with solid black rectangular bars, though domain labels like "(USANYS) [Contractor]" remain visible.
+
+The thread involves multiple exchanges between "Contractor" accounts and internal DOJ (Department of Justice) addresses, indicated by the `\\Usa.doj.gov` file paths. The emails discuss the production of documents regarding an "Amazon return," specifically referencing a case involving "USvEpstein." There are blue hyperlinks embedded in the text pointing to shared network drives.
+
+The timeline visible spans from late Wednesday evening, November 10, 2021, through Thursday morning, November 11, 2021. The earliest email at the bottom (chronologically) was sent at 11:09 PM on Nov 10. The thread continues with emails sent at 9:29 AM and 9:46 AM on Nov 11, concluding with an email from roughly 6:42 PM on Nov 11.
+
+At the very bottom right corner of the page, there is a document identification number or Bates stamp reading "EFTA00010178".
+
+## Visible Text (verbatim)
+**Header Block 1:**
+From:[Redacted] (USANYS) [Contractor][Redacted]
+To:[Redacted])<[Redacted]" <[Redacted](USANYS)
+Cc: "[Redacted]<[Redacted> (USANYS)"
+Subject: RE: Amazon return
+Date: Thu, 11 Nov 2021 18:42:58 +0000
+Attachments: 2021.11.11_Maxwell_Discovery_Letter.docx
+
+**Body Block 1:**
+These returns have been stamped here: \\Usa.doj.gov\cloud\nYS\StAndrews\Shared\USvEpstein-2018R01618\Discovery\GM\37 Twenty-Eighth Production
+Draft discovery cover letter is attached and saved here for your review.
+
+**Header Block 2:**
+From:[Redacted] )
+Sent: Thursday, November 11, 2021 9:46 AM
+To:[Redacted] (USANYS) [Contractor][Redacted] USANYS) [Contractor]
+Cc:[Redacted]) (USANYS)<[Redacted]
+Subject: RE: Amazon return
+
+**Body Block 2:**
+Thanks, Sunny! Yes, good to go with this production.
+
+**Header Block 3:**
+From:[Redacted](USANYS) [Contractor[Redacted]
+Sent: Thursday, November 11, 2021 9:29 AM
+To:[Redacted][Redacted]e (USANYS) [Contractor][Redacted]
+Cc:[Redacted])(USANYS)[Redacted]<[Redacted]
+Subject: RE: Amazon return
+
+**Body Block 3:**
+I’ve added it to the pending Rule 16 production and have saved it to the trial subpoena returns folder here:
+\\Usa.doj.gov\cloud\nYS\StAndrews\Shared\USvEpstein-2018R01618\Trial\Trial Subpoena Returns\Amazon\2021.11.10
+Let me know if you want this pending Rule 16 production prepped to go out today with the 3500 and GX (right now the pending production just has these Amazon returns).
+
+**Header Block 4:**
+From:[Redacted]
+Sent: Wednesday, November 10, 2021 11:09 PM
+To:P[Redacted](USANYS) [Contractor][Redacted] USANYS) [Contractor]
+Cc:[Redacted])(USANYS)[Redacted]
+Subject: Amazon return
+
+**Body Block 4:**
+Hey [Redacted] and S[Redacted]
+Thanks again for all the help today! When you have a chance, would one of you mind adding this to the next Discovery folder and to a folder for Amazon subpoena returns?
+
+**Footer:**
+EFTA00010178
+
+## Notable Details / Clues
+- **Case Context:** The file paths explicitly mention "USvEpstein-2018R01618," indicating this is part of the United States v. Jeffrey Epstein case (likely related to the civil trial, given the "Trial" folder structure).
+- **Rule 16 Reference:** The term "pending Rule 16 production" refers to Federal Rules of Criminal Procedure Rule 16, concerning the discovery of documents by a defendant or witness, suggesting active litigation.
+- **3500 and GX References:** These likely refer to specific exhibits or document groups ("3500" and "GX") being grouped together in the production.
+- **Hyperlinks:** The blue text indicates clickable links to internal DOJ shared drives (`\\Usa.doj.gov\cloud...`), suggesting this document was created internally within the government network.
+- **Redaction Level:** The redactions are heavy, obscuring specific names but leaving job titles like "[Contractor]" visible, indicating outside counsel or legal vendors were involved in handling the discovery materials.
+- **Time Zone:** The first email header shows `+0000`, which is UTC time, while the body dates show local US times (implied Eastern based on "USANYS" - United States Attorney Northern District of New York), highlighting a coordination between potentially different time zones or system settings.
+- **File Attachment:** An attachment named `2021.11.11_Maxwell_Discovery_Letter.docx` is listed for the top email, likely the "Draft discovery cover letter" mentioned in the text.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks!
+[REDACTED]
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+1 Saint Andrews Plaza
+New York, New York 10007
+[REDACTED]
+
+## Structured Fields
+*   **Location**: Southern District of New York, New York, NY 10007
+*   **Organization**: United States Attorney / Assistant United States Attorney
+*   **Document ID**: EFTA00010179
+

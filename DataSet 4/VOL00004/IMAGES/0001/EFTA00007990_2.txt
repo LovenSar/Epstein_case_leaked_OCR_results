@@ -1,0 +1,84 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007990.pdf ts=2026-03-09T03:04:27 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up crop of what appears to be a catalog page or instruction manual containing a product shot of a Maxell VHS cassette label. The layout is split vertically; the right side features the dark-colored product packaging, while the left side is predominantly white space containing a handwritten marking.
+
+On the right side, a vertical black rectangular graphic dominates the frame. At the top, the brand name "maxell" appears in bold, white, sans-serif typeface. Below this, the product series "P/I plus" is displayed prominently. The "P/I" characters are large and bold, with the word "plus" situated beneath the diagonal slash connecting the two letters. In the center of the packaging graphic is a stylized illustration featuring a white triangle (resembling a pyramid or a rising mountain) superimposed over horizontal bands or lines, set against a dark background with grainy texture. Below the illustration, the model number "T-160" is printed in large, bold white characters. Further down, a descriptive line reads "Ideal for use in Time Lapse Recording." In the bottom right corner of this section, the letters "VHS" are visible inside a small border box.
+
+The left side of the image consists mostly of blank white space. Overlaid on this white area is a large number "6" written in black ink with a pen or marker. The ink appears slightly smudged. At the very bottom of the image, spanning across both sides, are heavy horizontal texture lines, suggesting the bottom edge of the page or a border line from the original document. The entire image suffers from high-frequency noise and grain, characteristic of low-quality fax scans or photocopies from the 1980s or 1990s. A faint vertical line runs along the far right edge, likely the margin of the paper.
+
+## Visible Text (verbatim)
+- maxell
+- P/I
+- plus
+- 6 (handwritten)
+- T-160
+- Ideal for use in Time Lapse Recording
+- VHS
+- EFTA00007990 (located at the very bottom right corner)
+
+## Notable Details / Clues
+- **Product Type:** The label identifies a "Maxell P/I Plus" tape. The model number T-160 indicates a 4-hour capacity (standard play), which was standard for home VHS tapes of that era.
+- **Intended Use:** The text explicitly markets the tape as "Ideal for use in Time Lapse Recording." This explains the "P/I" (Picture Improvement) branding, which often referred to formulations designed to withstand the stress of time-lapse recording where the tape is rewound and fast-forwarded frequently without degrading video quality.
+- **Document Context:** The handwritten "6" suggests this image comes from page 6 or section 6 of a larger booklet, possibly an inventory list or a user manual containing various product examples.
+- **Archive Origin:** The alphanumeric string "EFTA00007990" at the bottom indicates this image was likely digitized from an official archive document related to the European Free Trade Association (EFTA).
+- **Visual Artifacts:** The heavy horizontal grain and noise across the entire image suggest it is a digital copy of a physical photocopy or fax transmission, reducing color accuracy (everything appears in black, white, and gray) and obscuring finer details on the tape box.
+- **Layout Alignment:** The text elements on the product label are stacked vertically, creating a clear hierarchy of information: Brand -> Product Line -> Model -> Usage Description -> Format.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+VHS Tape
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+
+EFTA00007991
+
+## Structured Fields
+
+*   Date: July 27, 2020
+*   Case ID: EFTA00007991
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, horizontal photograph of a black VHS cassette tape against a stark white background, likely extracted from a document or archive file. The cassette features a standard E-I plastic shell with two large white spindle hubs visible on the left and right edges. A long, rectangular white label is affixed to the center spine of the cassette. The label contains printed branding and checkboxes for recording modes (SP, EP, LP, etc.) along with handwritten entries in black ink. The image quality suggests a photocopy or a scanned document, characterized by high contrast and some graininess. On the far left edge of the image, there are vertical smudges or artifacts indicating the physical handling of the original paper or digital file. The tape path holes run horizontally across the top and bottom of the cassette body, clearly visible as white gaps in the black plastic casing.
+
+## Visible Text (verbatim)
+**Printed on Label:**
+*   "maxell" (Logo in top left corner)
+*   "PROFESSIONAL INDUSTRIAL PHI" (Small text below Maxell logo)
+*   "P/I" (Inside a box/checker field)
+*   "[ ] SP"
+*   "[ ] EP"
+*   "[ ] LP"
+*   "[ ] PLUS"
+*   "[ ] MGX"
+*   "[ ] MASTER"
+*   "[ ] ORIGINAL"
+*   "[ ] DUB"
+*   "VHS" (Large box on the right side)
+
+**Handwritten on Label:**
+*   Top line: "4/5/05" (Date)
+*   Middle right area: "Prob", "65-1209" (or similar number), and an "H".
+*   Bottom line: "358 El Brillo"
+
+## Notable Details / Clues
+*   **Date Context:** The date "4/5/05" suggests the tape was recorded, duplicated, or labeled in either April or May of 2005.
+*   **Location Hint:** The address "358 El Brillo" likely refers to a specific location; "El Brillo" is a well-known street/district in San Diego, California, suggesting this might be footage from that area.
+*   **Tape Type:** The printed text "PROFESSIONAL INDUSTRIAL" and the checkbox "P/I" indicate this is a high-grade Maxell tape, suitable for professional use rather than consumer recording.
+*   **Recording Mode:** There appears to be an "H" written on the label, indicating High Band (Hi-Fi) recording mode was selected or noted.
+*   **Serial/Reference Number:** The numbers "65-1209" next to "Prob" might be a catalog number, a batch number, or a reference code for the organization holding the tape.
+*   **Correction/Overwriting:** There are faint scribbles or corrections visible near the handwritten date and reference numbers, implying administrative notes were added during processing.
+*   **Tape Spool Visibility:** The white spools inside the black casing are partially visible through the clear plastic window (though the label covers most of it), showing the tape is wound tightly.
+*   **File Identifier:** In the bottom right corner of the entire image, there is a small alphanumeric code "EFTA00007992," which appears to be an identifier from the archive system holding this file.
+*   **Checkboxes Status:** Most checkboxes are empty, but the pre-printed "P/I" (Professional/Industrial) field has a checkmark or fill next to it.
+*   **Handwriting Style:** The handwriting is quick and functional, typical of archival logging rather than artistic writing.
+

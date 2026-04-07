@@ -1,0 +1,107 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00022358.pdf ts=2026-03-15T08:32:44 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread interface, likely from Microsoft Outlook or a similar enterprise email system. The view is scrolled down slightly, showing headers and message bodies for three distinct emails arranged chronologically (though one header at the very bottom suggests an earlier date).
+
+The top section shows the most recent email in the chain, sent on June 5, 2020. The subject line references an "SDNY investigation." Below this is a brief body text starting with "Understood, thanks," followed by a large blacked-out redaction block.
+
+The next section shows a previous reply dated Friday, June 05, 2020, at 15:35. This email body discusses legal courtesy and contact information restrictions ("Please do not pass on our contact info").
+
+Further down, the header for an email from "Brendan F. Quigley" is visible, though his title or specific affiliation is redacted. Below his name, there is a quote block indicating a previous message sent at 3:19 PM on June 5, 2020, followed by a large black bar obscuring the sender's details.
+
+Below that quote block is an "[EXTERNAL EMAIL]" header in grey/blue text addressed to "Brendan." The body of this email discusses an attorney reaching out regarding an active civil case connected to Epstein. It mentions seeking information about "current counsel" for a redacted individual ("Mr"). The text offers to pass along contact info so the attorney can go directly to Brendan's side rather than the other party, or states inability to comment on counsel status.
+
+At the very bottom of the screen, a new email header appears dated Friday, February 07, 2020. A document control number "EFTA00022358" is visible in the bottom right corner. Throughout the image, names and specific contact details are obscured by solid black rectangular blocks.
+
+## Visible Text (verbatim)
+**Top Header:**
+From: [Redacted]
+To: [Redacted]
+Cc: Co[Redacted]
+Subject: RE: SDNY investigation [Redacted] )
+Date: Fri, 05 Jun 2020 19:40:39 +0000
+
+**First Body:**
+Understood, thanks.
+[Redacted Block]
+
+**Second Header:**
+From: [Redacted]
+Sent: Friday, June 05, 2020 15:35
+To: [Redacted]
+Cc: [Redacted]
+Subject: Re: SDNY investigation [Redacted]
+
+**Second Body:**
+[Redacted Block]
+Appreciate the courtesy. Please do not pass on our contact info. That said, feel free to contact us if anything comes up in your investigation.
+Thank you. Hope you guys are all hanging in okay.
+
+**Third Header (Partial):**
+Brendan F. Quigley
+M[Redacted Block]
+
+**Quote Header:**
+On Jun 5, 2020, at 3:19 PM, [Redacted] wrote:
+[Redacted Block]
+
+**External Email Section:**
+[EXTERNAL EMAIL]
+Brendan,
+An attorney for an individual who has an active civil case in connection with Epstein has reached out to us to ask if we know the current counsel for M[Redacted]. I assume that the attorney is seeking to serve a request or subpoena for documents and/or testimony, though we haven't asked specifically.
+
+I don’t think we ordinarily engage on that type of question, but given that we have been in touch with you in connection with our interview of Mr[Redacted] if you’d like we can pass along your contact info, so that the attorney goes to you rather than attempting to contact or serve M[Redacted] directly. And if not, of course no problem, and we’ll just let him know that we’re not able to comment one way or the other on the status of any counsel. Whatever you prefer.
+Thanks, and hope you’re well these days.
+[Redacted Block]
+
+**Bottom Header:**
+From: [Redacted]
+Sent: Friday, February 07, 2020 18:36
+
+**Footer:**
+EFTA00022358
+
+## Notable Details / Clues
+- **Investigation Context:** The subject line "SDNY investigation" indicates a federal inquiry by the U.S. District Court in Manhattan (Southern District).
+- **Epstein Connection:** The text explicitly mentions a civil case "in connection with Epstein," referencing Jeffrey Epstein, a notorious convicted sex offender whose estate is currently facing multiple lawsuits.
+- **Date Discrepancy:** The main thread is dated June 2020, but the email header at the very bottom references a date of February 07, 2020, suggesting this screenshot captures an archive or a forwarded chain containing older documentation.
+- **Privacy Redactions:** Almost all names and specific contact information are blacked out, implying these records are sensitive, privileged, or belong to third parties involved in litigation.
+- **Legal Strategy:** The text reveals a delicate negotiation between two legal parties ("us" vs. the other party). One side is trying to manage who receives legal subpoenas ("serve a request"), suggesting complex counsel representation issues.
+- **Sender Identification:** One participant is clearly identified as "Brendan F. Quigley," likely an attorney or official involved in the investigation.
+- **Document ID:** The code "EFTA00022358" in the bottom right suggests this is part of a formal electronic filing or a document from a specific organization (possibly related to a commission or board given the acronym format).
+- **Tone:** The communication style is professional but informal ("Hope you guys are all hanging in okay"), suggesting colleagues who know each other but are navigating high-stakes legal boundaries.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: SDNY investigation [REDACTED]
+Thanks [REDACTED]
+From: [REDACTED]
+Sent: Friday, February 7, 2020 6:13 PM
+To: Quigley, Brendan [REDACTED]
+Cc: [REDACTED]
+Subject: RE: SDNY investigation [REDACTED]
+
+[EXTERNAL EMAIL]
+Brendan,
+
+As promised, attached please find a copy of the proffer agreement signed today.
+
+thanks,
+
+[REDACTED]
+
+**Confidentiality Notice:**
+The information contained in this email and any attachments is intended only for the recipient[s] listed above and may be privileged and confidential. Any dissemination, copying, or use of or reliance upon such information by or to anyone other than the recipient[s] listed above is prohibited. If you have received this message in error, please notify the sender immediately at the email address above and destroy any and all copies of this message.
+
+EFTA00022359
+
+## Structured Fields
+*   **Date:** Friday, February 7, 2020 6:13 PM
+*   **Subject:** RE: SDNY investigation
+*   **To Name:** Quigley, Brendan
+*   **Document ID (Footer):** EFTA00022359
+

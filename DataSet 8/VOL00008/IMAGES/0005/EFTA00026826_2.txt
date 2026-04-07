@@ -1,0 +1,67 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00026826.pdf ts=2026-03-17T08:55:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Document Type:** The image displays a screenshot of an email notification from a US Court system, specifically the Court of Appeals for the Second Circuit.
+*   **Header Information:** At the very top, standard email headers are visible. The "From" address is `cmecf@ca2.uscourts.gov`. The "To" field is heavily blacked out/redacted. The "Subject" line reads `20-2413 [REDACTED] v. Maxwell "Motion Order FILED"`. The date of the email is Friday, 09 Oct 2020 at 20:04:58 UTC.
+*   **Disclaimer Note:** Immediately below a horizontal line is a bolded note to public access users regarding Judicial Conference policy on free electronic copies versus PACER fees for other users, instructing users to download documents to avoid later charges.
+*   **Court Identifier:** Centered in the upper middle section is the text "Court of Appeals, 2nd Circuit".
+*   **Case Activity Header:** Below that is a bold heading "Notice of Docket Activity".
+*   **Filing Details:** The text indicates a transaction was filed on 10/09/2020. The Case Name has the plaintiff's name blacked out, followed by `v. Maxwell`. The Case Number is listed as `20-2413`. A blue hyperlink labeled "Document(s)" appears next to the document count.
+*   **Docket Text Description:** This section describes the specific filing: a MOTION ORDER where a letter requesting re-alignment of argument time is GRANTED [132]. It identifies the filer as Appellant Ghislaine Maxwell. The status is FILED. It lists internal document identifiers `[2949579][138]`.
+*   **Recipient Redaction:** A large section in the lower middle is obscured by a series of long, horizontal black bars. This area corresponds to "Notice will be electronically mailed to:" indicating an email distribution list that has been redacted for privacy or security.
+*   **Notice Cart Footer:** At the bottom left, text reads "Notice will be stored in the notice cart for:". Below this, a name is redacted, followed by the title "Deputy Clerk" and "Quality Control 1".
+*   **Document ID:** In the bottom right corner, a document control number `EFTA00026826` is visible.
+
+## Visible Text (verbatim)
+**Email Header:**
+*   From: "cmecf@ca2.uscourts.gov" <cmecf@ca2.uscourts.gov>
+*   To: <[REDACTED]>
+*   Subject: 20-2413 [REDACTED] v. Maxwell "Motion Order FILED"
+*   Date: Fri, 09 Oct 2020 20:04:58 +0000
+
+**Body Text:**
+*   ***NOTE TO PUBLIC ACCESS USERS*** Judicial Conference of the United States policy permits attorneys of record and parties in a case (including pro se litigants) to receive one free electronic copy of all documents filed electronically, if receipt is required by law or directed by the filer. PACER access fees apply to all other users. To avoid later charges, download a copy of each document during this first viewing.
+*   **Court of Appeals, 2nd Circuit**
+*   **Notice of Docket Activity**
+*   The following transaction was filed on 10/09/2020
+*   Case Name: [REDACTED] v. Maxwell
+*   Case Number: 20-2413
+*   Document(s): Document(s)
+*   **Docket Text:**
+    MOTION ORDER, letter requesting re-alignment of argument time is GRANTED [132] filed by Appellant Ghislaine Maxwell, FILED. [2949579][138] [20-2413]
+*   Notice will be electronically mailed to:
+    *   [REDACTED BLOCK OF BLACK BARS]
+*   **Notice will be stored in the notice cart for:**
+*   [REDACTED], Deputy Clerk
+    Quality Control 1
+*   EFTA00026826
+
+## Notable Details / Clues
+*   **Case Identity:** The case involves a defendant or counter-defendant named "Maxwell". The Appellant is explicitly identified as "Ghislaine Maxwell", linking this legal document to high-profile news involving her.
+*   **Legal Action:** The specific procedural action is the "GRANTING" of a motion to realign argument time, suggesting a scheduling dispute or request was made by the appellant.
+*   **Redaction Extent:** The primary redaction covers the "To" email list in the header and a substantial block below, which likely contains the full list of email addresses of parties, counsel, and perhaps media or pro se litigants who should receive this notice.
+*   **Date Consistency:** The transaction filing date (10/09/2020) matches the email transmission date exactly (Friday, 09 Oct 2020).
+*   **Staff Role:** The footer mentions "Quality Control 1", suggesting this automated notification might be routed through a specific quality control queue or assigned to a specific deputy clerk's inbox.
+*   **Document Numbering:** The sequence numbers `[2949579]` (likely the PACER document number) and `[138]` (the docket number) provide technical identifiers for lawyers to locate this specific PDF in the court database.
+*   **Pro Se Litigant Mention:** The public access note mentions "pro se litigants", acknowledging that parties representing themselves can receive free copies, distinct from general public PACER users.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+The following document(s) are associated with this transaction:
+**Document Description:** Motion Order FILED
+**Original Filename:** [REDACTED].pdf
+**Electronic Document Stamp:**
+[STAMP acecfStamp_ID=1161632333 [Date=10/09/2020] [FileNumber=2949579-0]
+[1eb91beb235262f13f29a77d3c8a8ad9e45ccd46173bcd754d297a5ab68e653e60959431bb9416903028178204a
+1e334a3a8f3eb96d15906948a04d32bebd21]]
+
+EFTA00026827
+
+## Structured Fields
+- **Date:** 10/09/2020
+- **FileNumber (Case ID):** 2949579-0
+- **Stamp ID:** acecfStamp_ID=1161632333
+- **Document Description:** Motion Order FILED
+

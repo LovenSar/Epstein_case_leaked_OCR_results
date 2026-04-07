@@ -1,0 +1,23 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007086.pdf ts=2026-03-08T14:40:57 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+1
+Pursuant to a federal investigation regarding the sexual exploitation of minors, [REDACTED] a victim, was interviewed by the FBI. [REDACTED] identifying information is recorded below:
+Name: [REDACTED]
+Race: [REDACTED]
+Sex: Female
+DOB: [REDACTED]
+Husband: [REDACTED]
+Home Address: [REDACTED]
+               Loxahatchee, Florida 33470
+Cellular Telephone: [REDACTED]
+Cellular Telephone: [REDACTED] (husband)
+Work: [REDACTED]
+
+## Structured Fields
+- **Document ID:** EFTA00007086
+- **Location:** Loxahatchee, Florida 33470
+- **Organization:** FBI
+- **Subject Gender:** Female
+

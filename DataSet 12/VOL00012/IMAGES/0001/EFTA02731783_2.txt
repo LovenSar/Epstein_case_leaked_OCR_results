@@ -1,0 +1,346 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 12/VOL00012/IMAGES/0001/EFTA02731783.pdf ts=2026-03-06T18:46:07 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot or digital scan of an email correspondence interface, specifically focusing on email headers and message bodies. The layout is vertically oriented, presenting a reply at the top and the original forwarded message below it, separated by a thin horizontal grey line. The top of the document features the name "Phillips, Lauren (USANYS)" in bold text with an underline, likely indicating the current recipient or sender view. The majority of specific email addresses and identifying names are obscured by solid black rectangular redaction bars. Despite the redactions, key metadata such as timestamps, organizational domains ("USANYS"), and a secondary name ("Leon Black") are visible. The bottom third of the image is dominated by a large, dense black rectangle that completely obscures the rest of the email thread's content. In the bottom right corner, an alphanumeric identifier "EFTA02731783" is visible in small font.
+
+## Visible Text (verbatim)
+*   **Header Name:** Phillips, Lauren (USANYS)
+*   **From Field:** From: [Redacted] (USANYS) </O=USA/OU=EXTERNAL (FYDIBOHF25SPDLT)/CN=RECIPIENTS/CN=60A16ECAAB73479F9C6EA6A5F059BE8E>
+*   **Sent Field:** Sent: Friday, June 9, 2023 3:28 PM
+*   **To Field:** To: [Redacted] (USANYS) 2
+*   **Subject Line (Top):** Subject: RE: [EXTERNAL] [Redacted] / Leon Black
+*   **Message Body (Top):** Thanks! Now good?
+*   **From Field (Original):** From: [Redacted]
+*   **Sent Field (Original):** Sent: Friday, June 9, 2023 2:14 PM
+*   **To Field (Original):** To: [Redacted] (USANYS) <[Redacted]>
+*   **Cc Field:** Cc: [Redacted]
+*   **Subject Line (Original):** Subject: FW: [EXTERNAL] [Redacted] / Leon Black
+*   **Message Body (Original):** [Black Square Icon] - see my call notes below. Let’s discuss whenever convenient.
+*   **Footer ID:** EFTA02731783
+
+## Notable Details / Clues
+*   **Timeline Analysis:** The email thread took place on Friday, June 9, 2023. The original message was sent at 2:14 PM, and the reply (top section) was sent 1 hour and 14 minutes later at 3:28 PM.
+*   **External Communication:** Both the "RE:" and "FW:" subject lines explicitly tag the correspondence as "[EXTERNAL]", indicating the email originated from outside the immediate corporate domain or system.
+*   **Organizational Domain:** The text "(USANYS)" appears multiple times, suggesting the organization uses a NYSE (New York Stock Exchange) or New York System internal email infrastructure.
+*   **Subject Line Context:** The name "Leon Black" appears in both subject lines without redaction. This is likely a prominent figure or executive, distinguishing him from the other redacted recipients.
+*   **Redaction Patterns:** Redactions are consistently used to hide primary email addresses (the part before "@") and specific recipient names in the "To:" and "Cc:" fields.
+*   **Message Flow:** The text "Thanks! Now good?" suggests a confirmation or closing of a previous administrative step, likely in response to "call notes" mentioned in the lower message.
+*   **Call References:** The original message (bottom) references "call notes below" next to a small black square icon (likely an attachment indicator), implying meeting minutes or audio logs were attached to the email.
+*   **Forwarded Chain:** The subject line of the bottom email starts with "FW:", indicating it was forwarded rather than composed as a new thread, suggesting a relay of information involving Leon Black.
+*   **Technical LDAP Data:** The "From" field of the top email reveals Active Directory style attributes like `</O=USA/OU=EXTERNAL>`, providing technical context about the user's directory group (External vs Internal).
+*   **Visual Obstruction:** A significant portion of the visual evidence is lost due to a large black rectangle covering the main content area below the second email body.
+*   **Document ID:** The text "EFTA02731783" suggests this image may be part of an evidentiary collection, legal discovery, or compliance audit document.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot or printout of an email thread, specifically page 2 of a document based on the page number at the bottom center. The layout is a vertical stack of five distinct email messages arranged in reverse chronological order (newest at the top). The document features standard white background with black text. Most sender and recipient names are heavily redacted with solid black bars. However, specific identifiers such as office codes "(USANYS)" and domain extensions remain visible. The thread concerns scheduling phone calls between legal professionals or government officials, discussing time slots for meetings, apologies for delays ("lag"), and updates regarding a trial. A footer in the bottom right corner contains an alphanumeric ID "EFTA02731784".
+
+## Visible Text (verbatim)
+**Top Message Block:**
+From: [Redacted Bar]
+Sent: Friday, June 9, 2023 10:52 AM
+To: [Redacted Bar]
+Cc: [Redacted Bar] (USANYS) < [Redacted Bar]
+Subject: RE: [EXTERNAL] [Redacted Bar] / Leon Black
+[Redacted Bar] I am working from home today, so can you call my cell phone instead? [Redacted Bar] Thanks!
+
+**Second Message Block:**
+From: [Redacted Bar] (USANYS) 2 < [Redacted Bar] usdoj.gov>
+Sent: Wednesday, June 7, 2023 5:44 PM
+To: [Redacted Bar] < [Redacted Bar]
+Cc: [Redacted Bar] (USANYS) < [Redacted Bar]
+Subject: RE: [EXTERNAL] [Redacted Bar] / Leon Black
+2pm sounds great, sorry for the lag. Let me know the best number to reach you then.
+
+**Third Message Block:**
+From: [Redacted Bar] < [Redacted Bar]
+Sent: Wednesday, June 7, 2023 9:28 AM
+To: [Redacted Bar] < [Redacted Bar]
+Cc: [Redacted Bar] (USANYS) < [Redacted Bar]
+Subject: RE: [EXTERNAL] [Redacted Bar] / Leon Black
+2 or 3pm?
+
+**Fourth Message Block:**
+From: [Redacted Bar] (USANYS) 2 < [Redacted Bar] usdoj.gov>
+Sent: Tuesday, June 6, 2023 6:33 PM
+To: [Redacted Bar] < [Redacted Bar]
+Cc: [Redacted Bar] (USANYS) < [Redacted Bar]
+Subject: Re: [EXTERNAL] [Redacted Bar] / Leon Black
+It was me, yes! What time works Friday afternoon?
+
+**Bottom Message Block:**
+From: [Redacted Bar] < [Redacted Bar]
+Sent: Tuesday, June 6, 2023 4:47:37 PM
+To: [Redacted Bar] < [Redacted Bar]
+Cc: [Redacted Bar] (USANYS) < [Redacted Bar]
+Subject: RE: [EXTERNAL] [Redacted Bar] / Leon Black
+Hi [Redacted Bar]
+I got a voice mail yesterday afternoon but it was cut off – but I did hear [Redacted Bar] and assumed it was you? Hope your trial is going well. I have some limited time to chat tomorrow between 1 and 3pm, and then am pretty open Thursday and Friday if any of those times work for you.
+Thanks,
+
+**Footer:**
+2
+EFTA02731784
+
+## Notable Details / Clues
+*   **Government Involvement:** One email header explicitly displays the domain `usdoj.gov`, indicating the sender is part of the United States Department of Justice.
+*   **Specific Office Code:** The text "(USANYS)" appears repeatedly in redacted fields (e.g., "From: [Redacted] (USANYS) 2"). This likely refers to a specific office acronym, possibly related to the United States Attorney's Northern District of New York or similar jurisdiction.
+*   **Subject Line Consistency:** Every email in the thread features "/ Leon Black" at the end of the subject line string "Subject: RE: [EXTERNAL]...". This suggests Leon Black is the primary recipient being acknowledged or the name of the person the email chain originated from.
+*   **Scheduling Context:** The emails show a back-and-forth coordination regarding phone calls. One sender mentions "limited time to chat tomorrow between 1 and 3pm." Another asks "2 or 3pm?".
+*   **Trial Reference:** The bottom-most email explicitly states, "Hope your trial is going well," confirming the legal nature of the correspondence.
+*   **Communication Issues:** The thread references technical or personal communication hurdles, including a voice mail that was "cut off" and an apology for a "lag" in response time.
+*   **Working Conditions:** The top email mentions the sender is "working from home today."
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED] (USANY)S 2 <[REDACTED]usdoj.gov>
+Sent: Friday, June 2, 2023 8:55 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] (USANY)S <[REDACTED] [REDACTED] <[REDACTED]
+Subject: RE: [EXTERNAL] [REDACTED] / Leon Black
+
+I am about to start a short trial so I can either speak first thing in the morning on Monday (9am) or after 5:30 on Monday or Tuesday. If that doesn't work on your end, let me know.
+
+Thanks and have a nice weekend.
+
+---
+
+From: [REDACTED] <[REDACTED]>
+Sent: Friday, June 2, 2023 6:08 PM
+To: [REDACTED] (USANY)S <[REDACTED] [REDACTED] <[REDACTED]
+Cc: [REDACTED] (USANY)S <[REDACTED] [REDACTED] <[REDACTED]
+Subject: Re: [EXTERNAL] [REDACTED] / Leon Black
+
+Sure. What works for you?
+
+On Jun 2, 2023, at 5:09 PM, [REDACTED] (USANY)S 2 <[REDACTED]usdoj.gov> wrote:
+
+Hi [REDACTED] and [REDACTED]
+
+I hope all is well. Do you have time to connect briefly on this case again next week?
+
+Thanks,
+[REDACTED]
+
+---
+
+From: [REDACTED] <[REDACTED]>
+Sent: Tuesday, February 28, 2023 11:15 AM
+To: [REDACTED] (USANY)S <[REDACTED] [REDACTED] <[REDACTED]
+Cc: [REDACTED] (USANY)S <[REDACTED] [REDACTED] <[REDACTED]
+Subject: RE: [EXTERNAL] [REDACTED] / Leon Black
+
+I am also available until 2, with the caveat that I am home with my sick son. You can call me at [REDACTED] [REDACTED] If I miss you, I will call you back - just let me know the best number to reach you.
+
+---
+
+From: [REDACTED] (USANY)S 2 <[REDACTED]usdoj.gov>
+Sent: Tuesday, February 28, 2023 10:46 AM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] (USANY)S <[REDACTED] [REDACTED] <[REDACTED]
+Subject: RE: [EXTERNAL] [REDACTED] / Leon Black
+
+Hi [REDACTED] and [REDACTED]
+
+We'd be happy to chat. [REDACTED] and I are available today until 2pm if there's a time that works on your end. Let us know and the best number to reach you.
+
+3
+
+EFTA02731785
+
+## Structured Fields
+*   **Date**: June 2, 2023; February 28, 2023
+*   **Subject Line**: RE: [EXTERNAL] / Leon Black
+*   **Organization**: USANY (United States Attorney's Office New York), USDOJ.gov
+*   **Case Reference**: Leon Black
+*   **Document ID**: EFTA02731785
+*   **Page Number**: 3
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks,
+[REDACTED]
+------------------------------------------------------------------------
+From: [REDACTED] <[REDACTED]
+Sent: Tuesday, February 28, 2023 10:37 AM
+To: [REDACTED]
+Cc: [REDACTED] (USANYS) <[REDACTED]
+Subject: RE: [EXTERNAL] [REDACTED] / Leon Black
+
+Good morning [REDACTED]
+
+We are reaching out to see if you have some time this week or next week for a quick phone call re: this investigation. We have a new CW who has come forward and alleged sexual abuse by Leon Black. This CW was trafficked by Maxwell and Epstein, and we are wondering whether her name has come across your desk in the course of your investigation.
+
+Thank you,
+[REDACTED] & [REDACTED]
+------------------------------------------------------------------------
+From: [REDACTED] (USANYS) 2 <[REDACTED]usdoj.gov>
+Sent: Friday, January 21, 2022 5:28 PM
+To: [REDACTED] <[REDACTED]
+Subject: Re: [EXTERNAL] [REDACTED] / Leon Black
+
+Hi [REDACTED]
+
+We don’t have any current plans to interview [REDACTED] again. We were previously interested in meeting with the second victim represented by her attorney after the Maxwell trial. Based on our last conversation, I believe you had met with her already. If you are still pursuing an investigation encompassing both victims, we are not likely to open an other investigation. If anything changes or my understanding is incorrect, please let me know.
+
+Thank you,
+[REDACTED]
+
+On Jan 21, 2022, at 12:53 PM, [REDACTED] <[REDACTED] wrote:
+
+Hi [REDACTED]
+
+Hope all is well. We had spoken a couple months ago about [REDACTED] – our office is conducting an investigation into sexual assault allegations by [REDACTED] against Mr. Black. When we last spoke you had indicated that your office was pretty busy with the Maxwell trial and did not have much of an update regarding an investigation involving [REDACTED] Just wanted to check back in now that the trial is over to see if there was anything further on that. Happy to give you a call if you prefer to speak over the phone.
+
+Thanks!
+[REDACTED]
+
+[REDACTED]
+
+
+## Structured Fields
+*   **Dates:**
+    *   Tuesday, February 28, 2023
+    *   Friday, January 21, 2022 (5:28 PM)
+    *   Jan 21, 2022 (12:53 PM)
+*   **Document ID:** EFTA02731786
+*   **Names/Individuals:**
+    *   Leon Black
+    *   Maxwell
+    *   Epstein
+    *   Mr. Black
+*   **Organizations/Groups:**
+    *   USANYS (US Attorney's Office, likely)
+    *   DOJ (implied by usdoj.gov)
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Assistant District Attorney
+New York County District Attorney's Office
+[REDACTED]
+From: [REDACTED] (USANYS) 2 [mailto: [REDACTED] usdoj.gov]
+Sent: Wednesday, November 17, 2021 11:18 AM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>
+Subject: RE: [EXTERNAL] [REDACTED] / Leon Black
+Great, thanks. My cell would actually be better as I'm sitting in another office right now. [REDACTED].
+
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, November 17, 2021 11:10 AM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: [EXTERNAL] [REDACTED] / Leon Black
+Thank you [REDACTED] – 1 PM works for us if that works for you. Is your office number the best number to reach you?
+
+From: [REDACTED] (USANYS) 2 [mailto: [REDACTED] usdoj.gov]
+Sent: Tuesday, November 16, 2021 5:35 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED]
+Subject: RE: [EXTERNAL] [REDACTED] / Leon Black
+Hi [REDACTED]
+
+I'm happy to speak. I am free tomorrow between 12 and 4 if there's a time that works.
+
+Thanks,
+[REDACTED]
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew's Plaza
+[REDACTED]
+usdoj.gov
+
+5
+EFTA02731787
+
+## Structured Fields
+- **Date 1**: Wednesday, November 17, 2021
+- **Date 2**: Tuesday, November 16, 2021
+- **Organization 1**: Assistant District Attorney, New York County District Attorney's Office
+- **Organization 2**: Assistant United States Attorney, Southern District of New York, One Saint Andrew's Plaza
+- **Email Domain**: usdoj.gov
+- **Subject Line Keywords**: [EXTERNAL], Leon Black
+- **Time Reference**: 1 PM, between 12 and 4
+- **Document ID**: EFTA02731787
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED] <[REDACTED]>
+Sent: Tuesday, November 16, 2021 1:54 PM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED]>
+Subject: RE: [EXTERNAL] / Leon Black
+
+Hi AUSA [REDACTED]
+
+As pre AUSA [REDACTED] e-mail below, I am reaching out to see if you had any time to speak with us about your conversation with [REDACTED] and the status of your investigation.
+
+Thanks,
+[REDACTED]
+
+Assistant District Attorney
+New York County District Attorney's Office
+[REDACTED]
+
+--------------------------------------------------------------------
+
+From: [REDACTED] (USANYS) [mailto:[REDACTED]]
+Sent: Friday, October 29, 2021 10:48 AM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED] [REDACTED] (USANYS) |
+Subject: Re: [EXTERNAL] / Leon Black
+
+Good morning,
+
+Thank you very much for your email. I am cc'ing AUSA [REDACTED] who is familiar with [REDACTED] and would be the best person in our office to speak with about her.
+
+Best,
+[REDACTED]
+
+On Oct 29, 2021, at 10:33 AM, [REDACTED]
+<[REDACTED]> wrote:
+
+Good morning AUSA [REDACTED]
+
+ADA [REDACTED] & I are from the Manhattan District Attorney's Office and we are investigating allegations of sexual abuse against Leon Black made by [REDACTED]. Our understanding is that you spoke with one of our colleagues, ADA [REDACTED] months ago in regard to an investigation that the US Attorney's Office is handling involving Mr. Black. ADA [REDACTED] indicated that [REDACTED] had spoken with an FBI agent. We
+
+6
+EFTA02731788
+
+## Structured Fields
+- **Date:** Tuesday, November 16, 2021; Friday, October 29, 2021; Oct 29, 2021
+- **Time:** 1:54 PM, 10:48 AM, 10:33 AM
+- **Subject:** RE: [EXTERNAL] / Leon Black
+- **From/Parties:** AUSA, ADA (USANYS), Assistant District Attorney, New York County District Attorney's Office, Manhattan District Attorney's Office, US Attorney's Office, FBI
+- **Individuals:** Leon Black, Mr. Black
+- **Organization IDs:** EFTA02731788
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+were interested in speaking with you and/or the FBI agent who is working on the investigation.
+
+Do you have some time today or next week to speak? If so, please let us know what day and time is good for you and the best number to reach you (we have your number as [REDACTED]
+
+Thank you,
+
+[REDACTED]
+Assistant District Attorney
+New York County District Attorney's Office
+[REDACTED]
+
+This email communication and any files transmitted with it contain privileged and confidential information from the New York County District Attorney's Office and are intended solely for the use of the individuals or entity to whom it has been addressed. If you are not the intended recipient, you are hereby notified that any dissemination or copying of this email is strictly prohibited. If you have received this email in error, please delete it and notify the sender by return email.
+
+7
+EFTA02731789
+
+## Structured Fields
+*   **Organization:** New York County District Attorney's Office
+*   **Role/Position:** Assistant District Attorney
+*   **Other Agencies Mentioned:** FBI
+*   **Document ID:** EFTA02731789
+*   **Page Number:** 7
+

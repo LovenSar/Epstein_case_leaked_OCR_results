@@ -1,0 +1,375 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015211.pdf ts=2026-03-12T13:47:35 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+From: [REDACTED]
+To: [REDACTED]
+Subject: RE: case records scanning
+Date: Mon, 19 Oct 2020 03:34:34 +0000
+
+Thank you
+
+From: [REDACTED]
+Sent: Sunday, October 18, 2020 8:13 PM
+To: [REDACTED]
+Subject: RE: case records scanning
+Okay.
+
+From: [REDACTED]
+Sent: Sunday, October 18, 2020 20:04
+To: [REDACTED]
+Subject: RE: case records scanning
+Thanks [REDACTED] I never heard back from [REDACTED]after your most recent email to him about an index. If you wouldn’t mind following up, I’d be grateful. I’ll follow up with [REDACTED] on the boxes.
+
+From: [REDACTED]
+Sent: Sunday, October 18, 2020 7:11 PM
+To: [REDACTED]
+Subject: RE: case records scanning
+I’m not sure if this is directed to me specifically, but I don’t have any additional information since last week – did you guys hear back from [REDACTED]after my email of 10/12 at 12:16? He was who I asked about the index from the vendor project. The other pending question is whether there are discs in the boxes themselves – if not, then I think it’s a safe inference that all the discs in the boxes were extracted by the vendor, since they’d be reflected in the DVDs.
+
+I think [REDACTED] was going to check on the second half of that when she got back this coming week, and let me know if you want me to ping [REDACTED]on my email from Monday.
+
+From: [REDACTED]
+Sent: Thursday, October 15, 2020 19:09
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+I found the discs and was able to match up some of them as containing the contents of discs whose labels were scanned into Relativity. But there are several that I cannot match up with the “CANNOT BE SCANNED” sheets on Relativity (this is primarily because several of the “CANNOT BE SCANNED” sheets just say “1 CD” or “3 CDs” without any way of identifying what is on the unscanned CD).
+Is there a way to know which of these CDs were loaded onto Relativity and which were not? Any luck finding the index?
+
+From: [REDACTED]
+Sent: Monday, October 12, 2020 4:30 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+Of course, no problem. And the discs are in the hard copy Epstein “file,” which consists of three redwelds on the shelves behind where [REDACTED] used to sit. [REDACTED] was the keeper of them previously, and then he turned them over to [REDACTED].)
+A couple things to note on the discs themselves – first, there are two sets, so don’t be surprised when there are many more than 55 total. And second, that number is approximate – I don’t think I had personally counted them when I sent the email to [REDACTED]and also there are substantive discs and load file discs. But it was around that number, and in any
+                                                                                                                    EFTA00015211
+```
+
+## Structured Fields
+- **Date**: Mon, 19 Oct 2020
+- **Date**: Sunday, October 18, 2020 (Multiple times)
+- **Date**: Thursday, October 15, 2020
+- **Date**: Monday, October 12, 2020
+- **Doc ID**: EFTA00015211
+- **Organization/Software**: Relativity
+- **Name/Location Reference**: Epstein “file”
+- **Redactions**: Extensive redaction of names and email addresses.
+</think>
+
+```markdown
+From: [REDACTED]
+To: [REDACTED]
+Subject: RE: case records scanning
+Date: Mon, 19 Oct 2020 03:34:34 +0000
+
+Thank you
+
+From: [REDACTED]
+Sent: Sunday, October 18, 2020 8:13 PM
+To: [REDACTED]
+Subject: RE: case records scanning
+Okay.
+
+From: [REDACTED]
+Sent: Sunday, October 18, 2020 20:04
+To: [REDACTED]
+Subject: RE: case records scanning
+Thanks [REDACTED] I never heard back from [REDACTED]after your most recent email to him about an index. If you wouldn’t mind following up, I’d be grateful. I’ll follow up with [REDACTED] on the boxes.
+
+From: [REDACTED]
+Sent: Sunday, October 18, 2020 7:11 PM
+To: [REDACTED]
+Subject: RE: case records scanning
+I’m not sure if this is directed to me specifically, but I don’t have any additional information since last week – did you guys hear back from [REDACTED]after my email of 10/12 at 12:16? He was who I asked about the index from the vendor project. The other pending question is whether there are discs in the boxes themselves – if not, then I think it’s a safe inference that all the discs in the boxes were extracted by the vendor, since they’d be reflected in the DVDs.
+
+I think [REDACTED] was going to check on the second half of that when she got back this coming week, and let me know if you want me to ping [REDACTED]on my email from Monday.
+
+From: [REDACTED]
+Sent: Thursday, October 15, 2020 19:09
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+I found the discs and was able to match up some of them as containing the contents of discs whose labels were scanned into Relativity. But there are several that I cannot match up with the “CANNOT BE SCANNED” sheets on Relativity (this is primarily because several of the “CANNOT BE SCANNED” sheets just say “1 CD” or “3 CDs” without any way of identifying what is on the unscanned CD).
+Is there a way to know which of these CDs were loaded onto Relativity and which were not? Any luck finding the index?
+
+From: [REDACTED]
+Sent: Monday, October 12, 2020 4:30 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+Of course, no problem. And the discs are in the hard copy Epstein “file,” which consists of three redwelds on the shelves behind where [REDACTED] used to sit. [REDACTED] was the keeper of them previously, and then he turned them over to [REDACTED].)
+A couple things to note on the discs themselves – first, there are two sets, so don’t be surprised when there are many more than 55 total. And second, that number is approximate – I don’t think I had personally counted them when I sent the email to [REDACTED]and also there are substantive discs and load file discs. But it was around that number, and in any
+                                                                                                                    EFTA00015211
+```
+
+## Structured Fields
+*   **Document ID**: EFTA00015211
+*   **Dates**: Mon, 19 Oct 2020; Sunday, October 18, 2020 (multiple instances); Thursday, October 15, 2020; Monday, October 12, 2020.
+*   **Mentioned Organization/Software**: Relativity
+*   **Mentioned Person/File**: Epstein "file"
+```
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+event, they’re all on that shelf. And hopefully [REDACTED] will be able to send, or point you toward, an index for those materials from the vendor we had unitize them.
+
+From: [REDACTED]
+Sent: Monday, October 12, 2020 16:17
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+
+Thanks very much for working through this, [REDACTED]. I’m planning to be in the office tomorrow and would like to lay eyes on the 55 discs we have so I know what we’re talking about. Where would I find them?
+
+From: [REDACTED]
+Sent: Monday, October 12, 2020 12:46 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: FW: case records scanning
+
+I actually found the answers to some of this morning’s questions. They’re a few emails below (but I’m including the chain for context). The answer from [REDACTED] on the discs—the highlights below are her responses; you guys should have that email in your records as well—is that they did not extract the contents of the discs that were “scattered throughout” the boxes. They made copies of them, like actual digital copies, but did not extract them onto the DVDs that were the “scans” of the boxes. So those discs will still need to be extracted / uploaded to be reviewed.
+
+The one wrinkle on those discs is, keep in mind that we sent all the discs that [REDACTED] gave us to be unitized and uploaded to Relativity by our own vendor. So if it happens to be that what we sent to our vendor was (1) a bunch of discs that included scanned hard copies, and (2) some discs that were just copies of discs, our vendor may actually have solved this problem for us. I think the way to check that is to ask [REDACTED] how those four-set-discs were labeled, and also ask [REDACTED] if there are any discs still in the boxes (if not, we’ve already had them scanned and uploaded to Relativity). I should say, I have something due tomorrow so I’m in the office, so I just looked at the discs themselves, and to me there’s no obvious way to check this on what we have – e.g., no discs are marked “1 of 4”.
+
+I also asked at the time about any images that were not scanned, and she said at the time she would check on those and get back to us. She never did. The context to that is, I think, that this was all in mid- and late-July 2019. There then were a number of technical issues on getting the data from the DVDs sent by the FBI uploaded to Relativity, which went into the first week or so of August. And then of course on August 10, our world changed, and we were no longer doing discovery. In any event, I’ll email [REDACTED] now on two questions: First, the discs that we supposedly received four copies of, how were they labeled (and are they included in the approximately 55 discs we received back, or were they put into the boxes with the hard copy files)? And second, the question of any hard copy documents they didn’t scan. (And will also email [REDACTED] and [REDACTED] to see where the boxes physically are now.)
+
+Obviously I don’t have a vote, but personally, unless FBI did some very specific notations in the originals that are easily accessible, it’s just 23 boxes – we could, and should, just send those boxes to a vendor now. They’d be back in your hands in a week or two, and you’d actually have everything you need.
+
+From: [REDACTED]
+Sent: Tuesday, July 16, 2019 05:07
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+
+Everything is going out via fedex today. It will be sent to FBI New York (discs and boxes) to [REDACTED] attention. Once I have the tracking numbers I will provide them to you.
+
+From: [REDACTED]
+Sent: Monday, July 15, 2019 8:08 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+
+EFTA00015212
+
+## Structured Fields
+- **Dates:**
+    - Monday, October 12, 2020 (16:17)
+    - Monday, October 12, 2020 (12:46 PM)
+    - Tuesday, July 16, 2019 (05:07)
+    - Monday, July 15, 2019 (8:08 PM)
+- **Timeframes mentioned:** Mid- and late-July 2019, first week of August, August 10.
+- **Locations/Organizations:**
+    - FBI New York
+    - Relativity
+- **Case/Doc IDs:**
+    - EFTA00015212
+- **Items Discussed:**
+    - 55 discs
+    - 23 boxes
+    - DVD discs / DVDs
+    - Hard copy files
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+This all makes sense, thanks very much. Please let us know when the discs are sent? And I guess also when the hard copy docs are sent (and whether you were able to locate the images that were not scanned). Thanks again.
+From: [REDACTED]
+Sent: Monday, July 15, 2019 04:10
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+Please see my responses below.
+[REDACTED]
+
+From: [REDACTED]
+Sent: Saturday, July 13, 2019 3:56 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+I [REDACTED]
+That's great, thanks very much for all your and your team's work and for the update. That makes sense regarding the 1As, thanks.
+With respect to the images that were not scanned, is there any way to flag them in the original hard copies somehow, so that we can easily find them and refer to them when the hard copy documents are sent back to New York? Just to avoid needing to try to flip through all the original documents to find them. Let me check and see if a notation was made as to where these images were located or if I can readily/easily find them in output.
+Regarding the discs, I'm not sure I totally understand – when you say four copies each, were there just four discs total? Or possibly I'm just misunderstanding the explanation. And related, is it right that those discs were not processed (just copied) so we'll need to look at those separate for our review? Sorry I should have been clearer. We just copied the discs – not processed and made four copies each which is our standard. The thought being when we burn output we always give a complete set that in theory would go to the defense, AUSA, and two copies to the Agent (one for him/and a back-up). The discs we found in the files contain pdfs (searchable), jgps, gifs, and tif files
+And final question is just how all the scanned materials will be transmitted, so we can plan how most efficiently to receive them and get them processed here. We will send everything back to you on dvds. thanks again,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, July 12, 2019 13:59
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+Good Afternoon!
+Here is the latest. We have finished scanning!
+In the course of going through the paper it was discovered that at some point in time (perhaps between 2013 and 2015 when it was last digitized) three 1As failed to make it back into their respective file jackets. It's not clear what happened or who is at fault. I can tell you that we were able to conduct a search of our local network and retrieve the images. I spoke with our Field Evidence Unit who recommended that prior to inserting the images we create a cover sheet that reflected that the images were not a part of the "original" paper rather they were regenerated from a digital copy. The 1As in questions are 1A10, 1A28, 1A84 as well as two missing serials in 31E-MM-108062-GJ SEC 001 SER 1-45. My digital team is addressing this matter and has assured me I'll be able to burn the output first thing Monday so that we can get everything returned to you.
+A few other items to point out. There were some pornographic images of young girls. These were not imaged per our protocols. You As you review the content anywhere these images may have been you will see a DocLab kicksheet that states "possible child pornography" DO NOT SCAN. The original documents are still in their original location – they were just not scanned.
+
+EFTA00015213
+
+## Structured Fields
+- **Dates:** July 15, 2019; July 13, 2019; July 12, 2019
+- **Case ID / Ref:** EFTA00015213
+- **Case Reference Number:** 31E-MM-108062-GJ SEC 001 SER 1-45
+- **Locations:** New York
+- **Organizations/Units:** Field Evidence Unit, DocLab
+- **Names/Roles:** Agent (Agent), AUSA (Assistant United States Attorney)
+- **Items Mentioned:** Discs, Hard copy docs, 1As (file jackets), pdfs, jpgs, gifs, tif files, DVDs
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Finally, there were a number of discs scattered throughout. We made physical copies – one for one ratio of each (four copies each) to go along with the physical paper scanned. These will be sent along with the discs we will generate. Please let me know if you have any questions. I’ll be in bright and early Monday morning.
+[REDACTED]
+From: [REDACTED]
+Sent: Tuesday, July 09, 2019 11:13 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+[REDACTED]
+Thanks very much for letting us know, that’s extremely helpful and we appreciate it! Looking forward to being in touch as it continues, and thanks again.
+[REDACTED]
+From: [REDACTED]
+Sent: Tuesday, July 09, 2019 15:55
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+Gentlemen:
+I just wanted to give you a quick update.
+We finished inventoring all 22 boxes and released everything to DocLab last evening for scanning. As of this writing we are looking good for meeting the original deadline – give or take a day. We still have a few things to tweak, but I’m confident that things are looking good and we’ll have this wrapped up within the next day or two. I’ll send you a more detailed email tomorrow morning when I get in.
+Take care and have a good evening.
+[REDACTED]
+From: [REDACTED]
+Sent: Wednesday, July 03, 2019 11:16 AM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: case records scanning
+Thanks very much for the update – I think unless you guys can confirm that any prior scans were absolutely 100% done correctly (and separated by document, etc.), we’d prefer to have them just done in one full set now—particularly knowing that this will all be the subject of discovery, which definitely wouldn’t have been the case in 2013.
+thanks again,
+[REDACTED]
+From: [REDACTED]
+Sent: Wednesday, July 03, 2019 11:10
+To: [REDACTED]
+Cc: [REDACTED]
+([REDACTED])
+Subject: RE: case records scanning
+Happy 4th of July Eve. We just received 22 boxes about 5 minutes ago. We discovered that the Miami Field Office had requested DocLab to scan a number of them back in 2013. I’m hoping (fingers crossed) that the images are available on our internal network so that I can access them and just simply reprocess the digital output, if not we’ll re-prep and scan accordingly. We will keep you posted.
+Take care and have a great holiday.
+
+## Structured Fields
+- Dates: Tuesday, July 09, 2019; Wednesday, July 03, 2019
+- Organizations: DocLab, Miami Field Office
+- Document IDs: EFTA00015214
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing six distinct message headers and body snippets, arranged chronologically from newest (top) to oldest (bottom). The document is heavily redacted; black bars obscure sender names, recipient addresses, and specific organizational emails for almost all participants.
+
+*   **Topmost Email:** Dated Tuesday, July 02, 2019 at 2:10 PM. The body text acknowledges "time pressure" but emphasizes allowing the recipients ("your folks") to do the job their way. It specifically mentions scanning documents separately and dealing with scraps or post-its. It notes that extra days are understandable due to an upcoming holiday.
+*   **Second Email:** Dated Tuesday, July 02, 2019 at 14:06. The text confirms receipt of a "scan request." The sender expresses concern about a deadline originally set for 7/10. They note that the number of boxes increased from 15 to 22 and delivery is delayed until Thursday (a holiday). The sender asks if they can extend the deadline to the 16th.
+*   **Third Email:** Dated Tuesday, July 02, 2019 at 10:39 AM. This email offers an apology regarding a FedEx pickup that required a scheduled appointment. It confirms the package will arrive in VA (Virginia) tomorrow. A tracking number is provided. The signature block is partially visible but identifies the group as "Squad C-20 VCAC/Human Trafficking FBI New York".
+*   **Fourth Email:** Dated Monday, July 01, 2019 at 10:46 PM. This message is a quick follow-up asking to confirm if boxes went out last week.
+*   **Fifth Email:** Dated Monday, July 01, 2019 at 11:23. The sender follows up stating that FedEx is not showing any in-bound packages for them today.
+*   **Bottom Email:** Dated Friday, June 28, 2019 at 12:02 PM. Only the header fields (From, Sent, To) are visible; the body text is cut off.
+*   **Footer:** A code "EFTA00015215" appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**Email 1**
+From: [Redacted]
+Sent: Tuesday, July 02, 2019 2:10 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: case records scanning
+We’re under time pressure but I think the most important thing is that your folks have the time you need to do the job in a way you’re comfortable with—being able to scan each document separately, dealing with any random scraps of paper, post-its, etc etc. If doing the best possible job requires an extra few days that’s totally understandable, especially given the holiday. Thanks again for the focus on it, and for following up.
+
+**Email 2**
+From: [Redacted]
+Sent: Tuesday, July 02, 2019 14:06
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: case records scanning
+I got the scan request thanks.
+How much wiggle room can I get on the deadline we originally talked about of 7/10? I’m concerned that with the boxes going from 15 to 22 and now not showing up until sometime tomorrow and Thursday a holiday the 10th is going to be extremely tight. Can I extend out at all to the 16th? If not I understand and we’ll work to make it work somehow.
+
+**Email 3**
+From: [Redacted]
+Sent: Tuesday, July 02, 2019 10:39 AM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: case records scanning
+My apologies, appartmently with a Fedex pickup this size an appointment had to be setup. The pickup was scheduled for today and will arrive in VA tomorrow, tracking number 4744 7647 0418.
+Thanks,
+[Redacted] office mobile
+Squad C-20
+VCAC/Human Trafficking
+FBI New York
+
+**Email 4**
+From: [Redacted]
+Sent: Monday, July 01, 2019 10:46 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: case records scanning
+Quickly following up on this, can we confirm the boxes went out last week?
+
+**Email 5**
+From: [Redacted]
+Sent: Monday, July 01, 2019 11:23
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: case records scanning
+I just want to follow-up that the boxes were shipped. Fedex is not showing anything in-bound for us today.
+
+**Email 6**
+From: [Redacted]
+Sent: Friday, June 28, 2019 12:02 PM
+To: [Redacted]
+
+## Notable Details / Clues
+*   **Organizational Identity:** The email signature in the third message explicitly identifies the sender as part of "Squad C-20 VCAC/Human Trafficking FBI New York," indicating a law enforcement context involving human trafficking cases.
+*   **Tracking Number:** A specific FedEx tracking number (4744 7647 0418) is provided for shipment verification.
+*   **Timeline Conflict:** The emails discuss a conflict between a July 10th deadline and the volume of boxes increasing from 15 to 22, leading to a request to extend to the 16th.
+*   **Holiday Impact:** The text references "Thursday a holiday" in mid-July, which aligns with the US Independence Day holiday on July 4th, 2019.
+*   **Spelling Error:** In the third email, the word "apparently" is misspelled as "appartmently."
+*   **Redaction Extent:** Nearly all personal names and specific addresses are blacked out to protect privacy, though organizational units remain visible.
+*   **Document Type:** The code in the bottom right corner (EFTA00015215) suggests this might be an archived document or part of a specific case file system.
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+Cc:[REDACTED]
+Subject: RE: case records scanning
+The boxes will be shipped via Fedex this afternoon.
+
+From:[REDACTED]
+Sent: Friday, June 28, 2019 8:28 AM
+To:[REDACTED]
+Cc:[REDACTED]
+Subject: RE: case records scanning
+Let me know as soon as the boxes ship. Thanks!
+
+From:[REDACTED]
+Sent: Thursday, June 27, 2019 2:16 PM
+To:[REDACTED]
+Cc:[REDACTED]
+Subject: RE: case records scanning
+[REDACTED]
+Thanks very much for chatting earlier today, and as promised wanted to send an email so you have our full contact info. My colleague [REDACTED] and I are the prosecutors working on the investigation – she’s also copied here, and we’re available anytime via email, or by phone at:
+[REDACTED] (office), [REDACTED] (cell)
+[REDACTED] (office), [REDACTED] (cell)
+
+It’s our understanding that there are approximately 23 boxes of papers, give or take, and that they include approximately two boxes from FBI case file 72-MM-113327 and the remainder from FBI case file 31E-MM-108062. Please don’t hesitate to reach out if anything comes up at all, or if we can be of any help, and thanks very much for putting this at the top of your list, we really appreciate it.
+thanks again,
+[REDACTED]
+Assistant U.S. Attorney
+Southern District of New York
+[REDACTED]
+
+## Structured Fields
+*   **Date:** June 28, 2019; June 27, 2019
+*   **Subject:** RE: case records scanning
+*   **Case File IDs:** 72-MM-113327, 31E-MM-108062
+*   **Organization:** FBI, Southern District of New York
+*   **Document ID:** EFTA00015216
+*   **Role/Title:** Assistant U.S. Attorney, prosecutors
+

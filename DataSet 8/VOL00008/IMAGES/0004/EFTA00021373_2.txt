@@ -1,0 +1,63 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021373.pdf ts=2026-03-14T23:36:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a web-based or desktop email client interface, specifically showing an email thread consisting of two messages stacked vertically. The interface appears to be Microsoft Outlook based on the layout and font styles.
+
+**Top Section (Reply Email):**
+This is a reply to a previous message. The header fields are visible but heavily redacted for privacy. A large, solid black rectangle occupies the center of the email body, replacing an image attachment or inline image referred to in the text. Above this black box is a standard toolbar with navigation and pagination controls (showing "200 / 1,828,275"). Below the black box, the sender signs off as "Chris."
+
+**Bottom Section (Original Email):**
+This message was sent on Tuesday, February 16, 2021. The text is legible and discusses technical issues with a legal database called "Relativity" regarding the prosecution of Jeffrey Epstein. The signature block reveals the sender is an "Assistant United States Attorney" located in the "Southern District of New York." Several names and email addresses are obscured by thick black bars.
+
+**Header Information:**
+The header shows a reply chain. The topmost header line lists "From" and "To" fields with "(USANYS) [Contractor]" visible in parentheses, indicating the sender is likely an outside vendor working for the United States Attorney's Office. The subject line references the "Epstein Relativity Database."
+
+## Visible Text (verbatim)
+**Top Header Area:**
+- From: "[Redacted] (USANYS) [Contractor]" <[Redacted]>
+- To: "[Redacted]" <[Redacted]>
+- Subject: RE: Question re Epstein Relativity Database
+- Date: Wed, 17 Feb 2021 14:19:24 +0000
+- Inline-Images: image001.png
+
+**Top Email Body:**
+- Hello [Redacted].
+- Please make sure to use the file path field which will contain the NYC number. Please see screenshot below:
+- Thank you. Chris.
+
+**Bottom Email Header Area:**
+- From: [Redacted]
+- Sent: Tuesday, February 16, 2021 6:06 PM
+- To: [Redacted] (USANYS) [Contractor]
+- Subject: Question re Epstein Relativity Database
+
+**Bottom Email Body:**
+- H[Redacted],
+- In the “US v. Epstein (SW Returns)” I’m trying to see the NYC serial number reflecting which device a particular document came from. In the past, you helped me add a column in Relativity to show the NYC serial number for each document. Would you be able to help me with that again, please? Thanks,
+- [Redacted]
+- [Redacted]
+
+**Signature Block:**
+- Assistant United States Attorney
+- Southern District of New York
+- 1 St. Andrew’s Plaza
+- New York, NY 10007
+
+**Pagination Controls (above black box):**
+- Arrows, Filter icon, Print icon, View Grid icon | 1 | - 200 / 1.828.275 | 200 [dropdown] per page [Previous/Next buttons]
+
+**Footer:**
+- EFTA00021373 (Reference number in bottom right corner)
+
+## Notable Details / Clues
+- **Large Black Rectangle:** A massive black bar obscures the center of the screen. The text "Please see screenshot below:" immediately precedes it, indicating this is a redacted screenshot from an email chain where sensitive visual evidence was likely hidden.
+- **Dataset Scale:** The pagination control reads "200 / 1,828,275," implying the user is viewing a dataset of nearly 1.8 million records within the Relativity discovery platform.
+- **Case Context:** The subject line and body text explicitly reference "US v. Epstein," connecting the technical request to the high-profile criminal investigation into Jeffrey Epstein's activities in New York.
+- **"NYC Number":** The repeated mention of the "NYC number" or "NYC serial number" suggests a specific internal identifier used for devices (phones, computers) found at locations relevant to the case, likely the estate on Wall Street or similar properties in New York City.
+- **Vendor Communication:** The "(USANYS) [Contractor]" designation confirms this is internal government communication with a third-party IT vendor managing the legal database.
+- **Address Verification:** The physical address "1 St. Andrew’s Plaza" corresponds to the offices of the Southern District of New York, confirming the location mentioned in the signature.
+- **Timestamp Discrepancy:** The top email date shows "+0000" (UTC/GMT), while the bottom email shows a local US time zone likely, or just standard PST/EST depending on the client setting, though the text says "6:06 PM".
+- **Redaction Pattern:** The redactions are thick black bars of varying lengths, typical of FOIA requests or sensitive data handling protocols to protect personal identifiers (PII).
+

@@ -1,0 +1,105 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028028.pdf ts=2026-03-17T19:36:36 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing five distinct message headers and bodies, arranged vertically. The topmost email is dated Tuesday, October 26, 2021, while the emails below are from Monday, October 25, 2021. Personal information such as sender names, recipient addresses, and CC fields are heavily redacted with thick black bars.
+
+The thread discusses a document titled "Govt_Omnibus_Opp_v4.docx." The correspondence involves checking formatting details (spacing and green highlighting) before creating a Table of Contents (TOC). There is also a discussion regarding whether a Terms of Agreement (TOA) or Table of Appendices is needed alongside the TOC.
+
+The emails are separated by thin, light gray horizontal lines. The text is left-aligned. The email client interface mimics standard Outlook formatting with bold labels for "From," "Sent," "To," etc. At the very bottom right corner of the page, there is an alphanumeric identifier: EFTA00028028.
+
+## Visible Text (verbatim)
+**Header Block 1:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Brief
+Date: Tue, 26 Oct 2021 03:08:08 +0000
+Attachments: Govt_Omnibus_Opp_v4.docx
+
+**Body Block 1:**
+Hi [Redacted]
+
+Brief attached. Before you make the TOC, will you do a quick scroll through to confirm that (1) there’s no weird spacing issues, and (2) the only highlighting is green? I just did that but could use someone double-checking.
+
+Thanks!
+[Redacted]
+
+**Header Block 2:**
+From: [Redacted]
+Sent: Monday, October 25, 2021 9:53 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Brief (partially obscured)
+
+**Body Block 2:**
+Sounds good!
+[Redacted]
+
+**Header Block 3:**
+From: [Redacted]
+Sent: Monday, October 25, 2021 9:51 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Brief
+
+**Body Block 3:**
+OK! Just TOC this time. Thanks!
+[Redacted]
+
+**Header Block 4:**
+From: [Redacted]
+Sent: Monday, October 25, 2021 9:51 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Brief
+
+**Body Block 4:**
+You can send it to me, thanks. Are you going to need a TOA and TOC or just one or the other?
+[Redacted]
+
+**Header Block 5:**
+From: [Redacted]
+Sent: Monday, October 25, 2021 9:48 PM
+To: [Redacted]
+Cc: [Redacted] (or covered by bar)
+
+**Footer:**
+EFTA00028028
+
+## Notable Details / Clues
+*   **Chronological Flow:** The emails are not strictly chronological in the standard "newest on top" view because the Oct 26 email is at the top, followed by Oct 25 emails. This suggests a "Show All in Inbox" view or a specific thread organization where an older thread was pulled up.
+*   **Document Context:** The filename "Govt_Omnibus_Opp_v4.docx" implies government-related business ("Govt"), potentially opposition documents ("Opp"), and this is the fourth version ("v4") of the document.
+*   **Formatting Instructions:** The sender specifically requests checking for "weird spacing issues" and confirms that only "green" highlighting should be present in the file.
+*   **Acronyms:** The text uses acronyms TOC (likely Table of Contents) and TOA (possibly Terms of Agreement or Table of Appendices).
+*   **Redaction Pattern:** The redaction bars are inconsistent in height and length, suggesting they were applied manually rather than automatically by a privacy filter. Some bars cover full lines, while others cover partial names.
+*   **Timestamp Discrepancy:** Two emails were sent at 9:51 PM on the same day, indicating rapid back-and-forth communication within minutes.
+*   **Signature Blocks:** All signatures are replaced by black rectangles, making it impossible to identify the participants without de-redaction.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: [REDACTED]
+Subject: Brief
+
+Hi all,
+
+Just checking in to see who I should send the brief to tonight when it’s ready to be finalized. Thanks!
+
+Andrew
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+1 Saint Andrews Plaza
+New York, New York 10007
+[REDACTED]
+
+## Structured Fields
+*   **Date:** [Not explicitly stated in the body text, though context implies "tonight"]
+*   **Case ID / Doc ID:** EFTA00028029
+*   **Location:** Southern District of New York; 1 Saint Andrews Plaza, New York, NY 10007
+*   **Names:** Andrew
+*   **Organizations:** Assistant United States Attorney; Southern District of New York
+*   **Subject:** Brief
+

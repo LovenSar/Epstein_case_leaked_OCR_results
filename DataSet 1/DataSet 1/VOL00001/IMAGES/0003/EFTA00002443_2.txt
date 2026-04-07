@@ -1,0 +1,31 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002443.pdf ts=2026-03-05T20:08:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Primary Subject:** A large, industrial-grade electrical switchgear cabinet dominates the frame, constructed from grey-painted metal panels.
+*   **Orientation:** The unit is tall and vertical, extending out of the top and bottom of the frame, with a side panel visible on the right edge receding into the shadows.
+*   **Ventilation:** At the very top center, there is a rectangular ventilation grille or louvers designed to dissipate heat from internal components.
+*   **Circuit Breakers:** On the main face (left-center), a vertical column of circuit breaker modules is installed. These feature white faceplates with black operating levers and small red/black indicator lights or status windows next to them.
+*   **Warning Labels:** A prominent "DANGER" label is adhered to the upper right portion of the cabinet face. It features a red header bar and a graphic symbol of a figure falling, indicating an electrocution risk.
+*   **Informational Stickers:** Below the danger sign, there is a yellow rectangular sticker or document encased in plastic. To the left, on the adjacent cabinet section, several blue and white instructional labels are stacked vertically.
+*   **Adjacent Equipment:** To the far left, another section of switchgear is visible in shadow. This section shows a dense array of smaller breakers or switches with corresponding red and black toggle handles.
+*   **Hardware Details:** The seams between cabinet doors are secured with bolts; specifically, three dark rivets or bolts are spaced evenly down the right-side vertical beam. A handwritten mark is visible on the side panel.
+*   **Lighting/Environment:** The scene is dimly lit, likely an indoor utility room or substation. The lighting casts soft shadows behind the equipment, highlighting the metallic texture of the grey doors.
+*   **Condition:** The equipment appears functional but used. Some labels show slight wear. The metal surface has a matte finish typical of industrial electrical enclosures.
+
+## Visible Text (verbatim)
+*   **"EFTA00002443"** (Located in bottom right corner, digital overlay)
+*   **"DANGER"** (On the red header of the warning placard)
+*   **"Hazardous voltage..."** (Followed by illegible smaller text regarding severe injury or death)
+*   **"The line side of main is energized when off."** (Partial transcription from the lower text block on the danger sign)
+*   **"E E"** (Handwritten in black marker on the right-side panel near the top)
+
+## Notable Details / Clues
+*   **Safety Protocol:** The "DANGER" label with the falling figure is a standard ANSI/IEC safety graphic used to warn of high voltage hazards that can cause fatal injury even after a power trip, often referred to as step potential or arc flash risks.
+*   **Inventory Coding:** The handwritten "E E" on the right panel suggests this specific cabinet or bay might be labeled for inventory tracking, possibly indicating a specific area (e.g., East End) or component ID.
+*   **Label Hierarchy:** The use of Red for "DANGER," Yellow for caution/instructions, and Blue/White for information follows standard safety color-coding protocols (NFPA 70E / OSHA standards).
+*   **Modular Design:** The switchgear is built in modular bays, allowing sections to be removed or accessed individually without removing the entire assembly.
+*   **Electrical Load Capacity:** The density of the circuit breakers suggests this is a distribution panel supplying power to a large facility (hospital, factory, or commercial building) rather than simple residential use.
+*   **Ventilation Placement:** The vents are located at the top, utilizing hot air rising naturally to prevent overheating of low-voltage control components which would be placed lower down.
+

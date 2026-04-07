@@ -1,0 +1,85 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021166.pdf ts=2026-03-14T21:52:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document or email attachment titled "SDNY PRESS CLIPPINGS," dated September 9, 2020. At the very top, a large black rectangle obscures what appears to be an email header, with fragments of "From:", "To:", and "Cc:" visible on the left edge before the blockage. Beneath this black box, specific email metadata is visible in blue text, including the subject line regarding press clips, the date and time stamp (Wed, 09 Sep 2020 19:27:37 +0000), and an inline image reference.
+
+Below the metadata is the primary visual header of the document. It features a wide blue banner containing white text that reads "SDNY PRESS CLIPPINGS." To the left of this text is the official seal of the Southern District of New York, which is circular with gold lettering reading "DEPARTMENT OF JUSTICE" and imagery of an eagle and scales.
+
+The body of the document lists various news sources and links in a hierarchical list format.
+- The first item is labeled "ROBERT HADDEN" with a hyperlink underneath that reads "(Click for media report.)".
+- Below that is a category labeled "MAXWELL," followed by two hyperlinks: one from REUTERS regarding Ghislaine Maxwell's deposition, and one from ABC news regarding Jeffrey Epstein-related documents in the Virgin Islands.
+- The next section is titled "MATTERS OF INTEREST" featuring a link from BLOOMBERG about Deutsche Bank hiring Barr's friend.
+- Following that is "DAILY BEAST" with a link concerning Sam Dewey and Voice of America.
+- Then "POP TIMES UK" with a link to a Pop Times story about Stephen Colbert responding to a Steve Bannon's Wall scam.
+- Next is "CNN" with a link titled "barr-carroll-trump-defamation".
+- Below that is a second entry for "WaPo" (The Washington Post) discussing corruption in the DOJ and mass resignations under William Barr.
+- Then "NY POST" regarding Attorney General Barr's comments on New York violence.
+- Followed by "CNBC" linking to an article about Chinese companies blaming trading typos.
+- Then "DEADLINE" with a link about Michael Cohen and Donald Trump.
+- Next is "POLITICO" regarding the SBA mislead public on disaster loan fraud.
+- Finally, there is a third entry for "WaPo" linking to an article about the FBI's investigation of Boogaloo and Hamas terrorism.
+
+At the bottom left, the names "Nicholas Biase" and "Public Affairs" are printed in small grey text. In the bottom right corner, a reference number "EFTA00021166" is visible. The entire document has a clean, white background with standard sans-serif typography.
+
+## Visible Text (verbatim)
+**Header Metadata:**
+Subject: SDNY PRESS CLIPS, SEPTEMBER 9, 2020
+Date: Wed, 09 Sep 2020 19:27:37 +0000
+Inline-Images: image001.png
+
+**Main Banner Text:**
+SDNY PRESS CLIPPINGS
+
+**Body List:**
+ROBERT HADDEN
+(Click for media report.)
+MAXWELL
+REUTERS: https://www.reuters.com/article/us-people-ghislaine-maxwell/epstein-accuser-says-ghislaine-maxwells-deposition-should-be-made-public-idUSKBN26031R
+ABC: https://abcnews.go.com/US/us-virgin-islands-jeffrey-epstein-related-documents-ny/story?id=72892602
+MATTERS OF INTEREST
+BLOOMBERG: https://www.bloomberg.com/news/articles/2020-09-09/deutsche-bank-hires-barr-friend-to-raise-its-game-in-washington
+DAILY BEAST: https://www.thedailybeast.com/sam-dewey-lawyer-investigating-voice-of-america-is-subject-to-a-restraining-order
+POP TIMES UK: https://poptimesuk.com/stephen-colbert-responds-to-steve-bannons-wall-scam-using-his-name/185404/
+CNN: https://www.cnn.com/2020/09/09/politics/barr-carroll-trump-defamation/index.html
+WaPo: https://www.washingtonpost.com/opinions/2020/09/09/william-barrs-corruption-doj-is-getting-worse-where-are-mass-resignations/
+NY POST: https://nypost.com/2020/09/09/attorney-general-barr-says-new-york-violence-spike-due-to-bail-reform/
+CNBC: https://www.cnbc.com/2020/09/09/more-chinese-companies-blaming-trading-typos-for-insider-stock-sales.html
+DEADLINE: https://deadline.com/2020/09/michael-cohen-donald-trump-national-enquirer-1234573343/
+POLITICO: https://www.politico.com/news/2020/09/09/oversight-group-says-sba-misled-public-on-disaster-loan-fraud-410736
+WaPo: https://www.washingtonpost.com/outlook/2020/09/09/fbi-boogaloo-hamas-terrorism/
+
+**Footer:**
+Nicholas Biase
+Public Affairs
+EFTA00021166
+
+## Notable Details / Clues
+- **Date Specificity:** The document is explicitly dated September 9, 2020, providing a precise timeline for the news cycle being summarized.
+- **Jurisdiction:** The presence of the "SDNY" (Southern District of New York) seal indicates this is an official communication from a federal district court or prosecutor's office.
+- **Content Variety:** The list covers a wide range of topics including legal depositions (Epstein), political appointments (Deutsche Bank hiring), media controversies (Colbert show scam, Barr defamation), and international finance (Chinese trading typos).
+- **Link Structure:** Most links include the full URL in blue, clickable style text, indicating this document was likely viewed as a PDF export of an HTML email.
+- **Obfuscation:** The top black box suggests this is a screenshot taken within an email client where sensitive sender/receiver information has been redacted or hidden for privacy/security reasons.
+- **Attribution:** The name "Nicholas Biase" at the bottom links the document to a specific individual in Public Affairs, likely a staff member of the SDNY press office.
+- **Document ID:** The code "EFTA00021166" in the corner is an Electronic Filing Tracking Application number or similar internal docket identifier used by federal courts.
+- **Link Sources:** The diversity of sources (Reuters, ABC, Bloomberg, CNN, WaPo, NY Post, CNBC, Politico) suggests the SDNY monitors a broad spectrum of media, including major outlets and opinion pages.
+- **URL Timestamps:** While not all are visible, the URLs themselves often contain timestamps matching the document date (e.g., /2020/09/09), confirming the freshness of the news clips on that specific day.
+- **Formatting Consistency:** The use of bold headers followed by regular text links creates a clear taxonomy for a busy legal professional to scan quickly.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States Department of Justice
+U.S. Attorney's Office | Southern District of New York
+Nicholas.Biase@usdoj.gov | Mobile: (646) 261-2074 | Press Office: (212) 637-1020
+
+EFTA00021167
+
+## Structured Fields
+
+*   **Organization**: United States Department of Justice, U.S. Attorney's Office | Southern District of New York
+*   **Email**: Nicholas.Biase@usdoj.gov
+*   **Phone (Mobile)**: (646) 261-2074
+*   **Phone (Press Office)**: (212) 637-1020
+*   **Document ID**: EFTA00021167
+

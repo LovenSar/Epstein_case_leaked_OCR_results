@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003036.pdf ts=2026-03-06T00:30:13 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled photograph of a document titled "Emergency Contact Form" encased within a plastic sheet protector inside a binder. The background appears to be a dark, textured surface, possibly a blackboard or desk. At the very top left, handwritten in blue ink across the header area, are the words "Declined to Complete." Below this, centered at the top, is the company logo "LSJE, LLC" with an address in St. Thomas, VI, and an email address ending in "@gmail.com". The phone number field next to the address has been redacted with a thick black marker box.
+
+The form itself contains two columns of fields for personal information. In the top left, inside a rectangular box, the date "04/01/19" is handwritten. Directly below that, in the "Employee Name" field, the name "Dale Mark" is handwritten. The rest of the form fields—including Physical Address, Mailing Address, Cell Phone, E-mail, Title/Position, Start Date, Date of Birth, and various medical/contact fields—are left blank. A row of checkboxes for "Blood type" runs across the middle section, all of which remain unchecked. At the bottom, sections for current medications, doctor information, and emergency contact names/relationships are empty. Partial text is visible on the left margin through the binder ring holes, showing fragments like "All," "Ble" (highlighted in yellow), "Cu," and "Do," likely belonging to a checklist or index card behind this page. A document control number "EFTA00003036" is printed in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+LSJE, LLC
+6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802-1348
+Phone: [REDACTED]
+E-mail: thesaintjames.group@gmail.com
+
+**Form Title:**
+Emergency Contact Form
+
+**Field Labels & Content:**
+Today's Date: 04/01/19
+Start Date: [Blank]
+Employee Name: Dale Mark
+Date of Birth: [Blank]
+Physical Address: [Blank]
+Mailing Address: [Blank]
+Cell Phone: [Blank]
+Phone (other): [Blank]
+E-mail: [Blank]
+Marital Status: [Blank]
+Title/Position: [Blank]
+Driver's License No: [Blank]
+
+**Medical Section:**
+Allergies or Health Concerns: [Blank]
+Blood type:
+[ ] A- [ ] A+ [ ] AB- [ ] AB+ [ ] B- [ ] B+ [ ] O- [ ] O+ [ ] Unknown
+Current Medications: [Blank]
+
+**Doctor Section:**
+Doctor's Name: [Blank] | Doctor's Phone: [Blank]
+Doctor's Name: [Blank] | Doctor's Phone: [Blank]
+
+**Emergency Contact Section:**
+In case of emergency, please contact:
+Name: [Blank] | Relationship: [Blank] | Phone: [Blank]
+Name: [Blank] | Relationship: [Blank] | Phone: [Blank]
+
+**Footer Note:**
+This information is for your safety and the safety of others.
+
+**Watermark/ID:**
+EFTA00003036
+
+**Side Notes (Partial):**
+All
+Ble (Highlighted)
+Cu
+Do
+Do
+In c
+Nan
+am
+
+## Notable Details / Clues
+*   **Incomplete Status:** Despite the handwritten name "Dale Mark" and the date "04/01/19," the vast majority of the form is empty, suggesting it was not fully filled out.
+*   **Contradictory Note:** The phrase "Declined to Complete" written at the top left conflicts with the presence of a handwritten name on the form, suggesting perhaps HR initiated the entry or the person refused further steps after giving their name.
+*   **Redaction:** The company phone number is blacked out, likely for privacy reasons in this specific file view or because it was an error during data entry.
+*   **Date Context:** The date filled is April 1st, 2019 (or potentially a different year if the '9' is a typo for something else, but visually reads as '19').
+*   **Side Documentation:** The fragments visible on the left edge ("All", "Ble") correspond to common allergies listed in safety forms (Asthma, Bleeding disorders), implying this form is part of a larger employee health tracking system.
+*   **Blood Type Options:** The blood type section includes standard options plus "Unknown," indicating awareness that employees might not know their type.
+*   **Location:** The address indicates the company is located in the U.S. Virgin Islands (St. Thomas, VI).
+

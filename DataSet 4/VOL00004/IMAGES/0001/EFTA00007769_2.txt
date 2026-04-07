@@ -1,0 +1,138 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007769.pdf ts=2026-03-09T00:45:40 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+EVIDENCE
+[REDACTED]ERAL BUREAU OF INVESTIGATION
+
+EVIDENCE
+FEDERAL BUREAU OF INVESTIGATION
+
+## Structured Fields
+- Organization: Federal Bureau of Investigation (FBI)
+- Document ID: EFTA00007769
+- Content Type: Evidence Handling Unit Stamp
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Structured Fields
+*   **Doc ID**: EFTA00007770
+*   **Identifier/Label**: 1B7-19
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, vertical view of a bright, hot-pink informational sheet, likely made of archival packing paper or plastic wrap. The background is a uniform, solid magenta color with no texture visible. Centered on this background is black text printed in a clean, sans-serif typeface (resembling Arial or Helvetica). The text is arranged in two main distinct blocks separated by significant vertical whitespace. The first block occupies the upper third of the sheet, while the second block sits in the lower third. In the bottom left corner, there is smaller, multi-line text providing versioning and date information. Along the very bottom right edge, partially cut off or just visible within the frame boundary, is a long alphanumeric string in white text against a dark strip or border. The lighting is even, suggesting an overhead scan or photo.
+
+## Visible Text (verbatim)
+**Upper Block:**
+All documents and
+photographs
+enclosed have been
+digitized.
+
+**Lower Block:**
+Negatives and/or
+media have not
+been captured.
+
+**Bottom Left Corner:**
+DL-02 Media v0.1
+April 2018
+
+**Bottom Right Edge:**
+EFTA00007771
+
+## Notable Details / Clues
+- **Archival Context:** This sheet is a standard disclaimer included in shipping boxes for libraries or archives to warn recipients that the physical negatives are not inside, saving space and cost.
+- **Color Coding:** The specific shade of pink is characteristic of Glad Press 'n Seal packing tissue often used by large organizations like the National Archives or similar institutions.
+- **Versioning:** The text "DL-02 Media v0.1" indicates this is a specific template (possibly part of a series labeled DL-02) and that this is version 0.1 of that document.
+- **Date Stamped:** The date "April 2018" places the creation or use of this specific sheet template in the latter part of the decade.
+- **Text Hierarchy:** The main message about digitization takes up more visual weight than the warning about missing negatives, prioritizing the success of the digitization project.
+- **Line Breaks:** The text is broken onto multiple lines to ensure readability without fitting everything into a single paragraph (e.g., "Negatives and/or").
+- **Document ID:** The code "EFTA00007771" suggests a tracking number or barcode label placed over the bottom edge of the document for filing purposes.
+- **Negative Space:** There is a large gap between the two main blocks of text, likely to prevent visual clutter and ensure distinct separation of the concepts (digitized items vs. missing negatives).
+- **Font Consistency:** The font weight remains consistent (regular weight) throughout, avoiding bolding for emphasis which might otherwise draw attention away from the information.
+- **Bottom Left Footer:** This smaller text block acts as a technical footer, distinct from the main body copy.
+- **Edge Damage/Context:** The image is cropped tightly on the left and right, suggesting this was a scan of a document placed inside a larger box or envelope.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Town of Palm Beach Police Department Evidence Bag Label
+
+```text
+[Town of Palm Beach Police Department Logo]       [Joint Terrorism Task Force Logo]
+Town of Palm Beach                             EVIDENCE
+Police Department
+
+CASE # 05-368  PROPERTY # 05-1090
+12/4/01 TS
+
+CONTENTS
+Item      Quantity  Description
+------------------------------------------------------------
+1         1         micro w/[REDACTED]
+
+
+Suspect:    Epstein
+Officer:    [REDACTED]          Date: 12/5/05
+Lab #:      
+
+KL-231
+```
+
+## Structured Fields
+*   **Location:** Town of Palm Beach
+*   **Organization:** Town of Palm Beach Police Department
+*   **Case Number:** 05-368
+*   **Property Number:** 05-1090
+*   **Date (Property):** 12/4/01
+*   **Suspect:** Epstein
+*   **Officer:** [REDACTED]
+*   **Date (Entry):** 12/5/05
+*   **Document ID/Footer:** KL-231
+*   **Barcode Number:** 623858
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+
+MICRO CASSETTE
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007773
+
+## Structured Fields
+- **Date:** July 27, 2020
+- **Doc ID:** EFTA00007773
+- **Description:** Micro Cassette
+- **Organization:** DocLab
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[IMAGE 1]
+
+                                                                                                       
+                                                                                                        
+SONY                                                                                                         
+MC-90                                                                                                        
+A                                                                                                            
+title                                                                                                        
+                                                                                                              
+□MEETING □MEMO □OTHERS (                                                                                    
+A: [REDACTED]                                                                                               
+B: [REDACTED]                                                                                               
+2-651050-31                                                                                                 
+
+## Structured Fields
+
+*   **Date:** Oct '90 (handwritten on cassette label)
+*   **Organization:** SONY
+*   **Item:** MC-90 Cassette
+*   **Document ID:** EFTA00007774
+

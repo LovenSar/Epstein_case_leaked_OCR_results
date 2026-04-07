@@ -1,0 +1,1188 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007070.pdf ts=2026-03-08T14:24:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document page, specifically "Page 175 of 179" from a larger spreadsheet or report file named "MetroPCS Call Detail for 16980 -179pgs 1-1-06 to 7-19-06.xls". The document lists call detail records arranged in rows and columns.
+
+The table features headers at the top: **BILLED PHONE**, **CALL DATE**, **TIME**, **DIALED NUMBER**, **DEST NUMBER**, **DIR**, **SF**, **MM**, **SEC**, and **CALLER ID**.
+-   **Redaction:** A significant portion of the data is obscured. The first column (**BILLED PHONE**) is covered by a solid black vertical bar. The columns for **DIALED NUMBER** and **DEST NUMBER** are largely obscured by a large, irregular black shape spanning the middle of the page. The final column, **CALLER ID**, appears blank or redacted.
+-   **Date:** Every single entry in the **CALL DATE** column reads "7/16/2006".
+-   **Time:** The **TIME** column lists times chronologically starting from "0:31:11" (early morning) and progressing through to "20:07:40" (evening).
+-   **DIR Column:** This column contains codes such as "ML", "LM", and later in the day (starting around 3 PM), "MM".
+-   **SEC Column:** The final visible data column lists numbers representing call duration in seconds, typically ranging between 2 and 59 seconds per record.
+
+## Visible Text (verbatim)
+**Header:** MetroPCS Call Detail for 16980 [Black Box] -179pgs 1-1-06 to 7-19-06.xls | Page 175 of 179
+**Table Headers:** BILLED PHONE | CALL DATE | TIME | DIALED NUMBER | DEST NUMBER | DIR | SF | MM | SEC | CALLER ID
+**Sample Data Rows:**
+-   7/16/2006 | 0:31:11 | ML | 0 | 0 | 4
+-   7/16/2006 | 0:31:26 | ML | 0 | 1 | 22
+-   7/16/2006 | 0:32:38 | LM | 1 | 27 | 8
+-   7/16/2006 | 1:00:10 | ML | 59 | 0 | 4
+-   7/16/2006 | 6:58:23 | ML | 0 | 0 | 47
+-   7/16/2006 | 12:31:26 | ML | 0 | 0 | 7
+-   7/16/2006 | 15:43:26 | MM | 0 | 0 | 43
+-   7/16/2006 | 19:14:26 | ML | 0 | 1 | 6
+-   7/16/2006 | 20:07:40 | MM | 0 | 0 | 29
+
+## Notable Details / Clues
+*   **Document ID:** A Bates number or document control string "EFTA00007070" is visible in the bottom right corner.
+*   **Time Range:** The records span from roughly 1:30 AM to 8:07 PM on July 16, 2006.
+*   **Data Pattern Shift:** Before 15:43 (3:43 PM), the **DIR** column is predominantly "ML" or "LM". At row starting with 15:43:26, the code switches to "MM".
+*   **SF Column Values:** The "SF" column mostly contains '0', but occasionally displays higher numbers like '59' (e.g., at 1:00:10 and 19:20:17) or '1' (e.g., at 0:31:26).
+*   **MM Column Values:** This column varies frequently, showing values like 0, 1, 59, 27, 42, 33. It likely represents a billing rate or minute count.
+*   **Consistency:** The "CALL DATE" never changes from the header date, indicating a filtered view for a single day of calls.
+*   **Page Context:** The footer indicates this is page 175 of 179, suggesting a massive dataset containing over 100 days or multiple months of call logs (from Jan 1 to July 19 based on the file name).
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed or digital document titled "MetroPCS Call Detail," which appears to be a spreadsheet export containing billing records. The document header indicates the file covers dates from 1-1-06 to 7-19-06 and is currently showing page 176 of 179. A reference number, EFTA00007071, is visible in the bottom right corner.
+
+The main body of the document is a data table organized into columns. A significant portion of the left side of the table is obscured by thick black bars, redacting the "BILLED PHONE" and likely "DIALED NUMBER" columns to protect privacy. The visible date column shows entries for 7/16/2006 and 7/17/2006. The time column lists call times in a 24-hour format (military time), ranging from roughly 20:10 on the first day to 14:43 on the second day. The columns to the right of the redacted section contain alphanumeric codes (such as ML, LM, MM) and numerical values, which likely represent destination numbers, direction flags, and call duration metrics split across multiple columns.
+
+## Visible Text
+**Header Information:**
+- Top Left: "MetroPCS Call Detail for 16980 [Redacted] -179pgs 1-1-06 to 7-19-06.xls"
+- Top Right: "Page 176 of 179"
+- Bottom Right: "EFTA00007071"
+
+**Table Column Headers:**
+- BILLd PHONE
+- CALL DATE
+- TIME
+- DIALED NUMBER
+- DEST NUMBER
+- DIR
+- SF
+- MM
+- SEC
+- CALLER ID
+
+**Sample Table Data Rows (Left to Right: Date, Time, Dest/Dir/SF/MM/SEC):**
+- 7/16/2006 | 20:10:19 | [ML] 0 0 18
+- 7/16/2006 | 20:14:33 | [ML] 0 6 7
+- 7/16/2006 | 20:32:23 | [ML] 59 0 2
+- 7/16/2006 | 20:38:32 | [ML] 59 0 10
+- 7/16/2006 | 20:38:53 | [MM] 0 0 0
+- 7/16/2006 | 21:12:37 | [ML] 59 0 15
+- 7/16/2006 | 21:13:58 | [LM] 0 5 10
+- 7/16/2006 | 21:18:44 | [MM] 0 0 12
+- 7/16/2006 | 21:18:44 | [LM] 1 0 12
+- 7/16/2006 | 21:36:47 | [ML] 0 0 45
+- 7/16/2006 | 21:37:43 | [ML] 59 0 16
+- 7/16/2006 | 21:37:43 | [ML] 59 0 16
+- 7/16/2006 | 21:38:14 | [ML] 0 12 19
+- 7/16/2006 | 21:48:04 | [LM] 1 1 37
+- 7/16/2006 | 22:02:36 | [ML] 59 0 0
+- 7/16/2006 | 22:02:39 | [ML] 59 0 2
+- 7/16/2006 | 22:03:40 | [ML] 59 0 2
+- 7/16/2006 | 22:08:07 | [ML] 0 3 59
+- 7/16/2006 | 22:12:27 | [ML] 0 6 53
+- 7/16/2006 | 22:18:52 | [LM] 1 0 0
+- 7/17/2006 | 0:15:18 | [LM] 0 0 59
+- 7/17/2006 | 0:36:07 | [LM] 0 1 2
+- 7/17/2006 | 7:44:25 | [ML] 59 0 20
+- 7/17/2006 | 7:44:25 | [ML] 59 0 22
+- 7/17/2006 | 8:26:17 | [ML] 59 0 41
+- 7/17/2006 | 11:27:03 | [ML] 59 0 40
+- 7/17/2006 | 11:28:07 | [ML] 0 0 23
+- 7/17/2006 | 11:46:42 | [LM] 0 1 52
+- 7/17/2006 | 12:04:42 | [ML] 59 0 14
+- 7/17/2006 | 13:21:17 | [ML] 0 0 30
+- 7/17/2006 | 13:22:17 | [ML] 0 0 12
+- 7/17/2006 | 14:07:25 | [ML] 59 0 3
+- 7/17/2006 | 14:43:16 | [LM] 0 0 0
+- 7/17/2006 | 16:14:32 | [LM] 0 0 2
+- 7/17/2006 | 16:36:42 | [ML] 0 1 47
+
+## Notable Details / Clues
+- **Redaction Strategy:** The left columns ("BILLED PHONE" and "DIALED NUMBER") are completely blacked out, whereas the right-side technical columns (Dest Number codes, duration) are visible. This suggests a specific privacy filter was applied to hide account numbers but retained network routing metadata.
+- **Date Continuity:** The table starts on 7/16/2006 and transitions to 7/17/2006 roughly halfway down the page (around time 0:15).
+- **Call Patterns:** There are multiple short calls (0 seconds or very few seconds) and longer calls. For instance, at 22:08:07, a call lasted "3" in the minutes column and "59" in the seconds column.
+- **Code Patterns:** The column headers include "SF", "MM", "SEC". The data rows contain codes like "ML", "LM", "MM". These likely refer to carrier types (e.g., Mobile Land, MetroPCS internal codes). The code "59" appears frequently, possibly indicating a specific partner network or rate center.
+- **File Context:** The filename "-179pgs" suggests this is a large dataset spanning about 180 pages, and the current page is 176 of 179, meaning it is near the very end of the billing period (July 19).
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of a digital spreadsheet or document titled "MetroPCS Call Detail." It represents page 177 of a 179-page file named "...-179pgs 1-1-06 to 7-19-06.xls". The document is a detailed log of telephone calls, likely from July 2006.
+
+The visual layout consists of a grid with column headers at the top. A thick, solid black vertical bar obscures the left portion of the table, covering the "BILLED PHONE" and likely "DIALED NUMBER" and "DEST NUMBER" columns (the specific numbers are redacted). The remaining right-hand side of the spreadsheet is visible and populated with data.
+
+The visible data tracks call metrics including date, time, direction codes (DIR), service flags (SF), minute/second counts (MM, SEC), and Caller ID status. The logs show a dense list of calls occurring on 7/17/2006 (evening and night) transitioning into 7/18/2006 (morning). The "DIR" column contains codes like "ML," "LM," and occasionally "59." The "SF" column contains mostly zeros but spikes to higher numbers like 59, 15, or 17 intermittently. The "SEC" column lists call durations in seconds.
+
+## Visible Text (verbatim)
+**Top Header Area:**
+- MetroPCS Call Detail for 16980 [REDACTED] -179pgs 1-1-06 to 7-19-06.xls
+- Page 177 of 179
+
+**Table Headers:**
+- BILLED PHONE | CALL DATE | TIME | DIALED NUMBER | DEST NUMBER | DIR | SF | MM | SEC | CALLER ID
+
+**Sample Data Rows (Visible Columns):**
+- [Black Bar] | 7/17/2006 | 20:28:05 | ML | 0 | 0 | 38 | [Blank]
+- [Black Bar] | 7/17/2006 | 20:29:28 | LM | 0 | 1 | 23 | [Blank]
+- [Black Bar] | 7/17/2006 | 20:54:34 | ML | 0 | 0 | 4 | [Blank]
+- ...
+- [Black Bar] | 7/18/2006 | 00:15:29 | ML | 0 | 15 | 29 | [Blank]
+- ...
+- [Black Bar] | 7/18/2006 | 14:43:07 | ML | 0 | 17 | 18 | -
+- ...
+- [Black Bar] | 7/18/2006 | 15:03:35 | ML | 0 | 0 | 0 | [Blank]
+
+**Footer:**
+- EFTA00007072
+
+## Notable Details / Clues
+- **Redaction Level:** The specific identity of the account holder (indicated by "16980") and the actual phone numbers dialed or received are completely blacked out, likely for privacy or legal protection.
+- **Call Volume:** The density of rows suggests a high volume of calls, with entries every few minutes on average for the duration shown.
+- **Date Progression:** The list flows chronologically from the evening of July 17th (starting around 20:28) through the early morning of July 18th (around 00:15), then continuing into the afternoon (reaching 14:43/15:03).
+- **Call Codes:** The "DIR" column suggests different types of connections. "ML" likely stands for Mobile-to-Landline or similar, while "LM" and "59" suggest other line types or internal routing.
+- **File Context:** The filename indicates this is part of a very large investigation or audit trail ("179pgs"), covering the month of January to July 2006.
+- **Footer Code:** The code "EFTA00007072" in the bottom right corner is likely a Bates number or an internal tracking reference for legal documents or court filings.
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed or digital screenshot of a spreadsheet document, specifically a page from an Excel file (indicated by `.xls` in the filename). The document is a call detail report from MetroPCS, identified as page 178 of 179. The data records telecommunication events for the phone number ending in 16980 (partially redacted).
+
+The layout consists of a table with ten columns: "BILLED PHONE", "CALL DATE", "TIME", "DIALED NUMBER", "DEST NUMBER", "DIR", "SF", "MM", "SEC", and "CALLER ID". The first column ("BILLED PHONE") is completely obscured by a vertical black bar. A large, thick vertical black rectangle obscures the middle columns ("DIALED NUMBER" and "DEST NUMBER"), as well as partially covering the rightmost side of the table where "CALLER ID" and potentially other data reside.
+
+The visible data indicates that all calls occurred on a single day: **7/18/2006** (July 18, 2006). The time stamps range from approximately 3:18 PM (15:18) to just past 9:36 PM (21:36). The "DIR" (Direction) column contains codes such as "ML", "LM", and "MM". The "SF" column has values like 0, 59, 5, and 1. The "MM" column appears to contain mostly zeros. The "SEC" column records seconds ranging from 0 to 41. The "CALLER ID" column is mostly redacted or shows dashes ("-").
+
+## Visible Text (verbatim)
+**Header:**
+MetroPCS Call Detail for 16980 [REDACTED] -179pgs 1-1-06 to 7-19-06.xls
+Page 178 of 179
+
+**Table Headers:**
+BILLED PHONE | CALL DATE | TIME | DIALED NUMBER | DEST NUMBER | DIR | SF | MM | SEC | CALLER ID
+
+**Sample Data Rows (Visible portions):**
+- 7/18/2006 | 15:18:20 | ML | 0 | 0 | 38 | -
+- 7/18/2006 | 15:22:16 | ML | 0 | 0 | 0 | -
+- 7/18/2006 | 15:22:38 | ML | 0 | 0 | 0 | -
+- ... (list continues)
+- 7/18/2006 | 16:04:53 | ML | 59 | 0 | 4 | [Obscured]
+- 7/18/2006 | 16:20:33 | LM | 0 | 0 | 34 | [Obscured]
+- ...
+- 7/18/2006 | 21:36:35 | ML | 59 | 0 | 24 | [Obscured]
+
+**Footer:**
+EFTA00007073
+
+## Notable Details / Clues
+*   **Redaction Pattern:** The document has been heavily redacted, likely to protect personally identifiable information (PII) such as the full phone number and dialed numbers. A large black block covers the "DIALED NUMBER" and "DEST NUMBER" columns entirely.
+*   **Data Consistency:** Despite the redactions, the date column is consistent across all rows ("7/18/2006"), suggesting this is a summary or daily log.
+*   **Call Codes:** The "DIR" column uses codes "ML", "LM", and "MM". Given it's MetroPCS, these likely stand for Mobile-Landline, Landline-Mobile, etc., or internal routing codes.
+*   **File Scope:** The filename suggests a massive dataset containing 179 pages of data covering calls from January 1, 2006 ("1-1-06") to July 19, 2006 ("7-19-06"). This specific page is near the end (178/179), consistent with the date being in late July.
+*   **Call Frequency:** The log shows a high density of calls, with multiple entries per minute, particularly around 5:23 PM and 7:09 PM, suggesting automated dialing or a busy period.
+*   **Column "MM":** This column is consistently "0" in the visible rows, which is unusual for minutes unless it refers to a specific code or billing metric distinct from total duration (which might be in SEC).
+*   **SF Column:** This column contains values like 59 and 5, which might represent call setup fees or specific charge codes (e.g., long distance vs local), whereas "0" usually denotes standard calls.
+*   **EFTA Code:** The EFTA (Electronic Funds Transfer Act) number at the bottom right is a common identifier on financial or legal billing documents.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document titled "MetroPCS Call Detail," which appears to be a page from a financial statement or phone bill log for account number ending in "16980". The document is formatted as a data table containing rows of call records and columns detailing various call parameters. Large, thick black bars overlay specific columns to redact sensitive information, obscuring the actual phone numbers and caller IDs.
+
+The visible portion of the table lists "Call Date" primarily for July 18th and July 19th, 2006. The times listed indicate that the majority of these calls occurred in the late evening and night hours, ranging from approximately 9:00 PM to shortly after midnight (23:30). A column labeled "DIR" consistently shows the letter 'L', likely indicating "Local" calls, with one instance near the bottom appearing as 'ML'. Another column labeled "SF" consistently displays the number '59' for most entries. The document is identified as the final page of a larger file ("Page 179 of 179") and includes an EFT authorization code in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+MetroPCS Call Detail for 16980 [Black Bar] -179pgs 1-1-06 to 7-19-06.xls
+Page 179 of 179
+
+**Column Headers:**
+BILLED PHONE CALL DATE TIME DIALED NUMBER DEST NUMBER DIR SF MM SEC CALLER ID
+
+**Data Rows (Sample/Representative):**
+*   **Row 1:** [Black Bar] 7/18/2006 21:56:24 [Black Bar] [Black Bar] L 59 0 2 [Black Bar]
+*   **Row 2:** [Black Bar] 7/18/2006 22:09:43 [Black Bar] [Black Bar] L 59 0 0 [Black Bar]
+*   **Row 3:** [Black Bar] 7/18/2006 22:11:54 [Black Bar] [Black Bar] L 59 0 2 [Black Bar]
+*   ... (Middle rows follow same pattern with dates 7/19/2006 and times increasing) ...
+*   **Row 34 (approx):** [Black Bar] 7/19/2006 23:29:47 [Black Bar] [Black Bar] ML 0 2 1 [Black Bar]
+*   **Last Row:** [Black Bar] 7/19/2006 23:31:54 [Black Bar] [Black Bar] ML 59 1 18 [Black Bar]
+
+**Footer:**
+EFTA0000704
+
+## Notable Details / Clues
+*   **Redaction:** The columns for "BILLED PHONE," "DIALED NUMBER," "DEST NUMBER," and "CALLER ID" are completely obscured by solid black blocks, indicating a privacy review or redacted copy of a record.
+*   **Page Count:** The text "Page 179 of 179" in the top right corner suggests this is the end of a very extensive document, likely containing hundreds or thousands of individual call records prior to this page.
+*   **Time Range:** The entries are clustered strictly within a roughly 4-hour window on July 18th (21:56 to 22:38) and July 19th (2:05 AM to 23:31 PM/AM). Note the date switch from 7/19 at 2:05 AM is just after midnight following the 7/18 dates listed earlier, or it might be a different day entirely if the list jumps. Wait, looking at the sequence:
+    *   Starts 7/18 21:56.
+    *   Continues 7/18 late night.
+    *   Then jumps to 7/19 2:05 (which is actually 2 AM).
+    *   Ends 7/19 23:31 (11:31 PM).
+*   **File Name Context:** The top header includes "-179pgs 1-1-06 to 7-19-06.xls", indicating the file covers a call period from January 1, 2006, through July 19, 2006.
+*   **Charge Code Consistency:** The column "SF" (possibly Standard Fee or Charge Type) is predominantly '59', suggesting these calls were charged at a uniform rate or plan tier.
+*   **EFT Tracking Number:** The alphanumeric string "EFTA0000704" in the bottom right is a specific tracking identifier, often used for Electronic Funds Transfer authorizations.
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
++-----------------------------------------------------------+-------------------------------------
+| 16980.txt                                                        |                                        |
+| +---------------- SUBSCRIBER PROFILE        083 +-------- K-- AVAILABLE FUNCTIONS ---+ |
+| | Ctype       RETAIL                           DISC              F-Key   Action Requested    |
+| | Disc Reason NON-PAYMENT OF B  Date       01/09/06   .           F1 ..Direct Adjustments . |
+| | Acct#                 BillCycle     8                   F2 ..Work Orders         |
+| | AccNme                    [REDACTED]                   F3 ..Special Agreement   NO      |
+| | LName                     [REDACTED]                   F4 ..Manual Switch Intface       |
+| | Address             [REDACTED]                      F5 ..Billing Address     Y         |
+| | City/ST   WEST PALM BEACH            FL    33417-4212        F6 ..Sub Maintenance               |
+| | HPhn                         WkPhn                           F7 ..Services                  0  |
+| | WkPlace                                              F8 ..Pay/Adj/POS                   N      |
+| | Spouse                                          F9 ..Deposits                    N            |
+| | DrvLsc               DOB     [REDACTED]          Assoc       0              |
+| | CredNo                          CExp   00/00 CTYPE        Group      0              |
+| | Entry    9/08/05 B1Thru     1/09/06 LstPay 11/10/05            F10..Billing History         |
+| | Rate       0.00 Tax                    0.00                F11 ..Memo N Ticket NO          |
+| | LstPymnt    58.35- BalDu              0.00                F12 ..Pending Work Ords  N      |
+| | LastBill     0.00 wrtOff            174.40-           Controls                    |
+| | Comment                 WEB WORK ORDER                 Bonus Award Prog N             |
+| +------------------------------------------------------- J-- Pull Bill   0 Months                     |
++----------------------------------------------------------- | No Charge        N                         |
+| Esc-Exit/Subscriber Process Menu                             No Late Charge              |
+| DISCONNECTED       1/09/06 NON-PAYMENT OF BILL              Dunning                 |
+| MDN #                    MIN #   0000                       Paper Work            E-Bill    N |
++----------------------------------------------------------- +---------------------------------------------------------------------+
+| Account                                          Functions Available                  cphniq_ |
+| Cust Type        RETAIL                          F1 - Forward          F2- Backward           |
+| Name                      Lock Code                 F3 - Show Services                    |
+| User                                 Hex=21330DA6    F4 - Free Minutes       NO            |
+| ESN                                Model  6015 NOKIA 6015         F5 - Trouble Ticket   NO        |
+| Location      H HANDHELD                                      F6 - Switch Manager                   |
+| Salesman           Z38 US CELL                            F7 - Rate Plan Analysis                  |
+| CSR ID                                                      F8 - Minute Adjustments                  |
+| Commission                                                  F9 - Phone Maintenance                     |
+| Contract     0001 NO CONTRACT                           F11- Airtime Summary                |
+| Activate       9/08/05          Ported Status      O            Calls Thru    9/26/06 19:20       |
+| Lock Date   9/08/05 Term Date 10/08/05               Lease Billed     0.00                     |
+| Toll Carrier 0288 A T & T                               Lease Balance   0.00                     |
+| Origination CONV-PURCH                                    MTD Usage Charges (No Tax)            |
+| Lease                                                    Roamer Air Charges      0.00                 |
+| Campaign                                                  Toll Charges           0.00                  |
+| Standard Trnsmt #               Batch Date                Other Charges     0.00                   |
+| Feature Trnsmt #               Batch Date                Total MTD Charges 0.00                   |
++-------------------------------------------------------------------------------------------------------------------------------------+
+| Esc- Exit to Subscriber Profile                                                    SELECT OPTION                       |
+| +---------------- SUBSCRIBER PROFILE           083 +-------------K+ ||                      - +-----------+---+ |
+| | Ctype RETAIL                            DISC                           Memo Inquiry   Page 003         |
+| | Disc Reason NON-PAYMENT OF B       Date    01                         Collections Memo                    |
+| | Acct#                  BillCycle     8                                     Date 12/09/05-11:41 CSR SBHOTLN      |
+| | AccNme                                                       Requestor                        |
+| | LName                                                   ACCOUNT HOTLINE MEMO                       |
+| | Address                                             THIS ACCOUNT WAS HOTLINED                         |
+| | City/ST   WEST PALM BEACH                 FL   3341          BY SBHOTLN ON 12/09/05.                           |
+| | HPhn                   WkPhn                                  HOTLINED BY THREADED PROCESS                    |
+| | WkPlace                                                       +---------------------------------------------------------------------+ |
+| | Spouse                                                      Page 1                                                  |
+| | DrvLsc               Incom                                                                                                          |
+| | CredNo                          CExp   00/00                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------+
+
+## Structured Fields
+- **Date:** 01/09/06, 9/08/05, 11/10/05, 1/09/06, 9/26/06, 10/08/05, 12/09/05
+- **Phone:** 0288 A T & T
+- **Location:** WEST PALM BEACH FL 33417-4212
+- **Document ID:** 16980.txt
+- **Case/Account ID:** 083
+- **Model:** NOKIA 6015
+- **Lock Code:** Hex=21330DA6
+- **CSR ID:** SBHOTLN
+- **Commission:** 0001 NO CONTRACT
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+16980.txt
+|Entry 9/08/05 BlThru 1/09/06 LstPay
+|Rate 0.00 Tax 0.
+|LstPymnt 58.35- BalDu 0.
+|LastBill 0.00 Wrtoff 174.
+|Comment WEB WORK ORDER
+
+F1-PgFd F2-PgBk F3-Add F5-Del
+F6-Chg F7-SelType F8-SelDate
+
++-----------------------------------------------------------------------------------------------+
+|_Esc-Exit/Subscriber Process Menu                                                               |
+|------------SUBSCRIBER PROFILE 083----------K+--------------------------------------------------|
+||                                                    ||                                         |
+|[Ctype RETAIL                                    DISC SELECT OPTION                            ]|
+|[Disc Reason NON-PAYMENT OF B Date 01+                                                        ]|
+|[Acct#[REDACTED]BillCycle 8                                                                     ]|
+|[ACCNme                                                                                        ]|
+|[LName [REDACTED]                                                                              ]|
+|[Address [REDACTED]                                                                             ]|
+|[City/ST WEST PALM BEACH FL 3341                                                                ]|
+|[HPhn WkPhn                                                                                     ]|
+|[WkPlace                                                                                        ]|
+|[Spouse                                                                                         ]|
+|[DOB [REDACTED]   AS SO                                                                          |
+|[DrvLsc Incom                                                                                    ]|
+|[CredNo CExp 00/00                                                                               ]|
+|[Entry 9/08/05 BlThru 1/09/06 LstPay                                                            ]|
+|[Rate 0.00 Tax 0.                                                                                ]|
+|[LstPymnt 58.35- BalDu 0.                                                                        ]|
+|[LastBill 0.00 Wrtoff 174.                                                                       ]|
+|[Comment WEB WORK ORDER                                                                          ]|
++-----------------------------------------------------------------------------------------------+
+|                                                    Memo Inquiry                               |
+|                                                    Page 002                                   |
+|                                                    Collections Memo                            |
+|Date 1/09/06-10:00 CSR SBDISC                          Requestor                                |
+|ACCOUNT DISCONNECT MEMO                                       BY SBDISC ON 01/09/06.        |
+|THIS ACCOUNT WAS DISCONNECTED                                         DISCONNECTED THREADED PROC|
+|BY SBDISC ON 01/09/06.                                                    E                       |
++-----------------------------------------------------------------------------------------------+
+|F1-PgFd F2-PgBk F3-Add F5-Del                                                                   |
+|F6-Chg F7-SelType F8-SelDate                                                                    |
+
++-----------------------------------------------------------------------------------------------+
+|_Esc-Exit/Subscriber Process Menu                                                               |
+|------------SUBSCRIBER PROFILE 083----------K----AVAILABLE FUNCTIONS----+                      |
+|[Ctype RETAIL                                    DISC                                           |
+|[Disc Reason WNP: NU PORT OUT Date 07/21/06                                                       |
+|[Acct#[REDACTED]BillCycle 9                                                                        |
+|[ACCNme                                                                                            |
+|[LName [REDACTED]                                                                                  |
+|[Address [REDACTED]                                                                                 |
+|[City/ST WEST PALM BEACH FL 33409-0000                                                            |
+|[HPhn WkPhn                                                                                        |
+|[WkPlace                                                                                           |
+|[Spouse                                                                                            |
+|[DOB [REDACTED] Group 0                                                                            |
+|[DrvLsc                                                                                            |
+|[CredNo CExp 00/00                                                                                ]|
+|[Entry 2/08/06 BlThru 7/21/06 LstPay 7/05/06                                                    ]|
+|[Rate 0.00 Tax 0.00                                                                                ]|
+|[LstPymnt 54.00- BalDu 0.00                                                                        ]|
+|[LastBill 0.00 Wrtoff 56.12-                                                                       ]|
+|[Comment *** WNP CUSTOMER P/O ***                                                                 |
+|[DO NOT DISC OR CHANGE MDN!!!NM                                                                    |
++-----------------------------------------------------------------------------------------------+
+||                                                    F-Key Action Requested                      |
+|F1 ..Direct Adjustments                                           F2 ..Work Orders            ||
+|F3 ..Special Agreement NO                                           F4 ..Manual Switch Intfac  ||
+|F5 ..Billing Address N                                                  F6 ..Sub Maintenance    ||
+|F7 ..Services 0                                                           F8 ..Pay/Adj/POS     |N|
+|F9 ..Deposits N                                                              N                  ||
+|F10 ..Billing History                                                        F11 ..Memo        |N|Ticket NO ||
+|F12 ..Pending Work Ords N                                                     Controls           ||
+|Bonus Award Prog N                                                  Pull Bill Months         ||
+|No Charge N                                                            No Late Charge       |N|             ||
+|Dunning Y                                                             Paper Work    N E-Bill |N|           ||
++-----------------------------------------------------------------------------------------------+
+
+|Esc-Exit/Subscriber Process Menu                                                              cphniq_                                   +|
+|DISCONNECTED 7/20/06 WNP: NU PORT OUT                                                                                          Functions Available                 |
+|MDN #[REDACTED] MIN # 0000[REDACTED]                                                                                   F1 - Forward              F2- Backward    |
+|Account [REDACTED]                                                                                                        F3 - Show Services                         |
+|Cust Type RETAIL                                                                                                                F4 - Free Minutes        NO               |
+|Name [REDACTED]                                                                                                                    F5 - Trouble Ticket      NO               |
++-----------------------------------------------------------------------------------------------+
+
+Page 2
+
+EFTA00007076
+
+```
+
+## Structured Fields
+
+*   **Document ID:** 16980.txt
+*   **Subscriber Profile ID:** 083
+*   **Dates:**
+    *   Entry: 9/08/05
+    *   Bill Through: 1/09/06 (Block 2)
+    *   Entry: 2/08/06 (Block 3)
+    *   Bill Through: 7/21/06 (Block 3)
+    *   Last Pay: 7/05/06 (Block 3)
+    *   Disconnect Date: 01/09/06
+    *   Disconnect Date: 07/21/06
+    *   Disconnected: 7/20/06
+*   **Location:** WEST PALM BEACH, FL (Zip codes: 3341, 33409-0000)
+*   **Account Types:** RETAIL
+*   **Reason for Disconnect:**
+    *   NON-PAYMENT OF BILL
+    *   WNP: NU PORT OUT (Work Number Porting Out)
+*   **Customer Name/Address:** [REDACTED]
+*   **Account Number:** [REDACTED]
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+16980.txt
+
+User [REDACTED]                                  Lock Code Hex=1A0B827A
+ESN [REDACTED]
+Model 6255 NOKIA 6255
+Location H HANDHELD
+Salesman B14 [REDACTED]
+CSR ID [REDACTED]
+Commission 999 NO COMMISSION
+Contract 0001 NO CONTRACT
+Activate 2/08/06 Ported Status O
+Lock Date 2/08/06 Term Date 3/08/06
+Toll Carrier 0288 A T & T
+Origination INVENTORY
+Lease 
+Campaign 
+Standard Trnsmt # Batch Date
+Feature Trnsmt # Batch Date
++---------------------------------------------------+
+| F6 - Switch Manager                                |
+| Esc- Exit to Subscriber Profile                     |
+| F7 - Rate Plan Analysis                              |
+|---------- SUBSCRIBER PROFILE 083 ------------------ K+----- SELECT OPTION ---+
+| F8 - Minute Adjustments                               |
+| F9 - Phone Maintenance                                 |
+| F11- Airtime Summary                                    |
+| Calls Thru 9/26/06 19:20                              |
+| Lease Billed 0.00                                     |
+| Lease Balance 0.00                                     |
+|---------------------------------------------------+
+| MTD Usage Charges (No Tax)                            |
+| Roamer Air Charges 0.00                               |
+| Toll charges 0.00                                     |
+| Other Charges 0.00                                     |
+| Total MTD Charges 0.00                                 |
+Ctype RETAIL DISC
+Disc Reason WNP: NU PORT OUT Date 07+
+Acct# [REDACTED] 2 BillCycle 9
+AccNme [REDACTED]
+LName [REDACTED]
+Address [REDACTED]
+City/ST WEST PALM BEACH FL 3340
+HPhn WkPhn
+Spouse 
+DOB [REDACTED] Asso Grou
+DrvLsc Incom
+CredNo CEXP 00/00
+Entry 2/08/06 BlThru 7/21/06 LstPay
+Rate 0.00 Tax 0.
+LstPymnt 54.00- BalDu 0.
+LastBill 0.00 Wrtoff 56.
+Comment *** WNP CUSTOMER P/O ***
+DO NOT DISC OR CHANGE MDN!!!NM                      F1-PgFd F2-PgBk F3-Add F5-Del
+                                                    F6-Chg F7-SeIType F8-SelDate
+
+Memo Inquiry Page 005
+Profile Memo
+Date 7/19/06-12:09 CSR XJEFTUR
+Requestor ***WNP***
+PORT OUT TO:T
+DENIED
+REASON: ALL
+5615740400
+
++---------------------------------------------------+
+_Esc-Exit/Subscriber Process Menu
++---------- SUBSCRIBER PROFILE 083 ------------------ K+----- SELECT OPTION ---+
+Ctype RETAIL DISC
+Disc Reason WNP: NU PORT OUT Date 07+
+Acct# [REDACTED] 2 BillCycle 9
+AccNme [REDACTED]
+LName [REDACTED]
+Address [REDACTED]
+City/ST WEST PALM BEACH FL 3340
+HPhn WkPhn
+Spouse 
+DOB [REDACTED] Asso Grou
+DrvLsc Incom
+CredNo CEXP 00/00
+Entry 2/08/06 BlThru 7/21/06 LstPay
+Rate 0.00 Tax 0.
+LstPymnt 54.00- BalDu 0.
+LastBill 0.00 Wrtoff 56.
+Comment *** WNP CUSTOMER P/O ***
+DO NOT DISC OR CHANGE MDN!!!NM                      F1-PgFd F2-PgBk F3-Add F5-Del
+                                                    F6-Chg F7-SeIType F8-SelDate
+
+Memo Inquiry Page 004
+Profile Memo
+Date 7/19/06-17:49 CSR XLAIHIL
+Requestor ***WNP***
+PORT OUT TO:TMOB
+STATUS:CONFIRMED
+REASON:ALL
+(561)574-0400
+
+Page 3                                                                 EFTA00007077
+
+## Structured Fields
+- **Doc ID:** 16980.txt, Page 005, Page 004, Page 3
+- **Account Number (Acct#):** [REDACTED]
+- **ESN:** [REDACTED] (Hex Code: 1A0B827A)
+- **Model:** NOKIA 6255
+- **Activate Date:** 2/08/06
+- **Term Date:** 3/08/06
+- **Location:** WEST PALM BEACH, FL 3340
+- **CSR ID:** [REDACTED]
+- **Salesman:** B14
+- **Requestors (CSR):** XJEFTUR, XLAIHIL
+- **Organization/Company:** WNP
+- **Phone Numbers:** 5615740400, 2
+- **Status (Middle Memo):** DENIED - PORT OUT TO: T
+- **Status (Bottom Memo):** STATUS:CONFIRMED - PORT OUT TO: TMOB
+- **Bill Cycle:** 9
+- **Last Payment:** 54.00
+- **Write Off:** 56
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
++---------------------------------------------------------------+
+|                                                             |
+| 16980.txt                                                   |
+| +-------------------------------------------------------------------+
+| | _Esc-Exit/Subscriber Process Menu                               |
+| | +---------------------------------------------------------------------------------------+ |
+| | |----- SUBSCRIBER PROFILE 083 K+------SELECT OPTION                      |
+| | Ctype RETAIL DISC                                              |
+| | Disc Reason WNP; NU PORT OUT Date 07                           |
+| | Acct# [REDACTED]       2 BillCycle 9                          |
+| | AccNme                                                          |
+| | LName                                                           |
+| | Address                                                         |
+| | City/ST WEST PALM BEACH FL 3340                                |
+| | HPhn wkPhn                                                      |
+| | WkPlace                                                         |
+| | Spouse DOB [REDACTED] Asso Grou                                 |
+| | DrvLsc Incom                                                    |
+| | CredNo CExp 00/00                                               |
+| | Entry 2/08/06 B1Thru 7/21/06 LstPay                            |
+| | Rate   0.00 Tax 0.                                              |
+| | LstPymnt 54.00- BalDu 0.                                        |
+| | LastBill    0.00 WrtOff 56.                                     |
+| | Comment *** WNP CUSTOMER P/O ***                                |
+| | DO NOT DISC OR CHANGE MDN!!!NM                                  |
+| | F1-PgFd F2-PgBk F3-Add F5-Del                                   |
+| | F6-Chg F7-SeIType F8-SelDate                                    |
+| +-------------------------------------------------------------------+ |
+|                                                             |
+| Memo Inquiry Page 003                                        |
+| Profile Memo                                                 |
+| Date 7/19/06-20:57 CSR XGERHIN                               |
+| Requestor                                                     |
+| PORT REQ CONFIRMED                                           |
+| PORT OUT TO                                                  |
+| NAME/ADDRESS/ACCT #/PSWD                                      |
+| ***WNP***                                                     |
+| +-------------------------------------------------------------------+
+| _Esc-Exit/Subscriber Process Menu                            |
+| +---------------------------------------------------------------------------------------+
+| |----- SUBSCRIBER PROFILE 083 K+------SELECT OPTION                      |
+| | Ctype RETAIL DISC                                              |
+| | Disc Reason WNP; NU PORT OUT Date 07                           |
+| | Acct# [REDACTED]       2 BillCycle 9                          |
+| | AccNme                                                          |
+| | LName                                                           |
+| | Address                                                         |
+| | City/ST WEST PALM BEACH FL 3340                                |
+| | HPhn wkPhn                                                      |
+| | WkPlace                                                         |
+| | Spouse DOB [REDACTED] Asso Grou                                 |
+| | DrvLsc Incom                                                    |
+| | CredNo CExp 00/00                                               |
+| | Entry 2/08/06 B1Thru 7/21/06 LstPay                            |
+| | Rate   0.00 Tax 0.                                              |
+| | LstPymnt 54.00- BalDu 0.                                        |
+| | LastBill    0.00 WrtOff 56.                                     |
+| | Comment *** WNP CUSTOMER P/O ***                                |
+| | DO NOT DISC OR CHANGE MDN!!!NM                                  |
+| | F1-PgFd F2-PgBk F3-Add F5-Del                                   |
+| | F6-Chg F7-SeIType F8-SelDate                                    |
+| +-------------------------------------------------------------------+
+|                                                             |
+| Memo Inquiry Page 002                                        |
+| Work Order Memo                                              |
+| wkOrder # 2105376                                            |
+| Date 7/21/06-08:27 CSR XKATLIN1                              |
+| Requestor                                                     |
+| was disconnected                                             |
+| due to WNP Number Port Out                                    |
+|                                                              |
+|                                                              |
+|      00   00                                                 |
+| +-------------------------------------------------------------------+
+| _Esc-Exit/Subscriber Process Menu                            |
+| +---------------------------------------------------------------------------------------+
+| |----- SUBSCRIBER PROFILE 083 K---- AVAILABLE FUNCTIONS ----              |
+| | Ctype RETAIL DISC                                              |
+| | Disc Reason NON-PAYMENT OF B Date 12/26/05                     |
+| | Acct# [REDACTED]       1 BillCycle 25                          |
+| | AccNme                                                          |
+| | LName                                                           |
+| | Address                                                         |
+| | City/ST MIAMI FL 33142-0000                                    |
+| | HPhn [REDACTED] wkPhn                                           |
+| | WkPlace                                                         |
+| | Spouse Assoc 0                                                  |
+| | Page 4                                                          |
+| +---------------------------------------------------------------------------------------+
+| | F-Key Action Requested                                         |
+| | F1 ..Direct Adjustments                                        |
+| | F2 ..Work Orders                                               |
+| | F3 ..Special Agreement NO                                      |
+| | F4 ..Manual Switch Intface                                     |
+| | F5 ..Billing Address N                                          |
+| | F6 ..Sub Maintenance                                            |
+| | F7 ..Services 0                                                 |
+| | F8 ..Pay/Adj/POS N                                              |
+| | F9 ..Deposits N                                                 |
+| | F10 ..Billing History                                           |
+| +-------------------------------------------------------------------+
+|                                                             |
++---------------------------------------------------------------+
+
+## Structured Fields
+- **Document ID**: 16980.txt (top), EFTA00007078 (bottom right)
+- **Profile ID**: 083
+- **Dates**:
+    - July 2006 (Disc Reason Date '07')
+    - 07/19/06 (Memo Inquiry Date)
+    - 07/21/06 (Work Order Date / Entry Date)
+    - 02/08/06 (Entry Date)
+    - 12/26/05 (Non-Payment Date)
+- **Locations**:
+    - West Palm Beach, FL 33400
+    - Miami, FL 33142-0000
+- **CSR Names**: XGERHIN, XKATLIN1
+- **Work Order #**: 2105376
+- **Account Details**:
+    - BillCycle: 9, 25
+    - Account Status: NU PORT OUT (Non-Wireless Port Out), NON-PAYMENT OF BILL
+    - Balance Due: 0.00
+    - Last Bill: 54.00 / 0.00
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+16980.txt                              Group 0
+DOB [REDACTED]                                    F11 ..Memo N Ticket NO
+Drvlsc                                               F12 ..Pending Work Ords N
+CredNo   [REDACTED]         CExp 00/00 CType        Controls ------
+Entry 3/25/05 BlThru 12/26/05 LstPay 11/03/05      Bonus Award Prog N
+Rate 0.00 Tax   0.00                               Pull Bill Months
+LstPymt 63.05- BalDu 0.00                          No Charge N
+LastBill 0.00 WrOff 189.00-                        No Late Charge N
+Comment                                              Dunning Y
+                                                      Paper work N E-Bill N
++-------------------------------------------------------+
+| Esc-Exit/Subscriber Process Menu                      |
+| +-------- SUBSCRIBER PROFILE 083 -----K--- AVAILABLE  |
+| Functions ----+                                        |
+| Ctype RETAIL                                          |
+| Disc Reason NON-PAYMENT OF                           == Serviceable Units ==
+| Acct# [REDACTED]      1 BillC                        Phone # [REDACTED] Stat D                    DECIMAL ESN [REDACTED] HEX ESN 2CC29B85 Plan U40
+| AccNme   [REDACTED]                                   [REDACTED]           D             [REDACTED]                2CC29B85      U40
+| LName    [REDACTED]                                                  
+| Address  [REDACTED]                                        
+| City/ST MIAMI                                       
+| HPhn (   [REDACTED] WkPhn                              
+| WkPlace  [REDACTED]                                    
+| Spouse                                                      DOB [REDACTED]
+| Drvlsc                                                   
+| CredNo                                                    
+| Entry 3/25/05 BlThru 12/2                              
+| Rate   0.00 Tax                                         
+| LstPymt 63.05- Bal                                    
+| LastBill 0.00 Wrt                                        
+| Comment                                                     
++-------------------------------------------------------+
++----------Status Legend ----------
+| 'A'-Active    'D'-Disconnected       'H'-Hotlined     |
++-------------------------------------------------------+
+
+F1-PgFd F2-PgBk F3-Enter Phone UP/DWN-Slct Enter-Accept Esc-Exit cphning +
+DISCONNECTED 3/25/05                                 Functions Available
+MDN # [REDACTED] MIN # 0000 [REDACTED]              F1 - Forward F2- Backward
+Account [REDACTED] - 1                               F3 - Show Services
+Cust Type RETAIL                                      F4 - Free Minutes NO
+Name   [REDACTED]                                     F5 - Trouble Ticket NO
+User    [REDACTED]                                    F6 - Switch Manager
+ESN     [REDACTED] Lock Code Hex=2CC29B85            F7 - Rate Plan Analysis
+Model  6015 NOKIA 6015                                F8 - Minute Adjustments
+Location H HANDHELD                                   F9 - Phone Maintenance
+Salesman 999 CALL CENTER                              F11- Airtime Summary
+CSR ID                                                    -----
+Commission 999 NO COMMISSION                          Calls Thru 9/26/06 19:20
+Contract 0001 NO CONTRACT                             Lease Billed 0.00
+Activate 3/25/05 Ported Status                        Lease Balance 0.00
+Lock Date 3/25/05 Term Date 4/25/05                  -----
+Toll Carrier 0288 A T & T                             MTD Usage Charges (No Tax)
+Origination CONV-PURCH                                Roamer Air Charges 0.00
+Lease                                                   Toll Charges 0.00
+Campaign                                                Other Charges 0.00
+Standard Trnsmt # Batch Date                          Total MTD Charges 0.00
+Feature Trnsmt # Batch Date                           
++-------------------------------------------------------+
+| Esc- Exit to Subscriber Profile                       |
++-------------------------------------------------------+
+| Billing History Inquiry -----                         |
+| MRS HERB                                              |
+| 020 4495235 1 Bal Due 0.00 Current 0.00 # Late Pays 3|
+| Page 5                                                |
++-------------------------------------------------------+
+
+## Structured Fields
+- **Document ID**: 16980.txt (Top Header), EFTA00007079 (Footer Watermark)
+- **Case/Account Number**: 020 4495235 (Bottom Left)
+- **Subscriber Profile ID**: 083
+- **Date Range**: Entry 3/25/05 BlThru 12/26/05
+- **Last Payment Date**: 11/03/05
+- **Current Date Reference**: Calls Thru 9/26/06
+- **Customer Type**: RETAIL
+- **Status**: DISCONNECTED (Stat D), NON-PAYMENT OF 1 BillC
+- **Location**: MIAMI
+- **Phone Status**: Disconnected
+- **ESN**: Hex=2CC29B85 (Decimal ESN redacted)
+- **Model**: NOKIA 6015
+- **Salesman**: 999 CALL CENTER
+- **Contract**: 0001 NO CONTRACT
+- **CSR ID**: HERB (From footer billing inquiry section)
+- **Carrier**: A T & T (0288)
+- **Commission**: 999 NO COMMISSION
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```text
+                  16980.txt
+                  30 Day     0.00        # No Pays    1
+          Status DISC Unbilled   0.00        60 Day     0.00
+          Bill Cycle 25 Srv Term 0.00        90 Day     0.00
+                                                        Ovr 90    0.00
+-----------------------------------------------+------------------+------------------
+Change MDN                                     MARCH   5 -------- whisting
+         |                                       |                      |
+         |Old MDN                                |Installs/Deposit/Service|
+         |New MDN                                +------------------------+
+wkord Inf                                      wkord EffDate 3/25/05 CSR XSIDWIL
+wkord EffDate                                  New MDN
+                  3/25/05 CSR XSIDWIL
+-----------------------------------------------+------------------+------------------
+_Esc-Exit    F1-Fwd           F2-Back          F12-Sprof
+SUBSCRIBER PROFILE 083 ---------------------- K --- AVAILABLE FUNCTIONS -----
+Ctype        RETAIL      DISC
+Disc Reason NON-PAYMENT OF B    Date 10/27/05
+Acct#            5 BillCycle 26
+AccNme
+LName
+Address
+City/ST   LAKE WORTH          FL 33460-0000
+HPhn           wkPhn
+WkPlace
+Spouse                       Assoc   0
+DrvLsc                           Group   0
+CredNo                          Incom
+Entry 3/26/05 BlThru 10/27/05 LstPay 8/27/05
+Rate         0.00      Tax    0.00
+LstPymnt     52.36-   BalDu    0.00
+LastBill     0.00   WrtOff   157.98-
+Comment
+
+F-Key Action Requested
+F1 ..Direct Adjustments
+F2 ..Work Orders
+F3 ..Special Agreement NO
+F4 ..Manual Switch Interface
+F5 ..Billing Address          N
+F6 ..Sub Maintenance
+F7 ..Services                     0
+F8 ..Pay/Adj/POS                 N
+F9 ..Deposits                    N
+F10 ..Billing History
+F11 ..Memo           N   Ticket NO
+F12 ..Pending Work Ords       N
+------------------- Controls -------------
+Bonus Award Prog      N
+Pull Bill Months
+No Charge             N
+No Late Charge        N
+Dunning               Y
+Paper Work            N  E-Bill  N
+
+Esc-Exit/Subscriber Process Menu ------------------------------------------ K --- AVAILABLE FUNCTIONS ----
+SUBSCRIBER PROFILE    083 ------- == Serviceable Units == -------------
+Ctype   RETAIL
+Disc Reason NON-PAYMENT OF              Phone #          [REDACTED]
+Acct#           Bl1C                     Stat  D         DECIMAL ESN   HEX ESN      Plan
+AccNme                                                D         03513159537 23C8CC71    U40
+LName                                                   03513159537 23C8CC71    U40
+Address
+City/ST   LAKE WORTH
+HPhn           wkPhn
+WkPlace
+Spouse               DOB   [REDACTED]
+DrvLsc
+CredNo
+Entry 3/26/05 BlThru 10/2
+Rate         0.00      Tax
+LstPymnt     52.36-   Bal
+
+Page 6
+EFTA00007080
+```
+## Structured Fields
+- **Date:** 10/27/05 (Disc Date), 3/25/05 (wkord EffDate), 3/26/05 (Entry), 8/27/05 (LstPay), 10/2 (Thru)
+- **Location:** LAKE WORTH, FL 33460-0000
+- **Account ID:** 083 (Subscriber Profile ID), Bill Cycle 25/26, Acct# [REDACTED]
+- **Document ID:** 16980.txt, EFTA00007080
+- **Name:** [REDACTED]
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+16980.txt
+LastBill 0.00 Wrt+--------------------------+
+Comment | 'A'-Active 'D'-Disconnected 'H'-Hotlined |
+|----------------------------------------------+
+
+F1-PgFd F2-PgBk F3-Enter Phone UP/DWN-Slct Enter-Accept Esc-Exit cphning +
+Cellular Phones
+
+DISCONNECTED 10/27/05 NON-PAYMENT OF BILL MDN # [REDACTED] MIN # 0000[REDACTED]
+Account [REDACTED]
+Cust Type RETAIL
+Name [REDACTED]
+User [REDACTED] Lock Code Hex=23C8CC71
+ESN [REDACTED]
+Model 1200 LX1200
+Location H HANDHELD
+Salesman X23 OLYMPUS CELLULAR
+CSR ID
+Commission 999 NO COMMISSION
+Contract 0001 NO CONTRACT
+Activate 3/26/05 Ported Status
+Lock Date 3/26/05 Term Date 4/26/05
+Toll Carrier 0288 A T & T
+Origination CONV-PURCH
+Lease
+Campaign
+Standard Trnsmt # Batch Date
+Feature Trnsmt # Batch Date
+
+Functions Available
+F1 - Forward F2- Backward
+F3 - Show Services
+F4 - Free Minutes NO
+F5 - Trouble Ticket NO
+F6 - Switch Manager
+F7 - Rate Plan Analysis
+F8 - Minute Adjustments
+F9 - Phone Maintenance
+F11- Airtime Summary
+
+Calls Thru 9/26/06 19:20
+Lease Billed 0.00
+Lease Balance 0.00
+
+MTD Usage Charges (No Tax)
+Roamer Air Charges 0.00
+Toll Charges 0.00
+Other Charges 0.00
+Total MTD Charges 0.00
+
+Esc- Exit to Subscriber Profile
+Billing History Inquiry ------------------ -
+RODRIGUES SIMON
+020 4501412 5 Bal Due 0.00 Current 0.00 # Late Pays 6
+30 Day 0.00 # No Pays 1
+Status DISC Unbilled 0.00 60 Day 0.00
+90 Day 0.00
+Bill Cycle 26 Srv Term 0.00 Ovr 90 0.00
+
+Change MDN ----------------------- MARCH 5 --------- whisting +
+[REDACTED] Old MDN
+New MDN
+WkOrd Init 3/26/05 CSR X2JAVPEN
+WkOrd EffDate 3/26/05 CSR X2JAVPEN
+
+Installs/Deposit/Service
+
+Esc-Exit F1-Fwd F2-Back F12-Sprof
+SUBSCRIBER PROFILE 083 ----------------------- K+
+SELECT OPTION
+Ctype RETAIL
+Disc Reason NON-PAYMENT OF B Date 10+
+Acct# [REDACTED] 5 BillCycle 26
+AccNme [REDACTED]
+Lname [REDACTED]
+Address [REDACTED]
+City/ST LAKE WORTH FL 3346
+
+Memo Inquiry Page 003
+Collections Memo
+Date 9/27/05-08:08 CSR SBHOTLN
+Requestor
+Page 7
+
+EFTA00007081
+
+## Structured Fields
+*   **Document ID:** 16980.txt
+*   **Case/File ID:** EFTA00007081
+*   **Name:** RODRIGUES SIMON
+*   **Phone Number:** 020 4501412 5 (MDN # redacted)
+*   **Account Number:** [REDACTED]
+*   **Customer Type:** RETAIL
+*   **Model:** LX1200
+*   **Salesman/CSR:** X23 OLYMPUS CELLULAR, CSR SBHOTLN, CSR X2JAVPEN
+*   **Toll Carrier:** A T & T (0288)
+*   **Location:** H HANDHELD
+*   **Activate Date:** 3/26/05
+*   **Lock Date:** 3/26/05
+*   **Term Date:** 4/26/05
+*   **Disconnect Date:** 10/27/05
+*   **City/State:** LAKE WORTH, FL (Zip 3346)
+*   **Reason for Disconnect:** NON-PAYMENT OF BILL (implied by text "NON-PAYMENT OF B")
+*   **Status:** DISC (Disconnected) / Active (Legend 'A') - Note: Text says DISCONNECTED at top and Status DISC in history.
+*   **Commission:** 999 NO COMMISSION
+*   **Contract:** 0001 NO CONTRACT
+*   **Ported Status:** [Empty/Blank]
+*   **Memo Date:** 9/27/05-08:08
+*   **Calls Thru:** 9/26/06
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+16980.txt
+ACCOUNT HOTLINE MEMO
+|HPn             wkPhn
+|WKPlace
+Spouse
+                DOB    [REDACTED]
+DRVlSc                  Asso
+CredNo CExp 00/00              Grou
+                     Incom
+Entry 3/26/05 BlThru 10/27/05 LstPay
+Rate 0.00 Tax 0.
+LstPymnt 52.36- BalDu 0.
+LastBill 0.00 WrtOff 157.
+Comment
+
+THIS ACCOUNT WAS HOTLINED
+BY SBHOTLN ON 09/27/05.
+HOTLINED BY THREADED PROCESS
+
+F1-PgFd F2-PgBk F3-Add F5-Del
+F6-Chg F7-SelType F8-SelDate
++-------------------------------------------+
+
+_Esc-Exit/Subscriber Process Menu
++---------------------------------------------------------------------------------------+
+| SUBSCRIBER PROFILE 083 - SELECT OPTION                                                 |
++Ctype RETAIL DISC                                                                   +10+
+|Disc Reason NON-PAYMENT OF B Date 10+                                                  |
+|AccNme [REDACTED]                                                                     |
+|LName [REDACTED]                                                                       |
+|Address [REDACTED]                                                                    |
+|City/ST LAKE WORTH FL 3346                                                             |
+|HPhn wkPhn                                                                             |
+|WkPlace                                                                                 |
+|Spouse Asso                                                                            |
+DOB 5/24/1988 Grou
+DRVlSc Incom
+CredNo CExp 00/00
+Entry 3/26/05 BlThru 10/27/05 LstPay
+Rate 0.00 Tax 0.
+LstPymnt 52.36- BalDu 0.
+LastBill 0.00 WrtOff 157.
+Comment
+
+Memo Inquiry                          Page 002
+Collections Memo
+Date 10/27/05-07:27 CSR SBDISC
+Requestor ACCOUNT DISCONNECT MEMO
+
+THIS ACCOUNT WAS DISCONNECTED
+BY SBDISC ON 10/27/05.
+DISCONNECTED BY THREADED PROCE
+
+F1-PgFd F2-PgBk F3-Add F5-Del
+F6-Chg F7-SelType F8-SelDate
++---------------------------------------------------------------------------------------+
+
+_Esc-Exit/Subscriber Process Menu
++---------------------------------------------------------------------------------------+
+| SUBSCRIBER PROFILE 083 - AVAILABLE FUNCTIONS ---+                                    |
++Ctype RETAIL ACTIVE                                                                  |K+
+|Acct# [REDACTED] 8 BillCycle 27 [REDACTED]                                            |
+|AccNme [REDACTED]                                                                     |
+|LName [REDACTED]                                                                       |
+|Address [REDACTED]                                                                    |
+|City/ST LAKE WORTH FL 33460-3935                                                      |
+|HPhn wkPhn                                                                             |
+|WkPlace                                                                                 |
+Spouse Assoc 0                                                                                Group 0
+DOB [REDACTED] Incom
+CredNo CExp 00/00 CTYPE
+Entry 11/27/05 BlThru 11/27/06 LstPay 9/26/06
+Rate 45.90 Tax 8.81
+LstPymnt 54.61- BalDu 54.71
+LastBill 54.71 WrtOff 0.00
+Comment WEB WORK ORDER
+
+F-Key Action Requested
+F1 ..Direct Adjustments
+F2 ..Work Orders
+F3 ..Special Agreement NO
+F4 ..Manual Switch Interface
+F5 ..Billing Address Y
+F6 ..Sub Maintenance
+F7 ..Cellular Phones 1
+F8 ..Pay/Adj/POS N
+F9 ..Deposits N
+F10 ..Billing History
+F11 ..Memo N Ticket NO
+F12 ..Pending Work Ords N
+Controls
+Bonus Award Prog N
+Pull Bill 0 Months
+No Charge N
+No Late Charge
+Dunning
+Paper Work E-Bill N
++-----------------------------------------------------------------------------------------------+
+
+Esc-Exit/Subscriber Process Menu                                        Page 8
+
+EFTA00007082
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+16980.txt                                    cphning +
++------------------------------------------+-----------------------+
+      Cellular Phones              Functions Available
+MDN #                                          F1 - Forward   F2- Backward
+Account                                        F3 - Show Services
+Cust Type RETAIL                                  F4 - Free Minutes   NO
+Name                                            F5 - Trouble Ticket NO
+User                                      Lock Code
+ESN                                   Hex=191D04EB                              F6 - Switch Manager
+Model                               LG-VX3200 MP                          F7 - Rate Plan Analysis
+Location             H   HANDHELD                F8 - Minute Adjustments
+Salesman           Z38 US CELL                       F9 - Phone Maintenance
+CSR ID                                                  F11- Airtime Summary
+Commission                                           ------------------------+---+
+Contract                        0001 NO CONTRACT       Calls Thru         9/26/06 19:20
+Activate          11/27/05        Ported Status              Lease Billed            0.00
+Lock Date      11/27/05 Term Date 12/27/05               Lease Balance             0.00
+Toll Carrier   0288 A T & T                            MTD Usage Charges (No Tax)
+Origination     CONV-PURCH                          Roamer Air Charges        0.00
+Lease                                                        Toll Charges             0.00
+Campaign                                              Other Charges             0.00
+Standard Trnsmt #                             Batch Date               Total MTD Charges      0.00
+Feature Trnsmt #                              Batch Date
++-----------------------------------------------------------------------+
+Esc- Exit to Subscriber Profile
+
+Page 9
+EFTA00007083
+```
+
+## Structured Fields
+*   **Date:** 11/27/05 (Activate), 12/27/05 (Term Date), 9/26/06 19:20 (Calls Thru)
+*   **Model ID/Locker Code:** Hex=191D04EB
+*   **Case/File ID:** 16980.txt
+*   **Document Type:** Subscriber Profile / Account Inquiry
+*   **Device:** LG-VX3200 MP (Handheld)
+*   **Location Code:** H
+*   **Salesman ID:** Z38 US CELL
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+metroPCS
+DECLARATION FOR METROPCS RECORDS
+Security Compliance
+[REDACTED]
+Re: CASE NO: 31E-MM-108062
+TARGET NUMBER: [REDACTED] AND [REDACTED]
+I, [REDACTED], hereby declare:
+
+I am employed by MetroPCS Inc. and have been designated as Custodian of Records with responsibility for MetroPCS' compliance with the subpoena duces tecum, search warrant or court order.
+
+The attached records are true copies of all the records described in the legal process (subpoena, search warrant, or court order). I personally have conducted or supervised compliance by MetroPCS with the subpoena duces tecum, search warrant or court order.
+
+The records are either call detail or subscriber records, employee records, or other wireless records, depending upon the legal process (subpoena duces tecum, search warrant, or court order) request.
+
+The subscriber records were prepared by MetroPCS personnel in the ordinary course of business at or near the time of the act, condition, or event. Account information is entered into the MetroPCS Billing System where the data is stored. The Custodian of Records retrieves the stored data from the MetroPCS Billing System via billing software for compliance purposes.
+
+MetroPCS allows its customers' unlimited use of their services and therefore does not need call detail records for billing purposes. Call detail records are maintained solely for the purpose of complying with legal processes as mandated by CALEA. MetroPCS selected Verisign to store call detail records for the purpose of complying with legal processes as mandated by CALEA. Verisign is a secure third-party provider and is an active consultant to federal agencies and the Office of Homeland Security.
+
+Call detail is recorded at the MetroPCS switch at the time of the event. MetroPCS makes it a regular business practice to have the records stored for the purpose of meeting requirements for assisting government agencies with lawful subpoena requests for subscriber records. The call detail is electronically transmitted to Verisign where the data is stored. Verisign provides a static IP address through a dedicated secure circuit for retrieval of these records. The call detail files are maintained for approximately 6 months depending on size and quantity, after which they are automatically purged.
+
+☐ Certification of No Records: That a thorough search of our files revealed no documents, records or other material called for in the subpoena.
+☒ Requested call detail records existed at one time but all or some of the records have since been purged.
+
+I declare, under penalty of perjury, that the foregoing is true and correct.
+
+Executed at Dallas, Texas on 9/24/06.
+[REDACTED]
+Compliance Analyst
+
+EFTA00007084
+
+## Structured Fields
+- **Date:** 9/24/06
+- **Case ID:** 31E-MM-108062
+- **Location:** Dallas, Texas
+- **Organizations:** MetroPCS Inc., Verisign, CALEA, Office of Homeland Security
+- **Role:** Custodian of Records, Compliance Analyst
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Tips for Reading Call Detail
+Please read these tips thoroughly before calling with questions.
+Thank you very much.
+
+**BILLED PHONE** For outgoing calls, the number subpoenaed (target number).
+For incoming calls, from another MetroPCS customer.
+
+Note: An incoming call from another MetroPCS customer (MM under DIR) will generate two records (rows). One record is for the MetroPCS subscriber calling the target number. The other record is for the target number receiving the call. SF 58, 59 and 63 also generates two records, of which one reveals the cell site.
+
+**MARKET** The number of the market.
+**CALL DATE** The date of the call.
+**TIME** The hour, minute, and second the call was placed.
+**DIALED NUMBER** The actual number dialed by the caller (e.g. *67 for blocked caller id calls). Note: SF 58, 59, and 63 automatically generates 3 extra digits in this column. These numbers are generated by the switch and not dialed by the subscriber.
+**DEST NUMBER** The actual number called (destination number). The number receiving the call.
+**DIR** The direction of the call:
+ML – MetroPCS to Land (non-MetroPCS)
+LM – Land (non-MetroPCS) to MetroPCS
+MM – MetroPCS to MetroPCS
+
+**SF** A number indicating whether the call record was for a special feature. The most common special feature codes are 01, 58, 59 and 63:
+00: No special feature
+01: Call Waiting
+53: Call waiting
+54: Speed call
+58: Voice mail deposit
+59: Voice mail retrieval
+63: Subscriber is receiving a call while traveling outside his home switch
+Note: Records with SF63 is a routing record and numbers are subject to being misconstrued due to translations. A second record provides appropriate data for the subscriber.
+
+**MM SS** The duration of the call in minutes and seconds.
+**CALLER ID** An incoming caller's phone number.
+**CELL** The cell site where the “Billed Phone” call was sent or received.
+- The letter represents the switch or market:
+Atlanta: (A, switch 1) (B, switch 2)
+Dallas: (L)
+Detroit: (D)
+Florida: (M,1) (N,2) (O, 3) (P,4) Tampa: (T)
+Sacramento: (S)
+San Francisco: (F, switch 1) (G, switch 2)
+- The 1st number represents the sector (2, 3 or 4) [1, 2 or 3 in address list]
+2 = North; 3 = Southeast; 4 = Southwest (generally)
+- The last 3 numbers represent the number assigned the site
+
+Note: All attempted calls are recorded. Some calls are either abandoned or not completed, resulting in some incomplete records or 0 minutes and 0 seconds in duration.
+EFTA00007085
+
+## Structured Fields
+- **Doc ID:** EFTA00007085
+- **Organization:** MetroPCS
+- **Special Feature Codes (SF):** 00, 01, 53, 54, 58, 59, 63
+- **Call Direction Codes (DIR):** ML, LM, MM
+- **Locations/Switches listed:** Atlanta, Dallas, Detroit, Florida (Tampa), Sacramento, San Francisco
+

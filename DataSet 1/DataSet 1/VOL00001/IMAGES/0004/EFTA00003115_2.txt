@@ -1,0 +1,88 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003115.pdf ts=2026-03-06T01:04:33 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, high-angle shot of the rear or bottom bezel of a black computer chassis, specifically an HP Slimline Desktop PC (Model 260-a010). The casing appears to be made of matte black plastic with a slight texture. On the far left edge, two circular, metallic-looking mounting points or rubber feet are visible, one near the top and one near the bottom. The surface is populated by four distinct adhesive labels containing regulatory compliance information, model specifications, safety warnings, and serial number data.
+
+The labeling is divided into specific zones:
+- **Left Zone:** A vertical label containing multilingual installation and safety instructions in English, Chinese (Simplified/Traditional), Arabic, Finnish, French, Norwegian, and others. It warns the user to connect only to a grounded outlet.
+- **Top Center Zone:** A large rectangular label detailing regulatory approvals (FCC, CE, UL, EAC, etc.), input voltage specs (19.5V DC), manufacturing origin (China), and the primary serial number/Product number with corresponding barcodes.
+- **Top Right Zone:** A smaller label focusing on wireless certification, listing the Realtek Radio Model RTL8723BE and FCC IDs, along with compliance marks for various regions (ANATEL, PTA, NOM).
+- **Bottom Center Zone:** A small black sticker with white text containing configuration codes (BID, FeatureByte) and identifying the processor unit as a Pentium J3710.
+- **Bottom Right Zone:** A label featuring a large white question mark icon pointing to a URL for the HP support assistant.
+
+## Visible Text (verbatim)
+
+**Left Safety Label:**
+SEE INSTALLATION INSTRUCTIONS BEFORE CONNECTING TO THE POWER SUPPLY.
+在接电前请参阅安装手册
+在接電前請參閱安裝手冊
+راجع تعليمات التشغيل قبل ربط الجهاز بالكهرباء
+CONNECT ONLY TO GROUNDED OUTLET.
+APPARATET MÅ TILKOPLES JORDET STIKKONTAKT,
+APPARATEN SKALL ANSLUTAS TILL JORDAT NÄTTUTAG.
+LAITE ON LIITETTAVA SUOJAKOSKETTIMILLA VARSUSTETTUUN PISTORAISAAN.
+APPARATETS STIKPROP SKAL TILSLUTTES EN STIKKONTAKT MED JORD, SOM GIVER FORBINDELSE TIL STIKPROPPENS JORD.
+请使用带安全接地线的电源插座 / 请使用帶安全接地線的電源插座
+820582-001
+
+**Top Center Regulatory Label:**
+HP Inc.
+型號/型号 : HP Slimline Desktop PC
+REGULATORY MODEL/規定型號/規定型號 : TPC-W036-SF
+INPUT/輸入/输入 19.5Vdc === 4.62A
+個人電腦 / 微型计算机
+MADE IN CHINA/中國製造 / 中国製造
+CAN ICES-3 (B)/NMB-3(B)
+CMIIT ID: 2016DJ1509
+Consumo de energia: 16 Wh
+En modo de espera: 0.8 Wh
+45183/SOPPI/2016
+[Logos: EAC, FCC, UL (40583), C-Tick, KC, CE, ANATEL, etc.]
+HP HQ-IRE
+71025 Boeblingen
+Germany
+MSIP-RM-r-hpk
+TPC-W036-SF
+S155 352.05E01 0042
+
+**Center Product Info Label:**
+hp HP Slimline 260-a010 DT PC US
+Serial No. CNV7160050
+Product No. V8P51AA#ABA
+Model No. 260-a010
+Limited Warranty: 1y/1y/0y (V3T95AV)
+
+**Top Right Wireless Label:**
+Contains Realtek Radio Model RTL8723BE
+Korea/Japan/Taiwan/Canada Model RTL8723BENF
+Contains FCC ID: TX2-RTL8723BE
+IC: 6317A-RTL8723BE
+SCT RCRPRRT13-0876
+CNC: C-12047
+[Logos: PTA, ANATEL (0964-14-4076), CE, NOM]
+MSIP-CRM-RTK-RTL8723BENF
+352.05AD1.0004
+
+**Bottom Configuration Label:**
+BID= 16WW3RST607#SABA#DABA
+FeatureByte= 3E3K3N3Q4C4h6J6Z6b7B7K7P7T7W
+aBapaqasauazb7bhbpbzcbdUdpdqe
+Jegey.TE
+BU IDS UMA Pent J3710
+
+**Bottom Right Support Label:**
+? www.hp.com/go/supportassistant
+
+## Notable Details / Clues
+- **Device Identity:** The device is identified as an "HP Slimline 260-a010 DT PC US," indicating it is a desktop form factor designed for space-constrained environments ("Slimline").
+- **Hardware Specifics:** The bottom configuration label explicitly identifies the processor unit as a "Pent J3710," which corresponds to an Intel Pentium J3710 processor, consistent with low-power business PCs from that era (circa 2015-2016 based on CMIIT ID dates).
+- **Power Requirements:** The input specification lists "19.5Vdc === 4.62A," implying the power supply brick is separate and connects via a barrel jack or USB-C connector (not fully visible, but standard for this device class).
+- **Regional Compliance:** The presence of specific IDs like "MSIP-RM-r-hpk" and Korean text suggests this unit was manufactured or intended for export to South Korea.
+- **Warranty Terms:** The warranty code "(V3T95AV)" corresponds to a 1-year parts and 1-year labor warranty, with no accidental damage protection included.
+- **Serial Number Format:** The serial number "CNV7160050" follows HP's standard alphanumeric coding scheme for that specific chassis model (W036).
+- **Regulatory Mark Density:** The high density of certification marks (FCC, CE, UL, EAC, KC, NOM) indicates this unit is a global export model intended to meet strict safety standards in Europe, North America, and Asia.
+- **Configuration Data:** The "FeatureByte" string contains hex values and letters often used for tracking specific component revisions or factory build configurations (e.g., "Jegey.TE").
+- **Date of Manufacture:** While the date isn't explicitly stamped, the CMIIT ID (China Ministry of Information Industry Technology Bureau) references 2016DJ1509, strongly placing this device's certification and likely manufacturing date around mid-2016.
+

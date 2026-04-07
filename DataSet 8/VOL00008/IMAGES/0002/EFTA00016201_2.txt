@@ -1,0 +1,51 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016201.pdf ts=2026-03-12T21:44:18 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email interface, heavily redacted. At the top left, standard email header fields are visible but partially obscured by a horizontal black bar. The "From", "To", and "Cc" lines are partially visible on the left edge before being cut off by the black rectangle. Below this obscured section, the subject line reads "Subject: RE: mail sent last week". Directly beneath that is the date stamp indicating Tuesday, November 2, 2021, at 13:14:14 in the UTC timezone (+0000). An attachment listing follows, naming a Word document file related to legal matters. A horizontal line separates this metadata from the message body. Just below the line, a brief text note apologizes and requests the recipient to view an attached or linked version. The majority of the image's lower two-thirds is dominated by a massive, solid black rectangle that completely obscures the main content of the email or document preview. In the bottom right corner, outside the white margin of the interface but visible on the background layer, a document identifier or Bates number is printed.
+
+## Visible Text (verbatim)
+**Header Section:**
+- From... [obscured]
+- To... [obscured]
+- Cc... [obscured]
+- Subject: RE: mail sent last week
+- Date: Tue, 02 Nov 2021 13:14:14 +0000
+- Attachments: 2021-11-01_GM_letter_re_MDC_legal_mail_v3.docx
+
+**Body Section:**
+- Sorry, take a look at this version
+
+**Footer/ID:**
+- EFTA00016201
+
+## Notable Details / Clues
+- **Partial Redaction at Top:** A specific black bar covers the recipient and sender information ("From", "To", "Cc"), suggesting identity protection or privacy redaction for those fields.
+- **Large Content Blackout:** A significantly larger black box covers the entire body of the email/message preview, hiding the actual content being referenced in the subject line and attachment.
+- **Attachment Filename:** The filename `2021-11-01_GM_letter_re_MDC_legal_mail_v3.docx` provides context. It is a Word document dated November 1st, one day prior to the email's sending date (Nov 2nd). The "GM" and "MDC" abbreviations suggest a corporate or legal dispute involving specific entities.
+- **Temporal Context:** The attachment is slightly earlier than the email, consistent with an update ("version") being sent a day later.
+- **Document Tracking:** The code `EFTA00016201` at the bottom right suggests this image is part of a legal discovery process or official record, as EFTA often refers to the European Free Trade Association in document management contexts.
+- **Timestamp Precision:** The time includes milliseconds (14:14), indicating high-level logging typical of email servers.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image consists almost entirely of a solid black field that fills nearly 100% of the frame.
+- There are no discernible objects, figures, animals, or landscapes visible within the main body of the image.
+- The visual texture appears smooth and uniform, lacking any gradients, shadows, or lighting effects typically found in photography.
+- The scene is completely devoid of color variation other than the black background.
+- The composition is stark and empty, suggesting a blank page, a failed image capture, or a screen displaying an error message.
+- There are no distinct horizontal or vertical lines, grid structures, or graphical elements present.
+
+## Visible Text (verbatim)
+- **EFTA00016202**
+
+## Notable Details / Clues
+- The alphanumeric string "EFTA00016202" is located in the extreme bottom right corner of the image.
+- The text is rendered in a small, sans-serif font.
+- The color of the text appears to be white or light grey, providing high contrast against the black background.
+- The string likely functions as an identification code, document number, or serial ID rather than part of a sentence or title.
+- The absence of any other content implies this is metadata for a document that failed to render its main body.
+- The placement of the text suggests it is a footer element added by a scanning or printing system.
+

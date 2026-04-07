@@ -1,0 +1,25 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001309.pdf ts=2026-03-05T11:44:56 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cluttered workstation or packing table, likely within an electronics repair shop, IT asset disposal center, or packing facility for computer hardware. The surface is a light-colored wooden desk. On the far left edge, a black electronic unit—possibly a power supply or network interface card—is visible with blue indicator lights and a yellow Ethernet cable plugged into the bottom port. Above this sits a large, crumpled mass of white protective packaging foam or bubble wrap. Stacked centrally on the left is a large black HP multifunction printer or scanner; the top tray is loaded with paper, and a small digital display screen is visible on its front right side. Directly in front of the printer is a black product box for a "TRENDnet" switch. Underneath the TRENDnet box is a plain brown cardboard shipping carton bearing standard logistics symbols: CE marking, fragile glass icon, keep dry icon, and arrows indicating the upright position. On the front right of this lower box is an "ISO 9001 / 4001 Registered" logo. Centered on the desk is a standalone black computer monitor with a glossy screen reflecting overhead light; the brand name "ViewSonic" is printed in white at the bottom center of the bezel, and a small yellow sticker is present on the top-left corner. To the right of the monitor stands a two-tiered red wire basket organizer. The upper shelf holds a coil of thick black cable (likely ethernet), a white power adapter, and a partial view of a white box labeled "04/08". The lower shelf contains a white rectangular electronic device (resembling an Apple TV or streaming box), a blue software case for "Windows 7 Professional," and tangled white cables. Beneath the desk surface, a white landline office telephone with a numeric keypad is visible resting on top of more cardboard boxes and a large sheet of orange bubble wrap.
+
+## Visible Text (verbatim)
+- **Monitor:** "ViewSonic"
+- **Switch Box:** "TRENDnet", "24-Port Gigabit GREENnet Switch"
+- **Switch Box (Bottom Left):** "CE", barcodes, small warning text illegible but present.
+- **Lower Cardboard Box:** "ISO 9001", "4001", "REGISTERED", shipping symbols (arrows, glass, umbrella).
+- **Windows Case:** "Windows 7 Professional" (blue box on bottom shelf).
+- **White Box (Top Basket):** "04/08" (visible in blue ink).
+- **Image Watermark:** "EFTA00001309"
+
+## Notable Details / Clues
+- The presence of a networking switch box ("24-Port Gigabit") suggests this location handles data center or server equipment.
+- The red wire basket is heavily utilized for cable management, containing thick black patch cords and power supplies.
+- The "Windows 7" box indicates the hardware inventory includes older-generation PC peripherals.
+- The large volume of packing foam (top left) and orange bubble wrap (under desk) suggests active shipping or packing operations.
+- The printer's specific control panel with a small LCD screen is typical of mid-tier business printers used for small offices or warehouses.
+- The yellow ethernet cable plugged into the far-left black unit indicates active connectivity testing or assembly.
+- The "ISO 9001" logo on the shipping box implies the facility operates under quality management standards.
+

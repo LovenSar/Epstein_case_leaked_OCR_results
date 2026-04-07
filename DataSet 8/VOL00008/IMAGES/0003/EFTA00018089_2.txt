@@ -1,0 +1,467 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018089.pdf ts=2026-03-13T15:36:02 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Subject: Re: Epstein priv review -- 1B72 released and update
+Date: Tue, 03 Nov 2020 22:16:31 +0000
+Inline-Images: image001.png
+
+Terrific. Thanks so much for getting this done, much appreciated.
+
+Sent from my iPhone
+
+On Nov 3, 2020, at 5:05 PM, [REDACTED] wrote:
+
+[REDACTED]
+Per below, we released two more devices today, will release two more tonight, and the final one tomorrow.
+Thanks, [REDACTED]
+From: [REDACTED]
+[REDACTED] 5:03 PM
+To: [REDACTED]
+[REDACTED]
+[REDACTED]
+1
+Subject: RE: Epstein priv review -- 1B72 released and update
+I’m loading 1B72 to your shared directory now. We did not remove any potentially privileged materials. As stressed below, do not try to open from the shared directory.
+Enrique is generating NP reports for 1B69 and 1B84.
+W/r/t 1B84, we are removing 169 PP emails, so there will be 1762 emails, and we are removing one PP chat (with Darren Indyke) so there will be 243 chats.
+W/r/t 1B69, we are removing 93 PP emails, so there will be 1074 emails.
+I’ll finish 1B71 tomorrow.
+And as always, stop your review and let me know if you come across anything that you think may be privileged.
+And thanks [REDACTED] for all the help today!!
+From: [REDACTED]
+Sent: Tuesday, November 03, 2020 1:12 PM
+To: [REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Subject: RE: Epstein priv review -- 1B83 released
+Got it, thank you so much!
+
+From: [REDACTED]
+Sent: Tuesday, November 3, 2020 1:09 PM
+To: [REDACTED]
+[REDACTED]
+[REDACTED]
+
+EFTA00018089
+
+## Structured Fields
+- Date: Tue, 03 Nov 2020 22:16:31 +0000 / Tuesday, November 03, 2020 1:12 PM / Tuesday, November 3, 2020 1:09 PM
+- Case IDs/IDs: 1B72, 1B69, 1B84, 1B71, 1B83, image001.png, EFTA00018089
+- Names/Organizations: Enrique, Darren Indyke
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email client interface showing a threaded conversation, likely from Microsoft Outlook or a similar platform. The thread involves a legal team discussing a sensitive document review process related to Jeffrey Epstein, indicated by the subject lines "Epstein priv review." The majority of identifying information—such as sender names, recipient addresses, and company logos—is obscured with thick black redaction bars.
+
+The emails are arranged chronologically with the most recent message at the top (11:09 AM) scrolling down to the oldest visible message at the bottom (10:13 AM). The interface uses standard email formatting with bold headers for "Subject," "From," and "Sent." The text is rendered in a sans-serif font on a white background. A document ID number, "EFTA00018090," is visible in the bottom right corner, suggesting this image might be from a legal discovery production or a docketed court case where images are archived with barcodes.
+
+The conversation appears frantic and urgent, dealing with specific file prefixes (like "1B83") and hardware identifiers ("71 and 72"). One email contains a distinct security warning in blue text advising users not to open a specific report from a shared directory because it contains malicious content that would shut down the network. The participants are coordinating the transfer of data via D drives or flash drives to Enrique.
+
+## Visible Text (verbatim)
+
+**Email 1 (Topmost)**
+*   **Subject:** Epstein priv review -- 1B83 released
+*   **Body:** "We just finished 1B83. 30 emails were removed as potentially privileged. The redacted report is saved to your shared directory below but DO NOT open it from the shared or it will shut down the office network. Save it to your D drive or Enrique can put it on a flashdrive."
+
+**Email 2**
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   **Body:** "Thank you so much," [Redacted Name]
+
+**Email 3**
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   **Body:** "The first two phones are up on the Priv share. (71 and 72)."
+
+**Email 4**
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   **Body:** "Thank you!"
+
+**Email 5**
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   **Body:** "Yes. And I will produce on a rolling basis to [Redacted] reviewing"
+
+**Email 6 (Bottommost)**
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   **Body:** "Great, can you do 1B72 first and if we still don’t have a PRIV shared directory, email it to just me? The case team is on a tight discovery deadline so I want to get [Redacted] reviewing asap. Thanks," [Redacted Name]
+
+**Footer**
+*   **Reference ID:** EFTA00018090
+
+## Notable Details / Clues
+*   **Chronology:** The timestamps indicate a rapid succession of communications on Tuesday, November 3, 2020, ranging from 10:13 AM to 11:09 AM.
+*   **Security Warning:** The instruction "DO NOT open it from the shared or it will shut down the office network" is highly significant, implying the file hosted on the server may contain malware or be an air-gapped data set that causes a crash if accessed improperly.
+*   **Case References:** The specific codes "1B83" and "1B72" likely refer to Bates numbers, document clusters, or specific cases within a larger discovery set.
+*   **"Privilege Review":** This terminology confirms the emails are part of legal discovery where attorneys review documents to determine if they are protected from public disclosure (privileged communications).
+*   **Item Identification:** The mention of "phones" with numbers "(71 and 72)" suggests a specific inventory or manifest is being referenced.
+*   **Data Transfer Protocol:** The reliance on physical media ("D drive", "flashdrive") instead of standard email attachments reinforces the sensitivity and security clearance level of the files.
+*   **Formatting:** The use of blue text for the main body content suggests this might be a copy-paste from an HTML view or simply the default font color for messages in a specific client configuration, while headers remain black/grey.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, likely from a desktop application such as Microsoft Outlook, characterized by white backgrounds and dark sans-serif text. The document is heavily redacted, with thick black bars obscuring specific names, email addresses, and portions of sentences to protect sensitive information.
+
+At the very top, there is a "Cc:" field followed by several redacted lines. Below this, the first visible message body reads, "Got it. This will take me a few hours to complete. I’ll let you know when it’s done." The timestamp for this message is Tuesday, November 03, 2020, at 9:51 AM.
+
+The next section down contains a request for action. It asks the recipient to "create the following extractions from the Epstein HD" and save them to a "Priv shared directory." Below this request is a list of five specific codes or file identifiers (e.g., "1B71 – Chats and SMS", "1B72 – Chats"). The timestamp for this message is 9:47 AM.
+
+Following that is an affirmative response: "Yes I’m in. Let me know what you need." This section includes a visible signature block identifying the sender as an "Investigative Analyst" from the "U.S. Attorney’s Office, SDNY". Beneath this signature is a quote header indicating a previous message sent at 9:37 AM.
+
+Further down, there is a question asking, "Do you guys have a shared directory? Can you send me the link? I need to set up a Privilege shared directory." This message is timestamped at 9:33 AM. At the very bottom of the image, headers for another email are visible showing a timestamp of 9:16 AM, though the body text is cut off. The entire conversation takes place within a roughly 40-minute window on the same day.
+
+## Visible Text (verbatim)
+- "Cc:" [Redacted]
+- "Subject: RE: Help with Epstein Privilege Review"
+- "Got it. This will take me a few hours to complete. I’ll let you know when it’s done."
+- "Sent: Tuesday, November 03, 2020 9:51 AM"
+- "Subject: RE: Help with Epstein Privilege Review"
+- "Great! Can you create the following extractions from the Epstein HD? And save them to the Priv shared directory as soon as I can create one? And then I’ll have [Redacted] start reviewing them for privilege."
+- "1B71 – Chats and SMS"
+- "1B72 – Chats"
+- "1B69 - Chats"
+- "1B84 – Chats"
+- "1B83 - Chats"
+- "Sent: Tuesday, November 03, 2020 9:47 AM"
+- "Subject: Re: Help with Epstein Privilege Review"
+- "Yes I’m in. Let me know what you need."
+- "Investigative Analyst"
+- "U.S. Attorney’s Office, SDNY"
+- "On Nov 3, 2020, at 9:37 AM, [Redacted] wrote:"
+- "Hi [Redacted]"
+- "Can you help me today on this?"
+- "Thanks,"
+- "Sent: Tuesday, November 03, 2020 9:33 AM"
+- "Subject: RE: Help with Epstein Privilege Review"
+- "Do you guys have a shared directory? Can you send me the link? I need to set up a Privilege shared directory."
+- "Thanks,"
+- "Sent: Tuesday, November 03, 2020 9:16 AM"
+- "EFTA00018091" (Bottom right footer)
+
+## Notable Details / Clues
+*   **Context:** The emails relate to a legal review process concerning "Epstein," likely referencing the Jeffrey Epstein case, involving privilege logging or attorney-client privilege reviews.
+*   **Urgency:** The messages are timestamped in rapid succession (9:16 AM to 9:51 AM on Nov 3, 2020), indicating a real-time, urgent work collaboration happening during a morning shift.
+*   **Specific Tasks:** One participant is being asked to manually create extractions (likely emails or chat logs) from a specific drive ("Epstein HD") and save them to a shared directory for others to review.
+*   **Role Identification:** The signature block explicitly identifies the sender of one message as an "Investigative Analyst" within the "U.S. Attorney’s Office, SDNY" (Southern District of New York), suggesting law enforcement or government legal involvement.
+*   **File Coding:** The list of codes (1B71, 1B69, etc.) suggests a complex archival system where chat logs and SMS are organized into specific bins or folders.
+*   **Redaction Pattern:** The redactions are consistent with document release policies (FOIA or public court records), removing names but leaving the subject matter of interest visible for analysis.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+Hi [REDACTED] -
+[REDACTED] or [REDACTED] will correct me if they have a better way but I think the best way to generate the Responsive Report is to deselect (by removing the x in the column on the far left) all the data in the report and then go to the Tags view and select (by putting the x back in the column on the far left) all your tags. You then go up to the top left and choose the Report drop down and then choose Generate a New Report. Be sure to name it something that makes it clear that it is the Responsive report and you can also choose whether to create a UFDR report or a PDF.
+I'll give you an update on the other reports shortly.
+Thanks [REDACTED]
+
+From: [REDACTED]
+Sent: Monday, November 02, 2020 9:59 PM
+To: [REDACTED]
+[REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+Hi [REDACTED]
+I've finished the responsiveness review of the four reports that Reggie generated last week. I've tagged all of the responsive items in each report. What should my next step be to generate reports that only include the tagged items? Now that these are done, [REDACTED] and I are all just waiting on the release of the remaining portions of 1B72 and 1B69, as well as any content from 1B71, 1B83, and 1B84. As soon as you can release even just some of those reports, we will dive into the responsiveness review.
+To give you a sense of timing: In order to give our paralegals enough time to prepare the responsive materials for production in time for our 11/9 deadline, we need to finish the responsiveness review by no later than Thursday 11/5. So the sooner we can get anything over the wall for us to review, the better.
+Thanks very much,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Thursday, October 29, 2020 11:11 AM
+To: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+Hi [REDACTED] -
+Just to be safe, please double check when you open up the reports that they correspond to the notes below, i.e., 1B72 should not have chats and 1B69 should not have chats and should only have 1074 emails. And as always please stop your review and let me know if you come across anything else that you think may be privileged. Thanks!
+1B72 – Release without chats
+1B67 – Release entire report
+1B68 – Release entire report
+1B69 – Release without chats and without the 93 PP emails, as tagged on the attached .pas file (so only release 1074 emails)
+
+From: [REDACTED]
+Sent: Thursday, October 29, 2020 11:08 AM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+
+EFTA00018092
+
+## Structured Fields
+
+*   **Document ID:** EFTA00018092
+*   **Dates Mentioned:**
+    *   Monday, November 02, 2020
+    *   Thursday, October 29, 2020
+    *   11/5 (November 5)
+    *   11/9 (November 9)
+*   **Report/File Identifiers:**
+    *   1B72
+    *   1B69
+    *   1B71
+    *   1B83
+    *   1B84
+    *   1B67
+    *   1B68
+*   **Email/Content Counts:**
+    *   1074 emails
+    *   93 PP emails
+*   **Subject Matter:** Epstein Privilege Review, Responsive Report, UFDR report, Tags view.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, likely from a corporate environment such as Microsoft Outlook, featuring a chain of messages regarding a document review process. The text involves multiple participants whose names and email addresses are redacted with thick black bars. The timeline of the emails spans from Wednesday evening (11:36 AM) on October 28, 2020, to Thursday morning (11:04 AM) on October 29, 2020. The topmost section shows a sender offering to drop off a physical flash drive containing data ("I have the drive") and asking to know what time is convenient for a meeting ("swing by"). Below that, an earlier message from Thursday morning states the sender was not in the office but had left reports copying to a flash drive overnight. Further down, the thread transitions to Wednesday messages where participants discuss picking up "released reports" from devices. One message explicitly states it was sent from an iPhone. Another message references having information "on 8," likely a phone extension or line number. The emails are structured with standard headers (From, Sent, To, Subject) and the subject line for every message is consistently "RE: Help with Epstein Privilege Review." At the very bottom right corner of the page, there is a document ID code: EFTA00018093.
+
+## Visible Text (verbatim)
+*   You can stop by now if you'd like. I have the drive.
+*   **From:** [Redacted]
+*   **Sent:** Thursday, October 29, 2020 11:04 AM
+*   **To:** [Redacted]
+*   [Redacted Lines]
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   Thank you!
+*   [Redacted Name/Initials] please let me know when would be a good time for me to swing by.
+
+*   **From:** [Redacted]
+*   **Sent:** Thursday, October 29, 2020 11:03 AM
+*   **To:** [Redacted]
+*   **Subject:** Re: Help with Epstein Privilege Review
+*   I'm not in the office today, but I left the reports copying overnight to a flash drive. See [Redacted Name/Initials] and he can give it to you.
+*   Sent from my iPhone
+*   On Oct 29, 2020, at 11:01 AM, [Redacted] wrote:
+
+*   Hi all,
+*   I'm in the office today and available to pick up the released reports from these devices if they are ready.
+*   Thanks,
+*   [Redacted Name/Initials]
+
+*   **From:** [Redacted]
+*   **Sent:** Wednesday, October 28, 2020 12:09 PM
+*   **To:** [Redacted]
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   Thank you all very much.
+
+*   **From:** [Redacted]
+*   **Sent:** Wednesday, October 28, 2020 11:36 AM
+*   **To:** [Redacted]
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   Ok
+
+*   **From:** [Redacted]
+*   **Sent:** Wednesday, October 28, 2020 11:36 AM
+*   **To:** [Redacted]
+*   **Subject:** RE: Help with Epstein Privilege Review
+*   I have it on 8; I can bring it down to you shortly.
+
+*   EFTA00018093
+
+## Notable Details / Clues
+*   **Privacy Redaction:** The vast majority of identifying information (names, email addresses) is blacked out, suggesting this is an excerpt from a legal discovery document or a privacy-sensitive report.
+*   **Subject Line Consistency:** Every single email in the thread carries the subject line "RE: Help with Epstein Privilege Review," indicating a specific legal context involving Jeffrey Epstein and a review of privileged materials.
+*   **Physical Media Transfer:** The emails focus heavily on the logistics of moving physical files, specifically mentioning a "flash drive" and someone physically bringing it down ("bring it down to you shortly").
+*   **Timeline Compression:** The messages at the top are only one minute apart (11:03 AM vs 11:04 AM), indicating a rapid back-and-forth regarding who is currently in possession of the data.
+*   **Mobile Device Usage:** One of the Thursday emails explicitly notes "Sent from my iPhone," implying the user was likely out of the office or not at their desk when typing that message.
+*   **Extension Reference:** The phrase "I have it on 8" suggests a phone number or extension where someone else can find the specific file or person holding the drive.
+*   **Quoted Messages:** The thread includes a standard email client format of quoting previous messages ("On Oct 29, 2020... wrote"), which helps reconstruct the chronological order despite the emails being sent in reverse order at the top (most recent first).
+*   **Document ID:** The string "EFTA00018093" in the bottom right suggests this screenshot has been stamped or cataloged as part of a larger archive.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital communication thread, likely a screenshot of an Outlook email conversation or a PDF export thereof. The document is heavily redacted; names, email addresses, and specific metadata in the headers (such as "From" and "To") are obscured by solid black rectangular bars that cover most of the original text. The background is stark white, typical of email interface screenshots. The emails are arranged chronologically from bottom to top, indicating a conversation that began on the evening of Tuesday, October 27, and continued through the morning of Wednesday, October 28, 2020. All visible emails share the same subject line regarding an "Epstein Privilege Review." The text in the email bodies is rendered in a standard sans-serif font, with the main body text in black/dark grey and subject lines or headers in a lighter blue/grey shade. The conversation involves a request for assistance with releasing specific legal reports to a team referred to as "pros team," involving detailed instructions on which parts of the files should be released (e.g., "without chats") and which should be excluded (specifically regarding 93 PP emails).
+
+## Visible Text (verbatim)
+- **Fragment 1 (Top):** "Thanks, [Redacted]"
+- **Email 1 (11:32 AM):**
+    - From: [Redacted]
+    - Sent: Wednesday, October 28, 2020 11:32 AM
+    - To: [Redacted]
+    - Subject: RE: Help with Epstein Privilege Review
+    - Body: "Yes I'm here. Where is the drive?"
+- **Email 2 (11:30 AM):**
+    - From: [Redacted]
+    - Sent: Wednesday, October 28, 2020 11:30 AM
+    - To: [Redacted]
+    - Subject: RE: Help with Epstein Privilege Review
+    - Body: "Hi [Redacted]. Are you either of you in the office today? And if so, do you have time to help on this? It shouldn’t take a lot of time. I need the following reports released to the pros team: 1B72 – Release without chats / 1B67 – Release entire report / 1B68 – Release entire report / 1B69 – Release without chats and without the 93 PP emails, as tagged on the attached .pas file (so only release 1074 emails). Thanks!"
+- **Email 3 (9:31 AM):**
+    - From: [Redacted]
+    - Sent: Wednesday, October 28, 2020 9:31 AM
+    - To: [Redacted]
+    - Subject: RE: Help with Epstein Privilege Review
+    - Body: "Yep!"
+- **Email 4 (9:30 AM):**
+    - From: [Redacted]
+    - Sent: Wednesday, October 28, 2020 9:30 AM
+    - To: [Redacted]
+    - Subject: RE: Help with Epstein Privilege Review
+    - Body: "Awesome, thanks [Redacted]. Are you in the office today?"
+- **Email 5 (9:07 AM):**
+    - From: [Redacted]
+    - Sent: Wednesday, October 28, 2020 9:07 AM
+    - To: [Redacted]
+    - Subject: RE: Help with Epstein Privilege Review
+    - Body: "Yes, I still have a copy of this drive. Let me know what you need, and I’ll be happy to assist. Thanks,"
+- **Email 6 (Bottom Fragment):**
+    - From: [Redacted]
+    - Sent: Tuesday, October 27, 2020 6:08 PM
+    - To: [Redacted]
+- **Footer:** EFTA00018094
+
+## Notable Details / Clues
+- **Project Context:** The recurring subject line "RE: Help with Epstein Privilege Review" indicates this is legal discovery work related to Jeffrey Epstein.
+- **Specific Instructions:** One email provides granular instructions for file handling, specifically distinguishing between releasing an "entire report" versus releasing reports "without chats."
+- **File Filtering:** There is a specific request to exclude "93 PP emails" based on tags in a ".pas" file, resulting in only 1074 emails being released for that specific ID (1B69).
+- **Location Check:** Multiple recipients are asked if they are "in the office today," suggesting physical presence was required or expected for handling sensitive drives/files.
+- **Timeline:** The thread shows a rapid exchange of messages within roughly 2 hours (from 9:07 AM to 11:32 AM on Oct 28).
+- **Response Speed:** Replies are very quick, with one email sent at 9:07 AM prompting a series of confirmations between 9:30 AM and 11:32 AM.
+- **Drive Custody:** A responder confirms, "Yes, I still have a copy of this drive," implying physical media or a secured network location holds the data being discussed.
+- **Redaction Level:** The "From" and "To" fields are completely redacted in almost every instance, obscuring the identities of legal counsel, investigators, or paralegals involved.
+- **File Type Mention:** A ".pas" file is mentioned as an attachment used for tagging emails to be excluded from release.
+- **Recipient Group:** The work is being directed toward a group referred to as the "pros team," likely short for "professional services."
+- **Date Discrepancy/Flow:** The timestamps jump around slightly (e.g., 6:08 PM on Oct 27, then jumping ahead to 9:07 AM on Oct 28), suggesting these are replies forwarded or replied to in non-linear order by the viewer of the thread.
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Subject: RE: Help with Epstein Privilege Review
+Hi [REDACTED]
+Do you still have a copy of this drive in the office? If so, would you be able to coordinate with Lisa to help get portions of those files ready for me to conduct a responsiveness review? Thanks very much,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, August 24, 2020 11:26 AM
+To: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+The drive is done being copied and is going out via FedEx to [REDACTED] today. It should arrive tomorrow. Please let me know if there is anything else I can do to be of assistance.
+[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, August 21, 2020 3:44 PM
+To: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+Got it, thanks.
+[REDACTED]
+
+From [REDACTED]
+Sent: Friday, August 21, 2020 3:02 PM
+To: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+Just checked with IT again about the drive; they unfortunately ran into some issue when copying it and have to restart the copy over the weekend. Hopefully, per IT’s diagnosis and apology for the delay, it will be ready Monday or Tuesday.
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, August 19, 2020 5:18 PM
+To: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+Thanks for staying on top of it—appreciate the update.
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, August 19, 2020 5:18 PM
+To: [REDACTED]
+Subject: RE: Help with Epstein Privilege Review
+Just FYI, the drive is still being copied—I was apparently overeager with my expectations for how long it would take. I will let you know once it is ready and I’ve put it in the mail for [REDACTED]
+
+From: [REDACTED]
+Sent: Monday, August 17, 2020 3:30 PM
+To: [REDACTED]
+
+EFTA00018095
+
+## Structured Fields
+- **Subject Line**: RE: Help with Epstein Privilege Review
+- **Dates**:
+    - Monday, August 24, 2020 11:26 AM
+    - Friday, August 21, 2020 3:44 PM
+    - Friday, August 21, 2020 3:02 PM
+    - Wednesday, August 19, 2020 5:18 PM (Two separate emails sent at the same time)
+    - Monday, August 17, 2020 3:30 PM
+- **Organizations/Entities mentioned**: FedEx, IT (Information Technology)
+- **Names mentioned**: Lisa
+- **Doc ID**: EFTA00018095
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+**Subject:** RE: Help with Epstein Privilege Review
+Thanks very much.
+
+From: [REDACTED]
+Sent: Monday, August 17, 2020 3:28 PM
+To: [REDACTED]
+[REDACTED]
+[REDACTED]
+
+**Subject:** RE: Help with Epstein Privilege Review
+Update on this: I asked [REDACTED] to copy the drive this morning with the aim that it would be done in time to mail this afternoon, but he’s left for the day and did not leave me with an ETA for it being finished being copied. I’ll check back in with him in the morning and hope to have it sent to [REDACTED] tomorrow.
+
+From: [REDACTED]
+Sent: Friday, August 14, 2020 8:20 PM
+To: [REDACTED]
+[REDACTED]
+[REDACTED]
+
+**Subject:** Re: Help with Epstein Privilege Review
+Perfect, thank you!
+
+On Aug 14, 2020, at 8:16 PM, [REDACTED] > wrote:
+
+Hi Maurene and Lisa,
+
+Thanks for the welcome and for your emails. I will get on this first thing Monday morning, as I had just left the office when Maurene’s email came in.
+
+Hope you all have great weekends, and more soon.
+
+Best,
+Sunny
+
+Sent from my iPhone
+
+On Aug 14, 2020, at 6:55 PM, Korologos, Lisa (USANYS) <[REDACTED]> wrote:
+
+Hi [REDACTED]
+Welcome and thanks in advance for your help!!
+My address is:
+[REDACTED]
+55 Leamington Street
+Lido Beach, NY 11561
+[REDACTED]
+Thanks so much, [REDACTED]
+
+From: [REDACTED]
+Sent: Friday, August 14, 2020 5:22 PM
+To [REDACTED]
+[REDACTED]
+[REDACTED]
+
+**Subject:** Help with Epstein Privilege Review
+Hi [REDACTED]
+
+First, welcome to the unit! I’m sorry we have not met yet, but I’m looking forward to meeting you when we are both in the office one day.
+
+## Structured Fields
+*   **Date/Time Range:** Friday, August 14, 2020 (5:22 PM - 8:20 PM) / Monday, August 17, 2020 (3:28 PM)
+*   **Names:** Maurene, Lisa, Sunny, Korologos
+*   **Locations:** Lido Beach, NY; Leamington Street
+*   **Organizations:** USANYS
+*   **Document ID:** EFTA00018096
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+I'm hoping you would be able to help us with some logistics for the privilege review of data extracted from several of Jeffrey Epstein's devices. [REDACTED] is going to leave a drive on your desk today, which contains data from several of Epstein's phones and ipads. Would you please copy of all of that data onto a second drive?
+Once the data is copied, we then need you to please mail one of the drives to [REDACTED] (who is cc'd and will reply to this email with her mailing address). Please keep the second drive in your files in the office [REDACTED] till then reach out to you if she needs any additional help coordinating the review of that data for privileged materials.
+Please let me know if you have any questions, and thanks so much for your help.
+[REDACTED]
+
+> NYS > StAndrews > Shared > USvEpstein-2018R01618 > From Filter Team
+
+Name | Date modified | Type | Size
+---|---|---|---
+[Folder Icon] 1B83 NP Report 11_03_2020 | 11/3/2020 12:59 PM | File folder
+
+EFTA00018097
+

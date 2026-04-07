@@ -1,0 +1,75 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021983.pdf ts=2026-03-15T05:02:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread containing three distinct messages arranged chronologically from bottom to top, set against a white background. The headers for sender, recipient, and carbon copy fields (From, To, Cc) in all three emails are heavily redacted with solid black bars. The primary focus is the subject line and body text visible between the redaction bars.
+
+At the very top of the image is the most recent email response, dated Wednesday, October 14, 2020, at roughly 6:27 PM UTC. Below a horizontal rule dividing the threads, is a middle email dated the same day at 12:48 PM (PM). The final block at the bottom represents the original message sent on Tuesday, October 13, 2020, at 11:17 PM.
+
+The content of the emails pertains to legal discovery requests involving "Maxwell" and "Epstein Relativity Databases." In the topmost email, the writer is clarifying instructions regarding document production, specifically requesting only tagged documents rather than a full family. The middle email asks for clarification on whether the client wants the "full family of documents" or specific tagged subsets (like confidential items) for "item three" of a list. The bottom email initiates the thread, referencing a phone conversation ("speaking earlier today") and requesting preparation for "three productions" for the Maxwell case. A large black rectangle at the very bottom of the page obscures the actual list of tasks mentioned in the original email. In the bottom right corner, there is an alphanumeric code reading "EFTA0021983," likely a file or exhibit tag number.
+
+## Visible Text (verbatim)
+**Top Email Block:**
+*   **From:** [Redacted]
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** RE: Discovery Tasks for Maxwell on Epstein Relativity Databases
+*   **Date:** Wed, 14 Oct 2020 18:27:50 +0000
+*   **Body:** "Hi, Just the documents tagged as listed below, please (not the full family). Thanks very much," [Redacted Name]
+
+**Middle Email Block:**
+*   **From:** [Redacted]
+*   **Sent:** Wednesday, October 14, 2020 12:48 PM
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** RE: Discovery Tasks for Maxwell on Epstein Relativity Databases
+*   **Body:** "Hello, For item three on this list. Did you want to produce the full family of documents or just the documents tagged as listed below (ex. produce as is, produce as is and confidential, produce as is and highly confidential)? Thank you." [Redacted Name]
+
+**Bottom Email Block:**
+*   **From:** [Redacted]
+*   **Sent:** Tuesday, October 13, 2020 11:17 PM
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** Discovery Tasks for Maxwell on Epstein Relativity Databases
+*   **Body:** "[Redacted Signature/Name] Thanks very much for speaking earlier today. As discussed, we are asking for the following three productions to be prepared for the Maxwell case. I’ve listed those tasks below in the order in which we discussed them, but, as we discussed, if you and the vendor believe a different order would be more efficient, please just let me know." [Large Redacted Area]
+*   **Footer:** EFTA0021983
+
+## Notable Details / Clues
+*   **Redaction Extent:** The sender names, recipient addresses, and CC lists are completely blacked out in all three instances, indicating this is a sensitive or redacted document.
+*   **Subject Line Consistency:** All three emails share the subject line "Discovery Tasks for Maxwell on Epstein Relativity Databases," establishing a specific legal context involving Jeffrey Epstein.
+*   **Temporal Flow:** The thread progresses backward from top (18:27 UTC) to bottom (11:17 PM Tuesday), showing a rapid exchange of clarifications within roughly 5-6 hours.
+*   **Specific Terminology:** The text uses specific legal discovery terminology such as "tagged," "full family of documents," "produce as is," and "confidential."
+*   **Clarification Context:** The middle email explicitly references "item three on this list," implying there was an attachment or a previous list of tasks that is not fully visible in the screenshot.
+*   **Vendor Mention:** The bottom email mentions "you and the vendor," suggesting a third-party service provider is involved in the document production process.
+*   **Time Zone:** The top email uses "+0000" for UTC, while the US-based emails (implied by the "AM/PM" format) do not explicitly show a timezone offset other than standard local time.
+*   **Document Order Flexibility:** The originating email notes that the order of tasks could be rearranged if the vendor believes it would be more efficient, indicating a collaborative but deadline-driven process.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the lower section of a digital document or email correspondence set against a white background. The top third of the page is obscured by three large, horizontal black rectangular bars, which likely hide headers such as "To," "From," and "Subject." Below these redactions, there are three distinct paragraphs of black text. The first paragraph outlines logistical requirements for material delivery to an address in Miami (implied by "1 St. Andrews"). The second paragraph provides technical instructions regarding file management, mentioning the United States Attorneys Office - Southern District of Florida (USAO-SDFL) and specific database software named Relativity. A small black bar redacts a name within the second paragraph. The third paragraph serves as a polite closing, offering further assistance. At the very bottom left, a sign-off "Thanks so much," is followed by a small, narrow black bar obscuring the sender's name. In the bottom right corner, a document identification number, EFTA00021984, is printed in a small font.
+
+## Visible Text (verbatim)
+As we’ve discussed, we need all of these materials to be delivered to 1 St. Andrews by the end of October in order to meet our discovery deadline.
+
+Finally, I believe [redacted name] should be sending you a drive containing the scans of boxes of files from the USAO-SDFL. We need all of those files loaded into the US v Epstein database on Relativity in a new folder entitled “USAO-SDFL Files,” ASAP so that we can review them, please.
+
+Thanks very much, as always for your help, and please do not hesitate to reach out if there are any questions or confusion. I’m always happy to chat.
+
+Thanks so much,
+[redacted name]
+
+EFTA00021984
+
+## Notable Details / Clues
+*   **Context:** The document is clearly legal correspondence related to the "US v Epstein" case, indicated by the database name "US v Epstein database."
+*   **Location:** The address "1 St. Andrews" refers to 1 Saint Andrews Place in Miami, Florida, which often hosts federal offices (like the FBI Field Office or US Attorney's Office) relevant to high-profile cases in that jurisdiction.
+*   **Urgency:** The text uses capitalized "ASAP" and references a deadline ("end of October"), indicating a time-sensitive request.
+*   **Technical Terminology:** References to "Relativity," a specific eDiscovery platform used by law firms, indicate the recipient is likely working in a legal or paralegal role.
+*   **Agency Acronym:** "USAO-SDFL" stands for United States Attorneys Office - Southern District of Florida, confirming the jurisdiction of the case files.
+*   **Document ID:** The footer code "EFTA00021984" suggests this document was released under the Freedom of Information Act (FOIA) by the FBI (which often uses EFTA stamps) or a similar government entity.
+*   **Redaction Style:** The redactions are solid black blocks, typical of declassified documents where sensitive names (likely the sender or specific file owners) are protected from public release.
+*   **Formatting:** The use of curly quotation marks around “USAO-SDFL Files,” suggests this may have been copy-pasted from a word processor like Microsoft Word.
+*   **Tone:** The tone is collaborative but professional, emphasizing the need for assistance ("Thanks very much... happy to chat").
+

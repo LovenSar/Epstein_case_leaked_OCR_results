@@ -1,0 +1,392 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006025.pdf ts=2026-03-07T19:21:47 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+EFTA00006025
+
+## Structured Fields
+- **Doc ID**: EFTA00006025
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Attendance List
+Check in | Victim Full Name (SORT) | Guest Name
+---|---|---
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | [REDACTED]
+[REDACTED] | [REDACTED] | [REDACTED]
+[REDACTED] | Victim pending | 
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | Attorney
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | [REDACTED]
+[REDACTED] | [REDACTED] | Attorney
+[REDACTED] | [REDACTED] | Attorney
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | [REDACTED]
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | Attorney
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | Victim
+[REDACTED] | [REDACTED] | [REDACTED]
+[REDACTED] | [REDACTED] | Attorney
+[REDACTED] | [REDACTED] | Attorney
+
+## Structured Fields
+*   **Doc ID:** EFTA00006026
+*   **Document Type:** Attendance List
+*   **Guest Names Identified:** Victim, Attorney
+*   **Redacted Content:** Full names of victims and attendees are redacted in the "Victim Full Name (SORT)" and "Check in" columns. Some guest names are also redacted.
+*   **Special Entry:** One entry for "Victim pending" is visible in the "Victim Full Name (SORT)" column with an orange background.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Contact Information
+Victim Full Name | Guest Name
+[REDACTED] | Victim
+[REDACTED] | [REDACTED]
+[REDACTED] | Victim
+[REDACTED] | Victim
+[REDACTED] | [REDACTED]
+[REDACTED] | Victim
+[REDACTED] | Victim
+[REDACTED] | [REDACTED]
+[REDACTED] | Victim
+[REDACTED] | Victim
+[REDACTED] | Victim
+[REDACTED] | Victim
+
+## Structured Fields
+- **Doc ID**: EFTA00006027
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document or spreadsheet titled "Contact Information," which appears to be a log of individuals associated with a specific event or case. The document is structured as a table with multiple columns. The left-hand side of the table, specifically the columns for names ("Victim Full Name" and "Guest Name") and contact details ("Email Address", "Phone Number"), has been heavily redacted with thick black bars to obscure personal identifying information. A large, solid black rectangle obscures the middle section containing email, phone, and address fields for the majority of the rows. The rightmost columns are unredacted and contain geographic data (City, State, Zip). The table features alternating row backgrounds in white and light grey, similar to a spreadsheet interface like Microsoft Excel. A distinct horizontal yellow bar runs across the bottom portion of the page, and a document ID number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Headers:**
+- Contact Information
+- Victim Full Name
+- Guest Name
+- Email Address
+- Phone Number
+- Address 1
+- Address 2
+- City
+- State
+- Zip
+
+**Guest Name Column Entries (Top to Bottom):**
+- Victim
+- Victim
+- Victim pending
+- Victim
+- Victim CANCELLED
+- Attorney
+- Victim
+- Attorney
+- Attorney
+- Victim
+- Therapist (Text appears as "Therpist")
+- Victim
+- Victim
+- Attorney
+- Victim CANCELLED
+- Victim
+- Victim
+- Attorney
+- Attorney
+- Victim
+
+**City / State / Zip Column Entries:**
+- Las Vegas, NV, 89135
+- Calabasas, CA, 91302
+- Asheville, NC, 28803
+- Fletcher, NC, 28732
+- Altadena, CA, 91001
+- Vero Beach, FL, 32962
+- Vero Beach, FL, 32962
+- Fort Lauderdale, FL, 33301
+- North Palm Beach, FL, 33408
+- North Palm Beach, FL, 33408
+- Fort Lauderdale, FL, 33301
+- West Palm Beach, FL, 33409
+- Royal Palm Beach, FL, 33411
+- Oakland Park, FL, 33311
+- Phoenix, AZ, 85014
+- New York, NY, 10002
+- West Palm Beach, FL, 33412
+- West Palm Beach, FL, 33409
+- Patchogue, NY, 11772
+- New York, NY, 10028
+- Loxahatchee, FL, 33470
+- Salt Lake City, UT, 84108
+- Fort Lauderdale, FL, 33316
+- Palm Springs, FL, 33461
+
+**Footer ID:**
+- EFTA00006028
+
+## Notable Details / Clues
+- **Redaction Patterns:** The "Victim Full Name" and "Guest Name" columns are almost entirely blacked out. Only the row label identifying the person (e.g., "Attorney", "Victim") remains visible in the second column.
+- **Status Indicators:** Several rows have specific status labels in the "Guest Name" column:
+    - "Victim pending" is highlighted with a yellow/orange background.
+    - "Victim CANCELLED" appears twice, highlighted with a dark brown background.
+- **Spelling Error:** In the row below "Therpist" (likely a typo for Therapist), the entry is clearly legible as "Therpist".
+- **Geographic Data:** The rightmost columns are fully visible, listing cities primarily in Florida (Fort Lauderdale, Vero Beach, Palm Beach) and New York, along with zip codes that correspond to these locations.
+- **Repeated Entries:** There are duplicate entries for addresses in Vero Beach, Fort Lauderdale, North Palm Beach, West Palm Beach/Royal Palm Beach, and New York, suggesting multiple contacts or victims associated with the same location.
+- **Typo Correction:** While "Therpist" is spelled incorrectly, the role implies a mental health professional involved with the victims.
+- **Document ID:** The alphanumeric string "EFTA00006028" suggests this is a government record or an internal file tracking number (possibly related to the Equal Employment Opportunity Commission given the "EFTA" prefix often associated with labor/HR docs).
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Guest Breakdown
+Victims                    10
+Support Person             4
+Undecided                  0
+Attorneys                  6
+Guest Total                20
+
+| | |
+|---|---|
+| ODAG | 2 |
+| Agents | 1 |
+| TFO | 1 |
+| VS | 4 |
+| VSD - HQ | 2 |
+| Therapist | 1 |
+| **Staff Total** | **11** |
+
+| | |
+|---|---|
+| Guest Total | 20 |
+| Staff Total | 11 |
+| **Total Attending** | **31** |
+
+Updated: 11/11 @ 4:00 PM
+
+Attorneys | Representing | Attorneys | Representing
+--- | --- | --- | ---
+[REDACTED] | 1 | [REDACTED] | 4
+[REDACTED] | 3 | [REDACTED] | 1
+[REDACTED] | 1 | [REDACTED] | 1
+
+Travel | Arrangements Made | Costs
+--- | --- | ---
+Mileage Reimbursement | 4 | 
+Ground Transport Reim. | 15 | $5,164.30
+Air | 9 | 9 | $0.00
+Lodging | 7 | 7 | 
+total: | | $5,164.30
+
+Guests from
+--- | ---
+FL | 12
+UT | 1
+NY | 2
+CA | 2
+AZ | 1
+NV | 1
+NC | 2
+| 21
+
+[REDACTED] Cancelled 11/11 - low grade fever, couldnt board flight
+& support Cancelled - didn't feel comfortable driving from Tampa
+RSVP yes on 11/11
+RSVP yes on 11/11
+
+## Structured Fields
+- **Date**: 11/11
+- **Time**: 4:00 PM
+- **Organizations/Groups**: ODAG, TFO, VS, VSD-HQ, Agents, Support Person, Victims, Attorneys, Therapist
+- **Locations (States)**: FL, UT, NY, CA, AZ, NV, NC, Tampa
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Travel Arrangements
+
+| Victim Full Name | Guest Full Name | Mode of Transportation | Airport/Station of Origin | Locator Number | Origin Airport | Date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [REDACTED] | | Mileage Reimburseme N/A | | | | |
+
+| [REDACTED] | | Air | New York, NY - JFK | [REDACTED] | New York, NY | 11-Nov |
+| [REDACTED] | | Air | Bangor, ME | [REDACTED] | Bangor, ME | 11-Nov |
+| [REDACTED] | | Mileage Reimburseme N/A | | | | |
+
+| [REDACTED] | | Air | Asheville, NC | [REDACTED] | Asheville, NC | 10-Nov |
+| [REDACTED] [REDACTED] [REDACTED] (female) | Air | Asheville, NC | [REDACTED] | Asheville, NC | 10-Nov |
+
+| [REDACTED] | | Long Island, NY - ISP Macarthur Airport | [REDACTED] | Islip, NY | 11-Nov |
+| [REDACTED] | | Air | Las Vegas, NV - McCarran | [REDACTED] | Las Vegas, NV | 11-Nov |
+| [REDACTED] | | Air | Las Vegas, NV - McCarran | [REDACTED] | Las Vegas, NV | 11-Nov |
+
+| [REDACTED] | | Mileage Reimburseme N/A | | | | |
+
+| [REDACTED] | | Air | Phoenix - PHX Sky Harbor | [REDACTED] | Phoenix, AZ | 11-Nov |
+| [REDACTED] [REDACTED] | Air | New York, NY - JFK | [REDACTED] | New York, NY | 11-Nov |
+
+| Mileage Reimburseme N/A | | | | | | |
+
+EFTA00006030
+
+## Structured Fields
+*   **Document ID:** EFTA00006030
+*   **Date Range:** 10-Nov to 11-Nov
+*   **Locations Mentioned:**
+    *   New York, NY (JFK)
+    *   Bangor, ME
+    *   Asheville, NC
+    *   Long Island, NY (ISP Macarthur Airport / Islip, NY)
+    *   Las Vegas, NV (McCarran)
+    *   Phoenix, AZ (PHX Sky Harbor)
+*   **Transportation Modes:** Air, Mileage Reimbursement
+*   **Notes:** One entry marked "(female)"
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+| Departing Time | Arrival Time | Arrival Airport | Date | Flight Home Time | Home Arrival time | Hotel Name | Hotel Conf. | Check in | Check out |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3:07 PM | 5:59 PM | Ft. Laude... | 13-Nov | 4:30 PM | 7:10 PM | Residenc... | 99058633 | 11-Nov | 13-Nov |
+| 12:40 PM | 6:59 PM | Ft. Laude... | 13-Nov | 1:28 PM | 7:07 PM | Residenc... | 99058928 | 11-Nov | 13-Nov |
+| | | | | | | | | | |
+| 5:20 PM | 9:40 PM | Ft. Laude... | 14-Nov | 12:30 PM | 4:30 PM | Residenc... | 99059426 | Nov-20 | 13-Nov |
+| 5:20 PM | 9:40 PM | Ft. Laude... | 14-Nov | 12:30 PM | 4:30 PM | Residence Inn by Marri | | Nov-20 | 13-Nov |
+| 8:50 AM | 5:00 PM | Ft. Laude... | 13-Nov | 10:00 AM | 4:35 PM | Residenc... | 99059576 | 11-Nov | 13-Nov |
+| 3:42 PM | 11:03 PM | Ft. Laude... | 13-Nov | 5:16 PM | 9:54 PM | Residenc... | 99059735 | 11-Nov | 13-Nov |
+| 3:42 PM | 11:03 PM | Ft. Laude... | 13-Nov | 5:16 PM | 9:54 PM | Residence Inn by Marri | | 11-Nov | 13-Nov |
+| | | | | | | Residence Inn by Marri | | 11-Nov | 13-Nov |
+| 8:13 AM | 4:25 PM | Ft. Laude... | 13-Nov | 5:16 PM | 10:48 PM | Residenc... | 99059234 | 11-Nov | 13-Nov |
+| 12:00 PM | 2:57 PM | Ft. Laude... | 13-Nov | 4:30 PM | 7:10 PM | Residence Inn by Marri | | 11-Nov | 13-Nov |
+| | | | | | Residenc... | 99514330 | 11-Nov | 12-Nov |
+
+## Structured Fields
+*   **Doc ID:** EFTA00006031
+*   **Locations:** Ft. Lauderdale (implied)
+*   **Organizations:** Residence Inn by Marriott
+*   **Dates:** 11-Nov, 13-Nov, 14-Nov, Nov-20
+*   **Names/IDs:** 99058633, 99058928, 99059426, 99059576, 99059735, 99059234, 99514330
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Notes
+
+Ms. [REDACTED] decided to book her flight to Dubai from Miami and would like a one-way ticket to Miami.
+
+Flight cost is from original reservation
+
+[REDACTED] [REDACTED] confirmed she will cover the costs for the two extra nights.
+
+[REDACTED] [REDACTED] confirmed she will cover the costs for the two extra nights.
+
+11.11 Missed flight due to low grade fever
+
+11.10 Cancelled due to Trop. Storm Erma
+
+Sat the 14 fly out
+
+Conf. # reused from [REDACTED]
+
+## Structured Fields
+- **Date/Time:** 11.11, 11.10, Sat the 14
+- **Locations:** Dubai, Miami
+- **Case ID / Doc ID:** EFTA00006032
+- **Reason for cancellation:** Trop. Storm Erma
+- **Reason for missed flight:** low grade fever
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Support Staff
+| Name | Role | Office | Cell | Personal | Arrival Date | Arrival Time | Hotel Stay | Departure Date | Departure Time |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [REDACTED] | | ODAG | [REDACTED] | [REDACTED] | 11-Nov | 12PM | Yes | | |
+| [REDACTED] | | ODAG | [REDACTED] | [REDACTED] | 10-Nov | 8:30PM | Yes | 12-Nov | 7PM |
+| [REDACTED] | | FBI - VSD | [REDACTED] | [REDACTED] | 10-Nov | 4PM | Yes | 12-Nov | 7PM |
+| [REDACTED] | | FBI - VSD | [REDACTED] | [REDACTED] | 10-Nov | 4PM | Yes | 12-Nov | 7PM |
+| [REDACTED] | Victim Specialist | FBI - NY | [REDACTED] | [REDACTED] | | | Yes | 13-Nov | 8PM |
+| [REDACTED] | Special Agent | FBI - NY | [REDACTED] | [REDACTED] | 11-Nov | | Yes | | |
+| [REDACTED] | TFO (NYPD) | FBI - NY | [REDACTED] | | | | Yes | | |
+| [REDACTED] | Victim Specialist | FBI - MM | [REDACTED] | | | | | |
+| [REDACTED] | Victim Specialist | FBI - MM | [REDACTED] | | | | | |
+| (Victim Services Coordinator) | Victim Specialist | FBI - MM | [REDACTED] | | | | | |
+
+## Structured Fields
+- **Date**: 11-Nov, 10-Nov, 12-Nov, 13-Nov
+- **Organization**: ODAG, FBI - VSD, FBI - NY, TFO (NYPD), FBI - MM, Victim Services Coordinator
+- **Role**: Support Staff, Victim Specialist, Special Agent, TFO (NYPD)
+- **Location**: (Implied by Office codes: ODAG, FBI-VSD, FBI-NY, FBI-MM)
+
+## Page 10 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a graphic layout resembling a cast list or guest lineup from a television program, set against a stark white background. The content is organized into two vertical columns filled with black rectangular bars that obscure underlying information, likely photos or names. Below these obfuscated areas are bold, black text labels identifying specific roles or identities.
+
+**Left Column:**
+- At the very top left is a thick, solid black rectangle. Directly beneath it is the bold text "FBI".
+- Below this section is another black rectangular bar featuring a slight 3D perspective cut on its bottom-left corner.
+- Further down, below a separation in the graphics, appears the label "Therapist" centered under a block (which has the angled corner style).
+- Below that are two more stacked black bars. The label "Survivor" appears beneath the first of these lower blocks.
+- At the bottom of this column is a final black bar with an angled corner.
+
+**Right Column:**
+- At the top right is a white rectangular box containing a thin horizontal line near the bottom, distinct from the black bars. Beneath it is the label "Victim Specialist".
+- Below this section is a black rectangular bar (angled).
+- Further down is another black bar. The label "Attorney" is positioned beneath this area.
+- Below that are two more stacked black bars.
+- The label "Guest" appears beneath one of these lower blocks.
+- Near the bottom right, aligned with the lowest visible section, is the word "Guest" appearing a second time, suggesting multiple guests or a continuation of the list.
+
+## Visible Text (verbatim)
+*   FBI
+*   Victim Specialist
+*   Therapist
+*   Attorney
+*   Survivor
+*   Guest
+*   Guest
+
+## Notable Details / Clues
+- **Redaction/Obfuscation:** The black bars serve as redactions or placeholders, preventing the viewer from seeing actual names or faces. This is a common technique in reality TV shows to build suspense before revealing identities or during transitions.
+- **Visual Styling of Bars:** Several of the black bars (e.g., next to "Therapist", "Survivor") feature a beveled or angled bottom-left corner, giving them a 3D or pop-out appearance, which suggests this is a computer-generated graphic interface rather than a static photo collage.
+- **Contextual Clues:** The combination of roles—FBI, Victim Specialist, Therapist, Attorney—strongly suggests a crime or legal context. However, the presence of "Survivor" and "Guest" alongside the specific formatting hints at a reality television show episode intro (possibly *Extreme Makeover: Home Edition* or similar), where guests are listed with their titles.
+- **Layout Asymmetry:** The right column starts with a white box while the left starts with a black one, creating visual contrast. The text alignment varies slightly; some labels are centered under large blocks, while others appear in specific slots relative to the bars above them.
+- **Footer ID:** A code "EFTA00006034" is visible in the bottom right corner, indicating this image is likely part of a larger digital archive or dataset.
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EXEMPTION CERTIFICATE
+TO BE USED BY FEDERAL EMPLOYEES
+
+DATE
+
+SELLING DEALER'S NAME
+
+SELLING DEALER'S ADDRESS
+
+I, the undersigned am an employee of the federal agency identified below. The purchase or lease of tangible personal property or services or the rental of living quarters or sleeping accommodations on or after ______________ (DATE[S]) from the business identified above is in pursuit of my employer's affairs. The Government of the United States either will pay the seller directly or will provide reimbursement to the employee for the actual cost of the purchase or lease of tangible personal property, services, or living quarters or sleeping accommodations made on this date(s).
+
+Under penalties of perjury, I declare that I have read the foregoing and the facts stated in it are true.
+
+SIGNATURE OF EMPLOYEE
+
+NAME OF FEDERAL AGENCY
+
+ADDRESS OF FEDERAL AGENCY
+
+THIS CERTIFICATE MAY NOT BE USED TO MAKE EXEMPT PURCHASES OR LEASES OF TANGIBLE PERSONAL PROPERTY OR SERVICES OR RENTAL OF LIVING ACCOMMODATIONS FOR THE PERSONAL USE OF ANY INDIVIDUAL EMPLOYED BY A UNITED STATES GOVERNMENTAL AGENCY. PROPER IDENTIFICATION IS REQUIRED BEFORE THIS CERTIFICATE MAY BE ACCEPTED BY THE SELLER.
+
+Florida Administrative Code Rule 12A-1.038(4)(c)
+EFTA00006035
+
+## Structured Fields
+*   **Date:** [Blank]
+*   **Selling Dealer Name:** [Blank]
+*   **Selling Dealer Address:** [Blank]
+*   **Federal Agency Name:** [Blank]
+*   **Federal Agency Address:** [Blank]
+*   **Document ID:** EFTA00006035
+*   **Legal Reference:** Florida Administrative Code Rule 12A-1.038(4)(c)
+

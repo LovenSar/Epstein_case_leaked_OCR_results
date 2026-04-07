@@ -1,0 +1,48 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00027101.pdf ts=2026-03-17T11:50:59 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: " [REDACTED]. (OIG)" <[REDACTED]>
+To: " [REDACTED]. (NY) (FBI" <[REDACTED]>, " [REDACTED]. (NY) (OGA
+(FBI" <[REDACTED]>, "[REDACTED]" (USANYS)"
+<[REDACTED], "[REDACTED] (USANYS)" <[REDACTED]>
+Subject: FW: Epstein's TruView
+Date: Tue, 13 Aug 2019 12:32:50 +0000
+Attachments: Epstein's_TruView.pdf; Epstein's_photograph.pdf
+
+Attached is the commissary records and official BOP photo
+
+[REDACTED]
+U.S. Department of Justice
+Office of the Inspector General
+New York Field Office
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+From: [REDACTED] (OIG)
+Sent: Tuesday, August 13, 2019 8:28 AM
+To: [REDACTED]. (OIG) <[REDACTED]>
+Subject: Epstein's TruView
+
+Hi [REDACTED],
+
+Attached find Epstein’s TruView account and photograph. As I mentioned to you, the only item that comes up on his account are 3 transactions, where he received money from 3 different people. See the attachment for further details.
+
+Thanks.
+
+[REDACTED]
+
+EFTA00027101
+
+## Structured Fields
+- **Date:** Tue, 13 Aug 2019 (Header); Tuesday, August 13, 2019 (Embedded email)
+- **Time:** 12:32:50 +0000 (Header); 8:28 AM (Embedded email)
+- **Subject:** FW: Epstein's TruView / Epstein's TruView
+- **Organization:** U.S. Department of Justice, Office of the Inspector General, New York Field Office, FBI, USANYS (USANY S?)
+- **From/To Entities:** OIG (Office of Inspector General), FBI, NY (NY), OGA (Office of General Administration? likely OCA or similar acronyms redacted)
+- **Attachments:** Epstein's_TruView.pdf, Epstein's_photograph.pdf
+- **Document ID (Footer):** EFTA00027101
+

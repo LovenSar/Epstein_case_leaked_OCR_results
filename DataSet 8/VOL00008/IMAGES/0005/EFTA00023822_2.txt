@@ -1,0 +1,1932 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00023822.pdf ts=2026-03-16T02:33:05 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Declaration of Custodian of Records
+
+Pursuant to 28 U.S.C. § 1746, I, the undersigned, hereby declare:
+My name is [REDACTED]. (name of declarant)
+
+I am a United States citizen and I am over eighteen years of age. I am the custodian of records of the business named below, or I am otherwise qualified as a result of my position with the business named below to make this declaration.
+
+I am in receipt of a Grand Jury Subpoena, dated January 23, 2010, and signed by Assistant United States Attorney [REDACTED] requesting specified records of the business named below. Pursuant to Rules 902(11) and 803(6) of the Federal Rules of Evidence, I hereby certify that the records provided herewith and in response to the Subpoena:
+
+(1) were made at or near the time of the occurrence of the matters set forth in the records, by, or from information transmitted by, a person with knowledge of those matters;
+(2) were kept in the course of regularly conducted business activity; and
+(3) were made by the regularly conducted business activity as a regular practice.
+
+I declare under penalty of perjury that the foregoing is true and correct.
+Executed on 2/5/2020 (date)
+[REDACTED] (signature of declarant)
+[REDACTED] Fraud Analyst (name and title of declarant)
+American Airlines (name of business)
+[REDACTED]
+
+Definitions of terms used above:
+As defined in Fed. R. Evid. 803(6), “record” includes a memorandum, report, record, or data compilation, in any form, of acts, events, conditions, opinions, or diagnoses. The term, “business” as used in Fed. R. Evid. 803(6) and the above declaration includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.
+
+EFTA00023822
+
+## Structured Fields
+- **Date:** 2/5/2020 (Execution date), January 23, 2010 (Subpoena date)
+- **Case ID / Doc ID:** EFTA00023822
+- **Organization:** American Airlines
+- **Title:** Fraud Analyst
+- **Law:** 28 U.S.C. § 1746; Federal Rules of Evidence 902(11), 803(6); Fed. R. Evid. 803(6)
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: L1YPJ
+Booked: 2019-06-25
+American Airlines CONFIDENTIAL for official use only.
+
+**PASSENGER INFORMATION**
+Pax Nbr | Name
+1.01 | [REDACTED]
+
+**FLIGHT INFORMATION**
+Seq Nbr | Flight | Class | Date | Dep | Arv | Stat | Qty | Dep Time | Arv Time
+1 | AA167 | V | 22SEP2019 | LAX | BOS | HK | 1 | 09:50 | 18:25
+2 | AA2542 | G | 01OCT2019 | BOS | LAX | HK | 1 | 17:22 | 20:49
+
+**TICKET INFORMATION**
+Seq Nbr | Ticket or Time Limit
+1 | T-06SEP-XTM725Z
+2 | TE 0012362566941 [REDACTED] XTM763Q 1513/25JUN 1B*77E711
+3 | TE 0012376452019 [REDACTED] XTM7WWA 0840/06SEP 1B*435FC1
+4 | TK 0010655804777 [REDACTED] XTM725Z 0846/06SEP - AE 1B*7BE52E
+
+**PHONE INFORMATION**
+Seq Nbr | Phone Number
+1 | [REDACTED]
+[REDACTED] | [REDACTED]
+[REDACTED] | [REDACTED]
+
+**ADDRESS INFORMATION**
+Address | [REDACTED]
+
+**FREQUENT FLYER INFO**
+Seq Nbr | Frequent Traveler
+1 | AA 216FYK8 HK AA 1.0 [REDACTED] ADV *
+
+**PRE REQUESTED SEATS INFO**
+Seq Nbr | Flight | Class | Seat | Depart | Arrive | Status | Name
+1 | AA167 | V | 17C | LAX | BOS | HK | [REDACTED] -1.01
+2 | AA2542 | G | 17D | BOS | LAX | HK | [REDACTED] -1.01
+
+**OSI INFO**
+Seq Nbr | OSI
+1 | OSI PURCHASED ON AA.COM US 06/25/2019 IN US CURRENCY
+
+CONFIDENTIAL//For Official Use Only
+1
+EFTA00023823
+
+## Structured Fields
+- **Date**: 2019-06-25 (Booked), 22SEP2019, 01OCT2019, 06/25/2019 (OSI), 25JUN (Ticket info), 06SEP (Ticket info).
+- **Locations**: LAX, BOS.
+- **Organizations**: American Airlines, AA.
+- **Doc IDs**: Record Locator: L1YPJ; Ticket Numbers: T-06SEP-XTM725Z, TE 0012362566941, TE 0012376452019, TK 0010655804777.
+- **Frequent Flyer**: AA 216FYK8.
+- **Case ID/Ref**: EFTA00023823.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: TYPJ
+
+### SSR
+| Seq Nbr | Type | SSR |
+| :--- | :--- | :--- |
+| 1 | DOCA/R/US///CA | |
+| 2 | DOCS/DB/02AUG198D/F | [REDACTED] [REDACTED] |
+| 3 | CCRD/CBAV NN1 | |
+| 4 | GRPO/2542G1OCT7/PREM CC NN1 | |
+| 5 | GRPO/167V22SEP/PREM CC NN1 | |
+
+### REMARKS INFORMATION
+| Seq Nbr | Remarks |
+| :--- | :--- |
+| 1. IBMXADD |
+| 2.H-/TSTTE11/117.99/200.00/N1.1 |
+| 3.H-/TSTTE12/VCR0012362566941/C1-2 |
+| 4.H-/TSDOC$VCR |
+| 5.H-/TSDLV$EMAIL$JESS$ABELLADIST.COM$0/00/00 |
+| 6.H-/ITBMP1K544045XXX XXX0435$09/23 |
+| 7.H-/T/LINDA J HILL |
+| 8.H-/TWWW EAU |
+| 9.H-/TCCBC US |
+| 10.H-71.220.179.114 |
+| 11.H-TRANC 5A0D9736-OD9B-4BA6-BB4B-CD4E0E789583 |
+| 12.H-WWW/AUTH/CID IK3396 BANK VERIFIED CID |
+| 13.H-IPADDR71.220.243.32$ |
+| 14.H-TRANP 19D012F3-7053-42B3-8D9F-67E8CE1B98B8 |
+| 15.H-PTI1.1-ADT-ADT |
+| 16.H-BOOKED VIA AMERICAN AIRLINES WEB SITE US IN US CURRENCY |
+| 17.H-IPHADDR71.220.243.32$ |
+| 18.H-TRANH 19D012F3-7053-42B3-8D9F-67E8CE1B98B8 |
+| 19.XXIACTXM25JUN/ |
+| 20.H-RES CHANGE MADE VIA AMERICAN AIRLINES WEBSITE IN US CURRENCY |
+| 21.H-/T$FEE$PSEATS17C$N1.1$S1$42.01/3.15$USD |
+| 22.H-/T$FEE$PSEATS17D$N1.1$S2$31.05/2.33$USD |
+| 23.XXAUTH/0121OZ *Z |
+| 24.XXITEM06SEP/ |
+| 25.H-TSEXCHANGE PROCESSED BY ETDs AUTOMATED EDITOR |
+| 26.ZXZ420 |
+| 27.H-/TBTMEDI T/EMAIL SENT 0846/06SEP/TDS |
+| 28.H-01 AE -PREFERRED SEATS USD 78.54 |
+| 29.H-0012376452019 |
+| 30.H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01 |
+| 31.BAG-TAG ACCEPTED 3001142105 22SEP2019 1048/LAX/MMSG |
+| 32.BAG-SELFTAG 142105 D ACTIVATED BY 931547 22SEP2019 1048/LAX |
+| 33.H-OVERRIDE BY LAXIS1 22SEP19 [REDACTED] GT |
+| 34.H-TICKET - 0012376452019 0167 LAX BOS |
+| 35.H-01CHK BAG FEES |
+| 36.H-OVERRIDE BY BOS86S 01OCT19 [REDACTED] GT |
+| 37.H-TICKET - 0012376452019 2542 BOS LAX |
+| 38.H-01CHK BAG FEES 01EXCES PIECES |
+
+CONFIDENTIAL//For Official Use Only 2 EFTA00023824
+
+## Structured Fields
+*   **Record Locator:** TYPJ
+*   **Date:** 02AUG (Typo visible), 09/23, 25JUN, 06SEP, 22SEP2019, 01OCT19
+*   **Locations:** LAX, BOS
+*   **Names/Organizations:** JESS ABELL, LINDA J HILL, AMERICAN AIRLINES, BANK (via CID)
+*   **Ticket Number:** 0012376452019
+*   **CID:** IK3396
+*   **Phone:** 71.220.179.114, 71.220.243.32
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: LTYPJ
+
+**BAGGAGE INFO**
+
+| Seq Nbr | Bag Routing | Flight | Bag Destination | Bag Pior Name | Bag Tag Number | Bag Checkin Agent | Bag Checkin LCL Date | Bag Checkin LCL Time |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | AA167 | BOS | [REDACTED] | AA145755 | LAX 5JS1 | 2019-09-22 | 09:37 AM |
+| 1 | AA167 | BOS | [REDACTED] | AA142105 | LAX 5SMD | 2019-09-22 | 08:33 AM |
+| 2 | AA2542 | LAX | [REDACTED] | AA546800 | BOS 585S | 2019-10-01 | 05:05 PM |
+| 2 | AA2542 | LAX | [REDACTED] | AA545128 | BOS 590J | 2019-10-01 | 03:54 PM |
+| 2 | AA2542 | LAX | [REDACTED] | AA546801 | BOS 585S | 2019-10-01 | 05:05 PM |
+
+**PNR HISTORY**
+
+| Seq Nbr | Update Time | Received From | AAA Code | Agent Sine | TTY OFFICE | Airline or CRS Cd | Trans Seq Nbr | Code | History Data |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 29 | 01OCT19 16:56 | PDCAABOS254201OCT | BOS | BOS5PD | | | 1 | UAX | PREFERRED SEATS/FL1 /AA2542G01OCT2019BOSLAX-[REDACTED] |
+| 28 | 01OCT19 16:05 | | BOS | BOS585S | | | 1 | A5H | H-OVERRIDE BY BOS85S 01OCT19[REDACTED]GT |
+| | | | | | | 2 | A5H | H-TICKET - 0012376452019 2542 BOS LAX |
+| | | | | | | 3 | A5H | H-01CHK BAG FEES 01EXCES PIECES |
+| 26 | 22SEP19 12:13 | PDCAALAX016722SEP | LAX | LAX5PD | | | 1 | UAX | PREFERRED SEATS/FL1 /AA0167V22SEP2019LAXBOS-[REDACTED] |
+| 25 | 22SEP19 11:37 | | LAX | LAX5JS1 | | | 1 | A5H | H-OVERRIDE BY LAXJS1 22SEP19[REDACTED]GT |
+| | | | | | | 2 | A5H | H-TICKET - 0012376452019 0167 LAX BOS |
+| | | | | | | 3 | A5H | H-01CHK BAG FEES |
+| 24 | 22SEP19 10:32 | WWW$RIPACLIENT | CRC | CRC8OD1 | | | 1 | A4S | SSR /CBAV NN1 |
+| | | | | | | 2 | A4S | SSR 2542G1OCT/PREM CC NN1 |
+| | | | | | | 2 | A4S | SSR GRPO AA NN1. 2542G1OCT/PREM CC NN1 |
+| | | | | | | 3 | A4S | SSR GRPO AA NN1. 167V22SEP/PREM CC NN1 |
+| 23 | 22SEP19 10:32 | WWW$SSM | GSW | GSW5SSM | | | 1 | AFF | AA 216FYK8 NN/HK-AA[REDACTED] |
+| 22 | 19SEP19 10:51 | SCC UPDATE | CRC | HDQ8PAY | | | 1 | A5H | H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01[REDACTED] |
+| 21 | 19SEP19 07:37 | WWW$GUEST | WWW | HDQ5777 | | | 1 | A9 | [REDACTED] |
+| | | | | | | 2 | A9 | [REDACTED] |
+| 20 | 06SEP19 08:46 | ITKTS FULFILMENT | XTM | XTM725Z | | | 1 | X5H | H-TBMEDIT/RSAPPP15 EDITOR SESSION 25 |
+| | | | | | | 2 | A5H | H-01 AE -PREFERRED SEATS USD 78.54 |
+| | | | | | | 3 | A5H | H-0012376452019 |
+| | | | | | | 4 | X7 | T-06SEP-XTM/WWA |
+| | | | | | | 5 | A7 | T-06SEP-XTM725Z |
+| | | | | | | 6 | UAX | PREFERRED SEATS/HI1 /AA0167V22SEP2019LAXBOS-[REDACTED] |
+| | | | | | | 7 | UAX | PREFERRED SEATS/HI1 /AA2542G01OCT2019BOSLAX-[REDACTED] |
+| 19 | 06SEP19 08:46 | TDSEMA/LEDIT/0846/06SEP/TDS | XTM | XTM7UEB | | | 1 | A5H | H-/T$TBMEDIT/EMAIL SENT 0846/06SEP/TDS |
+
+CONFIDENTIAL//For Official Use Only
+3
+EFTA00023825
+
+## Structured Fields
+
+- **Record Locator:** LTYPJ
+- **Document ID:** EFTA00023825
+- **Page Number:** 3
+- **Flight Numbers/Segments:** AA167, AA2542
+- **Routes:** BOS (Boston), LAX (Los Angeles)
+- **Dates:**
+  - 2019-09-22
+  - 2019-10-01
+  - 01OCT19
+  - 22SEP19
+  - 19SEP19
+  - 06SEP19
+- **Agents/Codes:** BOS5PD, BOS585S, LAX5PD, LAX5JS1, CRC8OD1, GSW5SSM, HDQ8PAY, HDQ5777, XTM725Z, XTM7UEB
+- **Bag Tags:** AA145755, AA142105, AA546800, AA545128, AA546801
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Record Locator: [LTYPJ]
+
+| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| **18** | 06SEP19<br>08:42 | TDS...TOR/0842/06SEP/EVN | XTM | XTM/EVN | | 1 | X5H | H-TBMEDIT/RSAPPPI5 EDITOR SESSION 23 |
+| | | | | | | 2 | A5H | H-TBMEDIT/RSAPPPI5 EDITOR SESSION 25 |
+| **17** | 06SEP19<br>08:40 | TDS...TOR/0840/06SEP/WWA | XTM | XTM/WWA | | 1 | A5H | H-TBMEDIT/RSAPPPI5 EDITOR SESSION 23 |
+| **17** | | | | | | 2 | A5H | H-T$EXCHANGE PROCESSED BY ETDS AUTOMATED EDITOR |
+| **17** | | | | | | 3 | X7 | TTEXIM06SEP/ |
+| **17** | | | | | | 4 | A7 | T-06SEP-XTM/WWA |
+| **16** | 06SEP19<br>08:31 | WWW$GUEST | WWW- | WWW/2777 | | 1 | X4O | OSI AA VIEW RES - ADVISE CUST OF FLT CHG 14JUL19 1852 |
+| **15** | 06SEP19<br>08:12 | WWW$0A34UMD | WWW- | WWW/2777 | | 1 | A5H | H-/T$FEE$PSEAT$17C$N1.1$$S1$42.01/3.15$USD |
+| **15** | | | | | | 2 | A5H | H-/T$FEE$PSEATS$17D$N1.1$$S2$31.05/2.33$USD |
+| **14** | 06SEP19<br>08:12 | ITKTS FULFILLMENT | XTM | XTM/IGW | | 1 | X4G | AA 2542G 01OCT2019 BOSLAX HK/SS 34E |
+| **14** | | | | | | 2 | A4G | AA 2542G 01OCT2019 BOSLAX SS/NN 17D |
+| **14** | | | | | | 3 | UAX | [REDACTED] REFFERRED SEATS/HD1 /AA2542G01OCT2019BOSLAX- |
+| **13** | 06SEP19<br>08:12 | ITKTS FULFILLMENT | XTM | XTM/IGW | | 1 | X4G | AA 167V 22SEP2019 LAXBOS HK/SS 35B |
+| **13** | | | | | | 2 | A4G | AA 167V 22SEP2019 LAXBOS SS/NN 17C |
+| **13** | | | | | | 3 | UAX | [REDACTED] PREFERRED SEATS/HD1 /AA0167V22SEP2019LAXBOS- |
+| **12** | 06SEP19<br>08:12 | ITKTS FULFILLMENT | XTM | XTM/IGW | | 1 | AAX | |
+| **12** | | | | | | 2 | AAX | |
+| **11** | 06SEP19<br>08:12 | WWW$0A34UMD | WWW- | WWW/2777 | | 1 | X5H | H-/T$TBMEDIT/EMAIL SENT 1519/25JUN/TDS |
+| **11** | | | | | | 2 | X5H | H-TBMUSD297.72 BASE AMT PLUS SECURITY PER ADT/1504/25JU |
+| **11** | | | | | | 3 | X5H | H-/T$3RD PARTY$15 DAYS OUT |
+| **11** | | | | | | 4 | X5H | H-/T$WWW EAU |
+| **11** | | | | | | 5 | X5H | H-/T$CCBC US [REDACTED] |
+| **11** | | | | | | 6 | X5H | [REDACTED] |
+| **11** | | | | | | 7 | X5H | H-/T$DOC$VCR |
+| **11** | | | | | | 8 | X5H | H-TBMEDIT/TKT DRIVEN FOR 336.61/1513/25JUN |
+| **11** | | | | | | 9 | X5H | H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY |
+| **11** | | | | | | 10 | X5H | H-TBMEDIT/RSAPPPI8 EDITOR SESSION 40 |
+| **11** | | | | | | 11 | X5H | H-TBMEDIT/RSAPP33 EDITOR SESSION 30 |
+| **11** | | | | | | 12 | X5F | --TBM*IK546636[REDACTED]33968 07/20 |
+| **11** | | | | | | 13 | X5F | [REDACTED] |
+| **11** | | | | | | 14 | A5F | --TBMXX-ADD |
+| **11** | | | | | | 15 | A5H | H-/T$TTE11/117.99/200.00/N1.1 |
+| **11** | | | | | | 16 | A5H | H-/T$TTE12/VCR0012362566941/C1-2 |
+| **11** | | | | | | 17 | A5H | H-/T$DOC$VCR |
+| **11** | | | | | | 18 | A5H | H-/T$DL[REDACTED] 00/00/00 |
+| **11** | | | | | | 19 | A5H | H-/T$TBM*IK544045XXXXX0435 $03/23 |
+| **11** | | | | | | 20 | A5H | H-/T$[REDACTED] |
+| **11** | | | | | | 21 | A5H | H-/T$WWW EAU |
+| **11** | | | | | | 22 | A5H | H-/T$CCBC US |
+
+CONFIDENTIAL // For Official Use Only
+4
+EFTA00023826
+```
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: [REDACTED]
+PNR HISTORY
+11 | | | | | 23 | A5H | H-71.220.179.114
+11 | | | | | 24 | A5H | H-TRANC 5A0D8736-0D9B-4BA6-BB4B-CD4E0E789583
+11 | | | | | 25 | A5H | H-RES CHANGE MADE VIA AMERICAN AIRLINES WEBSITE IN US C
+11 | | | | | 26 | X7 | T-25JUN-XTM763Q
+11 | | | | | 27 | A7 | TTEXTMODESEP/
+11 | | | | | 28 | X4G* | AA 167N 25SEP2019 LAXBOS HK/SC 20F
+11 | | | | | 29 | X4G* | AA 1161N 28SEP2019 BOSLAX HK/SS 20A
+11 | | | | | 30 | A4G | AA 167V 22SEP2019 LAXBOS SS/NN 55B
+11 | | | | | 31 | A4G | AA 2542G 01OCT2019 BOSLAX SS/NN 34E
+11 | | | | | 32 | XS | AA 167 N 25SEP2019 LAX BOS SC/HK1 09:50 18:25
+11 | | | | | 33 | XS | AA 1161 N 28SEP2019 BOS LAX NN/HK1 12:43 15:58
+11 | | | | | 34 | AS | AA 167 V 22SEP2019 LAX BOS NN/SS1 09:50 18:25
+11 | | | | | 35 | AS | AA 2542 G 01OCT2019 BOS LAX NN/SS1 17:22 20:49
+10 | | | | | 9 | XW | [REDACTED]
+10 | | | | | 10 | AW | [REDACTED]
+9 | 15JUL19 05:54 | TDEDITOR/0554/15JUL/SCN | XTM | XTM7SCN | 1 | A5H | H-TBMEDIT/RSAPPP33 EDITOR SESSION 30
+8 | 15JUL19 05:40 | TDEDITOR/0540/15JUL/WSC | XTM | XTM5WSC | 2 | XS | AA 167 N 25SEP2019 LAX BOS HK/WK1 10:00 18:37
+8 | | | | 3 | SC | AA 167 N 25SEP2019 LAX BOS SC/HK1 09:50 18:25
+7 | 14JUL19 18:52 | | XTM | XTM7ROB | 1 | A4O | OSI AA VIEW RES - ADVISE CUST OF FLT CHG 14JUL19 1852
+6 | 14JUL19 08:09 | SC.REAC.E18JUL19 | | | 1 | X4G | AA 167N 25SEP2019 LAXBOS WK/HK20F
+6 | | | | 2 | A4G | AA 167N 25SEP2019 LAXBOS SC/SC 20F
+6 | | | | 3 | SC | AA 167 N 25SEP2019 LAX BOS HK/WK1 10:00 18:37
+6 | | | | 4 | AS | AA 167 N 25SEP2019 LAX BOS SC/SC 1 09:50 18:25
+5 | 25JUN19 16:19 | TDEMAILEDT/1519/25JUN/TDS | XTM | XTM7UVR | 1 | A5H | H-/T$TBEDIT/EMAIL SENT 1519/25JUN/TDS
+4 | 25JUN19 16:13 | EDITOR EDITOR E051619-49 CC WEB NON RUSH | XTM | XTM763Q | 1 | A5H | H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY
+4 | | | | 2 | A5H | H-TBMEDIT/TKT DRIVEN FOR 336.61/1513/25JUN
+4 | | | | 3 | X7 | TACTIM25JUN/
+4 | | | | 4 | A7 | T-25JUN-XTM763Q
+3 | 25JUN19 16:04 | WWW/S0A34UM0 | WWW | HDQ2EAU | 1 | A4O | OSI PURCHASED ON AA.COM US 06/25/2019 IN US CURRENCY
+3 | | | | 6 | AW | [REDACTED]
+3 | | | | 7 | A5F | -TBM*IK546638XXXXXXXX3396$07/20
+3 | | | | 8 | A5F | [REDACTED]
+3 | | | | 9 | A5H | H-/T$DOC$VCR
+3 | | | | 10 | A5H | H-/T$DLV[REDACTED]
+3 | | | | 11 | A5H | H-/T$CCBC US
+3 | | | | 12 | A5H | H-/T$WWW EAU
+
+CONFIDENTIAL//For Official Use Only 5
+EFTA00023827
+
+## Structured Fields
+- **Record Locator:** [REDACTED] (LTYPL visible but redacted)
+- **Page Number:** 5
+- **Document ID:** EFTA00023827
+- **Date Range:** 25JUN19 to 15JUL19
+- **Organizations:** American Airlines (AA), AA.com
+- **Codes/Terms:** PNR HISTORY, TDEDITOR, XTM, A5H, A4O, XS, AS, XW, AW, X4G*, X4G, A4G.
+- **Locations/Segments:** LAXBOS, BOSLAX, SC, SS, NN, HK, WK
+- **Transaction Types:** H-TRANC, H-RES CHANGE, H-TBMEDIT, OSI PURCHASED
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: LTYPJ
+PNR HISTORY
+3 | | | | | | 13 | A5H | H-/T$3RD PARTY$15 DAYS OUT
+3 | | | | | | 14 | A5H | H-WWW/AUTH/CID IK3396 BANK VERIFIED CID
+3 | | | | | | 16 | A5H | H-IPPPADDR71.220.243.32$
+3 | | | | | | 16 | A5H | H-TRANP 19D012F3-7053-42B3-8D9F-67E8CE1B98BB
+3 | | | | | | 17 | A5H | H-TBMUSD297.72 BASE AMT PLUS SECURITY PER ADT/1504/25JU
+3 | | | | | | 18 | X8 | TLLAXAA116P/25JUN-TUE
+3 | | | | | | 19 | A7 | TACXTM25JUN/
+2 | 25JUN19 15:02 | ITKTS FULFILLMENT | XTM | XTM7168 | | 1 | A4G | AA 1161N 28SEP2019 BOSLAX SS/NN 20A
+1 | 25JUN19 15:02 | ITKTS FULFILLMENT | XTM | XTM7168 | | 1 | A4G | AA 167N 25SEP2019 LAXBOS SS/NN 20F
+SIGNATURE LINE
+Record Locator AAA Agent Create Date Create Time Received From Sabre Purge Date
+LTYPJ WWW/HDQCRE25JUN2019 16:01 WWW$0A34UM0 01OCT2019
+
+CONFIDENTIAL//For Official Use Only
+6
+EFTA00023828
+
+## Structured Fields
+- **Record Locator**: LTYPJ
+- **Sequence Numbers (PNR History)**: 13, 14, 16, 16, 17, 18, 19, 1
+- **Transaction Types**: A5H, X8, A7, A4G
+- **Date**: 25JUN19, 28SEP2019, 25SEP2019
+- **Time**: 15:02, 16:01
+- **IP Address**: 71.220.243.32$
+- **Travel Document (TRN)**: 19D012F3-7053-42B3-8D9F-67E8CE1B98BB
+- **Base Amount**: H-TBMUSD297.72
+- **Adt Ref**: ADT/1504/25JU
+- **Routing Code (RAC)**: WWW$0A34UM0
+
+## Extraction Reasoning
+The document is an airline PNR history printout for Locator `LTYPJ`. The table headers are compressed or implicit.
+- Top block: Row indices start at '3', implying multiple updates under one reservation segment. Sequence numbers 13-19 denote update order. A duplicate '16' exists (likely a system re-issue or error, transcribed as seen).
+- Middle rows: Sequence 18 and 19 follow with codes X8 and A7, showing routing changes (TLLAXAA -> TACXTM).
+- Bottom block: Rows 2 and 1 represent the current status or ticketing records. They share a timestamp '15:02' on '25JUN19'. Row 1 ends at LAXBOS (Los Angeles to Boston) while Row 2 ends at BOSLAX (Boston to Los Angeles).
+- Signature line: Shows creation details under the locator, confirming date/time and routing handle.
+
+The red box in the image highlights the table area and signature line. The footer contains confidentiality notices and a document tracking ID `EFTA00023828`.
+
+Final transcription matches visual data including potential OCR ambiguities (e.g., sequence '16' appearing twice).
+</think>
+
+Record Locator: LTYPJ
+PNR HISTORY
+3 |  |  |  |  |  | 13 | A5H | H-/T$3RD PARTY$15 DAYS OUT
+3 |  |  |  |  |  | 14 | A5H | H-WWW/AUTH/CID IK3396 BANK VERIFIED CID
+3 |  |  |  |  |  | 16 | A5H | H-IPPPADDR71.220.243.32$
+3 |  |  |  |  |  | 16 | A5H | H-TRANP 19D012F3-7053-42B3-8D9F-67E8CE1B98BB
+3 |  |  |  |  |  | 17 | A5H | H-TBMUSD297.72 BASE AMT PLUS SECURITY PER ADT/1504/25JU
+3 |  |  |  |  |  | 18 | X8 | TLLAXAA116P/25JUN-TUE
+3 |  |  |  |  |  | 19 | A7 | TACXTM25JUN/
+2 | 25JUN19 15:02 | ITKTS FULFILLMENT | XTM | XTM7168 | 1 | A4G | AA 1161N 28SEP2019 BOSLAX SS/NN 20A
+1 | 25JUN19 15:02 | ITKTS FULFILLMENT | XTM | XTM7168 | 1 | A4G | AA 167N 25SEP2019 LAXBOS SS/NN 20F
+SIGNATURE LINE
+Record Locator AAA Agent Create Date Create Time Received From Sabre Purge Date
+LTYPJ WWW/HDQCRE25JUN2019 16:01 WWW$0A34UM0 01OCT2019
+
+CONFIDENTIAL//For Official Use Only
+6
+EFTA00023828
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+VCRH*0012362566941k
+----------------------------------------
+* H I S T O R I C A L T I C K E T *
+----------------------------------------
+*
+VIRTUAL COUPON RECORD
+0012362566941 NAME-[REDACTED] [REDACTED]
+TTL NBR OF CPNS- 2 DATE OF ISSUE-25JUN19-PNR-**PURGED 01OCT19
+FF NBR-AA 216FYK8
+[REDACTED]
+CPN A/L FLT CLS DATE BRDOFF TIME ST F/B STAT
+[REDACTED] AA 167 N 25SEP LAXBOS 950A OK NVAJZNM3 EXCH
+O AA 1161 N 28SEP BOSLAX 1243P OK NVAJZNM3 EXCH
+
+FARE USD 286.52 TAX 21.49US TAX 11.20AY TAX 17.40XT
+TOTAL USD 336.61
+FARE CALC LAX AA BOS143.26NVAJZNM3 AA LAX143.26NVAJZNM3 286.52END ZPLAXBOS XT8.40ZP9.00XFLAX4.5BOS4.5
+FCMI-1 FORM OF PAYMENT
+[REDACTED] EXP-0720 APPROVAL CODE-09888P
+DATE OF ISSUE-25JUN19 ISSUED AT-XTMWB XTM 63Q
+ENDORSEMENTS/RESTRICTIONS-M
+
+## Structured Fields
+*   **Doc ID / Record Type:** VIRTUAL COUPON RECORD (HISTORICAL TICKET)
+*   **Record Number:** 0012362566941
+*   **Ticket/Coupon Number:** AA 216FYK8
+*   **Issue Date:** 25JUN19
+*   **Purge Date:** 01OCT19
+*   **Flight 1:** Flight AA 167 on 25SEP, LAX to BOS, Time 950A, Status EXCH (Nashville JZNM3 connection/booking?)
+*   **Flight 2:** Flight AA 1161 on 28SEP, BOS to LAX, Time 1243P, Status EXCH (Nashville JZNM3 connection/booking?)
+*   **Total Fare:** USD 336.61
+*   **Payment Approval Code:** EXP-0720 / APPROVAL CODE-09888P
+*   **Issued At:** XTMWB
+*   **Transaction ID (Footer):** EFTA00023829
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+VCRH*0012376452019
+*--------------------------------------------------*
+* HISTORICAL TICKET *
+*--------------------------------------------------*
+VIRTUAL COUPON RECORD
+0012376452019 NAME-[REDACTED]
+TTL NBR OF CPNS- 2 DATE OF ISSUE-06SEP19 PNR-*PURGED 01OCT19
+FF NBR-AA 216FYK8
+[REDACTED]
+CPN A/L FLT CLS DATE BRDOFF TIME ST F/B STAT
+I AA 167 V 22SEP LAXBOS 950A OK V7AZZNN1 USED
+2O AA 2542 G 01OCT BOSLAX 522P OK GUAHZNO1 USED
+FARE USD 396.28 TAX 29.72US TAX 11.20AY TAX 17.40XT
+TOTAL USD 454.60
+FARE CALC LAX AA BOS229.77V7AZZNN1 AA LAX166.51GUAHZNO1 396.
+28END ZPLAXBOS XFLAX4.5BOS4.5
+FCMI-1
+FORM OF PAYMENT-A/C 317.99
+FEE-FEE 200.00
+[REDACTED] EXP-0323 APPROVAL CODE-01210Z
+DATE OF ISSUE-06SEP19 ISSUED AT-XTMWX XTM WWA ¥
+
+## Structured Fields
+*   **Record Locator/ID:** 0012376452019
+*   **Ticket Type:** HISTORICAL TICKET / VIRTUAL COUPON RECORD
+*   **Date of Issue:** 06SEP19 (September 6, 2019)
+*   **PNR Status:** *PURGED
+*   **Purge/Expiry Date:** 01OCT19 (October 1, 2019)
+*   **Flight Segment 1:** AA Flight 167 (LAX to BOS) on 22SEP
+*   **Flight Segment 2:** AA Flight 2542 (BOS to LAX/GUA?) on 01OCT. *Note: Second segment appears to be a return or connection involving GUAHZNO1.*
+*   **Total FARE:** USD 396.28
+*   **Total Taxes:** USD 48.42 (29.72 US + 11.20 AY + 17.40 XT) - *Correction: The line sums to Total USD 454.60.*
+    *   US Tax: 29.72
+    *   AY Tax: 11.20
+    *   XT Tax: 17.40
+*   **Total Amount:** USD 454.60
+*   **Payment Method:** A/C (Credit Card) ending in 317.99
+*   **Fee Amount:** 200.00
+*   **Approval Code:** 01210Z
+*   **Issue Location:** XTMWX (XTM WWA)
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: EQHCVH
+
+American Airlines CONFIDENTIAL for official use only.
+
+Booked: 2019-09-24
+
+PASSENGER INFORMATION
+
+| Pax Nbr | Name |
+| :--- | :--- |
+| 1.01 | [REDACTED] |
+
+FLIGHT INFORMATION
+
+| Seq Nbr | Flight | Class | Date | Dep | Arr | Stat | Qty | Dep Time | Arr Time |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2 | AA2287 | M | 27SEP2019 | AUS | JFK | HK | 1 | 07:34 | 12:29 |
+| 7 | B6795 | R | 29SEP2019 | JFK | AUS | HK | 1 | 14:43 | 17:46 |
+
+HOTEL INFORMATION
+
+Hotel Data
+Seq Nbr | HK 1 JFK IN 27SEP2019 OUT 0.NT /DC- //II/AGT/SI/JT-ID-/C/ARR-/DEP-/CD-/C/
+4 | HK 1 JFK IN 28SEP2019 OUT 0.NT /DC- //II/AGT/SI/JT-ID-/C/ARR-/DEP-/CD-/C/
+
+NON-AIR SEGMENT INFO
+
+Non-Air Segment Text
+Seq Nbr | OTH 27SEP F GK01 AUS
+| OTH 28SEP J GK01 ZZZ
+| OTH 28SEP S GK01 JFK
+| OTH AA 29OCT T GK01 INFO/THANK YOU FOR CALLING DISNEY GLOBAL TRAVEL
+| OTH 24MAR T GK01 JFK
+
+TICKET INFORMATION
+
+Ticket or Time Limit
+Seq Nbr | T-A/INVOICED 28SEP
+2 | TE [REDACTED] -AT [REDACTED] H321*AJX 0909/25SEP
+3 | TE [REDACTED] AT [REDACTED] H321*AJX 0911/25SEP
+
+PHONE INFORMATION
+
+Seq Nbr | Phone Number
+[REDACTED] | [REDACTED]
+3 | [REDACTED]
+| [REDACTED]
+| [REDACTED]
+| [REDACTED]
+
+ADDRESS INFORMATION
+
+Address
+DISNEY GLOBAL TRAVEL [REDACTED]
+
+CONFIDENTIAL//For Official Use Only                                                              1
+
+EFTA00023831
+
+## Structured Fields
+
+- **Record Locator**: EQHCVH
+- **Booking Date**: 2019-09-24
+- **Flight 1**: AA2287, M Class, 27SEP2019, AUS to JFK (Outbound), Stat: HK
+- **Flight 2**: B6795, R Class, 29SEP2019, JFK to AUS (Return), Stat: HK
+- **Hotel Check-in Date**: 27SEP2019
+- **Hotel Check-out Date**: 28SEP2019
+- **Non-Air Segment**: GK01 (likely ground transfer) on 27SEP, 28SEP, and 24MAR.
+- **Ticket Info**: T-A/INVOICED 28SEP; Ticket numbers start with H321*AJX...
+- **Address**: DISNEY GLOBAL TRAVEL
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PRE REQUESTED SEATS INFO
+
+| Seq Nbr | Flight | Class | Seat | Deplar | Arrive | Status | Name |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | AA2287 M | 27D AUS | JFK | HK | | | -1.01 |
+| 2 | B6795 R | 20A JFK | AUS | KK | | | -1.01 |
+
+OSI INFO
+
+| Seq Nbr | OSI |
+| :--- | :--- |
+| 1 | OSI AA TL9000 148462 |
+| 2 | OSI AA C148462 |
+| 3 | OSI AA RELEASE TO AMERICAN EXPRESS GBT/H32I |
+| 4 | OSI AA HHL DT 26710 ARR27SEP 24 HR CANCEL REQUIRED |
+| 5 | OSI AA HHL DT 26710 ARR27SEP GUARANTEED BY CREDIT CARD |
+| 6 | OSI AA HHL DT 26710 ARR28SEP 24 HR CANCEL REQUIRED |
+| 7 | OSI AA HHL DT 26710 ARR28SEP GUARANTEED BY CREDIT CARD |
+| 8 | OSI YY CTCA 312-392-3051 IATA 10588071 |
+| 9 | OSI BA DTID.IN3693US |
+| 10 | OSI IB DTID.IN3693US |
+| 11 | OSI YY CMP USDWSSK |
+| 12 | OSI YY OIN DISNEY |
+| 13 | OSI YY C148462 |
+| 14 | OSI YY CP/SQA7/DNY |
+| 15 | OSI YY RELEASE TO AMERICAN EXPRESS GBT/H32I |
+
+SSR
+
+| Seq Nbr | Type | SSR |
+| :--- | :--- | :--- |
+| 1 | CLID | /C148462A21XDP1 |
+| 2 | CTCE/ | [REDACTED] |
+| 3 | [REDACTED] | [REDACTED] |
+| 4 | ADTK | PLS TICKET OR CANCEL BY 26SEP19 2359USFL PER GDS |
+| 5 | ADTK | TTL |
+| 6 | TKNE | 0017459940165C1 |
+| 7 | GRPO | 2287M27SEP/CORP NN1 |
+| 8 | CTCE/ | [REDACTED] |
+| 9 | CTCM/ | [REDACTED] |
+| 10 | CTCE/ | [REDACTED] |
+| 11 | CTCM/ | [REDACTED] |
+| 12 | DOC | S/DB/02JUL79/F [REDACTED] |
+| 13 | DOC | S/DB/02JUL79/F [REDACTED] |
+
+Remarks:
+1,H-PC/PSCR CLEARED FOR TRAVEL/CORPORATE SECURITY/O1I
+2,H-RIPA 05 ADDED EMAIL ADDRESS FROM CTCE DATA 25SEP
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Record Locator: EQHCWH
+
+| | Date/Time | Command | Terminal | Agent | | Seq | Type | Message |
+|---|---|---|---|---|---|---|---|---|
+| 74 | 27SEP19 15:04 | COMPLEAT | K2S9 | K2S9*ARC | | 1 | AS | OTH 24MAR T /GK01 JFK |
+| 59 | 26SEP19 16:16 | GN | H32I | 2QXC*API | | 1 | XS | OTH 27SEP F /GK01 AUS |
+| | | | | | | 2 | AS | OTH 27SEP F /GK01 AUS |
+| 58 | 26SEP19 15:09 | COMPLEAT | H32I | K2S9*ARC | | 1 | X7 | TAW2QXC26SEP227/I/N |
+| | | | | | | 2 | A7 | T-A/INVOICED 26SEP |
+| 56 | 26SEP19 15:08 | COMPLEAT | H32I | K2S9*ARC | | 1 | AAC | C 057400/DEP/ 0.00/0.00/0.00/ALL/CXXXXXXXXXXXXXX4 068 |
+| 55 | 26SEP19 15:04 | COMPLEAT | H32I | K2S9*ARC | | 1 | X4S | SSR DOCS AA HK1. /DB/02JUL79/[REDACTED] |
+| | | | | | | 2 | A4S | SSR /[REDACTED] |
+| | | | | | | 3 | A4S | SSR CTM AA HK1.[REDACTED] |
+| | | | | | | 3 | A4S | SSR [REDACTED] |
+| | | | | | | 4 | A4S | SSR DOCS AA HK1. /DB/02JUL79/F[REDACTED] |
+| | | | | | | 5 | X3S | SSR DOCS B6 HK1. /DB/02JUL79/F[REDACTED] |
+| | | | | | | 6 | A3S | SSR DOCS B6 HK1. /DB/02JUL79/F[REDACTED] |
+| | | | | | | 7 | X7 | TAW2QXC26SEP227/MAX-H32I |
+| | | | | | | 8 | A7 | TAW2QXC26SEP227/I/N |
+| 54 | 26SEP19 15:01 | JINSOL JUNG | H32I | 2QXC*ARV | | 1 | X7 | T-A/INVOICED 25SEP |
+| | | | | | | 2 | A7 | TAW2QXC26SEP227/MAX-H32I |
+| 53 | 26SEP19 14:47 | GN | H32I | 2QXC*ARV | | 1 | AS | OTH 28SEP J /GK01 ZZZ |
+| 52 | 26SEP19 14:43 | GN | H32I | 2QXC*ARV | | 1 | XS | OTH 29SEP S /GK01 AUS |
+| | | | | | | 2 | AS | OTH 29SEP S /GK01 AUS |
+| 51 | 26SEP19 14:43 | GN | H32I | 2QXC*ARV | | 1 | AS | OTH 27SEP F /GK01 AUS |
+| 47 | 26SEP19 08:56 | KIKIR | H32I | 2QXC*A KR | | 1 | AS | OTH 27SEP F /GK01 AUS |
+| 39 | 26SEP19 16:46 | COMPLEAT | H32I | K2S9*ARC | | 1 | X7 | TAW2QXC25SEP289/I/N |
+| | | | | | | 2 | A7 | T-A/INVOICED 25SEP |
+| 37 | 25SEP19 16:45 | COMPLEAT | H32I | K2S9*ARC | | 1 | AAC | B 057400/DEP/ 0.00/0.00/0.00/ALL/CXXXXXXXXXXXXXX4068 |
+| 36 | 25SEP19 16:42 | COMPLEAT | H32I | K2S9*ARC | | 1 | X4S | SSR DOCS AA HK1. /DB/02JUL79/F[REDACTED] |
+| | | | | | | 2 | A4S | SSR /[REDACTED] |
+| | | | | | | 3 | A4S | SSR CTM AA HK1.[REDACTED] |
+| | | | | | | 3 | A4S | SSR [REDACTED] |
+| | | | | | | 4 | A4S | SSR DOCS AA HK1. /DB/02JUL79/F[REDACTED] |
+| | | | | | | 5 | X3S | SSR DOCS B6 HK1. /DB/02JUL79/F[REDACTED] |
+| | | | | | | 6 | A3S | SSR DOCS B6 HK1. /DB/02JUL79/F[REDACTED] |
+| | | | | | | 7 | X7 | TAW2QXC25SEP289/MAX-H32I |
+| | | | | | | 8 | A7 | TAW2QXC25SEP289/I/N |
+| 35 | 26SEP19 16:38 | | H32I | 2QXC*AJM | | 1 | X7 | T-25SEP-H32I*AJX |
+
+CONFIDENTIAL//For Official Use Only
+EFTA00023833
+```
+
+## Structured Fields
+- **Record Locator:** EQHCW (partial)
+- **Date Range:** 25SEP19 - 27SEP19
+- **Names:** JINSOL JUNG
+- **Codes/IDs:** K2S9, H32I, 2QXC*ARC, 2QXC*API, 2QXC*ARV, 2QXC*A KR, 2QXC*AJM
+- **Commands:** COMPLEAT, GN, KIKIR
+- **Types/Status:** AS, XS, X7, A7, AAC, X4S, A4S, X3S, A3S
+- **Document ID:** EFTA00023833
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator EQHCVH
+
+| 35 | | | | | | 2 | A7 | TAW2QXC25SEP289/MAX-H32I |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **34** | 25SEP19<br>16:36 | GN | H32I | 2QXC\*AJM | | 1 | AS | OTH 29SEP S /GK01 AUS |
+| **33** | 25SEP19<br>16:35 | GN | H32I | 2QXC\*AJM | | 1 | AS | OTH 27SEP F /GK01 AUS |
+| **32** | 25SEP19<br>14:23 | RIPA 05 - ADDED EMAIL TO PE FIELD FROM CTCE | CRC | CRC5DIF | | 1 | A5H | H-RIPA 05 ADDED EMAIL ADDRESS FROM CTCE DATA 25SEP |
+| **32** | 25SEP19<br>14:23 | RIPA 05 - ADDED EMAIL TO PE FIELD FROM CTCE | CRC | CRC5DIF | | 1 | A9 | [REDACTED] |
+| **31** | 25SEP19<br>13:33 | GN | H32I | 2QXC\*ARL | | 1 | AS | OTH 27SEP F /GK01 ZZZ |
+| **30** | 25SEP19<br>13:30 | GN | H32I | 2QXC\*ARL | | 1 | AS | OTH 29SEP S /GK01 JFK |
+| **28** | 26SEP19<br>12:32 | GN | H35I | 2QXC\*AIB | | 1 | AS | OTH 27SEP F /GK01 JFK |
+| **27** | 25SEP19<br>11:11 | | H32I | 2QWC\*AJX | | 1 | X7 | T-25SEP-H32I\*AJX |
+| **27** | 25SEP19<br>11:11 | | H32I | 2QWC\*AJX | | 1 | AAC | B6$7459940166/ .00/ 230.85/ 31.61/ONE/CXXXXXXX |
+| **26** | 25SEP19<br>11:10 | WWW$RIPACLIENT | CRC | CRC80D1 | | 1 | A4S | SSR 2287M27SEP/CORP NN1 |
+| **26** | 25SEP19<br>11:10 | WWW$RIPACLIENT | CRC | CRC80D1 | | 1 | A4S | SSR GRPO AA NN1. 2287M27SEP/CORP NN1 |
+| **25** | 25SEP19<br>11:10 | | H32I | 2QWC\*AJX | | 1 | A4S | SSR TKNE AA HK1. AUSJFK 2287.M 2019-09-27 |
+| **25** | 25SEP19<br>11:10 | | H32I | 2QWC\*AJX | | 1 | AAC | AA$7459940165/ .00/ 264.34/ 34.13/ONE/CXXXXXXX |
+| **25** | 25SEP19<br>11:10 | | | | | 2 | X7 | TAW2QWC25SEP089/SPLIT.2-H32I |
+| **25** | | | | | | 3 | A7 | T-25SEP-H32I\*AJX |
+| **24** | 25SEP19<br>10:55 | HDQRM86251555 A84B0FEA-001 SYN | PLT | RM | B6 | 1 | A4S | |
+| **24** | 25SEP19<br>10:55 | HDQRM86251555 A84B0FEA-001 SYN | PLT | RM | B6 | 1 | A4S | SSR PLS TICKET OR CANCEL BY 26SEP19 2359USFL PER GDS |
+| **24** | | | | | | 2 | A4S | SSR TTL |
+| **24** | | | | | | 2 | A4S | |
+| **23** | 25SEP19<br>10:38 | COMPLEAT | H32I | K2S9\*ARC | | 1 | X4S\* | SSR DOCS AA HK1. /DB/02JUL79/F/[REDACTED] |
+| **23** | 25SEP19<br>10:38 | COMPLEAT | H32I | K2S9\*ARC | | 1 | XS | OTH AA 28OCT M GK/GK01 INFO/THEAK YOU FOR CALLING DI |
+| **23** | | | | | | 2 | A4S | SSR CTC EA HK1. /[REDACTED] |
+| **23** | | | | | | 2 | AS | OTH [REDACTED] |
+| **23** | | | | | | 3 | A4S | SSR [REDACTED] |
+| **23** | | | | | | 3 | A4S | SSR CTCM AA HK1. /[REDACTED] |
+| **23** | | | | | | 4 | A4S | SSR DOCS AA HK1. /DB/02JUL79/F/[REDACTED] ANNIE/E |
+| **23** | | | | | | 5 | X3S\* | SSR DOCS B6 HK1. /DB/02JUL79/F/[REDACTED] |
+| **23** | | | | | | 6 | A3S | SSR DOCS B6 HK1. /DB/02JUL79/F/[REDACTED] |
+| **22** | 25SEP19<br>10:35 | | H32I | 2QWC\*AJX | | 1 | X7 | TAW2QWC25SEP089/SPLIT.2-PTCA |
+| **22** | | | | | | 2 | A7 | TAW2QWC25SEP089/SPLIT.2-H32I |
+
+CONFIDENTIAL//For Official Use Only
+
+## Structured Fields
+*   **Record Locator:** EQHCVH
+*   **Dates:** 25SEP19, 26SEP19
+*   **Organizations/SSR Entities:** AA (American Airlines), CTCE, GK01, H32I
+*   **Document ID:** EFTA00023834
+*   **Status:** Confidential // For Official Use Only
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: EQHCVH
+
+PNR HISTORY
+20 | 25SEP19 10:26 | [Empty] | H32I | 2QWC*A/JX | [Empty] | 1 | X7 | T-A/INVOICED 24SEP
+20 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A7 | TAW2QWC25SEP089/SPLIT.2-PTCA
+19 | 25SEP19 09:53 | [Empty] | H32I | 2QWC*A/JX | [Empty] | 1 | A4G | AA 2287M 27SEP2019 AUSJFK SS/NN 27D
+19 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A4G | B6 795R 29SEP2019 JFKKAUS KK/NN 20A
+18 | 25SEP19 09:52 | [Empty] | H32I | 2QWC*A/JX | [Empty] | 1 | A4S | SSR DOCS AA HK1. /DB/02JUL79/F[REDACTED]
+18 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A3S | SSR DOCS B6 HK1. /DB/02JUL79/F[REDACTED]
+17 | 25SEP19 09:49 | CRC | HDQ8PAY | [Empty] | 1 | A5H | H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01
+16 | 25SEP19 09:49 | JINSOL JUNG | H32I | 2QWC*A/JX | [Empty] | 1 | AS | AA 2287 M 27SEP2019 AUS JFK OK/SS 1 07:34 12:29
+16 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | AS | B6 795 R 28SEP2019 JFK AUS SS/SS 1 14:43 17:46
+15 | 25SEP19 09:44 | JINSOL JUNG | H32I | 2QWC*A/JX | [Empty] | 1 | AS | HHL28SEP2019 SS/HK1 JFK
+15 | 25SEP19 09:44 | JINSOL JUNG | H32I | 2QWC*A/JX | [Empty] | 1 | A4O | OSI AA HHL DT 26710 ARR28SEP 24 HR CANCEL REQUIRED
+15 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A4O | OSI AA HHL DT 26710 ARR28SEP GUARANTEED BY CREDIT CARD
+10 | 24SEP19 15:34 | COMPLEAT | H32I | K2S9*ARC | [Empty] | 1 | X7 | TAW2QXC24SEP159/IN
+10 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A7 | T-A/INVOICED 24SEP
+8 | 24SEP19 15:33 | COMPLEAT | H32I | K2S9*ARC | [Empty] | 1 | AAC | A 055999/DEP/ 0.00/0.00/ALL/CXXXXXXXXXXXXX4068
+7 | 24SEP19 15:29 | COMPLEAT | H32I | K2S9*ARC | [Empty] | 1 | X7 | TAW2QXC24SEP159/MAX-H32I
+7 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A7 | TAW2QXC24SEP159/IN
+6 | 24SEP19 15:27 | [Empty] | H32I | 2YWC*A/K | [Empty] | 1 | X7 | TAW2QXC24SEP159/MAX-PTCA
+6 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A7 | TAW2QXC24SEP159/MAX-H32I
+5 | 24SEP19 15:05 | COMPLEAT | H32I | K2S9*ARC | [Empty] | 1 | AS | OTH AA 28OCT M GK/GK01 INFO/THANK YOU FOR CALLING DI
+4 | 24SEP19 15:03 | MARIA[REDACTED] - 12124562745 / GISELA PEREZ ROP | H32I | 2QXC*AGP | [Empty] | 1 | X7 | TAWH32I24SEP009/
+4 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A7 | TAW2QXC24SEP159/MAX-PTCA
+3 | 24SEP19 15:02 | [Empty] | H32I | 2QXC*AGP | [Empty] | 1 | A7 | TAWH32I24SEP009/
+1 | 24SEP19 14:56 | MARIA[REDACTED] - 12124562745 / GISELA PEREZ | H32I | 2QXC*AGP | [Empty] | 1 | A9 | PH[REDACTED]
+1 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 2 | A3O | OSI YY CTCA312-392-3051 IATA 10588071
+1 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 3 | A9 | [REDACTED]
+1 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 4 | A3O | OSI[REDACTED] DTID.IN369US
+1 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 5 | AW | [REDACTED]
+1 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 4 | A9 | PHX[REDACTED] JINGOL
+1 | [Empty] | [Empty] | [Empty] | [Empty] | [Empty] | 5 | A3O | OSI YY CMP USDWSSK[REDACTED]
+
+CONFIDENTIAL//For Official Use Only
+Page: 5
+Document ID: EFTA00023835
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: EQHCVH
+PNR HISTORY
+| | | | | | 5 | A30 | OSI YY OIN DISNEY |
+| 1 | | | | | 6 | [REDACTED] | |
+| 1 | | | | | 6 | A30 | OSI YY C148462 |
+| 1 | | | | | 7 | A4S | SSR /C148462A21XDPT |
+| 1 | | | | | 7 | A4S | SSR CLID YY NN1. /C148462A21XDPT |
+| 1 | | | | | 7 | A30 | OSI YY CP/SQA/DNY |
+| 1 | | | | | 8 | A30 | OSI YY RELEASE TO AMERICAN EXPRESS GBT/H32I |
+| 1 | | | | | 8 | AS | HHL27SEP2019 SS/HK1 JFK |
+| 1 | | | | | 9 | A4O | OSI AA TL9000 148462 |
+| 1 | | | | | 10 | A4O | OSI AA C148462 |
+| 1 | | | | | 11 | A4O | OSI AA RELEASE TO AMERICAN EXPRESS GBT/H32I |
+| 1 | | | | | 12 | A4O | OSI AA HHL DT 26710 ARR27SEP 24 HR CANCEL REQUIRED |
+| 1 | | | | | 13 | A4O | OSI AA HHL DT 26710 ARR27SEP GUARANTEED BY CREDIT CARD |
+
+AGENCY ACCOUNTING LINE INFO
+Seq Nbr | Agency Accounting Line
+1 | C 05/400/DEP/ 0.00/0.00/0.00/ALL/CXXXXXXXXXXXXXXXXX4068/1-PY-26SEP
+
+SIGNATURE LINE
+Record Locator | AAA | Agent | Create Date/Time | Received From | Sabre Purge Date
+EQHCVH | H32|2QXCAGP | 24SEP2019 | 14:56 | [REDACTED] | /GISELA PEREZ|24MAR2020
+
+CONFIDENTIAL//For Official Use Only
+
+## Structured Fields
+- **Record Locator:** EQHCVH
+- **Date:** 26SEP (Accounting), 27SEP2019 (PNR), 24SEP2019 (Signature)
+- **Agent/ID:** H32|2QXCAGP, AAA
+- **Name:** /GISELA PEREZ
+- **Doc ID:** EFTA00023836
+- **Location Codes:** GBT/H32I, JFK, HHL (Hamburg)
+- **Record Types:** A30, A4S, A4O, AS, OSI, SSR
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+VCRH [REDACTED]
+* H I S T O R I C A L   T I C K E T *
+VIRTUAL COUPON RECORD
+[REDACTED] NAME- [REDACTED]
+TTL NBR OF CPNS- 1 DATE OF ISSUE-25SEP19 PNR-EQHCVH 24SEP19
+CPN A/L FLT CLS DATE BRDOFF TIME ST F/B STAT
+1 AA 2287 M 27SEP AUS JFK 734A OK MOAJZNN1/21XD USED
+
+FARE USD 264.34 TAX 19.83US TAX 4.20P TAX 10.10XT
+TOTAL USD 298.47
+FARE CALC AUS AA NYC 264.34 USD 264.34 END ZPAUS XT 5.60 AY 4.50 XFA US 4.5
+FCMI-6
+FORM OF PAYMENT [REDACTED] EXP-0221 APPROVAL CODE-087357
+DATE OF ISSUE-25SEP19 ISSUED AT-PHX H32I AJX
+ARC/IATA NBR-10588071
+ENDORSEMENTS/RESTRICTIONS-
+NONREF/SVCCHGPLUSFAREDIF/CXL BONLY ¥
+
+## Structured Fields
+- **Document Type:** HISTORICAL TICKET / VIRTUAL COUPON RECORD
+- **Case ID (PNR):** EQHCVH
+- **Date of Issue:** 25SEP19
+- **Expiration/Related Date:** 24SEP19
+- **ARC/IATA NBR:** 10588071
+- **Approval Code:** 087357
+- **Issued At:** PHX (Phoenix)
+- **Flight:** AA 2287 (Dep: AUS, Arr: JFK)
+- **Boarding Date:** 27SEP
+- **Fare Amount:** USD 264.34
+- **Total Amount:** USD 298.47
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: SFEH[REDACTED]
+American Airlines CONFIDENTIAL for official use only.
+Booked: [REDACTED]
+
+| | |
+| :--- | :--- |
+| **PASSENGER INFORMATION** | |
+| Pax Nbr | Name |
+| 1.01 | [REDACTED] |
+| 2.01 | GROVER/JONATHAN |
+
+| | |
+| :--- | :--- |
+| **FLIGHT INFORMATION** | |
+| Seq Nbr | Flight | Class | Date | Dep | Arr | Stat | Qty | Dep Time | Arr Time |
+| 1 | AA1453 | Y | 20JUL2019 | BOS | CLT | AF | 2 | 18:57 | 21:31 |
+| 2 | AA810 | Y | 20JUL2019 | CLT | AUS | AF | 2 | 22:29 | 00:12 |
+
+| | |
+| :--- | :--- |
+| **TICKET INFORMATION** | |
+| Seq Nbr | Ticket or Time Limit |
+| 1 | I-20JUN-X1M7.26Z |
+| 2 | TE 0012361555203 | [REDACTED] | TM7EA0 | 0946/20JUN 1B*77E705 |
+| 3 | TE 0012361555204 | GROVE/J | XTM7EA0 | 0947/20JUN 1B*77E705 |
+| 4 | TK 0010650749255 | [REDACTED] | TM726Z | 0952/20JUN -AE 1B*7BE52E |
+| 5 | TK 0010650749256 | GROVE/J | XTM726Z | 0952/20JUN -AE 1B*7BE52E |
+
+| | |
+| :--- | :--- |
+| **PHONE INFORMATION** | |
+| Seq Nbr | [REDACTED] |
+| 1 | [REDACTED] |
+| 2 | [REDACTED] |
+
+| | |
+| :--- | :--- |
+| **ADDRESS INFORMATION** | |
+| Address | [REDACTED] |
+
+| | |
+| :--- | :--- |
+| **REQUENT FLYER INFO** | |
+| Frequent Traveler | |
+| 1 | AA 84P1P50 HK AA 1.01 [REDACTED] ADV * |
+| 2 | AA 9HR0L08 HK AA 2.01 GROVER/JONATHAN * ADV* |
+
+| | |
+| :--- | :--- |
+| **PRE REQUESTED SEATS INFO** | |
+| Seq Nbr | Flight | Class | Seat | Depart | Arrive | Status | Name |
+| 1 | AA1453 | Y | 18E | BOS | CLT | HK | [REDACTED] -1.01 |
+| 2 | AA1453 | Y | 18F | BOS | CLT | HK | GROVER/JONATHAN-2.01 |
+| 3 | AA810 | Y | 18D | CLT | AUS | HK | [REDACTED] -1.01 |
+| 4 | AA810 | Y | 18E | CLT | AUS | HK | GROVER/JONATHAN-2.01 |
+
+| | |
+| :--- | :--- |
+| **OSI INFO** | |
+| Seq Nbr | OSI . |
+
+CONFIDENTIAL//For Official Use Only &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1
+
+EFTA00023838
+
+## Structured Fields
+- **Date**: 20JUL2019 (Flight Date), 20JUN (Time Limit Date)
+- **Record Locator**: SFEHXL
+- **Passenger Name**: GROVER/JONATHAN
+- **Flight Numbers**: AA1453, AA810
+- **Airlines**: American Airlines (AA), AF (Air France? - possibly interline)
+- **Document ID**: EFTA00023838
+- **Organizations**: American Airlines
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: SFHNLX
+
+OSI INFO
+1 OSI PURCHASED ON AA.COM US 06/20/2019 IN US CURRENCY
+2 OSI YY AAAD Y30AUD/AVQ02
+
+SSR
+Seq Nbr Type SSR
+1 DOCA//R/US///TX
+2 DOC5//DB/02JUL1979[REDACTED]
+3 DOCA//R/US///TX
+4 DOC5//DB/06SEP1979/M/GROVER/JONATHAN
+5 DOCO//R/5125415385
+6 CCRD//CBAV NN1
+7 GRPO|810Y20JUL/PREM CC NN2
+8 GRPO|810Y20JUL/PREM CC NN2
+9 GRPO|1453Y20JUL/PREM CC NN2
+10 GRPO|1453Y20JUL/PREM CC NN2
+
+REMARKS INFORMATION
+Seq Nbr Remarks
+1 1.TBMOCAWC
+2 2.H-TBMEDIT/RSAPPP15 EDITOR SESSION 33
+3 3.H-/T$CERT-0010560787926$N1.1
+4 4.H-/T$CERT-0010560787930$N2.1
+5 5.H-/T$AWC$AWD$Y30AUD$S1/2$BOSAUS$84PTP50
+6 6.H-/T$BM*IK546616XXXXXX1829$04/23
+7 7.H-/T[REDACTED]
+8 8.H-/T$DOC$VCR
+9 9.H-/T$DLV$EMA[REDACTED]
+10 10.H-/T$FEE$PSEAT$18E$N1.1$S1$15.63/1.17$USD
+11 11.H-/T$FEE$PSEAT$18F$N2.1$S1$22.34/1.68$USD
+12 12.H-/T$CCBC US
+13 13.H-/T$WWW EAU
+14 14.H-WWW/AUTH/CID IK1829 BANK VERIFIED CID
+15 15.H-IPADDR70.123.13.38$
+16 16.H-TRANP 74587/A4-9347-498F-9554-DAB3EFB3E440
+17 17.H-PTI1.1-ADT-FFY
+18 18.H-PTI2.1-ADT-FFY
+19 19.H-BOOKED VIA AMERICAN AIRLINES WEB SITE US IN US CURRENCY
+20 20.H-IPADDR70.123.13.38$
+21 21.H-TRANH F6FFAF3D-5A10-40B1-A097-533D0B04D6E4
+22 22.H-Y30AUD AA/US - 1 ECONOMY CLASS TICKET -
+23 23.H-ONE-WAY FLEX AANYTIME LEVEL 2 AWARD -
+24 24.H-WITHIN THE 48 U.S.
+25 25.H-FOR VALID DATES SEE /N.AAD DATES/
+26 26.H-TKT DESIGN...AVQ02
+27 27.H-ACCT CODE...AWARD
+28 28.H-/T$MULTIPLE$SFHNLX$2
+29 CHECK COMPLETE
+30 30.H-/T$PCC
+
+CONFIDENTIAL//For Official Use Only
+2
+EFTA00023839
+
+## Structured Fields
+- **Record Locator**: SFHNLX
+- **Date**: 06/20/2019 (Purchase Date), 02JUL1979, 06SEP1979, 04/23
+- **Location/Codes**: SFHNLX, US, WWW EAU, 48 U.S.
+- **Name**: GROVER, JONATHAN
+- **Organization**: AA.COM, AMERICAN AIRLINES
+- **Document ID**: EFTA00023839
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: SFHNLX
+
+REMARKS INFORMATION
+31 - 31.H-/T$MULTIPLE$SFHNLXS2
+32 - 32.H-AUTH/CID IK1829-XTMEA0
+33 - 33.H-CERT-0560787926/2902 TKT DESIG - AVQ02
+34 - 34.XXAUTH/34001P
+35 - 35.XXTAAXTM20JUN/
+36 - 36.H-CERT-0560787930/2903 TKT DESIG - AVQ02
+37 - 37.XXTAAXTM20JUN/
+38 - 38.H-01 AE -PREFERRED SEATS USD 16.80
+39 - 39.H-0012361555203
+40 - 40.H-01 AE -PREFERRED SEATS USD 24.02
+41 - 41.H-0012361555204
+42 - 42.H-/T$TBEDIT/EMAIL SENT 0953/20JUN/TDS
+43 - 43.H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01
+44 - 44.BAG-TAG ACCEPTED 224029 20JUL2019 1639/BOS/8MSG
+45 - 45.BAG-TAG ACCEPTED 224030 20JUL2019 1639/BOS/8MSG
+46 - 46.BAG-SELFTAG 224029 D ACTIVATED BY 584966 20JUL2019 1639/BOS
+47 - 47.BAG-SELFTAG 224030 D ACTIVATED BY 584966 20JUL2019 1639/BOS
+
+BAGGAGE INFO
+Seq Nbr | Bag Routing Flight | Bag Destination | Bag Psg r Name | Bag Tag Number | Bag Checkin Agent | Bag Checkin LCL Date | Bag Checkin LCL Time
+--- | --- | --- | --- | --- | --- | --- | ---
+1 | AA1453 | CLT | [REDACTED] | AA224029 | BOS 5SMD | 2019-07-20 | 05:36 PM
+1 | AA1453 | CLT | GROVER/JONATHAN | AA224030 | BOS 5SMD | 2019-07-20 | 05:36 PM
+1 | AA810 | AUS | [REDACTED] | AA224029 | BOS 5SMD | 2019-07-20 | 05:36 PM
+1 | AA810 | AUS | GROVER/JONATHAN | AA224030 | BOS 5SMD | 2019-07-20 | 05:36 PM
+
+PNR HISTORY
+Seq Nbr | Update Time | Received From | AAA Code | Agent Sine | TTY OFFICE | Airline or CRS Cd | Trans Seq Nbr | Code | History Data
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+19 | 20JUL19 21:55 | PDCAACL T | CLT | CLT5PD | | | 1 | SC | AA 810 Y 20JUL2019 CLT AUS HK/AF 2 22:29 00:12
+18 | 20JUL19 16:11 | PDCAABOS | BOS | BOS5PD | | | 1 | UAX | PREFERRED SEATS/FL1 /AA1453Y20JUL2019BOSCLT-[REDACTED]
+| | | | | | | 2 | UAX | PREFERRED SEATS/FL2 /AA1453Y20JUL2019BOSCLT-GROVER/JONA
+| | | | | | | 3 | SC | AA 1453 Y 20JUL2019 BOS CLT HK/AF 2 16:57 21:31
+12 | 17JUL19 17:02 | SCC UPDATE | CRC | HDQ8PAY | | | 1 | A5H | H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01
+11 | 20JUN19 12:33 | TDSEDITOR/1233/20JUN/SFV | XTM | XTM7SFV | | | 1 | A5H | H-TBMEDIT/RSAPP15 EDITOR SESSION 33
+10 | 20JUN19 09:53 | TDEMAIL EDIT/0953/20JUN/TDS | XTM | XTM7UEB | | | 1 | A5H | H-/T$TBEDIT/EMAIL SENT 0953/20JUN/TDS
+9 | 20JUN19 09:52 | ITKTS FULFILLMENT | XTM | XTM726Z | | | 1 | X5H | H-TBMEDIT/TKT DRIVEN FOR 5.60/0946/20JUN
+| | | | | | | 2 | X5H | H-TBMEDIT/TKT DRIVEN FOR 5.60/0947/20JUN
+| | | | | | | 3 | X5H | H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY
+| | | | | | | 4 | A5H | H-01 AE -PREFERRED SEATS USD 16.80
+| | | | | | | 5 | A5H | H-0012361555203
+| | | | | | | 6 | A5H | H-01 AE -PREFERRED SEATS USD 24.02
+| | | | | | | 7 | A5H | H-0012361555204
+
+CONFIDENTIAL // For Official Use Only                                                                  3
+
+EFTA00023840
+
+## Structured Fields
+- **Document ID**: EFTA00023840
+- **Record Locator**: SFHNLX
+- **Date Range**: June 17, 2019 - July 20, 2019
+- **Passenger Name**: GROVER/JONATHAN, GROVER/JONA (partial)
+- **Bag Tags**: AA224029, AA224030
+- **Flight Numbers**: AA1453, AA810
+- **Locations/Codes**: CLT (Charlotte), AUS (Austin?), BOS (Boston), HK/AF, SFV, TDS, SFW, CRC, XTM
+- **Agent Codes**: CLT5PD, BOS5PD, HDQ8PAY, XTM7SFV, XTM7UEB, XTM726Z
+- **PNR**: AA 810 Y 20JUL2019 CLT AUS
+
+## Page 20 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: SFRNLX
+PNR HISTORY
+9 | | | | | | 8 | X7 | T-20JUN-XTM7EA0
+9 | | | | | | 9 | A7 | T-20JUN-XTM726Z
+9 | | | | | | 10 | UAX | [REDACTED] SEATS/HI1 /AA1453Y20JUL2019BOSCLT-
+9 | | | | | | 11 | UAX | PREFERRED SEATS/HI2 /AA1453Y20JUL2019BOSCLT-GROVER/JONA
+8 | 20JUN19<br>09:47 | EDITOR EDITOR E051619-49 ADVANTAGE | XTM | XTM7EA0 | | 1 | X5H | H-TBMEDIT/RSAPP P17 EDITOR SESSION 7
+8 | | | | | | 2 | A5H | H-TB MED IT/ALL PQS DELETED AND PLACED INTO HISTORY
+8 | | | | | | 3 | A5H | H-TBMEDIT/TKT DRIVEN FOR 5.60/0947/20JUN
+8 | | | | | | 4 | A5H | H-TBMEDIT/TKT DRIVEN FOR 5.60/0946/20JUN
+8 | | | | | | 5 | A5H | H-/T$CERT-0010560787926$N1.1
+8 | | | | | | 6 | A5H | H-/T$CERT-0010560787930$N2.1
+8 | | | | | | 7 | A5H | H-/T$PCC
+8 | | | | | | 8 | A5H | H-/T$MULTIPLESSFHNLS2
+8 | | | | | | 9 | A5H | H-AUTH/CID IK1829-XTMEA0
+8 | | | | | | 10 | A5H | H-CERT-0560787926/2902 TKT DESIG - AVQ02
+8 | | | | | | 11 | A5H | H-CERT-0560787930/2903 TKT DESIG - AVQ02
+8 | | | | | | 12 | X7 | TAAXTM20JUN/
+8 | | | | | | 13 | A7 | T-20JUN-XTM7EA0
+7 | 20JUN19<br>09:40 | TDS EDITOR/0940/20JUN/FDP | XTM | XTM7FDP | | 1 | A6H | H-TBMEDIT/RSAPP P17 EDITOR SESSION 7
+7 | | | | | | 2 | A5H | H-/T$MULTIPLESSFHNLS2
+6 | 20JUN19<br>09:22 | WWW$84PTP50 | WWW | HDQ2EAV | | 1 | A4O | OSI PURCHASED ON AA.COM US 06/20/2019 IN US CURRENCY
+6 | | | | | | 6 | AW | [REDACTED]
+6 | | | | | | | | 78721
+6 | | | | | | 7 | A5F | -TBMXX:AWC
+6 | | | | | | 8 | A5H | H-/T$AWC$AWD$Y30AUD$.S1/25BOSAUS$84PTP50
+6 | | | | | | 9 | A5H | H-/T$TBM/K646618XXXXX1829$04/23
+6 | | | | | | 10 | A5H | H-/T [REDACTED]
+6 | | | | | | 11 | A5H | H-/T$DOCSVCR
+6 | | | | | | 12 | A5H | H-/T$DLV$EMAIL [REDACTED] 00/00/00
+6 | | | | | | 13 | A5H | H-/T$FEE$PSEATS$18E$N1.1$$S15.63/1.17$USD
+6 | | | | | | 14 | A5H | H-/T$FEE$PSEATS$18F$N2.1$$S122.34/1.68$USD
+6 | | | | | | 15 | A5H | H-/T$CCBC US
+6 | | | | | | 16 | A5H | H-/T$WWW EAU
+6 | | | | | | 17 | A5H | H-WWW/AUTH/CID IK1829 BANK VERIFIED CID
+6 | | | | | | 18 | A5H | H-JPPADDR70.123.13.38$
+6 | | | | | | 19 | A5H | H-TRANP 7458/7A4-9347-498F-9554-DAB3EFB3E440
+6 | | | | | | 20 | X8 | TLBOSAA1159P/25JUN-TUE
+6 | | | | | | 21 | A7 | TAAXTM20JUN/
+5 | 20JUN19<br>08:37 | WWW$GUEST | WWW | WWW2777 | | 1 | X8 | TLBOSAA950A/20JUN-THU
+5 | | | | | | 2 | A8 | TLBOSAA1159P/25JUN-TUE
+4 | 20JUN19<br>08:37 | ITKTS FULFILLMENT | XTM | XTM7158 | | 1 | A4G | AA 810Y 20JUL2019 CLTAUS SS/NN 18D
+4 | | | | | | 2 | A4G | AA 810Y 20JUL2019 CLTAUS SS/NN 18E
+
+CONFIDENTIAL//For Official Use Only
+4
+
+## Structured Fields
+*   **Record Locator:** SFRNLX
+*   **Dates:** 20JUN19, 06/20/2019, 20JUL2019, 25JUN, 23 (partial date in line 9)
+*   **Locations/Codes:** BOSCLT (Boston/Charlotte?), EAU (Europe/Airline?), TKT DESIG - AVQ02
+*   **Organizations:** AA.COM, EDITOR, WEB, FDP, ITKTS FULFILLMENT
+*   **Ticket Numbers/IDs:** 78721, E051619-49, IK1829, TLBOSAA1159P, TLBOSAA950A, AA 810Y
+*   **Confidentiality Marking:** CONFIDENTIAL//For Official Use Only
+
+## Page 21 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: SFHNLX
+
+PNR HISTORY
+| | 3 | 20JUN19<br>08:37 | ITKTS FULFILLMENT | XTM | XTM7I68 | | | 1 | A4G AA 1453Y 20JUL2019 BOSCLT SS/NN 18E |
+|---|---|---|---|---|---|---|---|---|---|
+| | 3 | | | | | | | 2 | A4G AA 1453Y 20JUL2019 BOSCLT SS/NN 18F |
+| | 3 | | | | | | | 3 | UAX<br>[REDACTED] |
+| | 3 | | | | | | | 4 | UAX PREFEERED SEATS/HD2 /AA1453Y20JUL2019BOSCLT-GROVER/JONA |
+| | 2 | 20JUN19<br>08:37 | ITKTS FULFILLMENT | XTM | XTM7/68 | | | 1 | AAX PREFEERED SEATS/HD1 /15.63USD/1.17US/16.80USD/PTC-ADT/G |
+| | 2 | | | | | | | 2 | AAX PREFEERED SEATS/HD2 /22.34USD/1.68US/24.02USD/PTC-ADT/G |
+| | 1 | 20JUN19<br>08:35 | WWWSRIPA CLIENT | CRC | CRC8OD1 | | | 1 | A4S |
+| | 1 | 20JUN19<br>08:35 | WWWSRIPA CLIENT | CRC | CRC8OD1 | | | 1 | A4S SSR /CBAV NN1 |
+| | 1 | | | | | | | 2 | A4S SSR GRPO AA NN2. 810Y20JUL/PREM CC NN2 |
+| | 1 | | | | | | | 2 | A4S SSR 810Y20JUL/PREM CC NN2 |
+| | 1 | | | | | | | 3 | A4S SSR 810Y20JUL/PREM CC NN2 |
+| | 1 | | | | | | | 3 | A4S SSR GRPO AA NN2. 810Y20JUL/PREM CC NN2 |
+| | 1 | | | | | | | 4 | A4S SSR 1453Y20JUL/PREM CC NN2 |
+| | 1 | | | | | | | 4 | A4S SSR GRPO AA NN2. 1453Y20JUL/PREM CC NN2 |
+| | 1 | | | | | | | 5 | A4S SSR 1453Y20JUL/PREM CC NN2 |
+| | 1 | | | | | | | 5 | A4S SSR GRPO AA NN2. 1453Y20JUL/PREM CC NN2 |
+
+SIGNATURE LINE
+Record Locator | AAA | Agent | Create Date | Create Time | Received From | Sabre Purge Date
+---|---|---|---|---|---|---
+SFHNLX | WWWHDQEAV | 20JUN2019 | 08:35 | WWW$84PTP50 | 20JUL2019 |
+
+CONFIDENTIAL//For Official Use Only
+5
+EFTA00023842
+
+## Page 22 (DOC) [TAG:DOJ_CLEAN_V2]
+
+VCR [REDACTED]
+*-------------------------------------------------------------------*
+* H I S T O R I C A L T I C K E T *
+*-------------------------------------------------------------------*
+VIRTUAL COUPON RECORD
+[REDACTED] NAME- [REDACTED]
+TTL NBR OF CPNS- 2 DATE OF ISSUE-20JUN19 PNR-*PURGED 20JUL19
+FF NBR-AA 84PTP50
+CC [REDACTED]
+CPN A/L FLT CLS DATE BRDOFF TIME ST F/B STAT
+1 AA 1453 Y 20JUL BOSCLT 657P OK Y30AUD/AVQ02 USED
+2X AA 810 Y 20JUL CLTAUS 1029P OK Y30AUD/AVQ02 USED
+
+FARE USD 0.00 TAX 5.60AY TOTAL USD 5.60
+FARE CALC BOS AA X/CLT AA AUS0.00Y30AUD/AVQ02 0.00END
+
+FCMI-1
+FORM OF PAYMENT [REDACTED] EXP-0423 APPROVAL CODE-33223P
+DATE OF ISSUE-20JUN19 ISSUED AT-XTMWB XTM EAO
+CERT- [REDACTED]
+ENDORSEMENTS/RESTRICTIONS-
+VALID ON AA/US ONLY/VOID IF SLD/PURCSD/BRTR ¥
+
+## Structured Fields
+* **Date of Issue:** 20JUN19
+* **Fare File Number (FF NBR):** AA 84PTP50
+* **PNR Status:** *PURGED (Record recovered)
+* **Flight 1:** AA 1453 on 20JUL, BOS to CLT, Departure 657P, Seat Y30AUD/AVQ02, Status USED.
+* **Flight 2:** AA 810 on 20JUL, CLT to AUS, Departure 1029P, Seat Y30AUD/AVQ02, Status USED.
+* **Issue Location Code:** XTMWB (Issued at)
+* **Approval Code:** 33223P
+* **Document Type:** HISTORICAL TICKET / VIRTUAL COUPON RECORD
+
+## Page 23 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: UMVDLY
+
+American Airlines CONFIDENTIAL for official use only.
+
+Booked: 2019-06-20
+
+PASSENGER INFORMATION
+Pax Nbr Name
+1,01 [REDACTED]
+
+FLIGHT INFORMATION
+Seq Nbr Flight Class Date Dep Av Stat Qty Dep Time Arr Time
+1 AA1176 B 08JUL2019 AUS DFW HK 1 08:43 09:54
+2 AA3340 B 08JUL2019 DFW LIT HK 1 10:35 11:57
+3 AA3458 B 08JUL2019 LT DFW HK 1 18:26 19:45
+4 AA1435 B 08JUL2019 DFW AUS HK 1 20:36 21:33
+
+TICKET INFORMATION
+Seq Nbr Ticket or Time Limit
+1 T-20JUN-XIM/CCS
+2 TE 0012361653448 XIM/CCS 1649/20JUN 1B*77E711
+
+PHONE INFORMATION
+Seq Nbr Phone Number
+1 [REDACTED] OPT
+2 1-512-541-5385-POPT
+3 [REDACTED]
+4 [REDACTED]
+5 [REDACTED]
+
+ADDRESS INFORMATION
+Address
+DILLER KNIFE BROWN
+
+PRE REQUESTED SEATS INFO
+Seq Nbr Flight Class Seat Depart Arrive Status Name
+1 AA1176 B 21B AUS DFW HK -1.01
+2 AA3340 B 11A DFW LIT HK -1.01
+3 AA3458 B 19F LIT DFW HK -1.01
+4 AA1435 B 13B DFW AUS HK -1.01
+
+OSI INFO
+Seq Nbr OSI
+1 OSI PURCHASED ON AA.COM US 06/20/2019 IN US CURRENCY
+
+SSR
+Seq Nbr Type SSR
+
+CONFIDENTIAL/For Official Use Only
+
+EFTA00023844
+
+## Structured Fields
+
+- **Record Locator**: UMVDLY
+- **Booked Date**: 2019-06-20
+- **Passenger Name**: [REDACTED]
+- **Flight Information**:
+    - Flight: AA1176 (B Class), AUS to DFW, 08JUL2019, Dep 08:43, Arr 09:54
+    - Flight: AA3340 (B Class), DFW to LIT, 08JUL2019, Dep 10:35, Arr 11:57
+    - Flight: AA3458 (B Class), LIT to DFW, 08JUL2019, Dep 18:26, Arr 19:45
+    - Flight: AA1435 (B Class), DFW to AUS, 08JUL2019, Dep 20:36, Arr 21:33
+- **Ticket Number**: TE 0012361653448
+- **Seat Status**: Confirmed for all flights (HK)
+- **Passenger Address**: DILLER KNIFE BROWN [REDACTED]
+- **Phone Number**: 1-512-541-5385-POPT
+- **Origin System Indicator (OSI)**: OSI PURCHASED ON AA.COM US 06/20/2019 IN US CURRENCY
+- **Document Footer ID**: EFTA00023844
+
+## Page 24 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Transcription
+
+**Record Locator:** UMVDLY
+
+| | SSR |
+|---|---|
+| **1** | DOC A/R/US//IX |
+| **2** | DOCS/DB/02JUL1979[REDACTED] |
+| **3** | BESH 3458B6JUL/NN1 |
+| **4** | BESH 1435B6JUL/NN1 |
+| **5** | BESH 1176B6JUL/NN1 |
+| **6** | BESH 3340B6JUD/NN1 |
+| **7** | DBSS //AA1435DDFWAUS201907090136AUCB201907090233LUTAUTS201907082256 NN1 |
+
+## REMARKS INFORMATION
+| Seq Nbr | Remarks |
+|---|---|
+| **1** | 1.TBM BA402451XXXXX8619$09/19 |
+| **2** | 2.H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY |
+| **3** | 3.H-TBMEDIT/TKT DRIVEN FOR 440.01/1649/20JUN |
+| **4** | 4.JULIE KNIPE BROWN |
+| **5** | 5.H-TSDOC$VCR |
+| **6** | 6.H-TSDLVS[REDACTED] |
+| **7** | 7.H-TSBESBENE |
+| **8** | 8.H-TSCCBC US |
+| **9** | 9.H-TS WWW EAU |
+| **10** | 10.H-T$3RD PARTY$15 DAYS OUT |
+| **11** | 11.H-WWW/AUTH/CID BA8619 BANK VERIFIED CID |
+| **12** | 12.H-IPPAD[REDACTED] |
+| **13** | 13.H-TRANP 5941E454-D0D5-4B31-A6E6-952A25AFE64F |
+| **14** | 14.H-PTI1.1-ADT-ADT |
+| **15** | 15.H-BOOKED VIA AMERICAN AIRLINES WEB SITE US IN US CURRENCY |
+| **16** | 16.H-PHADDR166.108.243.253S |
+| **17** | 17.H-TRANH 5941E454-D0D5-4B31-A6E6-952A25AFE64F |
+| **18** | 18.H-GOOGLE/US |
+| **19** | 19.H-TBMUSD377.72 BASE AMT PLUS SECURITY PER ADT/1643/20JUN |
+| **20** | 20.H-AUTH/APV-012851/BA8619/20JUN |
+| **21** | 21.H-AUTH/CSC NOT SUPPLIED |
+| **22** | 22.H-AUTH/AVS-Z/IP/POSTAL MATCH / ADDRESS FAIL |
+| **23** | 23.XXAUTH/012851 /TB9$09 |
+| **24** | 24.XXTACXTM20JUN/ |
+| **25** | 25.H-T$TBMEDIT/EMAIL SENT 1654/20JUN/TDS |
+| **26** | 26.H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01 |
+| **27** | 27.H-/OSO$08JUL20 |
+| **28** | 28.H-/OSO$DLY$DOM$08JUL |
+| **29** | 29.H-/OSO$06JUL18 |
+| **30** | 30.H-/OSO$DLY$DOM$08JUL |
+
+## PNR HISTORY
+| Seq Nbr | Update Time | Received From | AAA Code | Agent Sine | ITY OFFICE | Airline or CRS Cd | Trans Seq Nbr | Code | History Data |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 | 08JUL19 16:14 | REAACCOM UPDATE | CRC | CRC8YM| | | 1 | A5H | H-/OSO$08JUL18 |
+| 11 | | | | | | | 2 | A5H | H-/OSO$DLY$DOM$08JUL |
+
+CONFIDENTIAL // For Official Use Only
+
+Page 2
+
+## Structured Fields
+
+*   **Record Locator:** UMVDLY
+*   **Name:** JULIE KNIPE BROWN
+*   **Dates:**
+    *   DOCS/DB: 02JUL1979 (Redacted portion present)
+    *   TKT DRIVEN FOR: 440.01/1649/20JUN
+    *   Security Amt Date: 1643/20JUN
+    *   Email Sent Date: 1654/20JUN
+*   **IP Address:** 166.108.243.253
+*   **Agent Code:** CRC (CRC8YM)
+*   **Organization/System:**
+    *   DOC A/R/US
+    *   BESH (Background Check / Exit System?)
+    *   DBSS
+    *   AMERICAN AIRLINES
+    *   GOOGLE
+    *   REAACCOM UPDATE
+
+## Page 25 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: UMVDLY
+
+| | | | | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **PNR HISTORY** | | | | | | | | | |
+| 10 | 08JUL19 14:27 | REAACCOM UPDATE | CRC | CRC8YMG | | 1 | A5H | H-/OSO$08JUL20 | |
+| 10 | | | | | | 2 | A5H | H-/OSO$DLY$DOM$08JUL | |
+| 9 | 08JUL19 00:37 | WWW$DBAPRSS | HDQ | HDQ5FY1 | | 1 | A4S | SSR /AA1435DDFWAU5201907090136AUCB201907090233LITAUS201 | |
+| 8 | 07JUL19 21:40 | CKI | | | | 1 | A4G | AA 3458B 08JUL2019 LITDFW SS/NN 19F | |
+| 8 | | | | | | 2 | A4G | AA 1435B 08JUL2019 DFWAUS SS/NN 13B | |
+| 7 | 05JUL19 20:53 | CKI | | | | 1 | A4G | AA 1176B 06JUL2019 AUSDFW SS/NN 21B | |
+| 7 | | | | | | 2 | A4G | AA 3340B 06JUL2019 DFW/LIT SS/NN 11A | |
+| 6 | 05JUL19 20:51 | WWW$GUEST | WWW | WWW5777 | | 1 | A9 | [REDACTED] | |
+| 6 | | | | | | 2 | A9 | [REDACTED] | |
+| 6 | | | | | | 3 | A9 | [REDACTED] | |
+| 5 | 03JUL19 07:46 | SCC UPDATE | CRC | HDQ8PAY | | 1 | A5H | H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01 | |
+| 4 | 20JUN19 16:54 | TDSEMAILEDIT/1654/20JUN/TDS | XTM | XTM7EXW | | 1 | A5H | H-/T$TBMEDIT/EMAIL SENT 1654/20JUN/TDS | |
+| 3 | 20JUN19 16:49 | WWW$RIPACLIENT | CRC | CRC8OD1 | | 1 | A4S | SSR BESH AA NN1. 3458B8JUL/NN1 | |
+| 3 | | | | | | 2 | A4S | SSR BESH AA NN1. 14358BJUL/NN1 | |
+| 3 | | | | | | 2 | A4S | SSR 1435B8JUL/NN1 | |
+| 3 | | | | | | 3 | A4S | SSR 1176B8JUL/NN1 | |
+| 3 | | | | | | 3 | A4S | SSR BESH AA NN1. 1176B8JUL/NN1 | |
+| 3 | | | | | | 4 | A4S | SSR 3340B8JUL/NN1 | |
+| 3 | | | | | | 4 | A4S | SSR BESH AA NN1. 3340B6JUL/NN1 | |
+| 2 | 20JUN19 16:49 | EDITOR EDITOR E051619-49 CC WEB NON RUSH | XTM | XTM7CCS | | 1 | A5H | H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY | |
+| 2 | | | | | | 2 | A5H | H-TBMEDIT/TKT DRIVEN FOR 440.01/1649/20JUN | |
+| 2 | | | | | | 3 | A5H | H-AUTH/APV-012851/BA8619/20JUN | |
+| 2 | | | | | | 4 | A5H | H-AUTH/CSC NOT SUPPLIED | |
+| 2 | | | | | | 5 | A5H | H-AUTH/AVS-Z/ZIP/POSTAL MATCH /ADDRESS FAIL | |
+| 2 | | | | | | 8 | X7 | TACXTM20JUN/ | |
+| 2 | | | | | | 7 | A7 | T-20JUN-XTM7CCS | |
+| 1 | 20JUN19 16:43 | WWW$GUEST | WWW | HDQ2EAU | | 1 | A4O | OSI PURCHASED ON AA.COM US 05/20/2019 IN US CURRENCY | |
+| | | | | | | 6 | AW | [REDACTED] 331 | |
+| | | | | | | 7 | A5F | -TBM*BA402451XXXXXJ9619$09/19 | |
+| | | | | | | 8 | A5F | -JULIE KNIPE BROWN | |
+| | | | | | | 9 | A5H | H-/T$DOC$VCR | |
+| | | | | | | 10 | A5H | [REDACTED] | |
+| | | | | | | 11 | A5H | H-/T$BEBENE | |
+| | | | | | | 12 | A5H | H-/T$CCBC US | |
+
+CONFIDENTIAL//For Offical Use Only &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3
+EFTA00023846
+
+## Structured Fields
+*   **Record Locator:** UMVDLY
+*   **Document ID/Ref:** EFTA00023846
+*   **Dates Present:** 03JUL19, 05JUL19, 07JUL19, 08JUL19, 20JUN19
+*   **Names:** JULIE KNIPE BROWN
+*   **Locations/Airports (implied):** LIT (Lititz), DFW (Dallas/Fort Worth), AUS (Austin)
+*   **Organizations:** AA (American Airlines), US Currency implied, Corporate Security
+*   **Systems/Tags:** A5H, A4S, A4G, A9, A5F, A7, A4O, AW, X7, XTM, HDQ, CRC, WWW
+
+## Page 26 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: UMVDLY [REDACTED]
+PNR HISTORY
+[BLACK BOX] | 13 | A5H | H-/TSWWW EAU
+| 14 | A5H | H-/TS3RD PARTY$15 DAYS OUT
+| 15 | A5H | H-WWW/AUTH/CID BA8619 BANK VERIFIED CID
+| 16 | A5H | H-IPPAD [REDACTED]
+| 17 | A5H | H-TRANP 5941E484-D0D5-4B31-A6E6-952A25AFEE4F
+| 18 | A5H | H-TBMUSD37.72 BASE AMT PLUS SECURITY PER ADT/1643/20JU
+| 19 | XB | TLAUSAA455P/20JUN-THU
+| 20 | A7 | TACXIM20JUN/
+
+SIGNATURE LINE
+Record Locator | AAA | Agent | Create Date/Create Time/Received From | Sabre Purge Date
+UMVDLY | WWW | HDQCRE20JUN2019 16:40 | WWW$GUEST | 08JUL2019
+
+CONFIDENTIAL // For Official Use Only
+4
+EFTA00023847
+
+## Structured Fields
+- **Record Locator:** UMVDLY
+- **Agent:** HDQCRE
+- **Create Date/Time:** 20JUN2019 16:40
+- **Received From:** WWW$GUEST
+- **Sabre Purge Date:** 08JUL2019
+- **Document ID:** EFTA00023847
+- **Page Number:** 4
+
+## Page 27 (DOC) [TAG:DOJ_CLEAN_V2]
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - *
+* H I S T O R I C A L   T I C K E T *
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - *
+VIRTUAL COUPON RECORD
+[REDACTED] NAME-[REDACTED]
+TTL NBR OF CPNS- 4 DATE OF ISSUE-20JUN19 PN R-*PURGED       08JUL19
+CC-[REDACTED]
+
+CPN A/L FLT CLS DATE BRDOFF TIME ST F/B STAT
+1 AA 1176 B 06JUL AUSDFW 843A OK SUAIZNB1 USED
+2X AA 3340 B 06JUL DFWLIT 1035A OK SUAIZNB1 USED
+3O AA 3458 B 08JUL LITDFW 626P OK SUAIZNB1 USED
+4X AA 1435 B 08JUL DFWAUS 836P OK SUAIZNB1 USED
+
+FARE USD 366.52 TAX 27.49US TAX 11.20AY TAX 34.80XT
+TOTAL USD 440.01
+
+FARE CALC AUS AA X/DFW AA LIT183.26SUAIZNB1 AA X/DFW AA AUS1
+83.26SUAIZNB1 366.52END ZPAUSDFWLITDFW XT16.80ZP18.
+00XFAUS4.5DFW4.5LIT4.5DFW4.5
+
+FCMI-1
+FORM OF PAYMENT
+POP-[REDACTED]                  EXP-0919 APPROVAL CODE-012851¥
+
+## Structured Fields
+*   **Document ID/Code:** EFTA00023848
+*   **Issue Date:** 20JUN19
+*   **Purge Date/Stat:** 08JUL19
+*   **Fare Amount:** USD 440.01
+*   **Tax Breakdown:** US TAX 27.49, AY TAX 11.20, XT TAX 34.80
+*   **Approval Code:** EXP-0919
+
+## Page 28 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: DCFDTQC
+
+American Airlines CONFIDENTIAL for official use only.
+
+Booked: 2019-08-01
+
+PASSENGER INFORMATION
+| Pax Nbr | Name |
+| :--- | :--- |
+| 1.01 | MAXWELL/GHISLAINE |
+
+FLIGHT INFORMATION
+| Seq Nbr | Flight | Class | Date | Dep | Arr | Stat | Qty | Dep Time | Arr Time |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | AA814 | S | 04AUG2019 | LAX | PHL | HK | 1 | 06:00 | 14:20 |
+| 2 | AA5003 | S | 04AUG2019 | PHL | MHT | HK | 1 | 16:10 | 17:41 |
+
+TICKET INFORMATION
+| Seq Nbr | Ticket or Time Limit |
+| :--- | :--- |
+| 1 | T-01AUG-XTM7U72 |
+| 2 | TE 0012369671898 MAXWE/G XTM7CCY 2052/01AUG 1B*AA650A |
+| 3 | TK 0010653592355 MAXWE/G XTM7U72 2055/01AUG - AE 1B*7BE52E |
+
+PHONE INFORMATION
+| Seq Nbr | Phone Number |
+| :--- | :--- |
+| 1 | [REDACTED] |
+| 2 | [REDACTED] |
+| 3 | [REDACTED] |
+
+ADDRESS INFORMATION
+| Address |
+| :--- |
+| GHISLAINE MAXWELL |
+| [REDACTED] |
+| A |
+| 02114 |
+
+PRE REQUESTED SEATS INFO
+| Seq Nbr | Flight | Class | Seat | Depart | Arrive | Status | Name |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | AA814 | S | 11A | LAX | PHL | HK | MAXWELL/GHISLAINE-1.01 |
+| 2 | AA5003 | S | 12A | PHL | MHT | HK | MAXWELL/GHISLAINE-1.01 |
+
+OSI INFO
+| Seq Nbr | OSI |
+| :--- | :--- |
+| 1 | OSI PURCHASED ON AA.COM US 08/01/2019 IN US CURRENCY |
+
+SSR
+| Seq Nbr | Type | SSR |
+| :--- | :--- | :--- |
+| 1 | DOCA/R/US///FL |
+| 2 | DOC5/DB/25DEC1961/F/MAXWELL/GHISLAINE |
+
+CONFIDENTIAL//For Official Use Only
+1
+
+EFTA00023849
+
+## Structured Fields
+*   **Date:** 2019-08-01 (Booked), 04AUG2019 (Flight Date), 08/01/2019 (Purchase)
+*   **Record Locator:** DCFDTQC
+*   **Passenger Name:** MAXWELL/GHISLAINE
+*   **Flight Numbers:** AA814, AA5003
+*   **Route:** LAX -> PHL -> MHT
+*   **Airline:** American Airlines (AA)
+*   **Address Zip:** 02114
+
+## Page 29 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: DCFDTC
+
+SSR
+3 [GRPO]5003S4AUG/NN1
+
+REMARKS INFORMATION
+Seq Nbr | Remarks
+--- | ---
+1 | 1.TBM*AX376792XXX8004$12/22
+2 | 2.GHISLAINE MAXWELL
+3 | 3.H-/TSDOC$VCR
+4 | [REDACTED]
+5 | 5.H-/TSFEES$PSEATS11A$N1.1S$1$39.09/2.93$USD
+6 | 6.H-/TSFEES$PSEATS12A$N1.1S$2$67.50/5.08$USD
+7 | 7.H-/TSCCBC US
+8 | 8.H-/TSWWW EAU
+9 | 9.H-WWW/AUTH/CIDAX
+10 | 10.H-PSQR QUALIFIED FOR EXT SEATING
+11 | 11.H-IPADDR99.48.181.171$
+12 | 12.H-TRANP 0AC36F7B-FA1B-4515-8394-F1ABC4456FBD
+13 | 13.H-PTTI.1-ADT-ADT
+14 | 14.H-BOOKED VIA AMERICAN AIRLINES WEB SITE US IN US CURRENCY
+15 | 15.H-IPADDR99.48.181.171$
+16 | 16.H-TRANH 0AC36F7B-FA1B-4515-8394-F1ABC4456FBD
+17 | 17.H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01
+18 | 18.H-TBMUSD255.83 BASE AMT PLUS SECURITY PER ADT/2043/01AUG
+19 | 19.XXAUTH/169641 /TIS12/
+20 | 20.XITACXTM01AUG/
+21 | 21.H-01 AE -PREFERRED SEATS USD 114.58
+22 | [REDACTED]
+23 | 23.H-/T$TBEDIT/EMAIL SENT 2057/01AUG/TDS
+
+PNR HISTORY
+Seq Nbr | Update Time | Received From | AAA Code | Agent Sine | TTY OFFICE | Airline or CRS Cd | Trans Seq Nbr | Code | History Data
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+11 | 04AUG19 15:41 | PDCAAPHL500304AUG | PHL | PHLSPD | | | 1 | UAX | MAIN CABIN EXTRA/FL1 /AA5003S04AUG2019PHLMHT-MAXWELL/GH
+10 | 04AUG19 08:14 | PDCAALAX081404AUG | LAX | LAXSPD | | | 1 | UAX | PREFERRED SEATS/FL1 /AA0814S04AUG2019LAXPHL-MAXWELL/GH!
+9 | 03AUG19 10:11 | WWW$GUEST | WWW | WWW5777 | | | 1 | A9 | [REDACTED]
+ |  |  |  |  |  |  | 2 | A9 | WWW [REDACTED]
+ |  |  |  |  |  |  | 3 | A9 | WWW [REDACTED]
+8 | 01AUG19 20:57 | TDSEMAILEDT/2057/01AUG/TDS | XTM | XTM7UVR | | | 1 | A5H | H-/T$TBEDIT/EMAIL SENT 2057/01AUG/TDS
+7 | 01AUG19 20:55 | ITKTS FULFILLMENT | XTM | XTM7U72 | | | 1 | X5H | H-TBMEDIT/TKT DRIVEN FOR 292.00/2052/01AUG
+ |  |  |  |  |  |  | 2 | X5H | H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY
+ |  |  |  |  |  |  | 3 | X5H | H-TBMEDIT/TAЕ FOUND
+ |  |  |  |  |  |  | 4 | A5H | H-01 AE -PREFERRED SEATS USD 114.58
+ |  |  |  |  |  |  | 5 | A5H | [REDACTED]
+ |  |  |  |  |  |  | 6 | A4S | SSR 5003S4AUG/NN1
+ |  |  |  |  |  |  | 6 | A4S | SSR GRPO AA NN1.5003S4AUG/NN1
+
+CONFIDENTIAL//For Official Use Only | 2
+EFTA00023850
+
+## Structured Fields
+*   **Record Locator**: DCFDTC
+*   **Document ID**: EFTA00023850
+*   **Passenger Name**: GHISLAINE MAXWELL
+*   **Dates**:
+    *   12/22 (likely 12:22 time or date fragment)
+    *   2043/01AUG (Aug 1, 2043? likely a sequence number or specific code context, but transcribed as seen)
+    *   01AUG/ (August 1st)
+    *   2057/01AUG (likely time 20:57 on Aug 1)
+    *   2052/01AUG (likely time 20:52 on Aug 1)
+*   **Codes/IDs**:
+    *   PHL (Philadelphia)
+    *   LAX (Los Angeles)
+    *   XTM (Travel Service?)
+    *   AAA Code: PHL, LAX, WWW, XTM
+    *   Seq Nbrs: 11, 10, 9, 8, 7
+*   **Organizations**: AMERICAN AIRLINES, ITKTS
+*   **Redacted Areas**: Multiple fields in Remarks Information (Rows 4, 22) and PNR History (Trans Seq Nbr 1 of Row 9, Trans Seq Nbrs 2-3 of Row 9, Trans Seq Nbr 5 of Row 7) are redacted.
+
+## Page 30 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: DCFDTC
+
+| | | PNR HISTORY | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| 7 | | | | | | 7 | X7 | T-01AUG-XTM7/CCY |
+| 7 | | | | | | 8 | A7 | T-01AUG-XTM7/U72 |
+| 7 | | | | | | 9 | UAX | PREFERRED SEATS/HI1 /AA0814S04AUG2019LAXPHL-MAXWELL/GHI |
+| 7 | | | | | | 10 | UAX | MAIN CABIN EXTRA/HI1 /AA5003S04AUG2019PHLMHT-MAXWELL/GH |
+| 6 | 01AUG19 20:52 | EDITOR EDITOR E051819-49 CC WEB | XTM | XTM7/CCY | | 1 | A5H | H-TBMEDIT/AE FOUND |
+| 6 | | | | | | 2 | A5H | H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY |
+| 6 | | | | | | 3 | A5H | H-TBMEDIT/YTKT DRIVEN FOR 292.00/2052/01AUG |
+| 6 | | | | | | 4 | X7 | TACXTM01AUG/ |
+| 6 | | | | | | 5 | A7 | T-01AUG-XTM7/CCY |
+| 5 | 01AUG19 20:43 | WWW$GUEST | WWW | HDQ2EAU | | 1 | A4O | OSI PURCHASED ON AA COM US 08/01/2019 IN US CURRENCY |
+| 5 | | | | | | 7 | AW | [REDACTED] |
+| 5 | | | | | | 8 | A5F | --TBM*AX376792XXXXX8004$12/22 |
+| 5 | | | | | | 9 | A5F | --GHISLAINE MAXWELL |
+| 5 | | | | | | 10 | A5H | H-/TS$DOC$VCR |
+| 5 | | | | | | 11 | A5H | [REDACTED] |
+| 5 | | | | | | 12 | A5H | H-/TSFEE$PSEATS$11A&N1.1$S1339.09/2.93$USD |
+| 5 | | | | | | 13 | A5H | H-/TSFEE$PSEATS$12A&N1.1$S2867.50/5.06$USD |
+| 5 | | | | | | 14 | A5H | H-/TS$CCBC US |
+| 5 | | | | | | 15 | A5H | H-/TS$WWW EAU |
+| 5 | | | | | | 16 | A5H | H-WWW/AUTH/CIDAX |
+| 5 | | | | | | 17 | A5H | H-PSGR QUALIFIED FOR EXIT SEATING |
+| 5 | | | | | | 18 | A5H | H-IPPADDR99.46.161.171$ |
+| 5 | | | | | | 19 | A5H | H-TRAPD0AC36F7B-FA1B-4515-8394-F1ABC4456FBD |
+| 5 | | | | | | 20 | A5H | H-TBM/USD255.83 BASE AMT PLUS SECURITY PER ADT/2043/01AU |
+| 5 | | | | | | 21 | XB | TLLAXAA652P/01AUG-THU |
+| 5 | | | | | | 22 | A7 | TACXTM01AUG/ |
+| 4 | 01AUG19 20:40 | ITKTS FULFILLMENT | XTM | XTM7I68 | | 1 | A4G | AA 5003S 04AUG2019 PHLMHT SS/NN 12A |
+| 4 | | | | | | 2 | UAX | MAIN CABIN EXTRA/HD1 /AA5003S04AUG2019PHLMHT-MAXWELL/GH |
+| 3 | 01AUG19 20:40 | ITKTS FULFILLMENT | XTM | XTM7I68 | | 1 | A4G | AA 814S 04AUG2019 LAXPHL SS/NN 11A |
+| 3 | | | | | | 2 | UAX | PREFERRED SEATS/HD1 /AA0814S04AUG2019LAXPHL-MAXWELL/GHI |
+| 2 | 01AUG19 20:40 | ITKTS FULFILLMENT | XTM | XTM7I68 | | 1 | AAX | PREFERRED SEATS/HD1 /39.09USD/2.93US/42.02USD/PTC-ADT/G |
+| 2 | | | | | | 2 | AAX | MAIN CABIN EXTRA/HD1 /67.50USD/5.06US/72.56USD/PTC-ADT/ |
+| 1 | 01AUG19 20:37 | | CRC | HDQ8PAY | | 1 | A5H | H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01 |
+
+SIGNATURE LINE
+
+Record Locator DCFDTC AAA WWW Agent HDQCRE Create Date 01AUG2019 Create Time 20:37 Received From WWW$GUEST Sabre Purge Date 04AUG2019
+
+CONFIDENTIAL // For Official Use Only
+3
+EFTA00023851
+
+## Structured Fields
+- **Record Locator:** DCFDTC
+- **AAA (Agent Admin Authority/Prefix):** WWW
+- **Agent:** HDQCRE (or potentially cut off text)
+- **Create Date:** 01AUG2019
+- **Create Time:** 20:37
+- **Received From:** WWW$GUEST
+- **Sabre Purge Date:** 04AUG2019
+- **Date of Interest:** 08/01/2019 (Purchase date), 01AUG2019 (Transaction dates)
+- **Names:** GHISLAINE MAXWELL
+- **Organizations/Codes:** AA (American Airlines), TBM (Ticket Booking Machine?), PNR History codes (X7, A7, UAX, A5H, etc.)
+
+## Page 31 (DOC) [TAG:DOJ_CLEAN_V2]
+
+VCRH*0012369671898<
+*----------------------------------------*
+* H I S T O R I C A L T I C K E T *
+*----------------------------------------*
+VIRTUAL COUPON RECORD
+[REDACTED] NAME-MAXWELL/GHISLAINE
+TTL NBR OF CPNS- 2 DATE OF ISSUE-01AUG19 PNR-*PURGED       04AUG19
+CC-[REDACTED]
+CPN A/L FLT CLS DATE BRDOFF TIME ST F/B             STAT
+1   AA 814 S 04AUG LAXPHL 600A OK S3AHZNM5        USED
+2O AA 5003 S 04AUG PHLMHT 410P OK S3AHZNM5        USED
+FARE USD 250.23 TAX  18.77US TAX   5.60AY TAX    17.40XT
+TOTAL USD 292.00
+FARE CALC LAX AA PHL AA MHT250.23S3AHZNM5 250.23END ZPLAXPHL
+XT8.40ZP9.00XFLAX4.5PHL4.5
+
+FCMI-1
+FORM OF PAYMENT
+FOP-[REDACTED]                     EXP-1222 APPROVAL CODE-169641
+DATE OF ISSUE-01AUG19             ISSUED AT-XTMWB   XTM CCY
+ENDORSEMENTS/RESTRICTIONS-
+NONREF/SVCCHGPLUSFAREDIF/CXL BY FLT TIME OR NOVALUE           ¥
+
+## Structured Fields
+- **Document ID**: VCRH*0012369671898
+- **Passenger Name**: MAXWELL/GHISLAINE
+- **Date of Issue**: 01AUG19
+- **Date of Use/Purge**: 04AUG19
+- **Ticketing Carrier**: AA (American Airlines)
+- **Routes**: LAX-PHL, PHL-MHT
+- **Issue Location**: XTMWB
+- **Case/Reference Numbers**: EXP-1222, APPROVAL CODE-169641
+- **Status**: USED / PURGED
+
+## Page 32 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: BAXNIL
+
+American Airlines CONFIDENTIAL for official use only.
+
+Booked: 2019-07-18
+
+PASSENGER INFORMATION
+Pax Nbr Name
+1.01 SAFFIAN/LEAH
+2.01 MAXWELL/GHISLAINE
+
+FLIGHT INFORMATION
+Seq Nbr Flight Class Date Dep Arv Stat Qty Dep Time Arv Time
+1 AA5675 K 19JUL2019 MHT CLT HK 2 08:00 10:30
+2 AA812 K 19JUL2019 CLT LAX HK 2 11:40 13:44
+
+TICKET INFORMATION
+Seq Nbr Ticket or Time Limit
+1 T-18JUL-XTM758Q
+2 [REDACTED] SAFFI/L XTM758Q 1626/18JUL 1B*77E719
+3 [REDACTED] MAXWE/G XTM758Q 1626/18JUL 1B*77E719
+
+PHONE INFORMATION
+Seq Nbr Phone Number
+1 [REDACTED]
+2 [REDACTED]
+
+ADDRESS INFORMATION
+Address
+LEAH SAFFIAN
+[REDACTED]
+
+FREQUENT FLYER INFO
+Seq Nbr Frequent Traveler
+1 AA 7685480 HK AA 1.01 SAFFIAN/LEAH * GLD *
+
+PRE REQUESTED SEATS INFO
+Seq Nbr Flight Class Seat Depart Arrive Status Name
+1 AA5675 K 15D MHT CLT HK SAFFIAN/LEAH-1.01
+2 AA5675 K 15F MHT CLT HK MAXWELL/GHISLAINE-2.01
+3 AA812 K 22B CLT LAX HK SAFFIAN/LEAH-1.01
+4 AA812 K 22C CLT LAX HK MAXWELL/GHISLAINE-2.01
+
+OSI INFO
+Seq Nbr OSI
+1 OSI PURCHASED ON AA.COM US 07/18/2019 IN US CURRENCY
+
+CONFIDENTIAL //For Official Use Only
+1
+EFTA00023853
+
+## Structured Fields
+- **Record Locator:** BAXNIL
+- **Booked Date:** 2019-07-18
+- **Organization:** American Airlines
+- **Flight Dates:** 19JUL2019
+- **Flight Numbers:** AA5675, AA812
+- **Routings:** MHT-CLT, CLT-LAX
+- **Passenger Names:** SAFFIAN/LEAH, MAXWELL/GHISLAINE
+- **Frequent Flyer Number:** AA 7685480
+- **Ticket Locator:** T-18JUL-XTM758Q
+- **Document ID:** EFT A00023853
+
+## Page 33 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: BAXNIL
+
+| Seq Nbr | Type | SSR |
+| :--- | :--- | :--- |
+| 1 | DOCA/R/US///CA | |
+| 2 | DOCS/DB/11DEC1988/F/SAFFIAN/LEAH/S | |
+| 3 | DOCI//K/XXXXXX | |
+| 4 | DOCA/R/US///FL | |
+| 5 | DOCS/DB/25DEC1981/F/MAXWELL/GHISLAINE | |
+| 6 | PRAC | 5675K19JUL/MHT NN1 |
+| 7 | PRAC | 812K19JUL/CLT NN1 |
+| 8 | PRAC | 5675K19JUL/MHT NN1 |
+| 9 | PRAC | 812K19JUL/CLT NN1 |
+| 10 | STBY | 5675K19JUD/NN2 |
+| 11 | STBY | 812K19JUL/NN2 |
+| 12 | DBSS | //AA0812DCLTLAX201907191540AUCK201907192044MHTLAX201907191130 NN2 |
+| 13 | FQTU | UAA0812K19JULCLT LAX 1140GLD |
+| 14 | FQTU | UAA0812K19JULCLT LAX 1140GLD |
+
+## REMARKS INFORMATION
+
+| Seq Nbr | Remarks |
+| :--- | :--- |
+| 1 | 1.TBM*AX371551XXXXX1005$05/24 |
+| 2 | 2.H-TBMEDIT/ALL PQS DELETED AND PLACED INTO HISTORY |
+| 3 | 3.H-TBMEDIT/TKT DRIVEN FOR 1193.00/1626/18JUL |
+| 4 | 4.LEAH SAFFIAN |
+| 5 | 5.H-/T$DOC$VCR |
+| 6 | 6.H-/T$DLV$EMAIL$LEAHSAFFIAN$ASBCGLOBAL.NET |
+| 7 | 7.H-/T$DPT$A |
+| 8 | 8.H-/T$CC8C US |
+| 9 | 9.H-/T$WWW/EAU |
+| 10 | 10.H-/T$3RD PARTY$GLD$7685480 |
+| 11 | 11.H-///AUTH/CIDAX |
+| 12 | 12.H-PSGR 01.01 QUALIFIED FOR EXIT SEATING |
+| 13 | 13.H-PSGR 02.01 QUALIFIED FOR EXIT SEATING |
+| 14 | 14.H-IPADDR99.203.56.137$ |
+| 15 | 15.H-TRANP 6A01DEC6-F80F-48B4-8DB6-D04C827EA7AF |
+| 16 | 16.H-PTI1.1-ADT-ADT |
+| 17 | 17.H-PTI2.1-ADT-ADT |
+| 18 | 18.H-BOOKED VIAAMERICAN AIRLINES WEB SITE US IN US CURRENCY |
+| 19 | 19.H-IPADDR99.203.56.137$ |
+| 20 | 20.H-TRANH 6A01DEC6-F80F-48B4-8DB6-D04C827EA7AF |
+| 21 | 21.H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01 |
+| 22 | 22.H-TBMUSD540.48 BASE AMT PLUS SECURITY PER ADT/1623/18JUL |
+| 23 | 23.H-TBMUSD540.48 BASE AMT PLUS SECURITY PER ADT/1623/18JUL |
+| 24 | 24.XXAUTH/130315 /TB$05/ |
+| 25 | 25.XXTASXTM18JUL/ |
+| 26 | 26.H-/T$TMEDIT/EMAIL SENT 1632/18JUL/TDS |
+| 27 | 27.H-AADV GOLD UPGRADE |
+
+| Seq Nbr | Bag Routing Flight | Bag Destination | Bag Psgr Name | Bag Tag Number | Bag Checkin Agent | Bag Checkin LCL Date | Bag Checkin LCL Time |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+CONFIDENTIAL//For Official Use Only &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2
+
+EFTA00023854
+
+## Structured Fields
+
+- **Record Locator:** BAXNIL
+- **Name:** LEAH SAFFIAN
+- **Passenger Name:** MAXWELL/GHISLAINE (Ref: SSR Row 5)
+- **Date (SSR):** 11DEC1988 (Ref: SSR Row 2)
+- **Travel Date/Change Dates:** 1626/18JUL (Ref: Remarks Row 3), 1623/18JUL (Ref: Remarks Row 22, 23), 18JUL (Ref: Remarks Row 26)
+- **Document ID / Ref Number:** EFTA00023854
+- **Location/Cities:** LAX, CLT, AUCK, MHT, DCL (Danbury?), CA
+- **Airline Codes:** AA (American Airlines), UAA (United), TBM (Travel Budget?)
+- **Organizations:** AMERICAN AIRLINES
+
+## Page 34 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Record Locator: BAXNIL
+|  | BAGGAGE INFO |
+|---|---|
+| 1 | AA5675 | CLT | SAFFIAN/LEAH | AA674437 | MHT 5XPV | 2019-07-19 | 08:47 AM |
+| 1 | AA5675 | CLT | MAXWELL/GHISLAINE | AA674432 | MHT 5XPV | 2019-07-19 | 08:47 AM |
+| 1 | AA812 | LAX | SAFFIAN/LEAH | AA674437 | MHT 5XPV | 2019-07-19 | 08:47 AM |
+| 1 | AA812 | LAX | MAXWELL/GHISLAINE | AA674432 | MHT 5XPV | 2019-07-19 | 08:47 AM |
+
+PNR HISTORY
+| Seq Nbr | Update Time | Received From | AAA Code | Agent Sine | TTY OFFICE | Airline or CRS Cd | Trans Seq Nbr | Code | History Data |
+|---|---|---|---|---|---|---|---|---|---|
+| 13 | 19JUL19 06:35 | MHTXCP | MHT | MHT5XCP |  |  | 1 | XAS | SSR 1 |
+| 13 | 19JUL19 06:35 | MHTXCP | MHT | MHT5XCP |  |  | 1 | XAS |  |
+| 12 | 19JUL19 06:34 | TIER LEVEL UPDATE | FFA | FFA$FFB |  |  | 1 | XAS | SSR UAA0812K19JULCLT LAX 1140GLD |
+| 12 | 19JUL19 06:34 | TIER LEVEL UPDATE | FFA | FFA$FFB |  |  | 1 | XAS | SSR UAA0812K19JULCLT LAX 1140GLD |
+| 12 |  |  |  |  |  |  | 2 | XAS |  |
+| 12 |  |  |  |  |  |  | 2 | XAS | SSR UAA0812K19JULCLT LAX 1140GLD |
+| 12 |  |  |  |  |  |  | 3 | A4S | SSR UAA0812K19JULCLT LAX 1140GLD |
+| 12 |  |  |  |  |  |  | 4 | A4S | SSR UAA0812K19JULCLT LAX 1140GLD |
+| 11 | 19JUL19 05:50 | MHTXPV | MHT | MHT5XPV |  |  | 1 | A4S |  |
+| 11 | 19JUL19 05:50 | MHTXPV | MHT | MHT5XPV |  |  | 1 | A4S | SSR 1 |
+| 10 | 19JUL19 00:16 | WWW$DBAPRSS | HDQ | HDQ5FY1 |  |  | 1 | A4S | SSR /AA0812DCLTLAX201907191540AUCK201907192044MHTLAX201 |
+| 10 | 19JUL19 00:16 | WWW$DBAPRSS | HDQ | HDQ5FY1 |  |  | 1 | A4S |  |
+| 9 | 19JUL19 22:30 | WWW$MWS | WWW | HDQ5MW1 |  |  | 1 | A5H | H-AADV GOLD UPGRADE |
+| 9 |  |  |  |  |  |  | 2 | A4S |  |
+| 9 |  |  |  |  |  |  | 3 | A4S | SSR UAA0812K19JULCLT LAX 1140GLD |
+| 9 |  |  |  |  |  |  | 3 | A4S | SSR UAA0812K19JULCLT LAX 1140GLD |
+| 8 | 19JUL19 16:32 | TDSEMAILEDIT/1632/18JUL/TDS | XTM | XTM7UVR |  |  | 1 | A5H | H-/TSTBMEDIT/EMAIL SENT 1632/18JUL/TDS |
+| 7 | 19JUL19 16:27 | WWW$RIPACLIENT | CRC | CRC80D1 |  |  | 1 | A4S | SSR 5675K19JUL/NN2 |
+| 7 | 19JUL19 16:27 | WWW$RIPACLIENT | CRC | CRC80D1 |  |  | 1 | A4S | SSR STBY AA NN2. 5675K19JUL/NN2 |
+| 7 |  |  |  |  |  |  | 2 | A4S | SSR 812K19JUL/NN2 |
+| 7 |  |  |  |  |  |  | 2 | A4S | SSR STBY AA NN2. 812K19JUL/NN2 |
+| 6 | 19JUL19 16:27 | WWW$RPTPIE | CRC | CRC80D1 |  |  | 1 | A4S | SSR 5675K19JUL/MHT NN1 |
+| 6 | 19JUL19 16:27 | WWW$RPTPIE | CRC | CRC80D1 |  |  | 1 | A4S | SSR PRAC AA NN1. 5675K19JUL/MHT NN1 |
+| 6 |  |  |  |  |  |  | 2 | A4S | SSR 812K19JUL/CLT NN1 |
+| 6 |  |  |  |  |  |  | 2 | A4S | SSR PRAC AA NN1. 812K19JUL/CLT NN1 |
+| 6 |  |  |  |  |  |  | 3 | A4S | SSR 5675K19JUL/MHT NN1 |
+
+CONFIDENTIAL//For Official Use Only 3
+EFTA00023855
+
+## Structured Fields
+- **Record Locator:** BAXNIL
+- **Document ID:** EFTA00023855
+- **Date:** 2019-07-19 (also references 18JUL19)
+- **Locations:** CLT, LAX, AUCK, GLD
+- **Names:** SAFFIAN/LEAH, MAXWELL/GHISLAINE
+- **Agents/Sines:** MHT, FFA, HDQ, WWW, CRC, XTM
+- **Codes/Systems:** XAS, A4S, A5H, SSR, TDS, MHTXPV, FDAPRSS, RPTPIE, RIPACLIENT
+- **Baggage Tags/IDs:** AA674437, AA674432
+- **Flight Numbers:** AA5675, AA812
+
+## Page 35 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Record Locator: BAXNIL
+
+PNR HISTORY
+3 | A4S SSR PRAC AA NN1. 5675K19JUL/MHT NN1
+4 | A4S SSR 812K19JUL/CLT NN1
+4 | A4S SSR PRAC AA NN1. 812K19JUL/CLT NN1
+5 | 18JUL19 16:26 EDITOR EDITOR E051619-49 CC WEB TOP TIER XTM XTM758Q 1 A5H H-TBMEDITALL POGS DELETED AND PLACED INTO HISTORY
+5 | 5 2 A5H H-TBMEDIT/TKT DRIVEN FOR 1193.00/1626/18JUL
+5 | 5 3 X7 TASXTM18JUL/
+4 | 5 4 A7 T-18JUL-XTM758Q
+4 | 18JUL19 16:23 WWW37685480 WWW HDQ2EAU 1 A4O OSI PURCHASED ON AA.COM US 07/18/2019 IN US CURRENCY
+4 | LEAH SAFFIAN
+4 | AW [REDACTED]
+4 | A5F -TBM*AX371551XXXXX1006S05/24
+4 | A5F -LEAH SAFFIAN
+4 | A5H H-/T$DOC5VCR
+4 | A5H H-/T$DL [REDACTED]
+4 | A5H H-/T$DPTS8A
+4 | A5H H-/T$CCBC US
+4 | A5H H-/T$WWW EAU
+4 | A5H H-/T$3RD PARTY$GLDS7685480
+4 | A5H H-WWW/AUTH/CIDAX
+4 | A5H H-PSGR 01.01 QUALIFIED FOR EXIT SEATING
+4 | A5H H-PSGR 02.01 QUALIFIED FOR EXIT SEATING
+4 | A5H H-IPPADDR99.203.56.137$
+4 | A5H H-TRANP 6A01DEC6-F80F-48B4-8DB6-D04C827EA7AF
+4 | A5H H-TBMUSD540.48 BASE AMT PLUS SECURITY PER ADT/1623/18JU
+4 | A5H H-TBMUSD540.48 BASE AMT PLUS SECURITY PER ADT/1623/18JU
+4 | X9 TLMHTAA535P/18JUL-THU
+4 | A7 TASXTM18JUL/
+3 | 18JUL19 16:22 ITKTS FULFILLMENT XTM XTM7168 1 A4G AA 812K 19JUL2019 CLTLAX SS/NN 22B
+3 | A4G AA 812K 19JUL2019 CLTLAX SS/NN 22C
+2 | 18JUL19 16:22 ITKTS FULFILLMENT XTM XTM7168 1 A4G AA 5675K 19JUL2019 MHTCLT SS/NN 15D
+2 | A4G AA 5675K 19JUL2019 MHTCLT SS/NN 15F
+1 | 18JUL19 16:20 CRC HDQ8PAY 1 A5H H-PC/PSGR CLEARED FOR TRAVEL/CORPORATE SECURITY/01
+
+SIGNATURE LINE
+Record Locator AAA Agent Create Date Create Time Received From Sabre Purge Date
+BAXNIL WWW HDQCRE 18JUL2019 16:20 WWW$7685480 19JUL2019
+
+CONFIDENTIAL//For Official Use Only
+
+4
+
+EFTA00023856
+```
+
+## Structured Fields
+- **Record Locator:** BAXNIL
+- **Date/Time:** 18JUL19 16:26, 18JUL19 16:23, 18JUL19 16:22, 18JUL19 16:20
+- **Agent/AAA:** WWW, HDQCRE
+- **Passenger Name:** LEAH SAFFIAN
+- **Fare Components (Partial):** AA 5675K, AA 812K
+- **Airports:** MHT, CLT, LAX
+
+## Page 36 (DOC) [TAG:DOJ_CLEAN_V2]
+
+VCRH*0012366995898
+----------------------------------------
+* HISTORICAL TICKET *
+----------------------------------------
+VIRTUAL COUPON RECORD
+[REDACTED] NAME-MAXWELL/GHISLAINE
+[REDACTED] TTL NBR OF CPNS- 2 DATE OF ISSUE-18JUL19 PNR-*PURGED 19JUL19
+CPN A/L FLT CLS DATE BRDOFF TIME ST F/B STAT
+1 AA 5675 K 19JUL MHTCLT 800A OK KOAIZRN1 USED
+2X AA 812 K 19JUL CLTLAX 1140A OK KOAIZRN1 . USED
+
+FARE USD 534.88 TAX . 40.12US TAX . 8.40ZP TAX 13.10XT
+TOTAL USD 596.50
+
+FARE CALC MHT AA X/CLT AA LAX534.88KOAIZRN1 534.88END 2PCLTM
+HT XT5.60AY7.50XFCLT3MHT4.5
+
+FCMI-1
+FORM OF PAYMENT
+[REDACTED] EXP-0524 APPROVAL CODE-130315
+DATE OF ISSUE-18JUL19 ISSUED AT-XTMWB XTM 58Q
+ENDORSEMENTS/RESTRICTIONS-
+IT-¥
+
+## Structured Fields
+- **Document ID**: VCRH*0012366995898 / EFTA00023857
+- **Date**: 18JUL19 (Issue), 19JUL19 (Flight/Expiry)
+- **Name**: MAXWELL/GHISLAINE
+- **Locations/Airports**: MHT, CLT, LAX, KOA
+- **Airline Code**: AA
+- **Ticket Type**: HISTORICAL TICKET / VIRTUAL COUPON
+- **PNR Status**: PURGED
+

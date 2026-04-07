@@ -1,0 +1,40 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008472.pdf ts=2026-03-09T07:18:45 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image captures a close-up, top-down view of a forensic or archival data storage medium placed inside an open cardboard box. The central subject is a standard 3.5-inch internal hard drive (HDD) with a silver metallic casing, encased in a translucent, pinkish-tinted anti-static bag. A white informational label is adhered to the face of the drive. The entire assembly rests on the bottom flap of a large, brown corrugated cardboard box. Beneath the box flap and around the package, the floor surface is visible; it appears to be a terrazzo-style flooring with a grey base speckled with blue, white, and black chips. A thin, reddish-brown cord or string lies loosely on the floor in the lower left quadrant. A clear plastic sheet or bag lies partially underneath the main package near the bottom edge. The lighting creates bright specular highlights on the plastic bag, obscuring some details of the drive surface.
+
+## Visible Text (verbatim)
+
+**On the Hard Drive Label:**
+- **Seal:** [Government/Agency Seal Graphic]
+- **Lab #:** HQQ190816001
+- **UCFN:** 90A-NV-3151227
+- **Examiner:** [Obscured/Illlegible]
+- **SPECIMEN:** HQQ026639
+- **CONTENTS:** Master Copy: Archive of DVR 2 Controller images, DVR 2 repaired drive images, and Video Exports
+- **S/N:** WMCS12K... (Partial/Blurry)
+- **MOL:** WD400SPZEX-8G24SA4
+- **Regulatory/Barcode info:** U.S. Patent 6783521, CAN ICES-3 (B) NMB-0036, Do not cover the data zone, CE logo, recycling symbol.
+
+**On the Cardboard Box Flap (Top Edge):**
+- **Brand:** SMEAD
+- **Part Number:** No. 71055
+- **Symbol:** Recycling symbol with text inside (illegible).
+- **Text:** KEEPING YOU ORGANIZED
+
+**Handwritten on the Bag:**
+- **Markings:** Two black marker "9"s in the top right corner of the plastic bag.
+
+## Notable Details / Clues
+- **Forensic Context:** The presence of a "Lab #" and a "Specimen" number strongly suggests this drive is evidence being processed in a digital forensics lab or secure storage facility.
+- **Data Integrity:** The label explicitly identifies the contents as a "Master Copy," indicating this is an archival duplicate intended to preserve original data integrity ("Archive of DVR 2 Controller images").
+- **Hardware Identification:** The Model Number (MOL) visible on the drive appears to be a Western Digital hard drive (WD400SPZEX), likely a surveillance camera drive given the "DVR" references.
+- **Chain of Custody:** The specific identifiers (Lab #, Specimen #) are standard for maintaining a chain of custody in legal proceedings.
+- **Packaging:** The use of an anti-static bag is appropriate for protecting electronic components from damage during transport and storage.
+- **Box Type:** The box is branded "SMEAD," a manufacturer of office supplies like file folders and boxes, suggesting this was standard shipping packaging repurposed for secure storage or transport.
+- **Surveillance Connection:** The text mentions "DVR 2 Controller images" and "Video Exports," linking the drive directly to video surveillance systems (Digital Video Recorders).
+- **Reflections:** The glossy surface of the plastic bag distorts the view of the underlying drive face and label, creating elongated white reflections along the diagonal axis.
+- **Cord:** The loose string on the floor suggests the packaging may have been hastily removed or is still in the process of being processed.
+

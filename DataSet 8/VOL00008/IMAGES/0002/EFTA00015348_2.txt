@@ -1,0 +1,67 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015348.pdf ts=2026-03-12T14:57:39 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document that appears to be the header section of an email message. The majority of the visual space is obscured by a dense block of horizontal black bars, indicating aggressive redaction of the message body or a long chain of forwarded emails. These black bars cover virtually everything from just below the "From" line down to the metadata footer. The edges of several redaction bars are jagged and uneven on the right side, suggesting that specific portions of text were individually masked rather than blocked by a simple rectangle. At the very bottom left, outside the main redacted block, the word "Chiefs," is visible in blue text, likely indicating a portion of a recipient list or salutation. In the bottom right corner, an alphanumeric document identifier is printed in gray. The document has white space surrounding the content on the left and top edges.
+
+## Visible Text (verbatim)
+*   **From:** [Redacted with black bars]
+*   **(S)"** [Partial text visible near the bottom of the redaction block]
+*   **Subject:** DRAFT SDNY PRESS GUIDANCE FOR MONDAY, JULY 15, 2019
+*   **Date:** Fri, 12 Jul 2019 20:37:19 +0000
+*   **Importance:** Normal
+*   **Attachments:** Jeffrey_Epstein_indictment_PR.pdf
+*   **Inline-Images:** image001.png
+*   **Chiefs,** [Bottom left]
+*   **EFTA00015348** [Bottom right]
+
+## Notable Details / Clues
+*   **Contextual Clue:** The subject line references "SDNY PRESS GUIDANCE" and the date July 15, 2019. This relates to the Southern District of New York press office.
+*   **Subject Matter:** The metadata explicitly links the email to the Jeffrey Epstein case ("Jeffrey_Epstein_indictment_PR.pdf"), a high-profile legal matter from mid-2019.
+*   **Timeline Evidence:** The email timestamp (July 12) is three days before the press guidance date (July 15), indicating this was likely an internal draft circulated for review prior to release.
+*   **Redaction Style:** The extensive redaction suggests that the document was likely submitted to a public docket (perhaps via FOIA) but had sensitive portions—like sender identity, specific names of officials involved, or legal strategy—protected by the agency releasing it.
+*   **Attachment Type:** The attachment is named ".pdf," implying a finalized or semi-finalized press release document attached to the guidance.
+*   **Inline Image:** An image file ("image001.png") was embedded directly in the email, likely a photo related to the indictment or a graphic for the press release.
+*   **Time Zone:** The timestamp "+0000" indicates Coordinated Universal Time (UTC), suggesting the originator might be located in a region using UTC or that this is an international transmission.
+*   **Importance Level:** The "Normal" importance flag suggests this was a standard internal communication, not marked as "High" urgency despite the subject matter.
+*   **Document ID:** The string "EFTA00015348" appears to be a Bates number or docket control number used by federal agencies (like the FBI, DEA, or DOJ) to track documents released under FOIA.
+*   **Redaction Fragment:** The snippet "(S)" is barely visible within a black bar near the bottom of the redaction mass, suggesting an email address ending in "@s..." or a sentence fragment like "case" or "source".
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Below is Monday’s draft guidance. Please review and let us know if we need to make any edits.
+Thanks—and have a great weekend!!
+The Press Office
+
+UNITED STATES ATTORNEY’S OFFICE
+Southern District of New York
+
+PRESS GUIDANCE
+Monday, July 15, 2019
+
+[REDACTED]
+
+[REDACTED]
+
+PROCEEDINGS AND EVENTS
+10:00 a.m. – Detention hearing in U.S. v. Jeffrey Epstein – the defendant is charged with sex trafficking of minors and conspiracy to commit sex trafficking of minors – before Judge Berman (courtroom 17B, 500 Pearl Street). A relevant press release is attached.
+
+NIGHT DUTY OFFICER
+[REDACTED]
+
+Follow us on Facebook | Follow us on Twitter | SDNY website | YouTube
+*** FOR PLANNING PURPOSES ONLY ***
+DO NOT REPLY TO THIS MESSAGE. IF YOU HAVE QUESTIONS, PLEASE CALL THE PRESS
+OFFICE AT [REDACTED]
+
+EFTA00015349
+
+## Structured Fields
+- **Date:** Monday, July 15, 2019
+- **Organization:** United States Attorney's Office, Southern District of New York
+- **Case:** U.S. v. Jeffrey Epstein
+- **Judge:** Judge Berman
+- **Location:** Courtroom 17B, 500 Pearl Street
+- **Document ID:** EFTA00015349
+

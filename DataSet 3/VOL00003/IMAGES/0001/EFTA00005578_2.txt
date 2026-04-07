@@ -1,0 +1,302 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 3/VOL00003/IMAGES/0001/EFTA00005578.pdf ts=2026-03-07T16:17:34 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image consists almost entirely of a solid, pitch-black field that occupies roughly 98% of the visual space, leaving no room for objects, people, or background scenery. There is a distinct lack of texture or gradient in the darkness, indicating a flat digital color rather than a photograph of a dark environment. In the upper right corner, white text appears against the black void. Conversely, in the bottom right corner, a smaller, finer line of text is visible. The composition is asymmetrical, with all information relegated to the vertical edges. The high contrast between the white text and black background suggests this is likely a digital file—such as a PDF—where a header or watermark has been applied over a blank page or heavily redacted content. There are no shadows, highlights, or depth cues, confirming it is a 2D graphic element rather than a 3D scene.
+
+## Visible Text (verbatim)
+*   Grand Jury-NY
+*   EFTA00005578
+
+## Notable Details / Clues
+1.  The text "Grand Jury-NY" explicitly references the legal institution of a grand jury within the jurisdiction of New York state.
+2.  The string "EFTA00005578" appears to be an identifier related to the Electronic Freedom of Information Act (EFOIA), suggesting this is a public records document that may contain sensitive information redacted via black bars or background coloring.
+3.  The font used for both text blocks is a clean, sans-serif typeface, likely Arial or Helvetica, which is standard for official government correspondence and digital stamps.
+4.  The positioning of the header in the top-right corner is a common alignment choice for document titles in legal filings.
+5.  The footer ID is aligned to the right margin as well, creating a consistent visual axis with the header text.
+6.  The hyphen in "Grand Jury-NY" serves to separate the procedural body (Grand Jury) from the geographical location (NY), clarifying the scope of the document.
+7.  The alphanumeric ID uses zero-padding ("00005578"), which is characteristic of automated database tracking systems used by government agencies to organize large volumes of files.
+8.  The absence of any page number in the bottom left corner indicates that this is likely a cover sheet, first page, or an interstitial page within a larger document bundle.
+9.  The solid black background filling the rest of the frame implies either intentional redaction of content or that this is a cover page for a case file.
+10. The text color appears to be pure white (#FFFFFF), maximizing legibility against the black background without color tinting.
+11. There are no logos, emblems, or seals visible alongside the text, which suggests the document relies solely on its legal letterhead or digital metadata for authenticity.
+12. The simplicity of the layout implies this is an administrative document rather than a report containing data tables, charts, or narrative text in this specific view.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States v. Ghislaine Maxwell                                      07/08/20        2
+
+                               P R O C E E D I N G S
+                                                           (10:05 a.m.)
+1                                                                               
+2
+3                                                                                   [REDACTED].   Let the record reflect that there are
+4    17 grand jurors present and that the foreperson is present.
+5                                                                                Good morning, ladies and gentlemen. My name is
+6                                                                                   [REDACTED]     [REDACTED]  and I am an Assistant United States Attorney
+7    here in the Southern District of New York.
+8                                                                                Can everyone hear me okay? All right. I see
+9    everybody's heads nodding. Thank you.
+10                                                                               I am here today to present for your consideration
+11      a proposed superseding indictment charging Ghislaine Maxwell
+12      in six counts.  This indictment is virtually identical to
+13      the indictment that you returned last week charging Maxwell
+14      in those same six counts except that it corrects two
+15      clerical errors, or two typographical errors that were
+16      contained in Counts Five and Six which are the perjury
+17      charges.
+18                                                                               As a result, I will not be presenting any new
+19      evidence or new witnesses today. Instead, I will identify
+20      for you those two clerical errors in the indictment. I will
+21      point out the portion of the exhibits that you saw last week
+22      that provide the correct information. Then I will identify
+23      the corrected portion of the superseding indictment in the
+24      proposed superseding indictment.
+25                                                                                Before I do that though, I must ask you all the
+
+FREE STATE REPORTING, INC.
+Court Reporting Transcription
+D.C. Area 301-261-1902
+Balt. & Annap. 410-974-0947
+
+EFTA00005579
+
+## Structured Fields
+*   **Date:** 07/08/20
+*   **Case ID:** United States v. Ghislaine Maxwell
+*   **Location:** Southern District of New York
+*   **Names:** Ghislaine Maxwell, [REDACTED], [REDACTED] (Witnesses/Attorneys)
+*   **Organizations:** FREE STATE REPORTING, INC., Assistant United States Attorney
+*   **Document ID:** EFTA00005579
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States v. Ghislaine Maxwell                              07/08/20   3
+1 same preliminary questions that we went over last week.
+2 First, do any of you believe that you personally know or
+3 have met the proposed defendant, Ghislaine Maxwell? I see
+4 no hands.
+5          Next, have you any heard or read about, or learned
+6 anything Ghislaine Maxwell, Jeffrey Epstein or anyone else
+7 related to this case, if you could just raise your hand? I
+8 see a number of hands. Virtually every hand is in the air.
+9 You can all put your hands down. Thank you.
+10   As you know, you must make your determination as a
+11 grand jury based on the evidence presented before you in the
+12 grand jury, in this room alone. Accordingly, you must set
+13 aside any other knowledge you may have about this case or
+14 the people involved in it, and base your decision solely on
+15 the evidence presented to this grand jury to determine
+16 whether there is probable cause to believe that the charges
+17 in the proposed indictment were committed.
+18   Is there any grand juror here today who cannot
+19 follow these instructions? I see no hands. Just to be
+20 sure, is there any grand juror here who would have any
+21 difficulty setting aside the outside information you may
+22 have about the defendant or the facts of this case? I see
+23 no hands.
+24   Finally, do any of you believe you know me in
+25 anything other than my professional capacity? I see no
+
+FREE STATE REPORTING, INC.
+Court Reporting Transcription
+D.C. Area 301-261-1902
+Balt. & Annap. 410-974-0947
+EFTA00005580
+
+## Structured Fields
+*   **Date:** 07/08/20
+*   **Case Name:** United States v. Ghislaine Maxwell
+*   **Names Mentioned:** Ghislaine Maxwell, Jeffrey Epstein
+*   **Organization:** FREE STATE REPORTING, INC.
+*   **Document ID:** EFTA00005580
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States v. Ghislaine Maxwell                                      07/08/20      4
+1	hands.
+2		Now, as I mentioned, I will not be calling any
+3	witnesses today. Instead I will present you with the
+4	exhibits from last week, the transcript of the testimony you
+5	heard from last week and the proposed superseding
+6.indictment.  I will then walk you through the error that the
+7	superseding indictment seeks to correct.
+8		Please keep in mind though that what I say is not
+9	evidence. Only the testimony of the witnesses and the
+10	exhibits are evidence. So as I'm walking you through these
+11	exhibits, your understanding of them and your understanding
+12	of the evidence controls. I am just trying to provide you
+13	with an overview.
+14		With that instruction in mind, I am going to put
+15	up onto the Elmo what was previously received and marked as
+16	Grand Jury Exhibit 1. That is the proposed six-count
+17.indictment that you voted to return last week. A copy of it
+18	will be available for review when you deliberate.
+19		You also received what has been marked as Grand
+20	Jury Exhibit 2, which I will not put up on the Elmo. That
+21	was a PowerPoint presentation containing photographs and
+22	excerpts of certain documents that was shown to you during
+23	the testimony last week. You also heard testimony from FBI
+24	Special Agent [REDACTED]
+25	Today I am marking, as Grand Jury Exhibit 3, a
+
+FREE STATE REPORTING, INC.
+Court Reporting Transcription
+D.C. Area 301-261-1902
+Balt. & Annap. 410-974-0947
+
+EFTA00005581
+
+## Structured Fields
+- **Date:** 07/08/20
+- **Case ID:** United States v. Ghislaine Maxwell
+- **Document ID:** EFTA00005581
+- **Organization:** FREE STATE REPORTING, INC.
+- **Location:** D.C. Area / Balt. & Annap.
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States v. Ghislaine Maxwell 07/08/20 5
+1 copy of the transcript of that testimony. It is up on the
+2 Elmo now and it will be available for you to review if you
+3 would like as you deliberate. I will not read it back to
+4 you now, but you can read through it as you deliberate.
+5 Finally, I am marking, as Grand Jury Exhibit 4,
+6 the proposed superseding indictment, which I have now placed
+7 up on the Elmo. As I mentioned, this proposed superseding
+8 indictment corrects two clerical errors and is otherwise
+9 identical to the original indictment, Grand Jury Exhibit 1.
+10 I'm now going to walk you through the errors that
+11 we're going to correct starting on Grand Jury Exhibit 1.
+12 Page 15 contains the beginning of Count Five which charges
+13 Maxwell with perjury. Paragraph 21 on that page refers to
+14 the civil case in which Maxwell gave deposition testimony on
+15 April 22nd, 2016, as 15 Civ. 7344. That is the error we are
+16 going to correct.
+17 Similarly, page 16 contains the beginning of Count
+18 Six which charges another count of perjury. Paragraph 23 on
+19 that page refers to the civil case in which Maxwell gave
+20 deposition testimony on July 22nd, 2016, under the same
+21 number, 15 Civ. 7344.
+22 Turning now to Grand Jury Exhibit 2. Slide 22 of
+23 that exhibit contains the first page of the deposition
+24 transcript from the testimony that Maxwell gave on
+25 April 22nd, 2016. As you can see here, the docket number
+
+FREE STATE REPORTING, INC.
+Court Reporting Transcription
+D.C. Area 301-261-1902
+Balt. & Annap. 410-974-0947
+EFTA00005582
+
+## Structured Fields
+
+*   **Case Name:** United States v. Ghislaine Maxwell
+*   **Date:** 07/08/20, April 22nd, 2016, July 22nd, 2016
+*   **Docket Number:** 15 Civ. 7344
+*   **Exhibit Numbers:** Grand Jury Exhibit 1, Grand Jury Exhibit 2, Grand Jury Exhibit 4
+*   **Defendant Name:** Ghislaine Maxwell
+*   **Court Reporter Organization:** FREE STATE REPORTING, INC.
+*   **Phone Numbers:** 301-261-1902 (D.C. Area), 410-974-0947 (Balt. & Annap.)
+*   **Document ID:** EFTA00005582
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States v. Ghislaine Maxwell 07/08/20 6
+
+1 for that case is in fact 15 Civ. 7433 not 7344.
+2 Similarly, slide 25 contains the first page of the
+3 transcript from the July 22nd, 2016 deposition that Maxwell
+4 gave. As you can see here, again, the docket number for
+5 that case is 15 Civ. 7433 not 7344.
+6 Finally, I will turn to the proposed indictment,
+7 Grand Jury Exhibit 4. On page 15, you have again the same
+8 perjury count with one change. Paragraph 21 corrects the
+9 docket number for the civil case to be 15 Civ. 7433.
+10 Similarly, on page 16, which contains the second
+11 perjury count for the July 22nd, 2016 deposition, the docket
+12 number is corrected to 15 Civ. 7433. There are otherwise no
+13 changes to the substance of this indictment.
+14 That is my presentation. Before I leave you to
+15 deliberate, would anyone like me to read the full proposed
+16 superseding indictment out loud? I see no hands.
+17 I must advise you that you must independently find
+18 probable cause, again, for each count in the superseding
+19 indictment. The evidence before you in support of the
+20 charges in the superseding indictment is the same evidence
+21 that was before you when you considered the indictment last
+22 week.
+23 Does anyone have any questions about that
+24 evidence? I see no hands.
+25 The legal instructions that you received before
+
+FREE STATE REPORTING, INC.
+Court Reporting Transcription
+D.C. Area 301-261-1902
+Balt. & Annap. 410-974-0947
+
+EFTA00005583
+
+## Structured Fields
+*   **Date:** 07/08/20 (Header), July 22nd, 2016 (Text)
+*   **Case Name:** United States v. Ghislaine Maxwell
+*   **Docket Numbers:** 15 Civ. 7433, 7344
+*   **Exhibit:** Grand Jury Exhibit 4
+*   **Organization:** FREE STATE REPORTING, INC.
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States v. Ghislaine Maxwell                                      07/08/20      7
+
+1   voting on the indictment last week are the same instructions
+2   that apply to your consideration of the proposed superseding
+3   indictment. Would anyone like me to read those instructions
+4   out loud for you again? I see no hands.
+
+    5   Does anyone have any questions about the legal
+6   instructions? I see no hands.
+
+    7   I will leave you now with the exhibits to
+8   deliberate. As always, if you have any questions or
+9   concerns about the proposed indictment, please let me know
+10  before you vote so that I may answer any questions you may
+11  have on the law, or bring any additional evidence before you
+12  to consider. Thank you, all.
+
+    13   (Matter concluded)
+    14   (Time Noted: 10:14 a.m.)
+
+
+FREE STATE REPORTING, INC.
+Court Reporting Transcription
+D.C. Area 301-261-1902
+Balt. & Annap. 410-974-0947
+
+EFTA00005584
+
+## Structured Fields
+- Case Name: United States v. Ghislaine Maxwell
+- Date: 07/08/20
+- Page Number: 7
+- Document ID: EFTA00005584
+- Time Noted: 10:14 a.m.
+- Organization: FREE STATE REPORTING, INC.
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+C E R T I F I C A T E
+
+I hereby certify that the foregoing is a true and accurate transcription, to the best of my skill and ability, from my electronic notes of this proceeding.
+July 22, 2020_______ Date
+[REDACTED]
+Acting Grand Jury Reporter Free State Reporting, Inc.
+
+FREE STATE REPORTING, INC. Court Reporting Transcription D.C. Area 301-261-1902 Balt. & Annap. 410-974-0947
+
+## Structured Fields
+- **Date:** July 22, 2020
+- **Organization:** Free State Reporting, Inc.
+- **Role/Title:** Acting Grand Jury Reporter
+- **Document ID (Footer):** EFTA00005585
+

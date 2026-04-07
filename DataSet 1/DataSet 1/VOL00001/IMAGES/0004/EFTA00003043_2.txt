@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003043.pdf ts=2026-03-06T00:34:59 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly high-angle view of an "Emergency Contact Form" encased in a clear plastic sleeve within a silver three-ring binder. The background outside the binder appears to be a dark, textured surface, possibly asphalt or concrete with small debris like gravel or sand scattered on it. A significant glare or reflection obscures the middle-left portion of the document.
+
+The form header features the company name "LSJE, LLC" centered at the top. Below this is an address line: "6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802," followed by redacted phone and fax numbers. The main title, "Emergency Contact Form," is underlined in the center.
+
+The form is divided into sections with filled-in fields.
+-   **Employee Info:** The employee name is listed as "Boniface Loudat." The date is recorded as 03/22/18 for both the document date and start date. A portion of the address visible reads "St Thomas," while the beginning is redacted. Two phone number fields (labeled partially as "Fone" and "Cell") are largely blacked out. The email field is empty. Marital status is listed as "Married."
+-   **Emergency Information:** This section includes pre-printed text for "Allergies or Health Concerns" stating "None" and "Blood type unspecified." A box for blood type is present but blank.
+-   **Medical History:** Two lines are provided for doctors. Both have the name "Dodglas" typed in the "Doctor's Name" field, though the phone fields remain empty.
+-   **Emergency Contacts:** At the bottom, there are two rows for contacts. The first lists a relationship of "Wife," and the second lists "In Law." The names and phone numbers for both contacts are redacted with thick black bars.
+-   **Footer:** A disclaimer at the bottom reads, "This Information is for your safety and the safety of others." A reference code "EFTA00003043" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+*   LSJE, LLC
+*   6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: [Redacted] Fax: [Redacted]
+*   Emergency Contact Form
+
+**Employee Details:**
+*   Date: 03/22/18
+*   Start Date: 03/22/18
+*   Employee Name: Boniface Loudat
+*   Address: [Redacted] St Thomas
+*   Date of Birth: [Redacted]
+*   Fone: [Redacted] Cell: [Redacted]
+*   E-Mail: [Blank]
+*   Role / Position: Ca[Obfuscated text, possibly "Catering"]
+*   Marital Status: Married
+*   License: [Blank Box]
+
+**Medical Section:**
+*   Emergency Information:
+*   Allergies or Health Concerns: None / Blood type unspecified
+*   Blood Type: [Blank Box]
+*   Current Medication: [Blank Line]
+*   Doctor's Name: Dodglas | Phone: [Blank]
+*   Doctor's Name: Dodglas | Phone: [Blank]
+
+**Contact Section:**
+*   In case of an Emergency, Please contact :
+*   Name: [Redacted] | Relationship: Wife | Phone: [Redacted]
+*   Name: [Redacted] | Relationship: In Law | Phone: [Redacted]
+
+**Footer:**
+*   This Information is for your safety and the safety of others
+*   EFTA00003043
+
+## Notable Details / Clues
+*   **Location Context:** The address "St. Thomas, VI 00802" indicates the document belongs to an entity operating in St. Thomas, U.S. Virgin Islands.
+*   **Data Redaction:** Sensitive PII (Personally Identifiable Information) has been heavily redacted using solid black rectangular bars, specifically covering phone numbers and the first line of the home address.
+*   **Medical Repetition:** The doctor's name "Dodglas" appears twice in the same field, which might indicate a data entry error or that the same physician was listed for two separate conditions/categories.
+*   **Marital Status:** Despite only one emergency contact being fully legible (relationship: Wife), the marital status is marked as "Married." The second contact is listed as "In Law," suggesting perhaps a step-son/daughter-in-law relationship or simply listing the spouse's side of the family.
+*   **Document Management ID:** The code "EFTA00003043" in the bottom right corner suggests this document was uploaded into a digital case management system, likely a government or legal database given the format.
+*   **Role Obfuscation:** The employee's position is barely readable, appearing to start with "Ca...", possibly "Catering Manager" or similar, but the rest is obscured by glare and paper folding.
+

@@ -1,0 +1,143 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029918.pdf ts=2026-03-18T13:52:15 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7/20/2021                                                                                          FD-1087
+
+**31E-MM-108062 - 1B7**
+
+Details
+
+Collected On: 08/28/2006 8:00 AM                                                              Receipt Item #: None
+CATS ID #: None                                                                                CATS Abandonment #: None
+FBI Seizure #: None                                                                             Abandonment #: None
+
+Storage Location                                                                               Discovery
+Holding Office: NY - NEW YORK                                                                   Location
+Finalized By: [REDACTED]                                                                       Area: Unavailable in data migrated from
+Last Inventory: 07/20/2021 12:00 AM                                                              ACS
+
+Seizing Individual: [REDACTED]                                                                  Specific: Unavailable in data migrated from
+Collected By: [REDACTED]                                                                         ACS
+
+Retention
+Retention: No
+
+Legal Caveats
+None
+
+Chain of Custody
+
+Shipping Log
+
+History
+
+Acquisition Event
+
+Acquisition Event: (U//FOUO) Items migrated on 2006-08-28                                    Collected From: (U//FOUO) DET [REDACTED]
+
+345 SOUTH COUNTY ROAD
+PALM BEACH, FL, 33480
+
+Receipt Given: No
+Holding Office: MM - MIAMI
+Evidence Log: Missing
+Missing
+
+https://sentinel.fbinet.fbi/lavender///Cases/2383628                                                                                                   1/1                                                                                                                                                                                                                                                                SDNY_GM_02753575 EFTA00029918
+
+## Structured Fields
+*   **Document ID:** FD-1087
+*   **Case/File ID:** 31E-MM-108062 - 1B7
+*   **Date (Created/Printed):** 7/20/2021
+*   **Collected On:** 08/28/2006 8:00 AM
+*   **Last Inventory Date:** 07/20/2021 12:00 AM
+*   **Migrated Date:** 2006-08-28
+*   **Holding Office (Current):** MM - MIAMI
+*   **Discovery Area:** NY - NEW YORK
+*   **Seizing Agency/Area:** DET [REDACTED] / Unavailable data from ACS
+*   **Address:** 345 SOUTH COUNTY ROAD, PALM BEACH, FL, 33480
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a typewritten legal document titled "Chain of Custody FD-192," used for tracking evidence in a case involving the Southern District of New York (SDNY). The document is organized into vertical blocks separated by dashed horizontal lines, intended for recording who has handled an item and why. A large, irregular black rectangular redaction covers the majority of the center and upper-middle sections, obscuring handwritten names, reasons, and signatures. Below this main redaction, the form continues with empty fields for acceptance, though partially obscured by a smaller black square covering specific signature/name areas. At the very bottom, a distinct section labeled "WEAPONS CHECKED & CLEARED BY FIREARMS INSTRUCTOR" is visible but remains largely blank. A blue ink marking, appearing to be a date or code, is handwritten diagonally across the lower left quadrant, crossing over several lines of text. The document rests on a white background and includes specific identifiers at the very bottom right.
+
+## Visible Text (verbatim)
+*   **Header:** Chain of Custody FD-192
+*   **Top Left:** Case ID . : 31E-MM-108062
+*   **Top Center:** 1B7
+*   **Top Right:** Barcode . : [Handwritten: 6492994]
+*   **Repeated Fields (Obscured):** Accepted By, Printed Name, Reason, Signature, Date/Time.
+*   **Lower Handwriting:** 0 11/14/19 (or similar notation)
+*   **Bottom Center Text:** WEAPONS CHECKED & CLEARED BY FIREARMS INSTRUCTOR
+*   **Bottom Left Fields:** Printed Name:.......... Signature:.......... Date:.......
+*   **Footer Right:** SDNY_GM_02753576
+*   **Footer Extreme Right:** EFTA00029919
+
+## Notable Details / Clues
+*   **Form Type:** The "FD-192" designation suggests this is a standard form used by the New York City Fire Department or related forensic units for evidence tracking.
+*   **Redaction Pattern:** A massive black box covers almost all the middle entries, suggesting privacy protection for law enforcement personnel names who handled the evidence. A second, smaller redaction box sits in the lower-left area.
+*   **Handwritten Date:** The blue ink writing near the bottom left appears to be a date "11/14/19" (November 14, 2019) written over an acceptance block. This suggests the document was processed or reviewed on that specific date.
+*   **Evidence Type:** The bottom section specifically mentions "WEAPONS CHECKED & CLEARED," indicating the physical object in custody is a firearm.
+*   **Case ID Format:** The case number "31E-MM-108062" follows a standard SDNY format where "31E" often refers to a specific precinct (likely Manhattan Precinct 5).
+*   **Barcode/Label:** The text "1B7" next to the barcode area likely identifies a specific locker or shelf location in an evidence room.
+*   **Document Origin:** The footer code "SDNY_GM_02753576" confirms the document originates from the United States District Court for the Southern District of New York, General Mail department (or similar administrative unit).
+*   **Empty Signature Lines:** Despite multiple "Accepted By" sections, only the very first few lines and the handwritten mark near the bottom have content, implying this might be a mid-stage printout or that most acceptances happened digitally or off-page.
+*   **Formatting:** The use of dotted leader lines guides the reader to write in the name and signature, standard for legal paperwork.
+*   **Reason Field:** Every section has a "Reason:" field, which is crucial for establishing a complete chain of custody by explaining *why* an item changed hands (e.g., "transported to lab," "reviewed at trial").
+*   **Date/Time Fields:** The form includes specific slots for Date/Time next to the signature, adding temporal precision to the custody log.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document titled "EVIDENCE CHAIN OF CUSTODY" in bold, centered text at the very top. The upper portion of the form is heavily obscured by a large black rectangular box, covering columns labeled with truncated headers like "Relinqu...", "Signatu...", "Printed", and "Reason...". To the right of this obscured area, a column titled "Date and Time" contains handwritten entries in dark ink. These entries appear to be dates ranging from June 2019 through April 2021, accompanied by times such as "12:30pm", "3:45p", "12:27pm", "3:50p", and "2:33PM". Below the black box, the form continues with a structured grid for logging custody transfers. This section features alternating beige headers reading "Relinquished Custody" on the left and "Accepted Custody" on the right, separated by columns for "Date and Time". Underneath these main headers are rows of blank lines for signatures, printed names/agencies, and reasons. The bottom of the page contains footer information including a Case ID (31E-MM-108062), a form number (1B: 7), and a Barcode (E4229234). A specific note at the bottom warns that the form is incomplete without reference to the FD-1087. In the absolute bottom right corner, two alphanumeric codes are visible: "SDNY_GM_02753577" and "EFTA00029920".
+
+## Visible Text (verbatim)
+**Header:**
+- EVIDENCE CHAIN OF CUSTODY
+
+**Right Column Headers (visible):**
+- Date and Time
+
+**Truncated Left Headers (visible):**
+- Relinqu...
+- Signatu...
+- Printed...
+- Reason...
+
+**Handwritten Entries (partial visibility):**
+- 6/18/19 / 12:30PM
+- 6/18/19 / 3:45p
+- 3/4/21 / 12:27pm
+- 3/12/21 / 3:50p
+- 4/8/21 / 2:33PM
+
+**Middle Section Headers:**
+- Relinquished Custody
+- Date and Time
+- Accepted Custody
+- Signature:
+- Printed Name/Agency:
+- Reason:
+
+**Footer Text:**
+- Case ID: 31E-MM-108062
+- 1B: 7
+- Barcode: E4229234
+- This form is incomplete without reference to the FD-1087.
+- SDNY_GM_02753577
+- EFTA00029920
+
+## Notable Details / Clues
+- **Redaction:** A significant black box covers the upper half of the form, suggesting sensitive information regarding the initial transfer or a specific item description has been intentionally hidden.
+- **Date Discontinuity:** The handwritten dates show a gap between June 18, 2019, and March 4, 2021, implying either a long period of time where custody was not recorded on this sheet, or the document is being used to log old evidence with newer entries.
+- **Form Dependencies:** The text "This form is incomplete without reference to the FD-1087" indicates this is a supplementary sheet that requires attachment to another specific FBI or law enforcement form.
+- **Field Structure:** The form is designed for a sequential chain of custody, with distinct columns for whoever is giving up the evidence ("Relinquished Custody") and whoever is taking it ("Accepted Custody").
+- **Handwriting Legibility:** The handwritten dates on the right side are somewhat cursive and slanted, making precise reading difficult but allowing for confident transcription of the year digits in most cases.
+- **Barcode:** The barcode number E4229234 is likely used for scanning into an electronic evidence management system (EMS) to link this physical log to digital records.
+- **Document IDs:** The string "SDNY" in the bottom corner suggests this document originated from or is associated with the United States District Court for the Southern District of New York.
+- **Time Format:** The times are written in 12-hour format (e.g., "3:45p", "12:30pm"), consistent with standard police or legal documentation habits.
+- **Row Repetition:** The lower section repeats the exact same row structure multiple times, indicating the form is pre-printed to allow for multiple entries on a single sheet if necessary.
+- **Case ID Format:** The Case ID "31E-MM-108062" follows a standard internal numbering system, likely separating bureau, division, and case number.
+

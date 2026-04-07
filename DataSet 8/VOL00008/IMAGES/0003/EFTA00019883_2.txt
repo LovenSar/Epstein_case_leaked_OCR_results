@@ -1,0 +1,112 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019883.pdf ts=2026-03-14T07:40:25 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document representing an email thread export, likely from Microsoft Outlook, showing a series of communications between US Department of Justice personnel. The document is structured with the most recent message at the top and previous messages listed sequentially below it.
+
+At the very top is the header for an email sent on Friday, February 14, 2020. The "From" field is partially redacted but includes "(USANYS)". The "To" field lists a recipient named BWilliams8@usa.doj.gov and others whose names are blacked out. A "Cc" line is also present with redacted names. The subject line reads "RE: Criminal Division update...". An attachment named "PC_Unit_--_Short_Form_Update.2.14.20v2.docx" is listed.
+
+Below the top header, there is a section of blue text reading "Here is PC." followed by a horizontal line separating it from the previous emails in the thread. The subsequent emails are partially obscured by large black rectangular redaction boxes covering the body content and recipient information ("To:" fields) for each message. Despite the redactions, headers for dates and senders remain visible.
+
+The thread proceeds chronologically downwards:
+1.  **First Quoted Email:** Dated Thursday, February 13, 2020, sent at 2:13 PM. It belongs to the same "(USANYS)" sender group. Below this blacked-out section is a blue caption reading "Final reminder." and the subject line "RE: Criminal Division update...".
+2.  **Second Quoted Email:** Dated Wednesday, February 12, 2020, sent at 2:11 PM. It follows the same header format. Below the redaction box is the subject line and a blue caption reading "Another reminder...".
+3.  **Third Quoted Email:** Dated Monday, February 10, 2020, sent at 12:08 PM. The headers are visible above a final black redaction box covering the rest of the message.
+
+Throughout the document, sender names are partially redacted but consistently show "(USANYS)", which typically denotes United States Attorney, New York Southern District. The recipient emails ending in "@usa.doj.gov" confirm the US Department of Justice affiliation.
+
+## Visible Text (verbatim)
+**Top Header:**
+From: "███████ (USANYS)" <...>
+To: ████████ (USANYS) <BWilliams8@usa.doj.gov>
+Cc: "███████ (USANYS)" <...>
+Subject: RE: Criminal Division update...
+Date: Fri, 14 Feb 2020 15:49:37 +0000
+Attachments: PC_Unit_--_Short_Form_Update.2.14.20v2.docx
+
+**Body Text:**
+Here is PC.
+
+**First Quoted Block:**
+From: ███████ (USANYS) <...>
+Sent: Thursday, February 13, 2020 2:13 PM
+To: [Redacted]
+Subject: RE: Criminal Division update...
+
+**Caption:**
+Final reminder.
+
+**Second Quoted Block:**
+From: ███████ (USANYS)
+Sent: Wednesday, February 12, 2020 2:11 PM
+To: [Redacted]
+Subject: RE: Criminal Division update...
+
+**Caption:**
+Another reminder...
+
+**Third Quoted Block:**
+From: ███████ (USANYS)
+Sent: Monday, February 10, 2020 12:08 PM
+To: [Redacted]
+
+**Footer:**
+EFTA00019883
+
+## Notable Details / Clues
+-   **Organization:** The text "(USANYS)" appears repeatedly, standing for United States Attorney's Office, New York Southern District. The email address "@usa.doj.gov" confirms involvement with the US Department of Justice.
+-   **Redaction Pattern:** A systematic redaction strategy is used where all specific names (other than one BWilliams8) and full email addresses are obscured with solid black bars. The recipient list ("To") fields in the quoted emails are almost entirely covered, suggesting a need to hide who received the prior updates.
+-   **Timeline:** The thread spans from Monday, February 10, 2020, to Friday, February 14, 2020. This represents a work week of active communication.
+-   **Subject Matter:** The subject line "Criminal Division update..." and the attachment filename "PC_Unit" (likely Project Continuum/Canopy) suggest this is related to FBI counter-terrorism or investigative unit reporting within the DOJ.
+-   **Annotations:** Blue text captions ("Here is PC.", "Final reminder.", "Another reminder...") appear to be added by the person viewing/exporting the email, serving as notes or navigation markers rather than being part of the original email body.
+-   **Attachment Version:** The filename "Short_Form_Update.2.14.20v2.docx" indicates a versioned document (version 2), likely updated specifically for the February 14th date (14.20).
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence thread, heavily redacted for privacy. The document appears to be a work-related communication regarding report deadlines within a division, likely legal or administrative given the subject lines. The top section shows the current message sent by a recipient (CC'd with USANYS) sending a reminder about a report due "this Friday," despite it not being August yet, indicated by a smiley face emoji. Below this is a thread of two previous emails dated February 6, 2020. The first quoted email (lower down in the chain but appearing above the second) addresses panic mode regarding an update deadline set for August 14th. The second quoted email (at the very bottom) mentions Stephanie being out of the office and requests emails be sent to a specific person. Large black bars obscure recipient names ("To:" fields) and specific sender names, though the domain "(USANYS)" is visible in the "From" lines. A document control number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header Section:**
+Cc: [Redacted] (USANYS) <[Redacted]>
+Subject: RE: Criminal Division update...
+
+Reminder:
+
+I know it’s not August ☺, but the report is due this Friday.
+[Black Rectangle]
+
+**Quoted Email 1 (Top Quotations):**
+From: [Redacted] (USANYS)
+Sent: Thursday, February 6, 2020 11:21 AM
+To: [Redacted Large Block]
+Cc: [Redacted] (USANYS) <[Redacted]>
+Subject: RE: Criminal Division update...
+
+Ok... everyone, let’s get out of panic mode. The update is now due on Friday, August 14th. So, now you have plenty of time. Sorry, for any inconvenience.
+[Black Rectangle]
+
+**Quoted Email 2 (Bottom Quotations):**
+From: [Redacted] (USANYS)
+Sent: Thursday, February 6, 2020 10:15 AM
+To: [Redacted Large Block]
+Subject: Criminal Division update...
+
+is due. Please e-mail them to me – Stephanie is out of the Office.
+
+Thanks,
+[Black Rectangle]
+
+**Footer:**
+EFTA00019884
+
+## Notable Details / Clues
+*   **Date Discrepancy:** The current email mentions "this Friday" regarding an August report but notes it is not yet August. However, the quoted emails are dated February 6, 2020. This implies a significant delay or change in schedule, leading to the "August 14th" deadline mentioned in the text.
+*   **Sender/Domain:** The domain tag "(USANYS)" appears multiple times in the "From" and "Cc" lines, suggesting an internal organizational system.
+*   **Personnel Mention:** A specific individual named "Stephanie" is mentioned as being "out of the Office," indicating a chain of command or delegation where emails should be directed to a substitute.
+*   **Timeline:** The timeline shows a report originally due in August, which caused "panic mode" (likely from earlier emails not fully visible or implied), resulting in an extension to Friday, August 14th.
+*   **Redaction Pattern:** The redactions are consistent black rectangles covering personal email addresses and names, typical of public records or privacy-redacted documents.
+*   **Subject Line Consistency:** Every email in the chain (current and quoted) shares the subject line "Criminal Division update...", indicating a continuous thread about a specific bureaucratic task.
+*   **Tone Shift:** The language shifts from urgent ("panic mode", "due this Friday") to relieved ("plenty of time", "Sorry, for any inconvenience") after the deadline extension.
+

@@ -1,0 +1,62 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018698.pdf ts=2026-03-13T20:27:53 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a web-based administrative interface, specifically a student information portal. The document is dated 7/19/2021 in the top left corner and titled "Student Info" at the top center. Below the title is a user profile icon—a generic gray silhouette—next to a blacked-out rectangle obscuring the student's name.
+
+The main section is a table labeled "Enrollment." This table lists historical enrollment changes for a specific student. The first column, containing a series of "View" buttons (approximately 14 visible), is mostly obscured by a large black rectangle that spans the width of the page below the header row. Two columns to the left of the data are hidden by this obstruction.
+
+The visible columns display specific enrollment metadata:
+*   **Enrollment Code:** This column lists codes such as "(R02)," "(EA1)," "(E01)," and "(R03)" followed by descriptive text explaining the code (e.g., "Re-entry from another school same district," "Original Entry of Adult," "In District Previous Year").
+*   **Drop Date:** This column lists specific dates ranging from June 1990 to March 2002. Arrows above the header indicate that this column can be sorted.
+*   **Drop Code:** This column contains alphanumeric codes (e.g., "(W26)," "(W32)") followed by truncated text descriptions like "W/D," "Adult," or "In Di..."
+
+The data appears to list records chronologically from bottom to top (or potentially newest to oldest based on the sorting arrows, though the dates are ascending at the bottom). The bottom-most row lists an entry from 06/13/1990. The top-most visible row lists an entry from 03/07/2002.
+
+At the very bottom of the page, a partial URL is visible: `https://sis.palmbeachschoo...` indicating this is the Palm Beach County School District system. A document ID "EFTA00018698" is located in the bottom right corner. The page count indicator "1/1" is also present on the bottom right.
+
+## Visible Text (verbatim)
+**Header Area:**
+- 7/19/2021
+- Student Info
+
+**Table Section:**
+- Enrollment
+- View (repeated button text)
+- Enrollment Code ^v
+- Drop Date ^v
+- Drop Code
+
+**Data Rows (Top to Bottom):**
+1.  (R02) Re-entry from another school same district | 03/07/2002 | (W26) W/D
+2.  (R02) Re-entry from another school same district | 10/11/2001 | (W02) In Di
+3.  (EA1) Original Entry of Adult | 09/20/2001 | (W32) Adult
+4.  (EA1) Original Entry of Adult | 08/13/2001 | (W47) Adult
+5.  (EA1) Original Entry of Adult | 08/15/2000 | (W47) Adult
+6.  (E01) In District Previous Year | 08/16/1999 | (W03) In or
+7.  (E01) In District Previous Year | 06/09/1999 | (W02) In Di
+8.  (E01) In District Previous Year | 08/20/1997 | (W22) Whe
+9.  (E01) In District Previous Year | 06/10/1998 | (W01) In Scl
+10. (R03) Re-entry Unexpected same Dist after wd | 06/11/1997 | (W02) In Di
+11. (E01) In District Previous Year | 08/22/1994 | [Blank]
+12. (E01) In District Previous Year | 06/10/1994 | (W02) In Di
+13. (E01) In District Previous Year | 06/11/1993 | (W01) In Scl
+14. (E01) In District Previous Year | 06/11/1992 | (W01) In Scl
+15. (E01) In District Previous Year | 06/13/1991 | (W01) In Scl
+16. (E01) In District Previous Year | 06/13/1990 | (W02) In Di
+
+**Footer Area:**
+- https://sis.palmbeachschoo...
+- 1/1
+- EFTA00018698
+
+## Notable Details / Clues
+*   **System Identification:** The partial URL identifies the software as a "SIS" (Student Information System) for "palmbeachschoo..." (Palm Beach County Schools).
+*   **Historical Data:** The enrollment records span from 1990 to 2002, but the report was generated in 2021, suggesting this is a request for historical audit or verification records.
+*   **Student Status Codes:** The presence of "(EA1) Original Entry of Adult" suggests the student may have been an adult education student entering around 2000/2001. The "In District Previous Year" codes (E01) indicate repeated attendance at schools within the same district without dropping out in between.
+*   **Data Truncation:** The text in the "Drop Code" column is cut off horizontally (e.g., "W/D", "In Di", "Adult"), likely due to narrow column width or browser zoom settings.
+*   **Sorting Functionality:** The up/down triangles next to "Enrollment Code" and "Drop Date" indicate that a user can click these headers to sort the list by code or date respectively.
+*   **Redaction/Privacy:** The student's name (next to the avatar) is intentionally blacked out, adhering to privacy protocols for sharing screenshots of student records.
+*   **Document ID:** The string "EFTA00018698" at the bottom right likely serves as a unique tracking number for this specific document or printout generated by the system.
+

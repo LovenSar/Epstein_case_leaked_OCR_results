@@ -1,0 +1,138 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010145.pdf ts=2026-03-10T01:33:55 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot of an email thread, likely from a corporate or legal discovery context, showing a chronological series of messages regarding the transfer of physical media drives. The document features redacted header fields (From, To, Cc) where names and specific addresses are obscured by black bars to protect privacy. The thread begins at the top with a message sent on July 13, 2021, confirming that cover letters are attached and that a hard drive containing materials is currently loading. It mentions the drive will be shipped via FedEx either that evening or the next morning. Below this initial message is a series of replies. One brief response thanks two parties ("you both"). The most substantive message in the middle details the specific productions being sent to "Maxwell at MDC." This section lists two specific discs: one dated May 21, 2021 (the Seventeenth Production), and a reproduction dated June 10, 2021. It notes technical difficulties with the original disc and mentions using larger 8GB discs as a workaround. The message concludes by stating that despite these issues, the materials to be loaded are specifically the "Seventeenth Production." The thread ends with another redacted header block showing a subject line of "Re: Discovery." A document control number "EFTA00010145" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+
+**Top Header:**
+*   **Subject:** RE: Discovery
+*   **Date:** Tue, 13 Jul 2021 21:14:32 +0000
+*   **Attachments:** 2021.07.13_MDC_-_Maxwell_PASSWORD.docx; 2021.07.13_MDC_-_Maxwell_MAIN.docx
+
+**First Body Paragraph:**
+"Cover letters for this drive are attached, let me know if they're okay to go out. The drive is being loaded now with the materials [redacted] linked below (thank you!) and will go out with FedEx either this evening or tomorrow morning, depending on when the drive finishes loading."
+
+**Middle Reply:**
+*   **Sent:** Tuesday, July 13, 2021 3:30 PM
+*   "Thanks very much to you both!"
+
+**Main Body Text Header:**
+*   **Sent:** Tuesday, July 13, 2021 1:16 PM
+*   **Subject:** RE: Discovery
+
+**Main Body Text Content:**
+"The most recent productions that have gone to Maxwell at MDC – and that we have not already reproduced on a hard drive – are:"
+*   "2021.05.21 (disc) – the Seventeenth Production, saved here (includes subpoena returns, native carved images, and images)"
+*   "2021.06.10 (disc) – reproduction of the Seventeenth Production, above ^, after original disc was sent back to us. The original disc worked on my end, so maybe it is a problem with the larger 8GB discs we had to use?"
+
+**Closing:**
+"Nevertheless, the materials to be loaded are the Seventeenth Production. Thanks, team!!"
+
+**Bottom Header:**
+*   **Sent:** Tuesday, July 13, 2021 12:35 PM
+*   **Subject:** Re: Discovery
+
+**Footer ID:**
+"EFTA00010145"
+
+## Notable Details / Clues
+
+*   **Date Context:** All visible timestamps are from Tuesday, July 13, 2021. The time ranges from late afternoon (12:35 PM) to evening (21:14).
+*   **Legal Discovery Terminology:** Terms like "subpoena returns," "native carved images," and "MDC" (likely a storage or data center) strongly suggest this is a response to a legal subpoena.
+*   **Technical Issues:** The email mentions a problem with an original disc that "worked on my end" but failed elsewhere, speculating it is due to "larger 8GB discs." This indicates a physical limitation (likely capacity mismatch or compatibility issues).
+*   **Redaction Pattern:** Nearly all identifying information (names, specific email addresses, phone numbers) has been redacted with solid black blocks. However, a small portion of text ("materials...") is partially visible next to a small black box in the first paragraph.
+*   **Shipping Logistics:** The coordination involves physical media shipping via FedEx, implying large data sets are being moved off-site.
+*   **Document Control:** The ID "EFTA00010145" suggests this document is part of an electronic file system or legal discovery platform that tags documents for tracking.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+I can handle, currently unpacking some stuff from trial but will look for the drive and try and load it later this afternoon.
+Could one of you please just let me know what discovery needs to be loaded onto it (or since which date) since I've been out of the loop for a bit?
+
+Sent from my iPhone
+
+On Jul 13, 2021, at 12:29 PM [REDACTED] wrote:
+
+Hi team,
+
+Any chance one of you would be able to track down a drive that Maxwell's lawyers dropped off yesterday for [REDACTED] please? Or if not, any chance you could point us to someone who would be able to help find the drive?
+
+We need to get it loaded with the most recent productions that went to Maxwell on CDs.
+
+Thanks,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, July 12, 2021 10:57 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: Discovery
+
+Hi [REDACTED]
+
+We dropped off the drive this afternoon. It should be addressed to [REDACTED] Let me know if you have trouble finding it.
+
+Thanks,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, July 12, 2021 9:55 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: Discovery
+
+[REDACTED]
+
+Hope you are well, too, thanks.
+
+We should have a production of additional non-testifying witness materials prepared to produce to you by the end of next week.
+
+Did you drop off a hard drive today? If so, would you please let me know to whom it was addressed? [REDACTED] and I are both traveling this week, and our paralegals are currently either out of the office or on trial, so we'll need to get someone else to pick up and load the drive.
+
+Thanks,
+
+EFTA00010146
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew's Plaza
+New York, NY 10007
+[REDACTED]
+
+From [REDACTED]
+Sent: Friday, July 9, 2021 4:52 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: Discovery
+
+[REDACTED]
+I hope you are all well. I wanted to circle back with you about two discovery issues. First, a little while back you said that you would be producing to us additional non-testifying 3500 material. When can we expect to receive that?
+
+Second, you produced the last few productions to Ms. Maxwell on disk. Those disks are now not working. We will drop off a hard drive to you on Monday. Please reload those productions onto the hard drive and send it to Ms. Maxwell in MDC. If the additional non-testifying 3500 material is ready to be produced, please include that on the drive.
+
+Regards,
+[REDACTED]
+
+[REDACTED]
+
+<image001.jpg>
+
+[REDACTED]
+
+New York | Paris | Washington DC | London <image002.jpg>
+CONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended to be reviewed initially by only the individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient, you are hereby notified that any review, dissemination or copying of this e-mail or the information contained herein is prohibited. If you have received this e-mail in error, please immediately notify the sender by telephone and permanently delete this e-mail. Thank you.
+PRIVACY: A complete copy of our privacy policy can be viewed at: https://www.cohenqresser.com/privacy-policy
+EFTA00010147
+
+## Structured Fields
+- **Date:** Friday, July 9, 2021 4:52 PM
+- **Subject:** Discovery
+- **Location:** Southern District of New York (Header); New York, NY; Paris; Washington DC; London (Footer)
+- **Doc ID:** EFTA00010147
+

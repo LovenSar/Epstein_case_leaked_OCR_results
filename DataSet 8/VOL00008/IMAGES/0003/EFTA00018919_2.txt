@@ -1,0 +1,24 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018919.pdf ts=2026-03-13T22:05:04 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Event: Accepted: Epstein Team Meeting
+Start Date: 2019-12-09 20:30:00 +0000
+End Date: 2019-12-09 21:00:00 +0000
+Class: X-PERSONAL
+Comment:
+Date Created: 2019-12-08 19:19:03 +0000
+Date Modified: 2019-12-08 19:19:03 +0000
+Priority: 5
+DTSTAMP: 2019-12-08 19:10:23 +0000
+Attendee: [REDACTED]
+
+## Structured Fields
+*   **Event Name:** Epstein Team Meeting
+*   **Start Date:** 2019-12-09 20:30:00
+*   **End Date:** 2019-12-09 21:00:00
+*   **Class:** X-PERSONAL
+*   **Priority:** 5
+*   **Date Created:** 2019-12-08 19:19:03
+*   **Doc ID (Footer):** EFTA00018919
+

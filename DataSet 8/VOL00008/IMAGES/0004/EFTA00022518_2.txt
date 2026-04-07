@@ -1,0 +1,48 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00022518.pdf ts=2026-03-15T11:48:09 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email client interface featuring a multi-part email thread with heavy redaction applied to the body content and recipient fields. The document is oriented vertically. At the very top, standard email header information is visible, including "From," "To," "Cc," "Subject," "Date," and "Importance." These fields are heavily blacked out except for a domain suffix "(USANYYS)" which appears in each field. Below this header block is a horizontal divider line. Underneath the divider, a short sentence in blue hyperlink-style text reads "Got it. Thanks." A second email header block follows, nested within the thread, showing similar redacted "From," "To," and "Cc" fields, along with a "Sent" date of Friday, June 7, 2019. Below this second header is another blue hyperlink text block regarding an update about approaching Epstein victims. Following this text is a large section dominated by horizontal black bars of varying lengths, indicating redacted content. The bottom portion of the page contains a significant cluster of these redaction bars, obscuring what appears to be a long list of names or sensitive data. At the very bottom right corner, a document identifier code is visible in small text. The background is plain white, and the text is black, with blue used for hyperlinks.
+
+## Visible Text (verbatim)
+*   From: "[REDACTED]" (USANYYS) <[REDACTED]>
+*   To: "[REDACTED]" (USANYYS) <[REDACTED]>
+*   Cc: "[REDACTED]" (USANYYS) <[REDACTED]>
+*   Subject: RE: Weekly Updates
+*   Date: Fri, 07 Jun 2019 21:56:14 +0000
+*   Importance: Normal
+*   Got it. Thanks.
+*   From: [REDACTED] (USANYYS) <[REDACTED]>
+*   Sent: Friday, June 7, 2019 5:55 PM
+*   To: [REDACTED] (USANYYS) <[REDACTED]>
+*   Cc: [REDACTED] (USANYYS) <[REDACTED]>
+*   Subject: RE: Weekly Updates
+*   Another update: related to the discussion we had, we are approaching 3 NY Epstein victims on Tuesday.
+*   EFTA00022518
+
+## Notable Details / Clues
+- **Redaction Strategy:** The image uses opaque black rectangles of varying widths to hide personal identifying information (PII) and names, a common practice in legal or sensitive document releases.
+- **Domain Name:** The text "(USANYYS)" appearing repeatedly in the From/To/Cc fields suggests the email address belongs to an organization related to New York State.
+- **Document ID:** The code "EFTA00022518" in the bottom right corner indicates this is likely a redacted document produced for a specific government investigation or public release (likely FOIA or similar).
+- **Date Context:** The email thread is dated June 7, 2019.
+- **Sensitivity:** The visible text explicitly mentions approaching "3 NY Epstein victims," indicating the content involves the Jeffrey Epstein scandal and victim advocacy.
+- **Hyperlink Text:** Two distinct pieces of text appear in a lighter blue color with an underline, signifying they were originally hyperlinks or specific references within the email body.
+- **Nested Reply Structure:** The image captures a reply (Subject line starts with "RE:") referencing a previous thread titled "Weekly Updates."
+- **Layout Consistency:** The header blocks (From, To, Cc, Subject) follow a standard Microsoft Outlook or similar client formatting style with bold labels and left-aligned text.
+- **Spacing:** There is significant white space between the nested email header block and the heavy redaction bars below it, creating a visual gap where specific names would likely have been listed.
+- **Time Zone:** The date in the top header includes "+0000", indicating Greenwich Mean Time (GMT/UTC).
+- **Importance Flag:** The importance is marked as "Normal," which is standard for most business communications, contrasting with potential urgency implied by the subject matter.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+EFTA00022519
+
+## Structured Fields
+- **Doc ID**: EFTA00022519
+

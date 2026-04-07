@@ -1,0 +1,61 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008501.pdf ts=2026-03-09T07:40:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a large, metallic server chassis or rack-mounted unit resting on a speckled terrazzo or concrete floor. The device is rectangular with a brushed aluminum or steel finish, showing signs of use such as dust spots and adhesive residue.
+
+**Left Section:**
+The left edge features a dark vertical frame or side panel. Affixed to this area are several labels. At the top is a grey manufacturer label with vertical text indicating "Sun Fire V210" and other technical specifications. Below that is a white barcode sticker. Further down, a prominent yellow square sticky note bears the large handwritten code "1B117" in black marker. At the very bottom left corner, a piece of legal-sized paper or cardstock is taped to the frame with handwritten notes regarding location ("Little Saint-James Island"), rack position ("rack position 28"), and contact information ("Call By: Carice Cset").
+
+**Center Section:**
+The main body of the chassis is smooth silver metal. In the upper center, there is a recessed oval handle designed for carrying or mounting; it features two small arrows pointing inward toward a screw in the middle. Below the handle is a small yellow rectangular sticker with the word "CAUTION:" printed on it. Beneath that is a small white barcode label. The central area shows faint streaks of tape residue and general grime, suggesting it has been moved frequently or stored outdoors/dusty areas.
+
+**Right Section:**
+The right side of the chassis features ventilation grilles consisting of two large rectangular arrays of circular holes. In the upper right corner, there is a yellow triangular hazard warning sticker with an exclamation point symbol, alongside another manufacturer label. Along the far right edge, two reddish-brown plastic or rubber protrusions are visible (likely power supply handles or rack ears) and black mounting feet.
+
+**Bottom Edge:**
+Running across the bottom metal lip of the chassis is handwritten text in black marker that reads "SOD-NY-S02-7571 1B117". This appears to be a location code or inventory tag matching the number on the yellow sticky note on the left.
+
+## Visible Text (verbatim)
+
+**Manufacturer/Specs Label (Top Left):**
+"Sun Fire V210..."
+"part# 95348..."
+"serial no: MXXB2HA3R"
+
+**Yellow Sticky Note (Left):**
+"1B117"
+
+**Bottom Paper Label:**
+"H24"
+"Little Saint-James Island U.S Virgin Islands - 04 Room E in server rack position 28"
+"Call By: Carice Cset..."
+"w/ key: ... Smith ..."
+"Le Bay w/ 16x tb B drive"
+"sn: MXXB2HA3R"
+
+**Center Yellow Warning Sticker:**
+"CAUTION:"
+
+**Handwritten Bottom Edge:**
+"SOD-NY-S02-7571 1B117"
+
+**Top Right Warning Label:**
+(Hazard triangle symbol)
+
+## Notable Details / Clues
+
+*   **Hardware Identity:** The label identifies the unit as a "Sun Fire V210," which is an older SPARC architecture server from Sun Microsystems.
+*   **Geographic Context:** The handwritten note specifies the location as "Little Saint-James Island U.S Virgin Islands," implying this hardware was deployed in a remote island location.
+*   **Inventory Coding:** The code "1B117" appears on both a sticky note and the bottom edge of the chassis, serving as a primary inventory key.
+*   **Asset Tagging:** The text "SOD-NY..." suggests a specific office or departmental tagging system (possibly Sun Operations Department in New York).
+*   **Condition:** The unit is not brand new; there is visible dust accumulation, scuffs on the metal surface, and dried adhesive strips where tape was previously placed.
+*   **Power/Connectivity:** The reddish protrusions on the right edge are characteristic of hot-swappable power supply handles often found in Sun/Oracle servers of this era.
+*   **Orientation:** The handle arrows point inward, indicating how the unit should be oriented in a rack or carried.
+*   **Ventilation:** The perforated grid patterns on the right indicate where cooling air is expelled from the server interior.
+*   **Rack Positioning:** The note explicitly states "server rack position 28," providing precise installation instructions for IT staff.
+*   **Storage/Handling:** The presence of tape residue in the center suggests the unit may have been wrapped in plastic or moved with straps during transport/storage.
+*   **Reference Photo ID:** In the bottom right corner of the image file itself, there is a reference number "EFTA00008501".
+

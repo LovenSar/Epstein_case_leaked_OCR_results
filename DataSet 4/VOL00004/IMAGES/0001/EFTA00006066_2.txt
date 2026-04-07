@@ -1,0 +1,131 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00006066.pdf ts=2026-03-07T19:48:42 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED] W-2 Statements
+EFTA00006066
+
+## Structured Fields
+*   Doc ID: EFTA00006066
+*   Handwritten Note: W-2 Statements
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Control number
+0017 66/18E
+Void [ ]
+OMB No. 1545-0008 18E
+0017
+
+b Employer identification number (EIN) [REDACTED]
+
+c Employer’s name, address, and ZIP code
+JEFFREY E. EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+Suff.:
+[Large Redacted Block covering Employee Name]
+
+1 Wages, tips, other compensation 7890.65
+2 Federal income tax withheld 714.35
+3 Social security wages 7890.65
+4 Social security tax withheld 489.22
+5 Medicare wages and tips 7890.65
+6 Medicare tax withheld 114.41
+7 Social security tips
+8 Allocated tips
+9 Advance EIC payment
+10 Dependent care benefits
+
+11 Nonqualified plans
+12a See instructions for box 12 C 6.00
+12b
+12c
+12d
+13 Statutory employee Retirement plan Third-party sick pay
+14 Other
+
+f Employee’s address and ZIP code
+MIAMI BEACH, FL 33139
+
+15 State Employer’s state ID number 16 State wages, tips, etc. 17 State income tax 18 Local wages, tips, etc. 19 Local income tax 20 Locality name
+FL
+W-2 Wage and Tax Statement 2006 Department of the Treasury—Internal Revenue Service
+~For Employer. For Privacy Act and Paperwork Reduction Act Notice, see back of Copy D.
+
+EFTA00006067
+
+## Structured Fields
+- **Date/Year:** 2006
+- **Document ID/Form Type:** W-2 Wage and Tax Statement
+- **Control Number:** 0017 66/18E
+- **Employer Name:** JEFFREY E. EPSTEIN
+- **Employer Address:** 358 EL BRILLO WAY, PALM BEACH, FL 33480
+- **Employee Address:** MIAMI BEACH, FL 33139
+- **Wages (Box 1):** 7890.65
+- **Federal Income Tax Withheld (Box 2):** 714.35
+- **Social Security Wages (Box 3):** 7890.65
+- **Social Security Tax Withheld (Box 4):** 489.22
+- **Medicare Wages (Box 5):** 7890.65
+- **Medicare Tax Withheld (Box 6):** 114.41
+- **Nonqualified Plans Code/Amount (Box 12a):** C / 6.00
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+a Control number
+0017 66/18E
+Void [ ]
+OMB No. 1545-0008 18E                                0017
+
+b Employer identification number (EIN)                  1 Wages, tips, other compensation       2 Federal income tax withheld
+[REDACTED]                                                   38536.47                                   3463.23
+
+c Employer's name, address, and ZIP code                  3 Social security wages                 4 Social security tax withheld
+JEFFREY E. EPSTEIN                                           38536.47                                   2389.26
+358 EL BRILLO WAY                                            5 Medicare wages and tips                6 Medicare tax withheld
+PALM BEACH, FL 33480                                              38536.47                                   558.78
+
+[REDACTED] (Box d/e area)                                     7 Social security tips                     8 Allocated tips
+MIAMI BEACH, FL 33139                                                    9 Advance EIC payment                       10 Dependent care benefits
+
+f Employee's address and ZIP code                          11 Nonqualified plans                        12a See instructions for box 12
+                                                                                                      C                                        28.62
+                                                                                                      12b
+                                                                                                      12c
+                                                                                                      12d
+
+15 State            Employer's state ID number       16 State wages, tips, etc.      17 State income tax     18 Local wages, tips, etc.    19 Local income tax   20 Locality name
+FL
+
+Form W-2 Wage and Tax Statement                                  2005                                    Department of the Treasury—Internal Revenue Service
+Copy D—For Employer.                                                       For Privacy Act and Paperwork Reduction Act Notice, see back of Copy D.
+
+a Control number
+b Employer identification number (EIN)
+1 Wages, tips, other compensation                       2 Federal income tax withheld
+c Employer's name, address, and ZIP code                  3 Social security wages                             4 Social security tax withheld
+d Employee's social security number                        5 Medicare wages and tips                         6 Medicare tax withheld
+e Employee's first name and initial        Last name              7 Social security tips                              8 Allocated tips
+f Employee's address and ZIP code                          9 Advance EIC payment                             10 Dependent care benefits
+                                                                                   11 Nonqualified plans                          12a See instructions for box 12
+15 State            Employer's state ID number           16 State wages, tips, etc.                 17 State income tax    18 Local wages, tips, etc.       19 Local income tax     20 Locality name
+
+W-2 Wage and Tax Statement                                           2005                                  Department of the Treasury—Internal Revenue Service
+For Employer.                                                               For Privacy Act and Paperwork Reduction Act Notice, see back of Copy D.
+EFTA00006068
+## Structured Fields
+*   **Date:** 2005 (Tax Year)
+*   **Control Number:** 0017 66/18E
+*   **Employer Name:** JEFFREY E. EPSTEIN
+*   **Employer Address:** 358 EL BRILLO WAY, PALM BEACH, FL 33480 (and visible partial address MIAMI BEACH, FL 33139)
+*   **State:** FL
+*   **Wages/Compensation:** $38,536.47
+*   **Federal Income Tax Withheld:** $3,463.23
+*   **Social Security Wages:** $38,536.47
+*   **Social Security Tax Withheld:** $2,389.26
+*   **Medicare Wages and Tips:** $38,536.47
+*   **Medicare Tax Withheld:** $558.78
+*   **Dependent Care Benefits (Box 12a):** $28.62
+*   **Form Type:** W-2 Wage and Tax Statement, Copy D (For Employer)
+

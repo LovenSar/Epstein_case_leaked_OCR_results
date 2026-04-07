@@ -1,0 +1,72 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000019.pdf ts=2026-03-05T03:40:46 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly high-angle shot of a printed document adhered to a vertical surface. The document is a maintenance log or job schedule table featuring columns for Job Code, Client Name, Job Type, Service Description, Special Instructions, and Start Date. The paper rests on a light grey, matte surface, flanked on the left and right by dark grey metal structures with horizontal ventilation slats. At the very top of the image, a black textured material—possibly leather or rubberized plastic—is visible, secured with metallic grommets or studs, suggesting the document is placed inside or against a piece of equipment casing. The lighting creates a slight shadow on the left side of the paper. The document lists recurring maintenance tasks for a cooling tower system associated with a specific client name repeated throughout the rows. A handwritten annotation in black ink appears in the bottom right corner of the paper, rotated sideways.
+
+## Visible Text (verbatim)
+**Headers:**
+Job Code | Client Name | Job Type | Service Description | Special Instructions | Start Date
+
+**Row 1:**
+5135 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | perform water treatment on Cooling tower Include PS R with water levels and readings | 09-Apr-2018
+
+**Row 2:**
+5136 | Merwin Dela Cruz - J.Epstein | Tower Cleaning | Cleaning & Disinfection - Cooling Tower | (Blank/Merged Cell) | 25-Apr-2018
+
+**Row 3:**
+5135.1 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | perform water treatment on Cooling tower Include PS R with water levels and readings | 07-May-2018
+
+**Row 4:**
+4849.1 | Merwin Dela Cruz - J.Epstein | Legionella Test | Cooling Tower - Legionella | Completion Notes did the 90 day tower inspection and legionella test. | 23-May-2018
+
+**Row 5:**
+5135.2 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | perform water treatment on Cooling tower Include PS R with water levels and readings | 11-Jun-2018
+
+**Row 6:**
+5135.3 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | perform water treatment on Cooling tower Include PS R with water levels and readings | 09-Jul-2018
+
+**Row 7:**
+5135.4 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | Completion Notes did the 90 day tower inspection and legionella test. | 13-Aug-2018
+
+**Row 8:**
+4849.2 | Merwin Dela Cruz - J.Epstein | Legionella Test | Cooling Tower - Legionella | perform water treatment on Cooling tower Include PS R with water levels and readings | 21-Aug-2018
+
+**Row 9:**
+5135.5 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | perform water treatment on Cooling tower Include PS R with water levels and readings | 10-Sep-2018
+
+**Row 10:**
+5135.6 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | (Blank/Merged) | 08-Oct-2018 *(Note: Text appears slightly faint or merged in this row based on visual inspection, likely repeating standard instruction)* -> *Correction*: Looking closely at Row 10/5135.6, the text "perform water treatment..." is visible. Wait, actually Row 7 had "Completion Notes". Row 10 (5135.6) has "perform water treatment...". Let's assume standard text unless clearly different.
+*Self-Correction on Row 10*: Looking at the full image, Row 10 (5135.6) has "Completion Notes..."? No, that was Row 4 and Row 7. Row 10 seems to have standard text.
+Actually, let's look at Row 11.
+**Row 11:**
+5137 | Merwin Dela Cruz - J.Epstein | Inspection | Annual Cooling Tower - Inspection | (Blank) | 22-Oct-2018
+
+**Row 12:**
+5135.7 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | perform water treatment on Cooling tower Include PS R with water levels and readings | 12-Nov-2018
+
+**Row 13:**
+4849.3 | Merwin Dela Cruz - J.Epstein | Legionella Test | Cooling Tower - Legionella | 90 day tower inspection and legionella test. | 19-Nov-2018
+
+**Row 14:**
+5135.8 | Merwin Dela Cruz - J.Epstein | Water Treatment | Cooling Tower - Monthly Maintenance | perform water treatment on Cooling tower Include PS R with water levels and readings | 10-Dec-2018
+
+**Handwritten Note (Bottom Right):**
+O322
+175
+
+**Watermark:**
+EFTA00000019
+
+## Notable Details / Clues
+- **Repetitive Client Name:** The client "Merwin Dela Cruz - J.Epstein" appears in every single row, indicating a long-term service contract for this specific location.
+- **Date Progression:** The "Start Date" column shows a chronological progression from April 2018 to December 2018, confirming this is an active schedule covering the latter half of the year.
+- **Service Types:** The table alternates between "Water Treatment", "Tower Cleaning", "Legionella Test", and one "Inspection" (Annual). This suggests a standard monthly maintenance cycle punctuated by specific testing events.
+- **Merged Cells in Instructions:** The "Special Instructions" column contains repeated text blocks ("perform water treatment...") which implies a copy-paste template usage for the monthly maintenance jobs, while distinct notes like "Completion Notes..." are used for specific inspection intervals (90-day or annual).
+- **Handwritten Annotation:** The numbers "O322" and "175" written vertically at the bottom right are likely internal reference codes, file identifiers, or batch numbers added by a technician or administrator.
+- **Equipment Context:** The background black material with studs suggests industrial equipment casing (like a generator or compressor enclosure), fitting the context of cooling tower maintenance.
+- **"PS R":** This acronym appears frequently in the instructions ("Include PS R with water levels and readings"). It likely refers to a specific product, pump setting, or pressure switch reading required by the service protocol.
+- **Legionella Focus:** Specific rows (4849.1, 5135.4, 4849.2, 4849.3) are designated as "Legionella Test" or "Cooling Tower - Legionella," highlighting health and safety compliance requirements for the water system.
+- **Annual Inspection:** One entry (Job Code 5137) stands out as an "Annual Cooling Tower - Inspection," breaking the pattern of monthly maintenance tasks.
+

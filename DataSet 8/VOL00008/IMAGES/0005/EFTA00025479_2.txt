@@ -1,0 +1,86 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025479.pdf ts=2026-03-16T20:52:44 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email thread, likely viewed within a desktop email client like Microsoft Outlook. The interface is text-heavy with several sections of sender information and names redacted by solid black bars for privacy. The document flows chronologically from bottom to top (standard reply chain format) or represents a single view showing headers and bodies.
+
+At the very top, there is a header block indicating a response email dated Monday, May 4, 2020. Below this, a short acknowledgment reads "Done – thank you!!". A horizontal rule separates this from the previous message in the chain. The previous message, dated May 3, 2020, contains a subject line partially obscured but ending in "Yes Pleas log in & approve".
+
+Further down, there is a forwarded email chain. One section shows a sender address beginning with "etravel services..." followed by a truncated domain name. The body of this forwarded message includes a user query asking if they need to do anything for the voucher. Below that is the source email triggering the thread. This email originates from a system related to "cwtsatotral.com" (likely CWTS Travel).
+
+The core content of the final visible email details a specific business trip. The text explains that a travel voucher is considered late based on customer settings. It requests the user to submit the voucher and mark it as Final if there are no additional expenses. A block of structured data follows, listing a Trip ID (11164814), a redacted traveler name, a destination of Santa Monica, and a purpose related to an "Epstein Investigation - Witness interview." The trip dates listed are December 15-18, 2019. At the bottom, there are instructions for logging in via E2 Solutions within the DOJ (Department of Justice) network or via manual login. A footer note warns that replies to the mailbox are not monitored. A document ID "EFTA00025479" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header Section 1:**
+- Subject: RE: Thank... Yes Pleas log in & approve
+- Date: Mon, 04 May 2020 16:03:37 +0000
+
+**Body Section 1:**
+- Done – thank you!!
+
+**Header Section 2:**
+- Subject: Thanks... Yes Pleas log in & approve
+- Date: May 3, 2020 at 2:41:49 PM EDT
+
+**Blue Text Link/Handle:**
+- [partial email address]@...
+
+**Header Section 3:**
+- Subject: FW: Voucher for Trip 11164814 is late
+
+**Body Section 2:**
+- Do I need to do anything for this voucher? Just checking – thanks!
+
+**Header Section 4:**
+- From: etravel services@cwtsatotral.com... (truncated)
+- Sent: Sunday, May 03, 2020 00:02
+
+**Header Section 5:**
+- Subject: Voucher for Trip 11164814 is late
+
+**Body Section 3:**
+- Dear [Redacted Name],
+- Your travel voucher for the trip below is now late based on your customer settings. Please submit your voucher for this trip and mark it as Final if you have no additional expenses to claim.
+- Trip ID: 11164814
+- Traveler name: [Redacted]
+- Destination: Santa Monica
+- Purpose: R20NYS13444 - Epstein Investigation - Witness interview
+- Trip Dates: 2019-12-15 - 2019-12-18
+- Current status: Authorization Approved
+
+**Login Links:**
+- E2 Single Sign On Login (within DOJ Network Only): https://dojnet.doj.gov/jmd/fs/e2-redirect.html
+- E2 Manual Login (User ID and Password): https://e2.gov.cwtsatotravel.com
+
+**Footer Notes:**
+- Thank you for using E2Solutions. Help and support is available online by selecting the 'Online Help' link.
+- Please note: Replies to this mailbox are not monitored.
+- EFTA00025479 (bottom right corner)
+
+## Notable Details / Clues
+*   **Government Context:** The email domain "cwtsatotravel.com" and the login links containing "doj.net" indicate this correspondence is from the United States Department of Justice (DOJ).
+*   **Sensitive Subject Matter:** The trip purpose explicitly lists "Epstein Investigation - Witness interview." This refers to the Jeffrey Epstein case, indicating high-profile or sensitive law enforcement activity.
+*   **Time Lag:** The travel occurred in mid-December 2019, but the emails regarding the voucher approval are from May 2020 (nearly six months later). This suggests a significant delay in processing reimbursement claims for federal employees.
+*   **Typos/Automated Systems:** The subject line uses "Pleas" instead of "Please," and the domain in the "From" field appears truncated or misspelled ("cwtsatotral.com" vs the correct link below "cwtsatotravel.com"), suggesting an automated system generated the header information.
+*   **System Name:** The footer references "E2Solutions," which is a travel management company often used by large enterprises and government agencies.
+*   **Redaction Patterns:** The black bars consistently cover names and specific email addresses, implying this document was leaked or copied for public viewing where privacy compliance is being maintained for the individuals involved.
+*   **Instructional Tone:** The language is procedural ("Please submit your voucher," "mark it as Final"), typical of automated travel agency confirmations sent to government personnel.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Some E2 email notifications are optional. To manage your email notifications, go to E2 Solutions to change
+your email settings. Click 'Profile' on the task bar and then click the 'Edit Email Notifications' link to manage
+the emails that you receive from us.
+
+Reference ID# V0013
+This e-mail and any attachments may contain confidential and/or proprietary information. If you received this
+e-mail in error, please notify the sender immediately by reply e-mail and delete the e-mail and any attachments;
+any further use of such e-mail or attachments is strictly prohibited.
+
+EFTA00025480
+
+## Structured Fields
+- **Document ID**: EFTA00025480
+- **Reference ID**: V0013
+

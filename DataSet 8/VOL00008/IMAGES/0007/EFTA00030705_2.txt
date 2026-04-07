@@ -1,0 +1,172 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030705.pdf ts=2026-03-18T21:47:58 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+From: "[REDACTED]" (USANYS) <[REDACTED]>
+To: "[REDACTED]" (USANYS) [Contractor] <[REDACTED]>
+Subject: RE: Outstanding requests - update
+Date: Mon, 09 Sep 2019 21:43:38 +0000
+
+We had understood the signed post orders to be individually signed by each officer, but this may be it. We should have
+[REDACTED] confirm though.
+
+---
+
+From: [REDACTED] (USANYS) [Contractor] <[REDACTED]>
+Sent: Monday, September 9, 2019 5:26 PM
+To: [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+I think the file “SHU Training 06-06-19 & Information” may be the post orders. It’s too big to attached so I’ve sent the
+folder path.
+
+\\usa.doj.gov\cloud\nys\StAndrews\Shared\InReEpsteinDeath-2019R01059\Evidence\MCC Regs
+
+---
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Monday, September 9, 2019 5:07 PM
+To: [REDACTED] (USANYS) [Contractor] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+Yes please, thank you.
+
+---
+
+From: [REDACTED] (USANYS) [Contractor] <[REDACTED]>
+Sent: Monday, September 9, 2019 5:05 PM
+To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+Will do. Shall I also add other things that we are missing (prisoner remand forms, running boards, etc.)?
+
+---
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Monday, September 9, 2019 4:55 PM
+To: [REDACTED] (USANYS) [Contractor] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+Thanks for following up on this.
+
+I did not see the signed SHU post orders. They should look like a series of rules and regulations for the post that are
+signed by each officer. They are different from the daily rosters. And we should ask for the daily rosters for the time
+period we are missing.
+
+When you’re ready, could you follow up with [REDACTED] (copying us) on the outstanding items? Thank you.
+
+---
+
+From: [REDACTED] (USANYS) [Contractor] <[REDACTED]>
+Sent: Monday, September 9, 2019 10:56 AM
+```
+
+## Structured Fields
+*   **Date:** Mon, 09 Sep 2019 (Multiple timestamps ranging from 10:56 AM to 21:43)
+*   **Organization/Agency:** USANYS (United States Attorney's Northern District of New York)
+*   **Case ID/Keyword:** InReEpsteinDeath-2019R01059
+*   **File/Folder Name:** SHU Training 06-06-19 & Information, MCC Regs
+*   **Roles mentioned:** Contractor, Officer, Evidence custodian (implied by folder path)
+*   **Locations/Paths:** usa.doj.gov\cloud\nys\StAndrews\Shared\InReEpsteinDeath...
+*   **Document IDs:** EFTA00030705 (Bottom right corner)
+</think>
+
+```markdown
+From: "[REDACTED]" (USANYS) <[REDACTED]>
+To: "[REDACTED]" (USANYS) [Contractor] <[REDACTED]>
+Subject: RE: Outstanding requests - update
+Date: Mon, 09 Sep 2019 21:43:38 +0000
+
+We had understood the signed post orders to be individually signed by each officer, but this may be it. We should have
+[REDACTED] confirm though.
+
+From: [REDACTED] (USANYS) [Contractor] <[REDACTED]>
+Sent: Monday, September 9, 2019 5:26 PM
+To: [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+I think the file “SHU Training 06-06-19 & Information” may be the post orders. It’s too big to attached so I’ve sent the
+folder path.
+
+\\usa.doj.gov\cloud\nys\StAndrews\Shared\InReEpsteinDeath-2019R01059\Evidence\MCC Regs
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Monday, September 9, 2019 5:07 PM
+To: [REDACTED] (USANYS) [Contractor] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+Yes please, thank you.
+
+From: [REDACTED] (USANYS) [Contractor] <[REDACTED]>
+Sent: Monday, September 9, 2019 5:05 PM
+To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+Will do. Shall I also add other things that we are missing (prisoner remand forms, running boards, etc.)?
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Monday, September 9, 2019 4:55 PM
+To: [REDACTED] (USANYS) [Contractor] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Outstanding requests - update
+
+Thanks for following up on this.
+
+I did not see the signed SHU post orders. They should look like a series of rules and regulations for the post that are
+signed by each officer. They are different from the daily rosters. And we should ask for the daily rosters for the time
+period we are missing.
+
+When you’re ready, could you follow up with [REDACTED] (copying us) on the outstanding items? Thank you.
+
+From: [REDACTED] (USANYS) [Contractor] <[REDACTED]>
+Sent: Monday, September 9, 2019 10:56 AM
+```
+
+## Structured Fields
+*   **Date:** Mon, 09 Sep 2019
+*   **Time Range:** 10:56 AM to 21:43 (UTC) / +0000
+*   **Location/Path:** usa.doj.gov\cloud\nys\StAndrews\Shared\InReEpsteinDeath-2019R01059\Evidence\MCC Regs
+*   **Case ID/Keyword:** InReEpsteinDeath-2019R01059
+*   **File Name:** "SHU Training 06-06-19 & Information"
+*   **Agency/Affiliation:** USANYS, Contractor
+*   **Document ID (Watermark/Footer):** EFTA00030705
+*   **Terms/Mentions:** signed post orders, daily rosters, prisoner remand forms, running boards.
+```
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: Outstanding requests - update
+
+I’m working though the outstanding requests, specifically those that we sent [REDACTED] last week.
+
+The [REDACTED] Commissary Reports are in the shared here:
+
+\\usa.doj.gov\cloud\nys\StAndrews\Shared\InReEpsteinDeath-2019R01059\Evidence\Epstein General BOP Records
+
+Additionally, the records for [REDACTED], [REDACTED], and [REDACTED] (no [REDACTED] or [REDACTED]) are here as well (in the same document). However, all they entail is a single truview page and nothing else. The actual receipts are only for Epstein, [REDACTED], and Rugard.
+
+What I’m not sure on is the signed SHU post order review sheets. I have looked through the files and can’t seem to find them anywhere. Albeit I don’t know what they look like but I do think I would have recognized them. I will keep looking.
+
+Lastly, are the post orders for SHU the same as the daily assignment roster? I’ve attached one of them as an example. If so, we are missing several from the time period that we requested (7/1 – 8/10).
+
+I’m going to continue to work through the spreadsheet as well.
+
+[REDACTED]
+Paralegal Specialist
+U.S. Attorney's Office | SDNY
+1 St. Andrew's Plaza
+New York, NY 10007
+Office: [REDACTED]
+Cell: [REDACTED]
+
+EFTA00030706
+
+## Structured Fields
+*   **Location:** New York, NY 10007 (St. Andrew's Plaza)
+*   **Organization:** U.S. Attorney's Office | SDNY
+*   **Role:** Paralegal Specialist
+*   **Case Reference/Path:** InReEpsteinDeath-2019R01059
+*   **Subject Matter:** Epstein General BOP Records, Commissary Reports, SHU post orders
+*   **Document ID:** EFTA00030706
+

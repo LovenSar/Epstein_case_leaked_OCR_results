@@ -1,0 +1,27 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002511.pdf ts=2026-03-05T20:39:49 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a close-up, angled view of a silver-colored metallic chassis, likely a server backplane or rear panel assembly. The surface exhibits a brushed aluminum finish with visible texture and minor smudges. On the left side, there is a white manufacturer label containing identification numbers and barcodes. Adjacent to it on the right is a larger black-bordered label indicating drive bay locations. Along the bottom edge and left vertical edge, multiple circular mounting holes are drilled into the metal; some appear to be threaded inserts or screw holes, while others are open. On the far right edge of the chassis, two silver rivets or fasteners secure the panel to a beige-colored component (likely the rack door or frame). The top portion of the image reveals a glimpse of the grey interior backplane area above the main silver plate. A white alphanumeric string is visible at the very bottom right corner of the image file.
+
+## Visible Text (verbatim)
+- **Left Sticker:** "hp", "Serial NO.", barcode, "MXQ3220187", "Product NO. 668665-001", barcode.
+- **Right Sticker Header:** "Drive Bay ID:" followed by an HP-like icon (two curved lines).
+- **Right Sticker Grid:**
+    - Top Row: 1, 3, 5, 7
+    - Bottom Row: 2, 4, 6, 8
+- **Bottom Right Corner:** "EFTA00002511"
+
+## Notable Details / Clues
+- **Manufacturer Identification:** The presence of the "hp" logo confirms this is an HP (Hewlett-Packard) manufactured component, likely a ProLiant server backplane given the part number style.
+- **Component Numbering:** The "Product NO. 668665-001" indicates a specific spare part or module SKU rather than the full system model number.
+- **Drive Configuration:** The drive bay ID sticker reveals a capacity for eight bays, arranged in a grid pattern typical of 3.5-inch hard drive installations (likely four columns by two rows vertically).
+- **Mounting Pattern:** The holes on the left appear to be part of a standard rail-mounting or screw-hole pattern used to secure the backplane into a chassis.
+- **Part Number Context:** The specific Product Number (668665) combined with the Drive Bay ID sticker suggests this is an internal expansion board or a drive cage replacement unit.
+- **Inventory Tag:** The text "EFTA00002511" at the bottom right appears to be a cataloging or inventory reference number added to the image, possibly for auction or parts listing purposes.
+- **Condition of Metal:** The metal surface shows signs of use with light scratches and oxidation on the screws/fasteners, indicating it is not brand new.
+- **Rivets:** The two rivets on the right edge suggest this panel is hinged or removable, attached to a fixed frame component.
+- **Orientation:** The Drive Bay ID sticker is oriented vertically relative to the image frame but reads horizontally when aligned with the chassis's intended upright position (though viewed at an angle here).
+- **Barcode Types:** The stickers utilize vertical omnidirectional barcodes, which are standard for inventory scanning in data centers where space is limited.
+

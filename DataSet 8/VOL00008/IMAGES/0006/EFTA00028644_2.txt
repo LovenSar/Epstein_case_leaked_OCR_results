@@ -1,0 +1,114 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028644.pdf ts=2026-03-18T00:35:05 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital email inbox containing a forwarded message thread related to a federal court case. The interface features a standard white background with black text.
+
+**Top Section (Forwarding Email):**
+*   The top portion shows the header of a recently received email. Fields for "From," "To," and "Bcc" are visible but obscured by large black rectangular bars, hiding the identities of the sender and recipient.
+*   Below these fields is the subject line starting with "FW:" (Forward), indicating this is a forwarded message. It references case number 21-770, United States v. Maxwell, and a subject about a filed motion for bail.
+*   The date stamp reads "Tue, 18 May 2021".
+*   An attachment named "Maxwell_renewed_bail_motion.pdf" is listed at the bottom of this header block.
+
+**Body Paragraph (Top Email):**
+*   A paragraph of text follows, written in a standard sans-serif font. It discusses legal strategy regarding bail appeals. The sender questions why Ghislaine Maxwell filed a "renewed motion" in the Circuit Court after a prior appeal was rejected, rather than following a specific procedure.
+*   The text speculates that filing a new notice of appeal followed by the same motion would be an alternative route.
+
+**Middle Section (Forwarded Email Header):**
+*   A horizontal line separates the current email from the forwarded message below it.
+*   This header reveals the original sender as "cmecf@ca2.uscourts.gov" (Central Mail Entry Communications Facility).
+*   The original email was sent on "Monday, May 17, 2021".
+*   The subject line matches the top email regarding the bail motion.
+
+**Bottom Section (Court Notice Content):**
+*   A bold disclaimer note addresses "PUBLIC ACCESS USERS," explaining policy regarding free electronic copies of documents for attorneys and parties involved in cases.
+*   Centered text identifies the court as the "Court of Appeals, 2nd Circuit".
+*   The document is a "Notice of Docket Activity."
+*   It confirms a transaction filed on 05/17/2021.
+*   Case details are listed: Case Name (United States of America v. Maxwell) and Case Number (21-770 in blue hyperlinked text).
+*   A "Docket Text" section describes the specific filing: a MOTION for bail on behalf of Appellant Ghislaine Maxwell, filed via CM/ECF.
+*   The final area is labeled "Notice will be electronically mailed to:" followed by a massive black rectangle obscuring the email address used for service.
+
+## Visible Text (verbatim)
+
+**Top Email Header:**
+From: [Redacted]
+To: [Redacted]
+Bcc: [Redacted]
+Subject: FW: 21-770 United States of America v. Maxwell "Motion FILED for bail"
+Date: Tue, 18 May 2021 05:14:20 +0000
+Attachments: Maxwell_renewed_bail_motion.pdf
+
+**Body:**
+After the Circuit rejected her prior bail appeal, Maxwell filed the attached “renewed motion” in the Circuit in the same docket. Can anyone think of a reason she can’t do that? Even if it’s not procedurally proper, it probably doesn’t get us much, as she could just file a new notice of appeal from AJN’s latest order and then file the same motion in the Circuit...
+
+**Forwarded Email Header:**
+From: cmecf@ca2.uscourts.gov <cmecf@ca2.uscourts.gov>
+Sent: Monday, May 17, 2021 4:50 PM
+To [Redacted]
+Subject: 21-770 United States of America v. Maxwell "Motion FILED for bail"
+
+**Forwarded Email Body:**
+***NOTE TO PUBLIC ACCESS USERS*** Judicial Conference of the United States policy permits attorneys of record and parties in a case (including pro se litigants) to receive one free electronic copy of all documents filed electronically, if receipt is required by law or directed by the filer. PACER access fees apply to all other users. To avoid later charges, download a copy of each document during this first viewing.
+
+Court of Appeals, 2nd Circuit
+Notice of Docket Activity
+
+The following transaction was filed on 05/17/2021
+Case Name: United States of America v. Maxwell
+Case Number: 21-770
+Document(s): Document(s)
+
+Docket Text:
+MOTION, for bail, on behalf of Appellant Ghislaine Maxwell in 21-770, 21-58, FILED. Service date 05/17/2021 by CM/ECF. [3102450] [21-770, 21-58]
+
+Notice will be electronically mailed to:
+[Redacted Box]
+EFTA00028644 (Bottom right corner)
+
+## Notable Details / Clues
+*   **Case Identification:** The document pertains to the high-profile federal case *United States of America v. Maxwell*, specifically involving Ghislaine Maxwell.
+*   **Court Jurisdiction:** The text explicitly identifies the "Court of Appeals, 2nd Circuit" (based in New York), which has jurisdiction over this specific criminal appeal.
+*   **Timeline Discrepancy/Alignment:** The automated court email is dated May 17, 2021, while the forwarding email header suggests receipt on May 18, 2021 (around 5:14 AM UTC), indicating a near-immediate processing or retrieval of the filing notice.
+*   **Legal Strategy Discussion:** The body text suggests an ongoing debate or consultation regarding procedural rules for filing bail motions ("renewed motion" vs. "new notice of appeal"). This implies the sender is part of Maxwell's defense legal team or assisting her pro se representation.
+*   **Redaction Extent:** Significant information is scrubbed from public view (names and email addresses), but the context remains clear enough to identify the parties involved (Maxwell, US Government).
+*   **Technical Metadata:** The email uses CM/ECF (Case Management/Electronic Case Filing) systems, standard for federal courts. The reference "[3102450]" is likely a docket event number or internal ID.
+*   **Acronym Reference:** "AJN" likely refers to Assistant Judge Newman, a specific judge in the 2nd Circuit known for handling certain criminal appeals, providing a clue about the specific procedural history.
+*   **Attachment Context:** The attachment mentioned is a PDF of a "renewed bail motion," indicating an active attempt to change bail status (likely to pre-trial or trial release).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Notice will be stored in the notice cart for:
+
+Ms. Khadijah Y Young, Deputy Clerk
+Quality Control 1
+
+The following document(s) are associated with this transaction:
+**Document Description:** Motion FILED
+**Original Filename:** Motion for Reconsideration4.pdf
+**Electronic Document Stamp:**
+[STAMP acecfStamp_ID=1161632333 [Date=05/17/2021] [FileNumber=3102450-0]
+[af9aab28891e80a21dee810d54129a886570637c738ee09dc616ff56110a0f1aef0897141dbcec842505547dc49999
+11dd5d8fc8da383fbe04f509071ec0dad8]]
+
+**Document Description:** Supporting Document
+**Original Filename:** Appendix to the Renewed Motion for Reconsideration4.pdf
+**Electronic Document Stamp:**
+[STAMP acecfStamp_ID=1161632333 [Date=05/17/2021] [FileNumber=3102450-1]
+[bfd5d5123fc8fc9fca32aec0dbde6bcfb337f880c0f0bde611f6521f7e4147a1afa4cae33bb83a940a70a8bc2c59239
+2b151424f9d6cadb6b194593aaaa12ee]]
+
+EFTA00028645
+
+## Structured Fields
+- **Date:** 05/17/2021
+- **File Number (Case ID):** 3102450-0, 3102450-1
+- **Recipient Name:** Ms. Khadijah Y Young
+- **Role:** Deputy Clerk
+- **Department/Location:** Quality Control 1
+- **Document 1 Description:** Motion FILED
+- **Document 1 Filename:** Motion for Reconsideration4.pdf
+- **Document 2 Description:** Supporting Document
+- **Document 2 Filename:** Appendix to the Renewed Motion for Reconsideration4.pdf
+

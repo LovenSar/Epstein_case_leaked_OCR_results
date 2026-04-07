@@ -1,0 +1,86 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020685.pdf ts=2026-03-14T16:27:36 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED]" >
+To: "Moyne, Parvin" <[REDACTED]>, [REDACTED], [REDACTED]
+Cc: Andrew Stemmer <[REDACTED]>, "Moyer, Thomas" <[REDACTED]>, "DiPiero, Joseph" <[REDACTED]>
+Subject: RE:
+Date: Thu, 05 Sep 2019 21:59:03 +0000
+
+Received, thanks. And yes, if you could please send the other payments you’ve identified to those individuals and/or entities, as well as any made to "[REDACTED]" or "[REDACTED]" (in addition to "[REDACTED]") that would be very helpful. We’re working through the returns but the volume is obviously significant.
+
+thanks again,
+[REDACTED]
+
+From: Moyne, Parvin <[REDACTED]>
+Sent: Wednesday, September 04, 2019 22:31
+To: [REDACTED]
+Cc: Andrew Stemmer <[REDACTED]>; Moyer, Thomas <[REDACTED]>; DiPiero, Joseph <[REDACTED]>
+Subject: [REDACTED]
+
+The wire transfer records are located at DB-SDNY-0000478. Here is the relevant information for the requested transfers:
+
+| DATE | RECIPIENT | AMOUNT | BANK | ROUTING # | ACCOUNT # | WIRE DETAILS / INSTRUCTIONS |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1/28/2015 | [REDACTED] | $50,000 | JP Morgan | 021000021 | [REDACTED] | N/A |
+| 4/22/2015 | [REDACTED] | $50,000 | JP Morgan | 021000021 | [REDACTED] | N/A |
+| 9/24/2015 | [REDACTED] | $23,625 | JP Morgan | 021000021 | [REDACTED] | N/A |
+| 11/30/2018 | Aviloop LLC | $100,000 | TD Bank | 011400071 | [EMPTY] | N/A |
+| 12/3/2018 | [REDACTED] | $250,000 | Bank of America | 026009593 | [REDACTED] | N/A |
+
+We have identified other payments to the same individuals and entities, which we can also send if helpful.
+
+Best,
+Parvin
+
+------- Original message -------
+From: "[REDACTED]" >
+
+EFTA00020685
+
+## Structured Fields
+- **Dates:** Thu, 05 Sep 2019; Wednesday, September 04, 2019; 1/28/2015; 4/22/2015; 9/24/2015; 11/30/2018; 12/3/2018
+- **Document ID / Record Location:** DB-SDNY-0000478
+- **Case/File ID (Footer):** EFTA00020685
+- **Names:** Moyne, Parvin; Andrew Stemmer; Moyer, Thomas; DiPiero, Joseph; Aviloop LLC
+- **Organizations/Banks:** JP Morgan; TD Bank; Bank of America
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 9/4/19 8:52 PM (GMT-05:00)
+To: "Moyne, Parvin" <[REDACTED]>, Andrew Stemmer <[REDACTED]>
+Cc: "Moyer, Thomas" <[REDACTED]>, "[REDACTED]" <[REDACTED]>
+"[REDACTED]" <[REDACTED]>
+Subject: RE: SDNY production, follow up
+
+**EXTERNAL Email**
+
+Parvin, Andrew,
+
+In connection with part of Deutsche Bank’s production, we have a follow-up request regarding certain wire transfer records, specifically from the Butterfly Trust Account, as reflected in the attached. We’re looking to get the wire detail information for case numbers:
+
+2021929, 12/03/18, $250,000, to [REDACTED]
+2021539, 11/30/18, $100,000, to Aviloop LLC
+1385874, 04/22/15, $50,000, to [REDACTED]
+1339985, 01/28/15, $50,000, to [REDACTED]
+1462811, 09/24/15, $23,625.44, to [REDACTED]
+
+In particular, we’re requesting the receiving bank name and account number information for each of the above transactions, as well as any other associated details. Could you please provide that information? Or if you already have, could you please point us in the right direction—I’ve looked through the production index to try to track it down but wasn’t successful.
+
+thanks,
+[REDACTED].
+
+The information contained in this e-mail message is intended only for the personal and confidential use of the recipient(s) named above. If you have received this communication in error, please notify us immediately by e-mail, and delete the original message.
+
+EFTA00020686
+
+## Structured Fields
+- **Date:** 9/4/19
+- **Subject:** RE: SDNY production, follow up
+- **Recipients:** Moyne, Parvin; Andrew Stemmer; Moyer, Thomas
+- **Organization(s):** Deutsche Bank; Butterfly Trust Account; Aviloop LLC
+- **Document ID:** EFTA00020686
+- **Transaction IDs/Case Numbers:** 2021929, 2021539, 1385874, 1339985, 1462811
+- **Amounts:** $250,000; $100,000; $50,000; $50,000; $23,625.44
+

@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008485.pdf ts=2026-03-09T07:27:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a standard yellow FBI evidence envelope form, identified as a "Chain of Custody-ELSUR Evidence Envelope" (Form FD-504b), photographed flat against a white background. The document is dominated by typewritten headers and form fields, with handwritten entries in blue or black ink filling the details.
+*   **Header:** At the very top, the text reads "Chain of Custody-ELSUR Evidence Envelope" followed by "FD-504b (Rev. 8-17-01)". A handwritten number "75" is stamped in blue ink in the top right corner.
+*   **Stickers:** Prominent yellow tape reading "EVIDENCE" runs vertically along the left edge and bottom right corner. The word "GENERAL BUREAU OF INVESTIGATION" is partially visible on the vertical tape strip. A white barcode sticker is affixed to the bottom right corner with the number "E02782873".
+*   **Form Layout:** The form is divided into sections for Enclosure/Medium type, Case File information, Intercept authorization details (Court vs Consensual), specific device used, Date/Place/Time of intercept, list of intercepted parties, and a chronological log at the bottom titled "Accepted Custody" and "Released Custody".
+*   **Redactions:** Several fields containing names have been blacked out with digital redaction bars, specifically under "Case Agt:", "Signature:" columns in the custody log, and partially on the interceptee names.
+
+## Visible Text (verbatim)
+**Top Section:**
+*   Enclosure: [X] Original [ ] Duplicate [ ] Enhanced Original
+*   Medium: [ ] Magnetic Tape [ ] Computer Disk [ ] Printed Material
+*   Case File#: 72-MM-113377
+*   ID#: ID-2
+*   Case Agt.: [Redacted]
+*   Tape/Disk#: [Blank]
+
+**Intercept Authorization:**
+*   [ ] Court Authorized Intercept - Source/Symbol#:
+*   [X] Consensual Monitoring Intercept - CM# (if assigned): CM# 5549
+*   [ ] Telephonic (TCM) [X] Nontelephonic (NTCM)
+*   If NTMC Specify Device Used: CCTV
+*   [ ] Recording of an Interview
+*   [ ] Volunteered/Subpoenaed Medium - Not FBI ELSUR
+*   [ ] Other Type of Recording/Interception, Specify:
+
+**Dates and Locations:**
+*   Intercept Date: 11/03/09
+*   Place: Boca Raton, FL
+*   Data Transferred for Permanent Storage - Date: 11/03/09
+*   Time: 4:40pm
+*   Consensual: [X] List Interceptees Below [ ] Court Authorized: Enter " See Log" Below
+
+**Interceptee List:**
+*   Paul Bruno / Paul Santino
+*   Alfredo Rodriguez
+
+**Custody Log (Bottom Section):**
+*   **Row 1 (Left/Accepted):** Signature: [Redacted] Date: 11/03/09 Reason: Evidence
+*   **Row 1 (Right/Released):** Signature: [Redacted] Date: 12/1/09 Time: 4pm Reason: Storage
+*   **Row 2 (Left/Accepted):** Signature: [Redacted] Date: 12/3/09 Time: 7:30pm Reason: Evidence copy
+*   **Row 2 (Right/Released):** Signature: [Redacted] Date: 12/3/09 Time: 7:31pm Reason: Storage
+*   **Row 3 (Left/Accepted):** Signature: [Redacted] Date: 1/17/10 Reason: Duplication
+*   **Row 3 (Right/Released):** Signature: [Redacted] Date: 1/17/10 Reason: Storage
+*   **Row 4:** (Blank signatures, Redacted names)
+
+## Notable Details / Clues
+*   **Nature of Evidence:** The document specifies the recording device used was "CCTV" (Closed-Circuit Television), and the intercept type is "Consensual Monitoring Intercept."
+*   **Location:** The surveillance took place in Boca Raton, Florida.
+*   **Chronology:** The custody log tracks the movement of this specific evidence (ID-2) over a period spanning from November 3, 2009, to approximately January 17, 2010.
+*   **Specific Individuals:** Three individuals are listed as interceptees or subjects: Paul Bruno, Paul Santino, and Alfredo Rodriguez.
+*   **Chain of Custody Flow:** The document shows a rapid turnover in the first few entries. On Nov 3rd, evidence was entered ("Evidence"). On Dec 1st, it was moved to "Storage". By Dec 3rd, a copy was made ("Evidence copy") and an original/stored version remained.
+*   **Redactions:** The identity of the Case Agent and the specific agents accepting/releasing custody are withheld for privacy/security.
+*   **Form ID Number:** A barcode at the bottom right has the alphanumeric identifier "E02782873", which is likely used for inventory tracking within the FBI system.
+*   **Handwriting Style:** The handwriting varies between print (dates, times) and cursive (names), with some entries like "Paul Bruno / Paul Santino" showing a slash separation indicating potentially two people associated in one entry or cross-referencing.
+

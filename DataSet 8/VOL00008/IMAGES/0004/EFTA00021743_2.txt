@@ -1,0 +1,63 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021743.pdf ts=2026-03-15T02:55:29 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, heavily redacted with black bars to obscure personal information. The interface appears to be a standard desktop or mobile email client (likely Microsoft Outlook given the formatting). The thread consists of three distinct messages arranged chronologically from bottom to top.
+
+At the very top, the header fields for the most recent email are visible, showing the Subject "Re: disclosure update" and a timestamp of July 31, 2019, at 21:05:40 (roughly 9:05 PM). The body text begins with a redacted name or initial followed by an apology stating, "so sorry, we are stuck in transit." It requests to be called back when the sender returns to their desk within half an hour. A horizontal line separates this new message from the previous one.
+
+The middle section quotes a previous email sent from an iPhone at 2:00 PM. Below that intro is another redacted block. Further down, a second quoted message (sent at 12:20 PM) suggests moving a meeting to 5:00 PM due to a continuing meeting until 4:30 PM, or sticking with 4:30 if rescheduling is needed. The bottom-most visible email, sent at 11:18 AM on the same date, proposes the initial time of 4:30 PM.
+
+The lower half of the document is obscured by massive black rectangular redaction bars covering the sender information, recipient lists, and what appears to be signature blocks or attachments. The entire sequence revolves around scheduling a professional call or meeting subject to "disclosure update" information.
+
+## Visible Text (verbatim)
+*   **Header:** "From:" [Redacted]", To:", Cc: [Redacted strings with parentheses]
+*   **Subject/Date:** Subject: Re: disclosure update Date: Wed, 31 Jul 2019 21:05:40 +0000
+*   **Message Body 1:** "[Black Bar] so sorry, we are stuck in transit. Can I call you when I am back at my desk? It should be within the next half hour. Apologies. Sent from my iPhone"
+*   **Quote Header:** "On Jul 31, 2019, at 2:00 PM," [Redacted] "wrote:"
+*   **Message Body 2:** "Yes—5pm works. Call my cell:" [Redacted number]"
+*   **Header 2:** "From:" [Redacted], Sent: Wednesday, July 31, 2019 12:20 PM To:", Cc:"
+*   **Subject 2:** Subject: RE: disclosure update
+*   **Message Body 3:** "Thanks—it’s possible we’ll still be in a meeting at 4:30. Would it be possible to speak at 5 instead? If not, we can plan for 4:30 and let you know if we need to reschedule." Thanks," [Redacted]
+*   **Header 3:** "From:" [Redacted], Sent: Wednesday, July 31, 2019 11:18 AM To:", Cc:"
+*   **Subject 3:** Subject: RE: disclosure update
+*   **Message Body 4:** "Yes—would 4:30pm today work?"
+
+## Notable Details / Clues
+*   **Timeline Reconstruction:** The thread allows for precise reconstruction of the day's events. The conversation starts at roughly 11:18 AM (proposing 4:30 PM), continues at 12:20 PM (suggesting 5:00 PM as an alternative), then a second update comes at 2:00 PM, and finally, the latest message arrives at roughly 9:05 PM explaining they are "stuck in transit."
+*   **Meeting Logistics:** The text reveals a logistical conflict regarding a scheduled meeting time. One party is stuck in traffic/transit late into the evening. Another party had a conflicting meeting ending around 4:30 PM.
+*   **Communication Channels:** The first message explicitly states it was "Sent from my iPhone," and offers to be called via "cell," indicating mobile availability.
+*   **Redaction Patterns:** The redactions are consistent, covering email addresses entirely. In the bottom section, a massive black box covers the signature and potentially attachments or further text of the earliest email.
+*   **File Identifier:** At the bottom right corner, there is a document control number "EFTA0021743," suggesting this image was part of an official investigation or formal report (possibly related to immigration/government given the EFTA code).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+Sent: Tuesday, July 30, 2019 6:20 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: disclosure update
+
+Hi [REDACTED]
+
+Do you have a few minutes for a quick call tomorrow afternoon? We are making a disclosure that relates to your client in connection with our discovery obligations to Epstein’s counsel, and we wanted to briefly make you aware of it.
+
+Thanks,
+
+[REDACTED]
+
+Southern District of New York
+One Saint Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+EFTA00021744
+
+## Structured Fields
+*   **Date:** Tuesday, July 30, 2019
+*   **Subject:** disclosure update
+*   **Location:** Southern District of New York, One Saint Andrew's Plaza, New York, NY 10007
+*   **Organizations/Entities mentioned:** Epstein’s counsel
+*   **Document ID:** EFTA00021744
+

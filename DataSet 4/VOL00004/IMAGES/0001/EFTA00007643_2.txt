@@ -1,0 +1,223 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007643.pdf ts=2026-03-08T23:43:08 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+
+3 microcassette tapes
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+
+## Structured Fields
+- **Date:** July 27, 2020
+- **Document ID:** EFTA00007643
+- **Organization:** DocLab
+- **Description:** 3 microcassette tapes
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+15 / 16 / 17
+
+## Structured Fields
+- Date: 15/16/17
+- Doc ID: EFTA00007644
+```
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Town of Palm Beach
+Police Department
+
+Town of Palm Beach Police Florida
+POLICE
+EVIDENCE
+CASE #05-368 PROPERTY #05-929
+CONTENTS ~128141
+ns
+
+| Item | Quantity | Description |
+| :--- | :--- | :--- |
+| 2 | 1 | micro / [REDACTED] |
+| 3 | 1 | micro / [REDACTED] - Station |
+| 4 | 1 | micro / [REDACTED] - Home |
+
+Suspect: Epstein, Jeff
+Officer: Det . [REDACTED] Date 10-04-05
+Lab #:
+KL-231
+
+## Structured Fields
+*   **Date:** 10-04-05
+*   **Case #:** 05-368
+*   **Property #:** 05-929
+*   **Location/Organization:** Town of Palm Beach Police Department
+*   **Suspect:** Epstein, Jeff
+*   **Document ID (Internal):** KL-231
+*   **Contents ID:** ~128141
+*   **Batch Note:** # 2 of 2
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+SONY
+MICROCASSETTE
+05-27-90 (handwritten on top left)
+MC-90
+A
+1600 (handwritten on bottom right label area)
+
+MICROCASSETTE
+SONY
+[ ] MEETING [ ] MEMO [ ] OTHERS ( )
+A:
+4 (large handwritten mark in middle)
+B:
+2-401-053-11 (top strip text)
+
+## Structured Fields
+- **Cassette Model:** MC-90
+- **Handwritten Date (Cassette):** 05-27-90 (approximate)
+- **Handwritten Time/Page (Cassette Label):** [ILLEGIBLE] (resembles "1600")
+- **Label Part Number:** 2-401-053-11
+- **Usage Type Checkboxes:** MEETING, MEMO, OTHERS
+- **Side A:** Marked with checkboxes and "[ ]".
+- **Side B:** Marked with "B:".
+- **Central Handwriting:** Large mark resembling a cross or "4".
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Made in Mexico
+MICROCASSETTE
+SONY
+MC-90
+B
+title
+## NOTES
+Break safety tabs off to prevent accidental erasure.
+Avoid storing near magnets or in places that are wet, hot, sunny or dusty
+Safety tab (誤消去防止ツメ)
+ご注意
+カセット側面のツメ(上图)は誤消去防止用です。
+このツメを折ると、重要な録音を誤って消してしまう事があります。
+保存の際は、高温多湿、強磁界、直射日光、カビの発生しやすい場所を避けてください。
+ソニー株式会社 〒141東京都品川区北品川6-7-35
+お問い合わせ先：お客様ご相談センター03(5448)3311
+
+## Structured Fields
+*   **Organization:** SONY (ソニー株式会社)
+*   **Product ID:** MC-90
+*   **Address:** 〒141東京都品川区北品川6-7-35 (Tokyo, Minato-ku / Kita-Shinagawa 6-7-35)
+*   **Contact Center:** Customer Consultation Center (お客様ご相談センター)
+*   **Phone:** 03(5448)3311
+*   **Document ID:** EFTA00007647
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Sony Microcassette Label
+------------------------------
+[handwritten note]: 05/... [scribbles]
+SONY
+MC-90
+A
+title
+DRIVE TO START
+
+Sony Insert Sleeve / Label Card
+-------------------------------
+3
+B:
+A:
+[ ] MEETING [ ] MEMO [ ] OTHERS (
+SONY MICROCASSETTE
+[red bar text: SONY MICROCASSETTE]
+
+## Structured Fields
+- **Organization:** SONY
+- **Doc IDs:** EFTA00007648
+- **Date:** 05/... (partially illegible date on top of cassette label)
+- **Model:** MC-90 Microcassette
+- **Handwritten Content:** "DRIVE TO START", "3"
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Made in Mexico
+MICROCASSETTE >
+SONY
+B
+MC-90
+title
+
+NOTES
+● Break safety tabs off to prevent accidental erasure.
+● Avoid storing near magnets or in places that are wet, hot, sunny or dusty
+
+Safety tab
+
+ご注意
+● カセット側面のツメ(上図)は誤消去防止用です。
+このツメを折ると、重要な録音を誤って消してしまい**ます**。
+● 保存の際は、高温多湿、強磁界、直射日光、カビ
+の発生しやすい場所を避けてください。
+● ソニー株式会社 〒141東京都品川区北品川6-7-35
+お問い合わせ先：お客様ご相談センター03(5448)3311
+
+## Structured Fields
+*   **Model:** MC-90
+*   **Organization:** Sony Corporation (ソニー株式会社), Customer Consultation Center (お客様ご相談センター)
+*   **Location:** Tokyo, Minato-ku / Kita-Shinagawa 6-7-35 (品川区北品川6-7-35)
+*   **Phone:** 03(5448)3311
+*   **Case ID/Doc ID:** EFTA00007649
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[scribbles] SONY A
+MC-90
+title [REDACTED] INT.
+
+2-461-050-11
+#2
+B:
+A:
+[ ] MEETING [ ] MEMO [ ] OTHERS ( )
+MICROCASSETTE SONY
+
+## Structured Fields
+*   **Organization:** SONY
+*   **Item ID:** MC-90
+*   **Part Number:** 2-461-050-11
+*   **Handwritten Note:** #2, INT.
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Made in Mexico
+SONY
+MICROCASSETTE B
+MC-90
+title
+
+NOTES
+● Break safety tabs off to prevent accidental erasure.
+● Avoid storing near magnets or in places that are wet, hot, sunny or dusty
+Safety tab
+誤消去防止ツメ
+
+ご注意
+●カセット側面のツメ（上図）は誤消去防止用です。
+このツメを折ると、重要な録音を誤って消してし
+まう事があります。
+●保存の際は、高温多湿、強磁界、直射日光、カビ
+の発生しやすい場所を避けてください。
+●ソニー株式会社 〒141東京都品川区北品川6-7-35
+お問い合わせ先：お客様ご相談センター03(5448)3311
+
+## Structured Fields
+*   **Organization:** Sony Corporation (ソニー株式会社)
+*   **Location:** 1-4-1 Kita-Shinagawa, Shinagawa-ku, Tokyo 141 (〒141東京都品川区北品川6-7-35 - Note: The zip code appears to be missing or formatted as '141', usually it's '141-0021' but I will transcribe exactly as seen: 141)
+*   **Contact:** Customer Consultation Center (お客様ご相談センター)
+*   **Phone Number:** 03(5448)3311
+*   **Doc ID:** EFTA00007651
+

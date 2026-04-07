@@ -1,0 +1,2802 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007893.pdf ts=2026-03-09T01:56:34 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+023875
+Town of Palm Beach
+Police Department
+POLICE
+EVIDENCE
+CASE # 05-368 PROPERTY # 06-24
+                         129532
+CONTENTS
+Item | Quantity | Description
+1    | 1        | green folder
+Suspect: Epstein, Jeff
+Officer: Det. [REDACTED] Date: 01-06-05
+Lab #:
+
+KL-231
+
+1 B 8
+12
+```
+
+## Structured Fields
+- **Organization:** Town of Palm Beach Police Department
+- **Document Type:** EVIDENCE
+- **Case #**: 05-368
+- **Property #**: 06-24 / 129532
+- **Suspect:** Epstein, Jeff
+- **Officer:** Det. [REDACTED]
+- **Date:** 01-06-05
+- **Item Description:** green folder
+- **Quantity:** 1
+- **Document ID (Footer):** EFTA00007893
+- **Form ID:** KL-231
+- **Barcode Number:** 023875
+</think>
+
+```markdown
+023875
+Town of Palm Beach
+Police Department
+POLICE
+EVIDENCE
+CASE # 05-368 PROPERTY # 06-24
+                         129532
+CONTENTS
+Item | Quantity | Description
+1    | 1        | green folder
+Suspect: Epstein, Jeff
+Officer: Det. [REDACTED] Date: 01-06-05
+Lab #:
+
+KL-231
+
+1 B 8
+12
+```
+## Structured Fields
+- **Organization:** Town of Palm Beach Police Department
+- **Document Type:** EVIDENCE
+- **Case Number:** 05-368
+- **Property Number:** 06-24 (crossed out) / 129532
+- **Date:** 01-06-05
+- **Suspect Name:** Epstein, Jeff
+- **Officer Initials/Rank:** Det.
+- **Form ID:** KL-231
+- **Item Description:** green folder
+- **Quantity:** 1
+- **Footer Reference:** EFTA00007893
+- **Barcode Data:** 023875
+- **Handwritten Notes:** 1 B 8, 12
+```
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED] [REDACTED]
+
+908 JE 727
+909 JE 6-II
+
+My Phone [REDACTED]
+Sister Phone [REDACTED]
+P.B. House [REDACTED]
+E-Mail [REDACTED]
+
+Office Depot
+[Logo]
+
+EFTA00007894
+
+## Structured Fields
+*   **Document ID:** EFTA00007894
+*   **Organization:** Office Depot
+*   **Handwritten Codes/Numbers:** 908 JE 727, 909 JE 6-II
+*   **Contact Labels (Redacted):** My Phone, Sister Phone, P.B. House, E-Mail
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+o G. Maxwell’s Mercedes key needs a new battery. [Checkmark]
+    o Telephone in G. Maxwell’s bathroom has not been speed dial 1 programmed. Have ETC come to program that. [Checkmark]
+o The Green guest bedroom needs a phone. (GM to send from NY)
+o
+o The phone by the couch in the upstairs hallway needs to be replaced.
+(GM to send phone from NY) [Checkmark]
+o The bike shed’s floor needs to be repainted; paint either in a grey or black. [Target symbol/Checkmark]
+o The ground behind the cabana needs to be tiled. [Target symbol/Checkmark]
+o G. Maxwell’s office needs wall paper. [Circle with dot]
+o AA batteries are need. Other sizes of batteries may also need to be stocked. Reminder always check stock of these essential items
+o Buy & keep stocked English/Danish butter. – it can be bought from C’est si bon
+o Electrical switch plate missing in G. Maxwell’s bathroom. [Checkmark]
+o The leak in the pantry needs to be fixed. (Speak to [REDACTED] re best way forward) [Checkmark]
+o Printing paper is low. Purchase more plain paper [Checkmark]
+o Uni-ball pen stock is low. Purchase more. *Portholes* [Checkmark]
+o [REDACTED] coming for maintenance a/c Wed + Nendo Wallpaper [Cross]
+o Buy more plain small sized envelopes [Checkmark]
+
+## Structured Fields
+- **Names:** G. Maxwell, GM (General Manager), ETC
+- **Organizations/Brands:** Mercedes, Uni-ball, C’est si bon
+- **Locations:** NY (New York), Green guest bedroom, upstairs hallway, bike shed, cabana, G. Maxwell’s office, bathroom, pantry, cabana ground
+- **Doc IDs:** EFTA00007895
+- **Items:** Key, battery, telephone, phone, wallpaper, AA batteries, butter, electrical switch plate, printing paper, Uni-ball pen, plain small sized envelopes, maintenance (a/c)
+- **Dates:** Wed (Wednesday)
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+o Stationary needs to be stocked in guest bedrooms with pens. [/]
+(o) CDs & CD cases are to be put away. [/]
+	o Keep pencils sharpened. [/]
+* (o) Hang the picture in the Master bedroom corridor [/]
+(o) Check the tire pressures on all the bikes and pump up as needed
+	o Lock Ms Maxwell's closet
+* (o) [crossed out] Buy Microwave [/]
+	. Buy Hot water bags
+* [crossed out] Light bulb x [illegible] J.E. bathroom, Staff has kitchen, etc
+* [crossed out] Sand (levelling 12 bags)
+* [crossed out] Jet ski measurements -> on Walter's Shipper
+* [crossed out] Port [Wednesday?] (by [REDACTED] Worth Bistro)
+* Sears [/]
+* Home Depot [/]
+CM - Gates [/]
+Col - Storage USA [/]
+
+## Structured Fields
+- **Names/People:** Ms Maxwell, Walters (implied from Shipper?), Gates, Col.
+- **Organizations/Vendors:** Sears, Home Depot, Worth Bistro, Storage USA.
+- **Document ID:** EFTA00007896
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+o G. Maxwell’s Mercedes key needs a new battery. ✓
+o Telephone in G. Maxwell’s bathroom has not been speed dial I programmed. Have ETC come to program that. ✓
+
+o The Green guest bedroom needs a phone. (GM to send from NY)
+✓
+o The phone by the couch in the upstairs hallway needs to be replaced.
+(GM to send phone from NY)
+
+o The bike shed’s floor needs to be repainted; paint either in a grey or black. ✓
+
+o The ground behind the cabana needs to be tiled.
+
+● o G. Maxwell’s office needs wall paper.
+
+o AA batteries are need. Other sizes of batteries may also need to be stocked. Reminder always check stock of these essential items
+✓
+o Buy & keep stocked English/Danish butter. – it can be bought from C’est
+si bon
+✓
+o Electrical switch plate missing in G. Maxwell’s bathroom. ✓
+
+o The leak in the pantry needs to be fixed. (Speak to [REDACTED] re best way forward)
+
+o Printing paper is low. Purchase more plain paper.
+
+o Uni-ball pen stock is low. Purchase more.
+Portholes
+✓
+o [REDACTED] coming for maintenance a/c Wed
+Nando Wallpaper
+o Buy more plain small sized envelopes. ✓
+
+## Structured Fields
+*   **Names:** G. Maxwell, ETC, GM (G. Maxwell)
+*   **Organizations/Locations:** NY, C’est si bon (butter brand), [REDACTED] (person/dept)
+*   **Doc ID:** EFTA00007897
+*   **Handwritten Notes/Annotations:** Portholes, Nando Wallpaper, Wed
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+o Stationary needs to be stocked in guest bedrooms with pens. /
+o CDs & CD cases are to be put away. /
+  o Keep pencils sharpened. /
+* o Hang the picture in the Master bedroom corridor ✓
+o Check the tire pressures on all the bikes and pump up as needed
+  o Lock Ms Maxwell's closet
+
+* o ~~Buy Microwave~~ /
+  - Buy hotwater bags
+* • ~~Lightbulb x 2. E. Bathroom; Staff has old kitchen, etc~~
+* • ~~Sand (leveling 12 bags)~~
+* Jetski measurements on [illegible] ship lot.
+* 2 Port [REDACTED] (by Mike) (Work Boats)
+* Seers /
+* Home Depot /
+Call - Gates /
+Call - Storage USA /
+
+## Structured Fields
+- **Doc ID**: EFTA00007898
+- **Names/Organizations**: Ms Maxwell, Gates, Storage USA, Mike, Home Depot
+- **Locations/Items**: Guest bedrooms, Master bedroom corridor, E. Bathroom, Staff kitchen, Port, Workboats
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TSI-LAKE WORTH CORPORATION
+D/B/A TED'S SHEDS OF LAKE WORTH
+P.O. BOX 50929
+FT. MYERS, FL 33904
+
+Sold to: JEFFERY EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480-
+H: [REDACTED]
+
+Building Style/Size: CLASSIC -- 10W x 10L
+Wall Color/Material: PINK/ALUMINUM
+Trim Color/Material: WHITE/ALUMINUM
+Roof Color/Material: WHITE/ALUMINUM
+Door Color/Material: WHITE/ALUMINUM
+Skid: 2 - Double 2' x 4''s
+Floor: P.T. 2" x 4''s On 24" Centers
+Frame: 2" x 4''s On 24" Centers
+
+OPTION DESCRIPTION                                QTY
+72"W X 80"H Mobile Home Door                         1
+White 16"W x 4"H Vent                               2
+22"W X 27"H Sml White Window w/Grid                  2
+
+TERMS OF CONTRACT
+THIS WRITING ENCOMPASSES ALL OF THE TERMS, CONDITIONS, AGREEMENTS, PROMISES, UNDERTAKINGS, AND REPRESENTATIONS OF THE PARTIES AND SHALL CONSTITUTE THE ENTIRE AGREEMENT AMONG THE PARTIES WITH RESPECT TO THE SUBJECT MATTER HERETO. NO ASSERTED REPRESENTATION, STATEMENT, CUSTOM COURSE OF DEALING, COURSE OF CONDUCT, OR OTHER MATTER NOT EXPRESSLY PROVIDED HEREIN, SHALL CONSTITUTE ANY PART OF THE AGREEMENT OF THE PARTIES WITH RESPECT TO THE SUBJECT MATTER HEREOF. NO EMPLOYEE OF DEALER SHALL HAVE ANY RIGHT WHATSOEVER TO ALTER, AMEND, MODIFY, VARY, ADD TO, TAKE FROM, OR OTHERWISE CHANGE THE TERMS HEREOF, EXCEPT IN WRITING SIGNED BY A DULY AUTHORIZED OFFICER OF TSI (as defined below) AND AFFIXED TO THIS WRITING. NO SUCH PURPORTED CHANGE SHALL BE BINDING ON ANY OF TED'S SHEDS (as defined below) OR HAVE ANY FORCE OR EFFECT WHATSOEVER. For purposes of this Agreement, the term "Dealer" shall mean the retail dealer identified on the front page of this Agreement, and shall at times refer to the manufacturer, TED'S SHEDS, INC., a Florida corporation ("TSI"), the distributor, TSI RETAIL, INC., a Florida corporation ("Retail"), or any other retail dealer of TSI or Retail (Dealer, TSI, and Retail are referred to collectively herein as "Ted's Sheds")."Customer" shall collectively mean, jointly and severally, any person or persons who signed this Agreement as Customer, and "Agreement" shall mean this Contract of Sale. Customer shall promptly pay the balance due set forth above to Dealer at time of scheduled delivery. Dealer shall not be required to hold any sold unit at Dealer's location for any period in excess of TWO (2) week period, Customer shall pay Dealer a late charge - FEIS-TEDS (18) percent per annum on the unpaid balance based on the number of days exceeding such period commencing on the date of delivery of the unit to Dealer and terminating on the date such balance is paid in full. Customer hereby grants TSI a purchase money security interest in and to such unit and any other of Customer's property in possession of any of Dealer, TSI, or Retail. Customer is responsible for (i) obtaining any permits required for installation of the unit at Customer's desired location, (ii) compliance with any zoning, building, set-back, or other requirements of any applicable governmental authority, (iii) compliance with any covenants, restriction, easement, right-of-way, or other interest or limitation, whether public or private, (iv) any physical characteristic of Customer's property that shall restrict or prohibit delivery or use of the unit at that location, and (v) any damage whatsoever to the property or rights of any person whoever, including, without limitation, any adjacent property owner or underground utility. In the event of any default of this agreement by Customer, Ted's Sheds, or any of them, may bring such action or actions and shall be entitled to all remedies, damages, and awards as my be provided by applicable Florida law. This Agreement shall be on under the laws of the state of Florida. CUSTOMER SHALL NOT BE ENTITLED TO A REFUND OF ANY OF THE DEPOSIT SET FORTH ABOVE FOR ANY REASON OTHER THAN DEALERS FAILURE TO DELIVER DELIVERY OF THE UNIT WITHIN TWO (2) WEEKS AFTER THE APPROXIMATE DELIVERY DATE SET FORTH ON THE FRONT OF THIS AGREEMENT, DELAYS CAUSED BY STRIKES, LOCKOUTS, LABOR TROUBLES, INABILITY TO PROCURE MATERIALS, FAILURE OF POWER, RESTRICTIVE GOVERNMENTAL LAWS OR REGULATIONS, RIOTS, INSURRECTION, WAR, OR OTHER REASON OF A LIKE NATURE NOT DEALERS FAULT, SHALL EXTEND THE APPROXIMATE DELIVERY DATE FOR THE PERIOD OF THE DELAY. THIS AGREEMENT IS NOT SUBJECT TO RESCISSION, REVOCATION, CANCELLATION, OR TERMINATION FOR ANY REASON WHATSOEVER. THERE SHALL BE NO THREE (3) DAY OR OTHER RESCISSION PERIOD WITH RESPECT TO THIS AGREEMENT. Exclusive venue shall be in the courts of Lee County, Florida, for any litigation that may arise under this Agreement, arising out of, under, or in connection with this Agreement, any transaction pursuant to which this Agreement is made, or any instrument or asserted agreement (whether oral or in writing) contemplated or asserted in connection with this Agreement, course of conduct, course of dealing, asserted statements (whether oral or in writing), or actions by any party whether brought by Customer, or any of them or Ted's Sheds, or any of them. No litigation described in this paragraph shall be brought in any jurisdiction other than Lee County, Florida. The courts outside of Lee County, Florida, are authorized and respectfully requested to transfer any litigation described in this paragraph to the court of Lee County, Florida, of appropriate subject matter jurisdiction immediately upon this paragraph being discovered or otherwise brought to such courts attention. EACH CUSTOMER HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES THE RIGHT TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION BASED ON THIS AGREEMENT, OR ARISING OUT OF, UNDER, OR IN CONNECTION WITH THIS AGREEMENT, ANY TRANSACTION PURSUANT TO WHICH THIS AGREEMENT IS MADE, OR ANY INSTRUMENT OR ASSERTED AGREEMENT (WHETHER ORAL OR IN WRITING) CONTEMPLATED IN CONNECTION WITH THIS AGREEMENT, COURSE OF CONDUCT, COURSE OF DEALING, ASSERTED STATEMENTS (WHETHER ORAL OR IN WRITING), OR ACTIONS BY ANY PARTY. THIS PROVISION IS A MATERIAL INDUCEMENT FOR DEALER TO ENTER INTO THIS AGREEMENT. CUSTOMER HEREBY ACKNOWLEDGES THAT CUSTOMER HAS READ AND UNDERSTOOD THESE TERMS OF CONTRACT, AGREES TO BE BOUND THEREBY, AND HAS NOT REIED ON ANY ORAL OR WRITTEN REPRESENTATION OR STATEMENT OF ANY EMPLOYEE OF DEALER OTHER THAN SALES MATERIALS PROVIDED BY...
+
+## Structured Fields
+- **Date**: 12/16/2004
+- **Contract #**: 6200-2053
+- **Organization**: TSI-LAKE WORTH CORPORATION (D/B/A TED'S SHEDS OF LAKE WORTH)
+- **Sold To**: JEFFERY EPSTEIN
+- **Address**: 358 EL BRILLO WAY, PALM BEACH, FL 33480
+- **Building Style/Size**: CLASSIC -- 10W x 10L
+- **Specified Wind Speed**: 150 MPH
+- **Estimated Ship Date**: 01/30/2005
+- **Subtotal**: $2,046.06
+- **Total Price**: $2,608.82
+- **Deposit Received**: $1,300.00
+- **Balance Due**: $1,308.82
+- **Check Number**: 2528
+- **County of Venue**: Lee County, Florida
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TED'S SHEDS DELIVERY SITE INFORMATION
+
+Sold to:
+JEFFERY EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480- [REDACTED]
+
+[Hand-drawn scribble in box]
+BOS
+
+Dated: 12/16/2004
+Contract #: 6200-2053
+Building/Size: CLASSIC -- 10W x 10L
+Product: SHEI)
+
+[Sketch Box]
+Your House
+Your Street
+
+Note: Your shed will be delivered on a trailer that is 8 1/2'W x 21'L x 3'H towed by a pickup truck.
+
+1. Draw an "X" for the location of the shed relative to the house. Note where the shed door(s) should be.
+2. Draw an arrowed line to show the route for delivery onto the property.
+3. Is there minimum 14 feet of clearance from the ground all along the access? [ ] Yes X No
+   If No, explain BOS
+4. Are there any electric power wires within the 14 feet of ground clearance? Yes [ ] X No
+5. Is there an extra 2' wider than your shed all along the access? Yes [ ] X No
+   If No, explain BOS
+6. Will the driver pull straight in or will he back in? Straight In [X] Back In [ ] Crane
+7. If shed must be rolled on pipe to reach site, how far is it?
+8. If going through a gate ro reach the site, what is the size of the gate opening?
+9. Is there a fence obstructing access to the shed site? X Yes [ ] No [ ] Crane
+   If yes, explain removal for access REAR OF HOME ON WATERWAY
+0. Are there any trees, branches, stumps, bushes, mailbox, or other object(s) obstructing access? Yes [ ] X No
+   If yes, explain removal of
+1. What is the surface condition of the drop off site? [ ] Asphalt [ ] Grass [ ] Grass/Dirt [ ] Sand [X] Other
+   Explain CONCRETE
+2. Would the ground conditions be unsuitable after heavy rain? Yes [ ] X No
+3. To your knowledge, are there underground utilities (such as Electric, Water, Phone, etc.), Septic or sprinkler heads/pipes anywhere in the delivery area on your property or in the area of the shed site? Yes [ ] X No
+   If yes, please locate these Utility lines on the sketch above.
+4. Is there access to electricity for our crew to anchor the shed using power tools? X Yes [ ] No
+5. Other special instructions
+
+ne site discussed above must be prepared to accept delivery of the ordered shed. Customer is liable for any delays incurred if the site is ot properly prepared at the time of delivery.
+
+[Illegible Signature]
+CUSTOMER SIGNATURE
+SALESPERSON SIGNATURE
+DATE
+
+ustomer must fill out this form if they have selected "NO Inspection needed" on the TSI Delivery Agreement. (Sales to assist) Salesperson must fill out when ing the site inspection of Customer's property if Customer requested a site inspection and fax in when completed. (Sales should also use this form along th the required Home Delivery Form when doing the site inspection for sheds larger than 12' x 24').
+
+EFTA00007900
+
+## Structured Fields
+- **Date:** 12/16/2004
+- **Contract #:** 6200-2053
+- **Address:** 358 EL BRILLO WAY, PALM BEACH, FL 33480-
+- **Customer Name:** JEFFERY EPSTEIN
+- **Building/Size:** CLASSIC -- 10W x 10L
+- **Product:** SHEI) (Partial)
+- **Clearance:** No (Minimum 14 feet)
+- **Electric Wires:** No (Within 14 feet)
+- **Extra Width:** No (Extra 2' wider)
+- **Delivery Method:** Straight In
+- **Fence Obstructing:** Yes (REAR OF HOME ON WATERWAY)
+- **Trees/Obstructions:** No
+- **Surface Condition:** Other (Concrete)
+- **Ground Unsuitable after Rain:** No
+- **Underground Utilities:** No
+- **Electricity for Crew:** Yes
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TED'S SHEDS DELIVERY AGREEMENT
+
+Sold to:
+JEFFERY EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480-
+H: [REDACTED]
+
+Dated: 12/16/2004
+Contract #: 6200-2053
+Building/Size: CLASSIC -- 10W x 10L
+Product: $-HEI)
+
+Congratulations on your purchase of your Ted's Sheds product! Your Ted's Sheds product was constructed to the highest quality standards. Ted's Sheds offers free delivery, installation, blocking, and anchoring of your product; provided, however, that, at the time of delivery, there is sufficient legal access to the site.
+
+To assist you in your enjoyment of your product, Ted's Sheds offers free site inspection to inspect your property for proper access. If land access is not available, Ted's Sheds offers a free estimate for crane service.
+
+(Please choose one and initial below.)
+
+☐ Yes, I do want Ted's Sheds to inspect my property for proper access. ___________ initial here.
+☑ No, I do not want Ted's Sheds or a free crane service estimate to inspect my property and understand the charges for additional service described below. ___________ initial here.
+
+The dimensions of the product you have purchased are 10 feet wide x 10 feet long. You agree to provide , at the time of delivery, clear continual, unrestricted, and legal access, free and clear of any obstables whatever, 12 feet wide commencing at the street, highway, or other public access and terminating at the precise location where you instruct us to place your produc'.
+
+Ted's Sheds will not be responsible for clearing any obstacle in order to deliver your product. You indemnify and hold Ted's Sheds harmless rom and against any damage sustained to your property or by any person whomsoever with respect to the deliver,, installation, blocking, and anchoring of your product to the precise location where you instruct us to place your product.
+
+Ted's Sheds also shall not be responsible for compliance with any zoning, building, housing, environmental, fire, sifety, health, or other governmental law, statute, ordinance, regulation, order, requirement, or other authority, federal, state, county, municipal, special district, or otherwise. Ted's Sheds shall not be responsible for compliance with any private land use restriction, such as restr ctive covenants, easements, rights-of-way, architectural review, building restriction, condominium, homeowner, master, or other associat ion rules or egulations. You shall obtain any permits, approvals, and consents by any person whomsoever required for the installation of your product. All such governmental authorities, private land use restrictions, permits, approvals and consents, collectively, the "Restriction."
+
+Ted's Sheds will rely upon your instructions as to placement of the product on your site in relation to setbacks and oter restrictions. You will be at the installation site at the time of delivery of the product and will pay any balance owing on the purchase contract at that time.
+
+The anchors to secure your product are driven approximately 3 feet into the ground. You must inform us whether f iere are any underground facilities near the precise location where your product will be located. At your request, Ted's Sheds will contact the p roper utilities mar ing service at no charge to you.
+
+Ted's Sheds standard delivery hours of operation are Monday - Saturday, 8:00 AM to 3:00 PM.
+
+Ted's Sheds may need to reschedule the delivery of your building when an unexpected circumstance arises. You agree that any rescheduling of your delivery will not void the sales agreement or cause any discount to the total sales price.
+
+CHARGES FOR ADDITIONAL SERVICE
+
+You shall pay Ted's Sheds a minimum charge of $250.00 to revisit any installation site to move or re-anchor your product to comply with any restriction. You shall pay Ted's Sheds $250.00 for each subsequent installation attempt and each revisit to the s it for any reason whatsoever. If you refuse delivery of your product for non-accessibility or because of any Restriction, your deposit's non-refundable.
+
+Ted's Sheds acts solely as liaison between you and any crane service provider. Coordinating the scheduling of crane service and installation of your new product will be done by Ted's Sheds as a courtesy to you. You will contract with the crane service provider directly at no cost to ed's Sheds. Ted's Sheds shall not be responsible for any damage done by the crane service provider to any person, your property, or any ther property.
+
+he words "you" and "your" used herein shall mean the undersigned customer. You have read and understand thi: Delivery Agreement nd agree to be bound by the terms hereof.
+
+______________________                  12/16/04
+CUSTOMER'S SIGNATURE                       DATE
+
+EFTA00007901
+
+## Structured Fields
+*   **Date:** 12/16/2004 (also written as 12/16/04)
+*   **Contract #:** 6200-2053
+*   **Customer Name:** JEFFERY EPSTEIN
+*   **Address:** 358 EL BRILLO WAY, PALM BEACH, FL 33480-
+*   **Product/Model:** CLASSIC -- 10W x 10L (S-HEID)
+*   **Organization:** Ted's Sheds
+*   **Document ID:** EFTA00007901
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TSI-LAKE WORTH CORPORATION
+D/B/A TED'S SHEDS OF LAKE WORTH
+P.O. BOX 50929
+FT. MYERS, FL 33994
+Phone: [REDACTED]
+Fax: [REDACTED]
+
+Dated: 12/16/2004
+Contract #: 6200-2053
+Sales Rep: [REDACTED]
+
+Sold to: JEFFERY EPSTEIN
+358 EL BRILLO WAY
+PALM BEACH, FL 33480-
+[REDACTED]
+
+Building Style/Size: CLASSIC -- 10W x 10L
+Wall Color/Material: PINK/ALUMINUM
+Trim Color/Material: WHITE/ALUMINUM
+Roof Color/Material: WHITE/ALUMINUM
+Door Color/Material: WHITE/ALUMINUM
+Skid: 2 - Double 2" x 4" 's
+Floor: P.T. 2" x 4" 's On 24" Centers
+Frame: 2" x 4" 's On 24" Centers
+
+Your signature below will confirm that this building you have ordered will be manufactured at your request without a Florida Department of Community Affairs approval or state insignia affixed or assigned to it.
+
+Due to the "Build On Site" requirement, this building is not approved for permitting by the State of Florida. This building does not include the Ted's Sheds Manufacturer Limited Lifetime Warranty.
+
+Accepted by:
+
+Customer Signature A Rodrigo
+Printed Customer Name Alfredo Rodriguez
+Dated 12/16/04
+
+Mailing Address: P.O. Box 50929, Fort Myers FL 33994 -- Phone: [REDACTED]
+Physical Address: 9350 Laredo Avenue, Fort Myers FL 33905 -- Fax: [REDACTED]
+
+EFTA00007902
+
+## Structured Fields
+- **Date**: 12/16/2004
+- **Contract #**: 6200-2053
+- **Sold To**: Jeffery Epstein
+- **Customer Name**: Alfredo Rodriguez
+- **Signature**: A Rodrigo
+- **Organization**: TSI-Lake Worth Corporation / Ted's Sheds of Lake Worth
+- **Address (Mailing)**: P.O. Box 50929, Fort Myers FL 33994
+- **Address (Physical)**: 9350 Laredo Avenue, Fort Myers FL 33905
+- **Document ID**: EFTA00007902
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TEDS
+SHEDS®
+
+Thank you for your business!
+Ted's Sheds Call Center will now be assisting you
+with all aspects of your purchase.
+
+A representative from Ted's Sheds will be contacting you
+within 3 days after your purchase.
+
+Please contact Ted's Sheds
+for all future inquiries by calling [REDACTED].
+
+East Coast Delivery Schedule – Ext. #[REDACTED]
+West Coast Delivery Schedule – Ext. #[REDACTED]
+Customer Service – Ext. #[REDACTED]
+Operations Manager – Ext. #[REDACTED]
+
+EFTA00007903
+
+## Structured Fields
+- Organization: Ted's Sheds
+- Document ID (Footer): EFTA00007903
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Grocery List May 10, 2004
+
+Dairy Products Carmines
+
+- Whole milk gallon 2
+- Skim milk gallon ½
+- Half & Half carton 1
+- Non fat Plain Yogurt quart 1
+- Eggs 24
+- Danish Butter 6
+- Low fat cottage Cheese 1
+- Cream Cheese whipped 1 pack
+- Fresh mozzarella 1 pack
+- Parmesan 1 wedge
+- Mild Cheddar 1 pound
+
+Juices all organic Carmines
+
+- Orange juice 2
+- Mango Juice 1
+
+Syrups
+
+- Nesquik chocolate 1
+- Hershey's chocolate 1
+
+Sodas & Power aid
+
+- Power Aide 24
+- Sprite 12
+- Diet Coke 12
+- Coke 12
+- Diet Pepsi 12
+
+Salad dressing
+
+- Hellmans 1
+- Dijon mustard 1
+
+Dry foods Carmines
+
+- Dark Brown Sugar 1
+- Skippy Peanut butter 2
+- Multi Grain Bread 2
+- Fresh Bread Carmines 2
+
+Cereals Small boxes
+
+Frosted Flakes, Froot Loop,
+Sugar milk, Cheerios, Honey cheerios 6 of each
+Corn pops, special K
+
+Fruits (organic) Carmines PJ
+
+- Basket of Figs 2
+- Avocados 6
+- Bananas bunches2
+- Oranges 12
+- Mangoes 5
+- Pincapples 2
+- Papaya 1
+- Lemon 6
+- Lime 6
+- Raspberries baskets 2
+- Strawberries 2
+- Grapes Red/ Green baskets 2
+- Cherries bags 1
+- Nectarines 6
+- Melons 1
+- Cantaloupe 1
+
+Vegetables all organic Carmines
+
+- Red Pepper 2
+- Green Pepper 2
+- Celery bag 1
+- Carrots bag 1
+- Tomatoes 12
+- Cucumber 3
+- Peeled Garlic bottle 1
+- White onion 6
+- Broccoli heads 2
+- Romaine lettuce bags 2
+- Mixed greens boxes 2
+
+Meats & Sausages all organic Carmines
+
+- Ham pounds 1
+- Bacon pounds 1
+- Chicken Breast pounds 3
+- Sliced Salmon Too Js 2
+- Fresh Fish 2 pounds
+
+Newspapers Daily in Residence 6.30 AM
+Main Street News open at 6.30 AM
+
+- New York Times (daily)
+- PB daily news (shingle sheet)
+- Wall street Journal (M-F)
+- Daily Mail (daily) (Ms Maxwell)
+
+Saturdays
+
+- [REDACTED] with others
+
+[REDACTED] purchases all Cleaning supplies from PUBL
+
+## Structured Fields
+- **Date:** May 10, 2004
+- **Store/Location:** Carmines (Publix grocery store), Main Street News
+- **Names/Organizations:** Ms Maxwell
+- **Document ID:** EFTA00007904
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+9. 1
+[REDACTED]
+[REDACTED]
+[REDACTED]
+Jeffrey E. Epstein
+EFTA00007905
+
+## Structured Fields
+*   **Names**: Jeffrey E. Epstein
+*   **Doc IDs**: EFTA00007905
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+EFTA00007906
+
+## Structured Fields
+- **Document ID:** EFTA00007906
+- **Content Status:** Heavily redacted (green boxes with black bars obscuring text)
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JAN-19-2005 12:55
+P.01
+Colonial Net Research Request: Item Copies
+
+Request Info:
+Request ID | Status | Pending Reason | Cost Center
+0110617 | Assigned | | 
+Submitter | Region | Office | Location
+[REDACTED] | 32 | 36 | [REDACTED]
+Submitter Phone | Submitter FAX
+[REDACTED] | [REDACTED]
+Account Number | Account Type | Region of Account
+[REDACTED] | DDA | 32
+Account Title
+JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR A
+
+1st Check # | 1st Posting Date | 1st Amount $ | 1st Item Batch and Sequence
+| 12/6/2005 | 2000.00 | 77361628
+2nd Check # | 2nd Posting Date | 2nd Amount $ | 2nd Item Batch and Sequence
+| 12/8/2005 | 1000.00 | 663427516
+3rd Check # | 3rd Posting Date | 3rd Amount $ | 3rd Item Batch and Sequence
+| | | 
+4th Check # | 4th Posting Date | 4th Amount $ | 4th Item Batch and Sequence
+| | | 
+
+Additional Details
+None
+
+Return by: | Charge Customer | Account to Charge
+| No |
+Interoffice Address
+[Empty Box]
+
+Send Email
+Email Address
+[REDACTED]
+Comments
+[Empty Box]
+
+Research Dept Info:
+Research Group | Assigned To | Last Modified By
+Research General Orland | [REDACTED] | [REDACTED]
+Bank Error | Comments
+[Dropdown Arrow] | 
+Assigned Date | Completed Date | Create Date
+1/19/2005 | | 1/18/2005
+
+Request Cost:
+Minutes | $ Per Minute | Total Cost Time
+| 0.415667 | 
+Copies | $ Per Copy | Total Cost Copies
+| 2.00 | 
+Statements | $ Per Statement Copy | Total Cost Statement
+| 3.00 | 
+Add Costs | Combined Total Cost
+| [ILLEGIBLE]
+
+EFTA00007907
+
+## Structured Fields
+- **Date**: JAN-19-2005, 12:55
+- **Request ID**: 0110617
+- **Status**: Assigned
+- **Account Title**: JEFFREY E EPSTEIN OR GHISLAINE MAXWELL OR A
+- **Region**: 32
+- **Office**: 36
+- **Location**: [REDACTED]
+- **Account Type**: DDA
+- **1st Posting Date**: 12/6/2005
+- **1st Amount**: $2000.00
+- **1st Item Batch and Sequence**: 77361628
+- **2nd Posting Date**: 12/8/2005
+- **2nd Amount**: $1000.00
+- **2nd Item Batch and Sequence**: 663427516
+- **Region of Account**: 32
+- **Return by Charge Customer**: No
+- **Research Group**: Research General Orland
+- **Assigned Date**: 1/19/2005
+- **Create Date**: 1/18/2005
+- **$ Per Minute**: 0.415667
+- **$ Per Copy**: 2.00
+- **$ Per Statement Copy**: 3.00
+- **Document ID**: EFTA00007907
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JAN-19-2005       12:56                                                 P.02
+
+
+                                            Jeffrey F. Fair
+                                                    Date 12/02/09
+
+                                        Account No. [REDACTED]
+Pay to the Order of: CASH ..................................... $ 2,000 % 0 .
+
+                Two thousand 00/100 ----- Dollars & MARS
+
+
+     COLONIAL BANK
+    Palm Beach, Florida
+    3416 Cultural Center...
+
+                                                [REDACTED] [REDACTED] /0000 000000/
+                                                         A Rodriguez
+
+EFTA00007908
+
+## Structured Fields
+*   **Date (Header):** JAN-19-2005
+*   **Date (Check):** 12/02/09
+*   **Case ID / Doc ID:** EFTA00007908
+*   **Name:** Jeffrey F. Fair
+*   **Bank:** Colonial Bank (Palm Beach, Florida)
+*   **Signature:** A Rodriguez
+*   **Payee:** CASH
+*   **Amount:** $2,000.00
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JAN-19-2005 12:56                                                                 P.03
+
+[REDACTED]      [REDACTED]  
+
+EFTA00007909
+
+## Structured Fields
+*   **Date:** JAN-19-2005
+*   **Time:** 12:56
+*   **Page Number:** P.03
+*   **Document ID:** EFTA00007909
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JAN-19-2005 12:56                                                    P.04
+
+
+Name                  Alfredo Rodriguez
+Account No           [REDACTED]                                                Date 12/8/04
+Pay to the          CASA
+Order of
+One Thousand 00 /100                                      $ 1000.00
+Dollars                                                                            
+[REDACTED]
+
+COLONIAL BANK N.A.                                           [Signature]
+Palm Beach, Florida 5677-402-3396                                              /000
+
+
+EFTA00007910
+
+## Structured Fields
+- **Date**: JAN-19-2005 (Scan Date), 12/8/04 (Check Date)
+- **Payee**: CASA
+- **Amount**: $1,000.00
+- **Name**: Alfredo Rodriguez
+- **Bank**: Colonial Bank N.A.
+- **Document ID**: EFTA00007910
+- **Frame/Pagenum**: P.04
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JAN-19-2005 12:56                                                  P.05
+
+
+Packs [REDACTED]
+[ILLEGIBLE]
+
+TOTAL P.05                                                          EFTA00007911
+
+## Structured Fields
+*   **Date:** JAN-19-2005
+*   **Time:** 12:56
+*   **Page Number:** P.05
+*   **Document ID:** EFTA00007911
+
+## Page 20 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx EXPRESS US Airbill
+PICK UP # 194
+[REDACTED]
+
+From: Please print and press hard.
+Date: 8/24/04
+Sender's FedEx Account Number: [REDACTED]
+Sender's Name: [REDACTED]
+Company: [REDACTED]
+Address: 358 EL BRILLO WAY
+City: PALM BCH State FL ZIP 33480
+
+2 Your Internal Billing Reference
+Print in checkmark and initial.
+
+3 To
+Recipient's Name: [REDACTED]
+Company: [REDACTED]
+Recipient's Address: [REDACTED]
+Address: ROCKVILLE MD
+City State MD ZIP 20851
+
+Try online shipping at fedex.com - Save money! By using this Airbill you agree to the service conditions on the back of this Airbill. We cannot deliver to F.O.B. points other than FedEx address listed.
+
+## Structured Fields
+- **Date:** 8/24/04
+- **Pickup ID:** # 194
+- **Sender Address:** 358 EL BRILLO WAY, PALM BCH, FL 33480
+- **Recipient City/State/Zip:** ROCKVILLE MD, 20851
+- **Service Type:** FedEx Priority Overnight
+- **Packaging Type:** FedEx Pak*
+- **Special Handling:** Saturday Delivery
+- **Package Count ID:** 467
+- **Document ID (Bottom Right):** EFTA00007912
+
+## Page 21 (DOC) [TAG:DOJ_CLEAN_V2]
+
+125 Worth Avenue Ste 100
+Palm Beach, FL 33480
+Phone: [REDACTED]
+Fax: [REDACTED]
+
+Colonial Bank, N.A.
+
+**Fax**
+
+To: Alfredo Rodriguez
+From: [REDACTED]
+Fax: [REDACTED]
+Phone:
+Date: 12/10/04
+Pages: /
+Re:
+CC:
+□ Urgent ☑ For Review □ Please Comment □ Please Reply □ Please Recycle
+
+No. 1643 P. 1
+Dec. 10. 2004 11:13AM
+EFTA00007913
+
+## Page 22 (DOC) [TAG:DOJ_CLEAN_V2]
+
+IMII 12/10/04                                      10.02.11   PAGE      1
+JEFFREY E EPSTEIN OR                         ACCOUNT [REDACTED]
+GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ     DATE LAST STATEMENT       11/23/04
+HOUSEHOLD ACCOUNT                           DATE THIS STATEMENT       12/10/04
+
+*****DDA TRANSACTIONS*****
+
+              BEGINNING                CHECKS/OTHER DEBITS      DEPOSITS/OTHER CREDITS    ENDING
+              BALANCE                 NBR   TOTAL AMOUNT         NBR    TOTAL AMOUNT         BALANCE
+              0.00                     10    4006.36                       2     7439.80               3433.44
+
+DATE      CK NBR                         AMOUNT TP TRANSACTION DESCRIPTION                                BALANCE
+------------------------------------------------------------------------------------------
+10/14                                                    7439.56 DP DEPOSIT                                               7439.56
+10/25                   93                                       450.00 CK TELLER CASHED CHECK                                     6989.56
+10/25                                                                                          0.24 CR IOD INTEREST PAID                                          6989.80
+10/27                                                                                    69.38 DB CLARKE AMERICAN CHK ORD                                    6920.42
+11/01                  2500                                     1150.00 CK TELLER CASHED CHECK                                       5770.42
+11/08                  2504                                      340.00 CK CHECK                                                       5430.42
+11/09                  2502                                      684.87 CK CHECK                                                       4745.55
+11/09                  2505                                      415.86 CK CHECK                                                       4329.69
+11/09                  2503                                      406.25 CK CHECK                                                       3923.44
+11/15                  2511                                      360.00 CK CHECK                                                       3563.44
+11/15                  2512                                       80.00 CK CHECK                                                       3483.44
+11/15                  2501                                       50.00 CK CHECK                                                       3433.44
+
+PF1 - PAGE FWD                                     ESC=CLEAR SCREEN                       ALT-F2=PRINT SCREEN                          ALT-X=EXIT       7
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+Z d 5491 ON          No. 1643 P. 2
+DEC. 10. 2004 11:13AM
+
+EFTA00007914
+
+## Structured Fields
+*   **Date:** 12/10/04, 11/23/04
+*   **Document ID:** EFTA00007914
+*   **Account Type:** HOUSEHOLD ACCOUNT
+*   **Account Holder(s):** JEFFREY E EPSTEIN, GHISLAINE MAXWELL, ALFREDO RODRIGUEZ
+*   **Organization Mentioned:** CLARKE AMERICAN
+*   **Page Number:** 1
+
+## Page 23 (DOC) [TAG:DOJ_CLEAN_V2]
+
+IMII 12/10/04                                    DDA STATEMENT HISTORY                        10.02.11 PAGE 2
+JEFFREY E EPSTEIN OR                           ACCOUNT                                       [REDACTED]
+GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ       DATE LAST STATEMENT  11/23/04
+HOUSEHOLD ACCOUNT                             DATE THIS STATEMENT   12/10/04
+
+*****DDA TRANSACTIONS*****
+
+BEGINNING            CHECKS/OTHER DEBITS      DEPOSITS/OTHER CREDITS        ENDING
+BALANCE              NBR      TOTAL AMOUNT             NBR         TOTAL AMOUNT      BALANCE
+0.00                 19       11614.78                  4           17440.24          5825.46
+
+DATE   CK NBR                              AMOUNT   TP   TRANSACTION DESCRIPTION        BALANCE
+11/16  2507 [red check]              1135.03 CK CHECK                                      2298.41
+11/16  2509 [red check]              803.24  CK CHECK                                     1495.17
+11/16  2506 [red check]              344.91  CK CHECK                                      1150.26
+11/16  2508 [red check]              125.24  CK CHECK                                      1025.02
+11/16  2510 [red check]              110.00  CK CHECK                                       915.02
+11/17  2514 [red check]               80.00  CK TELLER CASHED CHECK                        835.02
+11/18                                           10000.00 CR INCOMING WIRE CREDIT                   10835.02
+11/18                                           10.00  DB INCOMING WIRE FEE                         10825.02 [red check]
+11/18                                           2500.00 CK TELLER CASHED CHECK                      8325.02 [yellow highlight]
+11/22    2513 ( - )                   2500.00 CK CHECK                                    5825.02
+11/23                                           0.44   CR IOD INTEREST PAID                         5825.46
+
+LAST PAGE                              PF2 - PAGE BKWD
+ESC=CLEAR SCREEN                      ALT-F2=PRINT SCREEN                     ALT-X=EXIT E 7
+
+E P No. 1643                           Dec. 10. 2004 11:13 AM
+EFTA00007915
+
+## Structured Fields
+*   **Date:** 12/10/04 (IMII), 11/23/04 (Last Statement), 10.02.11
+*   **Names:** Jeffrey E Epstein, Ghislaine Maxwell, Alfredo Rodriguez
+*   **Organization:** Household Account
+*   **Document ID:** EFTA00007915
+*   **Check Numbers:** 2507, 2509, 2506, 2508, 2510, 2514, 2513
+
+## Page 24 (DOC) [TAG:DOJ_CLEAN_V2]
+
+IMI3 12/10/04 DDA STATEMENT INQUIRY 10.02.31 PAGE 1
+JEFFREY E EPSTEIN OR ACCOUNT [REDACTED]
+GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ DATE THIS STATEMENT 12/10/04
+HOUSEHOLD ACCOUNT DATE LAST STATEMENT 11/23/04
+******DDA TRANSACTIONS******
+BALANCE CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS BALANCE
+LAST STATEMENT NBR TOTAL AMOUNT NBR TOTAL AMOUNT THIS STATEMENT
+5825.46 10 9038.14 1 10000.00 6787.32
+
+DATE CK NBR AMOUNT TV TRANSACTION DESCRIPTION BALANCE
+11/30 2515 125.00 CHECK 5700.46
+12/03 2516 1600.00 CHECK
+12/03 2517 549.29 CHECK 3551.17
+12/06 10000.00 INCOMING WIRE CREDIT
+12/06 10.00 INCOMING WIRE FEE
+12/06 2000.00 TELLER CASHED CHECK 11541.17
+12/07 2521 517.74 CHECK
+12/07 2522 210.00 CHECK
+12/07 2518 101.03 CHECK 10712.40
+12/08 2519 2925.08 CHECK
+12/08 1000.00 TELLER CASHED CHECK (To Mr. J.E) 6787.32
+
+ESC=CLEAR SCREEN ALT-F2=PRINT SCREEN ALT-X=EXIT E 7
+
+No. 1643 P. 4 DEC. 10 2004 11:3AM
+EFTA00007916
+
+## Structured Fields
+- **Date:** 12/10/04
+- **Case ID / Doc ID:** EFTA00007916, No. 1643
+- **Names:** JEFFREY E EPSTEIN, GHISLAINE MAXWELL, ALFREDO RODRIGUEZ
+- **Organization:** Household Account (IMI3)
+
+## Page 25 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+Sales Associate
+[REDACTED]
+Lake Worth, Florida 33463
+[REDACTED] Fax
+The Oldest and Largest Shed Manufacturer in Florida
+
+## Structured Fields
+*   **Location**: Lake Worth, Florida 33463
+*   **Title/Role**: Sales Associate
+*   **Organization Description**: The Oldest and Largest Shed Manufacturer in Florida
+*   **Document ID**: EFTA00007917
+
+## Page 26 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a high-contrast, black-and-white illustration or photograph of a residential storage structure, specifically a shed, set in a lush garden environment. The central focus is a white building constructed with horizontal siding, featuring a gable roof with significant overhangs on all sides. The front face of the shed displays a large, single door on the left side and a window situated centrally, which is flanked by decorative shutters. On the right-facing wall, a second, narrower vertical window is visible. The base of the structure rests on a diamond-patterned lattice skirting, elevating it slightly off the ground.
+
+In the foreground to the bottom right, a person with dark, shoulder-length curly hair is depicted in profile. They are wearing casual attire, consisting of shorts and a t-shirt. This individual is bent slightly forward, holding a watering can near the base of the shed, appearing to water plants or weeds growing around the foundation. To the left of the shed, a curved path made of flat stepping stones cuts through the grassy lawn, leading toward the front door. The background is framed by dense foliage; a large tree with dark leaves occupies the upper left corner, while tropical-looking fronds (possibly banana leaves) are visible just behind the roof peak. Darker trees and bushes surround the structure on the right side.
+
+## Visible Text (verbatim)
+*   **Logo (Top Right):** "TEDS SHEDS" (with a registered trademark symbol ® above the S). The letter 'T' is stylized to look like the front face of a house roof.
+*   **Banner (Bottom Center):** "Storage Systems and Solutions"
+*   **Code (Bottom Right):** "EFTA00007918"
+
+## Notable Details / Clues
+*   **Product Context:** The image serves as an advertisement or catalog cover for "TEDS SHEDS," highlighting their specific product category of sheds designed to look like finished storage buildings rather than utility structures.
+*   **Aesthetic Appeal:** The inclusion of the stepping stones and the person gardening suggests a lifestyle of homeownership and outdoor maintenance, aiming to make the shed appear as an integrated part of a nice garden rather than eyesore storage.
+*   **Construction Features:** The visible details like the lattice skirting and shutters indicate that the product line includes aesthetic upgrades typically associated with permanent structures.
+*   **Image Quality:** The image appears to be a scan from a printed document, evidenced by the grainy texture in the shadows (the trees) and the high contrast of the white shed against the dark background foliage.
+*   **Window Configuration:** The front window is divided into six panes (two columns by three rows), typical of residential windows used to add light to a storage space.
+*   **Positioning:** The "TEDS SHEDS" logo is placed directly over the sky area, ensuring it doesn't obscure details of the shed itself.
+*   **Action Shot:** The person watering plants adds a dynamic element to an otherwise static architectural rendering, implying ease of maintenance or integration into daily life.
+
+## Page 27 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is a monochromatic, full-page advertisement for a company called "TED'S SHEDS." The layout is divided into three primary sections: a header with branding and mission statements, a central photographic illustration of their facility, and a lower section detailing value propositions and service commitments.
+
+**Top Section:**
+-   **Header Left:** The page opens with a bold, underlined headline reading "Demand the Best." Below this is a paragraph titled "Proven Quality," asserting that TED'S SHEDS has been an industry leader since 1970.
+-   **Bulleted List (Top Left):** Three bullet points follow the introductory text. They highlight that the company is the oldest and largest portable building manufacturer in Florida, offer the only limited lifetime warranty against corrosion/termites/decay, and are the first trademarked product in the industry providing written warranties and serial numbers.
+-   **Header Right:** A large logo features the words "TEDS SHEDS" in heavy, block sans-serif font, encased within a simple outline of a house roof. A registered trademark symbol (®) is visible to the right. Below the main logo text is a row of dots leading to the tagline "Storage Systems and Solutions."
+
+**Central Image:**
+-   **Photograph:** The center of the page features a high-contrast, black-and-white photograph of a large commercial facility. On the left side of the building structure, a vertical sign clearly displays the "TEDS SHEDS" logo. To the right of the main administrative building is a long, low-roofed structure, likely demonstrating one of their portable building products.
+-   **Environment:** The scene is tropical; several tall palm trees are visible in front of and behind the building, reinforcing the Florida location mentioned in the text. A paved parking lot with marked spaces occupies the foreground.
+-   **Graphic Overlay:** In the bottom left corner of the photo area, there is a circular seal graphic with serrated edges. Inside the circle, curved text reads "TED'S SHEDS," followed by "The Original" and "SINCE 1970." A ribbon-like tail extends from the bottom of this seal.
+-   **Caption:** Below the photograph, a caption states: "Custom designed, 100,000 sq. ft. manufacturing center in Fort Myers includes corporate offices, design and engineering, state-of-the-art manufacturing plant, and fleet services."
+
+**Bottom Section:**
+-   **Left Column ("Your Best Value"):** This section explains that locations deal directly with the manufacturer to provide the best price and total quality control. It lists three bullet points: "The Best Price – of any comparable product," "Total Quality Control – every step of the way," and "Personal Attention – including quick response to special requests and custom designed buildings."
+-   **Right Column ("Professional Service"):** This section details the company's dedication to long-term service. It lists three bullet points: delivery/installation by competent crews at no extra charge, a company-owned fleet of trucks for timely delivery, and a commitment to practical solutions including sales, repair, rental, and relocation services.
+-   **Footer:** In the extreme bottom right corner, an alphanumeric code "EFTA00007919" is printed.
+
+## Visible Text (verbatim)
+**Header & Logo Area:**
+Demand the Best.
+Proven Quality. As the industry leader, TED'S SHEDS has been establishing the standards for the manufacture of strong, durable portable storage buildings since 1970.
+• The Oldest and Largest Portable Building Manufacturer in Florida.
+• The Home of the Lifetime Warranty – the industry's only limited lifetime warranty against corrosion, termites, and decay.
+• The first trademarked product in the industry – and the first to provide written warranty and registered serial number for each building.
+
+[Logo Text]:
+TEDS
+SHEDS ®
+...........
+Storage Systems
+and Solutions
+
+**Photo Caption:**
+Custom designed, 100,000 sq. ft. manufacturing center in Fort Myers includes corporate offices, design and engineering, state-of-the-art manufacturing plant, and fleet services.
+
+**Circular Seal:**
+TED'S SHEDS
+"The Original"
+SINCE 1970
+
+**Bottom Left Column:**
+Your Best Value. All TED'S SHEDS locations deal directly with the manufacturer. The close working relationships with the manufacturer enable TED'S SHEDS to provide:
+• The Best Price – of any comparable product.
+• Total Quality Control – every step of the way.
+• Personal Attention – including quick response to special requests and custom designed buildings.
+
+**Bottom Right Column:**
+Professional Service. TED'S SHEDS is dedicated to providing long term service to their individual customers... past, present and future.
+• All TED'S SHEDS are delivered and installed by competent, trained crews – at no extra charge.
+• Company owned fleet of trucks assures timely delivery of all models, sizes and colors to your local Ted's Sheds store.
+• We are committed to providing practical solutions through knowledgeable sales, repair, rental and relocation services.
+
+**Footer:**
+EFTA00007919
+
+## Notable Details / Clues
+-   **Geographic Context:** The text explicitly mentions "Florida" and the photo shows palm trees, while the caption identifies the facility as being in "Fort Myers," confirming a Florida-based operation.
+-   **Brand Authority:** Multiple references are made to the date "1970" (in the main text, the seal, and the history statement), establishing the company as established and long-standing ("The Original").
+-   **Product Differentiation:** The ad emphasizes specific technical advantages like being a "trademarked product" with "registered serial numbers," suggesting a focus on authenticity and traceability.
+-   **Logistics Control:** There is a strong emphasis on logistics, specifically mentioning a "company owned fleet of trucks" rather than relying on third-party carriers.
+-   **Warranty Specifics:** The warranty is described not just as lifetime, but specifically covering "corrosion, termites, and decay," which are common concerns for outdoor storage structures.
+-   **Visual Consistency:** The company logo appears in three distinct places: the top right house graphic, on the sign within the central photograph, and inside the circular seal overlay.
+-   **Customer Relations:** The text highlights "Personal Attention" and a "close working relationship" with customers, framing the interaction as direct rather than mediated by retailers.
+
+## Page 28 (DOC) [TAG:DOJ_CLEAN_V2]
+
+THE HOME DEPOT ®
+
+SKU 210-889
+
+# The Everlast Storage Shed
+
+STEP
+1
+Select the size you need:
+
+**Diagram Section:**
+[Outline of a shed labeled WALL #1, WALL #2, WALL #3, WALL #4, and RIDGE]
+Arrows indicate "Width of base (W)" and "Length of base (L)".
+
+NOTE: Applies to 12' wide models only.
+Width measurement (W) is from outside eave to outside eave.
+Floor base measurement is reduced by 1'.
+
+**Price List:**
+8'W x 8'L = $1,449.00 | 10'W x 16'L = $2,699.00
+8'W x 10'L = $1,599.00 | 10'W x 20'L = $3,099.00
+8'W x 12'L = $1,799.00 | 12'W x 12'L = $2,389.00
+10'W x 8'L = $1,639.00 | 12'W x 16'L = $2,999.00
+X 10'W x 10'L = $1,839.00 | 12'W x 20'L = $3,449.00
+10'W x 12'L = $2,049.00
+
+SHED (BASE PRICE FROM ABOVE) /$/$ $1835
+includes one door (48"W x 72"H), one window
+(22"W x 27"H), and two vents (16"W x 4"H).
+
+ADDITIONAL WINDOWS (22"W x 27"H) . . . . . . . . . . . . . . $50.00 ea.
+RAMP (4'W x 8"H x 4'L—buildings 10' x 12' and under) . . . $70.00
+RAMP (4'W x 12"H x 6'L—buildings over 10' x 12') . . . . . $95.00
+RAMP (6'W x 8"H x 4'L—buildings 10' x 12' and under) . . $85.00
+RAMP (6'W x 12"H x 6'L—buildings over 10' x 12') . . . . .$125.00
+UPGRADE TO DOUBLE DOORS (72"W x 72"H) . . . . . . . . . . .$130.00
+
+NOTE: Total price is subject to Florida sales tax.
+State Certified by the State of Florida Department of Community Affairs (DCA), certifying that it complies with the new 2001 Florida Building Code.
+
+**STEP 2 Decide where you want the door and windows:**
+DOOR in wall # D(4)
+WINDOW in wall # 1 # ___ # ___ # ___
+
+**We'll do the rest!**
+Delivered and professionally installed by experienced crews.
+
+**We make it easy for you!**
+CALL TOLL FREE 1-800-79-DEPOT and we'll answer your questions and guide you through the ordering of your custom storage building. Visit the SPECIAL SERVICES counter for information on permitting. Not intended for commercial use.
+
+AT-HOME
+SERVICES
+Florida's oldest and largest manufacturer of portable storage buildings, since 1970.
+MARKETS 2, 4, 25, 30
+
+STEP
+3
+Choose your colors:
+(Select one color from each column)
+
+**Color Chart:**
+COLOR | WALLS | TRIM | ROOF | DOOR
+---|---|---|---|---
+Aqua . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . . N/A
+Black . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . . N/A
+Buckskin . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . . N/A
+Burgundy . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Brown . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Cream . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Dark Gray . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Evergreen . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Hickory Moss . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Ivy Green . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Lagoon Blue . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Light Gray . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Medallion Blue . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Mill Finish . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Peach . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Pink . . . . . . . . . . . . . . . . . . . . . . . . . [X] . . [ ] . . . . . . . [ ] . . . N/A
+Red . . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Royal Blue . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+Sage . . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [X] . . . . [X] . . . . . . N/A
+Taupe . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [X] . . . N/A
+Terracotta . . . . . . . . . . . . . . . . . . . . . . [X] . . [ ] . . . . . . . [ ] . . . N/A
+Timbertone . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . . . . . [ ] . . . N/A
+White . . . . . . . . . . . . . . . . . . . . . . . . [ ] . . [ ] . . . [X] . . . . [X] . . N/A
+Yellow . . . . . . . . . . . . . . . . . . . . . . . . [X] . . [ ] . . . . . . . [ ] . . . N/A
+
+SHUTTER color matches trim color.
+
+TEDS SHEDS
+EFTA00007920
+
+## Structured Fields
+*   **Doc ID/SKU**: 210-889 / EFTA00007920
+*   **Product Name**: The Everlast Storage Shed
+*   **Manufacturer/Company**: Home Depot (At-Home Services), Teds Sheds
+*   **Location/Region**: Florida (referenced in tax and building code sections)
+*   **Phone Number**: 1-800-79-DEPOT
+*   **Build Code Year**: 2001
+*   **Certification**: State Certified by the State of Florida Department of Community Affairs (DCA)
+
+## Page 29 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+This is a black-and-white print advertisement for "The Everlast Storage Shed," likely from an early issue of *The Home Depot* magazine or catalog. The layout is divided into distinct horizontal sections. At the top left is a tilted "The Home Depot" logo. The main headline reads "The Everlast Storage Shed" in a large serif font, with a sub-headline underneath.
+
+Below the header is a high-contrast black-and-white photograph occupying the center of the page. It depicts a small, gable-roofed structure standing outdoors. The shed features horizontal lap siding and a single door centered on the visible facade. To the right of the front face, there are windows set into the wall. The foundation rests on dirt with ferns and bushes growing around the base.
+
+Below the photograph is a caption describing the specific colorway shown (buckskin/cream). Below that, the main body of the ad is split into two columns of bold headings and descriptive text detailing features like "ATRACTIVE," "PRACTICAL," "FAST!" on the left, and "DURABLE," "LOW MAINTENANCE" on the right.
+
+At the very bottom, a wide banner spans the width containing a phone number for details. Below that are three distinct logos: "AT-HOME SERVICES" on the left, a descriptive tagline about being Florida's oldest manufacturer in the center, and the "TEDS SHEDS" logo on the right. A handwritten note "Feb" appears in pencil in the top-left margin outside the printed area.
+
+## Visible Text (verbatim)
+*   **Top Left Margin:** Feb
+*   **Top Header:** The Home Depot / The Everlast Storage Shed / Ideal for workshop, garden shed, or all kinds of storage!
+*   **Photo Caption:** Shown with buckskin walls, buckskin roof, cream trim and cream door.
+*   **Badge on Photo (Bottom Right):** LIMITED 1 YEAR WARRANTY
+*   **Left Column:**
+    *   ATTRACTIVE. Color coordinated trim, lap-style siding, and decorative window shutters for enduring beauty.
+    *   PRACTICAL. Window with screen provides light and ventilation.
+    *   FAST! Usually delivers in 2-3 weeks.
+*   **Right Column:**
+    *   DURABLE. Aluminum roof, siding and trim will not rust. Sturdy door will not rot or warp. Lumber selected and treated to resist rot and termites.
+    *   LOW MAINTENANCE. Roof, siding and trim never need painting.
+    *   BUILT FOR LASTING ENJOYMENT AND VALUE.
+*   **Call to Action:** CALL 1-800-79-DEPOT FOR ALL THE DETAILS!
+*   **Bottom Left Logo:** AT-HOME SERVICES
+*   **Bottom Center Banner:** Florida's oldest and largest manufacturer of portable storage buildings, since 1970.
+*   **Bottom Right Logo:** TEDS SHEDS
+*   **Footer Code:** EFTA00007921
+
+## Notable Details / Clues
+*   **Brand Evolution:** The ad features both "The Home Depot" logo (top left) and "TEDS SHEDS" (bottom right), suggesting a historical connection or a specific in-store division prior to full corporate branding integration.
+*   **Material Contradiction/Feature:** The durability section claims "Aluminum roof, siding and trim," but also mentions "Lumber selected and treated to resist rot and termites." This suggests the structure likely uses aluminum for the skin (exterior) and lumber for framing or specific components like the door frame.
+*   **Historical Context:** The tagline at the bottom claims the manufacturer has been around "since 1970," while *The Home Depot* store brand was founded later (1978), indicating this advertisement bridges two eras of retail history.
+*   **Color Photography Simulation:** Although the ad is black and white, the caption explicitly mentions colors ("buckskin," "cream"), indicating this was printed in color media where the viewer could see those specific tones.
+*   **Warranty Specifics:** A small box in the photo notes a "LIMITED 1 YEAR WARRANTY."
+*   **Delivery Speed:** The ad emphasizes speed with the claim "Usually delivers in 2-3 weeks," highlighting logistical efficiency.
+
+## Page 30 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is a black-and-white catalog page divided into two distinct sections, each advertising a different model of shed manufactured by "Ted's Sheds."
+
+**Top Section (Classic Model):**
+The upper half features a large illustration of a finished wooden shed labeled "Classic." The structure features horizontal siding, a gable roof with overhanging eaves, and decorative shutters flanking a multi-pane window on the right side. On the left, a large double-width door is swung open. A person wearing a wide-brimmed hat and plaid shirt is driving a riding lawn mower through this opening into the dark interior of the shed. The background shows dense foliage, including palm fronds. To the bottom left of this image is a badge reading "TED'S SHEDS LIMITED LIFETIME WARRANTY." Below the image on the left is a text block highlighting customizable wall colors and wood grain patterns available on aluminum models. To the right of the image, a description emphasizes the "colonial style" aesthetics suitable for complementing homes.
+
+**Bottom Section (Tuffy Model):**
+The lower half features a second illustration labeled "Tuffy." This shed has a simpler, utilitarian design with horizontal siding and a single large double-door opening on the right side, which is wide open. A smaller window is visible on the left wall. Through the open door, a person is driving a small utility tractor equipped with a mower deck out of or into the shed. Inside or against the back wall, there appear to be stacked boxes and possibly a large appliance like a freezer. Above this section is another warranty badge identical to the one above. To the left of the image, text describes the model's "quality and versatility" for both residential and commercial use. A list below details specific features like single-wide plans ranging from 4'x4' to 14'x50', options for single or double doors, and various window styles. At the very bottom center, small text states "ALL SIZES ARE NOMINAL."
+
+## Visible Text (verbatim)
+**Top Left Box:**
+"Choose from a wide range of wall, trim and roof colors, in solid and wood grain patterns. Available on all aluminum models."
+
+**Top Right Badge:**
+"TED'S SHEDS LIMITED LIFETIME WARRANTY"
+
+**Top Right Description:**
+"Decorative shutters, eaves, and colonial style windows combine to create the appearance of a permanent building, custom designed to complement your home. The door and window options provide the access, light and ventilation suitable for workshops, utility buildings and all manner of storage."
+- From 6'W x 4'L up to 14'W x 50'L
+
+**Bottom Left Title:**
+"Tuffy"
+
+**Bottom Left Description:**
+"Quality and versatility make this model a favorite for residential settings plus a wide range of commercial applications. Available in single or double-wide configurations, with your choice of door styles and many design options."
+
+**Bottom Left Bullet Points:**
+- Basic single-wide plan is available from 4'W x 4'L up to 14'W x 50'L
+- Single or double doors
+- Single hung windows in a variety of sizes and styles
+
+**Top Right Badge (Bottom Section):**
+"TED'S SHEDS LIMITED LIFETIME WARRANTY"
+
+**Bottom Center:**
+"All SIZES ARE NOMINAL."
+
+**Bottom Right Corner:**
+"EFTA00007922"
+
+## Notable Details / Clues
+- **Brand Identity:** The repeated "TED'S SHEDS" badge establishes the manufacturer and claims a "Limited Lifetime Warranty" on their products.
+- **Architectural Styles:** The page contrasts two styles: the top is "Classic" (colonial style with shutters) while the bottom is "Tuffy" (utility/commercial focus).
+- **Dimensions:** The text explicitly provides size ranges for both models, noting that dimensions are nominal (excluding standard framing allowances).
+- **Application:** The imagery suggests these sheds are intended for heavy storage tasks—storing riding mowers and tractors—rather than just light gardening tools.
+- **Customization:** There is a strong emphasis on options, mentioning "choice of door styles," "many design options," and specific window types (single hung).
+- **Reference Code:** The code "EFTA00007922" in the corner likely serves as a page number or internal catalog reference.
+- **Visual Style:** The illustrations have a woodcut or linocut aesthetic, distinct from high-resolution photography, suggesting this is a printed brochure or manual rather than a digital advertisement.
+
+## Page 31 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TED'S SHEDS
+LIMITED
+LIFETIME
+WARRANTY
+
+Many door and window styles,
+sizes and trim options allow you
+to customize your TED'S SHEDS
+to your specific needs – and
+your site.
+
+Deluxe Barn
+
+The gambrel roof provides greater ceiling height along the side
+walls, while having the exterior appearance of a traditional
+American barn. The style is further expressed in the decorative
+double doors, louvered air vent, wood grain siding, and colonial
+style windows with decorative shutters. The Deluxe Barn is ideal
+for workshops, lawn equipment, recreational gear, and a variety
+of agricultural and commercial uses.
+    * From 4'W x 4'L up to 14'W x 50'L
+    * Flexible door and window placement
+
+TED'S SHEDS
+LIMITED
+1 YEAR
+WARRANTY
+
+Double Wide
+
+Big on style and on space, the Double
+Wide model accommodates cars,
+boats, trailers, – you name it, and is a
+permanent attractive addition to any
+home or business.
+    * From 16'W x 10'L up to 28'W x 100'L
+    * Steel garage doors available in
+      widths from 6'W up to 16'W
+
+Shingle Roofs, in a variety of
+colors, are available on most
+models!
+
+ALL SIZES ARE NOMINAL.
+EFTA00007923
+
+## Structured Fields
+* **Organization:** TED'S SHEDS LIMITED
+* **Doc ID:** EFTA00007923
+* **Warranty Status:** LIFETIME (Top image), 1 YEAR (Bottom image)
+
+## Page 32 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cape
+The simple design of the Cape model assures maximum storage area in a compact plan, making it a popular choice in many residential settings, including manufactured home communities and RV parks.
+The Cape is available with the roof pitched down to the rear, providing maximum headroom at the front... or with the roof pitched down to the front, for maximum storage height at the rear.
+
+[IMAGE: Shed exterior view with palm trees]
+TED'S SHEDS
+LIMITED
+LIFETIME
+WARRANTY
+
+The choice of roof pitch, with the wide range of color combinations available, allows the Cape to blend easily with existing walls and buildings.
+• From 6' wide x 4' deep up to 50' wide x 14' deep
+• Door may be centered or offset to side
+• Decorative shutters and choice of window sizes available
+
+Built-in shelving and workbenches are popular options – available on all TED'S SHEDS!
+
+[IMAGE: White shed exterior view]
+TED'S SHEDS
+LIMITED
+LIFETIME
+WARRANTY
+
+Doghouse
+Built to the same rugged standards as all other TED'S SHEDS, the Doghouse provides a durable, low maintenance, well ventilated home for man's best friend.
+• From 2'W x 3'L up to 6'W x 6'L
+[IMAGE: Doghouse exterior view]
+
+ALL SIZES ARE NOMINAL.
+EFTA00007924
+
+## Structured Fields
+*   **Organization:** TED'S SHEDS
+*   **Document ID:** EFTA00007924
+*   **Product Models:** Cape, Doghouse
+*   **Warranty:** LIFETIME WARRANTY
+
+## Page 33 (DOC) [TAG:DOJ_CLEAN_V2]
+
+In addition to long-lasting aluminum siding, TED'S SHEDS also offers models with solid wood or vinyl siding. These attractive storage buildings are all constructed with the same high quality wood flooring, wall and roof framing that has made TED'S SHEDS the most enduring name in portable storage buildings.
+
+**Allwood™**
+
+The Allwood™ model, with genuine, solid wood siding, looks right at home in the country or in a suburban landscape.
+*   From 4'W x 4'L up to 14'W x 50'L
+*   Aluminum or fiberglass shingle roof
+*   Reverse board and batten (RB & B) or T1-11
+*   Available unfinished, so you can stain or paint to exactly match your home
+
+[TED'S SHEDS LIMITED 5 YEAR WARRANTY] [Image of shed with horse] [TED'S SHEDS LIMITED 3 YEAR WARRANTY]
+
+**Avalon**
+
+The Avalon model features durable vinyl siding. With a wide choice of siding colors and coordinated aluminum trim packages, this model may appear as a custom addition to your home.
+*   From 4'W x 4'L up to 14'W x 50'L
+*   Aluminum or fiberglass shingle roofing
+*   Door may be centered or offset to the side
+*   Decorative shutters and choice of window sizes available
+
+ALL SIZES ARE NOMINAL.
+
+**Property improvements the whole family will enjoy!**
+
+TED'S SHEDS produces beautiful, custom gazebos and children's playsets. A wide range of sizes, styles and optional features are available and are all built, delivered and professionally installed by our experienced crews. Call toll-free ([REDACTED]) for brochures or visit the nearest showcase location.
+
+EFTA00007925
+
+## Structured Fields
+- **Organization:** TED'S SHEDS
+- **Product Models:** Allwood, Avalon
+- **Warranty Details:** 5 Year Limited Warranty, 3 Year Limited Warranty
+- **Doc ID:** EFTA00007925
+
+## Page 34 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Why is TED'S SHEDS your best value?
+
+Direct questions from customers help explain the importance of quality in the selection of your portable storage building.
+
+*"What should I look for in a quality shed?*"
+
+Integrated construction, using the most durable materials and engineered fasteners, will satisfy the State of Florida Department of Community Affairs (DCA) building code and provide the greatest strength and long lasting service. TED'S SHEDS feature:
+
+*   Framed construction of #2 grade Southern Yellow Pine, *not light weight Spruce or Fir*.
+*   Framing spaced in 16" or 24" increments, per customer preference.
+*   Heavy duty 4" x 6" corner post constructed of 3 – 2" x 4" studs with ½" plywood spacer for maximum strength and rigidity.
+*   Inside of siding coated white – for cleaner, brighter interior appearance (with most colors).
+
+Roof Tie
+
+*"How will my shed hold up in Florida's climate?*"
+
+TED'S SHEDS most popular sheds are specifically designed for Florida's demanding environment. Key factors include:
+
+*   Aluminum siding is installed with stainless steel screws and **WILL NOT RUST!**
+*   Exclusive ridge vent, available to release heat through the roof.
+*   *Mobile Home Door* for a secure fit, – that will not rot or warp.
+*   Weather-seal around door and foam-seal around the sides and roof, to keep out bugs and blowing rain.
+*   **Pressure treated** sill plate, flooring, joists and skids to resist bugs and rot.
+
+Top Plate Tie
+Hurricane Clips
+Floor Tie
+
+Truss Plates
+
+*"Does my shed meet Florida's hurricane codes?*"
+
+YES! TED'S SHEDS are engineered to comply with the State of Florida Department of Community Affairs (DCA) regulations. The sheds are engineered to withstand wind loads up to 150 m.p.h.!
+
+*   Installation includes heavy-duty "mobile home type" anchors.
+*   Skids are connected with hurricane clips to the floor joists.
+*   Wall studs are connected with galvanized steel straps to the floor and roof trusses.
+*   Galvanized steel truss plates are hydraulically installed.
+
+Wall & Truss Tie
+Corner Tie
+Corner Post
+
+*"Will my shed require much maintenance?*"
+
+Years of rigorous testing and field experience have led to TED'S SHEDS insistence on low maintenance construction details:
+
+*   Concrete foundation blocks, so skids don't contact the ground.
+*   3/4" **pressure treated**, tongue and groove "Sturdi-Floor" plywood, *not untreated, poor quality wood covered with paint or copper tox.*
+*   **Pressure treated** 2" x 4" sill plates.
+*   Nails, *not staples*, are used to fasten the wood together.
+*   Maintenance free aluminum siding and roofs, with baked enamel paint available in more than 25 colors!
+
+EFTA00007926
+
+## Page 35 (DOC) [TAG:DOJ_CLEAN_V2]
+
+**What is covered by the warranty?**
+
+As the oldest portable building manufacturer in Florida, TED'S SHEDS understands the importance of standing behind the product... and puts that commitment in writing.
+
+Most importantly, the company has the experience, the resources, and the willing attitude to keep that commitment, and to provide exemplary service, long after delivery and installation of every high quality TED'S SHEDS building.
+
+| [TEDS SHEDS Logo] | Serial Number **157663** |
+| :--- | :--- |
+| Fort Myers Florida | |
+
+**Building Registration**
+
+A metal registration plate, inscribed with the serial number that corresponds to your original purchase documents, is installed on your TED'S SHEDS building, certifying that it is an authentic, quality built TED'S SHEDS product.
+
+**Manufacturer's Limited Lifetime Warranty**
+
+TED'S SHEDS guarantees its workmanship to be free of defects and its aluminum and paint against corrosion for a lifetime. It is the only limited lifetime warranty in the industry against corrosion, termites, and decay.
+
+Confidence in the quality of the product and the desire to maintain customer satisfaction and loyalty allow TED'S SHEDS to offer the most complete warranty in the business.
+
+**Certificate of Origin**
+
+This certificate documents the original purchase of an authentic TED'S SHEDS building and includes written confirmation of the manufacturer's serial number.
+
+**[Certificate Image Overlay]**
+*Manufacturer's Limited Lifetime Warranty*
+TED'S SHEDS, INC.
+9350 Laredo Avenue
+Fort Myers, Florida 33905
+
+Warranty: Ted's Sheds, Inc., does hereby guarantee to the original customer purchasing for residence use only... within a reasonable time after installation by the original customer of a defect caused by construction or storage in a building manufactured by it, Ted's Sheds, Inc., will repair the defect... If attempts at repair is not feasible, the original customer may elect to have the building replaced...
+
+CONDITIONS AND EXCEPTIONS: All authentic Ted's Sheds, Inc. buildings have a sealed metal plate located on the building... As a condition to this warranty, make of a defect must be given to Ted's Sheds, Inc., in accordance with documented proof of purchase... within sixty (60) days from delivery or within ninety (90) days after date should have been discovered.
+
+LIMITATIONS OF LIABILITY: THIS EXPRESS AND IMPLIED IN LIEU OF ANY OTHER WARRANTY. TED'S SHEDS, INC. SHALL NOT BE LIABLE FOR INDIRECT OR CONSEQUENTIAL DAMAGES...
+
+The undersigned manufacturer hereby certifies that the new TED'S SHED described below, has been transferred to:
+
+TEDS SHEDS OF TAMPA-120WS
+whose address is 6311 EAST HILLSBOROUGH AVENUE
+TAMPA, FL 33610000
+
+| on Invoice No 234866 |
+| Serial No. **157663** |
+| Size & Style 12 X 24 CLASSIC |
+| Date of Manufacture March 2003 |
+
+By [Signature]
+President
+
+*[Bottom Left Box]*
+STATE OF FLORIDA
+Department of Community Affairs
+Manufactured Buildings Program
+
+Residential Lawn Storage Buildings
+Number RLS-011284
+
+This insignia certifies that this structure is in compliance with the Manufactured Buildings Act (Part IV Chapter 553, F.S.)
+*Do Not Remove This Insignia*
+
+*[Bottom Right Large Logo]*
+**TEDS SHEDS**®
+
+www.tedssheds.com
+Call for the location of your local store:
+Toll Free **[REDACTED]**
+
+TED'S SHEDS is a federally registered trademark, No. 1152115, April 28, 1991.
+
+**State Certification**
+
+This insignia is issued by the State of Florida Department of Community Affairs (DCA) and certifies that your TED'S SHEDS building complies with the new Florida Building Code. Manufactured storage buildings that do not bear this insignia cannot be permitted by any Florida building department.
+
+EFTA00007927
+
+## Structured Fields
+
+*   **Date:** March 2003
+*   **Date (Trademark):** April 28, 1991
+*   **Serial Number:** 157663
+*   **Invoice No.:** 234866
+*   **Location (Fort Myers):** 9350 Laredo Avenue, Fort Myers, Florida 33905
+*   **Location (Tampa):** 6311 East Hillsborough Avenue, Tampa, FL 33610000
+*   **State/Location ID:** RLS-011284 (Residential Lawn Storage Buildings)
+*   **Trademark No.:** 1152115
+
+## Page 36 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+2563
+DOLLARS BALANCE
+DATE [REDACTED] BR[OUGHT F]ORWARD
+PAY TO [REDACTED] DEPOSIT
+DEPOSIT
+TOTAL AMOUNT THIS CHECK 1600.00 %10
+FOR Payroll Salary
+for Jan, '05 BALANCE
+OTHER Deductions [REDACTED]
+ALMOST LAST CHECK WRITTEN BY ALFREDO RODRIGUEZ
+TAX DEDUCTIBLE
+
+[REDACTED]
+2564
+JEFFREY E. EPSTEIN
+HOUSEHOLD ACCOUNT
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+2564
+Date [REDACTED] 53-1322/531 32036
+Pay to the Order of $
+Dollars
+COLONIAL BANK N.A.
+Palm Beach, Florida
+24 Hr Colonial Connection 1-877-502-2265
+For [REDACTED]
+[106313222:] [REDACTED] 2564
+GUARDWARE SAFETY BLUE INK
+
+2565
+JEFFREY E. EPSTEIN
+HOUSEHOLD ACCOUNT
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+2565
+Date [REDACTED] 53-1322/531 32036
+Pay to the Order of $
+Dollars
+COLONIAL BANK N.A.
+Palm Beach, Florida
+24 Hr Colonial Connection 1-877-502-2265
+For [REDACTED]
+[106313222:] [REDACTED] 2565
+GUARDWARE SAFETY BLUE INK
+
+EFTA00007928
+```
+
+## Structured Fields
+- **Names:** Jeffrey E. Epstein, Alfredo Rodriguez
+- **Organizations:** Colonial Bank N.A., Household Account
+- **Locations:** Palm Beach, FL 33480, 358 El Brillo Way
+- **Doc IDs/Check Numbers:** 2563 (Stub), 2564, 2565
+- **Date References:** Jan '05
+</think>
+
+```markdown
+2563
+DOLLARS BALANCE
+DATE [REDACTED] BR[OUGHT F]ORWARD
+PAY TO [REDACTED] DEPOSIT
+DEPOSIT
+TOTAL AMOUNT THIS CHECK 1600.00 %10
+FOR Payroll Salary
+for Jan, '05 BALANCE
+OTHER Deductions [REDACTED]
+ALMOST LAST CHECK WRITTEN BY ALFREDO RODRIGUEZ
+TAX DEDUCTIBLE
+
+[REDACTED]
+2564
+JEFFREY E. EPSTEIN
+HOUSEHOLD ACCOUNT
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+2564
+Date [REDACTED] 53-1322/531 32036
+Pay to the Order of $
+Dollars
+COLONIAL BANK N.A.
+Palm Beach, Florida
+24 Hr Colonial Connection 1-877-502-2265
+For [REDACTED]
+[106313222:] [REDACTED] 2564
+GUARDWARE SAFETY BLUE INK
+
+2565
+JEFFREY E. EPSTEIN
+HOUSEHOLD ACCOUNT
+358 EL BRILLO WAY
+PALM BEACH, FL 33480
+2565
+Date [REDACTED] 53-1322/531 32036
+Pay to the Order of $
+Dollars
+COLONIAL BANK N.A.
+Palm Beach, Florida
+24 Hr Colonial Connection 1-877-502-2265
+For [REDACTED]
+[106313222:] [REDACTED] 2565
+GUARDWARE SAFETY BLUE INK
+
+EFTA00007928
+```
+
+## Page 37 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JEJan. 16. 2005:11:20AM DDA STATEMENT HISTORY No. 32587.P. 1 PAGE 1
+, GHI SLAINE MAXWELL OR ALFREDO RODRIGUEZ ACCOUNT [REDACTED]
+HOUSEHOLD ACCOUNT DATE LAST STATEMENT 12/22/04
+DATE THIS STATEMENT 01/18/05
+****DDA TRANSACTIONS*****
+BEGINNING CHECKS/OTHER DEBITS DEPOSITS/OTHER CREDITS ENDING
+BALANCE NBR TOTAL AMOUNT NBR TOTAL AMOUNT BALANCE
+5825.46 11 9438.14 1 10000.00 6387.32
+
+DATE CK NBR AMOUNT TP TRANSACTION DESCRIPTION BALANCE
+11/30 2515 125.00 CK CHECK 5700.46
+12/03 2516 1600.00 CK CHECK 4100.46
+12/03 2517 549.29 CK CHECK 3551.17
+12/06 10000.00 CR INCOMING WIRE CREDIT 13551.17
+12/06 10.00 DB INCOMING WIRE FEE 13541.17
+12/06 Bank Check -> 2000.00 CK TELLER CASHED CHECK Petty Cash 11541.17
+12/07 2521 517.74 CK CHECK 11023.43
+12/07 2522 210.00 CK CHECK 10813.43
+12/07 2518 101.03 CK CHECK 10712.40
+12/08 2519 2925.08 CK CHECK 7787.32
+12/08 Bank Check -> 1000.00 CK TELLER CASHED CHECK (to J.E) 6787.32
+12/13 2524 400.00 CK CHECK 6387.32
+
+PF1 - PAGE FWD
+EFTA00007929
+
+## Structured Fields
+*   **Date:** Jan. 16, 2005 (Printed timestamp), 01/18/05 (Statement Date)
+*   **Case ID / Doc ID:** DDA STATEMENT HISTORY No. 32587.P. 1
+*   **Names:** GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ
+*   **Account Type:** HOUSEHOLD ACCOUNT
+*   **Date Last Statement:** 12/22/04
+
+## Page 38 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JE Jan. 18. 2005:11:20AM OR
+DDA STATEMENT HISTORY
+GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ                   ACCOUNT [REDACTED]                      No. 32587.P.    1 PAGE
+HOUSEHOLD ACCOUNT                                        DATE LAST STATEMENT          12/22/04
+                                                                DATE THIS STATEMENT        01/18/05
+*****DDA TRANSACTIONS*****
+
+BEGINNING                  CHECKS/OTHER DEBITS   DEPOSITS/OTHER CREDITS      ENDING
+BALANCE                    NBR       TOTAL AMOUNT             NBR    TOTAL AMOUNT         BALANCE
+5825.46                   22        18829.20                  2     20000.00              6996.26
+
+DATE   CK NBR                    AMOUNT TP  TRANSACTION DESCRIPTION            BALANCE
+12/14  2526                       5000.00 CK  TELLER CASHED CHECK [handwritten note: TO J. E.]        1387.32
+12/14  2525                       1000.00 CK  TELLER CASHED CHECK [handwritten note: Polly Ceik]       387.32
+12/15          2523                      10000.00 CR  INCOMING WIRE CREDIT                                     10387.32
+12/15                               600.00  DB  FORCE PAY DEBIT                                          9787.32
+12/15                               30.00   DB  NSF CHARGE                                               9757.32
+12/15                               10.00   DB  INCOMING WIRE FEE                                        9747.32
+12/16  2527                       503.50 CK  CHECK                                                    9243.82
+12/17  2529                       113.42 DB  TIRES PLUS FT LA EFT                                     9130.40
+12/20  2528                      1300.00 CK  CHECK                                                    7830.40
+12/20  2533                       420.00 CK  CHECK                                                    7410.40
+12/21  2531                       260.44 CK  CHECK                                                    7149.96
+12/21  2530                       153.70 CK  CHECK                                                    6996.26
+
+PF1 - PAGE FWD          PF2 - PAGE BKWD
+
+## Structured Fields
+*   **Date:** Jan. 18, 2005
+*   **Statement Period Start:** 01/18/05
+*   **Statement Period End:** 12/22/04
+*   **Account Names:** GHISLAINE MAXWELL, ALFREDO RODRIGUEZ
+*   **Account Type:** HOUSEHOLD ACCOUNT
+*   **Statement Number:** 32587.P.
+*   **Document ID:** EFTA00007930
+*   **Beginning Balance:** $5825.46
+*   **Total Debits:** $18829.20
+*   **Total Credits:** $20000.00
+*   **Ending Balance:** $6996.26
+
+## Page 39 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JEJan. 16. 2005:11:20AMOR
+GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ
+HOUSEHOLD ACCOUNT
+DDA STATEMENT HISTORY
+ACCOUNT [REDACTED]
+DATE LAST STATEMENT 12/22/04
+DATE THIS STATEMENT 01/18/05
+No. 3256.7.P. 3 PAGE 3
+
+BEGINNING BALANCE                    CHECKS/OTHER DEBITS                 DEPOSITS/OTHER CREDITS             ENDING
+BALANCE                               NBR   TOTAL AMOUNT                      NBR   TOTAL AMOUNT                      BALANCE
+5825.46                               23       19561.72                         3       20000.53                         6264.27
+
+DATE CK NBR                           AMOUNT TP TRANSACTION DESCRIPTION              BALANCE
+12/22             2520                              732.52 CK CHECK                                  5263.74
+12/22                                                                                      6264.27
+                                                                                      CR IOD INTEREST PAID
+
+LAST PAGE                               PF2 - PAGE BKWD
+
+## Structured Fields
+- **Date**: Jan. 16. 2005 / 12/22/04 / 01/18/05
+- **Document ID**: No. 3256.7.P. 3, EFTA00007931
+- **Names**: GHISLAINE MAXWELL, ALFREDO RODRIGUEZ
+- **Organization**: [REDACTED] (Bank Account)
+
+## Page 40 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JEJan. 10. 2005 11:20AM
+GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ
+HOUSEHOLD ACCOUNT
+DDA STATEMENT INQUIRY No 3258A .P PAGE
+ACCOUNT [REDACTED]
+DATE THIS STATEMENT 01/18/05
+DATE LAST STATEMENT 12/22/04
+
+******DDA TRANSACTIONS******
+
+BALANCE                  CHECKS/OTHER DEBITS         DEPOSITS/OTHER CREDITS    BALANCE
+LAST STATEMENT           NBR        TOTAL AMOUNT               NBR     TOTAL AMOUNT             THIS STATEMENT
+6264.27                   11         7650.65                     1       10000.00                  8613.62
+
+DATE   CK NBR          AMOUNT  TY    TRANSACTION DESCRIPTION           BALANCE
+12/23  2534             160.00 CHECK                             6104.27
+12/24  2532             495.71 CHECK                             5608.56
+12/30                                     10000.00 INCOMING WIRE CREDIT             
+12/30                                      10.00  INCOMING WIRE FEE                 
+12/31 (12/30/04)   2535            2000.00 TELLER CASHED CHECK               15598.56
+                                Ro Hy Cash
+01/03  2538             2100.00 TELLER CASHED CHECK               13598.56
+01/04  2541             166.99 CHECK                          
+01/04  2537             132.29 CHECK                          
+01/06  2540             65.00  CHECK                             11199.28
+01/07 (1/04/05)   2542            2000.00 TELLER CASHED CHECK               11134.28
+                                Jo Potty Cash
+01/10  2539             180.50 CHECK                             9134.28
+01/11  2543             340.16 CHECK                             8953.78
+PF1 - PAGE FWD
+
+EFTA00007932
+
+## Page 41 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JE Jan. 18. 2005 11:20AM                                      DDA STATEMENT INQUIRY                                       No. 3258.8.P. 5PAGE 4
+GHISLAINE MAXWELL OR ALFREDO RODRIGUEZ                                  ACCOUNT [REDACTED]
+HOUSEHOLD ACCOUNT                                                          DATE THIS STATEMENT 01/18/05
+                                                                              DATE LAST STATEMENT 12/22/04
+        ****DDA TRANSACTIONS*****
+~ BALANCE                    CHECKS/OTHER DEBITS   DEPOSITS/OTHER CREDITS                BALANCE
+.LAST STATEMENT              NBR       TOTAL AMOUNT      NBR         TOTAL AMOUNT          THIS STATEMENT
+6264.27                       16         11995.76                   1            10000.00           4268.51
+
+DATE     CK NBR                      AMOUNT TY TRANSACTION DESCRIPTION                             BALANCE
+01/12    2547                     1349.36 CHECK
+01/12    2545                     1243.32 CHECK
+01/12    2546                       423.87 CHECK
+01/12    2544                      370.06 CHECK
+01/13    2548                      958.50 CHECK                                      5227.01
+                                                                                                  4268.51
+
+LAST PAGE                     PF2 - PAGE BKWD
+
+## Structured Fields
+- **Date**: Jan 18, 2005 (Statement Date) / Dec 22, 2004 (Last Statement Date)
+- **Doc ID / Account No**: No. 3258.8.P.
+- **Names**: GHISLAINE MAXWELL, ALFREDO RODRIGUEZ
+- **Organization**: HOUSEHOLD ACCOUNT
+
+## Page 42 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+[REDACTED]
+(rent the car)
+-contract up on 2nd
+of february
+
+Dollar Rent A Car
+[REDACTED]
+[REDACTED]
+
+Jeffrey E. Epstein
+EFTA00007934
+## Structured Fields
+*   **Date:** February 2nd
+*   **Name:** Jeffrey E. Epstein
+*   **Organization/Location:** Dollar Rent A Car
+*   **Doc ID:** EFTA00007934
+
+## Page 43 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+1) [REDACTED] car -> extension
+    1 month
+2900 pm buket of roses
+to [REDACTED]
+High school for [REDACTED]
+Give the flowers at
+8:30 to sb. to
+give it to her flat
+the [REDACTED] after
+
+## Structured Fields
+*   Case ID/Doc IDs: EFTA00007935
+```
+
+## Page 44 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Address / Telephone Sheet                                      E mail; [REDACTED]
+# 358 El Brillo Way, Palm Beach Fl, 33480
+
+Name                    Address                        Telephone/Fax
+
+Mr. Jeffrey Epstein (NYSG LLC ) Office
+457, Madison Avenue 4th Floor
+New York, NY 10021.    Email   [REDACTED]   [REDACTED]   [REDACTED]
+
+Ms. Ghislaine Maxwell     Email   [REDACTED]   [REDACTED]   [REDACTED]
+
+Accountants
+[REDACTED]          (St. Rep)  Email   [REDACTED]      [REDACTED]    (Dutche Bank)?!
+Bella Klein-Accountants  (Petty Cash Rep.)           Email   [REDACTED]
+
+Assistants
+[REDACTED]         JE Sec)          Email   [REDACTED]
+
+Property
+
+Keith Blumberg          Email   [REDACTED] (P)
+
+Engineer
+[REDACTED]    chitoch    O.     [REDACTED]  (O)
+Mark Lumberg            [REDACTED]   F.     [REDACTED]  (C)       -> Not in Service
+
+Computers
+Residences of Mr. Jeffrey Epstein
+9 East 71st Street,
+New York NY 10021
+
+Mr. Jeffrey Epstein
+
+Ms. Ghislaine Maxwell
+
+Staff
+House Manager Jojo        (C)
+House Manger Lynn         (C)
+[REDACTED]                (H)
+Staff Phone
+
+Chef Brent Tindall        (P)           (F)           (C)           (H)
+
+9 E 71st
+N.Y, N.Y.
+100
+
+EFTA00007936
+## Structured Fields
+- **Location**: # 358 El Brillo Way, Palm Beach FL, 33480; 457 Madison Avenue, New York, NY 10021; 9 East 71st Street, New York NY 10021
+- **Names**: Jeffrey Epstein, Ghislaine Maxwell, Bella Klein, Keith Blumberg, Mark Lumberg, Brent Tindall, Jojo, Lynn
+- **Organizations**: NYSG LLC, Deutsche Bank (handwritten note)
+- **Doc ID**: EFTA00007936
+
+## Page 45 (DOC) [TAG:DOJ_CLEAN_V2]
+
+WORTH BUILDERS ->
+116 East 65th Street
+New York NY 10021
+Ms Ghislaine Maxwell   Email [REDACTED] [REDACTED]
+Staff
+[REDACTED]       Email [REDACTED] [REDACTED]
+                                    (P)
+                                    (F)
+House Managers
+[REDACTED]           [REDACTED] (H)
+                                  (C)
+                                  (C)
+358 El Brillo Way, Palm Beach
+Florida 33480
+Mr. Jeffrey Epstein   [REDACTED] (P)
+                        (F)
+Ms Ghislaine Maxwell  [REDACTED] (P)
+                        (F)                      [REDACTED]
+Staff                [REDACTED]            [REDACTED] (P)
+                                                              (P)
+                                                              (C)
+                                                              (C)
+                  (Gardner) M-F              [REDACTED] (H)
+Landscape designer, Checks the garden        (C)          (O)
+House cleaning service handles all cleaning/laundry      (H)
+                                                      (C)
+                                                      (W)
+[REDACTED] and [REDACTED] are well versed in supervising and shopping for [REDACTED] when necessary    (H)
+                                                                                                    (C)
+Pilots
+[REDACTED]            [REDACTED] (H)
+[REDACTED]            [REDACTED] (C)
+                      [REDACTED] (H)
+                      [REDACTED] (C)
+Car phones
+Black Mercedes 600
+Front Back      [REDACTED]
+Black Suburban
+Mercedes Sports Convertible
+## Structured Fields
+- **Locations:**
+  - 116 East 65th Street, New York NY 10021
+  - 358 El Brillo Way, Palm Beach Florida 33480
+- **Names:**
+  - Ms Ghislaine Maxwell
+  - Mr. Jeffrey Epstein
+- **Organizations/Groups:**
+  - Worth Builders
+  - House Managers
+  - Staff
+  - Pilots
+  - Landscape designer / House cleaning service / Gardner
+- **Document ID (Footer):**
+  - EFTA00007937
+
+## Page 46 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Residences
+**Zorro Ranch**
+49, Zorro Ranch Road,
+Stanley, New Mexico 87056
+**Mr. Jeffrey Epstein** [REDACTED] (P)
+[REDACTED] (F)
+**Ms Ghislaine Maxwell** [REDACTED] (P)
+                       [REDACTED] (F)
+
+**Staff**
+**Office**
+[REDACTED] Home
+[REDACTED] (P)
+(F)
+(C)
+(C)
+[REDACTED] Home [REDACTED] (P) Home
+
+**Manolito**
+**Little St. James**
+**C/O Financial Trust Company**
+6100, Red Hook Quarters, Suite B3,
+St. Thomas, USV1 00802.
+**Mr. Jeffrey Epstein** [REDACTED] (P)
+                       [REDACTED] (P)
+**Ms. Ghislaine Maxwell** [REDACTED] (P)
+                         [REDACTED] (P)
+**Staff**
+[REDACTED] Home
+[REDACTED] Cathy
+22 Avenue, Foch, Apt 2DD,
+Paris, France 75116.
+Tel: [REDACTED]
+Fax: [REDACTED]
+Staff [REDACTED]
+
+**London**
+44 Kinnerton Street
+London SW1X8ES
+Tel: [REDACTED]
+Fax: [REDACTED]
+Staff [REDACTED]
+
+## Structured Fields
+- **Locations**: Zorro Ranch (Stanley, New Mexico), Manolito Little St. James (St. Thomas, USVI), Paris (France), London.
+- **Addresses**: 49, Zorro Ranch Road; 6100, Red Hook Quarters, Suite B3; 22 Avenue, Foch, Apt 2DD; 44 Kinnerton Street.
+- **Names**: Mr. Jeffrey Epstein, Ms Ghislaine Maxwell, Staff, Cathy.
+- **Organizations**: Financial Trust Company.
+- **Doc ID**: EFTA00007938
+
+## Page 47 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Home Depot
+Mon
+
+Palm Beach Contractors
+
+General Plumbing
+Customer Service representative [REDACTED] [REDACTED]
+
+Electrical
+Reel Power Inc [REDACTED] (electrician) [REDACTED]
+
+Gates
+Samco Systems [REDACTED] (owner) [REDACTED]
+Service gate switch: above garage door controls, when round light is on
+Front gate switch: just above the telephone outlet kitchen area
+
+Garage doors
+The Door Smith Inc [REDACTED] [REDACTED] [REDACTED] ((Car) cell)
+
+Telephones
+Southern Bell (repairs) [REDACTED] [REDACTED]
+
+Internal Phone system ( NEC)
+Repair and Programming [REDACTED] [REDACTED]
+
+Alarm System
+Benham Industries Inc [REDACTED] [REDACTED]
+
+Locksmith
+Wilson & Rowan [REDACTED]
+
+A/C Maintenance
+John C Cassidy 24 hr service [REDACTED]
+
+Handyman
+Carlos (carpenter) Avila [ILLEGIBLE] Contact [REDACTED] [REDACTED]
+
+Landscape
+Alan Stopecck Garden maintenance [REDACTED]
+
+Pest Control
+Palm Beach Exterminator [REDACTED] [REDACTED]
+
+Irrigation
+Dolphin Sprinkle [REDACTED]
+
+Pool Heating
+National Pool Service When needed [REDACTED]
+
+Pool Maintenance
+Hack Pool Service Monday/ Thursday [REDACTED]
+
+Tree Trimming
+Country Wide Trees Twice, summer/winter [REDACTED]
+
+Carpet Cleaners
+Stanley Steamers wall to wall
+Merry Rug area rug [REDACTED]
+
+Alarm - 954.
+EFTA00007939
+
+## Structured Fields
+*   **Document ID:** EFTA00007939
+*   **Location/Property Name:** Palm Beach Contractors / Home Depot (handwritten)
+*   **Names/Organizations:**
+    *   General Plumbing: Customer Service representative
+    *   Electrical: Reel Power Inc
+    *   Gates: Samco Systems
+    *   Garage doors: The Door Smith Inc
+    *   Telephones: Southern Bell
+    *   Internal Phone system: NEC
+    *   Alarm System: Benham Industries Inc
+    *   Locksmith: Wilson & Rowan
+    *   A/C Maintenance: John C Cassidy
+    *   Handyman: Carlos Avila
+    *   Landscape: Alan Stopecck
+    *   Pest Control: Palm Beach Exterminator
+    *   Irrigation: Dolphin Sprinkle
+    *   Pool Heating: National Pool Service
+    *   Pool Maintenance: Hack Pool Service
+    *   Tree Trimming: Country Wide Trees
+    *   Carpet Cleaners: Stanley Steamers, Merry Rug
+*   **Notes:**
+    *   Mon (Handwritten)
+    *   Alarm - 954 (Handwritten at bottom)
+    *   Service gate switch instructions
+    *   Front gate switch instructions
+    *   Contact information redacted for most entries
+
+## Page 48 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Post Office
+
+Cable
+Adolphia cable                 Cable TV                  [REDACTED]
+Bottled Water.
+Bishop water company           Avion water               [REDACTED BLOCK]
+Upholsterer                    [REDACTED BLOCK]
+Gas
+Gas Energy Inc (Joe Di Giovanni) all gas repairs)
+Laundry equipment              [REDACTED BLOCK]
+Painter                         Contact    [REDACTED]     [REDACTED BLOCK]
+Storage
+Storage USA
+5580, Okeechobee Blvd
+Unit 6218
+Grocery & General Household items
+General Grocery
+Publix
+265, Sunset Ave                [REDACTED]
+Gourmet food
+C' est si bon
+289, Sunset Blvd               [REDACTED]
+Carmines
+2401 PGA Blvd Take 95 North to PGA Blvd   [REDACTED]
+Too Jays        Gravelox/ Nova sliced salmon   [REDACTED]
+Green Pharmacy
+151., N County Road            [REDACTED]
+Flowers
+Extra'tough Flowers            [REDACTED]
+Hardware
+Home Depot                     [REDACTED]
+Sewell Hardware                [REDACTED]
+528, Clematis Street           [REDACTED]
+Newspapers
+Main Street News               [REDACTED]
+255, Royal Poinciana Way       [REDACTED]
+Post Office
+401, South County Road,        [REDACTED]
+Car Detailing                  [REDACTED BLOCK]
+Taxi Service/Limo              #          (Monday & Thursday)   [REDACTED]
+FedEx                          [REDACTED]
+Recycling                      Every Thursday 6AM to 5PM    [REDACTED]
+Trash collection               M-F once a day Early Morning  [REDACTED]
+Cars
+Mercedes of Palm Beach         [REDACTED BLOCK]
+Chevrolet                      [REDACTED BLOCK]
+Auto Repairs Gray Sunoco 340 South County
+Nestor Auto 2600, Florida Avenue
+Gasoline Gray Sunoco
+
+ALL AMERICAN SHOOTERS
+
+## Structured Fields
+*   **Date:** Wed 1 8-12 (Handwritten note: Wednesday August 12)
+*   **Location:** Palm Beach area (inferred from "Mercedes of Palm Beach", "PGA Blvd", "Okeechobee Blvd")
+*   **Document ID:** EFTA00007940
+
+## Page 49 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertical document, likely a file note or index card, featuring extensive redactions covered by solid black bars obscuring sensitive information such as names, addresses, and account numbers. The background is white paper with handwritten annotations in blue or black ink alongside the printed text.
+
+At the very top left, faint cursive writing appears to read "Suburbah (Sunrool)" or similar. Below this header, a series of horizontal black bars are stacked. To the left of these bars, there are checkmarks (asterisks) and dashes indicating itemization or categorization. Handwritten names appear interspersed among the redactions: specifically, "Aden Stopak" is written next to a bar, followed by "Bolte." Further down, a cluster of text includes "Benjamin" and what appears to be "(State Dept)." To the right of this central column, a vertical bracket labeled "Mom's" encloses a section numbered 1, 2, and 3 next to a large black rectangle.
+
+Moving lower down the page, another name is handwritten: "E Mollica." Below that is a longer redacted block with the handwritten annotation "- Ghislaine." Near the bottom third of the document, a line reads "- Jon Luc (Karon Models)." The bottom left corner contains a specific list of initials or codes ("PB Skill," "P.B House," "P.B Fay") next to small black bars. At the very bottom right corner, an alphanumeric document identifier "EFTA00007941" is printed.
+
+## Visible Text (verbatim)
+*   **Top Left:** "Suburbah (Sunrool)"
+*   **Middle Left:**
+    *   "Aden Stopak" (handwritten)
+    *   "- Bolte" (handwritten)
+    *   "- Benjamin (State Dept)" (handwritten, partially obscured)
+    *   "E Mollica" (handwritten)
+    *   "- Ghislaine" (handwritten)
+    *   "- Jon Luc (Karon Models)" (handwritten)
+*   **Right Side:**
+    *   "Mom's" (handwritten above a bracket)
+    *   Numbers "1", "2", "3" inside the bracket.
+    *   "dt." and "w." (handwritten scribbles).
+*   **Bottom Left Corner:**
+    *   "PB Skill"
+    *   "P.B House"
+    *   "P.B Fay"
+    *   "P.O."
+*   **Bottom Right:**
+    *   "EFTA00007941"
+
+## Notable Details / Clues
+*   **Redaction Pattern:** The use of uniform black bars suggests a deliberate sanitization of personal data, likely for legal or privacy reasons (PII removal).
+*   **"Mom's" Bracket:** The bracket on the right labeled "Mom's" connects to three distinct items (numbered 1-3), possibly indicating children or family members associated with the main record.
+*   **Professional Affiliation:** The entry for "Jon Luc" includes "(Karon Models)," suggesting a link to modeling or talent agency work.
+*   **Handwritten Notes:** The handwritten text appears to be adding context or identifying specific individuals that might have been obscured by the printed redaction bars or are being added as notes during a review process.
+*   **Document ID:** The code "EFTA00007941" at the bottom right suggests this is part of a formal file system, possibly related to employment, legal discovery, or immigration records (given the "Mom's" and family structure).
+*   **Symbols:** Checkmarks and asterisks next to entries suggest a status log—perhaps verifying contactability or confirming receipt.
+
+## Page 50 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Sam Co. System
+Sam
+Electrician | Energy Efficient Electric | 
+Tel: [REDACTED] | Changed.
+Exterminator | Palm Beach Exterminating | Contact is [REDACTED]
+Tel: [REDACTED] | First Monday of every month at 10:30am
+ | Also use for termite tent
+Garden Service | [REDACTED] [REDACTED] | 
+ | Efflorescence | 
+ | Wellington, FL 33414 | 
+ | Tel: [REDACTED] | 
+ | [REDACTED] [REDACTED] | Part-time help. Billed through [REDACTED] [REDACTED]
+ | Tel: [REDACTED] | In residence: Daily from 6.30am
+ |  | Not in residence: Mon - Fri from 2pm - 5pm
+ |  | Also maintains Mrs Epstein's property on
+ |  | Saturday mornings.
+Garage Doors | The Doorsmith | 
+ | [REDACTED] | 
+ | Boca Raton, FL 33431 | 
+ | Tel: [REDACTED] | 
+Gates | Reich Metal Fabricato | [REDACTED]
+Tel: [REDACTED] | Back door gate switch - above garage door controls. When open, round red light is on.
+ |  | Front door gate switch - in telephone outlet
+ |  | above the kitchen telephone
+Irrigation | Dolphin Sprinkler Inc | [REDACTED]
+Tel: [REDACTED] | 
+Landscape Spraying | Academy Services | Arrange through [REDACTED] [REDACTED]
+Tel: [REDACTED] | 
+Locksmith | Wilson Rowan Locksmiths | 
+[REDACTED] | 
+West Palm Beach, FL 33401 | 
+Tel: [REDACTED] | 
+Painter | Tel: [REDACTED] | Bill Changed
+EFTA00007942
+
+## Structured Fields
+*   **Names:** Mrs Epstein, Sam (handwritten header)
+*   **Organizations:** Energy Efficient Electric, Palm Beach Exterminating, Efflorescence, The Doorsmith, Reich Metal Fabricato(r), Dolphin Sprinkler Inc, Academy Services, Wilson Rowan Locksmiths.
+*   **Locations:** Wellington, FL 33414; Boca Raton, FL 33431; West Palm Beach, FL 33401.
+*   **Contact Info/IDs:** EFTA00007942
+
+## Page 51 (DOC) [TAG:DOJ_CLEAN_V2]
+
+MAIL & DELIVERY SERVICES
+
+| | | |
+| :--- | :--- | :--- |
+| FedEx | [REDACTED] | Account No: [REDACTED]<br>Drop-off box is next to Palm Beach National Bank on Worth Avenue |
+| Post Office | West Palm Beach, FL<br>Tel: [REDACTED] | |
+
+## MAINTENANCE
+
+| | | |
+| :--- | :--- | :--- |
+| Air Conditioning | Cassidy Air Conditioning<br>[REDACTED]<br>West Palm Beach, F[<br>Tel: [REDACTED]<br>[REDACTED] | Monthly service contract First Monday of every month<br>$/c. Pay mee!<br>(Technical)<br>(Filter Service)<br>Cash .? |
+| Awnings | American Awning Company<br>[REDACTED]<br>West Palm Beach, FL 33405<br>Tel: [REDACTED] | Cash .? |
+| Cable Service | Adelphia Cable<br>[REDACTED]<br>West Palm Beach, FL 33407<br>Tel: [REDACTED] | Call |
+| Carpenter | Tel: [REDACTED]<br>[REDACTED] | Cash |
+| Carpet Cleaners | Stanley Steamers<br>Tel: [REDACTED]<br>/<br>Merry Rugs<br>Tel: [REDACTED] | Wall to wall<br>Loose rugs<br>2 - Cash |
+| Computers | Bloomberg (crossed)<br>[REDACTED]<br>New York, NY 10022<br>Tel: [REDACTED] | Palm Beach consultants:<br>[REDACTED]<br>Changed |
+
+EFTA00007943
+
+## Page 52 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TRAVEL
+
+| Pilots | [REDACTED] / [REDACTED] | [REDACTED] |
+| :--- | :--- | :--- |
+|  | [REDACTED] | [REDACTED] |
+|  | [REDACTED] | [REDACTED] (Cell) <br> (Home) |
+| **Mr Epstein's planes** | Jet Aviation | [REDACTED] <br> Procedure for leaving cars at the airport: <br> Leave car at Jet Aviation landing strip <br> Leave the keys in the car <br> Advise Jet Aviation <br> Tail #909JE or Tail #908JE <br> They will tag and pull car to plane upon arrival |
+| **Ms Maxwell's plane** | Raytheon *Changed to:* <br> *Fly Options* | [REDACTED] <br> Contract No: Air 4 <br> Tail # ...TA 970 QJ <br> Always a Beech Jet or Hawker |
+| **Commercial Airlines** | Air France | [REDACTED] |
+| | American | [REDACTED] |
+| | British Airways | [REDACTED] |
+| | Continental | [REDACTED] |
+| | Delta | [REDACTED] |
+| | South African Airways | [REDACTED] |
+| | United | [REDACTED] |
+| | US Air | [REDACTED] |
+
+---
+[REDACTED] Handy men (561)
+EFTA00007944
+
+## Structured Fields
+- **Names:** Epstein, Maxwell, Handy men
+- **Organizations/Entities:** Jet Aviation, Raytheon, Fly Options, Air France, American, British Airways, Continental, Delta, South African Airways, United, US Air
+- **Doc IDs:** EFTA00007944
+- **Aircraft Tails:** 909JE, 908JE
+- **Contract No:** Air 4
+- **Tail # (Partial):** ...TA 970 QJ
+
+## Page 53 (DOC) [TAG:DOJ_CLEAN_V2]
+
+-> Colonial Bank /worth Ave.
+
+BANKING
+| Household Banking Account | Palm Beach National Bank [REDACTED] Palm Beach, FL 33480 Tel: [REDACTED] | Account No: [REDACTED] Send to [REDACTED] for reconciliation $1,000 Petty Cash Float |
+| :--- | :--- | :--- |
+
+BICYCLES
+| Bicycles | Palm Beach Bicycle Trail Shop [REDACTED] Palm Beach, FL 33480 Tel: [REDACTED] | Mongoose Crossway 450 Raleigh Aluminium 300 Mercedes Benz Cignal Sports Bike Schwinn World Huffy Santa Fe Raleigh Sport [REDACTED] [REDACTED] |
+| :--- | :--- | :--- |
+
+BOOKSTORES
+| Newspapers | Publix Super Market [REDACTED] Palm Beach, FL 33480 Tel: [REDACTED] | |
+| :--- | :--- | :--- |
+| Magazines | Main Street News [REDACTED] Palm Beach, FL 33480 Tel: [REDACTED] | |
+
+CLEANING SERVICE
+| [REDACTED] House Cleaning Services | [REDACTED] Call. 1.<br>1 2. | Every Tuesday and Wednesday 8:00am - 4:00pm ([REDACTED]) |
+| :--- | :--- | :--- |
+
+ENTERTAINMENT (Partial: AINMENT)
+| The Breakers | [REDACTED] Palm Beach, FL 33480 Tel: [REDACTED] | Renew car park stickers every September |
+| :--- | :--- | :--- |
+| Comedy Corner | [REDACTED] West Palm Beach, FL 33401 Tel: [REDACTED] | |
+| The Mar-a-Lago Club | [REDACTED] Palm Beach, FL 33480 Tel: [REDACTED] | |
+
+EFTA00007945
+
+## Structured Fields
+*   **Date:** Not explicitly stated, implies recurring service (Every Tuesday and Wednesday).
+*   **Case ID / Doc ID:** EFTA00007945
+*   **Location:** Palm Beach, FL 33480; West Palm Beach, FL 33401.
+*   **Organizations / Names:**
+    *   Colonial Bank (Handwritten note)
+    *   Palm Beach National Bank
+    *   Palm Beach Bicycle Trail Shop
+    *   Publix Super Market
+    *   Main Street News
+    *   House Cleaning Services
+    *   The Breakers
+    *   Comedy Corner
+    *   The Mar-a-Lago Club
+
+## Page 54 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EMERGENCY 911
+
+| | | |
+| :--- | :--- | :--- |
+| **ALARM SYSTEM** | Benham [REDACTED] (Technician) | [REDACTED] |
+| **FIRE RESCUE** | | [REDACTED] |
+| **HOSPITAL** | Good Samaritan Hospital [REDACTED]<br>West Palm Beach, FL 33401 | [REDACTED] |
+| **POISON** | | [REDACTED] |
+| **POLICE** | | [REDACTED] |
+| **VETERINARIAN** | Island Animal Hospital [REDACTED]<br>Palm Beach, FL 33480 | [REDACTED] |
+| **[REDACTED]** | Neighbouring House Manager<br>who can be called in emergencies | [REDACTED]<br>*Disconnected* |
+| **MS MAXWELL** | Portable Home | [REDACTED][REDACTED] |
+| **[REDACTED]** | Portable Home (crossed out) | [REDACTED Scribbles] |
+
+EFTA00007946
+
+## Structured Fields
+- **Location:** West Palm Beach, FL; Palm Beach, FL
+- **Organizations:** Good Samaritan Hospital, Island Animal Hospital
+- **Names/Entities:** Benham, Ms Maxwell, Neighbouring House Manager
+- **Doc ID:** EFTA00007946
+- **Notes:** Technician, Disconnected, Portable Home (crossed out)
+
+## Page 55 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Changed
+VEHICLES
+
+| | | |
+| :--- | :--- | :--- |
+| Mercedes Benz 600<br>2001 Black<br>Licence: [REDACTED]<br>*Gone to NYC '98* | [REDACTED]<br>Rear Front<br>*Taken by* | Mercedes Benz of Palm Beach<br>4000 Okeechobee Boulevard<br>West Palm Beach, FL 33409<br>Att: [REDACTED]<br>Tel: [REDACTED] |
+| **Mercedes Benz 600**<br>1997 Black<br>Licence: [REDACTED] | [REDACTED]<br>Rear Front | |
+| Mercedes Benz 600 Conv<br>1998 Silver<br>Licence: [REDACTED]<br>*Gone* | [REDACTED] | Paint Work & Body Shop<br>Coach Work<br>Contact [REDACTED] |
+| Suburban<br>2001 Black<br>Licence: [REDACTED]<br>*Gone to Zero* | [REDACTED] | Roger Dean Chevrolet<br>[REDACTED]<br>West Palm Beach, FL 33409<br>Tel: [REDACTED] |
+| Crysler Mini Van<br>1996 White<br>Licence: [REDACTED]<br>*Gone* | [REDACTED] | Nestor Auto Repairs<br>[REDACTED]<br>West Palm Beach, FL 33401<br>Tel: [REDACTED] |
+| Cobra Grand<br>1993 Green<br>[REDACTED] | (Empty) | Nestor Auto Repairs<br>[REDACTED]<br>West Palm Beach, FL 33401<br>Tel: [REDACTED] |
+| Volvo<br>1998 Gold<br>Mrs Epstein | [REDACTED] | Volvo Palm Beach<br>[REDACTED]<br>West Palm Beach, FL 33417<br>Tel: [REDACTED] |
+| Oil Well | [REDACTED]<br>West Palm Beach, FL 33405<br>Tel: [REDACTED] | Oil change every 3 000 miles |
+
+Registration, insurance and yearly inspection papers to be kept in the glove compartment of each vehicle Spare keys are kept in the key box in the office
+EFTA00007947
+
+## Structured Fields
+- **Date/Year**: 2001 (Mercedes), 1997 (Mercedes), 1998 (Mercedes Conv), 2001 (Suburban), 1996 (Crysler Van), 1993 (Cobra Grand), 1998 (Volvo)
+- **Case ID/Doc ID**: EFTA00007947
+- **Locations**: West Palm Beach, FL 33409; West Palm Beach, FL 33401; West Palm Beach, FL 33417; West Palm Beach, FL 33405
+- **Names/Organizations**: Mercedes Benz of Palm Beach, Roger Dean Chevrolet, Nestor Auto Repairs, Volvo Palm Beach, Mrs Epstein
+- **Notes**: Gone to NYC '98; Paint Work & Body Shop; Coach Work; Oil change every 3 000 miles
+
+## Page 56 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Muvico Parisian | City Place | 
+| West Palm Beach, FL 33401 |
+| Tel: [REDACTED] |
+
+[REDACTED] STORES
+
+Bishop Water Co | Tel: [REDACTED] | [ILLEGIBLE] bottled water (large and small) |
+Carmine Giardini's | [REDACTED] Palm Beach Gardens, FL 33410 | Fish, meat, gourmet foods |
+| Tel: [REDACTED] Fax [REDACTED] | [REDACTED] |
+C'est Si Bon | [REDACTED] Palm Beach, FL 33480 | Gourmet foods |
+| Tel: [REDACTED] | |
+Publix Super Market | [REDACTED] Palm Beach, FL 33480 | Général, cleaning, toilettries |
+| Tel: [REDACTED] | |
+Wild Oats | [REDACTED] West Palm Beach, FL 33405 | Health Foods |
+| Tel: [REDACTED] | |
+
+HEALTH & BEAUTY
+
+Pharmacy | Greens Pharmacy | 
+| [REDACTED] Palm Beach, FL 33480 |
+| Tel: [REDACTED] |
+| Lewis Pharmacy |
+| [REDACTED] Palm Beach, FL 33480 |
+| Tel: [REDACTED] |
+
+EFTA00007948
+
+## Structured Fields
+*   **Doc ID:** EFTA00007948
+*   **Names/Organizations:** Muvico Parisian, Bishop Water Co, Carmine Giardini's, C'est Si Bon, Publix Super Market, Wild Oats, Greens Pharmacy, Lewis Pharmacy
+*   **Locations:** City Place, West Palm Beach, FL 33401; Palm Beach Gardens, FL 33410; Palm Beach, FL 33480; West Palm Beach, FL 33405
+
+## Page 57 (DOC) [TAG:DOJ_CLEAN_V2]
+
+UTILITIES
+| Water | City of West Palm Beach [REDACTED] Palm Springs, FL 33461 Tel: [REDACTED] | Water shut-off for entire property is located next to the mailbox on the sidewalk. |
+| Electricity | Florida Power and Light General Mailing Facility Miami, FL 33188-0001 Tel: [REDACTED] | |
+| Gas | Florida Gas Company [REDACTED] West Palm Beach, FL 33401 Tel: [REDACTED] | |
+| Sewer | City of West Palm Beach [REDACTED] Palm Springs, FL 33461 Tel: [REDACTED] [REDACTED] | |
+| Trash Removal | City of West Palm Beach [REDACTED] Palm Springs, FL 33461 Tel: [REDACTED] -WaterPot Trash Removal | Daily (Monday -Friday) Recycables (Thurs bet Noon) |
+| Telephone | ETC [REDACTED] West Palm Beach, FL 33407 Tel: [REDACTED] | 52 -- - 61 79 --- |
+| | Bell South Tel: [REDACTED] | |
+
+## Structured Fields
+- **Location**: West Palm Beach, FL; Palm Springs, FL; Miami, FL
+- **Organizations**: City of West Palm Beach, Florida Power and Light, General Mailing Facility, Florida Gas Company, ETC, Bell South
+- **Doc ID**: EFTA00007949
+
+## Page 58 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Plumber
+general plumbing
+[REDACTED]
+Foster Plumbing
+[REDACTED] [REDACTED]
+West Palm Beach, FL 33409
+Tel: [REDACTED]
+Roto Rooter
+[REDACTED]
+Fort Lauderdale, FL 33309
+Tel: [REDACTED]
+General plumbing repairs
+Blocked drains
+
+Pool
+Hackl Pools
+[REDACTED]
+Lake Worth, FL 33460
+Valorie
+Tel: [REDACTED]
+Monday and Thursday at 10:30am
+Clean pool, filter, add salt
+[REDACTED] ✓
+
+Tree Trimming
+County Wide Tree Service
+First Monday in May and November
+Tel: [REDACTED]
+
+STORAGE
+Storage USA
+5580 Okeechobee Boulevard
+West Palm Beach, FL 33417
+Tel: [REDACTED]
+10 ft x 20 ft unit available
+
+VEHICLES
+Car Detailing
+Palm Beach Wash & Auto Detail
+(at Amoco Gas)
+[REDACTED]
+Tel: [REDACTED]
+
+CLEAN CAR SERVICES
+Boynton Beach FL
+33426
+
+Boynton Beach, FL
+3
+
+EFTA00007950
+```
+
+## Structured Fields
+- **Organizations**: Foster Plumbing, Roto Rooter, Hackl Pools, County Wide Tree Service, Storage USA, Palm Beach Wash & Auto Detail, Clean Car Services.
+- **Locations**: West Palm Beach, FL 33409, Fort Lauderdale, FL 33309, Lake Worth, FL 33460, Boynton Beach, FL 33426.
+- **Names**: Valorie (handwritten note).
+- **Doc ID**: EFTA00007950
+
+## Page 59 (DOC) [TAG:DOJ_CLEAN_V2]
+
+house
+50 b-p-p
+Conet Block.
+
+Take out Rlm
+truck - fork lift
+4'-6" wall
+mats & ...
+9-0"
+
+Forklift
+Spec?
+10 Box
+Dump...
+Conet Block
+base.
+6-10"
+base found!
+
+[REDACTED]
+pool
+new
+removal trench
+
+Jeffrey E. Epstein
+EFTA00007951
+
+## Structured Fields
+- **Name:** Jeffrey E. Epstein
+- **Doc ID:** EFTA00007951
+- **Location/Project Notes:** pool, house, 50 b-p-p, Conet Block, Forklift, Take out Rlm, base found!
+
+## Page 60 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JEFFREY E. EPSTEIN
+HOUSEHOLD ACCOUNT
+599 EL BRILLO WAY
+PALM BEACH, FL 33480
+
+Date         4/16/09          2513        85-1222/591
+                                                      32358
+
+Pay to the Order of Flopping Dimensions Inc. — $ 2,500 00/100 Dollars [REDACTED]
+
+COLONIAL BANK INC. Palm Beach, Florida
+24 th Colonial Conntuition 1-877-002-2269
+
+For Do 017 to commence work                          AlRod...
+12053132226  [REDACTED] 2513
+
+Hello [REDACTED]
+
+I need you to please cover
+this check with funds, Mr. Epstein wants
+this job to start ASAP, please; also
+I need money to buy emergency kits for
+all cars, regards,
+Alfredo
+
+## Structured Fields
+- **Date**: 4/16/09
+- **Check Number**: 2513
+- **Payer**: Jeffrey E. Epstein
+- **Payee**: Flopping Dimensions Inc.
+- **Amount**: $2,500.00
+- **Location**: Palm Beach, FL 33480
+- **Bank**: Colonial Bank
+- **Document ID**: EFTA00007952
+- **Correspondent Name**: Alfredo
+
+## Page 61 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Grocery List May 10, 2004
+
+Dairy Products Carmines                     Fruits (organic) Carmines PJ
+  Whole milk gallon                         2
+  Skim milk gallon                         ½
+  Half & Half carton                       1
+  Non fat Plain Yogurt quart              1
+  Eggs                                     24
+  Danish Butter                            6
+  Low fat cottage Cheese                   1
+  Cream Cheese whipped                     1 pack
+  Fresh mozzarella                         1 pack
+  Parmesan                                 1 wedge
+  Mild Cheddar                             1 pound
+                                                                 Basket of Figs /                    2
+                                                                 Avocados                              6
+                                                                 Bananas bunches2                      12
+                                                                 Oranges                               5
+                                                                 Mangoes                               2
+                                                                 Pincapples                            2
+                                                                 Papaya                                1
+                                                                 Lemon                                  6
+                                                                 Lime                                    6
+                                                                 Raspberries baskets                   2
+                                                                 Strawberries                          2
+                                                                 Grapes Red/ Green baskets             2
+                                                                 Cherries bags                         1
+                                                                 Nectarines                             6
+                                                                 Melons                                 1
+                                                                 Cantaloupe                             1
+
+Juices all organic Carmines               Vegetables all organic Carmines
+  Orange juice                             2
+  Mango Juice                               1
+                                                                 Red Pepper                              2
+                                                                 Green Pepper                            2
+                                                                 Celery bag                               1
+                                                                 Carrots bag                              1
+                                                                 Tomatoes                                12
+                                                                 Cucumber                                 3
+                                                                 Peeled Garlic bottle                     1
+                                                                 White onion                              6
+                                                                 Broccoli heads                           2
+                                                                 Romaine Iettuce bags                     2
+                                                                 Mixed greens boxes                       2
+
+Syrups
+  Nesquik chocolate                        1
+  Hershey's chocolate                      1
+
+Sodas & Power aid                         Meats & Sausages all organic Carmines
+  Power Aide                               24
+  Sprite                                   12
+  Diet Coke                                12
+  Coke                                     12
+  Diet Pepsi                               12
+                                                                 Ham pounds                              1
+                                                                 Bacon pounds                            1
+                                                                 Chicken Breast pounds                   3
+                                                                 Sliced Salmon Too Js                    2
+                                                                 Fresh Fish                              2 pounds
+
+Salad dressing                            Newspapers Daily in Residence 6.30 AM
+  Hellmans                                 1                                            Main Street News open at 6.30 AM
+  Dijon mustard                            1
+                                                                 New York Times                          (daily)
+                                                                 PB daily news                           (shingle sheet)
+                                                                 Wall street Journal                    (M-F)
+                                                                 Daily Mail                              (Ms Maxwell)
+
+Dry foods Carmines                        Saturdays
+  Dark Brown Sugar                         1                                           [REDACTED] others
+  Skippy Peanut butter                     2
+
+Cereals Small boxes                       purchases all Cleaning supplies from Pub
+                                                                                                             EFTA00007953
+Frosted Flakes, Froot Loop,
+Sugar milk, Cheerios, Honey cheerios 6 of each
+Corn pops, special K
+
+## Page 62 (DOC) [TAG:DOJ_CLEAN_V2]
+
+# Grocery List May 10, 2004
+
+**Dairy Products Carmines**
+*   Whole milk gallon 2
+*   Skim milk gallon ½
+*   Half & Half carton 1
+*   Non fat Plain Yogurt quart 1
+*   Eggs 24
+*   Danish Butter 6
+*   Low fat cottage Cheese 1
+*   Cream Cheese whipped 1 pack
+*   Fresh mozzarella 1 pack
+*   Parmesan 1 wedge
+*   Mild Cheddar 1 pound
+
+**Juices all organic Carmines**
+*   Orange juice 2
+*   Mango Juice 1
+
+**Syrups**
+*   Nesquik chocolate 1
+*   Hershey's chocolate 1
+
+**Sodas & Power aid**
+*   Power Aide 24
+*   Sprite 12
+*   Diet Coke 12
+*   Coke 12
+*   Diet Pepsi 12
+
+**Salad dressing**
+*   Hellmans 1
+*   Dijon mustard 1
+
+**Dry foods Carmines**
+*   Dark Brown Sugar 1
+*   Skippy Peanut butter 2
+*   Multi Grain Bread 2
+*   Fresh Bread Carmines 2
+
+**Cereals Small boxes**
+Frosted Flakes, Froot Loop,
+Sugar milk, Cheerios, Honey cheerios 6 of each
+Corn pops, special K
+
+**Fruits (organic) Carmines PJ**
+*   Basket of Figs / 2
+*   Avocados 6
+*   Bananas bunches 2
+*   Oranges 12
+*   Mangoes 5
+*   Pineapples 2
+*   Papaya 1
+*   Lemon 6
+*   Lime 6
+*   Raspberries baskets 2
+*   Strawberries 2
+*   Grapes Red/ Green baskets 2
+*   Cherries bags 1
+*   Nectarines 6
+*   Melons 1
+*   Cantaloupe 1
+
+**Vegetables all organic Carmines**
+*   Red Pepper 2
+*   Green Pepper 2
+*   Celery bag 1
+*   Carrots bag 1
+*   Tomatoes 12
+*   Cucumber 3
+*   Peled Garlic bottle 1
+*   White onion 6
+*   Broccoli heads 2
+*   Romaine lettuce bags 2
+*   Mixed greens boxes 2
+
+**Meats & Sausages all organic Carmines**
+*   Ham pounds 1
+*   Bacon pounds 1
+*   Chicken Breast pounds 3
+*   Sliced Salmon Too Js 2
+*   Fresh Fish 2 pounds
+
+**Newspapers Daily in Residence-6.30 AM**
+**Main Street News open at 6.30 AM**
+*   New York Times (daily)
+*   PB daily news (shingle sheet)
+*   Wall street Journal (M-F)
+*   Daily Mail (daily) (Ms Maxwell)
+
+**Saturdays**
+[REDACTED] with others
+
+[REDACTED] purchases all Cleaning supplies from Publ
+
+## Structured Fields
+*   **Date:** May 10, 2004
+*   **Store/Location:** Carmines, Main Street News
+*   **Case ID:** EFTA00007954
+*   **Organizations:** Carmines (grocery), Publix (inferred from "Publ")
+
+## Page 63 (DOC) [TAG:DOJ_CLEAN_V2]
+
+TEDS®
+SHEDS
+
+Thank you for your business!
+Ted's Sheds Call Center will now be assisting you with all aspects of your purchase.
+
+A representative from Ted's Sheds will be contacting you within 3 days after your purchase.
+
+Please contact Ted's Sheds            0866
+for all future inquiries by calling [REDACTED].
+
+East Coast Delivery Schedule - Ext. # [REDACTED]
+West Coast Delivery Schedule - Ext. # [REDACTED] 2
+Customer Service - Ext. # [REDACTED]
+Operations Manager - Ext. # [REDACTED]
+
+> Could be (1st) week of
+January or,
+2nd week of February
+
+EFTA00007955
+
+## Structured Fields
+- **Organization:** Ted's Sheds
+- **Contact Center Info:** Ted's Sheds Call Center
+- **Handwritten Note - Date/Timeframe:** 1st week of January or 2nd week of February
+- **Extension Numbers:** Redacted (0866 handwritten nearby)
+- **Document ID:** EFTA00007955
+

@@ -1,0 +1,396 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00005959.pdf ts=2026-03-07T18:31:00 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]                                                          [REDACTED]
+                                                                   06: [REDACTED]
+
+
+EFTA00005959
+
+## Structured Fields
+- **Document ID**: EFTA00005959
+- **Note**: "06:" appears to be a handwritten label, possibly page number or form field indicator.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document, likely a fax transmission or a screenshot from an online record-keeping system, titled "NJP Response." The document is primarily white paper with black typewriter-style text and a large black rectangular redaction box covering the upper-middle portion of the page.
+
+**Layout and Composition:**
+*   **Header:** At the top left, "NJP Response" identifies the sender or department (possibly New Jersey Police). At the top right, "Page 1 of 2" indicates pagination. Below this is a standard legal warning regarding unauthorized access. A timestamp stamp reads "RECEIVED AT 07/02/2019 18:40:28".
+*   **Central Redaction:** A massive, solid black rectangle obscures the majority of the central visual field, likely hiding a photograph or sensitive primary document data. Just below this box, the title "DR." appears before a blurred line, suggesting a name has been redacted.
+*   **Data Block:** Below the main redaction block is a structured block of text resembling a driver's license abstract or verification log. It contains alphanumeric codes, dates, and personal attributes.
+*   **Footer:** The bottom third of the page contains formal legal disclaimers referencing Florida Statute, confidentiality notices regarding motor vehicle records, and a URL linking to New York state government records (ejustice.ny.gov). A date "7/2/2019" and an internal case ID "EFTA00005960" appear at the very bottom right.
+
+## Visible Text (verbatim)
+**Header Section:**
+- NJP Response
+- Page 1 of 2
+- Unauthorized access, reproduction, or dissemination is prohibited.
+- RECEIVED AT 07/02/2019 18:40:28
+
+**Below Redaction Box:**
+- DR. [Blurred]
+- 18:40 07/02/2019 23479
+- 18:40 07/02/2019 00209 NY10100T2
+- *0420466983
+- TXT
+
+**License Information Block:**
+- V-262-792-79-685-0
+- MIAMI BEACH FL 33139
+- MIAMI BEACH FL 33139
+- ORGAN DONOR
+- TYPE LIC: CLASS E OPERATOR /MTRCY ALSO DOB: [Blurred] HT: 5'07 RACE: W SEX: F
+- CURRENT LICENSE ISSUED: 02/12/2014 EXPIRES: 05/25/2022 REP. LIC. ISSUED 01/30/18
+- VALID LICENSE SOC SEC: [Blurred]
+
+**Footer/Legal Disclaimer:**
+- This information should only be used as authorized by Florida Statute, section 119.0712(2)(c):
+- 1. Emergency contact information contained in a motor vehicle record is confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.
+- 2. Without the express consent of the person to whom such emergency contact [Text cut off/obscured by layout]
+- https://www.ejustice.ny.gov/JWI/ViewMessage.jsp?msgid=2669308&pager.offset=0
+- 7/2/2019
+
+## Notable Details / Clues
+*   **Jurisdictional Conflict:** The document header says "NJP Response" (New Jersey Police) and the footer links to New York ejustice.gov, yet the license data explicitly identifies a Florida resident ("MIAMI BEACH FL 33139") citing "Florida Statute." This suggests a record shared across states or an interstate investigation.
+*   **Identity Redaction Strategy:** Significant privacy measures are in place. The main visual image is completely blacked out, the first name is blurred after "DR.", the date of birth (DOB) is blurred, and the Social Security Number is fully blacked out.
+*   **Organ Donor Status:** The text "ORGAN DONOR" is clearly stamped on the right side of the license data block, indicating a specific medical registry status for the individual.
+*   **License Class:** The license type is listed as "CLASS E OPERATOR /MTRCY," which typically denotes a standard driver's license in New Jersey that permits operating motorcycles.
+*   **Valid Status:** Despite dates from 2014 and 2019, the document explicitly states "VALID LICENSE" near the bottom of the data block, confirming the license was active at the time of the record query (July 2019).
+*   **Specific ID Codes:** Several codes are present that likely serve as internal tracking numbers for the law enforcement or court system processing the file (e.g., "23479", "NY10100T2").
+*   **Physical Attributes:** The record lists Height as 5'07" and Sex as Female (F). Race is listed as White (W).
+*   **Reprint License:** There is a note for a "REP. LIC." issued on 01/30/18, suggesting the current license was not the original issuance or a duplicate was requested recently prior to July 2019.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NJP Response                                                                                                                 Page 2 of 2
+
+information applies, the emergency contact information contained in a motor
+vehicle record may be released only to law enforcement agencies for purposes
+of contacting those listed in the event of an emergency.
+
+EMERGENCY CONTACT INFORMATION:
+[REDACTED]                                                              MIAMI BEACH FL 33139 [REDACTED]
+HOME: N/A                                                               WORK: N/A                        CELL: [REDACTED]
+[REDACTED]
+
+END OF DDL/DHSMV RESPONSE.
+Unauthorized access, reproduction, or dissemination is prohibited.
+
+https://www.ejustice.ny.gov/JWI/ViewMessage.jsp?msgid=2669308&pager.offset=0 7/2/2019
+EFTA00005961
+
+## Structured Fields
+- **Date:** 7/2/2019
+- **Document ID:** EFTA00005961
+- **Case ID (from URL):** msgid=2669308
+- **Location:** MIAMI BEACH, FL 33139
+- **Organization:** DDL/DHSMV (Department of Driver Licenses / Department of Highway Safety and Motor Vehicles)
+- **Authorized Access Entity:** NJP Response (likely New York Project/Justice Portal context given URL)
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 1 of 2
+Results 1 to 1 of 1
+Last Name: [REDACTED] First Name: [REDACTED] DOB: [REDACTED]
+ALL NAME SSN ADDRESS PHONE(S) INDICATORS
+1. [REDACTED]
+DOB: [REDACTED]
+Age: 40
+Gender - Female
+*View Sources (~6)
+SSN: [REDACTED]
+V
+LexID: [REDACTED]
+DL State: HI
+NEW YORK, NY 10012-3966,
+NEW YORK COUNTY
+Oct 2013 - Jun 2019
+
+DL State: FL
+Issue Date: Feb 14
+Exp Date: May 22
+MIAMI BEACH, FL 33139-7382,
+MIAMI-DADE COUNTY
+Nov 2014 - Apr 2018
+
+[REDACTED]
+MIAMI BEACH, FL 33139-4788,
+MIAMI-DADE COUNTY
+Feb 2014 - Nov 2014
+
+[REDACTED]
+NEW YORK, NY 10022-5146,
+NEW YORK COUNTY
+Aug 2013
+Addressing or letter service.
+Newspaper facility.
+
+[REDACTED]
+NEW YORK, NY 10021-4102,
+NEW YORK COUNTY
+Mar 2012
+
+[REDACTED]
+NEW YORK, NY 10065, NEW
+YORK COUNTY
+Sep 2011
+
+[REDACTED]
+NEW YORK, NY 10065-5218,
+NEW YORK COUNTY
+Aug 2007 - Aug 2011
+
+[REDACTED]
+NEW YORK, NY 10065-0120,
+NEW YORK COUNTY
+Jun 2003 - Apr 2008
+
+[REDACTED]
+NEW YORK, NY 10022-8843,
+NEW YORK COUNTY
+Jan 2005
+https://secure.accurint.com/app/bps/misc
+7/2/2019
+EFTA00005962
+
+## Structured Fields
+- **Date:** 7/2/2019 (Report Date)
+- **Locations:** Thomasville, NC; New York, NY; Miami Beach, FL
+- **Organization:** People at Work
+- **Source Tool:** Accurint
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Page 2 of 2
+ALL	NAME	SSN	ADDRESS	PHONE(S)	INDICATORS
+[HONOLULU, HI 96816-2014,]
+[HONOLULU COUNTY]
+[May 2001 - Jun 2001]
+
+[HALEIWA, HI 96712-0833,]
+[HONOLULU COUNTY]
+[Mar 2000 - Apr 2001]
+
+[NEW YORK, NY 10003-8537,]
+[NEW YORK COUNTY]
+
+Results 1 to 1 of 1
+Last Name: [REDACTED] First Name: [REDACTED] DOB: [REDACTED]
+
+Your DPPA Permissible Use: Court, Law Enforcement, or Government Agencies
+Your GLBA Permissible Use: Law Enforcement Purposes
+Your DMF Permissible Use: No Permissible Purpose
+
+https://secure.accurint.com/app/bps/misc	7/2/2019
+EFTA00005963
+
+## Structured Fields
+- **Document ID:** EFTA00005963
+- **Report Date:** 7/2/2019
+- **Locations Listed:**
+  - HONOLULU, HI (96816-2014)
+  - HAILEIWA, HI (96712-0833)
+  - NEW YORK, NY (10003-8537)
+- **Organizations:** Accurint
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Advanced Person Search
+MY ACCOUNT
+PEOPLE
+PHONES
+ASSETS
+ANALYTICS
+COURTS
+BUSINESSES
+LICENSES
+MORE
+
+[REDACTED] [REDACTED] Middle Name
+Include similar-sounding names Strict Search Include name variations
+Include Full Address History
+[REDACTED] SSN LexID
+Street Address City State
+ZIP Code Radius (miles) Date First Seen - Date Last Seen
+Show Additional Subject Information Fields
+
+Coverage | Help?
+Search Clear Form
+
+Reference
+Important: The public records and commercially available data sources used in this system have errors. Data is sometimes entered poorly, processed inaccurately and is generally not free from defect. Read More
+
+You last signed in on Tue 06:23 PM EDT.
+Security Centre
+
+FURTHER RESEARCH
+No Images Available
+
+Reports for this Record
+Comprehensive Report Custom Comprehensive Report
+Finder Report Address Report
+Contact Card Report Virtual Identity Report
+Asset Report Summary Report
+Relatives Neighbors
+Associates Relatives, Neighbors & Associates
+Business Link Report Location Report
+Relevant Visual Link Analysis
+
+See report type examples Alerts for this Record Setup Person Alert
+
+Results 1 to 7 of 7
+Last Name: [REDACTED] First Name: [REDACTED] DOB: [REDACTED]
+
+All NAME SSN ADDRESS PHONE(S) INDICATORS
+1. [REDACTED]
+Age: 40
+Gender - Female
+*View Sources (~1)
+LexID [REDACTED]
+DL [REDACTED]
+[REDACTED]
+HENDERSONVILLE, NC 28739-5009,
+HENDERSON COUNTY
+Probable current address
+Map
+(CURRENT LISTING NAME)
+CURRENT DA
+[REDACTED]
+HENDERSONVILLE, NC
+Feb 2000 - Jun 2019
+
+people
+at work
+
+2. [REDACTED] SSN V
+[REDACTED]
+SSN N
+DOB: Age: 40 Gender - Female *View Sources (~6)
+N not recently reported by subject LexID DL State: HI
+DL State: FL Issue Date: Feb 14 Exp Date: May 22
+NEW YORK, NY 10074-3856 NEW YORK COUNTY Map
+THOMASVILLE, NC 27360-5560, DAVIDSON COUNTY Map
+NEW YORK, NY 10095-6218 NEW YORK COUNTY Map
+NEW YORK, NY 10022-6148 NEW YORK COUNTY
+
+Addressing or letter service. Newspaper facility Map
+
+EFTA00005964
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ALL | NAME | SSN | ADDRESS | PHONE(S) | INDICATORS
+
+NEW YORK, NY 10021-4152, NEW YORK COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+NEW YORK, NY 10085-6120, NEW YORK COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+NEW YORK, NY 10968, NEW YORK COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+NEW YORK, NY 10065, NEW YORK COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+NEW YORK, NY 10022-6843, NEW YORK COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+HONOLULU, HI 96818-3714, HONOLULU COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+HALEIWA, HI 96712-0833, HONOLULU COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+HALEIWA, HI 96712-6615, HONOLULU COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+HALEIWA, HI 96712, HONOLULU COUNTY
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+KANEHOHE, HI 96744-8171, HONOLULU COUNTY
+Map
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+NEW YORK, NY 10003-5537, NEW YORK COUNTY
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+3. [REDACTED] | LAS VEGAS, NV 89136
+Probable current address check mark
+Map
+(CURRENT LISTING NAME) POSSIBLE NON-DA COX NV TELCOM LAS VEGAS, NV Sep 2011 - Jun 2019
+
+4. [REDACTED] | ALEXANDRIA, VA 22301
+[REDACTED]
+Map
+POSSIBLE NON-DA phone number may be disconnected. phone number and zip code combination is invalid. VERIZON VIRGINIA INC ALEXANDRIA, VA
+
+6. [REDACTED] | MENASHA, WI 54952
+[REDACTED]
+Map
+POSSIBLE NON-DA phone number may be disconnected. AMERITECH WISCONSIN APPLETON, WI
+
+[ILLEGIBLE?] [REDACTED] | OLATHE, KS 66062-4653, JOHNSON COUNTY
+[REDACTED]
+Map
+POSSIBLE NON-DA phone number may be disconnected. SOUTHWESTERN BELL OLATHE, KS Mar 2000 - Jan 2012
+
+7. [REDACTED] | DALLAS, TX 75201-8314, DALLAS COUNTY
+[REDACTED]
+Map
+[CURRENT LISTING NAME] POSSIBLE NON-DA SBC TELECOM DALLAS, TX Nov 1980 - Dec 2006 (Partial text visible under black box)
+
+EFTA00005965
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ALL NAME SSN ADDRESS PHONE(S) INDICATORS
+Results 1 to 7 of 7
+Last Name: [REDACTED] First Name: [REDACTED] DOB: [REDACTED]
+
+Your DPPA Permissible Use: Court, Law Enforcement, or Government Agencies
+Your GLBA Permissible Use: Law Enforcement Purposes
+Your DMF Permissible Use: No Permissible Purpose
+
+EFTA00005966
+
+## Structured Fields
+- **Doc ID**: EFTA00005966
+- **Results Range**: 1 to 7 of 7
+- **Permissible Use (DPPA)**: Court, Law Enforcement, or Government Agencies
+- **Permissible Use (GLBA)**: Law Enforcement Purposes
+- **Permissible Use (DMF)**: No Permissible Purpose
+

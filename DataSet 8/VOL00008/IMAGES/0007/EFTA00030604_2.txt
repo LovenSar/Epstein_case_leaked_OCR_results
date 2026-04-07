@@ -1,0 +1,34 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030604.pdf ts=2026-03-18T20:38:39 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a raw text export of a digital calendar event file, likely an iCalendar (`.ics`) record, set against a white background. The document uses a monospaced font and is structured with bolded labels followed by values or redacted data. At the very top, a horizontal line separates a title from the main body. The first section lists scheduling parameters including a start time of October 20, 2020, at 17:00 UTC, ending at 17:30 UTC. Following this is the organizer field, which is completely obscured by a long black rectangular redaction bar. Below the organizer information are metadata fields including "Class" (listed as X-PERSONAL), creation date, and modification date, all dated late October 2020. A large, solid black rectangle dominates the center of the document, obscuring what appears to be the attendee list or location details; small fragments of code-like characters like parentheses and greater-than signs are visible just above this block. Beneath the main redaction is a section labeled "Alarm," indicating a reminder was set for 15 minutes prior to the event start. Two smaller black bars at the bottom obscure a dial-in number and an access pin. A unique alphanumeric identifier sits in the bottom right corner.
+
+## Visible Text (verbatim)
+- **Event:** Epstein Image/Video File Review Protocol
+- **Start Date:** 2020-10-20 17:00:00 +0000
+- **End Date:** 2020-10-20 17:30:00 +0000
+- **Organizer:** [Redacted Black Bar]
+- **Class:** X-PERSONAL
+- **Date Created:** 2020-10-20 04:39:48 +0000
+- **Date Modified:** 2020-10-20 04:39:48 +0000
+- **Priority:** 5
+- **DTSTAMP:** 2020-10-19 21:50:51 +0000
+- **Attendee:** [Redacted] ) < [Redacted] >; [Redacted] (USANYS)
+- **Alarm:** Display the following message 15m before start
+- | Reminder
+- **Dial-in:** [Redacted Black Bar]
+- **Pin:** [Redacted Black Bar]
+- **Footer ID:** EFTA00030604
+
+## Notable Details / Clues
+- **Subject Matter:** The event title references "Epstein" and an "Image/Video File Review Protocol," suggesting the document pertains to the Jeffrey Epstein investigation or related data review processes.
+- **Timezone Discrepancy:** The main timestamps utilize "+0000" (Coordinated Universal Time), while a timezone identifier "(USANYS)"—indicating US Eastern Daylight Time in October 2020—is visible on the far right of the Attendee line, suggesting participants may be located in New York.
+- **File Metadata:** The "DTSTAMP" (Data Timestamp) is from October 19 at 21:50:51 UTC, while the event file itself was not created until roughly two days later on October 20 at 04:39:48 UTC, implying a delayed export or creation of this specific log.
+- **Redaction Patterns:** The redactions are uniform black blocks, typical of automated privacy filters used in news organizations or government leak sites to hide personal data while preserving document context.
+- **Event Type:** The "Class" is marked as "X-PRIVATE" (often written as X-PERSONAL in iCalendar standards), indicating this was a private calendar entry rather than a public holiday or meeting.
+- **Duration:** The event is scheduled for a precise 30-minute window (17:00 to 17:30).
+- **Reminder Logic:** The alarm setting triggers "15m before start," which would be roughly 16:45 UTC on October 20.
+- **Evidence ID:** The footer text "EFTA00030604" resembles an Evidence Tracking File Access number, suggesting this document may have been seized or indexed by law enforcement or a forensic tool.
+

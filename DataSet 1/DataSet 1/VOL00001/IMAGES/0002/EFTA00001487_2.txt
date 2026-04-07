@@ -1,0 +1,44 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001487.pdf ts=2026-03-05T12:49:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a large architectural floor plan, printed on standard blueprint-style paper, annotated with colored markers and handwritten notes. The document is a technical drawing for the third floor of a building located at 9 East 71st Street in New York. At the top left, a block of handwritten text provides project metadata, including dates (July 6, 2019 and July 11, 2019), a case number (31E-NY-3027571), and preparer names (Margaret Girard and Kimberley Meder).
+
+The floor plan itself depicts a rectangular interior space divided into multiple rooms. A central large area features a circular element, likely a stairwell or skylight. The layout is annotated with thick black outlines and colored markers highlighting specific zones:
+- **Left Wing:** Contains three rectangular spaces outlined in cyan, lime green, and purple. Large handwritten letters "P", "Q", and "S" appear inside these respective rooms.
+- **Middle Section:** A vertical strip of smaller rooms is outlined in red, containing the letter "R".
+- **Right Wing:** Features a large upper room outlined in lime green with a "V" inside, and a lower room outlined in cyan/blue with a "U" or checkmark-like symbol inside.
+- **Center/Bottom:** Various small rectangular spaces are outlined near the bottom center.
+
+The right margin contains standard architectural title block information, including stamps for mechanical and structural engineers (with names redacted) and a revision history listing dates from the mid-to-late 1990s. Below this is a small elevation drawing depicting the exterior facade of the brick building. At the very bottom are two tables with columns for "Room" and "Elevation," likely detailing room names and finish levels.
+
+## Visible Text (verbatim)
+- Top Left Header:
+    - "Date: 7/6/19"
+    - "Location: 9 East 71st Street New York, NY-3rd Floor"
+    - "Case #: 31E-NY-3027571"
+    - "Preparer: SA: Margaret Girard"
+    - "Date: 7/11/19"
+    - "Preparer: SAS Kimberley Meder"
+    - "Page [illegible, looks like 3]"
+- Top Right Title Block:
+    - "9 E 71"
+    - "NEW YORK"
+    - "THOMAS W. DESIGNS" (partial)
+    - "MECHANICAL ENGINEERS"
+    - "STRUCTURAL ENGINEERS"
+    - Revision history entries: "June 22, 1995", "MARCH 04, 1996", "OCTOBER 17, 1996".
+- Annotations within rooms (handwritten):
+    - "Halls to wall carpet"
+    - "Plain tufted carpet"
+    - Letters: P, Q, R, S, U, V.
+
+## Notable Details / Clues
+- **Date Discrepancy:** The preparer dates are from 2019 (7/6/19 and 7/11/19), but the revision history on the right side lists dates from 1995-1996, suggesting this is an older architectural drawing being utilized for a modern renovation or legal case.
+- **Color Coding:** The specific use of cyan, green, purple, and red markers suggests different design proposals or distinct functional zones being compared.
+- **Handwritten Designations:** The large letters P, Q, R, S, U, V likely serve as shorthand keys for a legend not fully visible or imply specific room configurations (e.g., "P" plan, "Q" plan).
+- **Professional Titles:** The initials "SA" and "SAS" next to the preparers' names likely denote "Senior Architect" or "Senior Associate."
+- **Building History:** The elevation drawing at bottom right shows a classic brick facade with multiple stories, consistent with the address 9 East 71st Street.
+- **Document ID:** A string of text in the bottom right corner reads "EFTA00001487," which appears to be an internal tracking or evidence file number (possibly related to the "Case #" mentioned at the top).
+

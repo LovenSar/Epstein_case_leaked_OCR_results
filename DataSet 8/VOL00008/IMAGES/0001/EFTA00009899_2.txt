@@ -1,0 +1,50 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00009899.pdf ts=2026-03-09T22:13:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email thread containing two corresponding messages, heavily redacted to protect privacy. The document has a white background with standard black sans-serif typography typical of email clients like Outlook or Gmail. The top section represents a reply email sent on the evening of April 22, 2021, which references an attachment and discusses court access lines for a hearing. Below a horizontal separator line, the original inquiry email is visible, dated slightly earlier in the same day (6:05 PM), asking for a link to watch a hearing. Large black rectangular bars obscure recipient names, sender names, email addresses, and parts of the email bodies. At the bottom, a standard legal confidentiality notice is visible, followed by another redacted block and an alphanumeric identification code in the footer.
+
+## Visible Text (verbatim)
+
+**Top Email Header:**
+- From: [Redacted]
+- To: [Redacted]
+- Cc: [Long Redacted Bar]
+- Subject: RE: tomorrow
+- Date: Thu, 22 Apr 2021 22:12:03 +0000
+- Attachments: 2021.04.19_Scheduling_Order.pdf
+
+**Top Email Body:**
+- Hi [Redacted]
+- Attached is the scheduling order with the public dial in information (there is no video). In addition to the public access line, the Court has set up a different access line for victims who want to attend-- if you'd like me to, I can let the Court know you plan to dial in, so that I can send you the victim access line. Just let me know your preference.
+- Thanks,
+- [Redacted Name/Title]
+
+**Bottom Email Header:**
+- From: [Redacted]
+- Sent: Thursday, April 22, 2021 6:05 PM
+- To: [Redacted]
+- Subject: tomorrow
+
+**Bottom Email Body:**
+- Hi [Redacted] can you send me the link to watch tomorrow’s hearing? Thanks.
+- [Large Black Rectangular Obscuration]
+
+**Footer Text:**
+- CONFIDENTIALITY NOTICE:
+- This e-mail may contain confidential and privileged material for the sole use of the intended recipient(s). Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply e-mail or telephone, and delete all copies of this message.
+- EFTA00009899
+
+## Notable Details / Clues
+- **Context:** The email exchange concerns a legal proceeding ("Court", "hearing", "Scheduling Order").
+- **Date Discrepancy:** The top email header shows "Thu, 22 Apr 2021" while the bottom email explicitly writes out "Thursday, April 22". The time stamps differ (Top is ~8:12 PM UTC, Bottom is 6:05 PM local time likely, though the timezone for the bottom one isn't explicit, implying a different local zone).
+- **Access Type:** The reply clarifies that the hearing is not available via video ("there is no video"), suggesting a dial-in audio format or a live broadcast.
+- **Victim Protection:** The email mentions a specific "victim access line," indicating sensitive proceedings where privacy for victims is maintained through separate dial-in numbers.
+- **Attachment:** A PDF attachment from April 19, 2021 ("Scheduling Order") is referenced, suggesting the current hearing is scheduled based on previous administrative orders.
+- **Redaction Pattern:** The redactions are solid black bars with varying lengths, obscuring specific names but leaving labels like "From:", "Subject:", and dates visible.
+- **Confidentiality:** A standard legal disclaimer warns of privileged material, confirming this document belongs to a professional or government entity.
+- **Document ID:** The code "EFTA00009899" in the bottom right suggests this image is part of a larger dossier or digital case file, possibly related to an Electronic File Tracking system.
+- **Tone:** The communication is professional and direct ("Hi [Name] can you send me...", "Just let me know your preference.").
+- **No Video Confirmation:** The sender explicitly notes the absence of video capabilities for the public, limiting observation methods.
+

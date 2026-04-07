@@ -1,0 +1,672 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030457.pdf ts=2026-03-18T19:12:33 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NCRBM 531.01 * INMATE HISTORY * 04-29-2020
+PAGE 001 OF 001 * QUARTERS * 09:22:47
+
+REG NO..: 76318-054 NAME....: EPSTEIN, JEFFREY EDWARD
+CATEGORY: QTR FUNCTION: PRT FORMAT:
+
+FCL ASSIGNMENT DESCRIPTION START DATE/TIME STOP DATE/TIME
+NYM Z04-206LAD HOUSE Z/RANGE 04/BED 206L AD 08-10-2019 0734 08-10-2019 0736
+NYM Z04-206LAD HOUSE Z/RANGE 04/BED 206L AD 07-29-2019 1221 08-10-2019 0747
+NYM H01-001L HOUSE H/RANGE 01/BED 001L 07-23-2019 0324 07-29-2019 1221
+NYM Z05-124LAD HOUSE Z/RANGE 05/BED 124L AD 07-10-2019 1526 07-23-2019 0324
+NYM H01-001L HOUSE H/RANGE 01/BED 001L 07-08-2019 1803 07-10-2019 1526
+NYM Z02-201LAD HOUSE Z/RANGE 02/BED 201L AD 07-08-2019 1749 07-08-2019 1803
+NYM Z02-201LAD HOUSE Z/RANGE 02/BED 201L AD 07-07-2019 1920 07-08-2019 0920
+NYM E06-547U HOUSE E/RANGE 06/BED 547U 07-06-2019 2136 07-07-2019 1920
+NYM R01-001L HOUSE R/RANGE 01/BED 001L 07-06-2019 2124 07-06-2019 2136
+
+G0000 TRANSACTION SUCCESSFULLY COMPLETED
+EFTA00030457
+
+## Structured Fields
+- **Document ID:** EFTA00030457
+- **Reg No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Category:** QTR
+- **Function:** PRT
+- **Date Printed:** 04-29-2020
+- **Time Printed:** 09:22:47
+- **Assignments:** Z04-206LAD, H01-001L, Z05-124LAD, Z02-201LAD, E06-547U, R01-001L
+- **Location Types:** HOUSE (Z/RANGE, H/RANGE, E/RANGE, R/RANGE)
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PP10
+NCRBM 535.07 * CIM CLEARANCE AND SEPARATEE DATA * 04-29-2020
+PAGE 001 OF 001 * * 09:20:18
+
+REGISTER NO: 76318-054 NAME: EPSTEIN, JEFFREY EDWARD
+
+REGISTER NUMBER LAST NAME FIRST NAME ARS FCL ASSIGN ARS DATE ARS TIME ASSIGN ARS QTR
+76318-054 EPSTEIN JEFFREY NYM DEATH 08-10-2019 0736
+
+****** FOI EXEMPT
+P0011 THIS INMATE HAS NO CMC ASSIGNMENTS
+
+https://bop.tcp.doj.gov/9049/SENTRY/J1PPG20.do[4/29/2020 9:21:09 AM]
+EFTA00030458
+
+## Structured Fields
+- **Doc ID:** EFTA00030458
+- **Case/Register No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Date (Report Generated):** 04-29-2020
+- **Time (Report Generated):** 09:20:18
+- **Date (Event/Assign):** 08-10-2019
+- **Time (Event):** 0736
+- **Location (Facility Code):** NYM (New York Metropolitan Division)
+- **Status:** DEATH
+- **Inmate Status Note:** THIS INMATE HAS NO CMC ASSIGNMENTS
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NCRBM * INMATE DISCIPLINE DATA * 04-29-2020
+PAGE 001 OF 001 * CHRONOLOGICAL DISCIPLINARY RECORD * 09:21:56
+
+REGISTER NO: 76318-054 NAME..: EPSTEIN, JEFFREY EDWARD
+FUNCTION...: PRT FORMAT: CHRONO LIMIT TO ___ MOS PRIOR TO 04-29-2020
+
+
+
+G5463 NO ENTRIES EXIST IN CHRONOLOGICAL LOG FOR TIME PERIOD REQUESTED
+
+EFTA00030459
+
+## Structured Fields
+*   **Date:** 04-29-2020
+*   **Time:** 09:21:56
+*   **Register No:** 76318-054
+*   **Name:** EPSTEIN, JEFFREY EDWARD
+*   **System/Org ID:** NCRBM
+*   **Format:** CHRONO
+*   **Document Reference:** G5463
+*   **File ID:** EFTA00030459
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PPG0
+NCRBM 600_00 *                                             *      04-29-2020
+PAGE 001 OF 001 *                                          DATA   *      09:25:22
+REGNO: [76318-054]                                         NAME: EPSTEIN, JEFFREY EDWARD    ORG:
+RC/SEX/AGE: W/M/66 FORM D/T:                               RES: NEW YORK, NY 10021
+OFFN/CHG..: SEX TRAFFICKING CONSP.                         SEX TRAFFICKING OF MINORS
+CUSTODY...:                                                 BIL:                                      CITIZENSHIP: UNITED STATES OF AMERICA
+CIM CONS.:                                                  USM:
+JUDGE....:                                                  RECFACL/PGM:                              VOLSUR:
+VS DT/LOC:                                                  MOS REL:                                   SEVERITY:
+CHP/CHS/S:                                                  VIOLENCE:                                  ESCAPES..:
+DETA INER..:                                                AGE:                                       EDUC LV:                                      HGC:
+DRUG/ALC.:                                                  TOTAL:                                     SEC LVL:
+PUB SAFTY:                                                  CAR MD/MH:                                 OMDT REF:
+CCM RMKS..
+
+P5110 DESIGNATION RECORD DOES NOT EXIST FOR THIS INMATE
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG00.do[4/29/2020 9:25:36 AM]   EFTA00030460
+
+## Structured Fields
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **REGNO:** 76318-054
+- **Date:** 04-29-2020
+- **Time:** 09:25:22
+- **Residence:** NEW YORK, NY 10021
+- **Citizenship:** UNITED STATES OF AMERICA
+- **Charges:** SEX TRAFFICKING CONSP., SEX TRAFFICKING OF MINORS
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PPG6
+NCRBM 606.00 *                               MALE CUSTODY CLASSIFICATION FORM           *       04-29-2020
+PAGE 001 OF 001                                                     09:25:54
+
+                    (A) IDENTIFYING DATA
+REG NO..:    [76318-054]                  FORM DATE:                               ORG:
+NAME....:    EPSTEIN, JEFFREY EDWARD                     CR HX PT:
+                                            MGTV:
+PUB SFTY:                                             MVED:
+                    (B) BASE SCORING
+DETAINER:                           SEVERITY......:
+MOS REL..:                         CRIM HIST SCORE:
+ESCAPES..:                        VIOLENCE......:
+VOL SURR:                         AGE CATEGORY...:
+EDUC LEV:                         DRUG/ALC ABUSE.:
+                    (C) CUSTODY SCORING
+TIME SERVED......:                      PROG PARTICIPAT:
+LIVING SKILLS...:                     TYPE DISCIP RPT:
+FREQ DISCIP RPT..:                  FAMILY/COMMUN.::
+
+                 --- LEVEL AND CUSTODY SUMMARY ---
+BASE CUST VARIANCE   SEC TOTAL   SCORED LEV MGMT  SEC LEVEL    CUSTODY     CONSIDER
+P5154       CUSTODY CLASSIFICATION RECORD DOES NOT EXIST FOR THIS INMT
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG60.do[4/29/2020 9:26:06 AM]                                                                                                                    EFTA00030461
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NCRBM 535.03 *                                          *                    04-29-2020
+PAGE 001 OF 001                                         REG                  09:23:16
+                                                          76318-054
+
+REGNO: 76318-054            FUNCTION: PRT      DOB/AGE.: 01-20-1953 / 66
+NAME.: EPSTEIN, JEFFREY EDWARD           R/S/ETH.: W/M/O          WALSH: YES
+RSP.: NYM-NEW YORK MCC                    MILEAGE.: 5 MILES
+
+PHONE: 646-836-6300                      FAX: 646-836-7751
+
+ARS ASSIGNMENT..: DEATH                  FBI NO..:
+ARS DATE/TIME...: 08-10-2019/0736       INS NO..:
+PROJ REL METHOD: UNKNOWN                  SSN.....: 090443348
+PROJ REL DATE..: UNKNOWN                  DETAINER: NO               CMC.: NO
+
+- - - - - - - - RELEASE DESTINATION - - - - - - - -
+AGENCY...........:
+DST ASSIGNMENT....:
+ADDRESS............: 150 PARK ROW
+                            NEW YORK, NEW YORK 10007
+
+OFFN/CHG RMKS: SEX TRAFFICKING CONSP.
+OFFN/CHG RMKS: SEX TRAFFICKING OF MINORS
+    FACL CATEGORY - - - - CURRENT ASSIGNMENT - - - - - EFF DATE   TIME
+    NYM ADM-REL     DEATH      DEATH                     08-10-2019   0736
+    NYM CARE LEVEL  CARE1-MH   CARE1-MENTAL HEALTH       07-08-2019   0934
+    NYM CASE MGT    CFSA       CERT FOOD SINCERITY APPROVAL   07-19-2019   1209
+    NYM EDUC INFO   GED UNK    GED STATUS UNKNOWN         07-06-2019   2124
+    NYM FIN RESP    UNASSG     FINANC RESP-UNASSIGNED     07-06-2019   2124
+    NYM RELIGION    UNKNOWN    RELIGION UNKNOWN           07-06-2019   2124
+
+G0000                          TRANSACTION SUCCESSFULLY COMPLETED
+EFTA00030462
+
+## Structured Fields
+*   **Date/Time:** 04-29-2020 09:23:16
+*   **Case ID/Regno:** 76318-054
+*   **Name:** EPSTEIN, JEFFREY EDWARD
+*   **DOB/Age:** 01-20-1953 / 66
+*   **SSN:** 090443348
+*   **Location:** NEW YORK, NEW YORK 10007 (150 PARK ROW)
+*   **Agency:** NYM-NEW YORK MCC
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Monday July 22, 2019
+(b)(6); (b)(7)(A), (b)(7)(B), (b)(7)(C), (b)(7)(F)
+[REDACTED]
+Morning Watch (b)(7)(A).
+AM Watch (b)(7)(B).
+Day Watch (b)(7)(F)
+PM Watch
+Evening Watch
+**Back Page Categor
+
+Day Off
+Sick Leave
+Annual Leave
+LWOP
+LWOP(M)
+AWOL
+SUSPENSION
+OFFICIAL TIME
+COP
+IF TRAINING
+TIME OFF AWARD
+
+Total Correctional Svcs. Staff:
+Non Correctional Svcs. Staff:
+
+Overtime Occurrences:
+Comptime Occurrences
+
+(b)(7)(A), (b)(7)(B), (b)(7)(F)
+[REDACTED]
+EFTA00030463
+
+## Structured Fields
+*   **Date:** Monday July 22, 2019
+*   **Document ID:** EFTA00030463
+*   **Redaction Codes:** (b)(6), (b)(7)(A), (b)(7)(B), (b)(7)(C), (b)(7)(F)
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Tuesday July 23, 2019
+
+(b)(6), (b)(7)(A), (b)(7)(B), (b)(7)(C), (b)(7)(F)
+
+Morning Watch (b)(7)(A);
+AM Watch (b)(7)(B);
+Day Watch (b)(7)(F)
+PM Watch
+Evening Watch
+**Back Page Catego**
+Sick Leave
+Day Off
+Annual Leave
+Comptime Used
+LWOP
+LWOP(M)
+AWOL
+SUSPENSION
+OFFICIAL TIME
+COP
+IF TRAINING
+TIME OFF AWARD
+Total Correctional Svcs. Staff:
+Non Correctional Svcs. Staff
+Overtime Occurrences
+Comptime Occurrence
+
+(b)(7)(A), (b)(7)(B), (b)(7)(F)
+
+EFTA00030464
+
+## Structured Fields
+- **Date**: Tuesday July 23, 2019
+- **Document ID**: EFTA00030464
+- **Redaction Codes Visible**: (b)(6), (b)(7)(A), (b)(7)(B), (b)(7)(C), (b)(7)(F)
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Friday August 09, 2019
+(b)(6), (b)(7)(A), (b)(7)(B), (b)(7)(C), (b)(7)(F)
+[REDACTED]
+Morning Watch (b)(7)(A),
+AM Watch (b)(7)(B),
+Day Watch (b)(7)(F)
+PM Watch
+Evening Watch
+**Back Page Categori**
+Day Off
+Sick Leave
+Annual Leave
+LWOP
+LWOP(M)
+AWOL
+SUSPENSION
+OFFICIAL TIME
+(b)(7)(A), (b)(7)(B), (b)(7)(F)
+[REDACTED]
+
+## Structured Fields
+- **Date**: Friday August 09, 2019
+- **Document ID**: EFTA00030465
+- **Redaction Codes/Notes**: (b)(6), (b)(7)(A), (b)(7)(B), (b)(7)(C), (b)(7)(F)
+- **Categories Listed**: Morning Watch, AM Watch, Day Watch, PM Watch, Evening Watch, Day Off, Sick Leave, Annual Leave, LWOP, LWOP(M), AWOL, SUSPENSION, OFFICIAL TIME
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Saturday August 10, 2019
+(b)(7)(A), (b)(7)(B), (b)(7)(F)
+[REDACTED]
+Morning Watch (b)(7)(A)
+AM Watch (b)(7)(B)
+Day Watch (b)(7)(F)
+PM Watch
+Evening Watch
+**Back Page Categori
+Day Off
+Sick Leave
+Annual Leave
+LWOP
+COP
+Total Correctional Svcs. Staff:
+Non Correctional Svcs. Staff:
+Overtime Occurrences:
+Comptime Occurrences
+(b)(6), (b)(7)(A), (b)(7)(B), (b)(7)(C), (b)(7)(F)
+[REDACTED]
+
+## Structured Fields
+- **Date**: Saturday August 10, 2019
+- **Document ID**: EFTA00030466
+- **Redaction Codes observed**: (b)(7)(A), (b)(7)(B), (b)(7)(F), (b)(6), (b)(7)(C)
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+DEPARTMENT OF JUSTICE
+FEDERAL BUREAU OF PRISONS
+
+U. S. Department of Justice
+Federal Bureau of Prisons
+Metropolitan Correctional Center
+New York, New York
+
+For Immediate Release
+August 10, 2019
+
+Contact: Lee Plourde
+Public Information Officer
+(646) 836-6300
+
+Inmate Death at the MCC New York
+
+New York, NY: On Saturday, August 10, 2019, at approximately 6:30 a.m., inmate Jeffrey Edward Epstein was found unresponsive in his cell in the Special Housing Unit from an apparent suicide at the Metropolitan Correctional Center (MCC) in New York, New York. Life-saving measures were initiated immediately by responding staff. Staff requested emergency medical services (EMS) and life-saving efforts continued. Mr. Epstein was transported by EMS to a local hospital for treatment of life-threatening injuries, and subsequently pronounced dead by hospital staff. The FBI is investigating the incident.
+
+Mr. Epstein was a 66-year-old male who arrived at MCC New York on July 6, 2019 under pretrial status after being indicted for sex trafficking of minors and conspiracy.
+
+MCC New York is an Administrative security facility that currently houses 763 male offenders in New York, New York.
+
+Additional information about the Federal Bureau of Prisons can be found at www.bop.gov.
+
+###
+
+EFTA00030467
+
+## Structured Fields
+- Date: August 10, 2019; July 6, 2019
+- Case ID/Doc ID: EFTA00030467
+- Location: Metropolitan Correctional Center (MCC), New York, New York
+- Names: Jeffrey Edward Epstein, Lee Plourde
+- Organizations: U. S. Department of Justice, Federal Bureau of Prisons, FBI
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: 05/11/2020
+Time: 09:28 AM
+Location: DC
+
+Federal Bureau of Prisons
+TRUVIEW
+Inmate Center Report
+Sensitive But Unclassified
+
+Reg #: 76318054        Start Dt: 7/6/2019            End Dt: 8/10/2019
+☑ Money Received       ☑ Money Sent       ☑ Contact List      ☑ Addresses     ☑ Phone List       ☑ Calls
+☑ Email List           ☑ Messages         ☑ Visitor List      ☑ Visits        ☑ Timeline
+
+Money Received
+
+Transaction Date    Loc       Trans Type  Amount   Sender Nm        Address     City      St   Zip    Phone
+8/7/2019 12:04:45 PM NYM Western Union   $200.00 (b)(6), (b)(7)(C), (b)(7)(F) [REDACTED]
+7/31/2019 9:04:12 AM NYM Western Union   $300.00 [REDACTED]
+7/8/2019 10:04:21 AM NYM Western Union   $200.00 [REDACTED]
+
+Money Sent
+
+Transaction Date    Loc       Trans Type  Amount   Recipient Nm     Address     City      St   Zip
+**No information was found for the given criteria.**
+
+Contact List
+
+Contact Nm          Relationship Email   Phone Mail
+**No information was found for the given criteria.**
+
+Addresses
+
+Contact Nm          Relationship  Address   City      State   Zip
+**No information was found for the given criteria.**
+
+Phone List
+
+Creation Date       Last Change Date Loc   Status    Phone   Contact First Nm        Contact Last Nm     Alerted Block Description
+**No information was found for the given criteria.**
+
+Calls
+
+User ID: TF34228                                                                  Page 1 of 2
+EFTA00030468
+
+## Structured Fields
+*   **Date:** 05/11/2020 (Report Date), 7/6/2019 - 8/10/2019 (Data Range)
+*   **Location:** DC
+*   **Reg #:** 76318054
+*   **Organization:** Federal Bureau of Prisons, TRUVIEW
+*   **User ID:** TF34228
+*   **Document ID:** EFTA00030468
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date:          05/11/2020
+Time:          09:28 AM                                                            Location: DC
+Federal Bureau of Prisons
+TRUVIEW
+Inmate Center Report
+Sensitive But Unclassified
+
+| Start Date | Loc | Completed | Duration | Phone | Contact First Nm | Contact Last Nm | City | St Country |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **No information was found for the given criteria.** | | | | | | | |
+
+**Email List**
+
+| Creation Date | Loc | Status | Email Address | Contact Nm | Relationship | Reject Reason |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **No information was found for the given criteria.** | | | | | |
+
+**Email Messages**
+
+| Entered Date | Loc | Type | Status | Rev Req Email Address | Contact Nm | Relationship |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **No information was found for the given criteria.** | | | | | |
+
+**Visitor List**
+
+| Visitor Nm | Relationship | Address | City | St | Zip | Phone | Alpha Cd |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **No information was found for the given criteria.** | | | | | | |
+
+**Visits**
+
+| Visitor Nm | Relationship | Address | City | St | Zip | Phone | Start Date | End Date | Alpha Cd |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **No information was found for the given criteria.** | | | | | | | |
+
+**Timeline**
+
+| Date | Type | Summary |
+| :--- | :--- | :--- |
+| 8/7/2019 12:04:45 PM | Money Received | Inmate: 76318054 EPSTEIN, JEFFREY | Sender [REDACTED] bunt: 200.0000 |
+| 7/31/2019 9:04:12 AM | Money Received | Inmate: 76318054 EPSTEIN, JEFFREY | Sender [REDACTED] Amount: 300.0000 |
+| 7/8/2019 10:04:21 AM | Money Received | Inmate: 76318054 EPSTEIN, JEFFREY | Sender [REDACTED] bunt: 200.0000 |
+
+User ID: TF34228                                                              Page 2 of 2
+EFTA00030469
+
+## Structured Fields
+- **Date:** 05/11/2020 (Report Date), 8/7/2019, 7/31/2019, 7/8/2019 (Timeline Entries)
+- **Location:** DC
+- **Case ID / Doc ID:** TF34228, EFTA00030469
+- **Name:** EPSTEIN, JEFFREY
+- **Inmate ID:** 76318054
+
+## Page 14 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled view of a paper document, likely part of a larger file folder or stack, evidenced by the binding holes visible on the left edge. The central and upper majority of the document is completely obscured by a solid, bright green digital redaction overlay. This rectangular block has thin black borders defining its boundaries. At the bottom edge of this large green block, there are several smaller, distinct fields where information has been partially or fully covered. To the far left of the main image area, a vertical margin ruler is visible, marked with numbers counting upwards from 9 to roughly 27, indicating millimeters from the binding edge. The background behind the redaction appears to be standard white lined paper with faint horizontal blue lines.
+
+## Visible Text (verbatim)
+**Top Left Corner (faint):**
+"(b)(6), (b)(7)(C)"
+
+**Bottom Left Area (handwritten notes):**
+- Date: "7/30/19"
+- Name: "Epstein, Jeffry"
+- Identifier/Number: "76318.054"
+
+**Bottom Center Area (inside small green box):**
+- Redaction Code: "(b)(6), (b)(7)(C)"
+
+**Bottom Right Area:**
+- Time: "5:15pm"
+- Mark: "X" (partial)
+
+**Document ID (Bottom Right Corner - printed/stamp):**
+"EFTA00030470"
+
+## Notable Details / Clues
+- **Redaction Codes:** The text "(b)(6), (b)(7)(C)" refers to the US Federal Register of Confidential Information Rule. Code (b)(6) is specifically used to redact Social Security Numbers, while (b)(7)(C) typically covers financial account information or medical records under FOIA Exemption 7(C).
+- **Subject Identity:** The name "Epstein, Jeffry" refers to Jeffrey Epstein, the subject of major legal investigations and civil lawsuits.
+- **Document Type:** The combination of SSN redactions (76318.054), financial time-stamps ("5:15pm"), and FOIA exemption codes suggests this is a financial record, tax form, or bank statement that was released publicly but required sensitive PII to be blacked out.
+- **Date Context:** The date "7/30/19" places the document in late July 2019, roughly two months before Jeffrey Epstein's death, aligning with the timeline of his estate administration and related civil litigation.
+- **Watermark/Stamp:** The text "EFTA00030470" likely serves as a Bates number or an internal tracking identifier for the Electronic Federal Tax Accounting system, suggesting this document may have originated from IRS tax records.
+- **Paper Condition:** The paper appears slightly creased near the top, consistent with being inside a binder or folder.
+- **Ink Style:** The handwritten notes appear to be done in blue or black ink ballpoint pen, contrasting with the printed background.
+
+## Page 15 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Dominant Feature:** The image is dominated by a massive, solid block of bright lime-green color that covers nearly the entire page, indicating heavy redaction or censorship of the document content.
+*   **Top Border:** A narrow strip of white paper is visible at the very top edge, followed immediately by a dark grey/black horizontal band which appears to be part of a folder spine, binder, or scanning equipment shadow.
+*   **Redaction Codes:** Small text reading "(b)(6), (b)(7)(C)" is visible in the upper-left corner of the green area, and again inside a smaller rectangular box near the bottom right of the main redaction block. This code typically refers to US Freedom of Information Act exemptions regarding trade secrets or deliberative process.
+*   **Bottom Margin Content:** The bottom approximately 5% of the image reveals handwritten notes highlighted in yellow marker before being partially obscured by a solid green footer bar.
+*   **Handwritten Annotation 1:** On the far left of the bottom strip, there is an illegible scribble that appears to be a crossed-out character or symbol (resembling "x" and a loop).
+*   **Handwritten Annotation 2:** Towards the center-left, the word "completed" is clearly written in capital block letters using black pen.
+*   **Handwritten Annotation 3:** Next to "completed," the word "PROTO" is written in all-caps, likely an abbreviation for protocol or prototype.
+*   **Bottom Footer:** A solid green bar runs along the very bottom edge of the image, containing redaction text "(b)(6), (b)(7)(C)" on the left side before fading into the main document ID area.
+*   **Right Side Note:** To the right of the central redaction box, near the edge, cursive handwriting reads "(freund)", which appears to be a misspelling or internal shorthand for "friend" or a specific handle/name.
+*   **Document Identifier:** In the bottom right corner, printed in black sans-serif font, is the alphanumeric string "EFTA00030471," which serves as a Bates number or document identifier commonly used in legal discovery processes (likely related to Enron given the EFTA prefix).
+*   **Scanning Artifacts:** Vertical shadows and slight curvature along the right edge suggest this was photographed inside a scanner tray or document feeder rather than being a flat, digital scan.
+
+## Visible Text (verbatim)
+*   "(b)(6), (b)(7)(C)" [Top Left Corner]
+*   "completed" [Bottom Strip Center-Left]
+*   "PROTO" [Bottom Strip Center-Right]
+*   "(b)(6), (b)(7)(C)" [Inside bottom-right green box]
+*   "(freund)" [Bottom Strip Far Right]
+*   "(b)(6), (b)(7)(C)" [Bottom Left Corner under green bar]
+*   "EFTA00030471" [Bottom Right ID Number]
+
+## Notable Details / Clues
+*   **Redaction Context:** The specific combination of "(b)(6)" and "(b)(7)(C)" strongly suggests this document is from a US government legal proceeding or FOIA release where sensitive commercial information was withheld.
+*   **Process Status:** The handwritten "completed" tag implies this item was part of a checklist, perhaps indicating that a review or a specific task (like redacting this specific document) had been finished.
+*   **"PROTO" Abbreviation:** The use of "PROTO" alongside legal redaction codes might indicate a reference to a prototype system, a protocol in financial trading, or a standard operating procedure being documented.
+*   **Potential Misspelling:** The word "(freund)" looks like a typo for "(friend)" or potentially a phonetic spelling used as a code name or handle within the organization that produced this document.
+*   **Yellow Highlighting:** The yellow color of the handwriting suggests it was highlighted with a marker, likely to mark "keep" items or status updates before scanning/redaction.
+*   **Crossed Out Item:** The scribble on the left looks like a correction or strike-through, suggesting an original entry (possibly a number or name) was invalid or removed.
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PP10                                                           Page 1 of 1
+
+NYMD4 535.07 *                     CIM CLEARANCE AND SEPARATEE DATA         *      08-10-2019
+PAGE 001 OF 001 *                 *      07:17:28
+
+REGISTER NO: [76318-054] NAME: EPSTEIN, JEFFREY EDWARD
+
+REGISTER           FIRST      ARS ARS      ARS       ARS QTR
+NUMBER   LAST NAME    NAME       FCL ASSIGN  DATE     TIME ASSIGN
+
+76318-054 EPSTEIN   JEFFREY     NYM A-PRE   07-08-2019  1749 Z04-206LAD
+
+*****              FOI EXEMPT
+
+P0011             THIS INMATE HAS NO CMC ASSIGNMENTS
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG20.do   8/10/2019
+                                                          EFTA00030472
+
+## Structured Fields
+- **Date:** 08-10-2019 (Document Date), 07-08-2019 (Event Date)
+- **Time:** 07:17:28
+- **Case ID/Register No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD (First Name: JEFFREY)
+- **Facility/Location Code:** Z04-206LAD
+- **Document Type:** CIM CLEARANCE AND SEPARATEE DATA
+- **FOI Status:** FOI EXEMPT
+- **Doc ID:** EFTA00030472
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PPG0                                                                 Page 1 of 1
+
+NYMD4 600.00 *                                                    SECURITY/DESIGNATION           *    08-10-2019
+PAGE 001 OF 001 *                                                   DATA                           *    07:18:27
+                    REGNO: |76318-054   NAME: EPSTEIN, JEFFREY EDWARD                      ORG:
+RC/SEX/AGE: W/M/66        FORM D/T:                                                        RES: NEW YORK, NY 10021
+OFFN/CHG..: SEX TRAFFICKING CONSP.
+                    SEX TRAFFICKING OF MINORS
+CUSTODY..: IN                  BIL:                                    CITIZENSHIP: UNITED STATES OF AMERICA
+CIM CONS.:                                                 USM:
+JUDGE.....:                RECFACL/PGM:                                                    VOLSUR:
+VS DT/LOC:                              MOS REL:                       SEVERITY:
+CHP/CHS/S:                     VIOLENCE:                                  ESCAPES.:
+DETAINER.:                      AGE:                  EDUC LV:                        HGC:
+DRUG/ALC.:                    TOTAL:                   SEC LVL:
+PUB SAFTY:                               CAR MD/MH:                            OMDT REF:
+CCM RMKS.:
+
+P5110                       DESIGNATION RECORD DOES NOT EXIST FOR THIS INMATE
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPG00.do                                                              8/10/2019                                                          EFTA00030473
+
+## Structured Fields
+*   **Date:** 08-10-2019 / 07:18:27 / 8/10/2019
+*   **Name:** EPSTEIN, JEFFREY EDWARD
+*   **REGNO:** 76318-054
+*   **Sex/Age:** W/M/66
+*   **Residence:** NEW YORK, NY 10021
+*   **Offense:** SEX TRAFFICKING CONSP. / SEX TRAFFICKING OF MINORS
+*   **Citizenship:** UNITED STATES OF AMERICA
+*   **Status:** DESIGNATION RECORD DOES NOT EXIST FOR THIS INMATE
+*   **Location (Footer URL):** https://bop.tcp.doj.gov
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PD15                                              Page 1 of 1
+
+NYMD4 *                                      INMATE DISCIPLINE DATA * 08-10-2019
+PAGE 001 OF 001 * CHRONOLOGICAL DISCIPLINARY RECORD * 07:18:09
+
+REGISTER NO: |76318-054| NAME...: EPSTEIN, JEFFREY EDWARD
+FUNCTION...: |DIS FORMAT: |CHRONO LIMIT TO [_______] MOS PRIOR TO |08-10-2019|
+RSP OF: NYM-NEW YORK MCC
+
+G5463          NO ENTRIES EXIST IN CHRONOLOGICAL LOG FOR TIME PERIOD REQUESTED
+
+https://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do         8/10/2019
+                                                            EFTA00030474
+
+## Structured Fields
+- **Date:** 08-10-2019 (Multiple instances)
+- **Register No:** 76318-054
+- **Name:** EPSTEIN, JEFFREY EDWARD
+- **Function Code:** DIS
+- **Format:** CHRONO
+- **Location/Source:** NYM-NEW YORK MCC
+- **URL:** https://bop.tcp.doj.gov:9049/SENTRY/J1PPD50.do
+- **Document ID:** EFTA00030474
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+NYMD4 535.03 *                                  INMATE PROFILE                                   * 08-10-2019
+PAGE 001 OF 001                                                                                   07:15:51
+                                                                                                        76318-054 REG
+
+REGNO: 76318-054                               FUNCTION: PRT DOB/AGE.. 01-20-1953 / 66
+NAME.: EPSTEIN, JEFFREY EDWARD                  R/S/ETH.: W/M/O                                WALSH: YES
+RSP...: NYM-NEW YORK MCC                        MILEAGE..: 5 MILES                             FBI NO...
+PHONE: 646-836-6300                             FAX: 646-836-7751                             INS NO...
+PROJ REL METHOD: UNKNOWN                              SSN.....: 090443348                            DETAINER: NO
+PROJ REL DATE..: UNKNOWN                               DETAINER: NO                                   CMC...: NO
+PAR ELIG DATE...                                        PSYCH: NO
+PAR HEAR DATE.:
+
+OFFN/CHG RMKS: SEX TRAFFICKING CONSP.
+OFFN/CHG RMKS: SEX TRAFFICKING OF MINORS
+
+FACL CATEGORY             CURRENT ASSIGNMENT                EFF DATE        TIME
+NYM ADM-REL               A-PRE                             PRE-SENT ADMIT, ADULT      07-08-2019   1749
+NYM CARE LEVEL            CARE1-MH                          CARE1-MENTAL HEALTH        07-08-2019   0934
+NYM COR COUNSL            UNT 5N                           VACANT                      07-22-2019   1805
+NYM CASE MGT              CFSA                             CERT FOOD SINCERITY APPROVAL       07-19-2019   1209
+NYM CASEWORKER            UNT 5                           [REDACTED]                  07-22-2019   1806
+NYM CUSTODY               IN                               IN CUSTODY                  07-06-2019   2124
+NYM EDUC INFO             GED UNK                          GED STATUS UNKNOWN          07-06-2019   2124
+NYM FIN RESP              UNASSG                           FINANIC RESP-UNASSIGNED     07-06-2019   2124
+NYM LEVEL                 UNASSG                           UNASSIGNED                  07-06-2019   2124
+NYM MED DY ST             NOT MED CL                       NOT MEDICALLY CLEARED       07-06-2019   2124
+NYM PGM REVIEW            OCT                             OCTOBER PROGRAM REVIEW      10-19-2019   1804
+NYM QUARTERS              204-206LAD                       HOUSE Z/RANGE 04/BED 206L AD      07-29-2019   1221
+NYM RELIGION              UNKNOWN                          RELIGION UNKNOWN            07-06-2019   2124
+NYM SECOND RSP            54N                              USM NYS 54N NEW YORK, NY     07-08-2019   1749
+NYM UNIT                  5                               UNT MGR. [REDACTED]         07-22-2019   1806
+NYM WRK DETAIL            UNASSG                           UNASSIGNED WORK DETAIL      07-08-2019   1749
+
+Report # Amb. Care Report
+CAD . 97774214 OYO Should #
+7046
+
+G0000                                            TRANSACTION SUCCESSFULLY COMPLETED
+EFTA00030475
+

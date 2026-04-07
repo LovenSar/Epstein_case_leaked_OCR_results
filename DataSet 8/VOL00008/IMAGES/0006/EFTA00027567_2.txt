@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00027567.pdf ts=2026-03-17T15:48:21 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the header and partial body of a digital email document, likely viewed in a webmail interface given the formatting of the fields. The upper portion features standard email headers: "From" and "To". Both fields are almost entirely obscured by horizontal black bars, indicating sensitive or private information has been redacted. Following the "To" field is an extensive vertical column of black bars, suggesting a long list of recipients that has been fully redacted.
+
+Below this massive block of redaction, the "Cc:" (Carbon Copy) field is visible. This line contains specific text fragments including "(USANYS) [Contractor]" and partial redacted fields with angle brackets `<...>` indicating redacted domain names or organization identifiers. Below the header section, bolded metadata fields define the content: "Subject", "Date", "Importance", and "Inline-Images".
+
+A thin horizontal line separates the header information from the email body text. The visible body text begins by addressing "Chiefs," referencing a draft for Wednesday, July 31, 2019. At the very bottom right corner, outside the main white space of the document, there is a small alphanumeric identifier code.
+
+## Visible Text (verbatim)
+**Header Fields:**
+- From: "[REDACTED]"
+- To: "[REDACTED]"
+- Cc: "[REDACTED] (USANYS) [Contractor] <...>, "[REDACTED] (USANYS)" [REDACTED]"
+- Subject: DRAFT SDNY PRESS GUIDANCE FOR WEDNESDAY JULY 31, 2019
+- Date: Tue, 30 Jul 2019 20:51:31 +0000
+- Importance: High
+- Inline-Images: image001.png
+
+**Body Text:**
+- "Chiefs: below is the draft daily press guidance for tomorrow, Wednesday, July 31, 2019. Please reply with any needed additions, deletions, or corrections."
+
+**Footer ID:**
+- EFTA00027567
+
+## Notable Details / Clues
+- **Redaction Extent:** The redaction in the "To" and body sections is extremely aggressive, covering nearly every line of the recipient list, implying a large number of recipients or sensitive personnel data.
+- **Contractor Identification:** The text "(USANYS) [Contractor]" in the Cc field suggests involvement with the US Army Natick Soldiers' Research Laboratory (or a similar entity with that acronym), explicitly flagged as a contractor.
+- **Date Discrepancy/Context:** The email was sent on Tuesday, July 30, 2019, and references guidance for "Wednesday, July 31," establishing a clear chronological sequence.
+- **Urgency:** The "Importance: High" flag indicates this email required immediate attention from the recipients ("Chiefs").
+- **Document Nature:** The subject line mentions "SDNY PRESS GUIDANCE," linking the document to press relations within the Southern District of New York, likely military or law enforcement given the military-style distribution list.
+- **Stepped Redaction:** The black bars in the "To" field are left-aligned and have varying lengths on the right side, mimicking the appearance of text being hidden, which confirms these are email addresses of different lengths rather than a solid background.
+- **Attachment/Inline Image:** The header lists an inline image named "image001.png," suggesting a graphic or chart was embedded in the email but is not visible in this cropped view.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks,
+The Press Office.
+
+UNITED STATES ATTORNEY'S OFFICE
+Southern District of New York
+
+PRESS GUIDANCE
+Wednesday, July 31, 2019
+
+PROCEEDINGS AND EVENTS
+11:00 a.m. – Pretrial conference in U.S. v. Jeffrey Epstein – the defendant is charged with sexually exploiting and abusing dozens of underage girls by enticing them to engage in sex acts with him in exchange for money, and allegedly working with several employees and associates to ensure that he had a steady supply of minor victims to abuse, and paid several of those victims themselves to recruit other underage girls to engage in similar sex acts for money – before Judge Berman (courtroom 17B, 500 Pearl Street).
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+NIGHT DUTY OFFICER
+[REDACTED]
+
+Follow us on Facebook | Follow us on Twitter | SDNY website | YouTube
+*** FOR PLANNING PURPOSES ONLY ***
+DO NOT REPLY TO THIS MESSAGE. IF YOU HAVE QUESTIONS, PLEASE CALL THE PRESS
+OFFICE AT (212) 637-2600.
+
+EFTA00027568
+
+## Structured Fields
+- Date: Wednesday, July 31, 2019
+- Case ID: U.S. v. Jeffrey Epstein
+- Location: courtroom 17B, 500 Pearl Street
+- Name: Jeffrey Epstein
+- Judge: Judge Berman
+- Organization: United States Attorney's Office, Southern District of New York; Department of Justice
+- Document ID: EFTA00027568
+- Phone: (212) 637-2600
+

@@ -1,0 +1,64 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021120.pdf ts=2026-03-14T21:29:26 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image displays a digital screenshot of an email chain or document containing text instructions and redacted information.
+*   At the very top, a standard email header block is visible with fields for "From:", "To:", "Subject:", and "Date:".
+*   The specific names or email addresses in the top "From" and "To" lines are completely obscured by thick black bars.
+*   The subject line reads "RE: Please read - child exploitation/sex crimes case updates".
+*   The date listed for the top header is "Wed, 12 Feb 2020 19:39:02 +0000".
+*   Immediately below this header block is a distinct blue hyperlink text that has been partially redacted but mentions the "Epstein case is charged and . . . nolle submitted post-death."
+*   Below the link, there is a second email header section which appears to be a forwarded message or the original email body header.
+*   The "Sent" date for this middle section is listed as "Wednesday, February 12, 2020 14:30".
+*   The "To:" line in this middle section features a long vertical stack of black bars, indicating that the message was sent to a large group of recipients whose identities are redacted.
+*   The body text begins with the phrase "It's that time again..." followed by paragraphs regarding case updates.
+*   The text explicitly mentions handling "Project Safe Childhood" cases and notes the sensitive nature requiring quick turnover.
+*   There are two bullet points providing specific instructions: one for "uncharged" cases and one for "charged" cases (e.g., pled, sentenced).
+*   The email concludes with a closing remark asking for prompt replies and a parenthetical note warning against delays ("don't make me hunt you down").
+*   In the bottom right corner, there is an alphanumeric identifier: "EFTA0021120".
+
+## Visible Text (verbatim)
+**From:** [REDACTED]
+**To:** [REDACTED]
+**Subject:** RE: Please read - child exploitation/sex crimes case updates
+**Date:** Wed, 12 Feb 2020 19:39:02 +0000
+
+*Epstein case is charged and . . . nolle submitted post-death.*
+
+**From:** [REDACTED]
+**Sent:** Wednesday, February 12, 2020 14:30
+**To:** [LIST OF REDACTED ADDRESSES]
+**Subject:** Please read - child exploitation/sex crimes case updates
+
+It’s that time again...
+
+If you are in the “to” line of this email, you have a Project Safe Childhood case for which we need an update. Because of the sensitive nature of these cases, it’s critical that we don’t let cases linger, and, in consultation with your supervisors, we close cases when necessary.
+
+Please review the attached list, noting the most recent entry for any case under your name. Then...
+*   If the case is uncharged, please advise me of the status of any expected charges and/or come by to discuss next steps.
+*   If the case has been charged, please send me a quick email with any updates to the case status (e.g., pled, sentenced, on appeal) or, if the status is up to date, please confirm that no changes need to be made.
+
+Thanks in advance for your prompt reply to this email. (Read: Please don’t make me hunt you down for updates – this will take approximately 5 minutes.)
+
+EFTA0021120
+
+## Notable Details / Clues
+*   **Redaction Method:** The sensitive information (names/emails) is redacted using black bars with small white triangles pointing inward on both sides, typical of redaction software or PDF masking.
+*   **Document ID:** The text "EFTA0021120" in the footer suggests this document has been cataloged by an organization, possibly a law enforcement agency (FBI/DOJ context).
+*   **Timing Context:** The date is February 12, 2020. This is relevant to the mention of the "Epstein case," referencing legal developments following his death in August 2019 but before the full release of grand jury transcripts later that summer.
+*   **Specific Initiative:** The text references "Project Safe Childhood," a specific DOJ initiative focused on prosecuting child molestation cases, linking the emails to government or law enforcement work.
+*   **Urgency:** The subject line uses bold/urgent phrasing ("Please read") and the closing remark explicitly mentions not letting cases "linger."
+*   **Link Content:** The blue link suggests a news headline or press release about John Stowers (implied by "nolle submitted post-death" regarding Epstein), connecting personal legal files to high-profile public events.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks,
+[REDACTED]
+
+EFTA00021121
+
+## Structured Fields
+* **Doc ID**: EFTA00021121
+* **Salutation**: Thanks,
+

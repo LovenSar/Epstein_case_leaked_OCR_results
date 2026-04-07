@@ -1,0 +1,188 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00023962.pdf ts=2026-03-16T04:44:28 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread involving technical support or IT troubleshooting regarding a hard drive delivery for legal purposes. The document is heavily redacted to protect personal information, with large black bars obscuring names and specific header details.
+
+*   **Header Section:** At the very top, standard email fields are visible but obscured by black rectangles. The "From," "To," and "Cc" lines are covered.
+*   **Subject Line:** Clearly visible below the redacted header is the subject line: "RE: delivery of hard drive to MDC for discovery production to inmate." This establishes the context as a legal discovery process involving a detention facility (MDC likely refers to Metropolitan Detention Center).
+*   **Date and Time:** The timestamp for this specific email chain snapshot is listed as "Thu, 27 Aug 2020 16:20:39 +0000".
+*   **First Email Body:** The first visible message begins with "Hi [Redacted]." The text confirms a technical issue has been resolved ("actually seems to be functioning"). It mentions a "false alarm" regarding a user (referred to as "she") who was previously unable to open files. The sender promises to update if further issues arise and thanks the recipient for their help.
+*   **First Signature Block:** Below the first message is a signature block identifying the sender as a "Paralegal Specialist" for the "U.S. Attorney's Office | SDNY". The address provided is "1 St. Andrew’s Plaza, New York, NY 10007".
+*   **Middle Section/Second Message:** There is another blacked-out header section with a fragment of a timestamp ending in "/26/2020 3:41 PM >>>". Below this, text appears in blue, indicating it is part of an email body or quote. The text discusses the variety of file types on the drive (Excel, PDF, TIF, video, audio) and requests specific details on problematic files to diagnose issues.
+*   **Second Signature Block:** Another signature block follows this blue text, but the name and title area are completely blacked out.
+*   **Bottom Section/Third Message:** Further down, a third email entry appears with a "From" line and a "Sent" date of "Wednesday, August 26, 2020 3:23 PM".
+*   **Final Body Text:** This message thanks the recipient for reaching out. It mentions adding another person (name redacted) who might answer the question. Crucially, it references a specific individual named "Maxwell" who is having difficulty opening files.
+*   **Footer:** At the bottom right corner, a reference code "EFTA00023962" is visible in small grey text.
+
+## Visible Text (Verbatim)
+**Subject:** RE: delivery of hard drive to MDC for discovery production to inmate
+**Date:** Thu, 27 Aug 2020 16:20:39 +0000
+
+Hi [Redacted]
+
+So far, actually seems to be functioning. Sorry for the false alarm, but perhaps she just figured out how to open the files she was previously having difficulty with.
+
+If I receive any follow up about additional issues, I will let you know.
+
+Appreciate your responsiveness and willingness to help!
+[Redacted]
+
+Paralegal Specialist
+U.S. Attorney's Office | SDNY
+1 St. Andrew’s Plaza
+New York, NY 10007
+
+...26/2020 3:41 PM >>>
+There are many different types of files on the drive; excel, pdf, tif, video, audio, etc. Consequently, it will be difficult to diagnose the issue(s) without knowing the specific files/folders that are problematic. If you would send over the particulars we will work to provide a fix.
+
+Thanks,
+[Redacted]
+
+From: [Redacted]
+Sent: Wednesday, August 26, 2020 3:23 PM
+Subject: RE: delivery of hard drive to MDC for discovery production to inmate
+
+Hi [Redacted]
+Thanks very much for reaching out. I’m adding [Redacted] who may be able to answer your question.
+
+If there are particular files that Maxwell is having difficulty opening, please let us know, and we can try to figure out how to address the issue.
+
+EFTA00023962
+
+## Notable Details / Clues
+*   **Legal Context:** The phrase "discovery production" strongly suggests this communication is part of a legal case discovery process, likely federal given the "U.S. Attorney's Office" signature.
+*   **Detention Facility Reference:** The acronym "MDC" combined with the word "inmate" confirms the hardware is being sent to a detention center (Metropolitan Detention Center in New York City is a common location for SDNY).
+*   **Specific Technical Problem:** The technical issue involves opening various file formats (video, audio, Excel), suggesting a software compatibility or permission issue rather than a physical drive failure.
+*   **User Reference:** The use of "she" and the later mention of "Maxwell" identifies specific users involved in the process who are likely detainees or staff at the facility.
+*   **Support Escalation:** In the final email, the sender mentions "I'm adding [Redacted]" (a redacted name), indicating they are bringing a technical expert into the loop to solve the issue with Maxwell's files.
+*   **Location:** The address 1 St. Andrew’s Plaza, New York, NY 10007 places the U.S. Attorney's office in Lower Manhattan.
+*   **Timeline:** The emails occur within a 24-hour window between August 26 and August 27, 2020.
+*   **Privacy Redaction:** Almost all names (From, To, CC, Signatures) are blacked out to maintain confidentiality, which is standard procedure for government or legal correspondence involving inmates.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks,
+[REDACTED]
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, August 26, 2020 2:45 PM
+[REDACTED]
+Subject: Re: delivery of hard drive to MDC for discovery production to inmate
+
+Good afternoon,
+
+Maxwell was provided this drive on Tuesday. Staff have reported to me that she has reported that certain files do not work. Can you advise what types of files (i.e., video/excel/etc.) are on the drive and what players or applications may be necessary to view them? I'm trying to figure out what reasons may be for issues with the material on the drive.
+
+Thank you,
+[REDACTED]
+                        8/21/2020 9:01 PM >>>
+
+We just sent another drive via FedEx. This drive contains all of the discovery in the case to date. The password for the drive is [REDACTED] (which we also sent in a separate letter).
+
+Yes, these productions contain audio as well as video.
+
+Let me know if you have any other questions. Have a good weekend.
+
+Best,
+[REDACTED]
+
+Sent from my iPhone
+
+On Aug 14, 2020, at 7:34 AM, [REDACTED] wrote:
+[REDACTED]
+Thank you for letting me know! Are you aware of whether this production contains any audio discovery?
+
+Thank you,
+[REDACTED]
+
+EFTA00023963
+
+## Structured Fields
+- **Date (Sent):** Wednesday, August 26, 2020 2:45 PM
+- **Date (Previous Email):** Aug 21, 2020 9:01 PM
+- **Date (Earlier Email):** Aug 14, 2020 7:34 AM
+- **Location:** Southern District of New York, 1 St. Andrew’s Plaza, New York, NY 10007
+- **Organization:** Assistant United States Attorney, FedEx
+- **Doc ID / Case ID:** EFTA00023963
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot of an email thread, presented vertically with timestamps descending from top to bottom, indicating a chronological history of correspondence. The interface features standard email client styling with bold subject lines and headers like "From" and "Sent." Large black redaction bars obscure the names of the senders and recipients in most sections. A thin vertical grey line runs along the right margin of the document.
+
+The thread revolves around the logistical delivery of physical hard drives containing legal discovery materials to a facility identified as "MDC" (likely a detention center or similar institution). The conversation documents the process of mailing these sensitive items via FedEx, handling passwords for encryption, and tracking package delivery dates.
+
+At the very top, a partially visible timestamp reads "8/13/2020 5:05 PM." Below this, a message explains that a round of discovery has been sent via FedEx and provides a specific password ("USAO_sdny2020") while noting that a separate letter containing the password was mailed. The sender signs off as "Madison."
+
+Below that section is another redacted header block followed by a subject line starting with "Subject: Re: delivery of hard drive to MDC for discovery production to inmate." The body text expresses satisfaction that the tracking number is sufficient and mentions, "If I have any issues, I'll let you know." A small redacted box appears next to a sign-off "Best,".
+
+Further down, a timestamp indicates "8/10/2020 5:59 PM >>>". The accompanying text confirms that the sender used FedEx and notes that their tracking number shows the package was "Delivered Friday 8/07/2020 at 7:16 am." A standard disclaimer, "Let us know if you have any other questions. Thanks!", appears near the signature area of this block. Below that, a small redacted bar indicates the sender used an iPhone ("Sent from my iPhone").
+
+Nested within this section is a quoted reply beginning with "On Aug 10, 2020, at 5:48 PM,". This sub-message starts with "Good evening" (partially obscured) and asks a confirming question: "Just confirming - did you use FedEx, USPS, or some other carrier to send the discovery here?" The sender mentions they have not received it yet and wonders if staff failed to notify them of the arrival. They note that depending on the carrier, the package might be in the warehouse or mailroom.
+
+At the bottom of the image, another section begins with a timestamp "8/5/2020 7:13 PM >>>". The text expresses gratitude ("That's extremely helpful, thanks so much") and states a plan to put the drive in the mail the next day.
+
+The very lowest visible section contains a header "Sent: Wednesday, August 05, 2020 19:05" (though the year is cut off, context implies 2020). The subject line is repeated here: "Subject: RE: delivery of hard drive to MDC for discovery production to inmate." The body text provides specific instructions: "Hard drives should be mailed to the facility to the attention of the legal department." It details a requirement to "etch the drive with a number" and provide an authorization memo so the recipient ("she") can retain it. It concludes by explaining that the drive can be password-protected if a cover letter containing the password is included. A footer watermark "EFTA00023964" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+
+*   Top Header fragment: "...8/13/2020 5:05 PM >>>"
+*   Top Body: "I just sent the next round of discovery via FedEx. The password for this drive is USAO_sdny2020! We also sent a letter with the password in a separate envelope. Please let us know when it arrives. Thank you, Madison"
+*   Header fragment: "From: [Redacted] ... Sent: Monday, August 10, 2020 6:03 PM"
+*   Subject Line fragment: "Subject: Re: delivery of hard drive to MDC for discovery production to inmate"
+*   Body fragment: "That should be enough to track it down, thank you! If I have any issues, I'll let you know. Best,"
+*   Header fragment: "...8/10/2020 5:59 PM >>>"
+*   Body fragment: "I sent this via FedEx. When I enter the tracking number it says: Delivered Friday 8/07/2020 at 7:16 am Let us know if you have any other questions. Thanks! [Redacted] Sent from my iPhone"
+*   Nested Reply Header: "On Aug 10, 2020, at 5:48 PM,"
+*   Nested Reply Body: "Good evening... Just confirming - did you use FedEx, USPS, or some other carrier to send the discovery here? I have not received it yet, but it could just be that staff did not notify me a package arrived. Depending on the carrier, it could be in the warehouse or mailroom, so I just want to verify so I can find it expeditiously. Thanks!"
+*   Header fragment: "...8/5/2020 7:13 PM >>>"
+*   Body fragment: "That’s extremely helpful, thanks so much. We’ll plan to put the drive in the mail tomorrow, and of course please let us know if any issues arise. thanks again,"
+*   Header fragment: "From: [Redacted] ... Sent: Wednesday, August 05, 2020 19:05"
+*   Subject Line (bottom): "Subject: RE: delivery of hard drive to MDC for discovery production to inmate"
+*   Body (bottom): "[Redacted] Hard drives should be mailed to the facility to the attention of the legal department. We need to etch the drive with a number and provide an authorization memo so she can retain it. Then it will be provided to her. It can be password protected so long as you include a cover letter that contains the password for her. Hope this helps,"
+*   Footer: "EFTA00023964"
+
+## Notable Details / Clues
+
+-   **Redacted Identity:** Despite heavy redaction, specific names like "Madison" appear in the signature of the top email, suggesting that is her real name. Other names are fully blacked out.
+-   **Password Exposure:** The password `USAO_sdny2020` is explicitly visible in plain text in the header section, which is a significant security detail (likely an internal reference code rather than a literal drive password intended for public view, but still sensitive).
+-   **"MDC" Facility:** The repeated acronym "MDC" suggests a specific facility name (e.g., Menard Detention Center) which implies this correspondence involves legal teams handling evidence for inmates or staff.
+-   **Physical Security Protocols:** The text mentions etching a number onto the drive and using authorization memos, indicating standard forensic or legal chain-of-custody procedures.
+-   **Delivery Discrepancy:** One email (8/10) claims delivery on 8/07/2020, while another (middle section) states "I have not received it yet," suggesting a lag in staff notification despite the tracking showing "Delivered."
+-   **"Sent from my iPhone":** This text appears in one of the middle blocks, indicating one correspondent was mobile.
+-   **Date Range:** The thread spans from August 5, 2020, to August 13, 2020.
+-   **Carrier Usage:** FedEx is identified as the primary courier for these sensitive items ("discovery").
+-   **Instruction on Retention:** One email specifies "so she can retain it," referring to a female recipient (the inmate or staff member) keeping the drive after receiving it.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED] 8/5/2020 4:34 PM >>>
+
+We have a hard drive with loaded discovery that we need to deliver to Ghislaine Maxwell, [REDACTED] at MDC. Could you please let us know what the current protocol is for that? Also, it's our understanding that hard drives with discovery materials for inmates needs to be non-encrypted (and not have a password for access), is that also correct?
+We're hoping to get these materials to her tomorrow if at all possible, so we greatly appreciate your help. And I'm reachable any time at [REDACTED] if it would be helpful to discuss.
+
+thanks,
+
+[REDACTED]
+
+Assistant U.S. Attorney
+Southern District of New York
+
+[REDACTED]
+
+## Structured Fields
+- **Date**: 8/5/2020
+- **Time**: 4:34 PM
+- **Names**: Ghislaine Maxwell
+- **Organizations/Locations**: MDC, Southern District of New York, Assistant U.S. Attorney
+- **Document ID**: EFTA00023965
+

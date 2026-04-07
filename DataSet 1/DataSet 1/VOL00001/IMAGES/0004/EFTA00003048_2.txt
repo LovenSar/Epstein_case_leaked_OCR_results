@@ -1,0 +1,61 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003048.pdf ts=2026-03-06T00:37:26 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled shot of a white paper document titled "Emergency Contact Form" clipped into a clear plastic sleeve within a three-ring binder. The binder rings are visible on the left edge, piercing through the form. The background is a dark, textured surface, likely asphalt or concrete, with a faint yellow painted line running vertically near the top.
+
+The document header features the company name "LSJE, LLC" centered at the top in a serif font. Below this is the address "6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802". The telephone and fax number fields next to the address are obscured by black redaction bars.
+
+The form is divided into several sections with typed labels for data entry.
+- **Top Section:** Contains fields for "Date" (filled as 04/10/18) and "Start Date" (also 04/10/18). Below this is the "Employee Name" field filled with "Dalce Gusname".
+- **Middle Section:** To the right of the name is a redacted address area. Below the name, there are fields for "Address" (redacted), "Phone" (blank), "Cell" (redacted), and "E-Mail" (blank). To the right of the phone section is "Date of Birth" which is redacted.
+- **Job Details:** Further down, a field for "Title / Position" has the handwritten entry "Landscaping". Next to it are fields for "Marital Status" (filled as "Married") and an empty box for "License".
+- **Emergency Info:** A section titled "Emergency Information:" lists "Allergies or Health Concerns" and a note stating "Blood type not specified". The label "Blood Type:" is highlighted with a yellow marker. Below that is a line for "Current Medication".
+- **Doctor Info:** Two rows for "Doctor's Name" and "Phone" are provided but are left blank.
+- **Contact Info:** A final section asks to contact someone "In case of an Emergency, Please contact :". The first row lists a relationship as "Sister", but the name and phone number fields are redacted. Below this is a second empty row for another contact.
+- **Footer:** At the very bottom, text reads "This Information is for your safety and the safety of others". A document ID "EFTA00003048" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+- **Header:**
+    - LSJE, LLC
+    - 6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: [REDACTED] Fax: [REDACTED]
+    - Emergency Contact Form
+- **Employee Data:**
+    - Date: 04/10/18
+    - Start Date: 04/10/18
+    - Employee Name: Dalce Gusname
+    - Address: [REDACTED]
+    - Date of Birth: [REDACTED]
+    - Phone: [BLANK]
+    - Cell: [REDACTED]
+    - E-Mail: [BLANK]
+    - Title / Position: Landscaping
+    - Marital Status: Married
+    - License: [EMPTY BOX]
+- **Emergency Info:**
+    - Emergency Information:
+    - Blood type not specified
+    - Allergies or Health Concerns: [BLANK LINE]
+    - Blood Type: [YELLOW HIGHLIGHT ON LABEL] [EMPTY BOX/AREA]
+    - Current Medication: [BLANK LINE]
+- **Doctor Data:**
+    - Doctor's Name: [BLANK] Phone: [BLANK]
+    - Doctor's Name: [BLANK] Phone: [BLANK]
+- **Contact Data:**
+    - In case of an Emergency, Please contact :
+    - Name: [REDACTED] Relationship: Sister Phone: [REDACTED]
+    - Name: [PARTIALLY VISIBLE "ame"] Relationship: [BLANK] Phone: [BLANK]
+- **Footer:**
+    - This Information is for your safety and the safety of others
+    - EFTA00003048
+
+## Notable Details / Clues
+- **Redaction Strategy:** Several sensitive fields, including the address, cell phone number, date of birth, emergency contact name/phone, and employee's full address line are covered with solid black bars, indicating privacy protection.
+- **Date Context:** The form is dated 04/10/18, suggesting the document was filled out in April or October of 2018 (likely April given the standard US date format MM/DD/YY or October DD/MM/YY, though the location St. Thomas usually follows US formatting).
+- **Location Context:** The address "St. Thomas, VI" indicates the entity is located in the U.S. Virgin Islands.
+- **Handwriting Style:** The entry for "Title / Position" ("Landscaping") is in cursive handwriting, while the employee name and marital status appear typed or printed.
+- **Highlighting:** The label "Blood Type:" has a yellow highlight behind it, possibly indicating it was missed or requires attention since no blood type was entered (indicated by the note "Blood type not specified").
+- **Incomplete Entry:** In the emergency contact section, the relationship is listed as "Sister", but the specific contact details are hidden. In the second contact row below it, faint letters "ame" are visible on the name line, suggesting a previous entry might have been overwritten or cut off by the binder hole.
+- **Company Info:** The company "LSJE, LLC" appears to be a landscaping or service-related business given the "Landscaping" job title and Virgin Islands location.
+

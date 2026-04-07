@@ -1,0 +1,613 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019183.pdf ts=2026-03-14T00:32:54 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email chain thread, presented with the most recent message at the top and older messages below it. The document features heavy redaction of names, email addresses, and specific details using solid black bars. The visual layout is vertical, typical of an inbox view or a forward-forward chain.
+
+-   **Top Email Block:** This is the latest entry in the thread. It is timestamped Friday, May 7, 2021, at roughly 6:13 PM UTC (+0000). The sender's name is completely blacked out. The recipient list includes an email address ending with "(USANYS)". The subject line reads "RE: Follow Up Call". The body text is a short message about dialing into a call and checking if others are present.
+-   **Middle Email Block (Lower Header):** Located just below the top email, this section appears to be a reply or a separate thread segment. The "From" field is redacted. It is dated Friday, May 7, 2021, at 12:03 PM. The body text apologizes for being late on a call ("stuck on a call running a few minutes behind") and promises to dial in momentarily. It ends with "Thanks," followed by a redacted signature block.
+-   **Middle Email Block (Upper Header):** This section corresponds to the email sent at 12:56 PM on May 7, 2021. The text states, "In advance of our call, attached is an article that recently ran locally on this issue:". A very large, wide black rectangle obscures the area where an attachment or embedded content would typically be visible. Below that is a small black square artifact.
+-   **Bottom Email Block:** This is the earliest timestamped message in the visible chain, dated Wednesday, May 5, 2021, at 9:26 AM. The sender mentions asking their "PIO" (Public Information Officer) about reporting deadlines. It concludes with a line introducing conference call details ("Below are the details for the conference call..."), which are cut off by the bottom edge of the image.
+-   **Document Identification:** In the bottom right corner, there is a faint alphanumeric identifier: "EFTA00019183", suggesting this document is part of a larger archive or legal discovery set.
+-   **Formatting:** The email headers (From, Sent, To, Cc, Subject) are bolded and aligned to the left margin. The body text is left-aligned in a standard sans-serif font. Horizontal gray lines separate the different email messages within the thread.
+
+## Visible Text (verbatim)
+**Top Section:**
+"From: [REDACTED]"
+"To: "[[REDACTED]]" <[[REDACTED]]>"
+"Cc: "[[REDACTED]]" <[[REDACTED]]>, "[[REDACTED]] (USANYS)"
+"Subject: RE: Follow Up Call"
+"Date: Fri, 07 May 2021 18:13:17 +0000"
+
+"No worries. I just dialed in. I don’t think anyone is on the line yet. Let me know if you are and I just am not using this properly."
+
+**Middle Section (12:03 PM Entry):**
+"From: [REDACTED] <[REDACTED]>"
+"Sent: Friday, May 7, 2021 12:03 PM"
+"To: [REDACTED]"
+"Cc: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>"
+"Subject: RE: Follow Up Call"
+"[REDACTED BLOCK]"
+
+"Apologies, I’m stuck on a call running a few minutes behind, but I’ll dial in momentarily.
+
+Thanks,"
+"[REDACTED SIGNATURE]"
+
+**Middle Section (12:56 PM Entry):**
+"From [REDACTED]"
+"Sent: Friday, May 7, 2021 12:56 PM"
+"To: [REDACTED] <[REDACTED]>"
+"Cc: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>"
+"Subject: RE: Follow Up Call"
+
+"In advance of our call, attached is an article that recently ran locally on this issue:"
+"[LARGE BLACK RECTANGLE]"
+"[SMALL BLACK SQUARE]"
+
+**Bottom Section:**
+"From: [REDACTED]"
+"Sent: Wednesday, May 5, 2021 9:26 AM"
+"To: [REDACTED] <[REDACTED]>"
+"Cc: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>"
+"Subject: RE: Follow Up Call"
+
+"I have asked my PIO to find out if there is a deadline on this reporting that will necessitate moving up the timing of this call. I will let you know if that turns out to be the case.
+
+Below are the details for the conference call in number and participant code:"
+
+**Footer:**
+"EFTA00019183"
+
+## Notable Details / Clues
+-   **Redaction Pattern:** The black bars are uniform and thick, likely applied post-hoc to hide sensitive data like names and specific addresses. The "(USANYS)" tag appears repeatedly in the "Cc" or "To" fields, indicating an external domain or organization (possibly US Anywhere Services or similar).
+-   **Time Progression:** The email thread spans from Wednesday morning (May 5) to Friday evening (May 7), indicating a weekend gap. The top email is significantly later in the day (18:13) compared to the middle emails (12:03 and 12:56).
+-   **Content Context:** The thread revolves around setting up a "Follow Up Call." The sender mentions an "article that recently ran locally," suggesting a public relations or media issue is being discussed.
+-   **PIO Reference:** The use of "PIO" (Public Information Officer) implies a corporate, government, or PR context rather than casual personal correspondence.
+-   **Technical Artifacts:** The small black square near the bottom middle and the large bar in the middle email likely represent embedded images that were not rendered correctly or were deliberately redacted in this view.
+-   **Date/Time Zones:** The final email timestamp includes "+0000", indicating Coordinated Universal Time (UTC), while the local date is written out fully (e.g., "Friday, May 7").
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Phone Number: 866-880-0098
+
+Participant code: 8704649#
+
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, May 5, 2021 8:29 AM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Follow Up Call
+
+Thanks for the advanced notice, we should definitely discuss, particularly since there are rules about press contacts in our pending case that we're mindful of. 2:15 p.m. works for us. On timing, do you have a sense of when you anticipate this happening?
+
+From: [REDACTED]
+Sent: Wednesday, May 5, 2021 10:21 AM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Follow Up Call
+
+As an FYI, I am really calling to get the contact information for your PIO since there will be reporting in our local news and my USA wants to make a statement, but we want to run this by you all and your PIO first. As for time, does 2:15pm ET work for you all? If so, I can get a conference line set up for that time.
+
+H
+
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, May 5, 2021 8:13 AM
+To: [REDACTED]
+Cc: ) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Follow Up Call
+
+H [REDACTED]
+
+Since our whole team will join to keep everyone looped in, it would be helpful to schedule a call at a particular time, if possible. Could we pick a time on Friday afternoon and use a conference line?
+
+Thanks,
+
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, May 5, 2021 10:03 AM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+I will reach out on Friday shortly after 2pm ET. What number should I call?
+
+Best,
+
+EFTA00019184
+
+## Structured Fields
+*   **Phone Number:** 866-880-0098
+*   **Participant Code:** 8704649#
+*   **Dates:** Wednesday, May 5, 2021 (multiple times: 8:29 AM, 10:21 AM, 8:13 AM, 10:03 AM)
+*   **Organizations:** USANYS (US Agency for News/Press), USA (likely referring to a specific unit or 'my USA' within the organization context).
+*   **Roles mentioned:** PIO (Public Information Officer).
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+From: [REDACTED] <[REDACTED]>
+Sent: Tuesday, May 4, 2021 7:11 PM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: Re: Follow Up Call
+
+Hi [REDACTED]
+
+Hope you’re doing well. We’re free for a call on Friday anytime after 2 p.m. ET.
+
+Thanks,
+
+[REDACTED]
+
+On May 4, 2021, at 5:00 PM, [REDACTED]
+
+All-
+
+Please let me know when one of you have a moment to chat briefly about this matter.
+
+Thanks,
+
+[REDACTED]
+
+From: [REDACTED] <[REDACTED]>
+Sent: Monday, July 20, 2020 4:55 PM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+That’s perfect, thanks very much. You can call my cellphone at [REDACTED] as I will likely be working remotely.
+
+Thanks
+
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, July 20, 2020 6:54 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+No worries about the delay. I know that it is especially difficult to keep all the balls in the air right now. I am fairly sure I am dropping some as I type this email. I can do a call on Thursday at 1pm MT/ 3Pm ET. Should I call the office number listed in your signature block below?
+
+From: [REDACTED] <[REDACTED]>
+Sent: Monday, July 20, 2020 4:51 PM
+To: [REDACTED]
+
+EFTA00019185
+
+## Structured Fields
+- **Dates:** Tuesday, May 4, 2021; Monday, July 20, 2020 (multiple times)
+- **Subject:** Re: Follow Up Call
+- **Organization:** USANYS
+- **Doc ID:** EFTA00019185
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+[REDACTED]
+
+Apologies for the delay, and thank you for following up. I am available for a call any time after 1 p.m. Eastern on Thursday 7/23. Please let me know if there is a convenient time for a call that afternoon.
+
+Thanks,
+[REDACTED]
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+From: [REDACTED]
+Sent: Monday, July 20, 2020 6:40 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+All-
+
+From: [REDACTED]
+Sent: Wednesday, July 15, 2020 8:41 AM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+Greetings from DNM,
+
+Well done on the new indictment against Ms. Maxwell. We were pleased to see that conduct in New Mexico formed the basis of one of your overt acts. I know that you all are very busy, but if you [REDACTED] a moment for a brief call to discuss the impact, if any, of the new indictment on seizure/forfeiture of Epstein’s NM property, I would appreciate it. As you are aware, this is an issue my US Attorney, John Anderson, has asked me to track.
+
+Thanks,
+[REDACTED]
+
+From: [REDACTED] <[REDACTED]>
+Sent: Tuesday, November 19, 2019 1:59 PM
+To: [REDACTED]
+
+## Structured Fields
+- **Date**: July 23 (Thursday), July 20, 2020, July 15, 2020, November 19, 2019
+- **Time**: 1 p.m. Eastern, 6:40 PM, 8:41 AM, 1:59 PM
+- **Location**: New York, NY (Southern District), New Mexico (NM)
+- **Names**: Ms. Maxwell, John Anderson
+- **Organizations**: Assistant United States Attorney, Southern District of New York, Epstein’s
+- **Doc ID**: EFTA00019186
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]> >[REDACTED]
+Subject: RE: Follow Up Call
+
+That works, thanks. You can reach me at my desk—212-637-2324.
+
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+
+From [REDACTED]
+Sent: Tuesday, November 19, 2019 3:58 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; Fyffe, Brandon (USANM) <bfyffe@usa.doj.gov>
+Subject: RE: Follow Up Call
+
+Could you do a call in 30 minutes -- 2:30pm MT/ 4:30 ET?
+
+From [REDACTED] <[REDACTED]>
+Sent: Tuesday, November 19, 2019 12:03 PM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+Hi [REDACTED]
+
+I’m happy to chat today if you’re available in the next few hours. Otherwise, I could do later in the day on Thursday.
+
+Thanks,
+
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+
+EFTA00019187
+## Structured Fields
+*   **Date**: Tuesday, November 19, 2019 (Sent: 3:58 PM, Sent: 12:03 PM)
+*   **Location**: Southern District of New York, 1 St. Andrew’s Plaza, New York, NY 10007
+*   **Organizations**: Assistant United States Attorney, USANM (US Attorney's Network), USA DOJ
+*   **Email Address**: bfyffe@usa.doj.gov
+*   **Phone Number**: 212-637-2324
+*   **Document ID**: EFTA00019187
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+Sent: Tuesday, November 19, 2019 10:33 AM
+To: [REDACTED]) <[REDACTED]>
+Subject: RE: Follow Up Call
+
+When you have a moment, can you let me know when we can conduct a call to discuss the reporting concerning Jane Doe 15?
+
+Subject: ‘Jane Doe 15’ Alleges Jeffrey Epstein Raped Her As A Teen, Referenced ‘Good Friend’ Bill Clinton – CBS Los Angeles
+https://losangeles.cbslocal.com/2019/11/18/jeffrey-epstein-bill-clinton-gloria-allred/
+
+Thanks,
+[REDACTED]
+
+From: [REDACTED]) <[REDACTED]>
+Sent: Friday, October 11, 2019 2:46 PM
+To: [REDACTED]
+Subject: RE: Follow Up Call
+
+Received, thanks very much [REDACTED] You’re correct that we cover these topics during interviews, but it is helpful to keep in mind the information you are interested in as well.
+
+Best,
+[REDACTED]
+
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, October 11, 2019 1:25 PM
+To: [REDACTED]) <[REDACTED]>
+Subject: RE: Follow Up Call
+
+When we last spoke, you expressed a willingness to review New Mexico-specific questions that we would like to be included in future interviews of Epstein victims. While I am certain that you already cover the pertinent questions, we did not want to turn down the invitation to submit a set of proposed questions, which I have attached.
+
+EFTA00019188
+
+## Structured Fields
+- **Dates:** Tuesday, November 19, 2019; Friday, October 11, 2019 (x2)
+- **Names:** Jane Doe 15, Jeffrey Epstein, Bill Clinton, Gloria Allred
+- **Locations:** New Mexico, Southern District of New York, New York, NY, Los Angeles
+- **Organizations:** Assistant United States Attorney, CBS Los Angeles
+- **Document ID:** EFTA00019188
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+I hope all is well with you and the ongoing investigation. As we mentioned on the phone, we are here to assist with any investigation into New Mexico-related matters, including the submission of any application for a search warrant.
+
+Best,
+
+[REDACTED]
+
+From: [REDACTED] ) <[REDACTED]>
+Sent: Monday, September 09, 2019 10:49 AM
+To: [REDACTED]
+[REDACTED]) <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+You can call my desk at [REDACTED]
+
+Thanks,
+
+[REDACTED]
+
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+
+[REDACTED]
+
+From [REDACTED]
+Sent: Monday, September 9, 2019 11:27 AM
+To: [REDACTED]) <[REDACTED]>; [REDACTED]
+[REDACTED]) <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+Thank you for the response and the additional information about the NM AG's office. We look forward to speaking with you on Thursday. What number should we call?
+
+Thanks,
+
+[REDACTED]
+
+From: [REDACTED] <[REDACTED]>
+Sent: Sunday, September 08, 2019 3:15 PM
+To: [REDACTED]
+[REDACTED]) <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+EFTA00019189
+
+## Structured Fields
+- **Date Range:** September 08, 2019 – September 09, 2019
+- **Locations:** New Mexico (NM), Southern District of New York, New York, NY 10007
+- **Organizations:** Assistant United States Attorney, NM AG's office (New Mexico Attorney General)
+- **Document ID:** EFTA00019189
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Hi [REDACTED]
+
+Yes, a call on 9/12 at 1:30 MT / 3:30 ET will work for us, thanks very much.
+
+As a preview in response to [REDACTED] email, we spoke with the New Mexico AG’s office back in July 2019. In essence, they agreed to cease any investigation into sex trafficking and share whatever they had gathered to date regarding sex trafficking activity with our office. We agreed that they were free to proceed with whatever other investigations (unrelated to sex trafficking) they may have concerning Epstein and told them that at the conclusion of our case, we would pass along any information we may have gathered about state crimes that were committed in their jurisdiction. We have not communicated with anyone from the New Mexico AG’s office since that conversation in July 2019.
+
+Best,
+[REDACTED]
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+[REDACTED]
+[REDACTED]
+
+From: [REDACTED]
+Sent: Friday, September 6, 2019 5:28 PM
+To: [REDACTED] <[REDACTED]> <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]> <[REDACTED]>
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+I just wanted to confirm that you all are able to do the phone call next Thursday, September 12th at 1:30 MT / 3:30 ET? Please let me know what number we should call.
+
+Thanks,
+[REDACTED]
+
+From: [REDACTED]
+Sent: Thursday, September 05, 2019 12:01 PM
+To: [REDACTED] <[REDACTED]> <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]> <[REDACTED]>
+Subject: RE: Follow Up Call
+
+FYI: state authorities in New Mexico are moving forward with their own plans with respect to the Epstein property. Yesterday the state land commissioner revoked leases held by Cypress Inc.
+
+https://www.abqjournal.com/1362185/land-commissioner-voids-epsteins-nm-grazing-leases.html
+
+The linked news coverage quotes the New Mexico Attorney General as saying that he is conducting a criminal investigation at the state level “in coordination with” the SDNY. Here are a few sentences from late in the article:
+
+EFTA00019190
+
+## Structured Fields
+- **Date**: 9/12, September 6, 2019, September 05, 2019, July 2019
+- **Location**: Southern District of New York, New Mexico, New York, NY 10007
+- **Organization**: New Mexico AG's office, Assistant United States Attorney, Cypress Inc., SDNY, ABQ Journal
+- **Name/Title**: Epstein (mentioned), State land commissioner, New Mexico Attorney General
+- **Doc ID**: EFTA00019190
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+The [State] Attorney General’s Office is investigating whether crimes took place on Zorro Ranch. [State Land Commissioner Stephanie] Garcia Richard said Wednesday her office had notified [State] Attorney General Hector Balderas to provide notice if any criminal activity was found to have occurred on the trust land leased by Epstein “because we were looking for a reason to cancel these leases and criminal activity would have given us the perfect reason.”
+
+....
+
+Balderas did issue a statement saying he was pleased Garcia Richard was “taking back lands that should be managed to best serve the State and for the benefit of New Mexico school children.” Public schools are one beneficiary of state trust land revenue. Balderas added: “We continue to investigate this matter at the state level in coordination with U.S. Attorney’s Office for the Southern District of New York.”
+
+Jonathon
+
+[REDACTED]
+
+Fraud and Public Corruption Section
+U.S. Attorney’s Office – District of New Mexico
+
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, September 4, 2019 4:12 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]
+
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+Thank you for the speedy response. Next week works for us. Can you all do the call next Thursday, September 12th at 1:30 MT / 3:30 ET?
+
+[REDACTED]
+
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, September 04, 2019 3:41 PM
+To: [REDACTED]
+Cc: [REDACTED]
+
+Subject: RE: Follow Up Call
+
+Hi [REDACTED]
+
+Hope you’re doing well. This week is a bit tough for us. Are there dates next week that would work for you? We are traveling Monday through Wednesday, but could talk Thursday or Friday.
+
+Thanks,
+
+[REDACTED]
+
+EFTA00019191
+
+## Structured Fields
+*   **Date:** Wednesday, September 4, 2019; Thursday, September 12th
+*   **Case ID/Doc ID:** EFTA00019191
+*   **Names:** Stephanie Garcia Richard, Hector Balderas, Jonathon, Epstein
+*   **Organizations:** [State] Attorney General’s Office, U.S. Attorney’s Office – District of New Mexico, U.S. Attorney’s Office for the Southern District of New York
+*   **Location:** Zorro Ranch, New Mexico, Southern District of New York
+</think>
+
+The [State] Attorney General’s Office is investigating whether crimes took place on Zorro Ranch. [State Land Commissioner Stephanie] Garcia Richard said Wednesday her office had notified [State] Attorney General Hector Balderas to provide notice if any criminal activity was found to have occurred on the trust land leased by Epstein “because we were looking for a reason to cancel these leases and criminal activity would have given us the perfect reason.”
+
+....
+
+Balderas did issue a statement saying he was pleased Garcia Richard was “taking back lands that should be managed to best serve the State and for the benefit of New Mexico school children.” Public schools are one beneficiary of state trust land revenue. Balderas added: “We continue to investigate this matter at the state level in coordination with U.S. Attorney’s Office for the Southern District of New York.”
+
+Jonathon
+
+[REDACTED]
+
+Fraud and Public Corruption Section
+U.S. Attorney’s Office – District of New Mexico
+
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, September 4, 2019 4:12 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED]
+
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+Thank you for the speedy response. Next week works for us. Can you all do the call next Thursday, September 12th at 1:30 MT / 3:30 ET?
+
+[REDACTED]
+
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, September 04, 2019 3:41 PM
+To: [REDACTED]
+Cc: [REDACTED]
+
+Subject: RE: Follow Up Call
+
+Hi [REDACTED]
+
+Hope you’re doing well. This week is a bit tough for us. Are there dates next week that would work for you? We are traveling Monday through Wednesday, but could talk Thursday or Friday.
+
+Thanks,
+
+[REDACTED]
+
+EFTA00019191
+
+## Structured Fields
+*   **Date:** Wednesday, September 4, 2019; Thursday, September 12th
+*   **Case ID/Doc ID:** EFTA00019191
+*   **Names:** Stephanie Garcia Richard, Hector Balderas, Jonathon, Epstein
+*   **Organizations:** [State] Attorney General’s Office, U.S. Attorney’s Office – District of New Mexico, U.S. Attorney’s Office for the Southern District of New York
+*   **Location:** Zorro Ranch, New Mexico, Southern District of New York
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From [REDACTED]
+Sent: Wednesday, September 4, 2019 4:28 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED]; [REDACTED> <[REDACTED>; [REDACTED> <[REDACTED]; [REDACTED] >[REDACTED]
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+[REDACTED]and I were hoping to schedule a follow up call with you concerning Epstein’s New Mexico conduct and property sometime this week. We are both available tomorrow morning (9-12 MT / 11-2 ET) or Friday any time after 12pm MT / 2pm ET. Do you all have availability for a follow up call on either of these days?
+
+Thanks,
+
+[REDACTED]
+
+From [REDACTED] <[REDACTED]>
+Sent: Saturday, August 17, 2019 12:46 PM
+To: Kastrin, Holland S. (USANM) <HKastrin@usa.doj.gov>
+Cc: [REDACTED] <[REDACTED>; [REDACTED> <[REDACTED]>
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+We certainly can be in touch. I’m copying my colleagues on the case, Alison and Maurene, because I have a trial starting August 26 so I’ll be mostly unavailable next week, but it should be possible to find a time for one or both of them to chat. If you send a couple possible times for next week we can figure it out.
+
+thanks,
+
+[REDACTED]
+
+From [REDACTED]
+Sent: Friday, August 16, 2019 14:01
+To: [REDACTED] <[REDACTED]>
+Subject: Follow Up Call
+
+[REDACTED]
+
+Would you have a couple of minutes to chat with me and one of my colleagues about some NM-related Epstein matters this afternoon or early next week? If today works for you, I am available any time after 1:30 MT/ 3:30 ET today. It is nothing urgent.
+
+Thanks,
+
+[REDACTED]
+
+EFTA00019192
+
+## Structured Fields
+- **Doc IDs**: EFTA00019192
+- **Dates**:
+    - Wednesday, September 4, 2019 4:28 PM
+    - Saturday, August 17, 2019 12:46 PM
+    - Friday, August 16, 2019 14:01
+- **Names**:
+    - Kastrin, Holland S.
+    - Alison
+    - Maurene
+    - Epstein (referenced)
+- **Locations**: New Mexico (NM)
+- **Organizations**: USANM (United States Attorney's Office in New Mexico), USA DOJ (via email address)
+- **Email Addresses**: HKastrin@usa.doj.gov
+

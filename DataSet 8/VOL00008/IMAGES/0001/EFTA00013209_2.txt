@@ -1,0 +1,52 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00013209.pdf ts=2026-03-11T13:19:05 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a single, vertically oriented page from a formal legal document or government memorandum on a white background. The text is primarily in a standard serif typeface. The top of the page features a centered header block indicating the document title, an official role, and a specific date. Below the header, a section heading introduces the first body of text. This entire section is heavily obscured by numerous horizontal black rectangular bars that vary in length, effectively redacting the vast majority of the written content. These black bars are stacked vertically, mimicking lines of deleted text or paragraphs. Near the bottom left, three distinct bullet points (represented by small filled squares) are visible on the margin, indicating a list format for specific steps or charges, though the text associated with them is completely blacked out. The final section at the bottom consists of three more horizontal redaction bars before a white space ends the page. A numerical tracking code is situated in the bottom right corner.
+
+## Visible Text (verbatim)
+*   DAG Meeting Case Overview
+*   Acting U.S. Attorney [REDACTED]
+*   November 5, 2020
+*   I. Anticipated Charges and Investigative Steps
+*   EFTA00013209
+
+## Notable Details / Clues
+*   **Date Context:** The document is dated November 5, 2020, placing it in the middle of the COVID-19 pandemic era in the US.
+*   **Redaction Extent:** The redactions are not random; they cover entire paragraphs and likely entire sentences, suggesting the content involves specific legal arguments, names of defendants, or evidence that was deemed sensitive or privileged at the time of this internal briefing (DAG Meeting).
+*   **Document Purpose:** The title "DAG Meeting Case Overview" suggests this document is an internal briefing for a Deputy Attorney General meeting regarding a specific criminal case.
+*   **Role Identification:** The header identifies the author's status as an "Acting U.S. Attorney," indicating the individual was temporarily serving in that position.
+*   **Bullet Point Structure:** In the lower-left quadrant, three small square bullets are aligned vertically, implying a numbered or bulleted list was intended to outline specific investigative actions or anticipated charges before being redacted.
+*   **Tracking Number:** The code "EFTA00013209" at the bottom right serves as an administrative identifier, likely used for document tracking within the Department of Justice or Electronic Federal Tax Accounting systems.
+*   **Layout Consistency:** Despite the heavy redaction, the indentation and spacing suggest a formal memo structure with justified text alignment where the content was originally present.
+*   **Specific Terminology:** The phrase "Anticipated Charges" implies this document is a predictive analysis or charging memorandum prepared before an official indictment was likely filed or served.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+DAG Meeting Case Overview
+Acting U.S. Attorney [REDACTED]
+November 5, 2020
+
+II. Charged Cases
+
+U.S. v. Maxwell, 20 Cr. 330 (AJN): This summer, we charged Ghislaine Maxwell with conspiring to entice minors to travel for the purpose of sexual abuse in connection with helping Jeffrey Epstein to abuse his many victims. The case focused on three specific victims that traveled to be abused by Epstein, including instances in which Maxwell herself participated in the acts of abuse. Trial is set for this coming July. We are finishing discovery, and motions are scheduled for December. Motion practice could generate further press; for example, the defendant continues to press for the identity of the specific victims, and if she is successful, that would surely lead to a round of press about the victims and the details of our case. Relatedly, we are in plea negotiations with counsel for [REDACTED], another Epstein co-conspirator. [REDACTED], who scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his sexual abuse, may plead to an obstruction of justice-related count.
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+EFTA00013210
+
+## Structured Fields
+- **Date:** November 5, 2020
+- **Case ID:** U.S. v. Maxwell, 20 Cr. 330 (AJN)
+- **Names:** Ghislaine Maxwell, Jeffrey Epstein
+- **Organizations/Departments:** Acting U.S. Attorney (DAG Meeting)
+

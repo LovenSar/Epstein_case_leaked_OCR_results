@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032803.pdf ts=2026-03-19T20:40:05 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Event: TC with Reid Weingarten re Epstein
+Start Date: 2019-11-19 21:30:00 +0000
+End Date: 2019-11-19 22:00:00 +0000
+Organizer: [REDACTED] (USANYS) <[REDACTED]>
+Location: RD's office
+Class: X-PERSONAL
+Date Created: 2019-11-19 20:45:25 +0000
+Date Modified: 2019-11-19 20:45:25 +0000
+Priority: 5
+DTSTAMP: 2019-11-19 20:11:06 +0000
+Attendee: [REDACTED] (USANYS) <[REDACTED]>;
+<[REDACTED]>; [REDACTED]) <[REDACTED]>; [REDACTED]
+[REDACTED] ) <[REDACTED]> >
+Alarm: Display the following message 15m before start
+| Reminder
+Reid wants to have a call with [REDACTED] and I regarding the indictment and ask questions. I had to get off the phone to join another call but my plan will be to say we can't say much. FYI to Epstein team.
+
+## Structured Fields
+- **Event Title:** TC with Reid Weingarten re Epstein
+- **Start Date/Time:** 2019-11-19 21:30:00 UTC
+- **End Date/Time:** 2019-11-19 22:00:00 UTC
+- **Location:** RD's office
+- **Security Class:** X-PERSONAL
+- **Organizer:** [REDACTED] (USANYS)
+- **Attendees:** Multiple [REDACTED] entries (USANYS timezone indicated)
+- **Reminder Message:** Reid wants to have a call with [REDACTED] and I regarding the indictment... FYI to Epstein team.
+- **Document ID:** EFTA00032803
+

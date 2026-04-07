@@ -1,0 +1,47 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029642.pdf ts=2026-03-18T10:42:53 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, heavily redacted to hide personal information. At the top, standard email headers are visible including "From," "To," "Subject," and "Date." The "From" and "To" fields are obscured by black rectangular bars. The subject line reads "RE: Notes from call with Tartaglione counsel" and the date is listed as Wednesday, November 27, 2019. Below a horizontal dividing line, a single sentence in blue hyperlink text states, "Sure. I'm around now if you want to chat."
+
+Below this section is another email header block. The headers for "From," "To," and the subject line are partially visible or redacted. The subject line repeats the previous one: "Re: Notes from call with Tartaglione counsel." The message body asks, "Thanks for writing this up. Do you want to discuss later today or Friday or Monday?" followed by a redacted area where a signature likely would be.
+
+Underneath that, another email participant is identified by their title, "Co-Chief, Narcotics Unit," though their name is redacted. Further down, a forwarded message header is visible, citing "On Nov 27, 2019, at 10:25," followed by a long redacted name and the text "wrote:". This email refers to a "Call on November 27, 2019 with NT defense team." A list of names appears below that header: "Bruce B, Aida, Bruce K, Tony, Michael," before a small black bar.
+
+The bottom half of the document is completely obscured by a large, solid black rectangle that covers whatever content was beneath the name list. In the bottom right corner, outside the main content area, there is an alphanumeric string: "EFTA00029642".
+
+## Visible Text (verbatim)
+- From: [Redacted]
+- To: [Redacted]
+- Subject: RE: Notes from call with Tartaglione counsel
+- Date: Wed, 27 Nov 2019 16:28:16 +0000
+- Sure. I'm around now if you want to chat.
+- From [Redacted]
+- Sent: Wednesday, November 27, 2019 11:19 AM
+- To: [Redacted]
+- Subject: Re: Notes from call with Tartaglione counsel
+- Thanks for writing this up. Do you want to discuss later today or Friday or Monday?
+- Co-Chief, Narcotics Unit
+- On Nov 27, 2019, at 10:25, [Redacted] wrote:
+- Call on November 27, 2019 with NT defense team
+- Bruce B, Aida, Bruce K, Tony, Michael
+- EFTA00029642
+
+## Notable Details / Clues
+- **Case Sensitivity:** The heavy redaction of names ("From," "To") and the use of an internal tracking number (EFTA...) suggest this is part of a legal case file or an official investigation document.
+- **Specific Case Reference:** The subject line references a specific individual, "Tartaglione counsel," indicating a defense attorney for someone named Tartaglione is being consulted.
+- **Professional Hierarchy:** The title "Co-Chief, Narcotics Unit" indicates law enforcement involvement, likely police or sheriff's department investigators.
+- **Timeline Discrepancy:** The top email timestamp is 16:28 (4:28 PM), while the forwarded email inside refers to a call at 10:25 AM on the same day, suggesting a sequence of events that morning.
+- **Defense Team Composition:** The list "Bruce B, Aida, Bruce K, Tony, Michael" lists multiple individuals involved in the defense side or the internal team reviewing the case.
+- **Blue Text Formatting:** The phrase "Sure. I'm around now if you want to chat." is styled as a clickable link (indicated by the color), typical of email clients when pasting a snippet or clicking through to an IM/chat app.
+- **Blackout Extent:** The massive black box at the bottom obliterates any signatures, closing remarks, or attachments that would typically follow a forwarded message chain in this section.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+## Structured Fields
+
+*   Doc ID: EFTA00029643
+

@@ -1,0 +1,63 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007968.pdf ts=2026-03-09T02:55:34 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Town of Palm Beach Police Department EVIDENCE CASE #05-368 PROPERTY #06-95
+128142
+CONTENTS
+Item Quantity Description
+1 1 micro hf [REDACTED]
+Suspect: Epstein Jeff
+Officer: Def. [REDACTED] Date: 01-27-06
+Lab #:
+
+## Structured Fields
+*   **Organization:** Town of Palm Beach Police Department
+*   **Case Number:** 05-368
+*   **Property Number:** 06-95
+*   **ID/Stamp Number:** 128142
+*   **Suspect:** Epstein Jeff
+*   **Officer:** Def.
+*   **Date:** 01-27-06
+*   **Large Handwritten Notation:** 15
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+Micro Tape
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+EFTA00007969
+
+## Structured Fields
+*   **Date**: July 27, 2020
+*   **Doc ID**: EFTA00007969
+*   **Description**: Micro Tape
+*   **Instruction Source**: DocLab Instruction(s)
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[ ] MEETING [ ] MEMO [ ] OTHERS ( )
+A: [REDACTED]
+B: [REDACTED]
+2-601-050-11
+
+PROP → MEMO
+06-95
+SONY
+MC-90
+A
+title [REDACTED]
+
+## Structured Fields
+*   **Date:** 06-95 (June 1995)
+*   **Document ID:** EFTA00007970
+*   **Part Number/ID:** 2-601-050-11
+*   **Organization/Brand:** SONY
+*   **Tape Type:** MC-90 (Mini-cassette)
+*   **Record Type:** Memo (indicated by handwritten note)
+

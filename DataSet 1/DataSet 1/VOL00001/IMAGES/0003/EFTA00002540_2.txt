@@ -1,0 +1,28 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002540.pdf ts=2026-03-05T20:58:32 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Power Cable and Plug**: In the upper left quadrant, a black power cord extends from the top edge of the chassis. The end of the cord features a standard US-style grounded plug with two flat parallel blades and one round ground pin (NEMA 5-15 style), dangling freely against a grey background.
+*   **Chassis Construction**: The main subject is a vertical sheet of metallic grey painted steel, likely a side panel or backplate of a computer tower or server. To the immediate left, a separate section of similar metal meets it at a sharp vertical seam or rivet line.
+*   **Mounting Holes**: A regular grid of circular mounting holes is visible on the main metal panel. Several are occupied by small brass or silver-colored screws/posts, while others remain empty with threaded inserts or plastic grommets visible inside.
+*   **Sealant and Edging**: Running down the entire right-hand edge of the unit is a thick, uneven line of dried grey sealant (likely silicone). This substance appears to have been used to insulate or waterproof the area where power cables enter the case (connector headers), but it has since dried out, cracked, and accumulated significant dust.
+*   **Top Right Sticker**: Located just below the point where the power cable enters is a small, circular sticker. It features the Intel logo (blue and white) and text indicating "Inside," though the specific processor branding is partially obscured or worn.
+*   **Product Label**: Below the Intel sticker is a larger, rectangular white product label adhered to the case. It contains a barcode, a Serial Number (S/N), and a Part ID (PID). The label appears slightly curled at the corners.
+*   **Background**: The background is a flat, out-of-focus grey surface, possibly a concrete floor or a metal utility cabinet, which contrasts with the cleaner silver of the computer case.
+*   **Dirt and Grime**: The right edge of the unit shows heavy accumulation of dark grime and dust mixed into the dried sealant, suggesting the equipment has been stored in a dusty environment for an extended period.
+*   **Image Watermark**: In the bottom right corner of the image frame, outside the physical object, is the alphanumeric code "EFTA00002540".
+
+## Visible Text (verbatim)
+*   **Intel Sticker**: [Intel Logo] Inside
+*   **Main Label - Top Right**: HP
+*   **Main Label - Middle**: PID 457926-001
+*   **Main Label - Left of Barcode**: S/N HXQ824HK
+*   **Bottom Image Border**: EFTA00002540
+
+## Notable Details / Clues
+*   **Equipment Type**: The presence of an "HP" label and the specific "PID" (Part ID) format suggests this is a commercial-grade PC or server tower, likely rack-mountable given the side panel design.
+*   **Connectivity Area**: The heavy application of sealant along the right edge indicates the location of front-panel headers (for USB ports, audio jacks, power switches, and reset buttons), which are typically insulated with silicone to prevent accidental shorts when wires are plugged in.
+*   **Age Indicators**: The dried, cracking nature of the grey sealant and the visible dust accumulation suggest the unit is several years old and has been sitting unused for a significant time.
+*   **Rack Mounting**: The screw layout and the specific holes suggest this panel could be removed to allow for rack mounting brackets or screws to pass through the case wall.
+

@@ -1,0 +1,110 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014645.pdf ts=2026-03-12T04:08:55 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot or document dump of an email thread containing at least four distinct messages exchanged on Monday, July 8, 2019. The document is heavily redacted; personal names and specific email addresses are obscured by solid black bars. However, the domain suffix "(USANYS)" is consistently visible next to almost every name or address field.
+
+The thread appears to be a chain of communication regarding a public relations (PR) release concerning "Epstein," as indicated by the subject line. The emails show a rapid exchange of confirmations and final edits on that morning.
+
+- **Header Section (Top):** The top section shows email headers with fields for From, To, Cc, Subject, Date, and Importance. The recipients include multiple individuals with "(USANYS)" appended to their names. One recipient in the "Cc" field is specifically tagged as "[Contractor]".
+- **Body Text (First Message):** A short message reads, "Yep, confirmed. Thanks all!!" followed by a redacted signature block.
+- **Header Section (Second):** Below the first message, another email header appears. The sender is listed with "(USANYS)". The date is Monday, July 8, 2019, 10:24 AM. The "To" and "Cc" fields contain long lists of redacted addresses ending in "(USANYS)".
+- **Body Text (Second Message):** This text reads, "Good with me. I believe we are using FBI line but you should confirm that with [Redacted]". A black bar obscures the name at the end of the sentence.
+- **Header Section (Third):** Another header block follows. The sender is again an "(USANYS)" account. The timestamp is Monday, July 08, 2019, 10:17 AM. This suggests a quick reply to the previous email. The subject line remains "RE: Epstein PR Final review".
+- **Body Text (Third Message):** This message asks, "Any other edits? Or are we good to finalize the release?" followed by another redacted signature area.
+- **Header Section (Fourth):** At the bottom, a fourth header block is visible. The timestamp is Monday, July 8, 2019, 9:55 AM. This appears to be the earliest email in the thread shown, sitting chronologically below the others in the view but logically preceding them in time.
+- **Footer:** In the bottom right corner, a document identifier "EFTA0014645" is visible.
+
+## Visible Text (verbatim)
+**Top Header Block:**
+From: [Redacted] (USANYS) <[Redacted]>
+To: [Redacted] (USANYS)<[Redacted]>, "[Redacted] (USANYS)", "[Redacted] (USANYS)>, "[Redacted] (USANYS)", "[Redacted] (USANYS)", <[Redacted]>, "[Redacted]", <[Redacted]>, "[Redacted]", <[Redacted]>, "[Redacted]"
+Cc: [Redacted] (USANYS) [Contractor] <[Redacted]>, [Redacted] (USANYS)<[Redacted]>
+Subject: RE: Epstein PR Final review
+Date: Mon, 08 Jul 2019 14:25:07 +0000
+Importance: Normal
+
+**Body Block 1:**
+Yep, confirmed. Thanks all!!
+[Black Bar]
+
+**Second Header Block:**
+From: [Redacted] (USANYS) <[Redacted]>
+Sent: Monday, July 8, 2019 10:24 AM
+To: [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS) <[Redacted]>; [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS) <[Redacted]>; [Redacted]) <[Redacted]>; [Redacted]<[Redacted]>; [Redacted]) <[Redacted]>
+Cc: [Redacted] (USANYS) [Contractor] <[Redacted]>, [Redacted] (USANYS) <[Redacted]>
+Subject: RE: Epstein PR Final review
+
+**Body Block 2:**
+Good with me. I believe we are using FBI line but you should confirm that with [Black Bar]
+
+**Third Header Block:**
+From: [Redacted] (USANYS) <[Redacted]>
+Sent: Monday, July 08, 2019 10:17 AM
+To: [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS) <[Redacted]>; [Redacted]) <[Redacted]>; [Redacted]<[Redacted]>
+Cc: [Redacted] (USANYS) [Contractor] <[Redacted]>, [Redacted] (USANYS) <[Redacted]>
+Subject: RE: Epstein PR Final review
+
+**Body Block 3:**
+Any other edits? Or are we good to finalize the release?
+[Black Bar]
+
+**Fourth Header Block:**
+From: [Redacted] (USANYS) <[Redacted]>
+Sent: Monday, July 8, 2019 9:55 AM
+To: [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS) <[Redacted]>; [Redacted] (USANYS)<[Redacted]>; [Redacted] (USANYS)<[Redacted]>; [Redacted]<[Redacted]>; [Redacted]) <[Redacted]>
+<[Redacted]>; [Redacted]) <[Redacted]>; [Redacted]
+
+**Footer:**
+EFTA0014645
+
+## Notable Details / Clues
+- **Context:** The subject line "Epstein PR Final review" links this communication to the public relations management of Jeffrey Epstein's estate or associated entities.
+- **Operational Security (OPSEC):** One email explicitly mentions using an "FBI line," suggesting this communication is taking place within a government, law enforcement, or sensitive contractor context where specific communication channels are monitored or designated.
+- **Contractor Status:** The consistent labeling of recipients in the Cc field as "[Contractor]" indicates that external vendors are involved in this PR release process.
+- **Timeline:** The emails were sent within a span of about 30 minutes (from 9:55 AM to 10:24 AM), indicating a tight turnaround for the "Final review" mentioned in the subject.
+- **Organization Identifier:** The text "(USANYS)" appears repeatedly, likely standing for United States Army Naticus Soldier Systems or a similar military acronym, though the specific meaning is not fully confirmed by text alone.
+- **Redaction Pattern:** The redactions are uniform solid black bars, typical of document release under FOIA (Freedom of Information Act) or similar privacy compliance standards where personally identifiable information (PII) must be obscured but metadata like date and subject line is retained for context.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: [REDACTED] (USANYS) [Contractor] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: RE: Epstein PR Final review
+Also in [REDACTED] quote: Are we trying to say no matter where the incident took place?
+
+    FBI Assistant Director [REDACTED] said: “We are asking anyone who may have been victimized by Jeffery Epstein, or anyone who may have information about his alleged criminal behavior, to please call us. The number is 1-800-CALL-FBI. We want to hear from you, regardless of the age you are now, or whatever age you were then, no matter the incident that took place. The bravery it takes to call us might empower others to speak out about the crimes committed against them. It is important to remember there was never, nor will
+there ever be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come first.”
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Monday, July 8, 2019 9:39 AM
+To: [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>; [REDACTED]
+[REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>; [REDACTED] (USANYS)
+<[REDACTED]>; [REDACTED]) <[REDACTED]>; [REDACTED])
+<[REDACTED]>; [REDACTED]) <[REDACTED]>; [REDACTED]>
+Cc: [REDACTED] (USANYS) [Contractor] <[REDACTED]>; [REDACTED] (USANYS) <[REDACTED]>
+Subject: Epstein PR Final review
+Importance: High
+
+Attached is the final PR for review. Please note that [REDACTED] quote includes the number to call, so we need to finalize that as soon as possible. Thanks.
+
+[REDACTED] [REDACTED]
+Public Affairs
+U.S. Attorney’s Office for the Southern District of New York
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+EFTA00014646
+
+## Structured Fields
+- **Date:** Monday, July 8, 2019
+- **Time:** 9:39 AM
+- **Subject:** Epstein PR Final review
+- **Location/Organization:** U.S. Attorney’s Office for the Southern District of New York (USANYS)
+- **Department:** Public Affairs
+- **Agency Mentioned:** FBI
+- **Document ID:** EFTA00014646
+

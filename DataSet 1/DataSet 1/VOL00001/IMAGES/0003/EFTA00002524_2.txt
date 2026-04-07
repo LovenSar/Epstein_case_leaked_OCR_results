@@ -1,0 +1,23 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002524.pdf ts=2026-03-05T20:47:54 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts a cluttered and densely packed electronics closet or home server room environment, characterized by extensive cabling and stacked rack-mounted hardware. In the immediate foreground and center, a black, half-rack server chassis sits atop a silver metal mounting rail system. This unit features several ports on its rear faceplate; notably, there are two bright yellow fiber optic transceivers (likely SFP+ or QSFP) plugged into slots labeled with small white stickers, alongside blue Ethernet cables and black power/data cords jumbled around the ports. Below this top unit, another silver device—possibly a switch or network appliance—is partially visible, also secured to the metal rails with red rack-mounting brackets. To the right, a vertical cascade of loose cables descends from the upper shelf area; these include bundles of blue Ethernet cables, white fiber optic cables, and orange jumper cables hanging in disarray. In the background, against a wall featuring brown wood paneling, two grey rectangular boxes are mounted side-by-side near the ceiling, possibly comms gear or older networking equipment. Below those, a smaller white box (resembling a modem or router) is mounted, with yellow electrical cords looping loosely around it. A large black server unit is stacked at the very top right corner, partially cut off by the frame. At the bottom of the image, under the main shelf, more tangle-filled wiring is visible, including orange and blue cables feeding into a piece of equipment resting on a white circular base. A white tag hangs from a cable in the lower left quadrant.
+
+## Visible Text (verbatim)
+- "TECH" (on a small white label attached to the black server chassis, right side)
+- "EFTA00002524" (in the bottom right corner of the image)
+
+## Notable Details / Clues
+- **Cable Management:** The environment suffers from significant cable clutter; there are very few tie-wraps or velcro straps visible, suggesting a lack of current maintenance or DIY assembly.
+- **Hardware Hierarchy:** The equipment suggests a multi-tiered network setup with core switching at the mid-level (the silver device) and compute or routing at the top (the black stacked units).
+- **Cable Types:** Distinct separation of media is visible: yellow fibers for long-haul/ISP uplinks, blue Ethernet cables for LAN connections, and orange cables which are typically fiber distribution panels (ODF) used internally.
+- **Mounting Hardware:** Standard 19-inch rack rails are used, identifiable by the silver metal profile and the red/black mounting brackets securing the devices.
+- **Wall Infrastructure:** The wooden wall suggests an older installation or a retrofitted space rather than a modern data center aisle.
+- **Peripheral Mounts:** The grey boxes on the wall likely serve as access points for telecommunications lines, distinct from the IT equipment below.
+- **Lighting:** The lighting appears to be overhead fluorescent, creating reflections on the metal chassis and casting deep shadows inside the rack depth.
+- **Red Brackets:** The red mounting brackets on the silver device indicate standard 1U or half-height installation hardware.
+- **Yellow Fiber:** The thick yellow cables are characteristic of single-mode fiber optic cabling, often used for connecting to ISPs or core switches.
+- **White Tag:** A blank white tag hangs from a cable in the lower left, likely intended for labeling an asset or connection point but currently unlabelled.
+

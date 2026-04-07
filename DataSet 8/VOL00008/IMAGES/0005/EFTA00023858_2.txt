@@ -1,0 +1,257 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00023858.pdf ts=2026-03-16T03:37:35 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Declaration of Custodian of Records
+Pursuant to 28 U.S.C. § 1746, I, the undersigned, hereby declare:
+My name is [REDACTED].
+(name of declarant)
+I am a United States citizen and I am over eighteen years of age. I am the custodian of records of the business named below, or I am otherwise qualified as a result of my position with the business named below to make this declaration.
+
+I am in receipt of a Grand Jury Subpoena, dated January 23, 2010, and signed by Assistant United States Attorney [REDACTED], requesting specified records of the business named below. Pursuant to Rules 902(11) and 803(6) of the Federal Rules of Evidence, I hereby certify that the records provided herewith and in response to the Subpoena:
+
+(1) were made at or near the time of the occurrence of the matters set forth in the records, by, or from information transmitted by, a person with knowledge of those matters;
+(2) were kept in the course of regularly conducted business activity; and
+(3) were made by the regularly conducted business activity as a regular practice.
+
+I declare under penalty of perjury that the foregoing is true and correct.
+
+Executed on April 8, 2020 (date)
+[REDACTED]
+(signature of declarant)
+[REDACTED], Paralegal Specialist
+(name and title of declarant)
+Delta Air Lines, Inc.
+(name of business)
+1030 Delta Blvd., Atlanta, GA 30320
+(business address)
+
+Definitions of terms used above:
+As defined in Fed. R. Evid. 803(6), "record" includes a memorandum, report, record, or data compilation, in any form, of acts, events, conditions, opinions, or diagnoses. The term, "business" as used in Fed. R. Evid. 803(6) and the above declaration includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.
+
+## Structured Fields
+- **Date of Subpoena:** January 23, 2010
+- **Execution Date:** April 8, 2020
+- **Organization:** Delta Air Lines, Inc.
+- **Address:** 1030 Delta Blvd., Atlanta, GA 30320
+- **Title:** Paralegal Specialist
+- **Legal Authority:** 28 U.S.C. § 1746; Fed. R. Evid. 902(11); Fed. R. Evid. 803(6)
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+0062415200393 - Welcome to New Ticket Viewer
+Page 1 of 2
+
+Ticket Viewer home                                              Ticket Viewer
+Primary Ticket: [0062415200393]     Select View : Ticket Main       (Prod) Version 1.0    Wed, 08 Apr 2020 04:47:44 PM
+
+| | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ticket Number:** `0062415200393` | Pax Name: `[REDACTED]` | Prmy Tkt Ind: Y |
+| **Issue Date:** `2020-01-18` | Pax Info Txt: | Excg Ind: N |
+| Sq Nb: `1` | Tour Code Text: | Total Tickets: 1 |
+| Inactive Ind: N | Rptg Sys Prvdr Nb: `0066` | Nb Of Cpn: 2 |
+| **Ticket Sources** | Base Fare Amt: `259.53 USD` | Medium Type: E |
+| **Received:** `[T - 18 Jan 2020 09:20:40 PM]` | Eqvt Fare Paid: `259.53 USD` | Transaction Type: TKT |
+| `[CN - 20 Jan 2020 03:50:15 PM]` | Taxes/Charges: `AY 11.20 USD` | Skeletal Indicator: N |
+| FOP Type Code: C | `US 19.47 USD` | Dome/Intl Ind: D |
+| Point of Sale ID: `- LAXWEB - US` | `XF 9.00 USD` | Ticketing Carrier: DL |
+| `T - LAXWEB - US` | ZP 8.60 USD | ET Status Code: C |
+| Orig Iss POS ID: `- -` | Ticket Doc Total: `307.80 USD` | Infant Ind: |
+| `T - LAXWEB - US` | Commissions: N [REDACTED] | TPF TrEvt Typ: EVS1 |
+| | Rss Typ Cd: | Last Update Gts: 2020-01-20 15:52:30 |
+| | Rev Rdtm Ind: N | Award Tkt Ind: N |
+
+**Itinerary Information Coupon State:S Carrier Role:Marketed**
+
+| Ticket Nb | Cpn Nb | Cpn Img | Usg | Orig Stn | Dest Stn | Crr | Flt Nb | COS | Cmpt | Brand ID | Flt Dprt Dt | Flt Arr Dt | FBC/TD Txt | Surf Sect | Ofcl Std Prd Amt with YQ/YR | Prtn Meth | Ofcl Std Prd Amt | YQ/YR Fees |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0062415200393 | 1 | 1 | | LAX | LAS | DL | 4120 | Q | Y | MAIN | 17 Apr 2020 11:19:00 AM | 17 Apr 2020 12:43:00 PM | GAUNAOMC | N | 110.70 | SIF | 110.70 | 0.00 |
+| 0062415200393 | 2 | 2 | | LAS | LAX | DL | 1174 | H | Y | MAIN | 19 Apr 2020 11:00:00 AM | 19 Apr 2020 12:14:00 PM | HRSNAAMA | N | 148.83 | SIF | 148.83 | 0.00 |
+
+**Itinerary Information Coupon State:U Carrier Role:Marketed**
+
+| Ticket Nb | Cpn Nb | Cpn Img | Usg | Orig Stn | Dest Stn | Crr | Flt Nb | COS | Cmpt | Brand ID | Flt Dprt Dt | Flt Arr Dt | FBC/TD Txt | Surf Sect | Ofcl Std Prd Amt with YQ/YR | Prtn Meth | Ofcl Std Prd Amt | YQ/YR Fees |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| No Data Available | | | | | | | | | | | | | | | | | | |
+
+http://tktviewr.delta.com/tktviewer/action/searchTicket?ticketNumberPrimary=0062415200393&tktdocNb=0062415200393&tic... 4/8/2020
+EFTA00023859
+
+## Structured Fields
+*   **Ticket Number:** 0062415200393
+*   **Issue Date:** 2020-01-18
+*   **Reporting System Provider Number:** 0066
+*   **Base Fare Amount:** $259.53 USD
+*   **Ticket Document Total:** $307.80 USD
+*   **Ticketing Carrier:** DL (Delta)
+*   **Transaction Type:** TKT
+*   **Reporting Method:** EVS1
+*   **Last Updated:** 2020-01-20 15:52:30
+*   **Flight 1:** Flight 4120, LAX to LAS, Departure 17 Apr 2020 11:19 AM
+*   **Flight 2:** Flight 1174, LAS to LAX, Departure 19 Apr 2020 11:00 AM
+*   **Passenger Name:** [REDACTED]
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+0062415200393 - Welcome to New Ticket Viewer
+Page 2 of 2
+
+Fare Calculation
+| Fare Calc Typ | Fare Calc Mode | Rfmd FrCn Ind | Fare Calc Txt |
+|---|---|---|---|
+| A | b | N | LAX DL LAS110.70AUNA0MC DL LAX148.83HR0NA0MA USD259.53END ZP LAXLAS XF LAX4.5LAS4.5 |
+| R | 6 | N | LAX DL LAS110.70AUNA0MC DL LAX148.83HR0NA0MA USD259.53END ZP LAXLAS XF LAX4.5LAS4.5 |
+
+Confidential Data - Member of Delta Passport Group: Confidential
+Copyright 2017 Delta Air Lines. All rights reserved. Proprietary and Confidential to Delta Air Lines. Contents of this document may not be reproduced, published, or disclosed without express authorization of Delta Air Lines.
+
+http://tktviewr.delta.com/tktviewer/action/searchTicket?ticketNumberPrimary=0062415200393&tktlDocNb=0062415200393&tic... 4/8/2020
+EFTA00023860
+
+## Structured Fields
+- **Date:** 4/8/2020
+- **Ticket Number/Doc ID:** 0062415200393
+- **Organization:** Delta Air Lines, Delta Passport Group
+- **Document Type:** Fare Calculation / Ticket Viewer
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+0062415200393 - Welcome to New Ticket Viewer
+Page 1 of 1
+
+Ticket Viewer home
+Ticket Viewer
+
+prim: 0062415200393 (18 Jan 2020 ,1)
+Select View : Psngr Profile ? [Icons]
+(Prod) Version 1.0 Wed, 08 Apr 2020 04:47:55 PM
+
+Ticket Number: 0062415200393
+Issue Date: 2020-01-18
+Sq Nb: 1
+Carrier Client ID:
+DL Pax Type: A
+Cust Acct Typ Cd:
+Persistent Cust ID:
+Persistent Cust ID Last Update Gts:
+Pax Full Name: [REDACTED]
+Pax Info Txt:
+SM Acct Nb:
+Tour Code:
+
+Coupon Frequent Flyer Information
+Tkt-Cpn Nb | Frequent Flyer Carrier | Frequent Flyer Number | Cust Acc Typ Cd
+393-1 | | | TR
+393-2 | | | TR
+
+Geographic Address Information
+Nb | Address Line 1 | Address Line 2 | Address Line 3 | Address Line 4 | Address Line 5 | Pstl Area Cd
+1 | [REDACTED] | [REDACTED] | CRAWFORDVILLE FL 32327-3317 | | |
+
+Electronic Address Information
+Nb | Electronic Address | Cur Ind
+No Data Available
+
+Phone Address Information
+Nb | Ctry Phone Nb | Ctry Cd | Cur Ind | Dlry Chnl Typ | Area Cd | Phone Number | Ext
+1 | | | U | | | [REDACTED] |
+
+Confidential Data - Member of Delta Passport Group: confidential
+Copyright 2017 Delta Air Lines. All rights reserved. Proprietary and Confidential to Delta Air Lines. Contents of this document may not be reproduced, published, or disclosed without express authorization of Delta Air Lines.
+http://tktviewr.delta.com/tktviewer/action/searchPassengerProfile
+4/8/2020 EFTA00023861
+
+## Structured Fields
+*   **Case ID/Ticket Number:** 0062415200393
+*   **Date (Issue):** 2020-01-18
+*   **Date (Print/View):** Wed, 08 Apr 2020
+*   **Location:** CRAWFORDVILLE FL 32327-3317
+*   **Organization:** Delta Air Lines / Delta Passport Group
+*   **Document ID (Footer):** EFTA00023861
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+0062415200393 - Welcome to New Ticket Viewer                                                                 Page 1 of 2
+Ticket Viewer
+prim: 0062415200393 (18 Jan 2020)                                                                                     Select View : Payment                                                                                                        (Prod) Version 1.0 Wed, 08 Apr 2020 04:48:05 PM
+
+Ticket Number: 0062415200393                                                                                            Base Fare Amt:                              259.53 USD                                                                                           Customer Paid Amt:                  0.00 USD
+Issue Date:   2020-01-18                                                                                                Equivalent Fare Amt:                       259.53 USD                                                                                            Rpdt Base Amt:                      259.53 USD
+Sq Nb:                                                Tkt Doc Total Amt:                         307.80 USD                                                                                           Rpdt Tot Amt:                        307.80 USD
+Collection Nbr:         1                                                                                                Base Coltn Amt:                            259.53 USD                                                                                            Crr Agy Slt Amt:                    0.00 USD
+Collection Type:        0                                                                                                Total Coltn Amt:                           307.80 USD                                                                                             Excg Indicator:                      N
+                                                                                                                                                Rdmd Non Cash Miles Cnt:                                                                           Award Tkt Ind:                       N
+                                                                                                                                                                                                                    Tkt Doc Net Miles Cnt:
+                                                                                                                                                                                                                    Tkt Doc Total Miles Cnt:
+
+Payment Information
+Nb      Pmt Amt     Pmt Amt Curr Cd   Sgnd For Amt       Sgnd For Curr Cd   FOP Stt Cd    FOP Ref Nb      FOP Type   FOP Trans ID         FOP Vndr Cd    D/CC Acct Nb            D/CC Exp Date   D/CC Type       D/CC Apvl ID        GTR Acct ID
+1       307.80     USD               [Blank]             [Blank]           3              [Blank]         CC         [Blank]                  [Blank]       [REDACTED]                    72020        VI          00337B
+
+Original Ticket Information
+Nbr   Orig Tkt Nb                                                                                     Orig Tkt Iss Date
+No Data Available
+
+Exchanged Ticket Number Summary
+New Tkt Nb     New Tkt Iss Date    New Tkt Sq Nb      New Tkt Trxns Typ    New Tkt Exchg Val Typ     Excgd Tkt Doc Nb  Excgd Tkt Iss Dt    Excgd Tkt Sq Nb      Excgd Tkt Trxns Typ    Excgd Tkt Sktl Ind
+No Data Available
+
+Event Waiver Information
+Evt Wavr Cd       Evt Wavr Short Name          Evt Wavr Description   Evt Wavr Amt     Evt Wavr Curr Cd     Evt Wavr Std Amt   Evt Wavr Issuing Agent Security Id         Tkt Doc Pricing Src Response ID  Tkt Doc Pricing Src Response GTs      Reprice Process Code
+                                                                                                                                                ITA
+
+Agent Waiver Information
+Agt Wavr Cd        Agt Wavr Amt       Agt Wavr Curr Cd    Agt Wavr Std Amt  Agt Wavr Issg Chnl Id   Agt Wavr CrCv GTs  Tkt Doc Pricing Src Response ID   Tkt Doc Pricing Src Response GTs      Reprice Process Cd
+                                                                                                                DC                                   ITA
+
+Ticket Document Waiver Information
+
+http://tktviewr.delta.com/tktviewer/action/searchPayment                                                                                                        4/8/2020                                                                                                         EFTA00023862
+
+## Structured Fields
+- **Document ID:** 0062415200393
+- **Case ID / Reference:** EFTA00023862
+- **Issue Date:** 2020-01-18
+- **Date Range (Header Highlight):** 18 Jan 2020 - 08 Apr 2020
+- **Transaction Total:** USD 307.80
+- **Payment Amount:** USD 307.80
+- **Card Type:** VI (Visa)
+- **Expiry Date:** 12/2020 (represented as 72020)
+- **Account ID:** 00337B
+- **Issuing Agent:** ITA
+- **Channel ID:** DC
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PCI Token Manager                                                                 Page 1 of 2
+P P R # 0 9 6 6 2 5 2 0 0                                                       Logout
+
+DELTA PCI Token Decode Form
+
+PCI Token
+Manager Forms
+
+Credit Card Lookup
+Token Decode Instructions
+    Type or Paste space- or carriage-return-delimited list of tokens into Items list.
+    Select Clear to clear contents from the Item list.
+    Select Submit to retrieve list of associated credit card numbers that will appear in the Results list.
+
+Items to Decode:      Results:      St-Rsn Cd:    Status/Reason Text:
+[REDACTED]            [REDACTED]     200-250       succeeded
+
+CLEAR                       SUBMIT
+
+--------------------------------------------------------------------------------
+2018 Delta Air Lines, Inc. | Information Technology. All rights reserved.
+
+https://twp.delta.com/TokenWebPortal/decodeToken.action   4/8/2020 EFTA00023863
+
+## Structured Fields
+- **Date**: 4/8/2020
+- **Case ID / Doc ID**: EFTA00023863
+- **Process ID (PPR #)**: 096625200
+- **Organization**: Delta Air Lines, Inc.
+- **System**: PCI Token Manager / Token Web Portal
+

@@ -1,0 +1,90 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00010467.pdf ts=2026-03-10T04:24:42 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, specifically an email thread viewed in a legal or discovery context, characterized by heavy redaction of sensitive information. The layout consists of three main sections from top to bottom.
+
+1.  **Top Email Header:** At the very top, there is a standard email header block. The "From", "To", and "Cc" fields contain names and email addresses that are largely obscured by black rectangular bars (redaction), though domain suffixes like "(USANYYS)" are visible next to some bars.
+2.  **Subject and Date:** Below the header fields is the subject line, which reads "RE: Epstein draft press materials". The date is listed as "Wed, 03 Jul 2019 16:08:28 +0000", and importance is marked as "Normal".
+3.  **Visual Separator:** A thin horizontal black line separates the top email block from the text body below it.
+4.  **Text Body:** Directly beneath the line, a short message is visible in blue hyperlink-style text: "Yes, go for it. Thanks."
+5.  **Second Email Header Block:** Below the approval text is another email header block representing an earlier or replied-to message. It lists a "Sent" date of "Wednesday, July 3, 2019 12:05 PM". The recipients in the "To" and "Cc" fields again show the "(USANYYS)" domain attached to redacted names.
+6.  **Large Black Box:** Occupying the bottom half and majority of the image is a massive, solid black rectangle. This box completely obscures the body text of the second email and likely any attachments or prior emails in the thread that were below this section.
+7.  **Document Identifier:** In the bottom right corner, outside the main content area, there is a small alphanumeric code: "EFTA00010467", indicating this image is likely part of an electronic filing system (e.g., ECF).
+
+## Visible Text (verbatim)
+**Top Block:**
+From: "[REDACTED] (USANYYS)" <[REDACTED]>
+To: "[REDACTED]" <[REDACTED>], "[REDACTED]"
+Cc: "[REDACTED] (USANYYS)" <[REDACTED]>
+Subject: RE: Epstein draft press materials
+Date: Wed, 03 Jul 2019 16:08:28 +0000
+Importance: Normal
+
+**Middle Text:**
+Yes, go for it. Thanks.
+
+**Second Block:**
+From: [REDACTED] <[REDACTED]>
+Sent: Wednesday, July 3, 2019 12:05 PM
+To: [REDACTED] (USANYYS) <[REDACTED>; [REDACTED] <[REDACTED>; [REDACTED]
+Cc: [REDACTED] (USANYYS) <[REDACTED]>
+Subject: RE: Epstein draft press materials
+
+**Footer:**
+EFTA00010467
+
+## Notable Details / Clues
+*   **Subject Matter:** The subject line "Epstein draft press materials" strongly implies the communication relates to Jeffrey Epstein and involves drafting documents for public release or leaks.
+*   **Timeline:** The email thread spans a few hours on July 3, 2019. An earlier message was sent at 12:05 PM ("Sent"), and the visible reply/approval was made at 16:08 (4:08 PM).
+*   **Organization Domain:** The recurring tag "(USANYYS)" suggests these emails originate from a United States New York State government entity, likely the U.S. Attorney's Office in the Southern District of New York.
+*   **Approval Context:** The text "Yes, go for it. Thanks." indicates an explicit authorization to proceed with sending or releasing the "draft press materials" mentioned in the subject line.
+*   **Redaction Pattern:** The consistent redaction of names suggests this is a sealed document or one intended for limited distribution where sender/recipient identities are protected from public view.
+*   **Formatting:** The text "Yes, go for it. Thanks." appears in blue, which typically indicates hyperlinks in email clients like Outlook or Gmail, suggesting these recipients might be expecting attachments (which are covered by the black box below).
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image displays a vertical arrangement dominated by three distinct solid black rectangular regions against a white background.
+- The top section features a large, tall black rectangle that spans nearly the full width of the content area but stops short of the right edge, leaving a white margin.
+- Below the first rectangle is a narrow horizontal strip of white space, creating a visual separation between the upper and lower sections.
+- Beneath the gap lies a second large black rectangle, visually similar in width and height to the top block, though slightly offset downwards.
+- At the very bottom edge of the image, there is a third, much thinner black rectangular strip that spans the width of the content area.
+- The white space to the right of all three black blocks indicates a page margin or border surrounding the central content.
+- The black areas are uniform in color with no visible gradients, textures, or underlying content, suggesting redaction or obscuring marks.
+- In the bottom right corner, resting on the white margin area, is a small line of text.
+- The text is aligned to the right and positioned near the bottom edge of the frame.
+- The font used for the text is a simple sans-serif typeface in black ink.
+- There are no other graphical elements, borders, or artifacts visible within the image.
+
+## Visible Text (verbatim)
+EFTA00010468
+
+## Notable Details / Clues
+- The code "EFTA" likely stands for EEA Joint Committee Agreement text, suggesting this is a legal document snippet that has been heavily redacted.
+- The sequence "00010468" suggests a page number or a specific reference ID (perhaps page 1 of a section starting at 468, or just an ID like 00010468).
+- The solid black nature of the primary areas implies that sensitive information has been intentionally obscured for privacy or security.
+- The layout mimics a standard document format with a header (top block), body (middle block), and footer (bottom strip/ID area).
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- A large, solid black rectangle dominates the upper portion of the image, spanning approximately two-thirds of the total vertical height.
+- The remaining bottom third of the image consists entirely of a plain white background.
+- There is a distinct horizontal division separating the black area from the white area, though no visible line separates them.
+- The black area fills the full width of the document frame.
+- No imagery, figures, or graphical elements are visible within the black or white spaces.
+- The composition is asymmetrical due to the heavy weight of the black block at the top.
+- The lighting appears flat and uniform, characteristic of a digital scan or file export rather than a photographed physical scene.
+
+## Visible Text (verbatim)
+- EFTA00010469
+
+## Notable Details / Clues
+- The text "EFTA" in the footer likely refers to the European Free Trade Association.
+- The code "00010469" appears to be a sequential document identification number or a specific record ID associated with that organization.
+- The solid black block suggests redaction, censorship, or intentional obscuring of content, leaving only the footer visible.
+- The font used for the text is a standard sans-serif typeface, small in size, and aligned to the bottom right corner.
+- There are no other legible characters, watermarks (other than the code), or metadata visible in this specific crop.
+

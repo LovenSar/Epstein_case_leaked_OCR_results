@@ -1,0 +1,85 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00021345.pdf ts=2026-03-14T23:19:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, formatted as a standard electronic communication export, likely from a legal case file given the reference number in the corner. The document is oriented vertically and features a white background with black text.
+
+**Header Section:**
+At the very top, the standard email headers are visible but heavily redacted. The fields "From:", "To:", and "Cc:" are followed by thick black bars obscuring the names and addresses.
+Below this, the "Subject" line reads: "Re: proposed schedule."
+The "Date" line is unredacted: "Tue, 24 Sep 2019 12:55:16 +0000".
+
+**Email Body (Top):**
+A horizontal black line separates the header from the message body. The text begins with a standard salutation: "Good morning," followed by a paragraph explaining that the sender is working internally on a proposed schedule and requests to circle back in a week or two to agree on dates before a status conference.
+
+**Signature Block 1 (Embedded):**
+Situated within the main email body (before the quoted text) is a signature block for **Bruce Barket**. It lists his firm "Barket, Epstein, Kearon, Aldea & LoTurco," an address in Garden City, NY (666 Old Country road), and redacted phone number fields. A blue hyperlink "Barket Epstein.com" is visible.
+
+**Quoted Message 1:**
+Following a black separator line, the text indicates a previous message received: "On Sep 21, 2019, at 9:33 AM," followed by a long black bar obscuring the sender's name and "wrote:". The body of this quote states availability: "We are free Thursday afternoon except from 2:45 - 4."
+Below this text is a signature block identifying the sender as an "Assistant U.S. Attorney" with redacted contact details.
+
+**Quoted Message 2:**
+Another header introduces the next quoted section: "On Sep 21, 2019, at 07:22," followed by a black bar and "wrote:". The text explains that any day next week works, mentions the sender's role as "Learned Counsel," compliance with "ABA Guidelines," and submission of penalty phase pleadings over the weekend.
+The sign-off is "Thanks" followed by the name "Tonyricco".
+
+**Original Message (Bottom):**
+The thread continues downward to show the original email: "----Original Message-----". This section contains several black bars redacting the header information. A footer shows it was "Sent: Fri, Sep 20, 2019 9:15 pm" with the subject "Re: proposed schedule." The body text is partially visible: "We are free next Friday afternoon if that works for you all."
+
+**Footer:**
+In the bottom right corner, a document control number is printed: "EFTA00021345".
+
+## Visible Text (verbatim)
+*   **Subject:** Re: proposed schedule.
+*   **Date:** Tue, 24 Sep 2019 12:55:16 +0000
+*   **Body Start:** Good morning, We are still working internally on a proposed schedule. Can we circle back to you on a week or two? We should still have plenty of time to meet and hopefully agree on dates before our next status conference.
+*   **Signature 1:** Bruce Barket, Barket, Epstein, Kearon, Aldea & LoTurco, 666 Old Country road, Garden City, NY 11530, [Redacted], [Redacted], Barket Epstein.com
+*   **Quote 1 Header:** On Sep 21, 2019, at 9:33 AM,[Redacted]wrote:
+*   **Quote 1 Body:** We are free Thursday afternoon except from 2:45 - 4.
+*   **Signature 2:** [Redacted], Assistant U.S. Attorney, [Redacted]
+*   **Quote 2 Header:** On Sep 21, 2019, at 07:22[Redacted]wrote:
+*   **Quote 2 Body:** Any day next week works for me. Also in my role as Learned Counsel, and in full compliance with the ABA Guidelines, I will be submitting a proposed schedule for penalty phase pleadings over the weekend. Thanks Tonyricco
+*   **Original Message Header:** ----Original Message-----
+*   **Original Message Footer:** Sent: Fri, Sep 20, 2019 9:15 pm Subject: Re: proposed schedule.
+*   **Original Message Body:** We are free next Friday afternoon if that works for you all.
+*   **Document ID:** EFTA00021345
+
+## Notable Details / Clues
+*   **Legal Context:** The text contains specific legal terminology indicating a criminal case, likely a death penalty or severe sentencing case ("penalty phase pleadings", "Learned Counsel", "status conference").
+*   **ABA Guidelines Reference:** One sender mentions submitting schedules "in full compliance with the ABA Guidelines," referring to American Bar Association standards for counsel in capital cases.
+*   **Government vs. Defense:** The thread clearly distinguishes between government and defense sides. The "Assistant U.S. Attorney" represents the prosecution, while "Learned Counsel" (Tonyricco) and Bruce Barket represent the defense.
+*   **Redaction Level:** Personal identifying information (names, phone numbers, addresses) is heavily blacked out in the headers and signature blocks, suggesting this is a declassified or public record document where privacy was preserved during export.
+*   **Timeline Anomaly:** There appear to be two emails dated "Sep 21". The first quoted email is at 9:33 AM (Assistant US Attorney). The second quoted email below it is at 07:22 (Tonyricco). In standard email threading, older messages are at the bottom. Since Tonyricco's email (07:22) is visually below the Assistant US Attorney's email (9:33 AM), this suggests either a timestamp error in the export or that the second quoted message was actually from a later date (e.g., Sep 22) but appears identical to the first. However, strictly looking at the text, both say "Sep 21".
+*   **Document ID:** The string "EFTA00021345" in the bottom right suggests this is an export from a government filing system (Electronic Federal Tax Accounting or similar agency system), reinforcing the government attorney context.
+*   **Geographic Location:** The firm address is in Garden City, NY (Long Island), placing the legal proceedings in New York state.
+*   **Availability Schedule:** The prosecutors/Attorneys are coordinating a meeting for "Thursday afternoon" and specifically excluding "2:45 - 4", while the defense indicates availability for "next Friday" and generally "any day next week."
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+Assistant U.S. Attorney
+[REDACTED]
+
+On Sep 20, 2019, at 12:16, Bruce Barket[REDACTED] wrote:
+
+I think we will be ready to propose a schedule sometime early next week. Is there a day and time when you can meet to discuss? We will send you a proposed briefing schedule ahead of the meeting. I hope to have ours finalized no later than Tuesday.
+
+Bruce A. Barket, Esq.
+Barket Epstein Kearon Aldea & LoTurco, LLP
+666 Old Country Road , Ste. 700
+Garden City, NY 11530
+[REDACTED]
+www.barketepstein.com
+
+This transmittal may be a confidential attorney client communication or may otherwise be privileged or confidential. If it is not clear that you are the intended recipient, you are hereby notified that you have received this transmittal in error; any review, dissemination, distribution or copying of this transmittal is strictly prohibited. If you suspect that you have received this communication in error, please notify us immediately by telephone or email and immediately delete this message and all its attachments
+
+EFTA00021346
+## Structured Fields
+- Date: Sep 20, 2019
+- Time: 12:16
+- Name: Bruce A. Barket, Esq. / Bruce Barket
+- Organization: Barket Epstein Kearon Aldea & LoTurco, LLP
+- Location: Garden City, NY 11530
+- Document ID: EFTA00021346
+

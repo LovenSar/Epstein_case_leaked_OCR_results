@@ -1,0 +1,30 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00027934.pdf ts=2026-03-17T18:42:32 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```text
+From: "[REDACTED]. (NY) (FBI)" <[REDACTED]>
+To: "[REDACTED] (USANYS)" <[REDACTED]>
+Subject: Fwd: Requested Documentation
+Date: Sun, 11 Aug 2019 15:02:41 +0000
+Attachments: Epstein_Investigative_Reports.pdf; Additional_Psychology_Notes.pdf
+-------------------- Forwarded message --------------------
+From: Tijuana Doctor <tdoctor@bop.gov>
+Date: Aug 10, 2019 10:57 PM
+Subject: Requested Documentation
+To: "[REDACTED]. (NY) (FBI)" <[REDACTED]>
+Cc: 
+
+| Please let me know if you need anything else.
+
+EFTA00027934
+```
+
+## Structured Fields
+*   **Date:** Sun, 11 Aug 2019 15:02:41 +0000; Aug 10, 2019 10:57 PM
+*   **Subject:** Fwd: Requested Documentation; Requested Documentation
+*   **Sender (Forwarded From):** FBI (NY) / "Tijuana Doctor" <tdoctor@bop.gov>
+*   **Recipient:** USANYS
+*   **Attachments:** Epstein_Investigative_Reports.pdf, Additional_Psychology_Notes.pdf
+*   **Document ID:** EFTA00027934
+

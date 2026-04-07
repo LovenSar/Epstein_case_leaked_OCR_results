@@ -1,0 +1,93 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014298.pdf ts=2026-03-12T00:08:08 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a partial screenshot or digital document of an email conversation thread, presented in reverse chronological order with the most recent message at the top. The document contains multiple blocks of text separated by horizontal lines or spacing, typical of an email client interface like Outlook or Apple Mail. Most "From," "To," and "Cc" fields are heavily redacted with solid black bars to protect privacy or confidentiality.
+
+At the very top, a finalized email header is visible, showing a subject line regarding a "forfeiture question" and a timestamp from June 28, 2019. Below this is a brief concluding response accepting an arrangement. Moving down, the thread shows a sender responding at 2:21 PM stating they will be free by 3:00 PM, referencing a previous message about a meeting with "Judge Sullivan." Further down, there is a short acknowledgment ("Thanks!").
+
+The next block down shows a confirmation that "3:30 works for me," signed from an iPhone. This corresponds to the original email request at the bottom of the document. The original request asks if the recipient is free in the afternoon to discuss a "forfeiture question relating to a property" in the "Jeffrey Epstein case." The sender, referring to themselves and a colleague named "Ted," proposes availability windows between 1:00-2:00 PM and 2:30-4:00 PM. Throughout the document, various names are redacted, preventing identification of the specific individuals involved in this legal correspondence.
+
+## Visible Text (verbatim)
+**Header Block:**
+From: [REDACTED]
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: forfeiture question
+Date: Fri, 28 Jun 2019 18:23:53 +0000
+Importance: Normal
+
+**Body Paragraph:**
+Yes, that’s perfect. Will come down then. Thanks
+
+**Email Block 2:**
+From: [REDACTED]
+Sent: Friday, June 28, 2019 2:21 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: Re: forfeiture question
+
+I’m going to be back and free by 3 if that’s better.
+
+Sent from my iPhone
+
+On Jun 28, 2019, at 1:41 PM, [REDACTED] wrote:
+I have a date with Judge Sullivan at 4, so I will stay for as long as I can.
+
+**Email Block 3:**
+From: [REDACTED]
+Sent: Friday, June 28, 2019 1:32 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: RE: forfeiture question
+
+Thanks!
+
+**Email Block 4:**
+From: [REDACTED]
+Sent: Friday, June 28, 2019 1:30 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: Re: forfeiture question
+
+3:30 works for me.
+
+Sent from my iPhone
+
+On Jun 28, 2019, at 12:49 PM, [REDACTED] wrote:
+Hi [REDACTED]
+
+Are you free for a few minutes this afternoon to discuss a forfeiture question relating to a property we are hoping to forfeit in the Jeffrey Epstein case? Ted and I are available from 1 to 2, or from 2:30 to 4, if there is a window in that timeframe that works for either of you.
+
+**Footer:**
+EFTA0014298
+
+## Notable Details / Clues
+- **Case Context:** The emails explicitly reference the "Jeffrey Epstein case," linking this correspondence to high-profile legal proceedings involving asset forfeiture.
+- **Judicial Appointment:** One sender mentions a conflict with "Judge Sullivan" at 4:00 PM, indicating active litigation or court scheduling.
+- **Colleague Name:** A colleague named "Ted" is mentioned as being available alongside the primary sender for the meeting.
+- **Time Constraints:** The thread revolves around scheduling conflicts, specifically finding a time between 1:00 PM and 4:00 PM on Friday, June 28, 2019.
+- **Mobile Communication:** Two distinct messages are marked "Sent from my iPhone," suggesting the recipients were managing legal logistics while traveling or away from their desks.
+- **Redaction Extent:** The black bars obscure not just names but also likely email addresses, protecting the identity of the attorneys or staff involved.
+- **Timestamp Discrepancies:** While the top email is UTC+0000 at 18:23:53, the body messages show standard US times (e.g., "Friday, June 28..."), indicating different locations or time settings for the senders.
+- **Document ID:** The code "EFTA0014298" in the bottom right corner suggests this is part of a formal record or evidentiary file.
+- **"Will come down then":** In the top message, the phrase "Will come down then" implies a physical location (a law office or court) where someone will arrive by a specific time.
+- **Subject Line Consistency:** The subject line remains "RE: forfeiture question" (or slight variations like "Re:" or "RE:") throughout the thread, indicating this is a reply chain rather than separate threads.
+- **"Window in that timeframe":** The initial request frames the scheduling around finding a "window," highlighting the busy nature of the parties' schedules.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Thanks!
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+One Saint Andrew's Plaza
+New York, NY 10007
+[REDACTED]
+
+## Structured Fields
+- **Organization:** Assistant United States Attorney, Southern District of New York
+- **Location:** One Saint Andrew's Plaza, New York, NY 10007
+- **Doc ID/Case Number:** EFTA00014299
+

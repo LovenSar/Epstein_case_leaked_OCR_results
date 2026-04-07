@@ -1,0 +1,73 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029692.pdf ts=2026-03-18T11:15:24 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+PRISM Scanned Document Page 1 of 1
+U.S. Department of State
+APPLICATION FOR [ ] U.S. PASSPORT [ ] REGISTRATION
+(Type or print all capital letters in blue or black ink in white areas only)
+
+1. NAME (First and Middle) CHISLAINE / M C E L L E
+LAST MAXWELL
+2. MAIL PASSPORT TO: [REDACTED] STREET OF P.O. BOX
+CITY ST THOMAS STATE USVI
+ZIP CODE 00802 COUNTRY / IN CARE OF (if applicable) C/O AMERICAN YACHT HARBOR
+
+5. DATE OF BIRTH [REDACTED/Illegible]
+6. SOCIAL SECURITY NUMBER [REDACTED] (Barcode: 04684249)
+3. SEX M F [F circled]
+7. HEIGHT Feet 5 Inches 3
+8. HAIR COLOR BROWN
+9. EYE COLOR BROWN
+10. HOME TELEPHONE [REDACTED]
+11. BUSINESS TELEPHONE [REDACTED]
+12. OCCUPATION BUSINESS WOMAN
+14. FATHER'S FULL NAME [REDACTED]/MAXWELL [Red Ink Circle]
+15. MOTHER'S FULL MAIDEN NAME McIvade E.
+16. HAVE YOU EVER BEEN MARRIED? Yes No [Yes circled]
+DATE OF MOST RECENT MARRIAGE WIDE DIVORCED/DECEASED?
+17. OTHER NAMES YOU HAVE USED
+18. HAVE YOU EVER BEEN ISSUED A U.S. PASSPORT? Yes [ ] No [ ] (Circle) IF YES...
+NAME IN WHICH ISSUED [REDACTED]
+
+[PHOTOGRAPH OF APPLICANT: Short dark hair, facing forward]
+
+20. TRAVEL PLANS (not mandatory)
+Date of Trip Month Day Year 1 2 3 2 0 0 2
+Length of Trip 1 week?
+COUNTRIES TO BE VISITED United Kingdom
+
+21. STOP... DO NOT SIGN APPLICATION UNTIL REQUESTED...
+[Standard text]
+Applicant's Signature [REDACTED/Illegible Scribble]
+Father's/Legal Guardian's Signature (if identifying minor) [Blank]
+Mother's/Legal Guardian's Signature (if identifying minor) [Blank]
+
+23a. Applicant's or Father's Identifying Documents
+Driver's License [ ] Passport [ ] Other (Specify) Nat. Cert.
+Date 11272002 Place of Issue St. Thomas, VI
+Issue Date Name Chisleine N. Maxwell
+DOB 2754548
+
+23b. Mother's Identifying Documents
+Driver's License [ ] Passport [ ] Other (Specify) [Blank]
+
+24. FOR ISSUING OFFICE USE ONLY...
+Birth Certificate [ ] SR [ ] CR
+Naturalization/Citizenship Cert. No: 0 A 07 4245198
+[Red Stamp "Prohibited" partially visible over section]
+
+25. FEE $0.00
+OMB No. 1405-0004 Expires: 12/31/2001 Estimated Burden - 20 Minutes Page 3 of 4
+
+## Structured Fields
+- **Document ID:** DS-11 (Form number visible at bottom left)
+- **Internal Barcode Number:** 04684249
+- **Applicant Name:** Chisleine Maxwell (also seen as Chisleine N. Maxwell in doc 23a; First/Middle line shows "CHISLAINE / M C E L L E")
+- **Date of Birth (Derived from 23a):** Likely August 27, 1954 (based on digits 2754548 and place of birth France)
+- **Address:** St. Thomas, USVI, 00802
+- **Place of Birth:** Maison Laiffitte, France
+- **Travel Destination:** United Kingdom
+- **Document Used for Issuance:** Naturalization Certificate (Nat. Cert.) dated 11/27/2002 issued in St. Thomas, VI
+- **Case/Fee ID:** EFTA00029692 (Bottom right URL/ID fragment)
+

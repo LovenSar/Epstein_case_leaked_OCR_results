@@ -1,0 +1,83 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032793.pdf ts=2026-03-19T20:35:44 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email correspondence, heavily redacted for privacy while retaining key metadata and subject matter context. The layout is divided into two primary sections separated by a horizontal line, indicating a "Forward" chain where a new email is forwarding previous content.
+
+**Upper Section:**
+This section represents the forwarded message header. The fields are standard email headers: "From:", "Subject:", and "Date:". A large block of solid black bars obscures the "Attachments" list. Within this obscured area, one specific filename is partially visible in white text against the black background (or overlaying it), reading "Large Case Related Expenses - Epstein Maxwell.docx; FY21 Request_Form_".
+
+**Lower Section:**
+This section represents the original email header that was forwarded. It contains fields for "From:", "Sent:", "To:", and "Cc:". The recipient lists are obscured by long, varying black bars. A horizontal line separates this section from the main content above it. At the very bottom right corner, a document tracking number is visible.
+
+**Redaction Style:**
+The redactions are applied using uniform, opaque black rectangular bars of varying lengths and heights, obscuring names and specific addresses typical of legal FOIA (Freedom of Information Act) or privacy scrubbing processes.
+
+## Visible Text (verbatim)
+*   **Top Header:** `From: " [Redacted]`
+*   **Subject:** `Subject: FW: Forfeiture Funding Requests - Due 4/26`
+*   **Date:** `Date: Mon, 19 Apr 2021 18:42:30 +0000`
+*   **Attachments:** `[Redacted Attachment List]`
+*   **Visible Filename:** `Large Case Related Expenses - Epstein Maxwell.docx; FY21 Request_Form_`
+*   **Bottom Header Sent Time:** `Sent: Monday, April 19, 2021 1:23 PM`
+*   **Footer ID:** `EFTA00032793`
+
+## Notable Details / Clues
+*   **Case Identification:** The visible text "Forfeiture Funding Requests" combined with "Epstein Maxwell.docx" clearly links this correspondence to the United States Department of Justice's legal proceedings regarding the seizure and funding of assets in the Jeffrey Epstein case.
+*   **Timeline Context:** The email is dated April 19, 2021. This places the communication roughly two years after Jeffrey Epstein's death (August 19, 2019) and during a period of high-profile litigation regarding his assets and compensation for victims.
+*   **Subject Matter:** The subject line mentions a deadline ("Due 4/26"), indicating an administrative process requiring funding approval for case-related expenses by late April 2021.
+*   **Fiscal Year Reference:** The filename "FY21 Request_Form_" suggests this pertains to Fiscal Year 2021, aligning with the calendar date of April 2021.
+*   **Document ID:** The string `EFTA00032793` at the bottom right likely stands for an Electronic Freedom of Information Act (FOIA) tracking number or a similar government document identifier, suggesting this is a publicly released or leaked government record.
+*   **Time Discrepancy:** The "Sent" time in the lower header (1:23 PM EST likely) precedes the timestamp in the upper header (18:42:30 +0000 / 2:42 PM UTC). This suggests the emails were sent roughly four hours apart, potentially due to different server times or timezone adjustments.
+*   **File Types:** The visible filename includes ".docx", indicating a Microsoft Word document was attached, which is common for internal legal briefs or expense reports.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital document, likely an email or a memo, that has been heavily redacted for privacy or security purposes.
+-   **Header:** At the very top, there is a thick black bar obscuring the sender or recipient information, flanked by small "greater than" and "less than" arrow symbols on either side of its left end.
+-   **Subject Line:** Immediately below the header is the subject line text: "Subject: Forfeiture Funding Requests - Due 4/26". This indicates a business or legal context involving financial reimbursements related to seized assets.
+-   **Body Content:** The majority of the document consists of horizontal black bars of varying lengths stacked vertically. These bars completely obscure the text content, which likely contains names, dollar amounts, case numbers, and narrative descriptions.
+-   **Redaction Grouping 1 (Top):** Below the subject line, there is a small isolated bar, followed by a cluster of five long bars that appear to form the first paragraph or initial list item.
+-   **Redaction Grouping 2:** Below that, there is a distinct break and a new cluster consisting of six long bars, suggesting a continuation of text or a new section.
+-   **Redaction Grouping 3:** Further down, another block appears with four bars of roughly uniform length.
+-   **Redaction Grouping 4:** This section starts with a very short bar at the top, followed by a single long bar underneath it. Below this is a small gap, then a shorter bar, followed by a large, complex block of redaction bars that seem to represent a detailed explanation or list of specific requests.
+-   **Redaction Grouping 5:** Moving down, there is another cluster starting with one short bar on the left, followed by three long bars underneath it.
+-   **Redaction Grouping 6:** Below that is a single medium-length bar.
+-   **Redaction Grouping 7:** This section shows a single long bar followed immediately by a shorter bar directly beneath it.
+-   **Redaction Grouping 8:** Similar to the previous section, this features one long bar with a slightly shorter bar underneath it.
+-   **Redaction Grouping 9:** A short bar is visible on the left, followed by two medium-length bars underneath.
+-   **Redaction Grouping 10 (Bottom Area):** Towards the bottom, there are three stacked bars of varying lengths. The lowest of these bars contains a tiny visible fragment of text "t" before being cut off by another black block.
+-   **Footer ID:** In the bottom right corner, outside the redacted content, there is a reference code: "EFTA00032794".
+
+## Visible Text (verbatim)
+**Subject:** Forfeiture Funding Requests - Due 4/26
+**Bottom Right Corner:** EFTA00032794
+*(Tiny fragment inside bottom redaction block)* t ...
+
+## Notable Details / Clues
+-   **Context:** The subject line strongly suggests a government or law enforcement document concerning the funding (reimbursement) for expenses related to "forfeiture" (seizure of property by legal authority).
+-   **Deadline:** The text "Due 4/26" establishes a specific deadline for submitting these requests, likely April 26th.
+-   **Masking Technique:** The document uses standard solid black bars for redaction, typical of Privacy Acts (like FOIA in the US) to hide Personally Identifiable Information (PII) or sensitive financial data.
+-   **Layout Structure:** The varying lengths of the black bars suggest that the original text was formatted as a list or contained paragraphs with indentation, rather than just continuous blocks of text.
+-   **Fragmented Text:** Near the bottom left, the letter "t" is visible inside one of the redaction boxes, indicating that some pixels of the original text leaked through or were poorly masked, revealing the start of a word like "that," "the," or "total."
+-   **Reference Code:** The alphanumeric string in the corner acts as a tracking number for the document archive system.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+[REDACTED]
+Co-Chief, Money Laundering and Transnational Criminal Enterprises Unit
+Asset Forfeiture Coordinator
+United States Attorney's Office
+Southern District [REDACTED]
+[REDACTED]
+
+## Structured Fields
+- **Document ID**: EFTA00032795
+- **Organization**: United States Attorney's Office
+- **Unit**: Money Laundering and Transnational Criminal Enterprises Unit
+- **Role/Title**: Co-Chief, Asset Forfeiture Coordinator
+- **Location**: Southern District [REDACTED]
+

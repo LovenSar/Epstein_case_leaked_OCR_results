@@ -1,0 +1,49 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014681.pdf ts=2026-03-12T04:25:13 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EXHIBIT B
+
+EFTA00014681
+
+## Structured Fields
+
+*   **Doc ID:** EFTA00014681
+*   **Exhibit Reference:** EXHIBIT B
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up photograph of a handwritten note on yellow legal pad paper with blue horizontal ruling lines. The lighting is warm and slightly dim, casting a large, dark shadow across the bottom third of the page, likely from the photographer's hand or device holding the phone. At the very top left, there are faint scribbles that resemble "89". The handwriting is in blue ballpoint ink and is a mix of cursive and print styles, appearing somewhat rushed or hurried. A thick black rectangular redaction bar obscures a portion of text on the first line, near the right-center. An orange watermark reading "CONFIDENTIAL" is stamped at the bottom center, accompanied by alphanumeric case identifiers in the bottom right corner ("SDNY_GM_00165986" and "EFTA00014682"). The text expresses excitement about a trip paid for by a father ("Dad") to visit a wealthy person who is expected to help with college funding, acknowledging that disappointment might occur if the financial aid doesn't materialize.
+
+## Visible Text (verbatim)
+- **Line 1:** "I'm so exited [sic] [Redacted Box] Dad bought"
+- **Line 2:** "me ticket to come visit + see him who has been almost a year - xan[dyn?]" (Note: The text "me ticket..." appears on the second line, implying a sentence split across lines)
+- **Line 3:** "he is very wealthy & would help me get into or pay for college." (Wait, looking at the flow, Line 2 ends with "xandy" and Line 3 starts with "he") -> Actually, transcribing strictly what is visible:
+    - Top line block: "I'm so exited [Redacted] ... Dad bought me ticket to come visit + see him who has been almost a year - xan[dyn?] he is very wealthy & would help me get into or pay for college." (This text spans the visual lines somewhat messily)
+    - Middle line block: "I don't want to let my hopes up because I hate disappointment"
+    - Next line: "but it would be really cool if it happened + even if [it] doesn't"
+    - Bottom line of text: "it is so great I get to go see him."
+
+**Corrected Transcription based on visual flow:**
+- **Segment 1:** "89 I'm so exited [sic] [Redacted Box] Dad bought" -> Wait, looking closer at crop 1, the text "me ticket..." is actually visible *under* the redaction box or right next to it on the second line? No, let's look at the full image.
+- The text reads: "I'm so exited [sic] [Redacted] me ticket to come visit + see him who has been almost a year - xan[dyn?] he is very wealthy & would help me get into or pay for college." -> This seems to be the main block.
+- Next line: "I don't want to let my hopes up because I hate disappointment"
+- Next line: "but it would be really cool if it happened + even if [it] doesn't"
+- Final line: "it is so great I get to go see him."
+
+**Wait, looking at the very top right of the first line:** The text visible to the right of the black box looks like "Dad bought".
+So: "I'm so exited [sic] [Redacted Box] Dad bought".
+Then Line 2 starts with "me ticket...".
+This suggests the sentence is: "...exited [that] Dad bought me ticket..." split across lines.
+
+## Notable Details / Clues
+- **Misspelling:** The writer misspells "excited" as "exited."
+- **Grammar/Syntax:** The text exhibits run-on sentences, splitting the object of "bought" ("me ticket") onto the next line after the verb phrase "Dad bought".
+- **Redaction:** A black bar covers part of the top section, likely a name, date, or specific detail that the author wished to hide.
+- **Shadows:** The photographer's shadow dominates the bottom half, indicating a close-up selfie angle.
+- **Date/Number:** The number "89" is scrawled at the top left, possibly indicating August 9th or page 89.
+- **Symbols:** The text uses "+" symbols where standard punctuation (like "and") might be expected, e.g., "visit + see", "happened + even if".
+- **Tone:** The tone is hopeful yet anxious ("I don't want to let my hopes up because I hate disappointment").
+- **Case ID:** The bottom text includes identifiers like "SDNY_GM_00165986" (likely Southern District of New York, GM case manager or similar) and "EFTA..." suggesting this is from a government legal or employment records system.
+

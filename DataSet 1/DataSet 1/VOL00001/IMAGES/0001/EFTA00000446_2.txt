@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0001/EFTA00000446.pdf ts=2026-03-05T06:24:48 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+*   **Left Foreground:** The image is framed on the left by a solid, matte blue surface, likely a painted wall or a large door panel, bordered by a silver metal door frame/jamb.
+*   **Floor Level (Left):** Inside the room, a black pedestal standing fan is positioned near the left wall, facing towards the machinery. Behind it, a tall grey cylindrical tank (likely an expansion vessel) sits on the floor.
+*   **Central Machinery:** The center of the room features a complex assembly of industrial piping and pumps. Two large vertical pump units with dark motors are visible at the base, connected by horizontal beige/tan painted pipes.
+*   **Mid-Level Pipes:** A thick, light-blue horizontal pipe runs across the middle of the frame above the pumps, connecting to vertical risers that feed into the upper system.
+*   **Upper Ceiling/Structure:** Dominating the upper section is a large, rectangular silver metal ventilation duct running horizontally. Above this, white foam-insulated pipes run along the top edge of the image, secured with straps.
+*   **Right Side Electrical:** Mounted on the right-hand wall is a series of grey electrical panels or breakers. These feature red levers labeled vertically with "ON" and "OFF."
+*   **Conduit Work:** White PVC conduits run vertically down from the electrical panels into blue metal cabinets situated on the floor along the right wall.
+*   **Cabinet Details:** The blue cabinets appear to be control junction boxes. On top of the front-most cabinet sits a black rectangular box, possibly a battery backup or charger unit, with white vents.
+*   **Flooring:** The floor is a smooth, dark grey concrete surface, showing some scuff marks and stains typical of a utility room.
+*   **Background Equipment:** Behind the main pumps in the center background, there is a larger, darker grey piece of machinery, possibly a boiler or large chiller unit, partially obscured by piping.
+
+## Visible Text (verbatim)
+
+*   "ON" (on red lever, visible on rightmost breakers)
+*   "OFF" (on red lever, visible on rightmost breakers)
+*   "EFTA00000446" (bottom right corner of image)
+
+## Notable Details / Clues
+
+*   **System Type:** The combination of large vertical pumps with motors, expansion tanks, and insulated piping strongly suggests a hydronic heating or cooling system (chilled water or hot water loop).
+*   **Electrical Configuration:** The breakers on the right are likely part of a transfer switch or distribution panel dedicated to powering the critical mechanical equipment.
+*   **Ventilation:** The large metal ductwork in the ceiling indicates that this room is ventilated, which is standard for enclosed mechanical rooms containing heat-generating machinery.
+*   **Safety/Access:** The standing fan suggests manual cooling might be needed if the room lacks sufficient HVAC or if it gets very hot during operation.
+*   **Pipe Identification:** The light blue pipe likely indicates a specific utility type (often chilled water in some codes, though color coding varies), distinct from the beige piping which may be a different loop or pressure zone.
+*   **Wall Construction:** The walls appear to be painted cinder blocks or concrete masonry units (CMU), typical of basement or foundation utility levels.
+

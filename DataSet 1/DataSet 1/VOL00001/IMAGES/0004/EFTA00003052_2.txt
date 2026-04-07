@@ -1,0 +1,59 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003052.pdf ts=2026-03-06T00:39:15 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly angled photograph of a paper document titled "Emergency Contact Form" contained within a ring binder. The binder metal rings are visible along the left edge. The background appears to be a textured, dark grey surface, possibly a countertop or floor. A significant white glare and reflection obscures the center-left portion of the form, specifically covering parts of the middle section. At the very top, the company letterhead reads "LSJE, LLC" in bold serif font. Below this is the address: "6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802". Phone and fax numbers are listed as 340-775-8100 and 340-775-8108 respectively. The form itself features several blacked-out redaction bars used to hide sensitive personal information. At the bottom right corner, a document control number "EFTA00003052" is printed.
+
+## Visible Text (verbatim)
+**Header:**
+LSJE, LLC
+6100 Red Hook Quarters Suite B-3 St. Thomas, VI 00802 Tel: 340-775-8100 Fax: 340-775-8108
+
+**Form Title:**
+Emergency Contact Form
+
+**Top Section Fields:**
+Date: 06/14/18
+Start Date: [Blank]
+Employee Name: Felito Joseph
+Address: [Redacted with black bar]
+Date of Birth: [Redacted with black bar]
+Phone: [Redacted with black bar]
+Cell: [Redacted with black bar]
+E-Mail: [Blank]
+Title / Position: [Obscured by glare/glare text "Tech" visible underneath]
+Marital Status: Single
+License: [Blank box]
+
+**Emergency Information Section:**
+[Header: Emergency Information - partially obscured by glare]
+Allergies or Health Concerns: [Blank line]
+Blood Type: [Redacted with black bar]
+Current Medication: [Blank]
+Doctor's Name: [Blank line] Phone: [Blank line]
+Doctor's Name: [Blank line] Phone: [Blank line]
+
+**Emergency Contacts Section:**
+In case of an Emergency, Please contact :
+Name: Jennifer | Relationship: Girlfriend | Phone: [Redacted with black bar]
+Name: Fay | Relationship: sister | Phone: [Redacted with black bar]
+
+**Footer:**
+This Information is for your safety and the safety of others
+
+**Stamp/Code:**
+EFTA00003052
+
+## Notable Details / Clues
+*   **Date of Document:** The form is dated "06/14/18" (June 14, 2018).
+*   **Location Context:** The address "St. Thomas, VI 00802" indicates the document was issued in the US Virgin Islands.
+*   **Employee Identity:** The employee's name is clearly identified as "Felito Joseph".
+*   **Contact Relationships:** Two emergency contacts are listed: a girlfriend named "Jennifer" and a sister named "Fay".
+*   **Privacy Redactions:** Several sensitive fields have been digitally blacked out, including the home address, date of birth, current phone numbers (home and cell), blood type, and contact phone numbers.
+*   **Employment Status:** The employee is listed as "Single" and does not appear to have listed a license number or start date.
+*   **Medical Data:** All fields for allergies, medications, and doctor contacts are left blank except for the blood type which is redacted.
+*   **Document Control:** A code "EFTA00003052" suggests this might be part of a specific filing system or tracking sequence.
+*   **Visual Artifacts:** There is a distinct glare on the paper surface caused by overhead lighting, making the text behind it difficult to read in the middle column.
+*   **Company Identity:** "LSJE LLC" likely stands for a logistics or service company, possibly related to the "Red Hook Quarters" which sounds like an industrial park address.
+

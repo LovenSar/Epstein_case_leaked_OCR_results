@@ -1,0 +1,71 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024754.pdf ts=2026-03-16T13:27:39 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a computer screen or document printout showing a threaded email conversation regarding an expert witness invitation. The document is heavily redacted with thick black bars obscuring names, addresses, and other identifying information. The layout consists of three distinct email sections stacked vertically, separated by horizontal lines or indentation typical of email clients like Outlook.
+
+At the very top, there is a header for a forwarded message where the "From" and "To" fields are completely blacked out. Below this, the subject line reads "Fwd: Expert Testimony" and the date is "Mon, 02 Nov 2020". Following a horizontal divider line, text appears in standard black font stating "2 work for you on Wednesday?", followed by "Sent from my iPhone" and the phrase "Begin forwarded message:".
+
+The middle section contains the primary response email. The headers are visible but redacted: "From: Dawn Hughes", "Date: November 2, 2020 at 10:53:58 AM EST", and the subject "Re: Expert Testimony". The body of this text is colored bright blue, indicating it is the most recent message in the thread. It reads: "Yes. I would be happy to speak with you all. I have some open time on Wednesday after 2:00. Let me know what works for you." followed by a sign-off of "Best, Dr. Hughes". Below this is her professional signature block identifying her as "DAWN M HUGHES, PHD ABPP" and a "CLINICAL AND FORENSIC PSYCHOLOGIST," which is immediately followed by another large redacted black box.
+
+The bottom section begins with an "On Thu, Oct 29, 2020 at 3:48 PM" header, introducing the original incoming message. The sender is largely redacted but identifies themselves as a federal prosecutor. The text introduces the case *United States v. Ghislaine Maxwell*, mentioning a trial date of July 12, 2021, in the Southern District of New York. The email requests the recipient's availability to testify as an expert witness and asks if they are available for a call "tomorrow or next week." The message ends with "Thanks very much," followed by another black box redacting the sender's name/signature. A document identification code, "EFTA00024754", is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Section:**
+From: [Redacted]
+To: [Redacted]
+Subject: Fwd: Expert Testimony
+Date: Mon, 02 Nov 2020 17:08:52 +0000
+
+2 work for you on Wednesday?
+Sent from my iPhone
+Begin forwarded message:
+
+**Middle Section:**
+From: Dawn Hughes [Redacted]
+Date: November 2, 2020 at 10:53:58 AM EST
+To: [Redacted]
+Cc: [Redacted]
+Subject: Re: Expert Testimony
+
+Yes. I would be happy to speak with you all. I have some open time on Wednesday after 2:00. Let me know what works for you.
+
+Best,
+Dr. Hughes
+
+DAWN M HUGHES, PHD ABPP
+CLINICAL AND FORENSIC PSYCHOLOGIST
+[Redacted Block]
+
+**Bottom Section:**
+On Thu, Oct 29, 2020 at 3:48 PM [Redacted Name] wrote:
+Dr. Hughes,
+Together with colleagues [Redacted], I’m one of the federal prosecutors handling the case of *United States v. Ghislaine Maxwell*, which is scheduled to go to trial on July 12, 2021 in the Southern District of New York. We would be interested in speaking with you about your availability to testify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss?
+Thanks very much,
+[Redacted Block]
+
+**Footer:**
+EFTA00024754
+
+## Notable Details / Clues
+*   **Timeline of Interaction:** The prosecutor sent the initial request on October 29, 2020. Dr. Hughes responded on November 2, 2020, indicating a short turnaround time (3 days).
+*   **Legal Context:** The emails relate to the high-profile *United States v. Ghislaine Maxwell* case, specifically involving testimony preparation before the trial date of July 12, 2021.
+*   **Redaction Pattern:** Large, solid black bars are used consistently to hide names, phone numbers, and email addresses, suggesting this document is being shared publicly or under protective order where privacy is maintained for parties other than the public figure mentioned (Ghislaine Maxwell).
+*   **Expertise:** Dr. Hughes holds a PhD (ABPP), indicating she is an American Board of Professional Psychology certified forensic psychologist, a qualification relevant to expert testimony in court.
+*   **Availability:** Dr. Hughes offers specific availability: "Wednesday after 2:00," suggesting a standard work schedule or a specific block of open time in her calendar.
+*   **Device Indicator:** The text "Sent from my iPhone" confirms the top email (the forward) was likely sent from a mobile device, though the other emails appear to be composed on desktop software given their formatting.
+*   **Jurisdiction:** The case is filed in the U.S. District Court for the Southern District of New York (SDNY), a common venue for major federal cases like this one.
+*   **Document ID:** The code "EFTA00024754" suggests this image is part of an official record or exhibit file, likely from a legal discovery process.
+*   **Formatting:** The use of blue text for Dr. Hughes' email distinguishes it as the primary reply to the forwarded thread structure.
+*   **Sender Identity:** The original sender identifies themselves simply as "one of the federal prosecutors," implying they are part of a team ("Together with colleagues") rather than working alone.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+EFTA00024755
+
+## Structured Fields
+- Doc ID: EFTA00024755
+

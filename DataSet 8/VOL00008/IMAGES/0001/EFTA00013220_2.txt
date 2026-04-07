@@ -1,0 +1,89 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00013220.pdf ts=2026-03-11T13:27:23 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a digital screenshot of an email correspondence thread, specifically a forwarded message containing legal attachments. The document is structured with typical email headers at the top, followed by the body of the most recent email, a horizontal dividing line, and then a second, older email forwarded for reference.
+
+**Top Section (Most Recent Email):**
+*   **Headers:** The standard "From:", "To:", and "Cc:" fields are heavily redacted with black bars.
+*   **Subject Line:** Reads "FW: Letter," indicating a forwarded message.
+*   **Date:** Timestamped for Friday, October 02, 2020, at 16:02:53 UTC.
+*   **Attachments:** Two PDF files are listed: "2020.10.1_Letter_to_Government_re_Discovery.PDF" and "2020.09.21_Letter_to_Government_re_Discovery_and_Prison_Conditions.PDF".
+*   **Inline Images:** Two image files (image005.jpg; image006.jpg) are referenced but not visible in the frame.
+*   **Body Content:** The text begins with a black rectangle likely obscuring an email icon or sender name. The main paragraph informs the recipient that a letter regarding "discovery" from "Maxwell’s counsel" was received the previous night. It mentions reattaching a prior letter regarding "prison conditions." Several names are redacted with black bars, particularly where someone expects to send a draft response on Monday and when requesting a chat time.
+*   **Sign-off:** The message ends with "Thanks," followed by a black rectangle obscuring the sender's name.
+
+**Middle Section (Forwarded Email):**
+*   **Divider:** A thin horizontal line separates the current email from the forwarded thread below.
+*   **Headers:** The "From" and "To" fields are redacted.
+*   **Sent Date:** Thursday, October 01, 2020, at 11:11 PM (the day before the forwarding email).
+*   **Subject:** Simple subject line "Letter".
+*   **Body:** The text body is minimal. A large black rectangle obscures the top portion, followed by the sentence "Please see the attached letter." It concludes with "Regards," and redacted signature lines.
+
+**Bottom Section (Law Firm Signature):**
+*   **Firm Name:** Large, bold text reads "COHEN & GRESSER LLP".
+*   **Contact Info:** A large black rectangle obscures the email address or phone number below the firm name.
+*   **Locations:** A list of office locations is visible at the very bottom: New York, Seoul, Paris, Washington DC, and London.
+*   **Footer:** Small grey text contains a standard "CONFIDENTIALITY NOTICE" regarding privileged information. In the bottom right corner, a reference code "EFTA00013220" is visible.
+
+## Visible Text (verbatim)
+
+**Header 1:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: FW: Letter
+Date: Fri, 02 Oct 2020 16:02:53 +0000
+Attachments: 2020.10.1_Letter_to_Government_re_Discovery.PDF;
+2020.09.21_Letter_to_Government_re_Discovery_and_Prison_Conditions.PDF
+Inline-Images: image005.jpg; image006.jpg
+
+**Body 1:**
+[Redacted]
+We wanted to let you know we received the attached letter on discovery from Maxwell’s counsel last night. (I also reattached their prior letter on discovery and prison conditions.) [Redacted] expects to send you a draft response on Monday. We were hoping to chat with you about this and the [Redacted] Do you have time today before 1 pm or after 3 pm?
+Thanks,
+[Redacted]
+
+**Header 2:**
+From: [Redacted]
+Sent: Thursday, October 01, 2020 11:11 PM
+To: [Redacted]
+Subject: Letter
+[Redacted]
+
+**Body 2:**
+Please see the attached letter.
+Regards,
+[Redacted]
+
+**Footer:**
+COHEN & GRESSER LLP
+[Redacted]
+New York | Seoul | Paris | Washington DC | London
+CONFIDENTIALITY NOTICE: The information contained in this e-mail may be confidential and/or privileged. This e-mail is intended to be reviewed initially by only
+EFTA00013220
+
+## Notable Details / Clues
+
+*   **Legal Context:** The text references "discovery" and "Maxwell's counsel," indicating a legal proceeding involving an individual named Maxwell (likely Ghislaine Maxwell given the context of high-profile legal discovery, though the specific case is not explicitly named).
+*   **International Firm:** The signature block lists offices in New York, Seoul, Paris, Washington DC, and London, suggesting a multinational law firm with clients or cases spanning these jurisdictions.
+*   **Chronology:** The email thread shows a progression from an original letter sent late at night on October 1st to a forwarded response the following day (October 2nd), discussing draft responses and scheduling meetings.
+*   **Redaction Style:** Names are obscured with solid black rectangular bars rather than just "initials," which is a common practice for privacy or public release of documents containing sensitive information.
+*   **Date Format:** The dates use the format YYYY.MM.DD in the filenames (e.g., 2020.10.1) but standard text format (Fri, 02 Oct 2020) in the headers.
+*   **Reference ID:** The alphanumeric string "EFTA00013220" at the bottom right suggests a file management system or docket number associated with the legal matter.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+the individual named above. If the reader of this e-mail is not the intended recipient or a representative of the intended recipient, you are hereby notified that any review, dissemination or copying of this e-mail or the information contained herein is prohibited. If you have received this e-mail in error, please immediately notify the sender by telephone and permanently delete this e-mail. Thank you.
+PRIVACY: A complete copy of our privacy policy can be viewed at: https://www.cohengresser.com/privacy-policy.
+
+EFTA00013221
+
+## Structured Fields
+*   **Document ID:** EFTA00013221
+*   **Organization:** cohengressser
+*   **URL:** https://www.cohengresser.com/privacy-policy
+*   **Section:** Privacy Policy Notice
+

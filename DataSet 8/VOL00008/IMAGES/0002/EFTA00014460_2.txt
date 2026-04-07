@@ -1,0 +1,74 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00014460.pdf ts=2026-03-12T02:07:24 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email thread involving three distinct message headers and bodies, with sensitive personal information redacted by thick black bars across the names and addresses in the "From," "To," and "Cc" fields. The document is set against a plain white background with standard sans-serif typography typical of email clients like Outlook or Gmail.
+
+The topmost section represents the most recent email in the chain, dated June 27, 2019. The header contains redacted fields for sender, recipient, and carbon copy lines. Below the subject line "RE: Epstein NPA Appendix" and the timestamp, the text discusses assistance from the Office of Professional Responsibility (OPR). A significant portion of the body text is redacted at the top, but visible sentences reference copying a lead counsel and someone responding separately. The signature block is partially redacted but clearly identifies the sender as the Director and Chief Counsel for the Office of Professional Responsibility within the U.S. Department of Justice in Washington, D.C., including the URL www.justice.gov/opr.
+
+Beneath the first email thread, a second email header is visible, dated slightly earlier on the same day at 10:37 AM (AM implies morning time). The subject line matches the previous one. The body text fragment is very short, stating "I do not have it, but OPR should," followed by redactions where names would typically appear.
+
+The bottommost section represents the original email initiating the thread, timestamped at 10:34 AM. This message begins with a salutation to a redacted name. The body of this email poses a specific inquiry regarding a "non-public appendix" to the Epstein NPA (Non-Prosecution Agreement). It asks specifically about a list of victims entitled to receive compensation and queries if the recipient (identified as ODAG via context clues) or the sender can help retrieve it. The message closes with "Thank you," followed by a large redacted signature block, though a blue hyperlink text at the very bottom identifies the sender's title as "Chief, Public Corruption Unit." In the bottom right corner of the entire page, a document control number is visible.
+
+## Visible Text (verbatim)
+**Header 1:**
+- Subject: RE: Epstein NPA Appendix
+- Date: Thu, 27 Jun 2019 14:53:41 +0000
+- Importance: Normal
+
+**Body 1:**
+- OPR will be able to help with this. Copying [REDACTED] who is lead counsel on our investigation. [REDACTED] will respond separately.
+- Best, [REDACTED]
+- Director and Chief Counsel
+- Office of Professional Responsibility
+- U.S. Department of Justice
+- Washington, D.C. 20530
+- www.justice.gov/opr
+
+**Header 2:**
+- From: [REDACTED]
+- Sent: Thursday, June 27, 2019 10:37 AM
+- To: [REDACTED]
+- Cc: [REDACTED]
+- Subject: RE: Epstein NPA Appendix
+
+**Body 2:**
+- I do not have it, but OPR should. I have copied [REDACTED] Thanks [REDACTED]
+
+**Header 3:**
+- From: [REDACTED]
+- Sent: Thursday, June 27, 2019 10:34 AM
+- To: [REDACTED]
+- Cc: [REDACTED]
+- Subject: Epstein NPA Appendix
+
+**Body 3:**
+- Hi [REDACTED]
+- There is non-public appendix to the Epstein NPA that includes a list of victims entitled to receive compensation. Does ODAG have a copy of it or would you be able to help us retrieve it?
+- Thank you,
+- [REDACTED Signature Block]
+- Chief, Public Corruption Unit
+
+**Footer:**
+- EFTA00014460
+
+## Notable Details / Clues
+- **Document Tracking Number:** The alphanumeric code "EFTA00014460" in the bottom right suggests this document is part of a Freedom of Information Act (FOIA) request or an internal government archive index.
+- **Date Consistency:** All three emails are timestamped on June 27, 2019, within a 13-minute window (from 10:34 AM to 14:53 PM/UTC), indicating a rapid exchange of information.
+- **Jurisdictional Context:** The mention of "ODAG" likely refers to the Office of Inspector General for the DOJ (or a similar division given the context of corruption units), while the sender is explicitly from the U.S. Department of Justice's Office of Professional Responsibility (OPR).
+- **Subject Matter:** The core subject is legal and investigative, specifically regarding the Jeffrey Epstein Non-Prosecution Agreement (NPA) and the confidential list of victims eligible for compensation.
+- **Redaction Level:** Almost all proper names are blacked out, making it impossible to identify specific individuals without external context, though their titles remain visible.
+- **Hyperlink Text:** In the middle email body, the words following "copied" appear in blue, indicating they were originally hyperlinks, likely pointing to a name or document location.
+- **Office of Professional Responsibility (OPR):** The text explicitly confirms OPR is involved in "our investigation," establishing the Department of Justice's internal oversight role in the matter.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+United States Attorney's Office for the Southern District of New York
+[REDACTED]
+
+## Structured Fields
+
+*   **Organization**: United States Attorney's Office for the Southern District of New York
+*   **Doc ID**: EFTA00014461
+

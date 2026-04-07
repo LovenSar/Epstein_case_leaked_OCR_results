@@ -1,0 +1,26 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002470.pdf ts=2026-03-05T20:20:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image depicts the interior of a mechanical utility room, likely housing a fire suppression system (specifically clean agent or gas-based) and associated HVAC infrastructure. The room features painted white cinder block walls and a smooth, grey concrete floor that shows signs of wear with dirt streaks.
+
+- **Vertical Piping Assemblies:** In the center-left portion of the frame, three distinct vertical galvanized steel risers dominate the scene. These pipes run from the floor upward towards a metal cross-bracket mounted on the wall.
+- **Red Cylindrical Components:** Attached to each of the three vertical risers are several red cylindrical fixtures. There appear to be clusters of these near the top and bottom sections of the risers, likely representing solenoid valves or pressure relief components.
+- **Horizontal Distribution Piping:** Running along the floor level is a complex network of pipes connecting the vertical risers. These pipes converge into a larger horizontal manifold at the base.
+- **Right-Side Control Panels:** Mounted on the right-hand wall are three large, rectangular red metal boxes. These units feature circular pressure gauges and are labeled with the brand name "VIKING." Below these panels, numerous thin copper-colored piping runs vertically down the wall before turning horizontal near the floor.
+- **Ceiling Ductwork:** A massive, rectangular galvanized steel duct runs diagonally across the upper right corner of the image, suspended from the ceiling structure. This appears to be a return air or exhaust duct.
+- **Left-Side Piping:** On the far left edge, a tall vertical pipe stands independently, featuring various flanges and a red handwheel valve near the middle.
+- **Floor Objects:** In the bottom left corner, a large blue plastic barrel (likely a 55-gallon drum) is partially visible. In the background, tucked near the base of the pipes in the corner, sits a small red bucket.
+- **Wall Connections:** The vertical copper lines on the right wall connect to the main gas piping system, suggesting these boxes are discharge valves that would release pressurized gas into specific zones upon detection.
+
+## Visible Text (verbatim)
+- "VIKING" (Visible on the silver nameplates of the red control boxes).
+- "EFTA00002470" (Visible in white text at the bottom right corner).
+
+## Notable Details / Clues
+- **System Type:** The presence of "Viking" branded red boxes, pressure gauges, and vertical risers strongly suggests a clean-agent fire suppression system (e.g., Novec 1230 or FM-200), commonly installed in server rooms or data centers to extinguish fires without damaging electronics.
+- **Pressure Gauges:** Multiple analog dials are visible on the red boxes and smaller inline gauges near the top of the vertical risers, used to monitor the pressure levels of the stored gas within the cylinders located above (presumably under the ceiling duct).
+- **Piping Material Mix:** The mix of galvanized steel for main structural pipes and copper for distribution lines indicates a specific engineering choice to manage corrosion or heat conductivity for specific valves.
+- **Valve Configuration:** The red handwheels on the left suggest manual shut-off capabilities, while the complex web of tubing near the top likely connects individual storage cylinders (likely hidden in an overhead plenum) to the manifold system below.
+

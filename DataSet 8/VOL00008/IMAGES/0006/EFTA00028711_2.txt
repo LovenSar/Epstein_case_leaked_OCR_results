@@ -1,0 +1,86 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0006/EFTA00028711.pdf ts=2026-03-18T01:22:50 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread involving multiple participants, heavily redacted in standard privacy-blur formats. The communication chain is dated May 24, 2021, and relates to "SDNY DAILY NEWS CLIPPINGS." 
+
+At the top of the document, the first visible email entry shows headers where the sender and recipient are obscured by black bars. The subject line reads "RE: SDNY DAILY NEWS CLIPPINGS; MONDAY, MAY 24, 2021," with a timestamp of 17:06 UTC. A brief body text simply says "Amazing."
+
+Below this is the second email in the chain, which includes an embedded screenshot from a television broadcast. The header indicates it was sent at 12:15 PM on the same day. The body text introduces the image with the phrase "Can't take this seriously:".
+
+The embedded image captures a segment from the show "FOX & friends," identified by the logo in the lower center. On the left side of the screen is Tucker Carlson, wearing a dark suit and red tie against a blue background. On the right is a woman with reddish-brown hair and glasses, seated in what appears to be an office or home setting with shelves behind her. A bright blue circle has been drawn on the image specifically around a small green "Yoda" toy sitting on a shelf behind the woman's left shoulder (viewer's right). The news ticker at the bottom of the broadcast reads "EPSTEIN GUARDS ADMIT TO FALSIFYING RECORDS."
+
+Beneath the TV screenshot, another email header is visible from a sender with the name "Loneran" associated with "USANYS."
+
+Following that is the final visible email block. The sender is identified as "Biase, Nicholas (USANYS)." The recipient list and the body of this specific message are almost entirely obscured by wide, horizontal black bars spanning the width of the document. Only the timestamp (10:08 AM) and the subject line remain visible above the redaction.
+
+At the very bottom of the page is a footer section featuring a dark blue banner with the white text "SDNY PRESS CLIPPINGS" and the gold Department of Justice seal to the left. Below this banner is a hyperlink text reading "Trump lawyer Rudy Giuliani not above the law, prosecutors say (cnbc.com)". A document control number, "EFTA00028711," appears in the bottom right corner.
+
+## Visible Text (verbatim)
+- From: [Redacted]
+- To: [Redacted]
+- Subject: RE: SDNY DAILY NEWS CLIPPINGS; MONDAY, MAY 24, 2021
+- Date: Mon, 24 May 2021 17:06:06 +0000
+- Inline-Images: image003.png; image001.jpg
+- Amazing.
+- From: [Redacted]
+- Sent: Monday, May 24, 2021 12:15 PM
+- To: [Redacted]
+- Subject: RE: SDNY DAILY NEWS CLIPPINGS; MONDAY, MAY 24, 2021
+- Can’t take this seriously:
+- LIVE
+- FOX NEWS channel
+- EPSTEIN GUARDS ADMIT TO FALSIFYING RECORDS
+- FOX & friends
+- From: Loneran, [Redacted] (USANYS) <[Redacted]>
+- Sent: Monday, May 24, 2021 12:09 PM
+- To: [Redacted]
+- Subject: FW: SDNY DAILY NEWS CLIPPINGS; MONDAY, MAY 24, 2021
+- From: Biase, Nicholas (USANYS) <[Redacted]>
+- Sent: Monday, May 24, 2021 10:08 AM
+- To: [Redacted]
+- Subject: SDNY DAILY NEWS CLIPPINGS; MONDAY, MAY 24, 2021
+- DEPARTMENT OF JUSTICE
+- SDNY PRESS CLIPPINGS
+- Trump lawyer Rudy Giuliani not above the law, prosecutors say (cnbc.com)
+- EFTA00028711
+
+## Notable Details / Clues
+- **Context:** The emails are forwarding news clippings to each other on a specific date.
+- **TV Segment:** The TV clip is from "FOX & friends" discussing the Epstein guards record falsification scandal.
+- **Visual Annotation:** A blue circle highlights a Star Wars Yoda figure in the background of the interview, likely used as a humorous or ironic reaction ("meme") to the news story.
+- **Redaction Level:** The redactions are extensive, particularly in the lower email block where entire paragraphs appear blacked out.
+- **Source Material:** The footer link connects the content to news regarding Rudy Giuliani and Trump prosecutors, suggesting the "clippings" might be related to that specific legal angle or shared within a legal/prosecutorial context (USANYS likely refers to United States Attorney's Office for the Southern District of New York).
+- **Date Significance:** The date May 24, 2021, is historically significant regarding the unsealed Epstein documents which were later shown to be falsified.
+- **Broadcast Graphic:** The lower third graphic explicitly states "EPSTEIN GUARDS ADMIT TO FALSIFYING RECORDS," providing the topic of the TV segment.
+- **Departmental Header:** The DOJ seal and "SDNY" text indicate this document originates from or is managed by the United States Department of Justice, Southern District of New York office.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+How federal prosecutors are pursuing Rudy Giuliani - CNNPolitics
+Epstein prison guards strike deal to avoid jail time (yahoo.com)
+SEC v. Ripple heats up with battle over legal advice - FinanceFeeds
+The Colonial Pipeline Ransomware Hackers Had a Secret Weapon: Self-Promoting Cybersecurity Firms — ProPublica
+Trump criminal investigation looms over Manhattan DA race - New York Daily News (nydailynews.com)
+
+Nicholas Biase
+Spokesman
+United States Department of Justice
+[REDACTED]. [REDACTED] Office | Southern District of New York
+[REDACTED] | Mobile: [REDACTED] | Press Office: [REDACTED]
+
+
+Nicholas Biase
+Spokesman
+United States Department of Justice
+[REDACTED]. [REDACTED] Office | Southern District of New York
+[REDACTED] | Mobile: [REDACTED] | Press Office: [REDACTED]
+
+## Structured Fields
+*   **Names:** Nicholas Biase
+*   **Roles/Positions:** Spokesman
+*   **Organizations:** United States Department of Justice, CNNPolitics, Yahoo.com, FinanceFeeds, ProPublica, New York Daily News
+*   **Locations:** Southern District of New York
+*   **Doc IDs:** EFTA00028712
+

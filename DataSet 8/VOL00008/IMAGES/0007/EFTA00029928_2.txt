@@ -1,0 +1,203 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029928.pdf ts=2026-03-18T13:56:56 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7/20/2021                                                     FD-1087
+
+**31E-MM-108062 - 1B10**
+
+Evidence Item: 31E-MM-108062 – 1B10
+Evidence Type: General
+Description: (U//FOUO) One red rope: ONE (1) BOOK-MASSAGE FOR DUMMIES
+Location: E03707388 - ECR8
+           E616844 - ECR8, VS33
+           E5448596 - ECR8, VS33 A
+Barcode: E6516712
+
+Details
+
+Collected On: 08/07/2007 8:00 AM                          Receipt Item #: None
+CATS ID #: None                                           CATS Abandonment #: None
+FBI Seizure #: None                                       Abandonment #: None
+
+Storage Location                                           Discovery Location
+Holding Office: NY - NEW YORK                              Area: Unavailable in data migrated from ACS
+Finalized By: [REDACTED]                                  Seizing Individual: [REDACTED]
+Last Inventory: 07/20/2021 12:00 AM                        Specific: Unavailable in data migrated from ACS
+                                                           Collected By: [REDACTED]
+
+Retention
+Retention: Missing
+Legal Caveats
+None
+Chain of Custody
+Shipping Log
+History
+Acquisition Event
+Acquisition Event: (U//FOUO) Items migrated on 2007-08-07
+Collected From: (U//FOUO) [REDACTED]
+
+                                                           2210 48TH TERRACE NORTH
+                                                           WEST PALM BEACH, FL,
+Receipt Given: No
+Holding Office: MM - MIAMI
+Evidence Log: Missing
+Missing
+
+https://sentinel.fbinet.fbi/lavender///Cases/2383628                                              1/1
+
+SDNY_GM_02753585
+EFTA00029928
+
+## Structured Fields
+- **Date:** 7/20/2021, 08/07/2007, 07/20/2021, 2007-08-07
+- **Document ID:** FD-1087
+- **Case/Evidence Item ID:** 31E-MM-108062 - 1B10
+- **Locations:** NY - NEW YORK, MM - MIAMI, 2210 48TH TERRACE NORTH WEST PALM BEACH, FL
+- **Organization:** FBI (implied via URL), ACS
+- **Item Description:** One red rope: ONE (1) BOOK-MASSAGE FOR DUMMIES
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned document titled "FEDERAL BUREAU OF INVESTIGATION EVIDENCE CHAIN-OF-CUSTODY," identified as form FD-1004 (Revised 9-25-2006). The document is filled out in blue ink, with significant redaction areas obscuring signatures and names in the main custody transfer section.
+
+**Header Section:**
+At the very top left, the form number "FD-1004" and revision date are printed. Centered at the top is the bold title. Below this is a row for "Evidence Type," where a blue 'X' marks the box next to "General." The other options (Drug, Valuable, Firearms, CART) are left unchecked.
+
+**Special Handling Instructions:**
+This section lists various handling requirements with checkboxes. The options include Batteries, Biohazard, FGJ, HAZMAT, Latents, Refrigerate, Req. Charging, None, and Other. A faint blue check mark is visible next to the "Other" checkbox at the bottom of this list.
+
+**Initial Receipt:**
+To the right of the special instructions is the "Initial Receipt" block. The signature area and printed name field are covered by a large black rectangle (redaction). Below that, the text "Reason: Confiscated" is visible. To the far right in the "Date and Time" column, handwritten text reads "8/7/07" on the top line and "11:00 A.M." (or similar) on the second line.
+
+**Custody Log Body:**
+The central portion of the form is a table with columns for "Relinquished Custody," "Date and Time," "Accepted Custody," and "Date and Time."
+- A massive black rectangle obscures the majority of the middle rows, hiding signatures and printed names.
+- Visible in the rightmost "Date and Time" column are several handwritten entries in blue ink:
+    - One entry appears to read "02/08/08" (or similar) followed by "10:30 AM".
+    - Below that, a date reads "2-08-08" with the time "3:30 PM".
+    - Further down, a date reads "4-10-08" (April 10, 2008) with the time "11:01 AM".
+    - Below that, a date reads "1-13-09" (January 13, 2009) with the time "3:14 PM".
+
+**Final Relinquishment Row:**
+At the bottom of the table grid, there is a row labeled "Relinquished Custody." The date here is handwritten as "6/14/14" (June 14, 2014). The signature area for this row has a black box covering it.
+
+**Firearms Certification / Footer:**
+The bottom section contains the "Firearms Certification" block.
+- Printed Name and Signature lines are blank or crossed out.
+- **Case ID:** Handwritten as "3LE-MM-KS0602".
+- **1B Field:** Contains the number "10".
+- **Barcode Field:** Contains handwritten text "E6516722" at the bottom and "D42C923T" (or similar) just above it.
+
+**Document Identifiers:**
+In the bottom right corner, printed document IDs are visible: "SDNY_GM_02753586" and "EFTA00029929".
+
+## Visible Text (verbatim)
+- FD-1004
+- Revised 9-25-2006
+- FEDERAL BUREAU OF INVESTIGATION
+- EVIDENCE CHAIN-OF-CUSTODY
+- Evidence Type: [X] General [ ] Drug [ ] Valuable [ ] Firearms [ ] CART
+- Special Handling Instructions
+    - [ ] Batteries [ ] Biohazard [ ] FGJ
+    - [ ] HAZMAT [ ] Latents [ ] Refrigerate
+    - [ ] Req. Charging [ ] None
+    - [ ] Other [X] (faint mark)
+- Initial Receipt
+    - Signature: [Redacted]
+    - Printed Name: [Blank/Redacted]
+    - Reason: Confiscated
+    - Date and Time: 8/7/07 / 11:00 A.M. (approximate)
+- Relinquished Custody / Date and Time / Accepted Custody / Date and Time headers repeat down the sheet.
+- Handwritten dates in right column:
+    - 02/08/08 / 10:30 AM
+    - 2-08-08 / 3:30 PM
+    - 4-10-08 / 11:01 AM
+    - 1-13-09 / 3:14 PM
+- Bottom Date: 6/14/14
+- Firearms Certification:
+    - Printed Name: [Blank]
+    - Case ID: 3LE-MM-KS0602
+    - 1B: 10
+    - Barcode: E6516722 (and D42C923T above it)
+- SDNY_GM_02753586
+- EFTA00029929
+
+## Notable Details / Clues
+- **Evidence Classification:** The item is classified as "General" evidence, not drugs or firearms, although a Firearms Certification section exists at the bottom (which appears unused).
+- **Duration of Custody:** The chain of custody spans approximately seven years, starting on August 7, 2007 ("8/7/07") and ending with a relinquishment on June 14, 2014 ("6/14/14").
+- **Reason for Evidence:** The initial reason recorded is "Confiscated."
+- **Redaction Privacy:** Signatures and names are heavily redacted with black ink blocks in the upper and middle sections, leaving only dates and times visible to trace the timeline.
+- **Case Number Pattern:** The Case ID "3LE-MM-KS0602" suggests a specific case filing format used by the agency (likely New York given the SDNY prefix at the bottom).
+- **Date Discrepancies:** There are two entries that look very similar ("02/08/08" and "2-08/08"), suggesting potential duplicate logging or distinct handovers close together in time.
+- **Barcode Data:** The barcode area contains alphanumeric strings "E6516722" and "D42C923T", which likely correspond to inventory tracking numbers for the evidence bag or locker.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a standard forensic document titled "EVIDENCE CHAIN OF CUSTODY." It is a grid-based form used to track the transfer of physical evidence between individuals or agencies. The upper section of the form is heavily redacted with a large black rectangle, obscuring specific signatures and agency names for the first few entries. Despite the redaction, a column on the far right contains handwritten dates and times corresponding to the top entries. Below the redaction, the form presents multiple empty rows ready for data entry, featuring alternating gray headers distinguishing "Relinquished Custody" from "Accepted Custody." The footer contains administrative details including a Case ID, an IB number, and a handwritten barcode sequence. A warning note at the very bottom indicates the form is incomplete without a reference to form FD-1087. Two distinct alphanumeric codes appear in the bottom right corner, likely internal processing or database tracking numbers.
+
+## Visible Text (verbatim)
+*   **Header:** EVIDENCE CHAIN OF CUSTODY
+*   **Handwritten Entries (Right Column):**
+    *   Date and Time
+    *   [Illegible Date] 3:00
+    *   Date and Time
+    *   [Date resembling 6/24/19 or 9/24/19] 9:10
+    *   Date and Time
+    *   [Date resembling 9/28/19] 2:20
+*   **Column Headers (Repeated):** Relinquished Custody, Date and Time, Accepted Custody, Date and Time
+*   **Row Labels:** Signature:, Printed Name/Agency:, Reason:
+*   **Footer Left:** Case ID: 31E-MM-108062
+*   **Footer Middle:** IB: 10
+*   **Footer Right:** Barcode: [Scrawled text] E6516712
+*   **Bottom Warning:** This form is incomplete without reference to the FD-1087.
+*   **Bottom Right Corner Codes:** SDNY_GM_02753587, EFTA00029930
+
+## Notable Details / Clues
+*   **Redaction Scope:** A massive black box covers approximately the top third of the form, suggesting sensitive personal information or preliminary custody steps have been intentionally hidden.
+*   **Handwritten Dates:** The dates in the right-hand column appear to be from 2019 (ending in /19). Specific visible fragments include a time of "3:00", "9:10", and "2:20".
+*   **Empty Grid Structure:** The majority of the document consists of empty rows labeled "Signature," "Printed Name/Agency," and "Reason," indicating this is either a template for multiple transfers or a form waiting to be filled out.
+*   **Case ID Format:** The case ID "31E-MM-108062" suggests a specific agency coding system, possibly the FBI (FBI often uses MM prefixes).
+*   **Reference Form:** The text explicitly mentions "FD-1087," which is likely a related document or checklist required to finalize this custody report.
+*   **Barcode Overwrite:** The printed barcode field has been overwritten by handwriting ("E6516712"), possibly for an asset tracking system or a different database lookup.
+*   **Paper Quality:** The document shows slight wrinkling and shadowing on the right edge, suggesting it is a physical sheet of paper (likely 8.5x11) scanned into digital format.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FD-597 (Rev 8-11-94)                                                                                                   Page     1   of    1
+
+UNITED STATES DEPARTMENT OF JUSTICE
+FEDERAL BUREAU OF INVESTIGATION
+Receipt for Property Received/Returned/Released/Seized
+
+File #          31E-MM-108062-1810
+
+On (date)               08/07/2007
+
+                                                                                     item(s) listed below were:
+                                                                                         [x] Received From
+                                                                                          [ ] Returned To
+                                                                                          [ ] Released To
+                                                                                          [ ] Seized .
+
+(Name)             [REDACTED]
+(Street Address)   [REDACTED]
+(City)             [REDACTED]
+
+Description of Item(s): 1) BOOK - MASSAGE FOR DUMMIES
+
+
+Received          [REDACTED]                           Received From     [REDACTED]
+
+SDNY_GM_02753588                                                                                      EFTA00029931
+
+## Structured Fields
+*   **Date:** 08/07/2007
+*   **File #:** 31E-MM-108062-1810
+*   **Organization:** UNITED STATES DEPARTMENT OF JUSTICE, FEDERAL BUREAU OF INVESTIGATION
+*   **Document Type:** Receipt for Property Received/Returned/Released/Seized (Form FD-597)
+*   **Item Description:** BOOK - MASSAGE FOR DUMMIES
+*   **Status:** Received From
+

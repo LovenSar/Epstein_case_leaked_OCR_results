@@ -1,0 +1,65 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008474.pdf ts=2026-03-09T07:20:29 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an open brown cardboard box resting on a speckled granite or terrazzo countertop. The box lid is flipped open at the top of the frame. Inside the box are two clear plastic clamshell cases containing data media (likely LTO tapes) and a stack of paperwork underneath. A thin brown string cord is looped over the paperwork at the bottom.
+
+The box lid features black stamped text near the center, oriented upside down relative to the bottom of the box. The branding reads "SMEAD" with a logo, followed by "No. 71055" and the phrase "KEEPING YOU ORGANIZED". There are also recycling symbols and safety warnings printed on the lid.
+
+The left plastic case contains a label with a red header strip reading "EVIDENCE" in black capital letters (partially cut off at the top edge of the case). Below the red strip is a yellow warning banner stating "protected data. This media should not be viewed on or introduced into any unauthorized computer system." The main white label identifies the contents as belonging to the "FBI-NY Computer Analysis Response Team" with the ID "90A-NY-3151227". It is labeled "TAPE 01 of 02" and dated "07/23/2021". There is a handwritten initial that looks like an "R". A handwritten number "53" is prominent next to the ID "NYC026022 - 1B". The description text at the bottom reads: "Description: Two (2) Ultrium LTO-6 tapes containing the CART Network archive of video images taken from MCC-NY video Recorder hard drives, as of 06/21/2021. Master Copy." A yellow footer strip reads "FOR OFFICIAL USE ONLY - LAW ENFORCEMENT SENSITIVE".
+
+The right plastic case is positioned to the right of the first one but appears inverted (upside down) relative to the viewer. The red header strip now appears at the bottom of the label face, with the word "EVIDENCE" and "FEDERAL BUREAU OF INVESTIGATION" visible in an inverted orientation. The white label underneath is also upside down. Visible text includes "TAPE 02 of 02", the date "07/23/2021", and a handwritten initial "R". The ID "NYC026022 - 1B" and the handwritten number "53" are also visible, though inverted.
+
+Underneath the tape cases lies a stack of white documents. The top document is an "EVIDENCE CHAIN OF CUSTODY" form (FD-1004). The date "10/13/2023" is visible in the top right corner of this form (which is actually the bottom of the physical sheet). Columns for signatures and dates are visible, including headers for "Relinquished Custody," "Date and Time," and "Accepted Custody." A brown plastic string or cord rests loosely on top of these papers.
+
+## Visible Text (verbatim)
+**Lid of Box:**
+*   SMEAD
+*   KEEPING YOU ORGANIZED
+*   No. 71055
+*   Recycle logo / Safety warnings (inverted)
+
+**Left Tape Case Label:**
+*   EVIDENCE
+*   protected data. This media should not be viewed on or introduced into any unauthorized computer system.
+*   FBI-NY Computer Analysis Response Team
+*   90A-NY-3151227
+*   TAPE 01 of 02
+*   07/23/2021
+*   Init: R [Handwritten]
+*   NYC026022 -
+*   1B 53 [Handwritten]
+*   Description: Two (2) Ultrium LTO-6 tapes containing the CART Network archive of video images taken from MCC-NY video Recorder hard drives, as of 06/21/2021. Master Copy.
+*   FOR OFFICIAL USE ONLY - LAW ENFORCEMENT SENSITIVE
+
+**Right Tape Case Label (Inverted):**
+*   EVIDENCE [Upwards]
+*   FEDERAL BUREAU OF INVESTIGATION [Upwards on red strip which is inverted]
+*   Description: Two (2) Ultrium LTO-6 tapes containing the CART Network archive of video images taken from MCC-NY video Recorder hard drives, as of 06/21/2021. Master Copy. [Inverted]
+*   TAPE 02 of 02
+*   07/23/2021
+*   Init: R [Handwritten]
+*   NYC026022 -
+*   1B
+*   53 [Handwritten]
+
+**Paperwork (FD-1004):**
+*   FD-1004
+*   10/13/2023
+*   FEDERAL BUREAU OF INVESTIGATION
+*   EVIDENCE CHAIN OF CUSTODY
+*   Signature:
+*   Date and Time
+*   Relinquished Custody
+*   Accepted Custody
+
+## Notable Details / Clues
+*   **Date Discrepancy:** The tape cases are dated July 23, 2021, describing data as of June 21, 2021. However, the chain of custody form underneath is dated October 13, 2023, suggesting these items were logged or transferred significantly later than when they were created.
+*   **Master Copy Status:** The label explicitly states "Master Copy," indicating this is an archival set rather than a working investigative copy.
+*   **Handwritten Annotation:** The number "53" is handwritten in black ink on both tape labels, possibly a case number or inventory index.
+*   **FBI-NY Team:** The labeling indicates the New York field office of the FBI's Computer Analysis Response Team (CART).
+*   **Storage Medium:** The items are Ultrium LTO-6 tapes, which are optical magnetic tape storage media commonly used for large-scale data archival.
+*   **String Bag:** A brown string cord is visible, likely intended to secure the box lid once closed.
+*   **Security Warnings:** Multiple layers of security warnings are present, including "LAW ENFORCEMENT SENSITIVE" and warnings against viewing on unauthorized systems.
+

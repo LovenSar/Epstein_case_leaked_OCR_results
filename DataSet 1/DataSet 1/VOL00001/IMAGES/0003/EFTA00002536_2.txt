@@ -1,0 +1,42 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002536.pdf ts=2026-03-05T20:54:35 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of a 3.5-inch internal hard drive installed in a metal drive caddy (tray). The primary object is a Western Digital (WD) Gold series hard drive, characterized by its distinctive gold-colored metallic protective shield covering the platter area. A white paper label is adhered centrally to this gold shield, displaying product specifications and serial information. To the right side of the frame, the black plastic structural component of the caddy is visible, housing the SATA connector cover and locking mechanism. Along the top edge of the drive faceplate, there are several black rubber-mounted screw posts or vibration dampeners, which typically attach to the rear of a caddy but appear here along the top edge, possibly indicating a specific mounting configuration or a view of the caddy's rear assembly flipped upwards. The background is a neutral, dark grey surface with minor scuffs.
+
+## Visible Text (verbatim)
+*   **Label Top Right:** "2.0TB"
+*   **Logo/Brand:** "WD Gold" (inside hexagon logo) and below it "Datacenter Hard Drive".
+*   **Main Label Block:**
+    *   "WD Gold"
+    *   "SATA / 128MB Cache"
+    *   "WD2005FBYZ"
+    *   "MDL: WD2005FBYZ-01YCBB1"
+    *   "S/N : WM6GN0FSWLPM"
+    *   "DATE : 30 DEC 2016"
+    *   "Product warranty will be void if seal, label or cover is removed or damaged. Do not cover..."
+    *   "DCX: HHRNNTJCH" (or similar alphanumeric code)
+    *   "5VDC: 0.88A"
+    *   "12VDC: 0.55A"
+    *   "LBA: 3907029168"
+    *   "R/N: 800042" (approximate)
+*   **Left Side of Label:**
+    *   "Gold" (in hexagon)
+    *   "WD Gold™"
+    *   "Datacenter Hard Drive"
+    *   Regulatory logos: UL, CE, RoHS, WEEE symbol.
+    *   "Product of Malaysia".
+*   **Handwritten Marking:** The number "1" is written in black marker near the top left corner of the drive.
+*   **Bottom Left Area:** "A12" printed on the gold shield near a screw hole.
+
+## Notable Details / Clues
+*   **Drive Identification:** The model number `WD2005FBYZ` confirms it is a 2TB WD Gold enterprise-class hard drive.
+*   **Manufacturing Date:** The label indicates the drive was manufactured on December 30, 2016.
+*   **Series Feature:** The gold color of the metal shield is the signature aesthetic feature of Western Digital's "Gold" series drives (now often referred to as WD Green with Gold plating or similar enterprise lines).
+*   **Regulatory Compliance:** Standard global compliance markings are visible, including UL safety approval, CE marking for Europe, and RoHS compliance.
+*   **Handwritten Annotation:** A black marker "1" is present on the drive cover, likely used for inventory tracking or technician identification.
+*   **Caddy Assembly:** The presence of the black plastic frame on the right and the screw posts at the top suggests a standard hot-swappable drive bay caddy used in servers or storage arrays.
+*   **Power Consumption:** The label lists power requirements: 0.88A at 5VDC and 0.55A at 12VDC, indicating an energy-efficient design typical for enterprise use.
+*   **Serial Number:** The specific serial number `WM6GN0FSWLPM` allows for precise tracking of the unit's production batch.
+

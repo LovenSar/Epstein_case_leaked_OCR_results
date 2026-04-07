@@ -1,0 +1,67 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024622.pdf ts=2026-03-16T12:16:32 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- A large, solid black vertical rectangle occupies the entire left portion of the frame, spanning nearly 100% of the image height.
+- This black bar extends horizontally from the far-left edge to approximately the 25% mark of the total image width.
+- The background is a stark, uniform white space that fills the remaining right two-thirds of the image.
+- A minute, solid black square shape protrudes slightly outward from the right edge of the large vertical bar.
+- This small square is positioned vertically in the upper third of the black bar, roughly 20% down from the top edge.
+- The edges of the large black rectangle appear sharp and straight, typical of digital masking or redaction.
+- There are no gradients, textures, or shading within the black shapes; they are pure flat black (#000000).
+- No other graphical elements, people, or objects are visible in the scene.
+
+## Visible Text (verbatim)
+- EFTA00024622 (located in the bottom right corner)
+
+## Notable Details / Clues
+- The large black bar strongly resembles a redaction box used to conceal sensitive information in official documents.
+- The ID string "EFTA" suggests this document is associated with the European Free Trade Association.
+- The small protruding square is anomalous and may indicate a scanning artifact, a page number stamp remnant, or a graphical error during the redaction process.
+- The aspect ratio of the main black shape implies it covers a significant amount of text, potentially several pages worth of content if this were a single paneled image.
+- The high contrast (pure black on pure white) suggests a binary mask was applied rather than a colored overlay.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+-   **Dominant Feature:** A massive, solid black vertical rectangle occupies the left-hand side of the frame. It is positioned flush with the top edge and extends downward, terminating near the bottom third of the image.
+-   **Secondary Shape:** Situated directly beneath the main vertical block, separated by a significant white gap, is a small, detached horizontal black line. This line is centered horizontally relative to the upper block but floats independently in the lower-left quadrant.
+-   **Geometry and Alignment:** The large rectangle appears perfectly rectangular with sharp, straight edges. The smaller line at the bottom is also a perfect rectangle, much shorter in width than its height counterpart above.
+-   **Color Palette:** The image relies strictly on high contrast binary colors: pure black for the shapes and text, and pure white for the background. There are no gradients, shadows, or grayscale transitions.
+-   **Background Texture:** The background is a flat, uniform white surface with no visible noise, texture, or paper grain.
+-   **Proportions:** The main black block is extremely tall, suggesting it covers the majority of the vertical space available in the document layout. The aspect ratio of this block is roughly 3:1 (height to width).
+-   **Layout Composition:** The composition is heavily weighted to the left side, leaving approximately two-thirds of the image area as empty white space on the right.
+-   **Visual Clarity:** Despite the heavy black overlay, the underlying document structure implies a text-based layout where this overlay obscures content.
+
+## Visible Text (verbatim)
+EFTA00024623
+
+## Notable Details / Clues
+-   **Redaction Context:** The visual language—solid black bars over what appears to be a document—strongly indicates that this image is a redacted or sanitized version of a text file.
+-   **Identification Code:** The string "EFTA00024623" in the bottom right corner resembles an internal filing number, docket number, or reference code associated with the European Free Trade Association (EFTA) or a similar bureaucratic entity.
+-   **Disjointed Elements:** The small horizontal line at the bottom is structurally isolated from the large block above it, which is unusual for a standard redaction bar that would typically mask a continuous paragraph. This suggests the image might be a crop or a specific figure showing masked areas rather than full text masking.
+-   **Potential Marker:** The small line at the bottom could be interpreted as a footnote marker or a closing bracket if the original image contained an open bracket above (though the top of the main block is cut off by the frame edge).
+-   **No Metadata Visible:** No date stamps, headers, footers, or watermarks are visible outside of the reference code in the corner.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+
+EFTA00024624
+
+## Structured Fields
+- Doc ID: EFTA00024624
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Structured Fields
+*   **Doc ID**: EFTA00024625
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Structured Fields
+
+*   **Doc ID:** EFTA00024626
+

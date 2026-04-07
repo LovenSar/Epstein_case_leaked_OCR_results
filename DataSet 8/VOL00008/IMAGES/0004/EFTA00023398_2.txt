@@ -1,0 +1,114 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00023398.pdf ts=2026-03-15T21:22:57 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a screenshot of an electronic mail chain (email thread) contained within a standard email client interface. The document features a white background with black text. The layout is vertical, organizing messages chronologically in reverse order from top to bottom. The header section at the top contains redacted metadata fields labeled "From," "To," "Cc," and "Subject." A significant portion of specific names and email addresses are obscured by solid black rectangular bars (redactions). Interspersed within these black bars is the text fragment "(USANYS)" repeated multiple times, likely indicating an affiliation with a US State Attorney General or New York office. The subject line remains fully visible throughout the thread. The message body is divided into distinct sections corresponding to individual replies. The first visible message at the top is a brief confirmation. Below that, previous messages are indented or separated by grey horizontal lines. The final message at the bottom of the screen is cut off, showing only the beginning of a sentence and black redaction bars. In the bottom right corner, there is a document control number "EFTA00023398".
+
+## Visible Text (verbatim)
+
+**Header:**
+From: [Redacted] (USANYS) [Redacted]
+To: [Redacted] (USANYS) [Redacted]
+Cc: [Redacted] (USANYS)" [Redacted] (USANYS)" [Redacted] (USANYS)"
+Subject: RE: Epstein FOIA - OCME Report of Autopsy
+Date: Thu, 01 Jul 2021 15:18:18 +0000
+
+**Body Section 1:**
+Yes, all clear to release tomorrow. Thank you.
+
+**Header (Section 2):**
+From: [Redacted] (USANYS) [Redacted]
+Sent: Thursday, July 1, 2021 10:58 AM
+To: [Redacted] (USANYS) [Redacted]
+Cc: [Redacted] (USANYS) [Redacted] (USANYS) [Redacted]
+Subject: RE: Epstein FOIA - OCME Report of Autopsy
+
+**Body Section 2:**
+Sounds good and thanks.
+
+**Body Section 3:**
+Just confirming—we are all set in your view to release the production tomorrow, right? As in, we’re clear in terms of the UMR and with [Redacted] and [Redacted]? Please let us know if there is anything we need to discuss or follow up on at this stage. Thank you!
+
+**Header (Section 4):**
+From: [Redacted] (USANYS) [Redacted]
+Sent: Wednesday, June 30, 2021 12:34 PM
+To: [Redacted] (USANYS) [Redacted]
+Cc: [Redacted] (USANYS) [Redacted] (USANYS) [Redacted]
+Subject: RE: Epstein FOIA - OCME Report of Autopsy
+
+**Body Section 4:**
+OCME asked whether we could send them a copy of the redacted autopsy report. Could you please send me a copy of it on Friday so I can forward to them? Thank you!
+
+**Header (Section 5):**
+From: [Redacted] (USANYS) [Redacted]
+Sent: Tuesday, June 29, 2021 6:46 PM
+To: [Redacted] (USANYS) [Redacted]
+Cc: [Redacted] (USANYS) [Redacted] (USANYS) [Redacted]
+Subject: RE: Epstein FOIA - OCME Report of Autopsy
+
+**Body Section 5:**
+Thanks, [Redacted]. Yes, we will ask BOP to redact that photo as well.
+
+**Header (Section 6):**
+From: [Redacted] (USANYS) [Redacted]
+Sent: Tuesday, June 29, 2021 3:45 PM
+To: [Redacted] (USANYS) <[Redacted]>
+Cc: [Redacted] (USANYS) <[Redacted]> (USANYS) <[Redacted]>
+Subject: RE: Epstein FOIA - OCME Report of Autopsy
+
+**Body Section 6:**
+[Redacted] and
+
+**Footer:**
+EFTA00023398
+
+## Notable Details / Clues
+
+*   **Document Subject:** The subject line consistently reads "RE: Epstein FOIA - OCME Report of Autopsy," indicating this correspondence is part of a Freedom of Information Act (FOIA) request process regarding the autopsy report of Jeffrey Epstein and the Office of Chief Medical Examiner (OCME).
+*   **Timeline:** The emails span from Tuesday, June 29, 2021, to Thursday, July 1, 2021.
+*   **Redaction Pattern:** The text "(USANYS)" is frequently visible next to blacked-out fields. This likely stands for "United States Attorney's Office, New York Southern District" or similar jurisdictional code.
+*   **Specific Terminology:**
+    *   **"UMR":** Mentioned in one email regarding release approval, likely referring to a "Unauthorized Media Release" policy or similar internal regulation.
+    *   **"BOP":** Mentioned in an email about redacting a photo, likely referring to the Bureau of Prisons (given the Epstein context).
+*   **Action Items:** The emails track the logistics of releasing a production (documents) to a requestor, specifically coordinating with "OCME" and obtaining clearance ("all clear") by Thursday, July 1st.
+*   **Email Domains/Addresses:** While specific addresses are redacted, the recurring "(USANYS)" suggests all correspondents are government officials or legal staff in New York State.
+*   **Partial Message:** The very last visible message header corresponds to a reply sent earlier in the day (3:45 PM) compared to the others which were evening replies, showing the chronological buildup of the thread.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+I spoke with the GC of OCME, who appreciated the head’s up. One note for you all: the photo of the hyoid bone on page 12 is in fact Epstein’s hyoid bone. To the extent we’re redacting the closeup photos from page 13, shouldn’t we also redact the entire photo on page 12?
+
+Thanks,
+
+[REDACTED]
+
+From: [REDACTED] (USANYS) [REDACTED]
+Sent: Monday, June 28, 2021 5:02 PM
+To: [REDACTED] (USANYS) [REDACTED]
+Cc: [REDACTED] (USANYS) <[REDACTED]> (USANYS) [REDACTED]
+Subject: Epstein FOIA - OCME Report of Autopsy
+
+[REDACTED]
+
+Please find attached the OCME Report of Autopsy. The boxes show where there will be redactions.
+
+Thanks,
+
+[REDACTED]
+Assistant United States Attorney
+
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+EFTA00023399
+
+## Structured Fields
+- **Date**: Monday, June 28, 2021
+- **Subject**: Epstein FOIA - OCME Report of Autopsy
+- **Document ID**: EFTA00023399
+- **Organizations**: OCME (Office of the Chief Medical Examiner), USANYS, Assistant United States Attorney
+- **Topic**: Epstein hyoid bone autopsy photos redaction inquiry
+

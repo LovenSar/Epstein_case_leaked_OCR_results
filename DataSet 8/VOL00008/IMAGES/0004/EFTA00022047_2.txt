@@ -1,0 +1,126 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00022047.pdf ts=2026-03-15T05:31:52 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, likely from a litigation or legal discovery context given the subject matter. The interface shows a chronological stack of emails, though the order is slightly inverted (newest at top). Each email header contains redacted information for privacy, obscuring sender and recipient names as well as Cc fields.
+
+The thread begins at the bottom with an email sent on the morning of Wednesday, October 14, 2020. This initial message opens a request regarding "item three" of a discovery task and asks for confirmation before an "imaging process" begins.
+
+The next email in the sequence is dated 10:02 AM on the same day. It appears to be a continuation or response, though its body text is almost entirely redacted except for the opening greeting.
+
+Above that, there is an email from 10:48 AM. This sender reports an issue with a link provided to them. They explain that clicking the link directs them to a folder titled “FBI Files from Florida Office,” which contains 26,164 documents—far more than expected. The sender requests a phone call to resolve this discrepancy regarding document tags.
+
+The email above that is timestamped 12:22 PM. It appears to be an explanation or apology, possibly addressing the link issue mentioned below. The sender mentions being in the "White Plains office" physically moving hardware ("sending out a hard drive") and lacking access to their RSA token at that moment, promising to check the link upon return.
+
+The final email segment at the very top is only partially visible, showing just the phrase "Thanks very much." before the headers begin again. A document ID number is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Header Block:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Discovery Tasks for Maxwell on Epstein Relativity Databases
+Date: Wed, 14 Oct 2020 16:27:04 +0000
+
+**Body Segment 1:**
+Thanks very much.
+
+**Email Block 1:**
+From: [Redacted]
+Sent: Wednesday, October 14, 2020 12:22 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Discovery Tasks for Maxwell on Epstein Relativity Databases
+
+It is possible I sent you the wrong link. I am currently in the White Plains office sending out a hard drive for the production. I will check the link when I get back to my computer and have my RSA token.
+Thank you.
+
+**Email Block 2:**
+From: [Redacted]
+Sent: Wednesday, October 14, 2020 10:48 AM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Discovery Tasks for Maxwell on Epstein Relativity Databases
+
+Thanks [Redacted] When I click on the link you sent, it brings me to the “FBI Files from Florida Office” folder, but it appears to bring up all 26,164 documents in that folder, when the production should be a smaller number of documents bearing the tags I listed below. Are you free for a call to discuss?
+
+**Email Block 3:**
+From: [Redacted]
+Sent: Wednesday, October 14, 2020 10:02 AM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Discovery Tasks for Maxwell on Epstein Relativity Databases
+
+Good Morning [Redacted]
+
+Thank you for the e-mail. Just to confirm can you please review the below search and let me know that everything that is in the search is everything you wish to produce for item three. I want to make sure that we have everything you need before we start the imaging process.
+
+[Redacted Block]
+
+**Footer:**
+EFTA0022047
+
+## Notable Details / Clues
+*   **Subject Line Consistency:** Every email in the thread carries the subject "RE: Discovery Tasks for Maxwell on Epstein Relativity Databases," indicating a specific legal case or investigation involving "Maxwell" and the "Epstein" case (likely Jeffrey Epstein).
+*   **Legal Discovery Context:** The emails discuss "production," "tags," "search," and "imaging process," which are standard terms in e-Discovery (electronic discovery) used to sort, tag, and digitize documents for legal proceedings.
+*   **Document Volume Discrepancy:** One sender explicitly notes a folder contains "26,164 documents" when they expected a "smaller number," suggesting a potential filtering or tagging error in the database (Relativity is a specific e-discovery platform).
+*   **Physical Location:** One sender identifies their location as the "White Plains office," which corresponds to the headquarters of RelativityOne/Relativity, Inc., a major legal tech company.
+*   **Security Hardware:** The mention of an "RSA token" indicates the use of two-factor authentication or specific security clearance protocols required to access sensitive databases.
+*   **Specific Entity Names:** References are made to the "FBI Files from Florida Office," linking the discovery materials to federal investigations (FBI) and a specific regional jurisdiction (Florida), likely where Jeffrey Epstein was prosecuted.
+*   **Time Constraints:** The emails occur within a tight window (10:02 AM to 4:27 PM on Oct 14, 2020), suggesting a rapid back-and-forth regarding the technical execution of production.
+*   **Redaction Extent:** A significant portion of the data has been blacked out, likely to protect identities and privileged information, though key context remains legible.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence, predominantly featuring white space with black text and extensive redaction bars. At the very top left, the phrase "Thank you." is visible above a small black rectangular block. Below this is the standard email header section where specific fields are listed but heavily obscured. The "From" field has its name redacted with a thick black bar. The "Sent" timestamp is clearly legible as Tuesday, October 13, 2020, at 11:17 PM. The "To," "Cc," and an unnamed line below them are covered by long horizontal black bars indicating multiple or sensitive email addresses.
+
+The subject line is fully visible and references a specific legal case ("Maxwell") and technical databases ("Epstein Relativity Databases"). The body of the email begins with a paragraph thanking the recipient for a prior conversation. It requests that "three productions" be prepared for the "Maxwell case." The sender notes that the tasks are listed in the order discussed but offers flexibility to the vendor regarding efficiency. Beneath this introductory paragraph are four massive, distinct black rectangular bars that span the width of the text area, completely obscuring the list of tasks, specific instructions, or attachment filenames mentioned in the preceding sentences. At the bottom right corner of the page, a unique alphanumeric identifier "EFTA00022048" is printed in small grey font.
+
+## Visible Text (verbatim)
+*   Thank you.
+*   From [Redacted]
+*   Sent: Tuesday, October 13, 2020 11:17 PM
+*   To: [Redacted]
+*   Cc [Redacted]
+*   [Redacted Line]
+*   Subject: Discovery Tasks for Maxwell on Epstein Relativity Databases
+*   Thanks very much for speaking earlier today. As discussed, we are asking for the following three productions to be prepared for the Maxwell case. I’ve listed those tasks below in the order in which we discussed them, but, as we discussed, if you and the vendor believe a different order would be more efficient, please just let me know.
+*   EFTA00022048
+
+## Notable Details / Clues
+*   **Legal Context:** The phrase "Maxwell case" strongly implies the civil litigation regarding facial recognition technology (often referred to as *In re Facial Recognition Software Litigation*), where plaintiffs sue companies for scraping their photos.
+*   **Specific Data Source:** The mention of "Epstein Relativity Databases" indicates that the data in question is stored in a system named Relativity (a legal e-discovery software) and may be linked to surveillance or law enforcement data from the Jeffrey Epstein sex trafficking case archives.
+*   **Legal Terminology:** The use of the word "productions" is specific to legal discovery processes, referring to the formal act of providing documents or electronic data in response to a subpoena or request for information.
+*   **Timing:** The email was sent late at night (11:17 PM), which might suggest urgency or that it was sent immediately after a day-long conference call.
+*   **Redaction Strategy:** The black bars are solid and uniform, typical of privacy filters applied to documents before public release or for internal security classification, hiding personal identifiers and specific data extraction requests.
+*   **Vendor Communication:** The text implies a professional relationship between the sender (likely an attorney or legal team) and a "vendor" (a forensic imaging company or IT firm capable of extracting data from Relativity).
+*   **Order Flexibility:** The sender explicitly invites the vendor to rearrange tasks if a "different order would be more efficient," suggesting these are complex technical extraction tasks.
+*   **Document ID:** The code "EFTA00022048" at the bottom suggests this document is part of a government or large organization record-keeping system, possibly related to an Electronic Freedom of Information Act (FOIA) request or internal case management.
+*   **Subject Complexity:** The subject line combines two major high-profile investigations: the "Maxwell case" (privacy/facial recognition) and "Epstein Relativity Databases" (surveillance/tracking), suggesting a cross-over investigation into how personal data from one source is used in another context.
+*   **Visual Layout:** The large black boxes indicate that the most critical information—the specific instructions or technical parameters for data extraction—is missing or intentionally withheld from this view of the document.
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+As we’ve discussed, we need all of these materials to be delivered to 1 St. Andrews by the end of October in order to meet our discovery deadline.
+
+Finally, I believe [REDACTED] should be sending you a drive containing the scans of boxes of files from the USAO-SDFL. We need all of those files loaded into the US v Epstein database on Relativity in a new folder entitled “USAO-SDFL Files,” ASAP so that we can review them, please.
+
+Thanks very much, as always for your help, and please do not hesitate to reach out if there are any questions or confusion. I’m always happy to chat.
+
+Thanks so much,
+[REDACTED]
+
+EFTA00022049
+
+## Structured Fields
+*   **Date:** End of October
+*   **Location:** 1 St. Andrews
+*   **Case/Database:** US v Epstein database
+*   **Organization:** USAO-SDFL, Relativity
+*   **Folder Name:** “USAO-SDFL Files”
+*   **Document ID:** EFTA00022049
+

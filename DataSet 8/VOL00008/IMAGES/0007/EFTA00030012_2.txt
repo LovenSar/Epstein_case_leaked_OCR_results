@@ -1,0 +1,47 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00030012.pdf ts=2026-03-18T14:50:14 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "Strauss, Audrey (USANYS)" [REDACTED]
+To: [REDACTED]
+Subject: RE: Let's not forget
+Date: Wed, 01 Jul 2020 13:36:29 +0000
+
+thanks
+----Original Message----
+From: [REDACTED]
+Sent: Tuesday, June 30, 2020 10:34 PM
+To [REDACTED]
+Cc: Strauss, Audrey (USANYS) [REDACTED]
+Subject: Re: Let’s not forget
+
+The number is 1-800-CALL-FBI.
+
+Sent from my iPhone
+
+> On Jun 30, 2020, at 9:56 PM, [REDACTED] wrote:
+> Will do. Thanks, Audrey.
+>
+>> On Jun 30, 2020, at 9:45 PM, Strauss, Audrey (USANYS) <[REDACTED] wrote:
+> >
+>> We need the telephone number I need to announce per the press remarks.
+>> For some reason that was hard to get from FBI for Epstein.
+>> Sent from my iPhone
+
+## Structured Fields
+- **Date**: Wed, 01 Jul 2020 / Tuesday, June 30, 2020 / Jun 30, 2020
+- **From/Sender**: Strauss, Audrey (USANYS); Unknown
+- **To/Recipient**: [REDACTED]
+- **Subject**: RE: Let's not forget / Re: Let’s not forget
+- **Phone Number**: 1-800-CALL-FBI
+- **Document ID**: EFTA00030012
+- **Mentioned Orgs/Names**: FBI, Epstein, USANYS
+
+## Notes & Observations
+- The email from Audrey Strauss contains a redacted "To" field in both the header and the quoted original message.
+- A phone number (1-800-CALL-FBI) is provided for reporting child exploitation cases.
+- The email references difficulty obtaining information from the FBI regarding Jeffrey Epstein.
+- Email client formatting results in inconsistent quoting arrows (`>` vs `>>` and `> >`).
+
+<ctrl:plugin:web_search>
+

@@ -1,0 +1,237 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00011078.pdf ts=2026-03-10T09:55:47 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, specifically an email header and footer section that has been heavily redacted. The layout consists of a white background with black text at the top and bottom, while the central vertical portion is obscured by numerous solid black rectangular bars.
+
+At the very top left, the standard email client headers are partially visible. The "From" field identifies the sender as Chris DiIorio, though his full email address is immediately covered by a thick black box. Directly beneath this, the "To:" field is visible, followed immediately by a long list of redacted entries.
+
+The central body of the image consists of approximately 40 to 50 horizontal black bars stacked vertically. These bars represent redacted content, likely a bulk email address list (carbon copy or blind carbon copy fields) given their length and repetitive nature. The right edges of these bars are uneven, corresponding to the varying lengths of the hidden text strings (likely different email addresses).
+
+At the bottom of the page, the original sender's information is displayed in a standard font, appearing as both a quoted string and an angle-bracketed address: `"m.piwowar@milkeninstitute.com" <m.piwowar@milkeninstitute.com>`. Below this technical line is the "Subject" line of the forwarded email. In the bottom right corner, a unique alphanumeric document identifier is printed in smaller font.
+
+## Visible Text (verbatim)
+- **From:** `Chris DiIorio <` (text cut off by redaction box)
+- **To:** `[Redacted]`
+- **[Body Redactions]**: Approximately 45 black bars obscuring text.
+- **Original Sender Line:** `"m.piwowar@milkeninstitute.com" <m.piwowar@milkeninstitute.com>`
+- **Subject:** `Subject: Fw: Apollo/ Epstein/Kushner connection`
+- **Document ID:** `EFTA00011078` (located in bottom right corner)
+
+## Notable Details / Clues
+- **Redaction Pattern:** The central area is not redacted with text or specific data, but with solid black bars of varying lengths. This strongly suggests a privacy filter applied to a list of email addresses intended for recipients ("CC" or "BCC" fields).
+- **Subject Line Context:** The subject line `Fw: Apollo/ Epstein/Kushner connection` indicates this is a forwarded message. The keywords suggest a business or political inquiry involving Apollo Global Management, Jeffrey Epstein, and Jared Kushner (likely referencing real estate developments or financial connections).
+- **Sender Identity:** Chris DiIorio is known to be associated with the Milken Institute, which is corroborated by the reply-to address `m.piwowar@milkeninstitute.com`.
+- **Document Provenance:** The ID code `EFTA00011078` in the corner suggests this image may come from a specific archive or legal document retrieval system (possibly related to FOIA requests or public records).
+- **Email List Length:** The sheer number of black bars implies a mass mailing list, suggesting the original email was sent to a large group of subscribers.
+- **Partial Header:** The "From" line is cut off mid-email address (`DiIorio <`), indicating the redaction box specifically targets the contact details for privacy or security reasons.
+- **Forwarded Message:** The "Fw:" prefix in the subject confirms this screenshot is not the original composition of the email but rather a chain mail that has been forwarded at least once.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Date: Sun, 14 Apr 2019 19:04:05 +0000
+
+A little Steffie Avakian//Heiss/O'Melveny/Wilmer Hale/ Apollo/Kushner Home Cooking!
+https://www.omm.com/professionals/howard-e-heiss/
+
+[Image Placeholder]
+Howard E. Heiss - O'Melveny & Myers
+
+Howard Heiss has an extensive litigation practice focused on government regulatory investigations and enforcement actions, grand-jury investigations, and the defense of clients in criminal cases, with a particular emphasis on securities matters.
+
+www.omm.com
+
+https://www.sec.gov/Archives/edgar/data/1411494/000119312508077312/ds1.htm
+
+Form S-1 - SEC.gov
+
+Table of Contents. The information in this prospectus is not complete and may be changed. The securities may not be sold until the registration statement filed with the Securities and Exchange Commission is effective.
+
+www.sec.gov
+
+https://www.wilmerhale.com/en/people/jamie-gorelick
+
+Jamie Gorelick | WilmerHale
+
+Jamie Gorelick's career has spanned the legal, policy and corporate landscapes. As one of Washington's best-known litigators, Ms. Gorelick has represented corporations and individuals in a wide array of matters, particularly in the regulatory and enforcement arenas, involving issues as diverse as antitrust, environmental regulation, securities enforcement, national security regulation, etc.
+
+www.wilmerhale.com
+
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale
+
+EFTA00011079
+
+## Structured Fields
+*   **Date**: Sun, 14 Apr 2019 19:04:05 +0000
+*   **Case ID/Reference**: EFTA00011079 (Footer)
+*   **Names**: Steffie Avakian, Howard E. Heiss, Jamie Gorelick, Robert Mueller III (in link text)
+*   **Organizations**: O'Melveny & Myers (Heiss), Apollo Kushner, Wilmer Hale, SEC.gov
+*   **Document IDs**: 1411494 (SEC EDGAR filing ID in URL), ds1.htm (Filing document name)
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital document or email interface containing news snippets and an angry message regarding regulatory investigations. At the top, there is a light gray-bordered box announcing that former FBI Director Robert Mueller III has joined the law firm WilmerHale as a partner. The text notes his tenure as the sixth Director starting after September 11. To the left of this text is a broken image icon indicating a missing file. Below this section is a blue hyperlink to Stephanie Avakian's biography on SEC.gov, followed by another gray-bordered box detailing her appointment as Co-Director of the SEC’s Division of Enforcement.
+
+Below these informational cards is the primary message content, which appears to be an email or a forwarded message. It features a headline claiming the SEC dropped an investigation into Apollo Global Management after a meeting with Keith "Kush" Ellison at the White House and alleging financial transfers. The text questions if this information is missing, signs off with "Cheers!", and then aggressively labels recipients as "corrupt fucking scumbags," signed by Christopher Dilorio. A horizontal rule separates the message body from the email header fields.
+
+The header section lists the sender as Chris Dilorio, sent on a Saturday in April 2019. The "To:" field is completely obscured by a thick black bar. Beneath this, a dense stack of approximately fifteen to twenty varying-length black bars covers what would normally be the body of the email or the full recipient list, indicating significant redaction. A small alphanumeric code, EFTA0011080, is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Section:**
+Former Director of the FBI Robert Mueller III
+Joins WilmerHale
+WilmerHale is pleased to announce that Robert S. Mueller III is
+joining the firm as a partner after serving as the sixth Director of
+the Federal Bureau of Investigation (FBI), a position he took one
+week prior to the September 11 attacks and held for 12 years
+under two presidents.
+www.wilmerhale.com
+
+**Middle Link:**
+https://www.sec.gov/biography/avakian-stephannie
+
+**SEC Bio Box:**
+SEC.gov | Stephanie Avakian
+Stephanie Avakian was named Co-Director of the U.S. Securities and Exchange Commission’s Division of
+Enforcement in June 2017, after serving as Acting Director since December 2016.
+www.sec.gov
+
+**Email Body:**
+SEC drops Apollo investigation after Kush Jr met with Harris at the WH
+and Apollo gives Kush's some $$$$
+And, Apollo gets $60 bil+ in inflows in 2018
+Did I miss something?
+Cheers!
+You corrupt fucking scumbags
+Christopher Dilorio
+
+**Email Header:**
+From: Chris Dilorio
+Sent: Saturday, April 13, 2019 11:30 AM
+To: [Redacted]
+
+**Footer:**
+EFTA0011080
+
+## Notable Details / Clues
+- The inclusion of the Robert Mueller and Stephanie Avakian text appears to be automated "suggested reading" or news feeds often found in modern email clients (like Outlook Web Access) rather than part of the actual user message.
+- The phrase "Kush Jr" refers to Keith Ellison, a prominent lawyer known for political advocacy.
+- The phrase "gives Kush's some $$$$" implies a financial transfer or settlement related to the legal matter mentioned.
+- "$60 bil+ in inflows in 2018" is a specific statistical claim about Apollo Global Management's investment performance.
+- The timestamp indicates the email was sent on a weekend (Saturday), which might suggest a break from routine work communication or an urgent alert sent outside business hours.
+- The aggressive language ("scumbags") and the redaction of recipients suggest this message may have been intended for a specific group of critics or forwarded to many parties before the screenshot was taken.
+- The broken image icon at the top left suggests a low-res capture or a failed upload within the email client interface.
+- The code in the bottom right (EFTA0011080) likely serves as an internal tracking number or case ID for the organization that captured this document.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+[REDACTED]
+Subject: Apollo/ Epstein/Kushner connection
+
+Find a shell
+Find a fraud
+Enviromental Solutions Worldwide Inc
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001082278&owner=exclude&count=40&hidefilings=0
+Florida?
+Pennsylvania?
+or
+Canada?
+Welcomed on Cromwell/Wimpfheimer OTCM
+De registered in 2015 and Frozen in time
+Literally
+http://eswgroup.com/esw-group-corporate/our-board/
+
+[IMAGE: Placeholder for 'Our Board - ESW Group®']
+Our Board - ESW Group®
+MARK YUNG Mr. Yung is Co-Founder and Managing Principal of OCV Management, LLC (“OCV”), an investor, owner and operator of technology and life science companies based in Los Angeles. Previously, Mr. Yung was a Managing Director at Orchard Capital Corp., a firm he joined in 2006. Through his affiliation with [...]
+eswgroup.com
+
+Dozens of filings by former Milken (ahem) right hand man Leon Black, Apollo, his family Trust, et al
+Then,
+There's this:
+Has anyone (anyone) ever seen Pedophile Jeffrey Epstein on the other side of a trade?
+The ONLY SEC filing of Epsteins' Financial Trust Company Inc is in........
+wait for it.........
+Leon Black/Apollo Environmental Solutions Worldwide
+https://www.sec.gov/Archives/edgar/data/1082278/000090901211000390/0000909012-11-000390-index.htm
+
+Enter the Amicus blocking release of Epstein docs
+Krieger, Kim and Lewin
+https://www.kklilp.com/
+
+[BOX CONTENTS]
+Krieger Kim & Lewin LLP
+We are committed to providing the highest level of partner-driven representation in order to efficiently achieve client objectives. Over the last decade, we have conducted and supervised dozens of federal
+EFTA00011081
+
+## Structured Fields
+- **Names:** Mark Yung, Leon Black, Jeffrey Epstein, Milken, Krieger Kim and Lewin
+- **Organizations:** Apollo, Financial Trust Company Inc, Environmental Solutions Worldwide Inc (Enviromental Solutions Worldwide Inc), OCV Management LLC, Orchard Capital Corp., ESW Group, Cromwell/Wimpfheimer OTCM
+- **Locations:** Florida, Pennsylvania, Canada, Los Angeles
+- **Dates/IDs:** 2015 (De registered), CIK=0001082278
+- **Links:** SEC EDGAR filing links, ESW Group board page, K&L Gates/Krieger Kim & Lewin website
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+criminal trials involving some of the highest profile and most sensitive matters prosecuted by the United States Government
+www.kklllp.com
+
+Financial fraud appears to be a specialty of this recently formed/SDNY Alum firm
+
+Now,
+it gets VERY interesting
+https://www.cnbc.com/2018/02/28/apollo-citigroup-loaned-kushner-companies-millions-new-york-times.html
+
+Trump: Kushner's security clearance is up to Kelly
+Kushner even discussed the possibility of a White House job for the founder of private equity firm Apollo, the New York Times reported on Tuesday.
+www.cnbc.com
+
+Where another Milken protégé/Apollo founding partner Josh Harris was considered for a White House job
+"Coindences"
+https://nypost.com/2018/03/02/sec-dropped-probe-month-after-firm-aided-kushner-company/
+
+SEC dropped probe month after firm aided Kushner company
+The feds last year dropped an investigation into a financial company a month after the firm gave Jared Kushner’s family real estate business a $180 million loan, a new report said Friday.
+There ...
+nypost.com
+
+Oh, baby
+$60 billion+ inflows in 2018 for Apollo
+https://www.businesswire.com/news/home/20180802005343/en/Apollo-Global-Management-LLC-Reports-Quarter-2018
+
+EFTA00011082
+
+## Structured Fields
+
+*   **Dates:** 2018/02/28, 2018/03/02, Friday
+*   **Names:** Jared Kushner, Josh Harris, Kelly (referring to FBI Director position context)
+*   **Organizations:** United States Government, SDNY, Apollo Global Management, The New York Times, CNBC, SEC, NY Post, Milken, Businesswire
+*   **Doc IDs:** EFTA00011082, www.kklllp.com
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Apollo Global Management, LLC Reports
+Second Quarter 2018 Results | Business Wire
+NEW YORK--(BUSINESS WIRE)--Apollo Global Management, LLC (NYSE:APO) (together with its consolidated subsidiaries, "Apollo") today reported results for the second quarter ended June 30, 2018.
+www.businesswire.com
+
+Mr's Krieger,Kim,Boltz et al:
+Discovery will be a hoot!
+
+Fucking A
+I am good
+Cheers!
+Christopher Dilorio
+[REDACTED]
+
+## Structured Fields
+- **Organization**: Apollo Global Management, LLC (NYSE:APO)
+- **Date**: Second Quarter 2018, June 30, 2018
+- **Location**: NEW YORK
+- **Recipient Names**: Mr's Krieger, Kim, Boltz et al.
+- **Sender Name**: Christopher Dilorio
+- **Document ID**: EFTA00011083
+

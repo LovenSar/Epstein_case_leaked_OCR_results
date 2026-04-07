@@ -1,0 +1,143 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032783.pdf ts=2026-03-19T20:29:04 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+The image displays a vertical stack of five distinct email headers and body text excerpts, resembling a legal discovery dump or an email threading view. Most personal data has been redacted with thick black bars, leaving only specific metadata visible. The document appears to be related to a United States federal case, specifically "US v. Maxwell," involving the Southern District of New York (indicated by the recurring "(USANYS)" tag).
+
+1.  **Top Email Header:** This section shows headers including `From`, `To`, `Cc`, `Subject`, `Date`, and `Attachments`. The sender's email is redacted, but the recipients include a USANYS address. The subject line concerns a "Request for 120 or 180-day Adjournment of Trial." Two specific Word document attachments are listed with partial filenames visible.
+2.  **Body Text (Top):** The body begins with "Thanks very much," followed by redacted text. It mentions attaching a "revised draft" and a "draft sealed letter informing AJN."
+3.  **Second Email Header:** Dated Thursday, April 22, 2021, at 3:06 PM. This email also has `(USANYS)` recipients and Cc fields.
+4.  **Body Text (Second):** The text is polite ("this is well done") and mentions that edits are attached. A significant portion of the paragraph detailing specific suggestions is redacted with long black bars. It ends with an offer to look at another version before filing.
+5.  **Third Email Header:** Dated Thursday, April 22, 2021, at 1:32 PM. This is a shorter message with standard `From`, `To`, `Cc`, and `Subject` fields. The body text is minimal, simply stating "Draft response attached."
+6.  **Fourth Email Header:** Dated Thursday, April 22, 2021, at 12:14 PM. The subject line starts with "FW:" indicating it is a Forwarded message.
+7.  **Body Text (Fourth):** Very brief text stating "FYI. Our response is due at 5 today."
+8.  **Fifth Email Header (Bottom):** Dated Thursday, April 22, 2021, at 11:22 AM. This is the oldest email in the thread chronologically based on timestamps. The sender is identified as "Laura Menninger."
+9.  **Recipient List (Bottom):** The `Cc` field in this bottom section reveals two specific names: "Jeff Pagliuca" and "Bobbi Sternheim," alongside heavily redacted USANYS addresses.
+10. **Footer:** In the bottom right corner, there is an alphanumeric string "EFTA00032783," which is likely a Bates number or a document tracking ID associated with legal proceedings.
+
+## Visible Text (verbatim)
+
+**Block 1:**
+From: "[REDACTED]" <[REDACTED]>
+To: "[REDACTED] (USANYS)" <[REDACTED]>; "[REDACTED] (USANYS)" <[REDACTED>,"[REDACTED]"
+Cc: "[REDACTED] (USANYS)" <[REDACTED>,"[REDACTED]"
+Subject: RE: US v. Maxwell - [Request for 120 or 180-day Adjournment of Trial]
+Date: Thu, 22 Apr 2021 20:09:31 +0000
+Attachments: 2021-04-22 Gov't letter re GM request_for_adjournment_v4.docx; 2021-04-22 [REDACTED] letter_re[REDACTED]_- _request_to_file_under_seal.docx
+
+**Block 2:**
+Thanks very much, [REDACTED]. Attached please find a revised draft incorporating your edits. I’ve also attached a draft sealed letter informing AJN of [REDACTED].
+
+From: [REDACTED] (USANYS) <[REDACTED]>
+Sent: Thursday, April 22, 2021 3:06 PM
+To: [REDACTED]) <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+(USANYS) <[REDACTED]>
+Cc: [REDACTED] (USANYS) <[REDACTED>; [REDACTED] <[REDACTED>
+Subject: RE: US v. Maxwell - [Request for 120 or 180-day Adjournment of Trial]
+Thanks [REDACTED], this is well done, and my edits are attached. As you’ll see, I suggested [REDACTED]
+[REDACTED]
+[REDACTED]
+Happy to look at another version before filing, thanks very much.
+
+**Block 3:**
+From: [REDACTED]) <[REDACTED]>
+Sent: Thursday, April 22, 2021 1:32 PM
+To: [REDACTED] <[REDACTED>; [REDACTED] (USANYS) <[REDACTED>; [REDACTED]
+(USANYS) <[REDACTED>
+Cc: [REDACTED] (USANYS) <[REDACTED>; [REDACTED] <[REDACTED>
+Subject: RE: US v. Maxwell - [Request for 120 or 180-day Adjournment of Trial]
+Draft response attached.
+
+**Block 4:**
+From: [REDACTED]) <[REDACTED]>
+Sent: Thursday, April 22, 2021 12:14 PM
+To: [REDACTED] (USANYS) <[REDACTED>; [REDACTED] (USANYS) <[REDACTED>
+Cc: [REDACTED]) <[REDACTED>; [REDACTED] (USANYS) <[REDACTED>
+Subject: FW: US v. Maxwell - [Request for 120 or 180-day Adjournment of Trial]
+FYI. Our response is due at 5 today.
+
+**Block 5:**
+From: Laura Menninger <[REDACTED]>
+Sent: Thursday, April 22, 2021 11:22 AM
+To: [REDACTED]
+Cc: [REDACTED]) <[REDACTED>; [REDACTED] <[REDACTED>; Jeff Pagliuca
+(USANYS) <[REDACTED>; [REDACTED]) <[REDACTED>; 'Bobbi Sternheim'
+
+## Notable Details / Clues
+
+-   **Legal Context:** The subject lines consistently reference "US v. Maxwell" and a trial adjournment request, suggesting a criminal defense context.
+-   **Agency Involvement:** The recurring tag "(USANYS)" stands for United States Attorney's Office, Southern District of New York, confirming federal involvement.
+-   **Chronological Flow:** Despite email clients often sorting newest first, the timestamps indicate a flow from bottom (oldest) to top (newest): 11:22 AM -> 12:14 PM -> 1:32 PM -> 3:06 PM -> 8:09 PM.
+-   **Specific Legal Actions:** The text mentions a "sealed letter" and a "request to file under seal," which are specific legal mechanisms used to protect sensitive information from public inspection.
+-   **Deadline:** One email explicitly states, "Our response is due at 5 today," indicating a tight turnaround on legal filings.
+-   **Document Identification:** The string "EFTA00032783" in the corner acts as a Bates stamp or docket number fragment, common in court documents.
+-   **Redaction Density:** Almost all names and email addresses are redacted, except for the sender Laura Menninger at the bottom and the specific Cc'd name Jeff Pagliuca, suggesting these individuals might be public defenders or third parties not under the strictest gag orders of the main defendants.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+([REDACTED])' <[REDACTED]>; Nicole Simmons <[REDACTED]>
+
+**Subject:** US v. Maxwell - [Request for 120 or 180-day Adjournment of Trial]
+
+Judge Nathan -
+
+Pursuant to this Court’s Order of April 20, 2021 (Dkt. 221), attached please find counsel’s Letter Motion for an Adjournment of the trial.
+
+Counsel for Ms. Maxwell request redaction of their other clients’ names and case numbers from this Letter Motion pursuant to Rule of Professional Conduct 1.6 which prohibits lawyers from revealing confidential information related to a client even where that information is publicly available. See *In Re. Anonymous*, 654 N.E. 2d. 1128 (Ind. 1995) (lawyer violated Rule 1.6 by disclosing information relating to representation of client, even though information “was readily available from public sources and not confidential in nature”); *In re Bryan*, 61 P.3d 641 (Kan. 2003) (lawyer violated Rule 1.6 by disclosing, in court documents, existence of defamation suit against former client); *State ex rel. Okla. Bar Ass'n v. McGee*, 48 P.3d 787, 791 (Okla. 2002) (a lawyer’s duty of confidentiality attaches “to all information relating to the representation, whatever its source”).
+
+Upon direction of the Court, counsel will file either the redacted or unredacted version of this letter on the public docket.
+
+Best regards,
+Laura Menninger
+
+**Laura A. Menninger** | Partner
+**Haddon, Morgan & Foreman, P.C.**
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+EFTA00032784
+```
+
+## Structured Fields
+- **Date:** April 20, 2021
+- **Document ID / Docket Number:** Dkt. 221
+- **Case Name:** US v. Maxwell
+- **Subject:** Request for 120 or 180-day Adjournment of Trial
+- **Names:** Nicole Simmons, Laura Menninger, Ms. Maxwell
+- **Organizations:** Haddon, Morgan & Foreman, P.C., State ex rel. Okla. Bar Ass'n
+- **Case Citations mentioned:**
+    - *In Re. Anonymous*, 654 N.E. 2d. 1128 (Ind. 1995)
+    - *In re Bryan*, 61 P.3d 641 (Kan. 2003)
+    - *State ex rel. Okla. Bar Ass'n v. McGee*, 48 P.3d 787, 791 (Okla. 2002)
+- **Document ID Footer:** EFTA00032784
+</think>
+
+```markdown
+([REDACTED])' <[REDACTED]>; Nicole Simmons <[REDACTED]>
+
+**Subject:** US v. Maxwell - [Request for 120 or 180-day Adjournment of Trial]
+
+Judge Nathan -
+
+Pursuant to this Court’s Order of April 20, 2021 (Dkt. 221), attached please find counsel’s Letter Motion for an Adjournment of the trial.
+
+Counsel for Ms. Maxwell request redaction of their other clients’ names and case numbers from this Letter Motion pursuant to Rule of Professional Conduct 1.6 which prohibits lawyers from revealing confidential information related to a client even where that information is publicly available. See *In Re. Anonymous*, 654 N.E. 2d. 1128 (Ind. 1995) (lawyer violated Rule 1.6 by disclosing information relating to representation of client, even though information “was readily available from public sources and not confidential in nature”); *In re Bryan*, 61 P.3d 641 (Kan. 2003) (lawyer violated Rule 1.6 by disclosing, in court documents, existence of defamation suit against former client); *State ex rel. Okla. Bar Ass'n v. McGee*, 48 P.3d 787, 791 (Okla. 2002) (a lawyer’s duty of confidentiality attaches “to all information relating to the representation, whatever its source”).
+
+Upon direction of the Court, counsel will file either the redacted or unredacted version of this letter on the public docket.
+
+Best regards,
+Laura Menninger
+
+**Laura A. Menninger | Partner**
+**Haddon, Morgan & Foreman, P.C.**
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+EFTA00032784
+```
+

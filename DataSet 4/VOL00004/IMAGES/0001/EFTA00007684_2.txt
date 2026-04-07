@@ -1,0 +1,40 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00007684.pdf ts=2026-03-09T00:07:36 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a standard business invoice or packing slip enclosed within a clear plastic protective sleeve. At the very top left of the plastic sleeve, handwritten in black marker is the date "04/15/2005" and the number "#3". The document itself is printed on white paper with black typewritten text and pre-printed headers.
+
+The header features a rectangular logo for "WOOD TECHNOLOGY" stacked above "METAL TECHNOLOGY." Below this, there is a "PLEASE REMIT TO" section containing the address for Wood Technology, Inc., located in Conover, NC, along with phone and fax numbers. To the right, an "INVOICE" box displays a date of 03/29/05 and page number 1; sections below these fields are obscured by black bars.
+
+The middle section is divided into addresses. On the left is the standard "PLEASE REMIT TO" block repeating the company info. On the right, flanked by vertical text reading "SOLD TO" on the left border and "SHIP TO" on the right border, is the customer address block. This address belongs to "CSN STORES, INC., DBA RACKS AND STANDS," located at 358 EL BRILLO WAY in Palm Beach, FL.
+
+Below the addresses lies a row of column headers including "CUST. NO.", "ACK. NO.", "DATE SHIPPED" (filled with 03/29/05), "SHIPPED VIA" (filled with UPS-RBS), "SALESMAN", "F.O.B.", "TERMS" (filled with CC), and "YOUR ORDER NO." Many of the data fields in this row are redacted or blank.
+
+The main body table has headers for "SHIPPED", "BACK ORDERED", "DESCRIPTION", "PRICE", and "AMOUNT". In the description column, there is an entry reading "TO 1260 E EBONY CD STORAGE TOWER" followed by "1 CARTONS @ 0.00@ = 0#". Below this line, text reads "1 UNITS SHIPPED". The columns for Price and Amount on the far right are covered in a dense, pixelated security pattern or bar-code-like texture that obscures any actual numerical values. A document identification number "EFTA00007684" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+- Top Left Handwriting: "04/15/2005 #3"
+- Header Logo: "WOOD TECHNOLOGY METAL TECHNOLOGY"
+- Address Block 1: "PLEASE REMIT TO: WOOD TECHNOLOGY, INC. P.O. BOX 130 CONOVER, NC 28613 PHONE (828) 464-8049 FAX (828) 464-8046"
+- Invoice Box: "INVOICE DATE 03/29/05 PAGE 1"
+- Ship To Header: "SHIP TO"
+- Customer Address: "CSN STORES, INC., DBA RACKS AND STANDS 358 EL BRILLO WAY PALM BEACH FL 33480 (E)"
+- Table Headers: "CUST. NO.", "ACK. NO.", "DATE SHIPPED", "SHIPPED VIA", "SALESMAN", "F.O.B.", "TERMS", "YOUR ORDER NO."
+- Table Data Row: "03/29/05 UPS-RBS CC"
+- Item Description Headers: "SHIPPED", "BACK ORDERED", "DESCRIPTION", "PRICE", "AMOUNT"
+- Item Line 1: "TO 1260 E EBONY CD STORAGE TOWER" (Right side partial text: "PKG 1")
+- Item Subtext: "1 CARTONS @ 0.00@ = 0#"
+- Shipped Count: "1 UNITS SHIPPED"
+- Bottom Right ID: "EFTA00007684"
+
+## Notable Details / Clues
+- **Date Discrepancy:** The printed invoice date is March 29, 2005, but a handwritten note on the plastic sleeve dates it April 15, 2005, suggesting when it was received or logged.
+- **Redacted Information:** Financial details (Price/Amount) and Customer ID numbers are blacked out with digital ink, likely for privacy in this dataset.
+- **Security Pattern:** The right-hand columns under Description, Price, and Amount are obscured by a high-frequency noise pattern, possibly a data matrix code or anti-copy measure.
+- **Shipping Method:** The item was shipped via "UPS-RBS" (Restricted Business Service), indicating a specific shipping class often used for heavy freight like furniture or storage towers.
+- **Product Description:** The item is identified as an "EBONY CD STORAGE TOWER," suggesting it is a shelving unit with a wood-grain finish (Ebony).
+- **Customer Entity:** The buyer is a retail chain, CSN Stores (doing business as Racks and Stands), likely purchasing the inventory for resale.
+- **Zip Code Splitting:** The customer's zip code "33480" appears broken across two lines in the address block.
+- **Terms:** The payment terms are listed simply as "CC", which likely implies Cash Credit or similar short-term credit.
+

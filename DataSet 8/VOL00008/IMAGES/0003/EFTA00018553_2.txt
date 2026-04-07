@@ -1,0 +1,150 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00018553.pdf ts=2026-03-13T19:19:56 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital screenshot of an email chain interface, likely from a desktop or mobile email client like Outlook. The layout consists of a header section at the top containing metadata fields, followed by a large central area dominated by black redaction bars, and finally a footer section displaying the text body of a previous message in the thread.
+
+The top section features standard email headers. The "From", "To", and "Cc" fields are heavily obscured by thick black rectangular bars, though fragments like closing quotation marks and less-than/greater-than angle brackets typical of email addresses are visible alongside partial text like `(USANYS)`. The subject line reads "FW: Follow Up Call," indicating a forwarded message. A timestamp is clearly visible: "Thu, 05 Sep 2019 19:20:24 +0000".
+
+Below the top header, there is a horizontal dividing line. Immediately beneath this line is a small black box on the far left edge, followed by a massive, wide black rectangle that obscures the main content of the current email view. This suggests the attachment or the primary body of the forward has been redacted.
+
+The bottom section reveals the footer of the previous message being forwarded or replied to. The header fields here ("From", "Sent", "To", "Cc") are similarly redacted, though the date for this specific message is visible as "Thursday, September 5, 2019 2:11 PM". The subject line reads "RE: Follow Up Call". The body text is fully visible and discusses legal actions regarding the Epstein property in New Mexico. It includes a blue hyperlink to an Albuquerque Journal article. The final paragraph discusses investigations by the Attorney General's Office and State Land Commissioner Stephanie Garcia Richard, cutting off mid-sentence at the bottom of the page.
+
+## Visible Text (verbatim)
+
+**Top Header:**
+From: "[REDACTED] <[REDACTED]>
+To: "[REDACTED] (USANYS)" <[REDACTED]>
+Cc: "[REDACTED] (USANYS)" <[REDACTED]>, "[REDACTED]"), <[REDACTED]>, "[REDACTED]" <[REDACTED]>
+Subject: FW: Follow Up Call
+Date: Thu, 05 Sep 2019 19:20:24 +0000
+
+**Bottom Header:**
+From [REDACTED]
+Sent: Thursday, September 5, 2019 2:11 PM
+To [REDACTED] <[REDACTED]>; <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; <[REDACTED]> <[REDACTED]>
+Subject: RE: Follow Up Call
+
+**Body Text:**
+FYI: state authorities in New Mexico are moving forward with their own plans with respect to the Epstein property. Yesterday the state land commissioner revoked leases held by Cypress Inc.
+
+https://www.abqjournal.com/1362185/land-commissioner-voids-epsteins-nm-grazing-leases.html
+
+The linked news coverage quotes the New Mexico Attorney General as saying that he is conducting a criminal investigation at the state level “in coordination with” the SDNY. Here are a few sentences from late in the article:
+
+The [State] Attorney General’s Office is investigating whether crimes took place on Zorro Ranch. [State Land Commissioner Stephanie] Garcia Richard said Wednesday her office had notified [State] Attorney General Hector Balderas to provide notice if any criminal activity was found to have occurred on the trust land leased by
+
+**Footer:**
+EFTA00018553
+
+## Notable Details / Clues
+
+*   **Date Context:** The emails are dated September 5, 2019, placing this during a period of active public and legal scrutiny regarding Jeffrey Epstein's properties.
+*   **Specific Entity:** The text "(USANYS)" likely stands for United States Attorney’s Office – Northern District of New York or a similar entity, indicating federal involvement alongside state authorities.
+*   **Legal Action:** The text mentions the revocation of grazing leases held by "Cypress Inc," linking real estate management companies to the Epstein properties.
+*   **Cooperation between Agencies:** The email explicitly notes coordination between state level officials (New Mexico Attorney General) and the SDNY (Southern District of New York).
+*   **Location:** The content is heavily focused on "Zorro Ranch" in New Mexico, a known location in the Jeffrey Epstein investigation.
+*   **Media Source:** A direct link to *abqjournal.com* provides the primary source for the news coverage mentioned.
+*   **Redaction Style:** The redactions are applied with uniform, thick black bars, standard for privacy protection in sensitive documents or court filings.
+*   **Identified Officials:** Two specific names are visible: Stephanie Garcia Richard (State Land Commissioner) and Hector Balderas (Attorney General).
+*   **Incomplete Thought:** The final sentence trails off ("leased by"), indicating the screenshot was taken after the message had loaded but perhaps not fully rendered, or the user scrolled down to see this much text.
+*   **Document ID:** The string "EFTA00018553" in the bottom right corner suggests this image is part of a larger legal archive or docket system (possibly Electronic Federal Tax Authority or similar internal coding).
+*   **Timezone:** The top email uses UTC+0 (+0000), while the body text mentions "Yesterday" relative to Wednesday, implying the day was likely in New Mexico time.
+*   **Criminal Investigation:** The text explicitly states an investigation into whether "crimes took place" on the ranch.
+*   **Trust Land:** Mention is made of "trust land leased by," referencing public land management policies relevant to the case.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Epstein “because we were looking for a reason to cancel these leases and criminal activity would have given us the perfect reason.”
+
+....
+
+Balderas did issue a statement saying he was pleased Garcia Richard was “taking back lands that should be managed to best serve the State and for the benefit of New Mexico school children.” Public schools are one beneficiary of state trust land revenue. Balderas added: “We continue to investigate this matter at the state level in coordination with U.S. Attorney’s Office for the Southern District of New York.”
+
+[REDACTED]
+Fraud and Public Corruption Section
+U.S. Attorney’s Office – District of New Mexico
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, September 4, 2019 4:12 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]> [REDACTED]
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+Thank you for the speedy response. Next week works for us. Can you all do the call next Thursday, September 12th at 1:30 MT / 3:30 ET?
+
+[REDACTED]
+
+From: [REDACTED]
+Sent: Wednesday, September 04, 2019 3:41 PM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED]> [REDACTED]; [REDACTED]
+Subject: RE: Follow Up Call
+
+[REDACTED]
+
+Hope you’re doing well. This week is a bit tough for us. Are there dates next week that would work for you? We are traveling Monday through Wednesday, but could talk Thursday or Friday.
+
+Thanks,
+
+[REDACTED]
+
+EFTA00018554
+
+## Structured Fields
+- **Date:** September 4, 2019; September 12th (future date mentioned)
+- **Location:** Southern District of New York; District of New Mexico; New Mexico
+- **Names:** Epstein; Balderas; Garcia Richard
+- **Organizations:** Fraud and Public Corruption Section; U.S. Attorney’s Office – District of New Mexico; U.S. Attorney's Office for the Southern District of New Mexico
+- **Doc ID:** EFTA00018554
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: [REDACTED]
+Sent: Wednesday, September 4, 2019 4:28 PM
+To: [REDACTED] <[REDACTED]>
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>; [REDACTED]
+Subject: RE: Follow Up Call
+
+[REDACTED] and I were hoping to schedule a follow up call with you concerning Epstein’s New Mexico conduct and property sometime this week. We are both available tomorrow morning (9-12 MT / 11-2 ET) or Friday any time after 12pm MT / 2pm ET. Do you all have availability for a follow up call on either of these days?
+
+Thanks,
+
+[REDACTED]
+***
+From: [REDACTED] <[REDACTED]>
+Sent: Saturday, August 17, 2019 12:46 PM
+To: [REDACTED]
+Cc: [REDACTED] <[REDACTED]>; [REDACTED] <[REDACTED]>
+Subject: RE: Follow Up Call
+
+[REDACTED] We certainly can be in touch. I’m copying my colleagues on the case, [REDACTED], because I have a trial starting August 26 so I’ll be mostly unavailable next week, but it should be possible to find a time for one or both of them to chat. If you send a couple possible times for next week we can figure it out.
+
+thanks
+
+[REDACTED]
+***
+From: [REDACTED]
+Sent: Friday, August 16, 2019 14:01
+To: [REDACTED] <[REDACTED]>
+Subject: Follow Up Call
+
+[REDACTED] Would you have a couple of minutes to chat with me and one of my colleagues about some NM-related Epstein matters this afternoon or early next week? If today works for you, I am available any time after 1:30 MT/ 3:30 ET today. It is nothing urgent.
+
+Thanks,
+
+[REDACTED]
+EFTA00018555
+
+## Structured Fields
+*   **Dates:** September 4, 2019; August 17, 2019; August 16, 2019
+*   **Time Zones mentioned:** MT (Mountain Time), ET (Eastern Time)
+*   **Locations mentioned:** New Mexico (NM)
+*   **Subject Matter:** Epstein matters, property conduct
+*   **Document ID:** EFTA00018555
+

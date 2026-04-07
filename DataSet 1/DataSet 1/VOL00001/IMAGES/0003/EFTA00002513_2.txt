@@ -1,0 +1,64 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002513.pdf ts=2026-03-05T20:42:04 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a single 3.5-inch enterprise hard disk drive (HDD) housed within a black plastic caddy or mounting bracket, resting on a scratched gray metallic workbench. The drive features a silver steel platter shield enclosed by a stamped metal frame. On the far left edge, a set of gold-plated SATA data pins is visible, protruding slightly, indicating the connection interface for the motherboard. The front face of the drive is dominated by a large white product information label that wraps partially around the metal casing. To the right of the main label, there is a bright yellow section featuring the text "Enterprise Storage" and a smaller HP logo sticker. Above the label, two silver screws secure the top of the metal frame. Below the label, another screw is visible in the center-bottom area. The lighting is even, casting soft shadows to the left and bottom of the caddy against the gray background.
+
+## Visible Text (verbatim)
+**Left Section (Black Header):**
+*   "WD" Logo
+*   "Western Digital"
+*   "www.westerndigital.com"
+*   "WD5003ABYX"
+*   "WD RE4"
+*   "S/N : WMAYP6203926"
+*   "CT : 2CEHE003H4R3FI"
+*   "GPN : 657753 - 006"
+*   "SATA"
+*   "7200RPM"
+*   "MDL: MB0500GC0EHE"
+*   "WD MDL: WD5003ABYX-70CZLA0"
+
+**Middle Section:**
+*   "Product warranty will be void if serial label or cover is removed or damaged."
+*   "P/N: 658083 - 001"
+*   "FW: HPG1"
+*   "500GB"
+*   "DFP"
+*   "WWN : 50014EE0039B5271"
+*   "DATE : 02 JUN 2013"
+*   "DCX : HGRNHTJCG"
+*   "DCX : 0C02262L3"
+
+**Right Section (Technical & Regulatory):**
+*   "Do not cover any drive holes"
+*   "LBA : 976773168"
+*   "5VDC : 0.65A"
+*   "12VDC : 0.50A"
+*   "R/N : 771702"
+*   "U.S. Patents: 6178056, 5956196, 6289484, 6263459"
+*   "Product of Malaysia"
+*   "Canada ICES-003 Class B / NMB - 003 Classe B RoHS"
+
+**Yellow Sticker / Right Overlay:**
+*   "Enterprise Storage"
+*   HP Logo
+*   "DP SN : 2Y532510X2"
+*   "KCC-REM FEMALE"
+*   "W0T - 1789"
+*   "Western Digital NL. B.V., Utrecht, NL - 1118 DS Schiphol-Zuid"
+
+## Notable Details / Clues
+*   **OEM Identification:** The presence of the HP logo sticker on the yellow section indicates this drive is an Original Equipment Manufacturer (OEM) part, likely installed in a Dell or HP enterprise server/workstation.
+*   **Model Series:** The label identifies the drive as a "WD RE4" model. This stands for "Reagent Grade Enterprise," which was a high-reliability 3.5-inch SATA hard drive designed for enterprise storage arrays and NAS systems, released around 2012-2013.
+*   **Manufacturing Date:** The text "DATE : 02 JUN 2013" confirms the production date of the specific unit.
+*   **Capacity and Speed:** The drive is clearly marked as 500GB capacity running at 7200 RPM (Rotations Per Minute).
+*   **Condition:** While the label is intact, there are faint scratches on the metal chassis, particularly near the top right corner and along the edges of the caddy.
+*   **Connector Type:** The gold pins on the left identify this as a standard SATA 6Gb/s or earlier interface (though the specific speed isn't explicitly printed, it was standard for that era).
+*   **Serial Number Uniqueness:** Each section has unique serial numbers (S/N, CT, GPN), suggesting distinct tracking numbers used by the manufacturer and the OEM (HP) for warranty or asset management.
+*   **Caddy Type:** The black plastic frame is a "JAMM" (Justify And Mount Memory?) or standard HDD hot-swap bracket commonly found in server chassis.
+*   **Regulatory Compliance:** The label lists various compliance marks including UL, CE, and RoHS, with specific addresses for Western Digital Netherlands B.V.
+*   **Voltage Specs:** The drive operates on dual voltages: 12VDC (0.50A) and 5VDC (0.65A), standard for a 3.5-inch enterprise drive.
+*   **Warranty Void Warning:** A specific warning is printed regarding the removal of the label or cover, which would void the product warranty.
+

@@ -1,0 +1,32 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0003/EFTA00019663.pdf ts=2026-03-14T04:31:22 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "postmaster@usdoj.gov" <postmaster@usdoj.gov>
+To: <[REDACTED]>
+Subject: Notice of Message Failure; Encryption Required
+Date: Fri, 16 Aug 2019 17:13:46 +0000
+
+In accordance with the Department Memorandum "Safeguarding Personally Identifiable Information", dated April 16, 2015, the preceding message has been identified as containing possible sensitive Personally Identifiable Information (PII) and cannot be delivered unless properly encrypted.
+
+When electronically sending PII to external users outside of Department email systems, the communication should be encrypted and transmitted to recipients only for a legally authorized purpose. In addition, PII should not be sent to or from personal email addresses at any time (e.g., Gmail, Hotmail, Comcast, Yahoo).
+
+To compose a secure message open Microsoft Outlook email application and compose the message as normal. When ready to send - select the "Send Securely" button. Alternately, if you are using another email client (OWA, iOS, Blackberry etc.) enter the word [encrypt] into the Subject field of the message. Include the square brackets followed by any other pertinent Subject information, and send the message as you normally would. The Proofpoint email encryption service will detect and encrypt the message prior to delivery. The external recipient will be notified via email, how to retrieve the encrypted message.
+
+If you did not intend to send PII within the message, please check the message contents and resend the message without the PII.
+
+Message Details:
+From: [REDACTED]
+To: [REDACTED]
+Date : 2019-08-16 17:13:46 GMT
+Subject: RE: Subpoenas Re [REDACTED]
+
+For any questions, please contact your local IT Helpdesk.
+
+## Structured Fields
+
+*   **Date:** Fri, 16 Aug 2019 / 2019-08-16
+*   **Organization:** usdoj.gov (Department of Justice)
+*   **Service Provider:** Proofpoint
+*   **Document ID:** EFTA00019663
+

@@ -1,0 +1,64 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00031633.pdf ts=2026-03-19T08:04:25 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a digital email correspondence thread involving federal law enforcement and investigative agencies. The document appears to be redacted for privacy, featuring several thick black bars obscuring names and specific addresses, though agency affiliations remain visible in parentheses. The layout follows standard email threading conventions with "From," "To," "Cc," and "Subject" headers at the top of each segment.
+
+**Top Section:**
+The header block shows an email sent on Wednesday, September 18, 2019. The sender is identified as being affiliated with the FBI in New York ("(NY) (FBI)"). The recipient list includes individuals from the Office of General Counsel for Attorneys (OGA), the Office of Inspector General (OIG), and US Attorney New York (USANYS). The subject line reads "RE: MCC NY Epstein Investigation." Below the header is a large, thick black rectangle obscuring the body text of this top email.
+
+**Middle Section:**
+Below the first redacted block, there is a timestamp indicating a quote from September 18, 2019, at 9:44 AM. The sender here is identified as "USANYS," but their name is blacked out. A massive black bar obscures the body of this email entirely, likely covering the introductory text before forwarding other emails.
+
+**Lower/Middle Section:**
+Following the large black block is a nested email header dated Monday, August 19, 2019, at 11:34 AM. The subject line is "FW: MCC NY Epstein Investigation." The recipient list includes multiple US Attorney New York (USANY) addresses, the OIG, and FBI personnel. The body text begins with "Fyi" (For Your Information).
+
+**Bottom Section:**
+The final visible block contains a full email header sent on Monday, August 19, 2019, at 11:09 AM. Unlike the sections above it, the body text here is fully readable and unredacted. It appears to be an internal report or statement from a prison worker. The text describes working at "MCC NY" (Maximum Correction Center, New York) in the rear gate area. It details an incident where an inmate brought back bags of shredded paper to the dumpster on Thursday and Friday.
+
+**Textual Content:**
+The readable text alleges that members of the BOP (Bureau of Prisons) after-action team were investigating the suicide of Jeffrey Epstein. The worker reports that inmates were told "they are shredding everything" and that the inmate even asked for help shredding paperwork. The writer concludes by questioning the appropriateness of an investigative team destroying records related to their own investigation. The document footer contains a reference number: EFTA00031633.
+
+## Visible Text (verbatim)
+**Header Block 1:**
+From: "[REDACTED].(NY)(FBI)" <[REDACTED]>
+To: "[REDACTED].(NY)(OGA)" <[REDACTED]>, "[REDACTED].(OIG)"
+     <[REDACTED]>, "[REDACTED].(NY)(FBI)" <[REDACTED]>,
+     "[REDACTED].(OIG)" <[REDACTED]>, "[REDACTED]" >,
+(USANYS) <[REDACTED]>
+Cc: "[REDACTED](USANYS)" <[REDACTED]>
+Subject: RE: MCC NY Epstein Investigation
+Date: Wed, 18 Sep 2019 13:52:14 +0000
+
+**Header Block 2 (Quoted):**
+On Sep 18, 2019 9:44 AM, "[REDACTED](USANYS)" <[REDACTED]> wrote:
+
+**Header Block 3 (FW Email):**
+From: [REDACTED] >
+Sent: Monday, August 19, 2019 11:34 AM
+To: [REDACTED](USANY) <[REDACTED]>; [REDACTED](USANY) <[REDACTED]>; [REDACTED]
+     .(OIG) <[REDACTED]>; [REDACTED].(NY)(FBI) <[REDACTED]>; [REDACTED]
+(NY)(OGA)(FBI) <[REDACTED]>; [REDACTED].(NY)(FBI) <[REDACTED]>
+Subject: FW: MCC NY Epstein Investigation
+
+**Header Block 4 (Source Email):**
+From: [REDACTED]
+Sent: Monday, August 19, 2019 11:09 AM
+To: [REDACTED] >
+Subject: MCC NY Epstein Investigation
+
+**Body Text:**
+I work at MCC NY. I was working the rear gate area when the gate pass inmate named [REDACTED] brought back to the gate bays of shredded papers to throw out into the dumpster on Thursday and one bag on Friday. He stated that members of the BOP after action team that were investigating what happened with the Epstein suicide were shredding boxes of paperwork. He stated, "they are shredding everything". He stated that he even was told to help them shred paperwork too. I believe that this conduct maybe inappropriate for a investigative team to be shredding paperwork related to the investigation and you may want to investigate why BOP employees were destroying records.
+
+## Notable Details / Clues
+*   **Agencies Involved:** The text explicitly names the FBI, OIG (Office of Inspector General), USANYS (US Attorney for the Southern District of New York - implied by NY context), and BOP (Bureau of Prisons).
+*   **Location:** The email originates from "MCC NY," referring to the Metropolitan Correctional Center in New York City.
+*   **Specific Event:** The investigation concerns the suicide of Jeffrey Epstein.
+*   **Allegation of Evidence Destruction:** A key piece of evidence described is the systematic destruction of documents ("shredding everything") by BOP employees assigned to an after-action team.
+*   **Timeline:** There is a discrepancy in dates; the top email is dated September 18, 2019, but it quotes/forwards emails from August 19, 2019, suggesting a report was being circulated weeks later or the screenshot captures a long thread where an older message was re-sent.
+*   **Inmate Interaction:** The report notes that a prisoner ("gate pass inmate") was involved in physically moving the shredded bags to the dumpster.
+*   **Redaction Strategy:** While names are redacted, the specific roles (FBI agent, OIG official) and locations are preserved, indicating this is likely an internal government document shared for oversight purposes.
+*   **Footer ID:** The document has a tracking number "EFTA00031633" in the bottom right corner.
+*   **Grammar/Typing:** The phrase "maybe inappropriate" suggests the original writer may be typing on a mobile device or under stress, and there is a typo "investigative team" missing an 'a' in "a investigative."
+

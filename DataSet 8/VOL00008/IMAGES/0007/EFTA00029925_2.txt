@@ -1,0 +1,158 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0007/EFTA00029925.pdf ts=2026-03-18T13:55:08 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7/20/2021                                                                 FD-1087
+
+**31E-MM-108062 - 1B9**
+
+Evidence Item: 31E-MM-108062 -- 1B9
+Evidence Type: General
+Description: (U//FOUO) One red rope containing: 1) BOOK - AN INVITATION TO POETRY 2) VICTORIA'S SECRET WHITE BRA AND PANTIES SET
+Location: E03707388 - ECR8
+          E616844 - ECR8, VS33
+          E5448596 - ECR8, VS33 A
+Barcode: E6516732
+
+## Details
+
+Collected On: 04/30/2007 8:00 AM                     Receipt Item #: None
+CATS ID #: None                                       CATS Abandonment #: None
+FBI Seizure #: None                                   Abandonment #: None
+
+Storage Location                                      Discovery Location
+Holding Office: NY - NEW YORK                          Area: Unavailable in data migrated from ACS
+Finalized By: [REDACTED]                              Seizing Individual: [REDACTED]
+Last Inventory: 07/20/2021 12:00 AM                    Specific: Unavailable in data migrated from ACS
+                                                        Collected By: [REDACTED]
+
+Retention
+Retention: Missing
+
+Legal Caveats
+None
+
+Chain of Custody
+
+Shipping Log
+
+History
+
+Acquisition Event
+
+Acquisition Event: (U//FOUO) Items migrated on 2007-04-30
+Collected From: (U//FOUO) [REDACTED]
+                                                        700 25TH STREET
+                                                        WEST PALM BEACH, FL,
+Receipt Given: No                                      Holding Office: MM - MIAMI
+                                                        Evidence Log: Missing
+                                                        Missing
+
+https://sentinel.fbinet.fbi/lavender##/Cases/2383628   1/1
+SDNY_GM_02753582
+EFTA00029925
+
+## Structured Fields
+*   **Date:** 7/20/2021 (Document Date), 04/30/2007 (Collection Date), 07/20/2021 (Last Inventory Date)
+*   **Case ID / Item ID:** 31E-MM-108062 - 1B9, FD-1087
+*   **Location:** NY - NEW YORK (Holding Office), MM - MIAMI (Acquisition Holding Office), West Palm Beach, FL (Collection Address)
+*   **Item Description:** BOOK - AN INVITATION TO POETRY, VICTORIA'S SECRET WHITE BRA AND PANTIES SET
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned copy of an official document titled "FEDERAL BUREAU OF INVESTIGATION EVIDENCE CHAIN-OF-CUSTODY" (Form FD-1004). The form is used to track the handling of evidence in an FBI investigation.
+
+The top left corner indicates the form was revised on 9-25-2006.
+Below the title, there is a row for "Evidence Type," where the box next to "General" is checked, while boxes for "Drug," "Valuable," "Firearms," and "CART" remain unchecked.
+
+The document is largely obscured by a large, solid black redaction rectangle that covers the middle-left section of the form, specifically obscuring signatures and names in the "Relinquished Custody" and "Accepted Custody" columns. However, the right-most column titled "Date and Time" remains fully visible for several rows, allowing the reader to see the chronological progression of evidence handling.
+
+Below the main table, a section labeled "Firearms Certification" is partially visible at the bottom. This section includes fields for Case ID and Barcode. The Case ID is handwritten as "316-MM-108062". A barcode number "E6516732" is typed at the bottom right, with a crossed-out number ("E4249236") visible directly above it. Handwritten dates in blue ink are visible along the far right edge of the form.
+
+## Visible Text (verbatim)
+**Header Section:**
+- "FD-1004 Revised 9-25-2006"
+- "FEDERAL BUREAU OF INVESTIGATION EVIDENCE CHAIN-OF-CUSTODY"
+- "Evidence Type: [x]General [ ]Drug [ ]Valuable [ ]Firearms [ ]CART"
+
+**Special Handling & Initial Receipt:**
+- Checkboxes under "Special Handling Instructions": All appear empty (Batteries, Biohazard, FGJ, HAZMAT, Latents, Refrigerate, Req. Charging, None, Other).
+- "Reason: Collected" (under Initial Receipt).
+- "Date and Time": "04/30/2007", "12:00 pm".
+
+**Custody Transfer Dates (Right Column):**
+- Entry 1: "02/07/2008" (or similar), "10:00 am".
+- Entry 2: "2/8/08", "3:30 PM".
+- Entry 3: "04/10/2008", "11:01 am".
+- Entry 4: "01-13-09" (with a cross-through), "3:49 pm".
+
+**Firearms Certification Section:**
+- "Case ID: 316-MM-108062"
+- "1B: 9"
+- "Barcode: E6516732" (Crossed out text above appears to be "E4249236")
+
+**Other Visible Handwriting:**
+- Near the bottom left, inside/over the redaction box area: "01/14/09" (written in blue ink).
+
+## Notable Details / Clues
+- **Redaction Strategy:** The primary method of obfuscation is a single large black rectangle. This suggests that personal identifying information (PII) such as agent names and specific transfer signatures were intentionally hidden for privacy, but the timestamps remained visible to prove the timeline of evidence custody.
+- **Evidence Type:** The item was classified generally, not as a drug or firearm specifically in this log, though it has a "Firearms Certification" section at the bottom (likely standard footer on the form type).
+- **Timeline Discrepancy/Coverage:** The first date is 04/30/2007. The subsequent visible dates jump significantly (Feb 2008, April 2008, Jan 2009), implying there were likely other custody transfers in between that occurred at the redacted spots.
+- **Handwriting Consistency:** The dates are all written in blue ballpoint pen, suggesting they were filled out by different individuals or over a period of time.
+- **Case ID Format:** The Case ID "316-MM-108062" suggests a specific FBI office or division identifier (possibly SDNY based on the document ID at the very bottom right "SDNY_GM...").
+- **Barcode Change:** The presence of a crossed-out barcode number above the current one suggests this evidence might have been re-barcode-tagged, possibly during transport or transfer between secure locations.
+- **Time Precision:** Times are recorded to the minute (e.g., 12:00 pm, 10:00 am, 3:49 pm), which is standard for forensic evidence logs to ensure precise chain-of-custody.
+- **Initial Receipt Reason:** The reason "Collected" implies this document serves not only as a transfer log but also as an initial collection record where the investigator picked up the item themselves or from a scene.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a scanned document titled "EVIDENCE CHAIN OF CUSTODY" at the very top center. The document is a form designed to track the handling of physical evidence, featuring a structured grid layout.
+
+A large, solid black rectangular redaction box obscures the upper-middle section of the form. This box covers several rows containing signature lines and potentially names or agency identifiers. To the right of this redaction box, handwritten dates and times are visible in a column labeled "Date and Time." These entries record timestamps associated with specific custody events, likely corresponding to the entries hidden or partially covered by the black box.
+
+Below the redacted area, the form presents a standard grid structure repeated multiple times. The grid is divided into four main vertical sections:
+1.  **Relinquished Custody:** A column for signatures, printed names/agency, and reasons for transfer.
+2.  **Date and Time:** A narrow column next to the relinquished custody section (mostly empty).
+3.  **Accepted Custody:** A column for signatures, printed names/agency, and reasons for acceptance.
+4.  **Date and Time:** The far-right column where handwritten dates appear.
+
+In the visible lower portion of the form (below the black box), these grid rows are empty, containing no signatures or printed text. The headers "Relinquished Custody" and "Accepted Custody" appear repeatedly as row labels for the signature fields. At the very bottom, footer information includes a Case ID, an "1B" field, a Barcode section with handwritten alphanumeric text, and a disclaimer note about form incompleteness without reference to another form (FD-1087).
+
+## Visible Text (verbatim)
+**Header:**
+"EVIDENCE CHAIN OF CUSTODY"
+
+**Handwritten Dates/Times (Top Right Column):**
+- "6/20/19" / "2:00pm" (scribbled)
+- "6/24/19" / "2:10p"
+- "9/26/19" / "2:04"
+
+**Form Headers:**
+- "Relinquished Custody"
+- "Date and Time"
+- "Accepted Custody"
+- "Signature:"
+- "Printed Name/Agency:"
+- "Reason:"
+
+**Footer Information:**
+- "Case ID: 31E-MM-108062"
+- "1B: 9"
+- "Barcode: E65 26732" (The barcode graphic itself is obscured/redacted to the left of this text)
+- "This form is incomplete without reference to the FD-1087."
+
+**Bottom Right Corner:**
+- "SDNY_GM_02753584"
+- "EFTA00029927"
+
+## Notable Details / Clues
+- **Redaction:** The upper section is heavily redacted, hiding the primary custody history (likely the seizure and initial transfer).
+- **Timeline:** The handwritten dates span from June 20, 2019, to September 26, 2019, indicating a custody chain extending over three months.
+- **Empty Lower Section:** The bulk of the visible form below the black box is unused/blank, suggesting this specific document was used for only a few entries or serves as an attachment where those top entries are the relevant ones.
+- **Form Reference:** The text at the bottom explicitly states "This form is incomplete without reference to the FD-1087," implying this document is likely a supplementary schedule rather than the primary custody log (which would be Form 1087).
+- **Agency Identifier:** The footer code "SDNY" often refers to the United States District Court for the Southern District of New York, suggesting this evidence may have been involved in a federal case or seized by a federal agency operating there.
+- **Barcode:** The handwritten barcode value "E65 26732" serves as a unique identifier for the physical item tracked by this chain of custody form.
+- **Handwriting Style:** The handwriting on the right appears hurried and slightly slanted, typical of quick police or lab entry logs during a shift handover.
+

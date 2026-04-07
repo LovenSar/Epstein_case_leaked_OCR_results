@@ -1,0 +1,1025 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00005994.pdf ts=2026-03-07T18:49:06 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ITEM
+WAS NOT
+SCANNED
+
+DESCRIPTION
+
+Refresh Eye Drops
+
+Official DocLab Instruction(s) – Revised July 27, 2020
+
+EFTA00005994
+
+## Structured Fields
+
+*   **Date:** July 27, 2020
+*   **Doc ID:** EFTA00005994
+*   **Item Description:** Refresh Eye Drops
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+January 2017
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+1 2 Outbound Unknown - Inbound TEB 3 4 5 6 7
+8 9 10 11 12 13 Outbound TEB - Inbound TIST 14
+15 16 17 18 19 Outbound TIST - Inbound TEB 20 21
+22 23 24 25 26 27 Outbound PBI - Inbound TIST 28
+29 Outbound TIST - Inbound TEB 30 31 1 2 3 4
+
+## Structured Fields
+
+- **Date**: January 2017
+- **Case ID / Doc ID**: EFTA00005995
+- **Airport Codes / Locations**:
+  - TEB (Teterboro, NJ)
+  - TIST (US Virgin Island)
+  - PBI (West Palm Beach, FL)
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+February 2017
+SUNDAY       MONDAY      TUESDAY     WEDNESDAY    THURSDAY    FRIDAY      SATURDAY
+29           30          31          1            2           3           4
+5                                      |                        |
+6-8 **Outbound PBI -**    9 **Outbound TIST -**     10               11
+   Inbound TIST         Inbound PBI
+12           13          14          15           16                  17                   18
+                                              |      Outbound TEB -      Outbound TEB -
+                                      |      Inbound France        Inbound France
+19-23 **GREEN BLOCK**    |
+                                     |                        | 24 **Outbound France -**   25
+                                                  |                        Inbound TEB
+26           27          28          1            2           3           4
+
+NOTES
+                    Airport Codes
+TEB-Teterboro, NJ    TIST-US Virgin Island      PBI-West Palm Beach, FL
+Page 2 of 12
+EFTA00005996
+
+## Structured Fields
+- **Date:** February 2017
+- **Airport Codes:**
+    - TEB (Teterboro, NJ)
+    - TIST (US Virgin Island)
+    - PBI (West Palm Beach, FL)
+- **Document ID:** EFTA00005996
+- **Page Number:** 2 of 12
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+March 2017
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+26 27 28 1 2 3 4
+
+5 6 7 Outbound TIST - Inbound St Barthelemy 8 Outbound TIST - Inbound British VI Outbound St Barthelemy - Inbound TIST 9 10 Outbound TIST - Inbound St Barthelemy Outbound St Barthelemy - Inbound TIST 11 Outbound TIST - Inbound KBAF
+
+12 13 14 15 16 17 18
+
+19 20 21 22 23 24 25 Outbound TIST - Inbound TEB
+
+26 27 28 29 30 31 1
+Outbound TEB - Inbound France
+
+2 3 NOTES Airport Codes
+TEB-Teterboro, NJ TIST-US Virgin Island KBAF-Westfield, MA
+
+Page 3 of 12 EFTA00005997
+
+## Structured Fields
+- **Date**: March 2017
+- **Page**: Page 3 of 12
+- **Document ID**: EFTA00005997
+- **Locations/Airports/Points**:
+    - TIST (US Virgin Island)
+    - British VI
+    - St Barthelemy
+    - KBAF (Westfield, MA)
+    - TEB (Teterboro, NJ)
+    - France
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+April 2017
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+26 27 28 29 30 31 1
+[Green Block]
+2 3 4 5 [Green Block spanning columns] Outbound Morocco - Inbound KISP 7 8 [Blue Block: Outbound TEB - Inbound TIST]
+9 10 11 Outbound TIST - Inbound KISP 13 14 15
+16 [Red Block: Outbound TIST - Inbound PBI] 17 18 19 20 21 22
+23 [Blue Block: Outbound TEB - Inbound TIST] 24 25 26 27 28 29
+30 1 NOTES
+[Yellow Block: Outbound TIST - Inbound KISP] Airport Codes
+TEB-Teterboro, NJ KISP-Long Island, NY
+TIST-US Virgin Island PBI-West Palm Beach, FL
+
+Page 4 of 12 EFTA00005998
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+May 2017
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+30 1 2 3 4 5 6
+
+7 8 9 10 | 11 | 12 | 13
+Outbound TEB -
+Inbound France
+
+14 15 16 17 Outbound France - Inbound KISP | 18 | 19 | 20 Outbound KISP - Inbound TIST
+
+21 22 23 24 25 26 27
+28 29 Outbound TIST - | 30 | 31 | 1 | 2 | 3
+Inbound TEB
+
+NOTES Airport Codes
+TEB-Teterboro, NJ KISP-Long Island, NY TIST-US Virgin Island
+Page 5 of 12
+EFTA00005999
+
+## Structured Fields
+- **Date**: May 2017
+- **Page Number**: Page 5 of 12
+- **Document ID**: EFTA00005999
+- **Locations/Places**: Teterboro, NJ; Long Island, NY; US Virgin Island
+- **Organization/Codes**:
+    - TEB (Teterboro, NJ)
+    - KISP (Long Island, NY)
+    - TIST (US Virgin Island)
+- **Events**:
+    - Outbound TEB - Inbound France (Thursday 11 - Saturday 13)
+    - Outbound France - Inbound KISP (Monday 15 - Wednesday 17)
+    - Outbound KISP - Inbound TIST (Saturday 20)
+    - Outbound TIST - Inbound TEB (Monday 29)
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+June 2017
+
+SUNDAY       MONDAY      TUESDAY     WEDNESDAY   THURSDAY    FRIDAY      SATURDAY
+28          29          30          31          1           2           3
+
+4            5           6           7           8           9           10
+
+11          12          13          14          15          16          17
+
+18          19          20          21          22          23          24
+
+25 [Outbound TIST-
+Inbound PBI] 26      27         28          29        30
+
+2            3           NOTES
+
+Airport Codes
+TIST-US Virgin Island    PBI-West Palm Beach, FL
+
+Page 6 of 12
+
+EFTA00006000
+
+## Structured Fields
+- **Date**: June 2017 (also showing late May/early July)
+- **Page Number**: Page 6 of 12
+- **Document ID**: EFTA00006000
+- **Locations/Airports**:
+    - US Virgin Island
+    - West Palm Beach, FL (PBI)
+- **Flight Codes**: TIST, PBI
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+July 2017
+SUNDAY        MONDAY       TUESDAY      WEDNESDAY    THURSDAY     FRIDAY       SATURDAY
+25                        26           27           28           29           30           1
+Outbound TEB -          Inbound Unknown
+
+2                       3                   4                  5              6             7                8
+Outbound TEB -
+Inbound Unknown
+
+9                      10                 11                12             13            14               15
+                            Outbound France -
+                        Inbound TEB
+
+16                     17                 18                19             20            21               22
+Outbound PBI -
+Inbound Unknown
+
+                      Outbound
+                  Unknown -
+                  Inbound TEB
+
+23                    24                 25                26             27           28               29
+
+30                   31                NOTES            Airport Codes
+                                    TEB-Teterboro, NJ   PBI-West Palm Beach, FL
+
+Page 7 of 12
+EFTA00006001
+
+## Structured Fields
+- **Date:** July 2017
+- **Page Number:** Page 7 of 12
+- **Document ID:** EFTA00006001
+- **Locations/Departures:**
+    - TEB (Teterboro, NJ)
+    - France (Outbound on July 11)
+    - PBI (West Palm Beach, FL)
+    - Unknown
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+August 2017
+
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+30     31      1       2         3        4        5
+
+[Outbound TIST - Inbound TEB]
+(under 2)
+
+6      7       8       9         10       11       12
+
+13     14      15      16        17       18       19
+
+20     21      22      23        24       25       26
+
+27     28      29      30        31       1        2
+
+[Outbound Unknown - Inbound TEB]
+(under 29)
+
+3      4       NOTES   Airport Codes
+                     TEB-Teterboro, NJ   TIST-US Virgin Island
+
+Page 8 of 12
+
+## Structured Fields
+- **Date:** August 2017 (extending into early September)
+- **Locations:** Teterboro, NJ; US Virgin Island
+- **Codes/IDs:** TEB, TIST, EFTA00006002
+- **Page Number:** Page 8 of 12
+- **Notes:** "Outbound TIST - Inbound TEB", "Outbound Unknown - Inbound TEB"
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+September 2017
+
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+27      28      29      30      31      1       2
+                                                   Outbound TEB -
+                                                Inbound France
+3        4       5       6       7       8       9
+
+[Green Bar Spanning Width]
+
+10      11      12     13      14      15      16
+
+                            Outbound France -
+                         Inbound KISP
+
+17      18      19     20      21      22      23
+
+24      25      26     27      28      29      30
+
+NOTES
+1       2
+
+         Airport Codes
+TEB-Teterboro, NJ   KISP-Long Island, NY
+
+Page 9 of 12
+
+EFTA00006003
+
+## Structured Fields
+- **Date:** September 2017 (Document covers late August to end of September 2017 based on carry-over dates)
+- **Case ID / Doc ID:** EFTA00006003
+- **Location (Airport Codes):** TEB-Teterboro, NJ; KISP-Long Island, NY
+- **Locations (Outbound/Inbound mentioned):** France
+- **Organization/Entity:** None explicitly visible other than airport codes.
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+October 2017
+SUNDAY      MONDAY     TUESDAY     WEDNESDAY   THURSDAY   FRIDAY     SATURDAY
+1           2          3           4           5          6          7
+                                           Outbound TIST -
+                                           Inbound KISP
+8           9          10          11          12         13         14
+Outbound TEB -
+Inbound France
+15          16         17          18          19         20         21
+                                       Outbound France -
+                                       Inbound TEB
+22          23         24          25          26         27         28
+29          30         31          1           2          3          4
+
+NOTES
+Airport Codes
+TEB-Teterboro, NJ   KISP-Long Island, NY   TIST-US Virgin Island
+
+Page 10 of 12
+EFTA00006004
+
+## Structured Fields
+- **Date:** October 2017
+- **Page:** 10 of 12
+- **Document ID:** EFTA00006004
+- **Locations/Airports:**
+    - Teterboro, NJ (TEB)
+    - Long Island, NY (KISP)
+    - US Virgin Island (TIST)
+    - France (Destination/Origin)
+- **Schedule Events:**
+    - Oct 5: Outbound to TIST, Inbound from KISP
+    - Oct 9-14: Outbound TEB, Inbound France
+    - Oct 20: Outbound France, Inbound TEB
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+November 2017
+SUNDAY              MONDAY             TUESDAY            WEDNESDAY           THURSDAY           FRIDAY                 SATURDAY
+29                       30                   31                      1                        2                  [Blue Box]                4
+                                                                                           Outbound PBI -
+                                                                                           Inbound TIST
+
+[Grey Block starts]   5                    6               [Yellow Block]        8                            9                      10                     11
+                                                                   Outbound PBI -
+                                                                   Inbound TIST
+                                                                   Outbound TIST -
+                                                                   Inbound TEB
+
+12                       13                   14                      15                      16                  17                        18
+
+[Grey Block]           19                   20                    21                     22                    23                 24                          25
+
+[Yellow Block]         27                   28                   29                     30                     1                       2
+Outbound PBI -
+Inbound TIST
+Outbound TIST -
+Inbound TEB
+
+NOTES
+      3               4
+Airport Codes
+TEB-Teterboro, NJ   TIST-US Virgin Island     PBI-West Palm Beach, FL
+
+Page 11 of 12
+EFTA00006005
+
+## Structured Fields
+- **Date:** November 2017 (also Dec 1-2 visible)
+- **Airport Codes:**
+    - TEB: Teterboro, NJ
+    - TIST: US Virgin Island
+    - PBI: West Palm Beach, FL
+- **Document ID:** EFTA00006005
+- **Page:** 11 of 12
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+December 2017
+
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+26 27 28 29 30 1 2
+
+3 4 5 Outbound PBI - Inbound TIST 6 7 Outbound TEB - Inbound France 9
+
+10 11 12 Outbound France - Inbound TEB 13 14 15 16
+
+17 18 19 20 Outbound PBI - Inbound TIST Outbound TIST - Inbound PBI 21 22 23
+
+24 25 26 27 28 29 30
+
+31 1 NOTES Airport Codes
+TEB-Teterboro, NJ TIST-US Virgin Island PBI-West Palm Beach, FL
+
+Page 12 of 12
+EFTA00006006
+
+## Structured Fields
+- **Date:** December 2017
+- **Document ID:** EFTA00006006
+- **Locations/Names:** Teterboro, NJ; US Virgin Island; West Palm Beach, FL
+- **Airport Codes:** TEB (Teterboro), TIST (US Virgin Island), PBI (West Palm Beach)
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+January 2018
+
+| SUNDAY | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| **7**<br>Outbound PBI -<br>Inbound TIST<br>Outbound TIST -<br>Inbound TEB | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | **16**<br>Outbound PBI -<br>Inbound TIST<br>Outbound TIST -<br>Inbound TEB | 17 | 18 | 19 | 20 |
+| **21**<br>Outbound TEB -<br>Inbound France | 22 | 23 | 24 | 25 | 26 | **27**<br>Outbound Canada -<br>Inbound TEB |
+| 28 | 29 | 30 | 31 | 1 | 2 | 3 |
+
+NOTES
+
+Airport Codes
+TEB-Teterboro, NJ TIST-US Virgin Island PBI-West Palm Beach, FL
+
+EFTA00006007
+
+## Structured Fields
+- **Date:** January 2018 (includes Feb 1-3)
+- **Document ID:** EFTA00006007
+- **Locations/Airports:** Teterboro, NJ; US Virgin Island; West Palm Beach, FL; France; Canada
+- **Route Codes:** PBI, TIST, TEB
+- **Organizations/Entities:** (None explicitly named other than locations)
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+February 2018
+SUNDAY | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY
+---|---|---|---|---|---|---
+28 | 29 | 30 | 31 | 1 | 2 | 3
+
+4 | 5 | 6 | 7 | 8 | 9 | 10
+Outbound PBI - Inbound TIST Outbound TIST - Inbound PBI
+
+11 | 12 | 13 | 14 | 15 | 16 | 17
+
+18 | 19 | 20 | 21 | 22 | 23 | 24
+Outbound KFXE - Inbound TIST Outboud TIST - Inbound TEB
+
+25 | 26 | 27 | 28 | 1 | 2 | 3
+
+NOTES
+Airpori Codes
+TEB-Teterboro, NJ | KFXE-Fort Lauderdale, FL
+TIST-US Virgin Island | PBI-West Palm Beach, FL
+
+Page 2 of 12
+
+## Structured Fields
+*   **Date:** February 2018
+*   **Page Number:** Page 2 of 12
+*   **Document ID:** EFTA00006008
+*   **Airport Codes/Location:**
+    *   TEB: Teterboro, NJ
+    *   KFXE: Fort Lauderdale, FL
+    *   TIST: US Virgin Island
+    *   PBI: West Palm Beach, FL
+*   **Key Events (Wednesdays):**
+    *   Week 1 (Feb 7): Outbound PBI - Inbound TIST / Outbound TIST - Inbound PBI
+    *   Week 2 (Feb 21): Outbound KFXE - Inbound TIST / Outboud TIST - Inbound TEB
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+March 2018
+SUNDAY    MONDAY    TUESDAY    WEDNESDAY    THURSDAY    FRIDAY    SATURDAY
+25       26       27       28         1           2      [Outbound PBI - Inbound TIST Outbound TIST - Inbound TEB]
+4     5     6     7               [Outbound TEB - Inbound France]
+11    12    [Outbound France - Inbound TEB]      13
+18    19    20    21    22    23    24
+25    26       [Outbound TIST - Inbound PBI]   27     28    29    30          [Outbound TEB - Inbound France]      31
+
+NOTES
+Airport Codes
+TEB-Teterboro, NJ           TIST-US Virgin Island           PBI-West Palm Beach, FL
+Page 3 of 12
+EFTA00006009
+
+## Structured Fields
+- **Date**: March 2018
+- **Page**: Page 3 of 12
+- **Document ID**: EFTA00006009
+- **Airport Codes / Locations**:
+    - TEB-Teterboro, NJ
+    - TIST-US Virgin Island
+    - PBI-West Palm Beach, FL
+- **Scheduled Events/Notes**:
+    - Sat 3: Outbound PBI, Inbound TIST, Outbound TIST, Inbound TEB
+    - Thu 8-Sun 10: Outbound TEB, Inbound France
+    - Tue 13: Outbound France, Inbound TEB
+    - Tue 27: Outbound TIST, Inbound PBI
+    - Sat 31: Outbound TEB, Inbound France
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+April 2018
+
+SUNDAY    MONDAY      TUESDAY     WEDNESDAY   THURSDAY   FRIDAY       SATURDAY
+1          2           3           4           5          6            7
+[Green Bar]
+8          9           10          11          12         13           14
+
+Outbound France - Inbound TEB
+
+15         16          17          18          19         20           21
+
+Outbound PBI - Inbound TIST
+Outbound TIST - Inbound TEB
+
+22         23          24          25          26         27           28
+
+Outbound TEB - Inbound TIST
+Outbound TIST - Inbound PBI
+
+29         30          1           2           3          4            5
+
+NOTES                                             Airport Codes
+                                                   TEB-Teterboro, NJ   TIST-US Virgin Island    PBI-West Palm Beach, FL
+
+Page 4 of 12
+
+EFTA00006010
+
+## Structured Fields
+- **Date:** April 2018
+- **Document ID/Reference:** EFTA00006010 (Bottom Right)
+- **Page Number:** Page 4 of 12
+- **Locations/Airports:** Teterboro, NJ (TEB), US Virgin Island (TIST), West Palm Beach, FL (PBI)
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+May 2018
+
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+-----------------------------------------------------------
+29     30      1       2        3        4      5
+6      7       8       9        10      11      12
+13     14      15      16       17      18      19
+Outbound TEB - Inbound France
+20     21      22      23       24      25      26
+                Outbound France - Inbound KISP
+27     28      29      30       31      1       2
+Outbound TIST - Inbound PBI
+
+NOTES
+
+Airport Codes
+TEB-Teterboro, NJ    KISP-Long Island, NY
+TIST-US Virgin Island PBI-West Palm Beach, FL
+
+Page 5 of 12
+
+EFTA00006011
+
+## Structured Fields
+*   **Date:** May 2018
+*   **Document ID:** EFTA00006011
+*   **Page:** 5 of 12
+*   **Locations/Airports:**
+    *   TEB - Teterboro, NJ
+    *   KISP - Long Island, NY
+    *   TIST - US Virgin Island
+    *   PBI - West Palm Beach, FL
+*   **Flight/Route Events:**
+    *   Outbound TEB - Inbound France
+    *   Outbound France - Inbound KISP
+    *   Outbound TIST - Inbound PBI
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+June 2018
+
+SUNDAY      MONDAY     TUESDAY    WEDNESDAY  THURSDAY   FRIDAY    SATURDAY
+27          28         29         30         31          1          2
+                                                Outbound PBI - Inbound TIST
+                                                Outbound TIST - Inbound KISP
+
+3           4          5          6          7          8          9
+
+10          11         12         13         14         [Outbound TIST - Inbound PBI]    16
+
+17          18         19         Outbound TEB - Inbound France      21         22         23
+                                                        (Green block)
+
+24          25         26   [Outbound France - Inbound TEB]    28         29         30
+(Green block background)      (Yellow box)
+
+NOTES       1   2
+
+Airport Codes
+TEB-Teterboro, NJ        KISP-Long Island, NY
+TIST-US Virgin Island    PBI-West Palm Beach, FL
+
+Page 6 of 12
+
+EFTA00006012
+
+## Structured Fields
+- **Date:** June 2018 (Page shows late May through end of June)
+- **Page Number:** 6 of 12
+- **Document ID:** EFTA00006012
+- **Locations/Airports:** Teterboro, NJ; Long Island, NY; US Virgin Island; West Palm Beach, FL; France.
+- **Codes/Flights:** PBI (West Palm Beach), KISP (Long Island), TIST (US Virgin Island), TEB (Teterboro).
+- **Routes listed:**
+  - Outbound PBI / Inbound TIST
+  - Outbound TIST / Inbound KISP
+  - Outbound TIST / Inbound PBI
+  - Outbound TEB / Inbound France
+  - Outbound France / Inbound TEB
+
+## Page 20 (DOC) [TAG:DOJ_CLEAN_V2]
+
+July 2018
+
+SUNDAY               MONDAY              TUESDAY             WEDNESDAY            THURSDAY             FRIDAY                  SATURDAY
+1                   2                   3                   4                   5                   6                    **7**
+                                                          **Outbound PBI -**
+                                                         **Inbound TIST**
+
+8                   9                   **10**              11                  12                  13                   14
+                **Outbound TIST -**
+               **Inbound TEB**
+
+15                 16                 17                 18                 19                 20                  **21**
+                                                          **Outbound TEB -**
+                                                         **Inbound France**
+
+22                 23                 24                 25                 26                 27                  28
+
+**29**              30                 31                 1                   2                   3                   4
+**Outbound France -**
+**Inbound TEB**
+
+5                   6                 **NOTES**
+
+                                                    Airport Codes
+TIST-US Virgin Island      TEB-Teterboro, NJ     PBI-West Palm Beach, FL
+
+Page 7 of 12
+EFTA00006013
+
+## Structured Fields
+- **Date:** July 2018 (Calendar covers end of July and start of August)
+- **Doc ID/Case ID:** EFTA00006013
+- **Location/Codes:**
+    - TIST: US Virgin Island
+    - TEB: Teterboro, NJ
+    - PBI: West Palm Beach, FL
+- **Events/Notes:**
+    - Sat, July 7: Outbound PBI -> Inbound TIST
+    - Tue, July 10: Outbound TIST -> Inbound TEB
+    - Sat, July 21: Outbound TEB -> Inbound France
+    - Sun, Aug 29: Outbound France -> Inbound TEB
+- **Page Number:** Page 7 of 12
+
+## Page 21 (DOC) [TAG:DOJ_CLEAN_V2]
+
+August 2018
+
+SUNDAY &nbsp;&nbsp;&nbsp;&nbsp; MONDAY &nbsp;&nbsp;&nbsp;&nbsp; TUESDAY &nbsp;&nbsp;&nbsp;&nbsp; WEDNESDAY &nbsp;&nbsp;&nbsp;&nbsp; THURSDAY &nbsp;&nbsp;&nbsp;&nbsp; FRIDAY &nbsp;&nbsp;&nbsp;&nbsp; SATURDAY
+
+29 &nbsp;&nbsp;&nbsp;&nbsp; 30 &nbsp;&nbsp;&nbsp;&nbsp; 31 &nbsp;&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;&nbsp; 4
+
+| | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **5**<br>Outbound PBI - Inbound TIST | **6**<br>Outbound TIST - Inbound TEB | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | **14**<br>Outbound PBI - Inbound TIST | **15**<br>Outbound TIST - Inbound TEB | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | **25**<br>Outbound TEB - Inbound TIST |
+| 26 | 27 | 28 | **29**<br>Outbound TIST - Inbound PBI | 30 | 31 | 1 |
+
+NOTES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Airport Codes
+2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3
+
+TIST-US Virgin Island &nbsp;&nbsp;&nbsp;&nbsp; TEB-Teterboro, NJ &nbsp;&nbsp;&nbsp;&nbsp; PBI-West Palm Beach, FL
+
+Page 8 of 12
+EFTA00006014
+
+## Structured Fields
+- **Date:** August 2018
+- **Page Number:** Page 8 of 12
+- **Document ID:** EFTA00006014
+- **Locations/Codes:**
+    - TIST: US Virgin Island
+    - TEB: Teterboro, NJ
+    - PBI: West Palm Beach, FL
+- **Flight Codes/Events:**
+    - Outbound PBI / Inbound TIST
+    - Outbound TIST / Inbound TEB
+    - Outbound TEB / Inbound TIST
+    - Outbound TIST / Inbound PBI
+
+## Page 22 (DOC) [TAG:DOJ_CLEAN_V2]
+
+September 2018
+
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+
+26        27        28        29        30        31        1
+
+2         3         4         5                  6                 7                8
+                                            Outbound TEB -
+                                            Inbound France
+
+9         10        11        12      13        14                 15
+Outbound France -
+Inbound TEB
+
+16        17        18        19        20                21              22
+                                              Outbound PBI -
+                                              Inbound TIST
+                                              Outbound TIST -
+                                              Inbound TEB
+
+23        24        25        26        27        28        29
+
+30                  NOTES
+Outbound TEB -                Airport Codes
+Inbound France               TIST-US Virgin Island      TEB-Teterboro, NJ      PBI-West Palm Beach, FL
+
+Page 9 of 12
+
+## Structured Fields
+- **Date:** September 2018
+- **Document ID:** EFTA00006015
+- **Airport Codes / Locations:**
+    - TIST: US Virgin Island
+    - TEB: Teterboro, NJ
+    - PBI: West Palm Beach, FL
+- **Flight Routes Listed:**
+    - Outbound TEB - Inbound France (Sept 6-8, Sept 30)
+    - Outbound France - Inbound TEB (Sept 13)
+    - Outbound PBI - Inbound TIST (Sept 20-21)
+    - Outbound TIST - Inbound TEB (Sept 22)
+
+## Page 23 (DOC) [TAG:DOJ_CLEAN_V2]
+
+October 2018
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+30 1 2 3 4 5 6
+7 8 9 10 Outbound PBI - Inbound TIST 11 Outbound PBI - Inbound TIST 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 Outbound PBI - Inbound TIST 29 30 Outbound TIST - Inbound TEB 31 1 2 3
+4 5 NOTES Airport Codes
+TIST-US Virgin Island TEB-Teterboro, NJ PBI-West Palm Beach, FL
+Page 10 of 12
+EFTA00006016
+
+## Structured Fields
+- **Date:** October 2018
+- **Page:** Page 10 of 12
+- **Document ID:** EFTA00006016
+- **Locations/Airports:** US Virgin Island (TIST), Teterboro, NJ (TEB), West Palm Beach, FL (PBI)
+- **Scheduled Events:**
+    - Oct 10 (Wed): Outbound PBI - Inbound TIST
+    - Oct 11 (Thu): Outbound PBI - Inbound TIST
+    - Oct 28 (Sun): Outbound PBI - Inbound TIST
+    - Oct 30 (Tue): Outbound TIST - Inbound TEB
+
+## Page 24 (DOC) [TAG:DOJ_CLEAN_V2]
+
+November 2018
+
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+28      29    30     31      1   [Green Block]   3
+                                                Outbound TEB - Inbound France
+
+4       5     6      7       8      9           10
+
+[Green Block spanning below]
+
+11      12    13     14      15     16          17
+Outbound France - Inbound TEB
+
+18      19    20     21      22     23          [Blue Block]   24
+                                                        Outbound KBCT - Inbound - TIST
+
+25      26    27     28      29     30          1
+[Blue Block]                               [Yellow Block]
+Outbound KBCT - Inbound - TIST             Outbound TIST - Inbound TEB
+
+NOTES
+TIST-US Virgin Island
+Airport Codes
+TEB-Teterboro, NJ    KBCT-Boco Raton, FL
+
+Page 11 of 12
+
+## Structured Fields
+- **Date:** November 2018
+- **Case ID / Doc ID:** EFTA00006017
+- **Locations / Airport Codes:**
+    - TIST: US Virgin Island
+    - TEB: Teterboro, NJ
+    - KBCT: Boco Raton, FL
+- **Organizations/Entities:** France (Outbound/Inbound)
+
+## Page 25 (DOC) [TAG:DOJ_CLEAN_V2]
+
+December 2018
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+25     26      27       28        29       30         1
+[Grey Block spanning columns]
+2   3    4    5   6   7   8
+9    10    11    12   13                      15
+                            [Red Sticky Note: Outbound TIST - Inbound PBI]
+[Grey Block spanning columns]
+16   17   18   19   20   21   22
+23   24   25   26   27   28   29
+[Grey Block spanning columns starting at Tuesday]
+30    31      NOTES                           Airport Codes
+                                            TIST-US Virgin Island PBI-West Palm Beach, FL
+
+Page 12 of 12
+EFTA00006018
+
+## Structured Fields
+- **Date:** December 2018
+- **Locations:** Virgin Island, West Palm Beach, FL (PBI)
+- **Codes/IDs:** EFTA00006018
+- **Notes Content:** Outbound TIST - Inbound PBI; Airport Codes: TIST-US Virgin Island, PBI-West Palm Beach, FL
+
+## Page 26 (DOC) [TAG:DOJ_CLEAN_V2]
+
+January 2019
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+30 31 1 2 3 4 5
+6 7 8 9 10 11 12
+Outbound KBCT - Inbound TIST Outbound TIST - Inbound TEB
+13 14 15 16 17 18 19
+Outbound TIST - Inbound PBI
+20 21 22 23 24 25 26
+Outbound PBI - Inbound France
+27 28 29 30 31 1 2
+Outbound France - Inbound TEB
+NOTES
+Airport Codes
+KBCT-Boco Raton, FL TIST-US Virgin Island
+TEB-Teterboro, NJ PBI-West Palm Beach, FL
+
+EFTA00006019
+
+## Structured Fields
+- **Date:** January 2019
+- **Document ID:** EFTA00006019
+- **Locations/Airports:**
+    - KBCT (Boco Raton, FL)
+    - TIST (US Virgin Island)
+    - TEB (Teterboro, NJ)
+    - PBI (West Palm Beach, FL)
+    - France (Inbound/Outbound location)
+- **Flight Routes/Schedules:**
+    - Outbound KBCT - Inbound TIST (Jan 6)
+    - Outbound TIST - Inbound TEB (Jan 8)
+    - Outbound TIST - Inbound PBI (Jan 16)
+    - Outbound PBI - Inbound France (Jan 22-26)
+    - Outbound France - Inbound TEB (Jan 30)
+
+## Page 27 (DOC) [TAG:DOJ_CLEAN_V2]
+
+# February 2019
+SUNDAY | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY
+---|---|---|---|---|---|---
+27 | 28 | 29 | 30 | 31 | 1 | 2
+
+3 | 4 | 5 | 6 | 7 | **8**<br>Outbound TIST -<br>Inbound PBI | 9
+10 | 11 | 12 | 13 | 14 | 15 | 16
+17 | 18 | **19**<br>Outbound TIST -<br>Inbound Dom Rep<br>Outbound Dom<br>Rep - Inbound PBI | 20 | 21 | 22 | 23
+24 | 25 | 26 | 27 | 28 | 1 | 2
+
+| NOTES | Airport Codes<br>TIST-US Virgin Island PBI-West Palm Beach, FL
+---|---
+
+Page 2 of 12
+EFTA00006020
+
+## Structured Fields
+*   **Date**: February 2019
+*   **Document ID**: EFTA00006020
+*   **Page**: 2 of 12
+*   **Airport Codes**: TIST (US Virgin Island), PBI (West Palm Beach, FL)
+
+## Page 28 (DOC) [TAG:DOJ_CLEAN_V2]
+
+March 2019
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
+24    25    26    27    28    1    2
+
+3     4     5     6     7     8     9
+
+10    11    12    13       14              15    16
+                          Outbound PBI -   Outbound TIST -
+                          Inbound TIST      Inbound PBI
+
+17    18    19    20    21    22    23
+           Outbound TEB -
+           Inbound France
+
+24    25    26    27    28    29    30
+
+31 NOTES
+Airports Codes
+TIST-US Virgin Island   TEB-Teterboro, NJ   PBI-West Palm Beach, FL
+
+Page 3 of 12
+EFTA00006021
+
+## Structured Fields
+- **Date**: March 2019
+- **Document ID**: EFTA00006021
+- **Airport Codes/Locations**:
+    - TIST-US Virgin Island
+    - TEB-Teterboro, NJ
+    - PBI-West Palm Beach, FL
+- **Flight Itinerary Notes**:
+    - Thursday 14: Outbound PBI / Inbound TIST
+    - Friday 15: Outbound TIST / Inbound PBI
+    - Tuesday 19 - Saturday 23: Outbound TEB / Inbound France
+
+## Page 29 (DOC) [TAG:DOJ_CLEAN_V2]
+
+April 2019
+SUNDAY | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY
+---|---|---|---|---|---|---
+31 | 1 | **Outbound France - Inbound TEB** | 3 | 4 | 5 | 6
+7 | 8 | 9 | 10 | 11 | 12 | 13
+14 | 15 | 16 | 17 | 18 | 19 | 20
+**Outbound TIST - Inbound PBI** | | | | | **Outbound TEB - Inbound France** |
+21 | 22 | 23 | 24 | 25 | 26 | 27
+28 | 29 | 30 | 1 | 2 | 3 | 4
+| | | | | | |
+
+Outbound France - Inbound TEB
+NOTES Airport Codes
+5 | 6
+TIST-US Virgin Island TEB-Teterboro, NJ PBI-West Palm Beach, FL
+
+Page 4 of 12
+
+## Structured Fields
+*   **Date:** April 2019
+*   **Document ID:** EFTA00006022
+*   **Location/Route (Notes):** TIST-US Virgin Island | TEB-Teterboro, NJ | PBI-West Palm Beach, FL
+*   **Events/Flight Info:**
+    *   April 1-2: Outbound France - Inbound TEB (Visual blocks present)
+    *   April 14: Outbound TIST - Inbound PBI
+    *   April 19-20: Outbound TEB - Inbound France
+    *   April 28: Outbound France - Inbound TEB
+
+## Page 30 (DOC) [TAG:DOJ_CLEAN_V2]
+
+May 2019
+SUNDAY               MONDAY              TUESDAY             WEDNESDAY            THURSDAY             FRIDAY               SATURDAY
+28                   29                  30                  1                    2                    3                    4
+5
+Outbound TIST -     6                    7                   8                    9                    10                   11
+Inbound TEB
+12                   13                  14                  15                   16                   17
+                                                                18
+                                                                                       Outbound TIST -
+                                                                                       Inbound PBI
+19                   20                  21                  22                   23                   24                   25
+26                   27                  28                  29                   30                   31                   1
+
+NOTES                                                                                          Airport Codes
+                                                                                                              TIST-US Virgin Island   TEB-Teterboro, NJ   PBI-West Palm Beach, FL
+Page 5 of 12
+
+EFTA00006023
+
+## Structured Fields
+- **Date:** May 2019
+- **Document ID:** EFTA00006023
+- **Page Number:** 5 of 12
+- **Locations/Addresses:**
+  - US Virgin Island
+  - Teterboro, NJ
+  - West Palm Beach, FL
+- **Organization Codes/Names:**
+  - TIST (Outbound)
+  - TEB (Inbound / Inbound from Teterboro)
+  - PBI (Outbound / From PBI-West Palm Beach)
+
+## Page 31 (DOC) [TAG:DOJ_CLEAN_V2]
+
+June 2019
+
+SUNDAY       MONDAY      TUESDAY     WEDNESDAY    THURSDAY    FRIDAY      SATURDAY
+26           27          28         29          30          31          1
+
+2             3          4          5           6          7          8
+
+9             10         11         12          13         14         15
+   [Yellow Highlight]
+   Outbound TIST -
+   Inbound TEB                    Outbound TEB -
+                                  Inbound France
+
+16            17         18         19          20         21         22
+
+23            24         25         26          27         28         29
+
+30            1          NOTES
+                  Airport Codes
+                TEB-Teterboro, NJ
+
+Page 6 of 12
+EFTA00006024
+
+## Structured Fields
+- **Date:** June 2019
+- **Page:** Page 6 of 12
+- **Document ID:** EFTA00006024
+- **Location/Codes:** TEB-Teterboro, NJ
+

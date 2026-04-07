@@ -1,0 +1,49 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008488.pdf ts=2026-03-09T07:29:57 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a standard yellow evidence envelope form, specifically a "Chain of Custody-ELSUR Evidence Envelope" (Form FD-504b), issued by the FBI (Federal Bureau of Investigation), indicated by the partial vertical branding on the left edge ("EVIDENCE FEDERAL BUREAU"). The document is filled out with blue ink and contains several redacted sections (black bars) obscuring names and signatures. The form tracks the handling, storage, and transfer of evidence related to a consensual monitoring intercept. It features specific fields for case filing numbers, intercept details, dates, locations, and a chain-of-custody log listing agents who acquired and released custody of the item. The document shows a timeline of events occurring between late October and mid-November 2009, with subsequent storage dates in December of the same year.
+
+## Visible Text (verbatim)
+**Header Section:**
+- "Chain of Custody-ELSUR Evidence Envelope"
+- "FD-504b (Rev. 8-17-01)"
+- **Enclosure:** [X] Original (Handwritten checkmark)
+- **Medium:** [ ] Magnetic Tape, [ ] Computer Disk, [ ] Printed Material
+- **Case File#:** 72-MM-113327
+- **ID#:** 10-5
+- **Case Agt.:** [Redacted Black Box]
+
+**Intercept Details:**
+- **Agt. Supervising Title III Intercepts:** [Blank]
+- **Court Authorized Intercept - Source/Symbol#:** [Blank]
+- **Consensual Monitoring Intercept - CM# (if assigned):** cm # 5948
+- **Telephonic (TCM)** [Checked], **Nontelectronic (NTCM)** [Unchecked]
+- **Intercept Date:** 10/29/09
+- **Place:** West Palm Beach, FL
+- **Data Transferred for Permanent Storage - Date:** 10/29/09
+- **Time:** 1:47pm
+
+**Interceptee List:**
+- Name Line 1: Paul Bruno Paul Santino (Appears to be two names or a correction)
+- Name Line 2: Alfredo Rodriguez
+
+**Custody Log (Acquired Custody / Released Custody):**
+- **Row 1:** Date: 10/29/09, Time: [Illegible/Scribble], Reason: Evidence. Right Side Date: [Obscured/Redacted but looks like 12...], Reason: Storage. (Note: A number 83242220346 is handwritten next to this row).
+- **Row 2:** Left Side Date: 11/11/09, Time: 7:30 PM, Reason: Evidence entry. Right Side Date: 12/11/09 (approx), Time: 1:30 AM/PM, Reason: Storage.
+- **Row 3:** Left Side Date: 12/10/09, Reason: Duplicate. Right Side Date: 12/10/09, Time: 3:05 PM, Reason: Storage.
+- **Row 4 (Bottom):** Left Side Date: 11/17/09, Time: 2:30 PM (approx), Reason: Dupes. Right Side Date: 11/17/09, Time: 4:50 PM, Reason: Storage.
+
+**Barcode Label:**
+- **Barcode Number:** E02782874
+
+## Notable Details / Clues
+- **Redactions:** Significant portions of the document are blacked out, specifically under the "Signature" lines for both acquired and released custody columns, as well as the entire "Case Agt." field. This is likely done to protect the identity of law enforcement personnel handling the evidence.
+- **Intercept Type:** The checkmark next to "Consensual Monitoring Intercept" combined with "Telephonic (TCM)" indicates this was a wiretap or phone recording where one or both parties consented, distinguishing it from court-authorized surveillance warrants.
+- **Location Context:** The intercept took place in West Palm Beach, FL, suggesting the investigation has geographical relevance to that area.
+- **Evidence Handling:** The "Reason" column frequently cites "Storage" and "Duplicate," indicating that the primary evidence was stored while duplicates were made for other offices (like the one acquiring custody on 11/17/09).
+- **Timeline Discrepancy:** There is a jump in dates. Intercepts occurred on 10/29/09, but custody transfers show dates like 11/11/09 and 11/17/09. This suggests the evidence sat in storage or was transported between jurisdictions during that gap.
+- **Case File Number:** The number "72-MM-113327" is a specific tracking identifier for this instance of evidence within the larger investigation.
+- **Physical Condition:** The form shows signs of wear and handling, with tape residue on the left edge ("EVIDENCE") and barcode label applied to the bottom right, typical of items stored in large evidence lockers.
+

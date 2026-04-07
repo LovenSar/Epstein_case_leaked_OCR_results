@@ -1,0 +1,83 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024426.pdf ts=2026-03-16T10:43:59 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email correspondence thread involving legal documents, likely related to a court case. The top section of the document features standard email headers (From, To, Cc) which are heavily redacted with black rectangular bars. Below the headers is the subject line and a timestamp indicating the message was sent on Monday, August 26, 2019, at roughly 20:17 UTC. The body of this initial message is brief, starting with "Hi," and asking if it is possible to check why previous emails failed to reach Judge Berman or his clerk. This section ends with a sign-off "Thanks," followed by another redacted name block. A horizontal line separates this from the forwarded message below, labeled "Begin forwarded message:". The middle section of the email chain shows headers for a forwarded message, including a specific date/time stamp in EDT (August 26, 2019 at 3:46:43 PM), with the "To" and "Cc" fields blacked out. The bottom section reveals the original message being forwarded, which is addressed "Dear Judge Berman,". It begins by stating that the sender received a request from the Court for contact information regarding victim attorneys. It notes that not all victims are represented but lists the known attorneys below this text. A large, solid black box obscures the bulleted list of attorney names and details. In the bottom right corner of the page, a document identifier "EFTA00024426" is visible in small gray text.
+
+## Visible Text (verbatim)
+**From:** [Redacted]
+**To:** [Redacted]
+**Cc:** [Redacted]
+**Subject:** Fwd: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB)
+**Date:** Mon, 26 Aug 2019 20:17:15 +0000
+
+Hi,
+
+The below emails apparently did not go through to Judge Berman or his clerk. Would it be possible to check and see why that might be?
+
+Thanks,
+[Redacted]
+
+Begin forwarded message:
+
+**From:** [Redacted]
+**Date:** August 26, 2019 at 3:46:43 PM EDT
+**To:** [Redacted]
+**Cc:** [Redacted]
+**Subject:** FW: United States v. Jeffrey Epstein, 19 Cr. 490 (RMB)
+
+**From:** [Redacted]
+**Sent:** Monday, August 26, 2019 1:58 PM
+**To:** [Redacted]
+**Cc:** [Redacted]
+**Subject:** United States v. Jeffrey Epstein, 19 Cr. 490 (RMB)
+
+Dear Judge Berman,
+
+We received a request from the Court for the contact information for victim attorneys. Not all victims are represented by counsel, but the attorneys we are aware of are:
+
+* [Redacted List]
+* [Redacted List]
+* [Redacted List]
+* [Redacted List]
+* [Redacted List]
+* [Redacted List]
+* [Redacted List]
+* [Redacted List]
+
+EFTA00024426
+
+## Notable Details / Clues
+- **Case Reference:** The email chains explicitly reference the legal case "United States v. Jeffrey Epstein, 19 Cr. 490 (RMB)".
+- **Judge Berman:** The correspondence is directed to a specific judge, identified as Judge Berman, suggesting this is official court business.
+- **Date Discrepancy/Detail:** The top email is timestamped Mon, 26 Aug 2019 20:17:15 +0000 (UTC), while the forwarded message header lists a date/time in EDT (August 26, 2019 at 3:46:43 PM EDT), which is consistent with the UTC time (roughly 2 hours earlier).
+- **Request Context:** The text mentions a "request from the Court" for victim attorney contact info, implying an official proceeding or administrative update.
+- **Redaction Pattern:** Almost all personal identifiers (names, email addresses) are scrubbed with black bars to protect privacy, typical of leaked or released legal documents.
+- **Document ID:** The code "EFTA00024426" at the bottom suggests this document was indexed or stored in a specific electronic filing system.
+- **Incomplete List:** The bulleted list at the bottom is completely obscured by a black rectangle, preventing the identification of specific attorneys involved in the case.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Although the Government has made best efforts to notify victims of tomorrow’s proceeding, the Government does not know which victims plan to attend tomorrow’s conference, and it is possible that victims the Government is not aware of may attend.
+
+We have not copied defense counsel here, in order to respect the privacy of the victims.
+
+Respectfully,
+
+[REDACTED]
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+[REDACTED]
+New York, NY 10007
+[REDACTED]
+
+EFTA00024427
+
+## Structured Fields
+*   **Location:** New York, NY 10007
+*   **Organization:** Southern District of New York, Government (US)
+*   **Role/Title:** Assistant United States Attorney
+*   **Doc ID:** EFTA00024427
+

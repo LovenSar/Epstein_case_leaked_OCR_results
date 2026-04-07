@@ -1,0 +1,27 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002533.pdf ts=2026-03-05T20:52:37 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The central subject is a rectangular, silver-colored metallic enclosure, likely an industrial electronic module or server component, resting on a grey concrete floor.
+- The unit features raised mounting brackets (ears) along the top edge, characteristic of 19-inch rack-mounted equipment.
+- Protruding from the top center area are silver metallic connectors, appearing to be SMA-type antenna ports commonly used for RF equipment like radios or GPS units.
+- The back panel surface is a matte metal finish with a grid pattern of circular indentations or mounting posts (dimples), arranged in roughly two rows.
+- Several black cables exit the device from the top edge; one loops down the left side and exits the frame, while another runs along the right side.
+- At the bottom right corner of the device, a black rectangular connector is plugged into the chassis wall, possibly for power input or data output.
+- Lying on the floor connected to the cable assembly near the bottom right is a standard US-style electrical plug with two flat blades (NEMA 1-series style).
+- The cables appear to be standard black rubber-coated wire, loosely routed around the device rather than through dedicated grommets in this view.
+- The lighting creates a bright, diffuse glare across the center of the metal backplate, obscuring some fine surface texture but highlighting the metallic sheen.
+- The surrounding background is a plain, slightly worn grey floor with faint scuff marks and minor discoloration typical of a warehouse or industrial setting.
+- The unit appears unused or stored, as the cables are not connected to a power source or other devices in the frame.
+- The overall aspect ratio suggests the device is relatively short and wide, possibly a blade server or a specific form-factor comms module.
+
+## Visible Text (verbatim)
+EFTA00002533
+
+## Notable Details / Clues
+- **Inventory Tag:** The code "EFTA00002533" in the bottom right corner is likely an asset tag or inventory number from a government or corporate logistics system.
+- **Connector Types:** The visible connectors suggest this is RF hardware; the silver pins at the top are distinctively SMA female or male connectors for antennas.
+- **Mounting Points:** The circular dimples on the back panel are uniform and spaced regularly, indicating a standardized mounting hole pattern for internal screws or heat sink retention.
+- **Cable Condition:** The cables appear functional but loosely coiled, suggesting this is a spare part or equipment waiting for installation.
+

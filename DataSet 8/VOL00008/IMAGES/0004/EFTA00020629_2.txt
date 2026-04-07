@@ -1,0 +1,551 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0004/EFTA00020629.pdf ts=2026-03-14T15:55:28 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Lieutenant’s Office
+
+**Metropolitan Correctional Center New York, N.Y.**
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| Type of Incident | Possible Suicide Attempt |
+| Date and Time of Incident | 07/23/19 - 1:27 AM |
+| Inmate Name/Register Number | Epstein, Jeffrey #76318-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED] Lieutenant |
+| Date and Time of Photo | 07/23/19 - 1:45 AM |
+
+[Photo of individual lying on back in blue jumpsuit]
+
+COPY
+-25-19
+[EFTA00020629]
+
+## Structured Fields
+- **Location:** Metropolitan Correctional Center New York, N.Y. (Special Housing Unit)
+- **Incident Type:** Possible Suicide Attempt
+- **Inmate Name:** Epstein, Jeffrey
+- **Register Number:** #76318-054
+- **Date of Incident:** 07/23/19 at 1:27 AM
+- **Date of Photo:** 07/23/19 at 1:45 AM
+- **Handwritten Date Note:** -25-19 (likely indicating a follow-up or specific log date)
+- **Document ID:** EFTA00020629
+- **Organization:** Department of Justice (Bureau of Prisons implied by seal)
+- **Photographer Rank:** Lieutenant
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Lieutenant’s Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| Type of Incident | Possible Suicide Attempt |
+| Date and Time of Incident | 07/23/19 – 1:27 AM |
+| Inmate Name/Register Number | Epstein, Jeffrey #76318-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED], Lieutenant |
+| Date and Time of Photo | 07/23/19 -1:45 AM |
+
+## Structured Fields
+
+*   **Date:** 07/23/19
+*   **Time (Incident):** 1:27 AM
+*   **Time (Photo):** 1:45 AM
+*   **Location:** Metropolitan Correctional Center New York, N.Y., Special Housing Unit
+*   **Inmate Name:** Epstein, Jeffrey
+*   **Register Number:** #76318-054
+*   **Incident Type:** Possible Suicide Attempt
+*   **Agency:** Department of Justice (Seal in top left)
+*   **Stamp:** COPY
+*   **Document ID:** EFTA00020630
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISON SEAL]
+Lieutenant's Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| Type of Incident | Possible Suicide Attempt |
+| :--- | :--- |
+| Date and Time of Incident | 07/23/19 – 1:27 AM |
+| Inmate Name/Register Number | Epstein, Jeffrey #76318-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED], Lieutenant |
+| Date and Time of Photo | 07/23/19 - 1:45 AM |
+
+[PHOTO IMAGE SHOWING MAN WITH GRAY HAIR IN BLUE QUILTED GARMENT ORIENTATION SIDWAYS]
+[RED STAMP COPY HANDWRITTEN DATE 7-23-19 INITIAL E]
+
+EFTA00020631
+
+## Structured Fields
+*   **Date:** 07/23/19 (Incident), 07/23/19 (Photo)
+*   **Case ID/Register Number:** #76318-054
+*   **Name:** Epstein, Jeffrey
+*   **Location:** Metropolitan Correctional Center New York, N.Y., Special Housing Unit
+*   **Organization:** Department of Justice, Federal Bureau of Prison
+*   **Incident Type:** Possible Suicide Attempt
+*   **Document ID:** EFTA00020631
+*   **Person Title:** Lieutenant
+*   **Status:** COPY
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Department of Justice [SEAL IMAGE]
+Lieutenant's Office
+
+**Metropolitan Correctional Center New York, N.Y.**
+**Photo Sheet**
+**Special Investigative Section**
+
+| | |
+| :--- | :--- |
+| Type of Incident | *Possible Suicide Attempt* |
+| Date and Time of Incident | 07/23/19 – 1:27 AM |
+| Inmate Name/Register Number | Epstein, Jeffrey #76318-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED], Lieutenant |
+| Date and Time of Photo | 07/23/19 -1:45 AM |
+
+[IMAGE OF MAN LAYING ON BED]
+*Stamp: COPY (in red circle)*
+*Handwritten note near stamp: 7-23-19*
+
+EFTA00020632
+
+## Structured Fields
+*   **Date of Incident:** 07/23/19 - 1:27 AM
+*   **Date of Photo:** 07/23/19 - 1:45 AM
+*   **Inmate Name:** Epstein, Jeffrey
+*   **Register Number:** #76318-054
+*   **Location:** Metropolitan Correctional Center New York, N.Y.
+*   **Specific Unit:** Special Housing Unit
+*   **Organization:** Department of Justice, FBI (Logo present), Metropolitan Correctional Center
+*   **Section:** Special Investigative Section
+*   **Role:** Lieutenant
+*   **Document ID:** EFTA00020632
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+Lieutenant's Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| **Type of Incident** | *Possible Suicide Attempt* |
+| **Date and Time of Incident** | 07/23/19 - 1:27 AM |
+| **Inmate Name/Register Number** | *Epstein, Jeffrey #76318-054* |
+| **Location of Incident** | *Special Housing Unit* |
+| **Photograph(s) by** | [REDACTED], Lieutenant |
+| **Date and Time of Photo** | 07/23/19 - 1:45 AM |
+
+[Image showing a photograph of arms resting on legs]
+
+COPY 7-23-19 (stamped in red)
+
+EFTA00020633
+```
+
+## Structured Fields
+*   **Date/Time of Incident:** 07/23/19 - 1:27 AM
+*   **Date/Time of Photo:** 07/23/19 - 1:45 AM
+*   **Location:** Metropolitan Correctional Center New York, N.Y.
+*   **Unit Location:** Special Housing Unit
+*   **Inmate Name:** Epstein, Jeffrey
+*   **Register Number:** #76318-054
+*   **Organization:** Department of Justice / Federal Bureau of Prisons (Logo)
+*   **Document Type:** Photo Sheet (Special Investigative Section)
+*   **Incident Type:** Possible Suicide Attempt
+*   **Photographer Designation:** Lieutenant
+
+## Page 6 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Transcription
+
+**[Logo: DEPARTMENT OF JUSTICE / FEDERAL BUREAU OF PRISONS]**
+Lieutenant’s Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| **Type of Incident** | *Possible Suicide Attempt* |
+| **Date and Time of Incident** | *07/23/19 - 1:27 AM* |
+| **Inmate Name/Register Number** | *Epstein, Jeffrey #76318-054* |
+| **Location of Incident** | *Special Housing Unit* |
+| **Photograph(s) by** | [REDACTED] , Lieutenant |
+| **Date and Time of Photo** | *07/23/19 - 1:45 AM* |
+
+[Image of bare feet on a concrete floor with debris nearby.]
+
+**[Stamp: COPY]**
+**[Handwritten Note: 7-23-19]**
+
+EFTA00020634
+
+## Structured Fields
+
+*   **Date:** 07/23/19
+*   **Time (Incident):** 1:27 AM
+*   **Time (Photo):** 1:45 AM
+*   **Inmate Name:** Epstein, Jeffrey
+*   **Register Number:** #76318-054
+*   **Facility:** Metropolitan Correctional Center New York, N.Y.
+*   **Location of Incident:** Special Housing Unit
+*   **Incident Type:** Possible Suicide Attempt
+*   **Agency:** Federal Bureau of Prisons / Department of Justice
+*   **Document ID:** EFTA00020634
+
+## Page 7 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Metropolitan Correctional Center New York, N.Y. Photo Sheet Special Investigative Section
+
+| | |
+| :--- | :--- |
+| **Type of Incident** | *Possible Suicide Attempt* |
+| **Date and Time of Incident** | *07/23/19 – 1:27 AM* |
+| **Inmate Name/Register Number** | *Epstein, Jeffrey #76318-054* |
+| **Location of Incident** | *Special Housing Unit* |
+| **Photograph(s) by** | **[REDACTED]. Lieutenant** |
+| **Date and Time of Photo** | *07/23/19 - 1:45 AM* |
+
+[Image: Photograph showing bare feet and lower legs lying on a light-colored surface]
+
+**COPY 7-23-19**
+
+EFTA00020635
+
+## Structured Fields
+*   **Facility:** Metropolitan Correctional Center New York, N.Y.
+*   **Section:** Special Investigative Section
+*   **Incident Type:** Possible Suicide Attempt
+*   **Incident Date:** 07/23/19
+*   **Incident Time:** 1:27 AM
+*   **Location:** Special Housing Unit
+*   **Inmate Name:** Epstein, Jeffrey
+*   **Register Number:** #76318-054
+*   **Photographer Rank:** Lieutenant
+*   **Photo Date:** 07/23/19
+*   **Photo Time:** 1:45 AM
+*   **Document ID:** EFTA00020635
+
+## Page 8 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Lieutenant's Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+Type of Incident                                      Possible Suicide Attempt
+Date and Time of Incident                              07/23/19 - 1:27 AM
+Inmate Name/Register Number                        Epstein, Jeffrey #76318-054
+Location of Incident                                  Special Housing Unit
+Photograph(s) by                                              Lieutenant
+Date and Time of Photo                                    07/23/19 - 1:45 AM
+
+COPY
+7-23-19
+
+EFTA00020636
+
+## Structured Fields
+- **Date:** 07/23/19
+- **Location:** Metropolitan Correctional Center New York, N.Y.
+- **Incident Location:** Special Housing Unit
+- **Inmate Name:** Epstein, Jeffrey
+- **Register Number:** #76318-054
+- **Organization:** Department of Justice / FBI Bureau of Prisons
+
+## Page 9 (DOC) [TAG:DOJ_CLEAN_V2]
+
+## Lieutenant's Office
+
+# Metropolitan Correctional Center New York, N.Y.
+## Photo Sheet
+### Special Investigative Section
+
+| | |
+| :--- | :--- |
+| **Type of Incident** | *Possible Suicide Attempt(Cellmate)* |
+| **Date and Time of Incident** | 07/23/19 – 1:27 AM |
+| **Inmate Name/Register Number** | *Tartaglione, Nicholas #78514-054* |
+| **Location of Incident** | *Special Housing Unit* |
+| **Photograph(s) by** | **[REDACTED]**, Lieutenant |
+| **Date and Time of Photo** | 07/23/19 -2:25 AM |
+
+[Photo of inmate in orange shirt]
+COPY
+(EFT A00020637)
+
+## Structured Fields
+*   **Organization:** Metropolitan Correctional Center New York, N.Y. (Department of Justice Federal Bureau of Investigation)
+*   **Inmate Name:** Tartaglione, Nicholas
+*   **Register Number:** #78514-054
+*   **Location:** Special Housing Unit
+*   **Date/Time of Incident:** 07/23/19 at 1:27 AM
+*   **Type of Incident:** Possible Suicide Attempt (Cellmate)
+*   **Document ID:** EFTA00020637
+
+## Page 10 (DOC) [TAG:DOJ_CLEAN_V2]
+
+DEPARTMENT OF JUSTICE
+BUREAU OF PRISONS
+Lieutenant's Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| Type of Incident | Possible Suicide Attempt(Cellmate) |
+| Date and Time of Incident | 07/23/19 – 1:27 AM |
+| Inmate Name/Register Number | Tartaglione, Nicholas #78514-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED], Lieutenant |
+| Date and Time of Photo | 07/23/19 -2:25 AM |
+
+[PHOTOGRAPH OF HANDS IN HANDCUFFS]
+
+COPY 7-23-19
+B
+
+EFTA00020638
+
+## Structured Fields
+
+- **Organization:** Metropolitan Correctional Center New York, N.Y. (Department of Justice / Bureau of Prisons)
+- **Section:** Special Investigative Section
+- **Incident Type:** Possible Suicide Attempt (Cellmate)
+- **Date and Time of Incident:** 07/23/19 - 1:27 AM
+- **Location:** Special Housing Unit
+- **Inmate Name:** Tartaglione, Nicholas
+- **Register Number:** #78514-054
+- **Photographer Rank:** Lieutenant
+- **Photo Timestamp:** 07/23/19 - 2:25 AM
+- **Document ID:** EFTA00020638
+
+## Page 11 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Lieutenant's Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| Type of Incident | Possible Suicide Attempt(Cellmate) |
+| Date and Time of Incident | 07/23/19 - 1:27 AM |
+| Inmate Name/Register Number | Tartaglione, Nicholas #78514-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED], Lieutenant |
+| Date and Time of Photo | 07/23/19 -2:25 AM |
+
+[COPY stamp with handwritten date 7-23-19]
+
+EFTA00020639
+
+## Structured Fields
+*   **Organization**: Metropolitan Correctional Center New York, N.Y., Department of Justice (via seal)
+*   **Location**: Special Housing Unit
+*   **Incident Type**: Possible Suicide Attempt (Cellmate)
+*   **Date of Incident**: 07/23/19
+*   **Time of Incident**: 1:27 AM
+*   **Date of Photo**: 07/23/19
+*   **Time of Photo**: 2:25 AM
+*   **Inmate Name**: Tartaglione, Nicholas
+*   **Register Number**: #78514-054
+*   **Photographer Rank**: Lieutenant
+*   **Document ID**: EFTA00020639
+
+## Page 12 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Lieutenant's Office
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| Type of Incident | Possible Suicide Attempt(Cellmate) |
+| :--- | :--- |
+| Date and Time of Incident | 07/23/19 – 1:27 AM |
+| Inmate Name/Register Number | Tartaglione, Nicholas #78514-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED] Lieutenant |
+| Date and Time of Photo | 07/23/19 -2:25 AM |
+
+[Image depicting bare feet/legs on a tiled floor; person wearing black shorts with red stripe]
+COPY
+7-23-19 (handwritten date/stamp)
+
+EFTA00020640
+
+## Structured Fields
+- **Date of Incident:** 07/23/19 - 1:27 AM
+- **Date of Photo:** 07/23/19 - 2:25 AM
+- **Location:** Metropolitan Correctional Center New York, N.Y., Special Housing Unit
+- **Inmate Name:** Tartaglione, Nicholas
+- **Register Number:** #78514-054
+- **Organization:** Department of Justice, Federal Bureau of Prisons, Lieutenant's Office, Metropolitan Correctional Center Special Investigative Section
+- **Incident Type:** Possible Suicide Attempt(Cellmate)
+- **Document ID:** EFTA00020640
+
+## Page 13 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Department of Justice
+Federal Bureau of Prisons
+Lieutenant's Office
+
+**Metropolitan Correctional Center New York, N.Y.**
+**Photo Sheet**
+**Special Investigative Section**
+
+| | |
+| :--- | :--- |
+| **Type of Incident** | *Possible Suicide Attempt(Cellmate)* |
+| **Date and Time of Incident** | 07/23/19 – 1:27 AM |
+| **Inmate Name/Register Number** | Tartaglione, Nicholas #78514-054 |
+| **Location of Incident** | Special Housing Unit |
+| **Photograph(s) by** | [REDACTED], Lieutenant |
+| **Date and Time of Photo** | 07/23/19 -2:25 AM |
+
+[Image of a person's back/side]
+
+COPY 72311
+
+EFTA00020641
+
+## Structured Fields
+
+*   **Organization:** Federal Bureau of Prisons / Department of Justice
+*   **Facility:** Metropolitan Correctional Center New York, N.Y.
+*   **Location:** Special Housing Unit
+*   **Inmate Name:** Tartaglione, Nicholas
+*   **Register Number:** #78514-054
+*   **Incident Type:** Possible Suicide Attempt (Cellmate)
+*   **Date/Time of Incident:** 07/23/19 – 1:27 AM
+*   **Photographer Rank:** Lieutenant
+*   **Date/Time of Photo:** 07/23/19 -2:25 AM
+
+## Page 14 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[SEAL IMAGE: DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS] Lieutenant's Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| Type of Incident | Possible Suicide Attempt(Cellmate) |
+| Date and Time of Incident | 07/23/19 - 1:27 AM |
+| Inmate Name/Register Number | Tartaglione, Nicholas #78514-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED], Lieutenant |
+| Date and Time of Photo | 07/23/19 -2:25 AM |
+
+[PHOTOGRAPH: Inmate lying on back, orange shirt pulled up, dark pants. Image is rotated sideways relative to text headers.]
+
+[RED STAMP: COPY] [Handwritten signature/illegible marks next to stamp]
+
+EFTA00020642
+
+## Structured Fields
+- **Organization:** Department of Justice, Federal Bureau of Prisons, Metropolitan Correctional Center New York, N.Y.
+- **Unit Section:** Special Investigative Section
+- **Incident Type:** Possible Suicide Attempt(Cellmate)
+- **Date and Time of Incident:** 07/23/19 - 1:27 AM
+- **Inmate Name:** Tartaglione, Nicholas
+- **Register Number:** #78514-054
+- **Location:** Special Housing Unit
+- **Photographer:** [REDACTED], Lieutenant
+- **Date and Time of Photo:** 07/23/19 - 2:25 AM
+- **Document ID:** EFTA00020642
+
+## Page 15 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Lieutenant’s Office
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| Type of Incident | Possible Suicide Attempt |
+| Date and Time of Incident | 07/23/19 - 1:27 AM |
+| Inmate Name/Register Number | Epstein, Jeffrey #76318-054 |
+| Location of Incident | Special Housing Unit |
+| Photograph(s) by | [REDACTED], Lieutenant |
+| Date and Time of Photo | 07/23/19 - 1:55 AM |
+
+[Photograph of an orange strap/cord on a wooden surface]
+
+COPY
+7-23-19
+
+EFTA00020643
+
+## Structured Fields
+- **Organization:** Metropolitan Correctional Center New York, N.Y., Special Investigative Section, Department of Justice
+- **Location:** Special Housing Unit
+- **Name:** Epstein, Jeffrey
+- **Register Number:** #76318-054
+- **Incident Type:** Possible Suicide Attempt
+- **Date of Incident:** 07/23/19
+- **Time of Incident:** 1:27 AM
+- **Time of Photo:** 1:55 AM
+- **Photographer Rank:** Lieutenant
+- **Document ID:** EFTA00020643
+
+## Page 16 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Department of Justice
+Federal Bureau of Prisons
+Lieutenant's Office
+
+Metropolitan Correctional Center New York, N.Y.
+Photo Sheet
+Special Investigative Section
+
+| | |
+| :--- | :--- |
+| **Type of Incident** | *Possible Suicide Attempt* |
+| **Date and Time of Incident** | 07/23/19 – 1:27 AM |
+| **Inmate Name/Register Number** | Epstein, Jeffrey #76318-054 |
+| **Location of Incident** | Special Housing Unit |
+| **Photograph(s) by** | [REDACTED], Lieutenant |
+| **Date and Time of Photo** | 07/23/19 – 1:55 AM |
+
+[Photo Image depicting an orange strap/cord on a wooden surface]
+COPY
+7-23-19
+
+EFTA00020644
+
+## Structured Fields
+*   **Date of Incident:** 07/23/19
+*   **Time of Incident:** 1:27 AM
+*   **Time of Photo:** 1:55 AM
+*   **Facility:** Metropolitan Correctional Center New York, N.Y.
+*   **Location within Facility:** Special Housing Unit
+*   **Inmate Name:** Epstein, Jeffrey
+*   **Register Number:** #76318-054
+*   **Incident Type:** Possible Suicide Attempt
+*   **Document ID:** EFTA00020644
+

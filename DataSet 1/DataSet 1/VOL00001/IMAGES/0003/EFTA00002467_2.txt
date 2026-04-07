@@ -1,0 +1,56 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002467.pdf ts=2026-03-05T20:18:53 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays the underside of a black portable computer, specifically a Toshiba Satellite model, resting on a white, slightly textured surface with faint blue stains visible in the upper left corner. The laptop is positioned horizontally, filling most of the frame. On the far left edge, a black power cable is partially visible, plugged into a port on the chassis. The bottom-left section features two prominent adhesive labels: an upper sticker containing regulatory compliance marks (FCC, CE) and serial information, and a lower sticker displaying Windows licensing keys. Moving towards the center-right of the device, there are multiple ventilation grilles designed for airflow; specifically, a vertical intake grille is centrally located, flanked by other cooling vents. The bottom edge of the laptop houses the battery compartment area, characterized by a recessed panel. On the right side, near the rear hinge area, additional warning labels regarding heat hazards are printed directly onto the plastic casing. Several rubber feet are visible at the corners (top left, top right, bottom right) to prevent sliding and protect surfaces. The surface of the laptop shows signs of use, including minor scuffs, dust accumulation in the vent slats, and a faint scratch pattern across the central plastic panel near the battery cover latch area.
+
+## Visible Text (verbatim)
+**Upper Sticker (Main Label):**
+> TOSHIBA
+> Satellite L635-S3048 SYSTEM UNIT
+> PART NO. PSK00U-02002X <ESS.O>
+> SERIAL NO. 9A283737Q
+> DC 19V --- 3.42A
+> TOSHIBA CORPORATION
+> ACN: 001 320 421
+> Z218
+> Aesthetic Design by Toshiba
+
+**Lower Sticker (License):**
+> Windows® 7 Home Premium
+> TOSHIBA
+> [Barcode]
+> G66C30820C10
+> Product Key: CMYF2-Y4YPB-TJ2CK-X1M5-V3R32
+> X16-96872
+
+**Warning Label (Right Side):**
+> CAUTION
+> PC BASE CAN BECOME HOT!
+> AVOID PROLONGED CONTACT
+> TO PREVENT HEAT INJURY TO SKIN.
+> ATTENTION
+> LA BASE DU PC PEUT S'ÉCHAUFFER.
+> ÉVITER LE CONTACT PROLONGE
+> AVEC LA PEAU POUR PREVENIR
+> LES RISQUES DE BRULURES
+> 65102/19621
+
+**Regulatory Markings:**
+> FC NOM CB CE TCB
+
+**Bottom Right Corner (Battery Warning):**
+> CONTAINS NICKEL-Cadmium / NICHEL-METAL-HYDRIDE MINUS LITHIUM ION BATTERY. MUST BE RECYCLED OR DISPOSED OF PROPERLY
+
+## Notable Details / Clues
+*   **Power Status:** The presence of the thick black power cable plugged into the left side suggests the laptop is currently connected to mains power or was recently in use.
+*   **Model Identification:** The specific model "Satellite L635-S3048" identifies this as a mid-range business/classic consumer laptop from roughly 2010-2011 era, typically equipped with Intel Core i5/i7 processors and HDDs (not SSD, based on typical specs of that chassis revision).
+*   **Operating System:** The license key sticker confirms the computer originally ran Windows 7 Home Premium.
+*   **Regulatory Compliance:** The presence of "ACN: 001 320 421" indicates compliance with Canadian standards for digital apparatus, while the "CE" logo denotes EU compliance.
+*   **Battery Type:** A tiny warning text near the bottom right edge explicitly states the battery contains Nickel-Cadmium or Ni-MH (common in Toshiba laptops of that era to extend battery life) and warns about Lithium-ion disposal.
+*   **Surface Condition:** The white surface beneath the laptop is not pristine; it has blue paint flecks and a darker smudge near the top left corner, suggesting a workshop, construction site, or messy desk environment rather than a clean home office setup.
+*   **Ventilation Layout:** The central vertical vent with horizontal slats indicates an intake fan system, crucial for cooling the internal hard drive and CPU heat pipes located directly above it.
+*   **Panel Latches:** Faint indentations and screws are visible near the bottom center edge, indicating a secondary panel latch or battery release mechanism typical of this laptop model to allow for easy transport and RAM upgrades.
+*   **Serial Number:** The specific serial number "9A283737Q" allows for unique identification of this exact unit's manufacturing history if looked up in a corporate IT database.
+

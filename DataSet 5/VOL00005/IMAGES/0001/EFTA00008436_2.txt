@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008436.pdf ts=2026-03-09T06:54:08 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- **Central Object:** A 3.5-inch form factor computer hard drive is the primary subject, positioned vertically in the center of the frame. It is encased within a translucent, pink-tinted anti-static bag that conforms tightly around its rectangular shape.
+- **Packaging Material:** The plastic bag shows significant specular highlights and light refraction, indicating a direct flash light source. The material appears to be standard polyethylene used for electronics shipping or evidence handling.
+- **Handwritten Label:** Near the top of the hard drive (visually bottom-center due to inversion), there is a strip of beige tape or paper bearing the handwritten text "Clone #6" in black ink, written in capital letters with a hash symbol.
+- **Underlying Hardware:** Through the semi-transparent plastic and white label on the drive casing, silver screws and mounting points are faintly visible along the edges, typical of a standard desktop HDD chassis.
+- **Container Base:** The drive rests on a brown cardboard box flap. The cardboard is uncorrugated or light-grade kraft paper. There are vertical perforation lines visible on the right side of the box flap.
+- **Substrate:** Beneath the plastic bag and box, a white sheet of paper is visible, likely an evidence manifest or chain-of-custody form. This paper rests on a hard surface.
+- **Surface Texture:** The background surface is a speckled countertop, resembling granite or terrazzo. It features a mix of gray, beige, black, and blue mineral flecks in a dense, random pattern.
+- **Box Branding:** At the very top edge of the image, printed on the cardboard flap, is the logo for "SMEAD," an office supply brand, along with part numbers. The text is inverted relative to the viewer.
+- **Image Watermark:** In the bottom right corner, a digital ID watermark reads "EFTA00008436" in black sans-serif font.
+
+## Visible Text (verbatim)
+- **On Box Flap (Top Edge - Inverted):** "SMEAD", "No. 10682", "UPC 79407", "[barcode]"
+- **On Hard Drive Label (Inverted at bottom of frame):** "NEW YORK CART LAB", "Desktop HDD", "NYC027706" [Serial number area], Barcode, QR Code.
+- **Handwritten on Tape:** "Clone #6"
+- **Image Watermark (Bottom Right):** "EFTA00008436"
+
+## Notable Details / Clues
+- **Forensic Context:** The label "Clone #6" strongly implies this drive is part of a data duplication or forensic imaging process, where multiple drives are imaged sequentially.
+- **Entity Identification:** The text "New York CART LAB" suggests the equipment belongs to a specific laboratory, potentially within a government or legal context (CART often stands for Criminal Administration Research Task Force in New York law enforcement contexts).
+- **Inventory Management:** The presence of a specific serial number area ("NYC027706") indicates this is an inventoryed piece of equipment.
+- **Storage Standard:** The SMEAD box and anti-static bag indicate standard office or forensic storage protocols for sensitive electronics to prevent electrostatic discharge (ESD).
+- **Orientation:** Both the hard drive and the box text are inverted, suggesting the photo was taken while looking down into an open box where items were placed face-down.
+- **Evidence Handling:** The careful placement on a white paper suggests this is being logged or photographed for documentation purposes before storage.
+

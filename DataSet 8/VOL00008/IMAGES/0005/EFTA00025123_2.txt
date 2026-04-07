@@ -1,0 +1,98 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025123.pdf ts=2026-03-16T17:23:17 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of a text-based email chain displayed on a white background. The layout consists of a primary email header at the top followed by the main body message, which replies to two previous "Original Message" threads stacked vertically below it. Large black redaction bars obscure sensitive personal identifying information (PII) such as names, addresses, dates of birth, social security numbers, and account numbers throughout the document.
+
+At the very top, standard email header fields are visible but heavily obscured by black bars next to the labels "From:", "To:", and "Cc:". Below these headers is the subject line "RE: Keep Open Letter - USAA" and a timestamp of "Mon, 02 Mar 2020 20:50:36 +0000". A horizontal rule separates the header from the body text. The main message begins with a salutation to "Alex" regarding identifiers. It lists two individuals: "Ghislaine Maxwell aka Ghislaine Borgerson" and "Scott Borgerson." Underneath each name, fields for DOB (Date of Birth) and SSN (Social Security Number) are present but the digits are covered by black bars. A final field labeled "USAA Account number" is also redacted. The message ends with "Thanks!".
+
+Below this message is a separator line labeled "----Original Message----". This section shows an email sent on "Monday, March 02, 2020 3:00 PM." The sender's name and recipient information are blacked out. The visible text explains that the sender needs names and SSNs for people being asked to keep accounts open. The writer notes they know "Maxwell's name" but requests info on "her" and "anybody else," promising to send a letter that day.
+
+The final section at the bottom is another "----Original Message----" sent earlier that same day at 13:31 (1:31 PM). The header fields are obscured. The body text starts with "Hey all," followed by a request: "Could you provide a Keep Open Letter for USAA bank?" In the bottom right corner, there is a faint alphanumeric code "EFTA00025123", likely a case reference number or document control ID.
+
+## Visible Text (verbatim)
+**Header:**
+From: [Redacted]
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Keep Open Letter - USAA
+Date: Mon, 02 Mar 2020 20:50:36 +0000
+
+**Main Body:**
+Hey Alex, see below regarding identifiers.
+
+Ghislaine Maxwell aka Ghislaine Borgerson
+DOB: [Redacted]
+SSN: [Redacted]
+
+Scott Borgerson
+DOB: [Redacted]
+SSN: [Redacted]
+
+USAA Account number
+[Redacted]
+
+Thanks!
+
+**Original Message 1:**
+----Original Message----
+From: [Redacted]
+Sent: Monday, March 02, 2020 3:00 PM
+To: [Redacted]
+Cc: [Redacted]
+Subject: RE: Keep Open Letter - USAA
+[Redacted Name/Initials] I think you mentioned on the phone earlier that they need the names and SSNs of the people we're asking to keep open -- obviously I know Maxwell's name but could you please send any other info we need for her, as well as any other names and info for anybody else? And I'll get this letter to you today. Thanks.
+
+**Original Message 2:**
+----Original Message----
+From: [Redacted]
+Sent: Monday, March 02, 2020 13:31
+To: [Redacted]
+Cc: [Redacted]
+Subject: Keep Open Letter - USAA
+Hey all,
+
+Could you provide a Keep Open Letter for USAA bank?
+
+**Footer:**
+EFTA00025123
+
+## Notable Details / Clues
+*   **High-Profile Subjects:** The email references "Ghislaine Maxwell" (a convicted felon in the Jeffrey Epstein sex trafficking case) and aliases/associates like "Scott Borgerson," suggesting this is evidence or a record related to that specific legal scandal.
+*   **"Keep Open Letter":** This term refers to a letter used by banks to freeze assets of individuals suspected of tax evasion or fraud until a court ruling changes it, often associated with the Epstein investigation.
+*   **Data Breach/Leak Context:** The presence of SSNs and full names in an email that has been leaked (implied by the specific reference number at the bottom) indicates a potential privacy breach involving financial institutions like USAA.
+*   **Redaction Strategy:** The redactors have carefully blacked out direct identifiers (names, DOB, SSN) while leaving the structural context of the email visible, which suggests this document might be intended for internal review or legal documentation rather than public release.
+*   **Timestamp Discrepancy:** The main reply is dated 20:50:36 UTC (roughly 4:50 PM EST), while the nested emails are from earlier that same day (1:31 PM and 3:00 PM).
+*   **Document ID:** The code "EFTA00025123" at the bottom right is likely an internal tracking number from a law enforcement agency or financial compliance department.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+I've attached a template provided by USAA.
+
+USAA; CASE NUMBER [REDACTED]
+
+The individual I've been speaking with is [REDACTED] who is the [REDACTED] AML Investigations and Compliance.
+USAA, Tampa Crosstown
+[REDACTED] Tampa, FL 33619
+
+If you could send me the letter when completed and I'll send it over to [REDACTED]
+
+Thank you,
+[REDACTED]
+[REDACTED]
+Special Agent
+FBI New York
+VCAC/Human Trafficking
+C: [REDACTED]
+O: [REDACTED]
+
+EFTA00025124
+
+## Structured Fields
+*   **Organization:** USAA, FBI New York
+*   **Location:** Tampa, FL 33619 (USAA, Tampa Crosstown)
+*   **Unit/Division:** VCAC/Human Trafficking
+*   **Case ID:** [REDACTED] (Preceded by "USAA; CASE NUMBER")
+*   **Department:** AML Investigations and Compliance
+

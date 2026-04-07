@@ -1,0 +1,234 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024864.pdf ts=2026-03-16T14:37:24 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+7/20/2021                                      FD-1087
+31E-MM-108062 - 1B10
+
+Evidence Item: 31E-MM-108062 -- 1B10
+Evidence Type: General
+Description: (U//FOUO) One red rope: ONE (1) BOOK-MASSAGE FOR DUMMIES
+Location: E03707388 - ECR8
+          E616844 - ECR8, VS33
+          E5448596 - ECR8, VS33 A
+Barcode: E6516712
+
+Details
+
+Collected On: 08/07/2007 8:00 AM                    Receipt Item #: None
+CATS ID #: None                                      CATS Abandonment #: None
+FBI Seizure #: None                                  Abandonment #: None
+
+Storage Location                                    Discovery Location
+Holding Office: NY - NEW YORK                        Area: Unavailable in data migrated from ACS
+Finalized By: [REDACTED]                            Seizing Individual: [REDACTED]
+Last Inventory: 07/20/2021 12:00 AM                  Specific: Unavailable in data migrated from ACS
+                                                      Collected By: [REDACTED]
+
+Retention
+Retention: Missing
+
+Legal Caveats
+None
+
+Chain of Custody
+
+Shipping Log
+
+History
+
+Acquisition Event
+Acquisition Event: (U//FOUO) Items migrated on 2007-08-07
+Collected From: (U//FOUO) [REDACTED]                2210 48TH TERRACE NORTH
+                                                      WEST PALM BEACH, FL,
+
+Receipt Given: No                                    Holding Office: MM - MIAMI
+Holding Office: MM - MIAMI                           Evidence Log: Missing
+Evidence Log: Missing                                Missing
+
+https://sentinel.fbinet.fbi/lavender///Cases/2383628                                  1/1
+EFTA00024864
+
+## Structured Fields
+- **Date**: 7/20/2021, 08/07/2007 8:00 AM, 07/20/2021 12:00 AM, 2007-08-07
+- **Case ID / Document ID**: FD-1087, 31E-MM-108062 - 1B10, 2383628
+- **Evidence Item ID**: 31E-MM-108062 -- 1B10
+- **Barcode**: E6516712
+- **Location Codes**: E03707388 - ECR8, E616844 - ECR8, VS33, E5448596 - ECR8, VS33 A
+- **Description**: One red rope: ONE (1) BOOK-MASSAGE FOR DUMMIES
+- **Holding Office**: NY - NEW YORK, MM - MIAMI
+- **Discovery Area**: [Unavailable]
+- **Legal Caveats**: None
+- **Retention Status**: Missing
+- **Acquisition Location**: 2210 48TH TERRACE NORTH, WEST PALM BEACH, FL
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FD-1004 Revised 9-25-2006
+FEDERAL BUREAU OF INVESTIGATION
+EVIDENCE CHAIN-OF-CUSTODY
+
+Evidence Type: [X]General [ ]Drug [ ]Valuable [ ]Firearms [ ]CART
+
+| Special Handling Instructions | Initial Receipt | Date and Time |
+| :--- | :--- | :--- |
+| [ ] Batteries [ ] Biohazard [ ] FGJ | Signature: [REDACTED] | 8/7/07 |
+| [ ] HAZMAT [ ] Latents [ ] Refrigerate | Printed Name: [REDACTED] | 11:00 AM |
+| [ ] Req. Charging [ ] None | Reason: Collected | |
+| [ ] Other | | |
+
+| Relinquished Custody | Date and Time | Accepted Custody | Date and Time |
+| :--- | :--- | :--- | :--- |
+| Signature: John T. Michael | 02/08/2008<br>10:00 am | Signature: [REDACTED] | 02/08/2008<br>10:09 am* |
+| Printed Name: [REDACTED] | | Printed Name: [REDACTED] | |
+| Reason: TRANSPORT | | Reason: Transport | |
+
+| Relinquished Custody | Date and Time | Accepted Custody | Date and Time |
+| :--- | :--- | :--- | :--- |
+| Signature: [REDACTED] | 02/08/2008<br>3:30 pm | Signature: gjl | 2-08-08<br>330 PM |
+| Printed Name: [REDACTED] | | Printed Name: [REDACTED] | |
+| Reason: Relinquished Custody | | Reason: STORAGE | |
+
+| Relinquished Custody | Date and Time | Accepted Custody | Date and Time |
+| :--- | :--- | :--- | :--- |
+| Signature: gj | 4-10-08<br>11:00 AM | Signature: [REDACTED] | 4/10/2008<br>11:01 am |
+| Printed Name: [REDACTED] | | Printed Name: [REDACTED] | |
+| Reason: RELEASED TO SA. | | Reason: Review | |
+
+| Relinquished Custody | Date and Time | Accepted Custody | Date and Time |
+| :--- | :--- | :--- | :--- |
+| Signature: [REDACTED] | 01-13-09<br>314 PM | Signature: GL | 1-13-09<br>314 PM |
+| Printed Name: [REDACTED] | | Printed Name: [REDACTED] | |
+| Reason: Return of IB | | Reason: STORAGE | |
+
+| Relinquished Custody | Date and Time | Accepted Custody | Date and Time |
+| :--- | :--- | :--- | :--- |
+| Signature: (handwritten note 14/19) | | Signature: | |
+| Printed Name: | | Printed Name: | |
+| Reason: | | Reason: | |
+
+Firearms Certification:
+Printed Name: ____________________ Signature: ____________________ Date: _____________
+Case ID: ZIE-MM-K6U62 1B: 10 Barcode: E4989937
+E6516722 (Handwritten below barcode)
+
+## Structured Fields
+- **Document ID:** FD-1004
+- **Organization:** Federal Bureau of Investigation
+- **Evidence Type:** General
+- **Initial Receipt Date:** 8/7/07 at 11:00 AM
+- **Custody Transfer Dates:**
+    - 02/08/2008 at 10:00 am / 10:09 am (Reason: Transport)
+    - 02/08/2008 at 3:30 pm (Reason: Relinquished Custody / Storage)
+    - 4-10-08 at 11:00 AM / 11:01 am (Reason: Released to SA / Review)
+    - 01-13-09 at 3:14 PM (Reason: Return of IB / Storage)
+- **Case ID:** ZIE-MM-K6U62
+- **Barcode ID:** E4989937, E6516722
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+EVIDENCE CHAIN OF CUSTODY
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+[Fed Art 4783...] | 01/17/19 9:35AM | Signature: [REDACTED] | 01/20/19 3:00PM
+Signature: [REDACTED] | | Printed Name/Agency: [REDACTED] |
+Printed Name/Agency: [REDACTED] FBI | | Reason: [REDACTED] |
+Reason: Transferred to NY | | |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+Signature: [REDACTED] | 01/24/19 2:00PM | Signature: [REDACTED] | 01/31/19 2:10P
+Printed Name/Agency: [REDACTED] | | Printed Name/Agency: [REDACTED] |
+Reason: [ILLEGIBLE] | | Reason: Evidence Retired |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+Signature: [REDACTED] | 01/26/19 2:20P | Signature: [REDACTED] | 01/29/19 2:20PM
+Printed Name/Agency: [REDACTED] FBI | | Printed Name/Agency: [REDACTED] |
+Reason: Storage | | Reason: [REDACTED] |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+
+Signature: | | Signature: |
+Printed Name/Agency: | | Printed Name/Agency: |
+Reason: | | Reason: |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+
+Signature: | | Signature: |
+Printed Name/Agency: | | Printed Name/Agency: |
+Reason: | | Reason: |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+
+Signature: | | Signature: |
+Printed Name/Agency: | | Printed Name/Agency: |
+Reason: | | Reason: |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+
+Signature: | | Signature: |
+Printed Name/Agency: | | Printed Name/Agency: |
+Reason: | | Reason: |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+
+Signature: | | Signature: |
+Printed Name/Agency: | | Printed Name/Agency: |
+Reason: | | Reason: |
+
+Relinquished Custody | Date and Time | Accepted Custody | Date and Time
+
+Signature: | | Signature: |
+Printed Name/Agency: | | Printed Name/Agency: |
+Reason: | | Reason: |
+
+Case ID: 31E-MM-108062 IB: 10 Barcode: [REDACTED] E6516712
+This form is incomplete without reference to the FD-1087.
+EFTA00024866
+
+## Structured Fields
+*   **Case ID:** 31E-MM-108062
+*   **IB:** 10
+*   **Barcode:** E6516712
+*   **Document Reference:** FD-1087 (mentioned in footer)
+*   **Agency:** FBI (indicated on three relinquished entries)
+*   **Dates Observed:** 01/17/19, 01/20/19, 01/24/19, 01/31/19, 01/26/19, 01/29/19
+*   **Reasons Observed:** Transferred to NY, Storage, Evidence Retired
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FD-597 (Rev 8-11-94)                                                                 Page      1     of      1
+
+UNITED STATES DEPARTMENT OF JUSTICE
+FEDERAL BUREAU OF INVESTIGATION
+Receipt for Property Received/Returned/Released/Seized
+
+File # 31E-MM-108062-1810
+
+On (date) 08/07/2007                                                                 item(s) listed below were:
+                                                                                            [x] Received From
+                                                                                            [ ] Returned To
+                                                                                            [ ] Released To
+                                                                                            [ ] Seized ..
+
+(Name)  [REDACTED]
+
+(Street Address)  2210 48 TERRACE NORTH
+
+(City)  WEST PALM BEACH, FL
+
+Description of Item(s):  1) BOOK - MASSAGE FOR DUMMIES
+
+
+Received By:  st John N. Richard                                                                 Received From:  [REDACTED]
+(Signature)                                                                                                                                    
+
+EFTA00024867
+
+## Structured Fields
+*   **Date:** 08/07/2007
+*   **File Number:** 31E-MM-108062-1810
+*   **Location:** 2210 48 Terrace North, West Palm Beach, FL
+*   **Item Description:** BOOK - MASSAGE FOR DUMMIES
+*   **Organization:** United States Department of Justice, Federal Bureau of Investigation
+*   **Received By (Signature):** St John N. Richard (approximate reading)
+

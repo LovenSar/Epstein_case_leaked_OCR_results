@@ -1,0 +1,176 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 4/VOL00004/IMAGES/0001/EFTA00005848.pdf ts=2026-03-07T17:50:51 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]   [REDACTED] D03 [REDACTED]
+
+EFTA00005848
+
+## Structured Fields
+- Doc ID: EFTA00005848
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLLECT PRINT
+Page 1 of 2
+
+CONNECTICUT STATE POLICE (Logo)
+COLLECT PERSON QUERY RESULTS
+Department of Emergency Services and Public Protection
+1111 Country Club Road, Middletown, CT, 06457
+DATE - 2019-07-02
+TIME - 21:55
+USER - PSC01332
+ORI - CTCSP0051
+(Production Server C) IE edge
+
+Search Criteria:
+Operator License [REDACTED]
+Expanded DOB Search:
+Agencies intended to be searched: (Please note: Actual agencies searched may differ)
+COLLECT, DMV, NCIC, PRAWN, WEAPONS
+
+Search Results:
+DRIVER LICENSE INFO FOR : [REDACTED]
+
+[REDACTED]
+Driver License Number State Exp Date (DD-MMM-YY) Class Renew Status
+[REDACTED] CT 14-Oct-20 D 02-Oct-14 VALID
+Displayed is the most recent image from DMV records, which may differ from credential presented.
+DMV image is restricted to law enforcement purposes, and shall not be saved, disclosed or used in photo array or photo line-up.
+
+License Endorsement Restrictions Susp Date (DD-MMM-YY) Susp Status Susp Items Effect
+[BLANK] B [BLANK] [BLANK] [BLANK]
+
+Commercial Lic Status PTP Status Cancel Status Cancel Date Cancel State
+NONE ISSUED NONE ISSUED [BLANK] [BLANK] [BLANK]
+
+Medical Certification Certification Expiration Federal Variance Skill Performance Evaluation Self Certification
+[BLANK] [BLANK] [BLANK] [BLANK] [BLANK]
+
+Organ Donor Code Pending Act Wdrw Dup Issued?
+ORGAN DNR [BLANK] 00
+
+Operator Full Name Sex Height Eye Color
+
+https://collect.cjis.ct.gov/collect/jsp/common/printContext.jsp
+7/2/2019
+EFTA00005849
+
+## Structured Fields
+- Date: 2019-07-02
+- Time: 21:55
+- User: PSC01332
+- ORI: CTCSP0051
+- Server: (Production Server C) IE edge
+- State: CT
+- License Number: [REDACTED]
+- State Code: CT
+- Expiration Date: 14-Oct-20
+- Class: D
+- Renew Status/Date: 02-Oct-14 / VALID
+- Restrictions: B
+- Commercial Lic Status: NONE ISSUED
+- PTP Status: NONE ISSUED
+- Organ Donor Code: ORGAN DNR
+- Dup Issued?: 00
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+COLLECT PRINT                                                               page 2 of 2
+
+DOB (YYYY-MM-DD)                                                                                                                                                                                                    
+[REDACTED] [REDACTED]  F   503    BLU
+
+Mailing Address -
+Street      City        County       State      Zip        Zip Ext
+[REDACTED] NEW CANAAN                                        CT         06840   
+                                                   
+Residence Address
+Street          City        County       State      Zip        Zip Ext
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The vast majority of the image consists of a uniform, deep black field with no visible texture or pattern.
+- There are no photographs, illustrations, logos, or hand-written notes visible in the main area of the frame.
+- A distinct strip of white background is visible only along the very bottom right edge of the document.
+- Within this white footer area, a single line of text is printed in black ink.
+- The text is small, sans-serif, and horizontally aligned.
+- The orientation of the image appears to be portrait mode, typical for official documents or forms.
+- There are no visible page numbers, dates, or headers in the top margin.
+- The contrast at the bottom right is high (black text on white), while the rest of the image has zero internal contrast.
+- The visual content suggests a blank page, a separator sheet, or potentially a failed capture during a scanning process.
+- No color is present other than black and white.
+
+## Visible Text (verbatim)
+EFTA00005851
+
+## Notable Details / Clues
+- The alphanumeric string "EFTA" likely stands for the European Free Trade Association, indicating the origin or governing body of this document.
+- The sequential number "00005851" functions as a unique identifier, possibly for a case file, legal matter, or administrative record.
+- The placement of the text is characteristic of automated footer stamps used in bureaucratic correspondence.
+- The absence of content suggests this might be an unnumbered page within a dossier or a cover sheet.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a nearly entirely solid black surface that dominates the visual field, occupying approximately 99% of the frame. This suggests the capture of an empty document page, a dark background, or a section of a larger PDF where the content area is currently blank. A thin, white border frames the central black area, indicating standard paper dimensions (likely A4 or Letter) with margins. The composition is stark and minimal, containing no imagery, typography within the main body, charts, or graphical elements. The lighting appears uniform, confirming the flatness of the subject matter. The image is oriented vertically.
+
+## Visible Text
+EFTA00005852
+
+## Notable Details / Clues
+- **Document Identifier:** The text string "EFTA" likely refers to the European Free Trade Association, a hint that this image is sourced from an official legal database or archive (such as Eur-Lex).
+- **Sequential Numbering:** The following digits "00005852" function as a unique case or document number, indicating this is part of a sequenced filing system.
+- **Blank Canvas:** The absence of text in the central area suggests this might be the cover page of a report, a title page, or an introductory section where metadata or a table of contents would typically appear later on subsequent pages.
+- **High Contrast:** The extreme contrast between the black background and white text is typical of OCR (Optical Character Recognition) extraction or digital scanning artifacts for document management systems.
+- **Location Specifics:** The text is pinned to the bottom right corner, a standard convention for footers in digital documents containing Bates numbers or unique reference identifiers.
+- **File Format Implication:** This visual structure strongly implies a PNG or JPEG capture of a PDF page where the content layer is empty or transparent before the black background color fill is applied (common in certain document viewers).
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Composition:** The image is dominated entirely by a solid black field, occupying approximately 98% of the total pixel area.
+*   **Orientation:** The visual frame is rectangular and oriented in portrait mode (vertical).
+*   **Subject Matter:** There are no visible subjects; the scene is devoid of any people, animals, or distinct objects.
+*   **Color Palette:** The image is monochromatic, utilizing only shades of black and white.
+*   **Texture:** No surface texture is visible due to the uniform darkness; the image appears smooth and digital.
+*   **Lighting:** There are no indicators of natural or artificial lighting sources, as the entire frame is in shadow.
+*   **Layout:** Standard document formatting elements like headers, footers (other than the ID), or margins containing text are absent from the visual field.
+*   **Framing:** The cropping appears tight and full-frame, capturing a single vertical aspect of content without surrounding context.
+
+## Visible Text (verbatim)
+*   EFTA00005853 (Located in the bottom right corner)
+
+## Notable Details / Clues
+*   **Document Identifier:** The text string resembles a Bates number or case citation stamp commonly found in legal discovery documents.
+*   **Acronym Context:** The prefix "EFTA" likely stands for the European Free Trade Association, suggesting an international trade or administrative context.
+*   **Sequentiality:** The numeric sequence "00005853" implies this page is part of a much larger set of indexed documents, indicating this is a specific page within a high-volume file.
+*   **Redaction or Glitch:** The total lack of content suggests either the page has been intentionally blacked out for privacy/redaction purposes, or it represents a technical failure in scanning/copying the document.
+*   **Placeholder:** It may serve as a placeholder page inserted into a digital dossier to maintain pagination continuity despite missing content.
+*   **Low Contrast Detail:** Aside from the white text stamp, there are no subtle details, noise patterns, or artifacts visible on the black background.
+*   **Positioning:** The identifier is aligned flush with the right edge and sits very close to the bottom margin, a standard placement for automated watermarking systems.
+*   **Legibility:** Despite the darkness of the page, the white text remains perfectly legible, suggesting it was stamped after the black content or overlaid digitally.
+*   **Archival Value:** The presence of a unique ID number adds forensic or evidentiary value to the otherwise blank image for record-keeping purposes.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+- The image consists almost entirely of a solid black field, occupying the majority of the frame (approx. 98% of the surface area).
+- A thin, white border frames the central black area, creating a distinct margin typical of document scanning software or a PDF page viewer interface.
+- The black fill appears uniform and flat, suggesting either a blank page in a digital file or an image that has been intentionally obscured/redacted.
+- There are no visible gradients, textures, or lighting effects within the main body of the image; it is a "flat" color field.
+- The aspect ratio suggests a standard portrait-oriented document, likely A4 or Letter size.
+- The bottom edge of the black area meets a white strip at the very bottom of the provided view, possibly part of the file's header/footer metadata in a document viewer.
+
+## Visible Text (verbatim)
+**EFTA00005854**
+
+## Notable Details / Clues
+- **Bates Numbering:** The text resembles a Bates stamp, commonly used by legal discovery firms to uniquely identify pages in e-discovery sets.
+- **Jurisdiction Indicator:** The prefix "EFTA" likely stands for the European Free Trade Association (or EFTA Court/EFTA Commission), indicating a document related to a specific European legal jurisdiction or a database managed by that entity.
+- **Redaction/Suppression:** The complete darkness of the page strongly implies this is either a blank cover page, or a page containing sensitive information that has been fully blacked out (redacted) for privacy or security reasons.
+- **Document Status:** This could represent an "Attachment" or "Cover Letter" page in a legal packet where the substantive content was removed or not yet generated.
+- **Scanning Artifact:** The lack of paper texture or creases confirms this is a digital representation (digital scan) rather than a photograph of physical paper, which supports the theory that it is a digital placeholder or cover sheet.
+

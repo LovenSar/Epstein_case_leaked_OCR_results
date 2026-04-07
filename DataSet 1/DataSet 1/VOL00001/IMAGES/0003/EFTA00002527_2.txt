@@ -1,0 +1,41 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002527.pdf ts=2026-03-05T20:49:10 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Subject:** A black, wall-mounted network equipment chassis dominates the center of the frame, filled with networking hardware and extensive cabling.
+*   **Upper Rack Units:** At the top of the chassis are three distinct silver-grey modular units from the brand Uplink (indicated by a logo). The labels on these units read "NDC-FIREWALL-ROUTER", "NDC-SWITCH-24", and "NDC-FOGW-16".
+*   **Cabling:** A chaotic but functional bundle of Ethernet cables—primarily blue, white, and orange—emerges from the port panels on the top units. These cables loop downward and connect to unseen devices below or trail off-screen. A black cable runs vertically along the left side, while another bundle hangs loosely on the right.
+*   **Peripheral Hardware:** A small white rectangular device, likely a USB Wi-Fi adapter or a network interface card controller, is plugged into the far right port of the top-most switch unit.
+*   **Lower Chassis Area:** Below the switches is a larger black section containing what appears to be hardware interfaces and ports. Below that is a flat screen monitor mounted directly into the rack frame, displaying a blue system login prompt.
+*   **Surrounding Walls:** To the left, the wall is constructed of white painted cinder blocks with wooden paneling added lower down. To the right, there is unfinished wood paneling and another grey electrical box mounted on the wood.
+*   **Ceiling Area:** Above the rack, near the ceiling junction, a metal ventilation fan with a protective cage is visible. White PVC piping runs horizontally along the top right.
+*   **Cable Management:** Metal wire mesh cable trays run horizontally along the top of the wall and ceiling, holding black and white cables. Black zip ties are used to manage the Ethernet cables exiting the rack.
+*   **Rack Mounting:** The equipment is mounted using a standard 19-inch rack frame with vertical ruler markings visible on the side rails (numbers like 30, 31, 32 are visible).
+*   **Monitor Display:** The screen at the bottom shows a blue background with a text entry box. The text is somewhat pixelated but clearly prompts for user credentials.
+*   **Lighting and Angle:** The photo is taken from a slightly low angle looking up towards the ceiling, illuminated by artificial overhead lighting that casts soft shadows within the rack depth.
+
+## Visible Text (verbatim)
+**On Top Rack Units (Top to Bottom):**
+*   "NDC-FIREWALL-ROUTER"
+*   "NDC-SWITCH-24"
+*   "NDC-FOGW-16"
+*   Red logo on top frame: "AP" (partial)
+
+**On Screen Display:**
+*   "ENTER NAME AND PASSWORD"
+*   "USERNAME : ADMIN" (approximate, partially obscured/blurry)
+*   "PASSWORD : ********" (dots for hiding password)
+
+**Watermark (Bottom Right Corner):**
+*   "EFTA00002527"
+
+## Notable Details / Clues
+*   **Location Context:** The installation appears to be a remote site, basement, or server closet in an older building given the cinder block walls and exposed conduit/piping.
+*   **Hardware Age:** The Uplink (now Arista) gear suggests a mid-2010s deployment, often found in rural connectivity projects or educational institutions.
+*   **Security:** The screen showing "ENTER NAME AND PASSWORD" suggests the device is accessible locally but currently locked out or in a startup loop, possibly indicating a login failure or boot issue.
+*   **Power:** A power cable (black) enters the bottom left area of the rack chassis, implying power is active or recently active.
+*   **Network Topology:** The presence of a "FIREWALL-ROUTER" and "SWITCH" indicates a standard network gateway setup, likely connecting this location to a larger network.
+*   **Environmental Conditions:** A fan is visible at the top left, suggesting active cooling or ventilation is necessary for this room's equipment.
+*   **Messy Cabling:** The cables are not neatly managed with velcro straps but rather zip-tied in a dense bunch, which can be a fire hazard if not inspected for heat management.
+

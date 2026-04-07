@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001706.pdf ts=2026-03-05T14:17:24 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays an open, black 19-inch server rack standing on a reddish-brown square tiled floor. The interior of the rack is densely packed with networking hardware and exhibits significant cable clutter. At the very top of the rack sits a coiled bundle of thick black cables resting on a flat surface. Below this, near the top of the active equipment, is a grey chassis unit.
+
+Directly beneath that is a device enclosed in a transparent plastic front plate labeled "OPTICAL CABLE" in orange text. Inside, a mess of orange fiber optic patch cords with blue connectors (likely LC duplex) are visible, organized but slightly loose. Below this optical arm is a white networking module or switch chassis bearing the label "MCOMP-NOC" and a "UFI" logo on the left side. Blue Ethernet cables are plugged into its front ports.
+
+Further down is another transparent enclosure containing orange fiber optic cables with an orange "AOC" logo visible on the casing. Below this, there appear to be at least two stacked black network switch chassis. These units feature rows of SFP or RJ45 ports, densely populated with blue Ethernet cables and some black cables. The cabling in this lower section is untidy, with long strands of blue patch cords hanging loosely down the front of the rack, intertwining with the orange fiber cords.
+
+At the bottom of the rack, two black vertical units are installed side-by-side. The unit on the left has a mesh ventilation grille on its face. The unit on the right features a flat surface with a white manufacturer label and power connectors visible at the back/bottom edge. To the left of the main rack, a separate dark cabinet door is ajar, revealing a dark interior with faint blue markings or tape residue on the frame.
+
+## Visible Text (verbatim)
+- "OPTICAL CABLE" (Orange text on black background, located on the upper transparent arm)
+- "MCOMP-NOC" (Black text on white chassis)
+- "UFI" (Logo/text next to MCOMP-NOC)
+- "AOC" (Orange stylized logo on the mid-rack transparent arm)
+- "EFTA00001706" (White watermark text in bottom right corner)
+
+## Notable Details / Clues
+- **Cable Types:** There is a distinct separation between media types. Orange cables are fiber optic (typical industry color coding), while blue and black cables are copper Ethernet (typically Cat5e or Cat6).
+- **Clear Front Plates:** The rack utilizes clear plastic "cable management" or "patch panel" fronts to hold excess fiber cables, rather than standard metal faceplates.
+- **Condition:** The top surface of the rack has visible dust and grime accumulation, suggesting it is in an operational but not pristine environment.
+- **Cabling Mess:** While the top optical arm is relatively organized, the lower section suffers from a "hairball" effect where blue Ethernet cables drape over black equipment and mix with fiber cables.
+- **Hardware Branding:** The "MCOMP-NOC" text suggests this might be networking gear from Mocomp (often associated with Ubiquiti UFI modules) or similar enterprise hardware.
+- **Safety/Lockout:** There is no visible locking mechanism active; the rack door is swung wide open to the left, exposing internal components which usually implies a maintenance window or an unlocked room.
+- **Power Unit:** The black unit at the bottom right likely serves as a power distribution unit (PDU) or a UPS battery backup module given its position and ventilation style.
+

@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002535.pdf ts=2026-03-05T20:53:46 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a collection of computer hardware components and a handwritten note arranged on a flat, gray, textured surface, likely a concrete floor or workbench. The items are laid out in a loose grid formation. On the left side stands a large, rectangular, silver metal plate, which appears to be the backplate or cover for a server motherboard tray, featuring mounting brackets visible along its left edge. Draped diagonally across this metal plate is a black power cable; the connector end near the top is a standard three-prong US plug, while the other end terminates in a black plastic multi-pin connector resting near the bottom left corner of the plate. To the right of the metal plate are two identical 3.5-inch internal hard disk drives stacked vertically. These drives are installed within metal caddies equipped with white plastic slide rails on their right sides, indicating they are designed for hot-swappable server bays. The top drive features a label with orange and gold branding (resembling Seagate Exos) clearly indicating a capacity of "2.0TB". The bottom drive is identical in appearance, also labeled "2.0TB" and featuring the same branding colors. Below the hard drives lies a standard yellow legal pad index card. On this card, handwritten text in black ink provides logistical details about the equipment's location and specifications. To the left of the main block of text on the note, a hand-drawn box contains the fraction "1/2". The overall lighting is even and diffuse, casting soft shadows to the right of the objects.
+
+## Visible Text (verbatim)
+**On Yellow Note (Handwritten):**
+Zone B
+Building 2
+Room 5
+in Server Rack Position A
+Unit: Server
+Proc #: [illegible number/text]
+FDC in S/UX / Linux
+w/2 TB Drives
+[Large Box containing "1/2"]
+
+**On Hard Drive Labels:**
+- Top Drive: Seagate Logo, "2.0TB"
+- Bottom Drive: Seagate Logo, "2.0TB"
+
+## Notable Details / Clues
+- **Hardware Configuration:** The presence of hot-swap caddies (with slide rails) confirms these are enterprise-grade drives intended for a rack server environment.
+- **Storage Capacity Discrepancy:** The hard drive labels clearly state "2.0TB", but the handwritten note mentions "w/2 TB Drives" where the specific number is slightly ambiguous (could be interpreted as 3TB or just 2TB), creating a potential inventory discrepancy or simply blurry handwriting.
+- **OS Configuration:** The text on the yellow note references "S/UX / Linux". S/UX is the Unix operating system developed by Sun Microsystems, while Linux is distinct; this suggests the equipment might have supported dual-boot configurations or is associated with a legacy environment migrating to modern systems.
+- **Location Tracking:** The note provides specific physical coordinates for the assets: Zone B, Building 2, Room 5, Rack Position A.
+- **Inventory Counting:** The "1/2" written in the box on the left side of the note likely indicates that these two drives are a pair (set of one) out of a larger shipment or collection, perhaps indicating they are the first set found or processed.
+- **Power Connectivity:** The black connector at the bottom of the cable is not a standard SATA power connector; it appears to be a proprietary or multi-pin server power adapter, possibly feeding multiple drives or a specific motherboard header.
+- **Mounting Hardware:** The metal plate has L-shaped mounting brackets visible on the left edge, designed for screwing into a 19-inch rack rail system.
+- **Condition:** The hard drive caddies appear used but intact; the metal trays show no obvious signs of deep corrosion or damage, though they show standard wear and tear.
+

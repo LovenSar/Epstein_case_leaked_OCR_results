@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0002/EFTA00001304.pdf ts=2026-03-05T11:43:09 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Left Foreground:** A tall, galvanized steel cabinet stands on the far left. It features a small, square access panel near the top and appears weathered or dirty with grime marks. Below this cabinet, resting on the floor or a lower shelf, is an HVAC air filter frame containing a dark grey filter with a white grid pattern.
+*   **Central Workbench:** A light-colored wooden workbench dominates the center of the room. On its top surface sits a black computer monitor with a narrow bezel. To the left of the monitor are stacked black electronic equipment units, likely networking hardware (routers or switches), standing vertically. A yellow Ethernet cable is coiled on the table near these devices.
+*   **Boxing and Electronics:** Resting on a brown cardboard box labeled "Cisco" is a sleek black product box with blue graphics, partially readable as "Firepower." To the right of the monitor, two bright red plastic crates are stacked; the top crate holds loose black cables, while the bottom one contains blue boxes and other small items.
+*   **Underneath Shelving:** Beneath the main surface, there is a storage shelf holding various items. A large object is wrapped in orange protective foam or bubble wrap, secured with tape. Next to it are white paper sacks or bags with partial text visible. To the left, under the electronics stack, are two stacked cardboard boxes; the top one has a label reading "TJ512ED."
+*   **Right Side:** A large, flat brown cardboard box lies on the floor to the right. Resting on top of it is a red reusable shopping bag featuring images of cherries and the text "freshdirect" in green and white lettering. Behind this box, near the wall, is a long, thin white object mounted vertically (possibly a power strip or conduit cover).
+*   **Ceiling/Overhead:** In the upper right corner, a black metal ladder rack is mounted to the ceiling/wall junction. It appears to be used for holding extension ladders, with blue tape visible on one of the rungs.
+*   **Walls and Lighting:** The walls are plain white. The lighting creates soft shadows beneath the workbench and behind the furniture, suggesting overhead artificial light sources.
+
+## Visible Text (verbatim)
+*   "freshdirect" (on the red bag)
+*   "Goodbye, [illegible]" (small text on red bag)
+*   "Firepower" (on black product box)
+*   "Cisco" (on brown shipping box)
+*   "CE" and handling symbols (on brown shipping box)
+*   "TJ512ED" (on label under bench)
+*   "MIC CABLE" (on blue box at bottom shelf)
+*   "EFTA00001304" (watermark in bottom right corner)
+
+## Notable Details / Clues
+*   **Networking Setup:** The presence of a Cisco router/switch, a "Firepower" appliance box (likely for Cisco Firepower Threat Defense), and ethernet cables suggests this is a home lab or a server storage area.
+*   **Storage State:** The room appears to be in a state of active storage or unpacking, with items wrapped in orange foam, plastic bags, and cardboard boxes scattered on shelves and the floor.
+*   **Utility Nature:** The galvanized cabinet and the air filter suggest this space might serve dual purposes as a utility closet or HVAC equipment housing area adjacent to an IT workspace.
+*   **Shopping Bag:** The prominent "freshdirect" bag implies recent grocery shopping, adding a mundane, domestic element to what looks like a technical storage space.
+

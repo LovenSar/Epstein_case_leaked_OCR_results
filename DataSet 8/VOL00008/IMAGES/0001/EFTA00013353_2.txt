@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0001/EFTA00013353.pdf ts=2026-03-11T14:57:27 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Event: Meet re Epstein
+Start Date: 2019-04-25 14:00:00 +0000
+End Date: 2019-04-25 14:30:00 +0000
+Organizer: [REDACTED] (USANYS) [REDACTED] >
+Class: X-PERSONAL
+Date Created: 2019-04-25 13:34:10 +0000
+Date Modified: 2019-04-25 13:34:10 +0000
+Priority: 5
+DTSTAMP: 2019-04-25 13:24:04 +0000
+Attendee: [REDACTED] >; [REDACTED ( )]
+[REDACTED] >; [REDACTED) [REDACTED] >
+Alarm: Display the following message 15m before start
+| Reminder
+
+## Structured Fields
+- **Event Title**: Meet re Epstein
+- **Start Date**: 2019-04-25
+- **End Date**: 2019-04-25
+- **Start Time**: 14:00:00 UTC
+- **End Time**: 14:30:00 UTC
+- **Organizer**: [REDACTED] (USANYS) [REDACTED]
+- **Class**: X-PERSONAL
+- **Created Date**: 2019-04-25 13:34:10 UTC
+- **Modified Date**: 2019-04-25 13:34:10 UTC
+- **Priority**: 5
+- **DTSTAMP**: 2019-04-25 13:24:04 UTC
+- **Reminder Message**: Reminder
+- **Document ID**: EFTA00013353
+

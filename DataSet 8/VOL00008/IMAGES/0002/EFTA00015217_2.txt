@@ -1,0 +1,108 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015217.pdf ts=2026-03-12T13:52:12 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image is a screenshot of an email client interface displaying a multi-part email thread regarding scheduling changes for a "Maxwell discovery review." The document is heavily redacted; large black bars obscure the "From," "To," and "Cc" fields in every visible header section, as well as the specific names of the senders.
+
+The thread flows chronologically from top to bottom, representing a sequence of communications starting with a cancellation request sent on Monday, October 19, 2020. Below this main message is a quoted history of previous correspondence involving scheduling confirmations and availability preferences. One section of text is rendered in blue, indicating it was likely forwarded or copied into the current email, distinguishing it from the black text of the original chain. The emails discuss meeting times with an attorney named Maxwell at a facility referred to as "MDC." One specific sender identifies themselves as a "Special Agent" with the "FBI - New York - SO-9" division. A reference ID number appears in the bottom right corner of the document.
+
+## Visible Text (verbatim)
+
+**Top Email Header and Body:**
+*   **From:** [Redacted]
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** Re: [EXTERNAL EMAIL] - RE: Maxwell discovery review
+*   **Date:** Mon, 19 Oct 2020 02:49:21 +0000
+
+**Body Text:**
+*   Very sorry, but Maxwell’s attorney just emailed to say that he needs to cancel this Tuesday’s meeting. Would you be available on Thursday or Friday of this week instead, please?
+*   Thanks very much,
+*   [Redacted]
+
+**Quoted Message 1 (Blue Text):**
+*   **Header:** On Oct 16, 2020, at 11:28 AM, [Redacted]) wrote:
+*   **Body:** Hi again, We are confirmed for Tuesday 10/20. The attorney will be present with Maxwell for the review. The attorney is scheduled to arrive at 8am, so the MDC asked that you two please arrive at 7:45 and ask for the Captain, so that the Captain can go over the logistics with you. Thanks very much again to you both, and please give me a call if any issues or questions come up.
+
+**Quoted Email Header 1:**
+*   **From:** [Redacted]
+*   **Sent:** Thursday, October 15, 2020 4:56 PM
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+*   **Subject:** RE: [EXTERNAL EMAIL] - RE: Maxwell discovery review
+
+**Body Text (Quoted Email 1):**
+*   Thanks so much to both of you. I’ve let the attorney know that Monday and Tuesday are both possibilities. I will let you know when we have a new date and time confirmed.
+
+**Quoted Email Header 2:**
+*   **From:** [Redacted]
+*   **Sent:** Thursday, October 15, 2020 4:52 PM
+*   **To:** [Redacted]
+*   **Cc:** [Redacted]
+
+**Subject Text (Quoted Email 2):**
+*   **Subject:** [EXTERNAL EMAIL] - RE: Maxwell discovery review
+*   **Body:** Monday or Tuesday preferably, thank you! Wednesday I'm unavailable. Thursday or Friday I can try to make it work. Thanks! Special Agent FBI - New York - SO-9
+
+**Bottom Quote Header:**
+*   On Oct 15, 2020 4:49 PM, [Redacted] wrote:
+
+**Bottom Quote Body:**
+*   Free any day, just let me know when you need me.
+
+**Footer ID:**
+*   EFTA00015217
+
+## Notable Details / Clues
+*   **Agency Identification:** The bottom email chain explicitly identifies a sender as a "Special Agent" with the "FBI - New York - SO-9." SO-9 is known as the FBI's National Security Branch/Counterterrorism division, providing context on the nature of the "discovery review" (likely related to terrorism investigations).
+*   **Facility Location:** The text mentions "MDC asked that you two please arrive..." MDC in the context of federal detention usually refers to the Metropolitan Detention Center in Manhattan.
+*   **Subject Line Consistency:** Despite being a thread, every email uses a nearly identical subject line: `[EXTERNAL EMAIL] - RE: Maxwell discovery review`. This indicates an ongoing, specific investigation case file.
+*   **Redaction Extent:** The sensitivity of the content is high; names and potentially contact information (phone numbers or addresses implied by "give me a call") are completely blacked out.
+*   **Scheduling Conflict:** The timeline shows a shift from a preferred schedule of Monday/Tuesday to a forced cancellation, pushing availability to Thursday or Friday.
+*   **Timestamp Precision:** The dates and times are precise (e.g., "Mon, 19 Oct 2020 02:49:21 +0000"), indicating a formal record kept in an official legal or law enforcement system (EFTA reference code supports this).
+*   **External Correspondence:** The label "[EXTERNAL EMAIL]" appears repeatedly, suggesting that the attorney representing Maxwell is not on the same internal domain as the FBI agents.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+On Oct 15, 2020 4:47 PM, [REDACTED] wrote:
+Hi again,
+Apologies for the last-minute change, but defense counsel has informed me that we need to cancel tomorrow’s visit and reschedule it for early next week. Are there any days next week when you would be available to go to the MDC instead?
+Thanks very much,
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+
+From: [REDACTED]
+Sent: Thursday, October 15, 2020 3:11 PM
+To: [REDACTED]
+Cc: [REDACTED]
+Subject: Maxwell discovery review
+[REDACTED],
+Thank you both so much for your assistance facilitating Ghislaine Maxwell’s review of sensitive discovery materials. The whole team is very grateful to you for your help.
+
+I’ve informed [REDACTED] who is legal counsel at the MDC, that you two will be bringing the secure laptop to the MDC tomorrow for Maxwell to review from 8am to 3pm. [REDACTED] indicated that the Captain will likely want to meet with you when you arrive to discuss the logistics of where everyone will be while Maxwell is reviewing the material.
+One thing to note: because Maxwell is represented by counsel, the FBI is not permitted to speak with her. So as a reminder, please do not engage Maxwell in any conversation.
+If you have any issues or questions at all, please do not hesitate to call me on my cellphone at [REDACTED].
+
+Thank you again,
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+1 St. Andrew’s Plaza
+New York, NY 10007
+
+[REDACTED]
+
+## Structured Fields
+- **Date:** Oct 15, 2020 (Sent at 3:11 PM / Wrote at 4:47 PM)
+- **Case ID/Doc ID:** EFTA00015218 (Footer)
+- **Location:** Southern District of New York; MDC (Metropolitan Correctional Center); 1 St. Andrew's Plaza, New York, NY 10007
+- **Names/Organizations:** Ghislaine Maxwell; FBI; Defense counsel; Captain; Assistant United States Attorney
+- **Subject:** Maxwell discovery review
+

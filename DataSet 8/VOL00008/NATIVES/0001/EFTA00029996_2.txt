@@ -1,0 +1,57 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=video mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/NATIVES/0001/EFTA00029996.mp4 ts=2026-03-19T23:29:11 -->
+
+## Frame 1 (0.0s) [TAG:DOJ_CLEAN_V2]
+
+- ### Detailed Description
+    - The image displays a view of an office lobby or hallway, captured by a security camera with fisheye distortion at the corners.
+    - On the left side, there is a reception area enclosed by a white railing with vertical balusters and a wooden handrail. Behind this partition, shelves stocked with items are visible in a brighter interior space.
+    - In the center of the hallway, slightly to the left, stands a tall, blue trash can or recycling bin.
+    - To the right, two grey elevator doors are visible on the wall; the door further back is clearly marked with the number "46".
+    - On the far right wall, next to the elevators, a black wall-mounted telephone is installed in a niche.
+    - In the bottom left foreground, partially out of frame, sits a dark electronic device with red and green indicator lights.
+    - The flooring appears to be a light beige or off-white tile or linoleum.
+    - Overhead fluorescent lighting illuminates the space, casting soft shadows.
+- ### Visible Text
+    - "160 SW 2.80 - 08/10/2019 03:14:05" located at the bottom left corner.
+    - "46" on the elevator door.
+- ### Notable Changes
+    - N/A as this is the first frame in the sequence.
+
+## Frame 2 (3.0s) [TAG:DOJ_CLEAN_V2]
+
+- ### Detailed Description
+    - The scene remains a static view of the office lobby/hallway, identical to the previous frame.
+    - The reception desk area on the left with its white railing and wooden top is unchanged.
+    - The blue trash bin in the center remains in the exact same position.
+    - The elevators on the right wall are stationary with no movement.
+    - The wall-mounted telephone on the right is still present.
+    - The dark electronic device with lights in the bottom left corner is static.
+    - Lighting conditions have not changed; the overhead lights remain constant.
+- ### Visible Text
+    - "160 SW 2.80 - 08/10/2019 03:15:35" located at the bottom left corner.
+    - "46" on the elevator door is still visible.
+- ### Notable Changes
+    - The timestamp in the overlay text has progressed forward by approximately one minute and thirty seconds, changing from `03:14:05` to `03:15:35`.
+    - There are no visible movements of people or objects within the frame itself.
+
+## Frame 3 (6.0s) [TAG:DOJ_CLEAN_V2]
+
+### Detailed Description
+- The image displays a security camera view of an indoor lobby or reception area, likely in a commercial building.
+- On the left side, there is a service counter featuring white vertical slats and a wooden top edge.
+- Behind this counter, a brightly lit room is visible, possibly an office or breakroom, illuminated by overhead fluorescent lights.
+- A person appears to be seated behind the counter, facing slightly towards the camera, though their features are indistinct.
+- In the center of the hallway area, a large blue recycling or trash bin stands on the floor.
+- To the right, there are two gray doors leading to other areas, possibly elevators or stairwells.
+- The number "418" is handwritten in black marker on the door that is furthest to the right.
+- A black wall-mounted intercom or phone handset is attached to the wall next to the rightmost door.
+- In the immediate foreground at the bottom left, a dark container filled with colorful items is partially visible.
+- The timestamp overlay indicates the video was recorded on August 10, 2019, at approximately 3:17 AM.
+
+### Visible Text
+- "160 SW 2.80 - 08/10/2019 03:17:05"
+- "418"
+
+### Notable Changes
+- No changes observed; this is the initial frame of the sequence.
+

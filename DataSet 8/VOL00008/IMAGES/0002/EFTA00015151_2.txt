@@ -1,0 +1,142 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015151.pdf ts=2026-03-12T13:17:25 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a single page of a formal government document, specifically an "Additional Inquiry Response" from the Federal Bureau of Investigation (FBI) and the New York State Division of Criminal Justice Services. The document features a standard letterhead layout with a timestamp in the top left corner reading "10/6/21, 12:58 PM". The main title is centered at the top in bold text. Below the header is an address block for the New York State Division of Criminal Justice Services located in Albany, New York, listing the executive deputy commissioner Michael C. Green.
+
+The body of the document is organized into distinct sections separated by horizontal grey lines and asterisk separators. A purple heading "III Information" marks the first major section. Immediately following this header is a sentence indicating a request for information regarding a search from the State of Florida. The central portion of the page contains several large, black rectangular redaction boxes obscuring personal identifying information and specific case details. Interspersed between these black bars are standard informational banners and headers typical of FBI criminal history records (e.g., "CRIMINAL HISTORY RECORD", "Introduction"). Text below the second redaction box provides legal disclaimers regarding the origin of the data (Florida only) and usage restrictions, dated 2021-10-06. A third redaction box covers the bottom section under the header "Subject Name(s)". The page number "1/4" appears in the bottom right corner.
+
+## Visible Text (verbatim)
+**Header:**
+*   "III/FBI/State Delayed Response"
+*   "Additional Inquiry Response"
+*   "ORI: NYFBINY00"
+*   "Federal Bureau of Investigation - New York"
+*   "New York State Division of Criminal Justice Services"
+*   "Alfred E. Smith Building, 80 South Swan St."
+*   "Albany, New York 12210. Tel:1-800-262-DCJS"
+*   "Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services"
+
+**Body:**
+*   "III Information" (with document icon)
+*   "The following information is provided in response to your request for a III search from the State of Florida based on:"
+*   [Redacted Area 1]
+*   "ADDITIONAL SENTENCING INFORMATION MAY BE AVAILABLE FROM ORIGINATING AGENCY"
+*   ".****************************** CRIMINAL HISTORY RECORD ******************************"
+*   "******************************* Introduction ******************************"
+*   [Redacted Area 2]
+*   "This record contains Florida information only. When explanation of a charge or disposition is needed, communicate directly with the agency that contributed the record information. (; 2021-10-06)"
+*   "This record may only be used for the purpose requested as defined by the Code of Federal Regulations and/or Florida Statute. (; 2021-10-06)"
+*   "This is a multi-source offender record. (; 2021-10-06)"
+*   "******************************* IDENTIFICATION ******************************"
+*   "Subject Name(s)"
+*   [Redacted Area 3]
+
+**Footer:**
+*   "1/4"
+*   "EFTA00015151"
+
+## Notable Details / Clues
+*   **Cross-State Data:** The document header indicates an FBI/State response, but the body text explicitly states it is a request for a search from the "State of Florida," while the disclaimer notes it "contains Florida information only." This suggests a multi-jurisdictional criminal background check involving New York and Florida agencies.
+*   **Redaction Pattern:** There are three distinct black boxes. The top one obscures the specific details related to the request basis. The middle one likely covers the main body of the criminal history or charge descriptions. The bottom one hides the subject's name, which is standard privacy protection in public records unless a court order exists otherwise.
+*   **Dates:** The document was received/stamped on "10/6/21" (October 6, 2021). However, the internal text within the blacked-out areas carries a date of "2021-10-06", suggesting the content inside was generated on that same day or very close to it.
+*   **Document Type:** The banner "CRIMINAL HISTORY RECORD" confirms the nature of the document is for background checking purposes.
+*   **Specific Terminology:** The phrase "III search" refers to a specific FBI fingerprint check code (Level III), often used for employment background checks on non-peace officers.
+*   **Contact Info:** A toll-free number "1-800-262-DCJS" is provided for the Division of Criminal Justice Services.
+*   **Page Count:** The footer "1/4" indicates this is the first page of a four-page response packet.
+*   **Document ID:** The alphanumeric string "EFTA00015151" at the very bottom right likely serves as a file tracking number or Bates stamp identifier for legal discovery purposes.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   The image displays a printed document page, likely originating from an automated fingerprint identification system (AFIS) or similar forensic database response.
+*   At the top left margin, a timestamp reads "10/6/21, 12:58 PM," establishing the date as October 6, 2021.
+*   Centered at the top is the header text "III/FBI/State Delayed Response," indicating this document represents a delayed transmission from federal/state agencies.
+*   A large, solid black rectangular block occupies the majority of the upper half of the page, completely obscuring any visual data or images that would typically appear here.
+*   Below this first black box, text headers indicate specific data sections: "Fingerprint Images" and "DNA Data."
+*   The text explicitly states that no image detail was transmitted for fingerprints and no DNA detail was transmitted, suggesting the system found a hit but did not receive or display the biological images in this response.
+*   A horizontal line of asterisks serves as a section divider across the page width.
+*   The text "CRIMINAL HISTORY" is centered within the asterisk line, marking the start of a new section.
+*   Below the criminal history header, a second large black rectangle obscures the rest of the document content for this page.
+*   In the bottom right corner of the lower black area, the pagination number "2/4" is visible, indicating this is the second page of a four-page report.
+*   Along the very bottom edge, outside the redacted area, an alphanumeric identifier "EFTA00015152" serves as a document control or barcode ID.
+
+## Visible Text (verbatim)
+*   10/6/21, 12:58 PM
+*   III/FBI/State Delayed Response
+*   Fingerprint Images
+*   (No Fingerprint Image Transmitted
+*   Comment:)
+*   DNA Data
+*   (No DNA Detail Transmitted )
+*   ****************************************** CRIMINAL HISTORY ******************************************
+*   2/4
+*   EFTA00015152
+
+## Notable Details / Clues
+*   The document appears to be a "response" report, likely generated after a name-based query was run against a criminal history database.
+*   The text "(No Fingerprint Image Transmitted" and "(No DNA Detail Transmitted )" suggests that while the subject's biometric identity was likely found in the system (otherwise no hit would exist), the actual image files were not included in this specific packet or transmission.
+*   The "Delayed Response" header implies that this data arrived after an initial search, which is standard protocol for NCIC (National Crime Information Center) hits where local police search first and receive FBI/State details later.
+*   The redaction of the "Criminal History" section suggests that the document has been processed to hide specific offenses or arrest dates, possibly to protect privacy or as part of a data minimization process in the view shown.
+
+## Page 3 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image presents a vertical document page that is predominantly obscured by a solid black rectangle, effectively acting as a redaction or a placeholder for missing imagery. The composition is framed with white space along the right-hand margin and the very bottom edge. At the top of the frame, distinct metadata headers are visible against the black background or white border. The document appears to be a standard portrait orientation, likely an 8.5x11 inch legal page size. The content within the black area is completely invisible, suggesting either a digital blackout for privacy/security reasons or a failure in image rendering. The text elements are small, printed in a light grey or white color that contrasts against the darker elements around them.
+
+## Visible Text (verbatim)
+*   **Top Left:** "10/6/21, 12:58 PM"
+*   **Top Center:** "III/FBI/State Delayed Response"
+*   **Bottom Right (Margin):** "3/4"
+*   **Bottom Right Edge:** "EFTA00015153"
+
+## Notable Details / Clues
+*   **Agency Identification:** The text explicitly mentions "FBI," indicating this document relates to the Federal Bureau of Investigation and involves federal law enforcement matters.
+*   **Case Context:** The phrase "State Delayed Response" suggests a specific protocol or incident type involving a delay in reporting or action between state and federal agencies.
+*   **Page Sequencing:** The notation "3/4" indicates that this is the third page of a four-page document, implying it is part of a larger report or packet.
+*   **Timestamp:** The date "10/6/21" (October 6, 2021) and time "12:58 PM" provides a precise timestamp for when this specific version of the document was generated or accessed by a system.
+*   **Redaction/Blackout:** The entire visual field is blacked out except for the headers and footers. This is typical for leaked or publicly released government documents where sensitive personal information (PII) has been covered before release.
+*   **Document ID:** The code "EFTA00015153" serves as a unique identifier, likely a Bates number or internal tracking ID used for document management and chain-of-custody verification.
+*   **Font Style:** The visible text uses a standard, unadorned sans-serif font common in administrative correspondence (similar to Arial or Calibri).
+*   **Digital Artifact:** The timestamp suggests this might be a metadata footer added by an email client, a PDF viewer, or a document management system rather than being printed directly on the paper itself.
+*   **Header Structure:** The top header is split into two distinct sections: a timestamp on the far left and a classification title ("III/FBI...") on the right, centered horizontally relative to the page width.
+*   **Visual Clarity:** There are no shadows or gradients within the black area; it is a flat, solid color with no texture, confirming it is a digital overlay rather than physical ink covering.
+
+## Page 4 (DOC) [TAG:DOJ_CLEAN_V2]
+
+[REDACTED]
+
+Agency                          Margate Police Department; FL0062100;
+Address                         5790 Margate Boulevard
+                                Margate, FL 33063
+---------------------------------------------------------------------------
+Agency                          Palm Beach County Clerk of Court; FL050015J;
+---------------------------------------------------------------------------
+Agency                          Palm Beach County Sheriffs Office; FL0500000;
+---------------------------------------------------------------------------
+Agency                          Palm Beach County State Attorney's Office;
+                                FL050015A;
+Address                         401 N. Dixie Hwy
+                                West Palm Beach, FL 33401
+---------------------------------------------------------------------------
+Agency                          Riviera Beach Police Department; FL0500700;
+Address                         600 West Blue Heron Boulevard
+                                Riviera Beach, FL 33404
+
+* * * END OF RECORD * * *
+
+## Structured Fields
+*   **Date:** [No date visible]
+*   **Case ID:** EFTA00015154
+*   **Location/Address:**
+    *   Margate, FL 33063
+    *   West Palm Beach, FL 33401
+    *   Riviera Beach, FL 33404
+*   **Organizations:**
+    *   Margate Police Department
+    *   Palm Beach County Clerk of Court
+    *   Palm Beach County Sheriffs Office
+    *   Palm Beach County State Attorney's Office
+    *   Riviera Beach Police Department
+

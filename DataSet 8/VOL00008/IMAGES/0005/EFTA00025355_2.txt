@@ -1,0 +1,926 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025355.pdf ts=2026-03-16T19:16:07 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document showing an email correspondence chain, heavily redacted with thick black bars obscuring names and email addresses. The layout follows a standard email client format. At the very top is the header block for the most recent message. Below that is a brief text snippet. Then, separated by a horizontal rule labeled "-----Original Message-----", is the second email in the thread. Below that, another header section labeled "----Original Message----" precedes the third and oldest email in the visible chain. The bottom of the document features technical data strings likely from an Apple Mail export or copy-paste function, alongside a signature block containing a VCard link for "winston.com". Most personal identifiers are blacked out, leaving only dates, timestamps, and small fragments of text like "Partner" or specific URLs visible at the very bottom.
+
+## Visible Text (verbatim)
+**Header:**
+From: [Redacted]
+To: [Redacted]
+Subject: RE: [Redacted]
+Date: Sat, 21 Sep 2019 19:20:46 +0000
+
+**Body Fragment 1:**
+That's not your phone number.
+
+**Original Message Header 1:**
+From: [Redacted]
+Sent: Saturday, September 21, 2019 3:19 PM
+To: [Redacted]; [Redacted], [Redacted] I. <[Redacted]>
+Cc: [Redacted] <[Redacted]>; [Redacted] <[Redacted]>;
+Subject: RE: [Redacted]
+
+**Body Fragment 2:**
+I left a message on Thursday afternoon to follow up briefly on our prior discussion--completely understand that you're likely busy with family obligations, but wanted to make sure we connected before any next steps on your end. Please feel free to call my cell anytime (including this weekend if that's preferable), [Redacted].
+
+thanks,
+[Redacted Signature]
+
+**Original Message Header 2:**
+From: [Redacted] <[Redacted]>
+Sent: Thursday, September 19, 2019 14:29
+To: [Redacted] I. <[Redacted]>
+Cc: [Redacted] <[Redacted]>; [Redacted]; [Redacted])
+Subject: Re: [Redacted]
+
+**Body Fragment 3:**
+Sorry. Lost you at the very end. Thank you for your time and we appreciate your consideration. We look forward to rescheduling our meeting.
+[Redacted Name]
+
+**Footer Section:**
+Partner
+[Redacted Text]
+<x-apple-data-detectors://2/1><x-apple-data-detectors://4/1 [Redacted Long Bar]
+[Redacted Bar]
+[Redacted Bar]
+Bio<[Redacted]> | VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto:[Redacted]>
+
+**Document ID:**
+EFTA00025355
+
+## Notable Details / Clues
+*   **Date Context:** The emails span from Thursday, September 19, 2019, to Saturday, September 21, 2019. The message on Sept 19 refers to a meeting where the recipient was "Lost you at the very end." The follow-up on Sept 21 acknowledges this and explicitly mentions being busy with "family obligations" and offers calls on the weekend.
+*   **Redaction Patterns:** Nearly all PII (Personally Identifiable Information) is obscured by solid black rectangles, typical of privacy-filtered documents or redacted legal filings.
+*   **Technical Artifacts:** The string `<x-apple-data-detectors://2/1><x-apple-data-detectors://4/1` suggests this text block was copied from an Apple Mail interface.
+*   **Company Connection:** A VCard URL points to `winston.com`, suggesting one of the parties is associated with the Winston Company or a related legal entity (likely Winston & Strawn, though only "winston.com" is visible).
+*   **Tone Analysis:** The tone shifts from professional ("prior discussion") to slightly apologetic and accommodating regarding time constraints ("family obligations," "busy").
+*   **Footer Metadata:** The small text in the bottom right corner `EFTA00025355` appears to be a Bates number or case reference ID, implying this document is part of a legal discovery set or official filing.
+*   **Formatting Artifacts:** In the second email header (Sept 19), the "Cc:" line wraps awkwardly across multiple lines due to text length, creating a dense block of redacted names separated by semicolons and angle brackets `<>`.
+*   **Time Zones/Format:** The final header uses UTC (`+0000`), while the original messages use local time (likely US Eastern or Pacific based on "Thursday afternoon" vs 3:19 PM).
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+winston.com<http://www.winston.com/>
+
+On Sep 19, 2019, at 1:53 PM, [REDACTED], [REDACTED] I. <[REDACTED]<mailto:[REDACTED]>>> wrote:
+
+Great, thank you.
+
+[REDACTED]
+Associate Attorney
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]m
+
+----Original Message-----
+From: [REDACTED])
+<[REDACTED]<mailto:[REDACTED]>>
+Sent: Thursday, September 19, 2019 1:48 PM
+To: [REDACTED], [REDACTED] I. <[REDACTED]<mailto:[REDACTED]>>
+Cc: [REDACTED]) <[REDACTED]<mailto:[REDACTED]> >>; [REDACTED]; [REDACTED]
+Subject: Re: [REDACTED]
+
+We will be available for about 10 minutes at 2:15 and will dial in then. To the extent we can cover any of these topics more thoroughly on Monday, that’s our preference, but we’ll call in at 2:15. Thanks.
+
+Sent from my iPhone
+
+On Sep 19, 2019, at 13:41, [REDACTED], [REDACTED] I. <[REDACTED]<mailto:[REDACTED]>>> wrote:
+Apologies for the multiple emails, 2:15 pm actually works better on our end. Thanks again.
+
+[REDACTED]
+Associate Attorney
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+
+----Original Message-----
+From: [REDACTED], [REDACTED] I.
+Sent: Thursday, September 19, 2019 1:38 PM
+To: '[REDACTED]'
+<[REDACTED]<mailto:[REDACTED]> >>
+
+EFTA00025356
+
+## Structured Fields
+*   **Date:** Sep 19, 2019 (Thursday)
+*   **Time Stamps:** 1:53 PM, 1:48 PM, 13:41 (2:41 PM), 1:38 PM
+*   **Meeting Time Mentioned:** 2:15 pm
+*   **Organization:** Winston.com
+*   **Role:** Associate Attorney
+*   **Document ID:** EFTA00025356
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Cc: [REDACTED]) <[REDACTED]<mailto:[REDACTED]> >>; [REDACTED]
+<[REDACTED]<mailto:[REDACTED]>>; [REDACTED]
+<[REDACTED]<mailto:[REDACTED]>>;
+<[REDACTED><mailto:[REDACTED]>>
+Subject: RE: [REDACTED]
+
+[REDACTED],
+
+We can do a call at 2 pm. We can use the call-in number below. We’d like to discuss our meeting on Monday, one of the recently filed cases, and press inquiries. Thanks.
+
+Dial in: [REDACTED]
+Passcode: [REDACTED]
+
+[REDACTED]
+Associate Attorney
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]
+http://www.winston.com
+
+-----Original Message-----
+From: [REDACTED])
+<[REDACTED]<mailto:[REDACTED]> >>
+Sent: Thursday, September 19, 2019 12:06 PM
+To: [REDACTED] I. <[REDACTED]<mailto:[REDACTED]> >>
+Cc: [REDACTED]) <[REDACTED]<mailto:[REDACTED]> >>; [REDACTED]
+<[REDACTED]<mailto:[REDACTED]>>; [REDACTED]
+<[REDACTED]<mailto:[REDACTED]>>;
+Subject: Re: [REDACTED]
+
+We have a number of meetings today—I believe we could do a call anytime up until 2:30 pm, and then likely not again until approximately 8 pm or later, but both subject to confirmation with the team. We’re also relatively free tomorrow. Could you give us a sense of the topic and the urgency?
+
+Sent from my iPhone
+
+On Sep 19, 2019, at 10:25, [REDACTED], [REDACTED] I. <[REDACTED]<mailto:[REDACTED]> > wrote:
+Hi all,
+
+Are you available for a call today at 4:30 pm?
+
+Thanks,
+[REDACTED]
+Associate Attorney
+[REDACTED]
+
+EFTA0025357
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a section of a digital document, likely a legal filing or forensic report containing excerpts from an email chain. The layout is vertical, presenting text segments separated by blocks of black rectangular redactions that obscure sensitive information like names, addresses, and phone numbers.
+
+At the very top left, address data is visible for "New York, NY 10166-4193," followed by lines starting with "D:" and "F:", which correspond to contact fields but are largely obscured by redaction bars. Below this header, a section labeled "-----Original Message-----" begins an email thread. The headers for sender ("From:"), recipient ("To:"), and carbon copy ("Cc:") are present but their content is blacked out with thick rectangular bars, except for the tag `<mailto:` preceding the redacted address fields.
+
+Following the first email header block is a short message body text: "That would be perfect, thank you very much. We'll plan for 9/6 at 2:30pm." Immediately below this text is another redaction block followed by an identification signature identifying the sender as an "Assistant United States Attorney" from the "Southern District of New York," with their contact details obscured.
+
+Further down, a second "-----Original Message-----" header appears. The timestamp for this message indicates it was sent on "Saturday, August 24, 2019 5:38 PM." This section also features heavily redacted headers containing "From:", "To:", and "Cc:" labels. The body text here reads: "Yes - we can do the afternoon of 9/6. Would 2:30 pm work for you?" Below this query is another redacted signature block where only the title "Partner" is visible. A string of technical data detector tags (`<x-apple-data-detectors`) is also visible in a redacted area. Finally, at the bottom right corner, a unique document identifier "EFTA00025358" is printed in small font.
+
+## Visible Text (verbatim)
+**Top Header Section:**
+*   New York, NY 10166-4193
+*   D: [Redacted]
+*   F: [Redacted]
+*   -----Original Message-----
+*   From: [Redacted] <[Redacted]<mailto:[Redacted>>>
+*   Sent: Sunday, August 25, 2019 5:28 PM
+*   To: [Redacted] <[Redacted]<mailto:[Redacted>>>
+*   Cc: [Redacted]
+*   <[Redacted]<mailto:[Redacted>>;
+*   <[Redacted]<mailto:[Redacted>>>; [Redacted], [Redacted] I.
+*   <[Redacted]<mailto:[Redacted>>
+*   Subject: RE: [Redacted]
+*   That would be perfect, thank you very much. We'll plan for 9/6 at 2:30pm.
+
+**Middle Identification:**
+*   Assistant United States Attorney
+*   Southern District of New York
+*   <[Redacted]<mailto:[Redacted>>
+
+**Bottom Email Section:**
+*   -----Original Message-----
+*   From: [Redacted] <[Redacted]<mailto:[Redacted>>>
+*   Sent: Saturday, August 24, 2019 5:38 PM
+*   To: [Redacted] <[Redacted]<mailto:[Redacted>>>
+*   Cc: [Redacted] <[Redacted]<mailto:[Redacted>>;
+*   <[Redacted] <[Redacted]<mailto:[Redacted>>>;
+*   <[Redacted]<mailto:[Redacted>>>; [Redacted], [Redacted] I.
+*   Subject: Re: [Redacted]
+*   Yes - we can do the afternoon of 9/6. Would 2:30 pm work for you?
+*   Partner
+*   <x-apple-data-detectors://2/1><x-apple-data-detectors://4/1> [Redacted]
+*   [Redacted]
+
+## Notable Details / Clues
+*   **Chronology:** The email headers show a specific timeline, with the "Saturday, August 24" message appearing lower in the document (often indicating an earlier point in a thread) and the "Sunday, August 25" message responding to it.
+*   **Scheduling Agreement:** The text clearly establishes a meeting agreement for September 6th ("9/6") at 2:30 pm.
+*   **Legal Context:** The presence of the title "Assistant United States Attorney" suggests this correspondence involves government counsel, likely in a prosecution or federal matter involving the Southern District of New York.
+*   **Redaction Strategy:** The redactions are consistent and deliberate, using solid black bars to hide Personally Identifiable Information (PII) such as names and specific email addresses while retaining structural metadata like timestamps and subject line prefixes ("RE:", "Subject: Re:").
+*   **Technical Artifacts:** The tags `<x-apple-data-detectors` indicate that the email data may have been processed or extracted from an Apple device or iCloud Mail interface.
+*   **Document ID:** The alphanumeric string "EFTA00025358" in the bottom right corner suggests this is part of a larger, indexed set of documents, possibly from a court filing system (EFTA).
+*   **Subject Line Fragment:** Although redacted, the subject lines start with "RE:" and "Re:", confirming these are replies to previous emails.
+*   **Contact Types:** The labels "D:" likely stands for Telephone (or similar) and "F:" likely stands for Fax or File number at the top of the page.
+
+## Page 5 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Bio<[REDACTED]> |
+VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto:[REDACTED] > |
+winston.com<http://winston.com><http://www.winston.com/>
+
+On Aug 23, 2019, at 4:42 PM, [REDACTED])
+<[REDACTED]<mailto:[REDACTED]> <mailto:[REDACTED]> >
+wrote:
+
+Apologies for the scheduling difficulties--unfortunately none of your proposed dates will work for us. Any chance you'd be available on 9/6? We are flexible that whole day.
+
+Thanks,
+[REDACTED]
+
+[REDACTED]
+Assistant United States Attorney
+Southern District of New York
+[REDACTED]
+[REDACTED]
+[REDACTED]
+[REDACTED]<mailto:[REDACTED]> <mailto:[REDACTED]>
+
+-----Original Message-----
+From: [REDACTED] <[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]> >
+Sent: Thursday, August 22, 2019 10:14 PM
+To: [REDACTED]) <[REDACTED]<mailto:[REDACTED]> >
+<mailto:[REDACTED]> >
+Cc: [REDACTED]) <[REDACTED]<mailto:[REDACTED]> >
+<mailto:[REDACTED]> >;
+<[REDACTED] <mailto:[REDACTED]> <mailto:[REDACTED]> >; [REDACTED]
+[REDACTED]) <[REDACTED]<mailto:[REDACTED]> <mailto:[REDACTED]> >; [REDACTED], [REDACTED]
+I. <[REDACTED] <mailto:[REDACTED]> <mailto:[REDACTED]> >
+Subject: Re: [REDACTED]
+
+Unfortunately, we aren't available on 8/26. How about 8/28? If that doesn't work, we can also do the afternoon of 9/3 or the afternoon of 9/4. Please let me know what works best for you.
+
+Thanks,
+[REDACTED]
+
+[REDACTED] [REDACTED]
+Partner
+[REDACTED]
+
+EFTA00025359
+
+## Structured Fields
+- **Date:** Aug 23, 2019; 4:42 PM; 9/6; Aug 22, 2019; 10:14 PM; 8/26; 8/28; 9/3; 9/4
+- **Organization:** Winston (from URL); Southern District of New York
+- **Role:** Assistant United States Attorney; Partner
+- **Doc ID:** EFTA00025359
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a vertically oriented document snippet that appears to be an excerpt from a digital correspondence thread, likely from an email client or a legal discovery export. The background is stark white with black text and heavy redaction bars obscuring sensitive information such as names and email addresses.
+
+At the very top, there are two lines of XML-like code tags `<x-apple-data-detectors...>` followed by long horizontal black bars covering what would typically be header information or sender details. Below this, a section labeled "Bio" is partially visible next to a long redacted bar. Adjacent to the bio section is a URL fragment reading `winston.com` surrounded by HTML-style tags like `<http://www.winston.com/vcards/1022.vcf>`.
+
+The central portion of the image contains the body of an email message dated August 22, 2019. The text begins with standard opening greetings (redacted) and proceeds to discuss a scheduling conflict. The sender expresses regret ("Very sorry for another rescheduling request") regarding an event on 8/27 and proposes moving a meeting to the afternoon of 8/26, specifically between 2 pm and 5 pm. The message ends with "Thanks very much," followed by a redacted signature line.
+
+Below the main message body is a formal signature block identifying the sender's role as an "Assistant United States Attorney" based in the "Southern District of New York." Several lines beneath this title are redacted, presumably containing the attorney's specific office name or division and contact details.
+
+The bottom third of the image features a separator line reading "----Original Message-----", indicating the start of the email chain thread. The header information lists a send date of Monday, August 19, 2019. The "To," "Cc," and subject lines are heavily obscured with black bars and `<mailto:` tags visible but empty. The text at the very bottom reads "That works for us. See you then." This suggests an acceptance of a previous scheduling request, likely associated with the August 19th date, distinct from the rescheduling request in the main body above it.
+
+## Visible Text (verbatim)
+```text
+<x-apple-data-detectors://2/1><x-apple-data-detectors://4/1>
+Bio< |
+VCard <http://www.winston.com/vcards/1022.vcf> | Email <mailto: |
+winston.com <http://winston.com> <http://winston.com> <http://www.winston.com/>
+
+On Aug 22, 2019, at 1:47 PM, )
+<mailto: > wrote:
+
+Very sorry for another rescheduling request, but we just had some changes to our schedules for 8/27. Is there any way that we could meet on the afternoon of 8/26 instead? We are available from 2pm to 5pm if that works for you.
+
+Thanks very much,
+
+Assistant United States Attorney
+Southern District of New York
+
+----Original Message-----
+From: )
+Sent: Monday, August 19, 2019 2:21 PM
+To: <mailto:
+<mailto:
+Cc: <mailto: ;
+<mailto: >; <mailto:
+<mailto: >;
+<mailto: >; I. <mailto:
+<mailto: >; , I. <mailto:
+Subject: RE:
+That works for us. See you then.
+
+EFTA00025360
+```
+
+## Notable Details / Clues
+*   **Document Source:** The presence of `<x-apple-data-detectors>` tags strongly suggests this text was copied and pasted from an Apple device or macOS system, often seen in litigation holds or FOIA responses.
+*   **Legal Context:** The title "Assistant United States Attorney" places the correspondence within a federal prosecutorial context.
+*   **Scheduling Conflict:** The email explicitly mentions changing plans from August 27 to August 26, specifically for the afternoon window (2pm-5pm).
+*   **Firm/Entity Reference:** The domain "winston.com" appears in the header, likely belonging to Winston & Strawn LLP or a similarly named law firm, though the full name is redacted.
+*   **Redaction Style:** The black bars are uniform and horizontal, indicating a standard digital redaction process used to hide PII (Personally Identifiable Information) like email addresses.
+*   **Date Discrepancy:** There appear to be two distinct points of contact in the thread: one on August 19 ("Original Message") and a follow-up request on August 22 asking for a change to a date previously agreed upon (implied).
+*   **Missing Content:** The "Bio" section is cut off, suggesting this is a partial view of a larger profile or signature card.
+*   **Footer ID:** A string "EFTA00025360" in the bottom right corner serves as a Bates number or internal case file reference identifier.
+*   **Email Clients:** The formatting `<mailto:>` and angle brackets `<>` around names indicate raw email source code rendering rather than a clean PDF view.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a section of a legal document or transcript containing excerpts of digital correspondence, heavily redacted with black bars to protect privacy or sensitive information. The layout is typical of a discovery dump or a court filing exhibit.
+
+*   **Top Section:** At the very top left, the text "Thanks," appears, followed immediately by a short black redaction bar. Below this is a longer redaction bar, followed by the typed title "Assistant United States Attorney" and "Southern District of New York." This indicates the sender's professional capacity and location.
+*   **Redacted Contact Block:** Beneath the US Attorney title is a dense block of black bars obscuring names and email addresses. However, the text tags `<mailto:` are visible before several redaction blocks, confirming these were email fields. The formatting includes angled brackets `>><` indicating list separators in an email header.
+*   **Original Message Header:** Further down the page is a separator line marked "----Original Message-----". This indicates the start of a forwarded or embedded email thread.
+*   **Email Metadata Fields:** Following the original message header are standard email fields: "From," "Sent," "To," "Cc," and "Subject." Almost all content within these fields is redacted, though fragments like `<mailto:` and `)>` are visible, suggesting lists of recipients. The "Sent" date is partially visible as "Monday, August 19, 2019".
+*   **Email Body:** Inside the original message body, only one sentence remains legible: "That would be fine. How about 1 pm on August 27th?" This suggests a scheduling conversation.
+*   **Signature/Signature Block:** Below the text is a signature block that begins with the title "Partner." Following this are several redaction bars representing the recipient's name and job details.
+*   **Technical Metadata:** Embedded within the redacted area of the signature block is technical string data: `<x-apple-data-detectors://2/1><x-apple-data-detectors://4/1>`. This suggests the email was processed by an iOS Mail client or similar Apple software, where the system attempted to auto-fill or detect data.
+*   **Signature Content:** A signature line for "Bio" and "VCard" is visible but mostly redacted. It contains a hyperlinked text string pointing to `www.winston.com/vcards/1022.vcf` and other links to `winston.com`. This identifies the law firm as Winston & Strawn (or similar entity using that domain).
+*   **Footer Timestamp:** At the bottom of the page, outside the main email thread but part of the document text, is a timestamp line: "On Aug 19, 2019, at 10:50 AM," followed by a redaction bar and a closing parenthesis. This likely marks when a reply was received or forwarded.
+*   **Document Identifier:** In the bottom right corner, there is a code "EFTA00025361", which serves as an exhibit tag or filing identifier for this specific page in a legal case file.
+
+## Visible Text (verbatim)
+**Thanks,**
+[Redacted Bar]
+
+[Redacted Bar]
+Assistant United States Attorney
+Southern District of New York
+[Redacted Bar]
+[Redacted Bar]
+[Redacted Bar]
+[Redacted Bar] <mailto:[Redacted Bar]><mailto:[Redacted Bar]>
+<mailto:[Redacted Bar]>
+
+----Original Message-----
+From: [Redacted Bar] <[Redacted Bar]<mailto:[Redacted Bar]> <mailto:[Redacted Bar]><mailto:[Redacted Bar]>>
+Sent: Monday, August 19, 2019 12:49 PM
+To: [Redacted Bar])< [Redacted Bar]<mailto:[Redacted Bar]>
+<mailto:[Redacted Bar]><mailto:[Redacted Bar]>>
+Cc: [Redacted Bar])< [Redacted Bar]<mailto:[Redacted Bar]> <mailto:[Redacted Bar];[Redacted Bar]
+<mailto:[Redacted Bar]><mailto:[Redacted Bar]>>;[Redacted Bar]
+<[Redacted Bar]<mailto:[Redacted Bar]><mailto:[Redacted Bar]><mailto:[Redacted Bar]>
+<mailto:[Redacted Bar]>>;[Redacted Bar] )
+<[Redacted Bar]<mailto:[Redacted Bar]<mailto:[Redacted Bar]
+<mailto:[Redacted Bar]>>; [Redacted], [Redacted] I. <[Redacted Bar]><mailto:[Redacted Bar]>
+<mailto:[Redacted Bar]><mailto:[Redacted Bar]>>
+Subject: Re: [Redacted Bar]
+
+That would be fine. How about 1 pm on August 27th?
+
+[Redacted Bar][Redacted Bar]
+
+Partner
+
+[Redacted Bar]
+<x-apple-data-detectors://2/1><x-apple-data-detectors://4/1>[Redacted Bar]
+[Redacted Bar]
+[Redacted Bar]
+[Redacted Bar]
+
+Bio<[Redacted Bar]> | VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto:[Redacted Bar]> | winston.com<http://winston.com><http://winston.com><http://winston.com><http://www.winston.com/>
+
+On Aug 19, 2019, at 10:50 AM, [Redacted Bar] )
+
+EFTA00025361
+
+## Notable Details / Clues
+*   **Legal Context:** The presence of the "Assistant United States Attorney" title and the case number format (EFTA...) strongly implies this is evidence in a federal prosecution or civil litigation.
+*   **Scheduling Conflict/Resolution:** The text "How about 1 pm on August 27th?" combined with the document date (August 19, 2019) suggests a coordination of events happening shortly after the email was sent.
+*   **Firm Identification:** The domain `winston.com` points to the law firm Winston & Strawn. The signature indicates the sender is a "Partner" at this firm.
+*   **Apple Metadata:** The string `<x-apple-data-detectors>` is a specific header injected by Apple Mail (formerly MobileMe) to help with auto-completion of email addresses. Its presence confirms the email originated from or was managed through an Apple device/client.
+*   **Sanitization Strategy:** The redactions are very aggressive, covering names but leaving structural elements like "mailto:" and URLs visible. This allows a reader to see *that* contact information existed without seeing the specifics.
+*   **Timeline:** The document shows correspondence occurring on August 19, 2019 (Sent at 12:49 PM) referencing a future date of August 27th. A reply or forwarding event is timestamped at 10:50 AM, which is chronologically impossible unless it refers to a different day's activity or a specific thread order (possibly the previous day, Aug 18, given the "On Aug 19...at 10:50 AM" line might be from a previous email in the chain not fully captured or referencing a date typo). *Correction:* Looking closely at the bottom text "On Aug 19, 2019, at 10:50 AM," this is likely the timestamp of an email *before* the one sent at 12:49 PM, indicating a conversation flow spanning that morning.
+*   **Email Chain Complexity:** The "From," "To," and "Cc" fields contain multiple `<mailto:` tags, suggesting a group email distribution list involving many parties, typical in litigation or large corporate investigations.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital excerpt from a document, likely a PDF court filing or email chain, characterized by significant redaction where sensitive information is covered by solid black rectangular bars. The document background is white with black serif and sans-serif fonts. At the very top, there are fragments of HTML-style tags like `<mailto:` indicating obscured email addresses. The first readable paragraph discusses scheduling logistics, mentioning a travel date of the "28th" and a preference to meet on the "27th," specifying availability before 5pm. Below this is a signature block area where a name is redacted, followed by the title "Assistant United States Attorney" and the location "Southern District of New York." Further down, an "Original Message" header separates a previous email in the chain. This section lists standard email fields (From, Sent, To, Cc) which are heavily redacted, except for the timestamp: "Saturday, August 17, 2019 4:30 PM." The body of this older message contains the text "Yes. That’s fine. What time would be best for you? Thanks." Below that is a title reading "Partner," followed by more redacted fields and technical artifacts like `<x-apple-data-detectors...>`. In the bottom right corner, a unique tracking number "EFTA00025362" is visible in sans-serif font.
+
+## Visible Text (verbatim)
+- <mailto: [redacted] > wrote:
+- Turns out [redacted] will be travelling on the 28th. Would it be possible to plan for the 27th instead? [redacted] and I are both available any time before 5pm on that 27th and happy to meet.
+- Thanks,
+- [redacted]
+- Assistant United States Attorney
+- Southern District of New York
+- [redacted]
+- <mailto: [redacted] >
+- ----Original Message----
+- From: [redacted]
+- Sent: Saturday, August 17, 2019 4:30 PM
+- To: [redacted]
+- Cc: [redacted]
+- Subject: Re: [redacted]
+- Yes. That’s fine. What time would be best for you? Thanks.
+- Partner
+- <x-apple-data-detectors://2/1><x-apple-data-detectors://4/1> [redacted]
+- EFTA00025362
+
+## Notable Details / Clues
+- **Legal Context:** The title "Assistant United States Attorney" combined with the document ID "EFTA..." (Electronic Filing Tracking Application number) strongly indicates this is a formal legal document from a US federal court.
+- **Jurisdiction:** The text explicitly identifies the location as the "Southern District of New York."
+- **Timeline:** The email chain references dates in late August 2019 (specifically the 27th and 28th), while the specific email thread shown was sent on August 17, 2019.
+- **Professional Roles:** At least three roles are implied: the Assistant U.S. Attorney, a "Partner" (likely a lawyer or counsel), and other attendees of a meeting.
+- **Scheduling Conflict:** The text reveals a scheduling issue where one person is traveling on the 28th, forcing a reschedule to the 27th with a specific constraint of "before 5pm."
+- **Device Origin:** The string `<x-apple-data-detectors...>` suggests the text was processed or generated using Apple software (macOS/iOS).
+- **Redaction Extent:** Nearly all names and email addresses are completely obscured, leaving only the structural elements and the few titles/dates visible.
+- **Correspondence Flow:** The document shows a thread where an "Original Message" is being replied to or referenced, showing a back-and-forth negotiation of time.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped view of a digital email correspondence thread, likely part of a legal document or discovery release given the heavy redaction of personal information. The document is formatted with white text on a light background, organized into distinct blocks representing different messages in reverse chronological order at the top (though standard email threading places older messages below).
+
+**Top Section:**
+At the very top, there is a header block containing metadata links. A "Bio" link is partially visible and redacted. Below that is a "VCard" link pointing to "winston.com/vcards/1022.vcf". Several email address links are present, all pointing to "winston.com", though the specific domains are redacted in places.
+
+**First Email Block (Aug 17, 2019):**
+The first visible message header indicates a date of "On Aug 17, 2019, at 2:02 PM". The sender's name and email addresses are obscured by black rectangular redaction bars. The body text begins immediately without a standard quote block, suggesting the top portion is a continuation or quote from an earlier unreadable message. The text expresses skepticism about a trial being brief ("I think it's unlikely the trial will be quite that brief"). It proposes rescheduling to "the 28th" for the week. The writer notes that "[REDACTED]" and another redacted party will be able to attend. A question asks if the recipient can meet in the "late afternoon". The email closes with "thanks," followed by a single black bar representing the sender's name.
+
+**Divider:**
+A standard email separator line reading "---Original Message----" appears below the first block, indicating the start of an earlier email in the thread.
+
+**Second Email Block (Aug 16, 2019):**
+This section begins with the "From:" and recipient fields, all heavily redacted. The "Sent" date is clearly visible as "Friday, August 16, 2019 08:23". The "Subject" line begins with "Re:", followed by a redacted topic. The body text thanks the recipient for a prompt response and states, "We will advise our client accordingly." It proposes planning for "August 28," hoping a trial is over or in jury deliberations so the recipient can attend a meeting. It suggests meeting with two redacted parties if the trial isn't over. It closes with "Many thanks," and a redacted signature line.
+
+**Bottom Section:**
+The bottom of the page shows the header for an even earlier message dated "On Aug 16, 2019, at 12:48 AM". The body text is not visible; only the date and redacted recipient fields (starting with "<mailto:") are shown.
+
+**Footer:**
+In the bottom right corner, there is a case or document control number: "EFTA00025363".
+
+## Visible Text (verbatim)
+- Bio<[REDACTED]> | VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto:[REDACTED]> | winston.com<http://winston.com><http://winston.com><http://winston.com><http://winston.com> <http://www.winston.com/>
+- On Aug 17, 2019, at 2:02 PM, [REDACTED])
+- <[REDACTED]><mailto:[REDACTED]>
+- <mailto:[REDACTED]>,<mailto:[REDACTED]>
+- <mailto:[REDACTED]>,<mailto:[REDACTED]>> wrote:
+- I think it's unlikely the trial will be quite that brief, but if you're not available later that week, we can schedule it for the 28th and at least one or both of [REDACTED] and [REDACTED] will be able to attend. Would you be able to do late afternoon?
+- thanks,
+- [REDACTED]
+- -----Original Message----
+- From: [REDACTED] <[REDACTED]<mailto:[REDACTED]>
+- <mailto:[REDACTED]>,<mailto:[REDACTED]>,<mailto:[REDACTED]>
+- Sent: Friday, August 16, 2019 08:23
+- To: [REDACTED]) <[REDACTED]<mailto:[REDACTED]>
+- <mailto:[REDACTED]>,<mailto:[REDACTED]>,<mailto:[REDACTED]>
+- <mailto:[REDACTED]>>
+- Cc: [REDACTED] <[REDACTED]<mailto:[REDACTED]>
+- <mailto:[REDACTED]>,<mailto:[REDACTED]>,<mailto:[REDACTED]>
+- <mailto:[REDACTED]>>; [REDACTED])
+- <[REDACTED]<mailto:[REDACTED]>,<mailto:[REDACTED]>;<mailto:[REDACTED]<mailto:[REDACTED]>>
+- <[REDACTED]<mailto:[REDACTED]>;<mailto:[REDACTED]>; [REDACTED])
+- <[REDACTED]<mailto:[REDACTED]>;<mailto:[REDACTED]>;<mailto:[REDACTED]>,, [REDACTED]
+- [REDACTED]. I. <[REDACTED]<mailto:[REDACTED]>,<mailto:[REDACTED]>
+- <mailto:[REDACTED]>,<mailto:[REDACTED]>;<mailto:[REDACTED]>>
+- Subject: Re: [REDACTED]
+- [REDACTED] - Thank you for your prompt response. We will advise our client accordingly.
+- As for scheduling, can we plan for August 28 with the hope that your trial will be over by then (or perhaps will be in jury deliberations such that you can get away for a meeting)? If it turns out that your trial isn't over by then, perhaps we can still meet with [REDACTED] and [REDACTED] that day. Please let us know if that would work.
+- Many thanks,
+- [REDACTED]
+- On Aug 16, 2019, at 12:48 AM, [REDACTED])
+- <[REDACTED]<mailto:[REDACTED]>
+- <mailto:[REDACTED]>,<mailto:[REDACTED]>
+- EFTA00025363
+
+## Notable Details / Clues
+- **Context of Redaction:** The systematic blacking out of names and email addresses strongly suggests this image is from a public record release or legal discovery where sensitive PII (Personally Identifiable Information) has been masked.
+- **Legal Context:** The text explicitly mentions a "trial," "jury deliberations," and "our client," confirming that the correspondence involves legal proceedings, likely between opposing counsel or parties in litigation.
+- **Domain Identification:** The domain "winston.com" is visible multiple times (e.g., in the VCard link), which may identify the law firm involved as Winston & Strawn LLP or a similar entity associated with that URL structure.
+- **Date Logic:** The emails span two days: August 16, 2019 (early morning and late morning) and August 17, 2019 (afternoon). This suggests an urgent exchange regarding scheduling for the following week.
+- **Specific Date Targeting:** Both visible messages focus intensely on securing a meeting date of "August 28," indicating that this is a specific, near-term deadline or goal for the legal team involved.
+- **Document Control:** The string "EFTA00025363" at the bottom right looks like an Exhibit ID (Exhibit A) or a Bates number used in court proceedings to track documents.
+- **Incompleteness:** The image is cropped at the top (cutting off the Bio link) and the bottom, suggesting it is a single page from a longer document.
+- **Signature Style:** One signature block ends with "Many thanks," followed by a name placeholder, while the other ends with just "thanks," followed by a name placeholder, showing slight stylistic variation in professional communication within the same thread.
+
+## Page 10 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a section of a scanned document featuring two distinct blocks of text that appear to be excerpts from email correspondence. The upper portion consists of the body of an email discussing safety protocols regarding threats and scheduling a meeting around a court trial. This text is followed by a heavily redacted email header containing standard fields like "From," "To," "Cc," and "Sent." The lower section contains the body text corresponding to that specific email, which discusses ongoing investigations, threatening communications received by a husband (whose name is redacted), and requests for meeting availability. Both the sender names and email addresses are obscured by black rectangular bars, except for fragments of tags like `<mailto:`. A document identification number, "EFTA00025364," is visible in the bottom right corner. The text is black on a white background, typical of printed or high-resolution scanned documents.
+
+## Visible Text (verbatim)
+**Upper Section:**
+`<mailto:[REDACTED]> wrote:`
+`,`
+First, and most importantly, to the extent your client or any of her family, friends, loved ones, etc., feel threatened by any communications or other actions, they should not hesitate to immediately report that to authorities, whether local police, the local FBI office, and/or any other appropriate law enforcement. If your client or anyone else believes at any time that they may be in imminent danger, they should immediately call 911. Their reporting threats to authorities will not interfere with or otherwise impact our investigation and we in no way want to impede any legal steps they wish to take to ensure their safety. Please let us know if you have any questions about this at all, as we do not want there to be any confusion or miscommunication about the importance of individuals being able to ensure their safety.
+Regarding a follow-up meeting, I unfortunately have a short trial starting August 26. Would it be possible to meet sometime this coming week, rather than the following? I expect we also could make ourselves available on a weekend day if that would be helpful, or we could set a time later in the week of the 26th. Or if none of that works, please let us know and we’ll further confer internally about options.
+thank you,
+[REDACTED]
+
+**Middle Section (Email Header):**
+From: [REDACTED] <mailto:[REDACTED]>
+<mailto:[REDACTED]>
+<mailto:[REDACTED]> wrote:
+Sent: Thursday, August 15, 2019 15:15
+To: [REDACTED]) <mailto:[REDACTED]>
+<mailto:[REDACTED]>
+<mailto:[REDACTED]>
+Cc: [REDACTED] <mailto:[REDACTED]>
+<mailto:[REDACTED]>
+<mailto:[REDACTED]>
+<mailto:[REDACTED]>; [REDACTED])
+<mailto:[REDACTED] <mailto:[REDACTED]<mailto:[REDACTED><mailto:[REDACTED]>
+<mailto:[REDACTED]<<mailto:[REDACTED)<<mailto:[REDACTED]][mailto:[REDACTED]]>>; [REDACTED])
+) <mailto:[REDACTED]>
+<mailto:[REDACTED]>
+<mailto:[REDACTED] I. <mailto:[REDACTED]>
+<mailto:[REDACTED] <<mailto:[REDACTED]<mailto:[REDACTED]<<mailto:[REDACTED][]mailto:[REDACTED]>>; [REDACTED] <<mailto:[REDACTED][mailto:[REDACTED]]>
+Subject: RE: [REDACTED]
+
+**Lower Section:**
+[REDACTED] – Thanks for your time on the phone yesterday. Please let us know if you are available to meet on Monday, August 26, or Tuesday, August 27, to continue our discussions and attorney proffer.
+Also, I know you had limited time yesterday (and apologies for going over my initial estimate for the call), but one of the things I had intended to share with you are some of the threatening communications that have been received by [REDACTED] husband. Attached is an example of a recent one. We don’t want to do anything that may impact your ongoing investigation, so defer to you as to what should be done with respect to this.
+Thanks and we look forward to hearing from you as to your availability for a meeting.
+Best,
+[REDACTED]
+
+## Notable Details / Clues
+*   **Date Context:** The bottom email header is dated "Thursday, August 15, 2019." The body text references a meeting on "Monday, August 26" or "Tuesday, August 27," indicating the correspondence spans roughly two weeks.
+*   **Redaction Extent:** Almost all personally identifiable information (PII) regarding names and email addresses is blacked out. The redacted area in the header header is dense, covering standard address fields with multiple `<mailto>` tags visible underneath or alongside the black bars.
+*   **Legal Context:** The text references "local police," "FBI office," "imminent danger," "attorney proffer," and "ongoing investigation," indicating law enforcement involvement in a sensitive case involving threats against a client and their family.
+*   **Safety Warning:** The first paragraph explicitly advises recipients to report threats to authorities (911) rather than ignoring them, noting that this won't hinder the investigation.
+*   **Attachment Mention:** The lower email mentions an attachment ("Attached is an example of a recent one") regarding threatening communications received by a "husband," implying domestic or familial threats were intercepted and documented.
+*   **Document Identifier:** The string "EFTA00025364" in the bottom right corner suggests this document may be part of a larger evidentiary exhibit set, possibly related to the FBI (given the EFT A code which can relate to Electronic Funds Transfer but often seen in legal docketing or agency-specific indexing).
+
+## Page 11 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document containing excerpts of digital correspondence, specifically email headers, which have been heavily redacted for privacy or legal reasons. The layout consists of two main blocks of text separated by vertical white space.
+
+- **Top Section Header:** At the very top left, there are two solid black rectangles obscuring text. Below this is the word "Partner" followed by another black rectangle and an address line reading "New York, NY 10166-4193".
+- **Bio/VCard Data:** Below the address, there are two more black bars. Underneath a third bar is a line starting with "Bio<", followed by a long redacted block, then a pipe symbol "|". The next section begins with "VCard" followed by a URL: "http://www.winston.com/vcards/1022.vcf". This line continues with "Email" and a redacted email address block, followed by the domain "winston.com" repeated multiple times in angle brackets (e.g., `<http://winston.com>`).
+- **First Email Entry:** Below the VCard data is an image filename tag: `<image001.jpg>`. The first email header begins with "From:", followed immediately by a closing parenthesis and a redacted block. Several lines follow containing standard email tags like `<mailto:` and `<<mailto:`, all with the actual address data obscured by black bars.
+- **First Sent Timestamp:** A specific timestamp is visible: "Sent: Tuesday, August 13, 2019 8:27 PM".
+- **First Recipients (To/Cc):** The "To:" field is followed by redacted headers. The "Cc:" field contains a dense stack of redacted email addresses and forward slashes.
+- **First Email Body:** Below the headers is a short message body text: "Okay, we’ll call you at 2:30 tomorrow. Thanks."
+- **Second Email Entry (Bottom Section):** This section appears to be another email header block or continuation. It mirrors the structure above with "From:", multiple redacted `<mailto:` lines, and a timestamp: "Sent: Tuesday, August 13, 2019 20:23".
+- **Second Recipients:** Similar to the first, this section lists "To:" and "Cc:" fields filled with redacted blocks containing email formatting codes.
+- **Footer:** In the bottom right corner of the page, there is a small alphanumeric code: "EFTA00025365".
+
+## Visible Text (verbatim)
+```text
+Partner
+New York, NY 10166-4193
+Bio<
+VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto: > |
+winston.com<http://winston.com><http://winston.com><http://winston.com><http://winston.com>
+<http://winston.com><http://www.winston.com>
+
+<image001.jpg>
+From: )
+Sent: Tuesday, August 13, 2019 8:27 PM
+To:
+Cc:
+Subject: RE:
+Okay, we’ll call you at 2:30 tomorrow. Thanks.
+From: <mailto: >
+Sent: Tuesday, August 13, 2019 20:23
+To:
+Cc:
+EFTA00025365
+```
+
+## Notable Details / Clues
+- **Redaction Technique:** The sensitive information (names, specific email addresses) is obscured by solid black rectangular bars. Some bars are wide and horizontal (covering names), while others are tall and vertical or irregular (covering lists of recipients).
+- **Timestamp Discrepancy/Confirmation:** The first email was sent at 8:27 PM. The second header shows a time of 20:23, which translates to 8:23 PM in a 24-hour format. This suggests the emails were sent minutes apart on the same evening in August 2019.
+- **Domain Repetition:** The URL for `winston.com` is listed multiple times at the top, likely indicating an automated insertion of profile data or website links associated with the sender.
+- **Email Formatting Artifacts:** The presence of `<<mailto:` suggests that these are raw email headers exported from a system like Outlook or Microsoft 365, where internal formatting codes are visible.
+- **Reply All Context:** The subject line "Subject: RE:" indicates this is part of an ongoing conversation thread (replying to a previous message).
+- **Time Zone Inference:** While the date is August 13, the mix of 12-hour ("8:27 PM") and 24-hour ("20:23") time formats suggests an email system automatically converting timestamps or exporting data from different regions.
+
+## Page 12 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document containing excerpts from professional email communications, heavily redacted with solid black bars to obscure sensitive personal information such as names and specific email addresses. The document appears to be a "Reply All" or forwarded chain involving legal or business professionals. At the very top, there is a cluster of `<mailto>` tags obscured by black rectangles. Below this, a short email response is visible, concluding with the sender agreeing that "20 minutes should be fine" for a meeting tomorrow. The signature block for this top section indicates the sender holds the title "Partner" and lists an address in New York, NY (10166-4193). Below the partner's contact info is a redacted section followed by the word "Bio," which links to a VCard hosted on `winston.com`. Further down, an embedded image tag `<image001.jpg>` is visible. The main body of text at the bottom belongs to the original email being referenced. It contains standard email headers ("From:", "To:", "Cc:") where all addresses are blacked out. A timestamp indicates the email was sent on "Tuesday, August 13, 2019 8:21 PM." The content of this lower email discusses scheduling logistics, noting an obligation at 3:00 and proposing a 2:30 start if the conversation is short, or 5:00 later that day/Thursday for longer discussions. The document concludes with the sign-off "thanks," followed by another redacted name. In the bottom right corner, a reference number "EFTA00025366" is printed.
+
+## Visible Text (verbatim)
+-   `<mailto:...>` (redacted headers)
+-   `Subject: RE:`
+-   `I think that for purposes of tomorrow, 20 minutes should be fine. Thanks.`
+-   `Partner`
+-   `New York, NY 10166-4193`
+-   `D:` (redacted)
+-   `Bio<...>`
+-   `VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto:...> | winston.com<http://winston.com>...`
+-   `<image001.jpg>`
+-   `From:` (redacted)
+-   `Sent: Tuesday, August 13, 2019 8:21 PM`
+-   `To:` (redacted)
+-   `Cc:` (redacted)
+-   `Subject:` (redacted)
+-   `We have obligations at 3:00, so if you think our conversation is likely to take 20 minutes or less, we can do 2:30, otherwise to give ourselves sufficient time we would prefer to do anytime 5:00 or later tomorrow or anytime at all on Thursday.`
+-   `thanks,`
+-   `[Redacted Name]`
+-   `EFTA00025366`
+
+## Notable Details / Clues
+-   **Scheduling Constraints:** The sender explicitly states they have obligations at 3:00 PM, creating a specific window of availability (before 3:00 or after 5:00) for a meeting scheduled around August 13, 2019.
+-   **Professional Titles:** The title "Partner" suggests the context is likely a law firm or high-level consultancy, reinforced by the `winston.com` domain (likely related to Winston & Strawn).
+-   **Geographic Location:** The address provided is specifically for the New York, NY office (zip code 10166), indicating an East Coast base of operations.
+-   **Document ID:** The alphanumeric string "EFTA00025366" at the bottom right suggests this is part of a discovery dataset or legal deposition transcript file.
+-   **Redaction Extent:** Almost every proper noun (names) and email address is completely blacked out, making it impossible to identify the specific individuals involved without external context.
+-   **VCard Link:** A direct link to a digital business card (`1022.vcf`) suggests the sender is using their official company directory system.
+-   **Time Format:** The use of 12-hour format (3:00, 5:00) and "PM" implies standard US/Eastern time conventions.
+-   **Forwarding Context:** The visual layering (a short reply on top of the original email) indicates this is a screenshot or printout of an email client window, likely Outlook, given the font and header style.
+
+## Page 13 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document containing two distinct blocks of email correspondence, heavily redacted to hide personal information. The top section begins with standard email header fields (From, To, Cc) where all names and addresses are obscured by thick black bars. Below the header is a timestamp indicating the email was sent on Tuesday, August 13, 2019 at 20:16. The visible body text asks, "Can we do 2:30?", followed by two small, unidentifiable black rectangles. Further down, the word "Partner" appears above a long redacted name and an address in New York, NY. This section concludes with a bio link to a Winston & Strawn website and an attachment tag `<image001.jpg>`. The bottom portion of the image repeats the email header structure with different timestamps, showing a message sent at 6:22 PM on the same day. All specific names, email addresses, and body content in this lower section are completely covered by black redaction bars.
+
+## Visible Text (verbatim)
+- "From:"
+- "Sent: Tuesday, August 13, 2019 20:16"
+- "To:"
+- "Cc:"
+- "Subject: RE:"
+- "Can we do 2:30?"
+- "Partner"
+- "New York, NY 10166-4193"
+- "Bio<"
+- "VCard<http://www.winston.com/vcards/1022.vcf>"
+- "Email<mailto:"
+- "<http://winston.com>"
+- "<image001.jpg>"
+- "From:" (repeated in second block)
+- "Sent: Tuesday, August 13, 2019 6:22 PM"
+- "To:"
+- "Cc:"
+- "EFTA00025367" (Watermark/ID at bottom right)
+
+## Notable Details / Clues
+- **Redaction Strategy:** Every instance of a name, email address, or specific sentence in the email body is covered by a solid black rectangle, consistent with privacy filtering or legal document review.
+- **Temporal Sequence:** Two emails exist within roughly three hours on August 13, 2019; one sent at 6:22 PM (bottom block) and one at 8:16 PM (top block).
+- **Corporate Affiliation:** Multiple URLs link to "winston.com", identifying the sender's affiliation with the law firm Winston & Strawn.
+- **Specific Address:** The physical address listed is a specific P.O. Box or office location in New York, NY 10166-4193.
+- **VCard Link:** A direct link to a business card (vcard) for employee number 1022 on the company website is visible.
+- **Image Attachment:** An image file named `image001.jpg` was attached to the correspondence, though the image content itself is not fully rendered or is part of the redacted section.
+- **Subject Line Prefix:** The subject line in the top email begins with "RE:", indicating this is a reply to a previous message whose subject line is hidden.
+- **Email Client Artifacts:** The text `<mailto:` appears repeatedly before black bars, showing the underlying HTML code structure of the email headers even where the content is blocked.
+- **Time Zone:** The timestamps use 24-hour format (20:16 and 6:22 PM), suggesting a professional or non-US context, or simply adherence to military time standards in the software used.
+- **Document ID:** A string "EFTA00025367" is visible in the bottom right corner, likely a docket number, exhibit tag, or file identifier for a legal proceeding.
+- **Professional Title:** The signer identifies themselves simply as "Partner," indicating a senior position within the law firm.
+
+## Page 14 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document, likely a printout or screen capture of an email thread, characterized by heavy redaction. Large black bars obscure personal identifiers such as names and email addresses across the majority of the page. The layout is vertical, stacking email headers and message bodies.
+
+**Top Section:**
+At the very top, there are two lines of redacted headers. Below this, a visible paragraph of text discusses scheduling conflicts for "tomorrow" and Thursday, suggesting meeting times at 2:00 or after 5:00. The section ends with the sign-off "thanks," followed by a single redacted name block.
+
+**Middle Section:**
+Below the first message, there is a block of email headers starting with "From:" and "To:". The sent date is visible as "Tuesday, August 13, 2019 17:34". The header fields contain numerous `<mailto:` tags next to the redaction bars. Following these headers is a brief text fragment: "Actually – I mistyped. How is 12:15?". This is followed by the title "Partner", a large redacted bar, and an address line reading "New York, NY 10166-4193".
+
+**Bottom Section:**
+Further down, there is a section labeled "Bio" with another long redacted bar. Below this is a VCard link pointing to `www.winston.com`. Several hyperlinks to `winston.com` are listed in a row. An attachment named `<image001.jpg>` is visible. At the very bottom, a final set of email headers appears with a "Sent" date of "Tuesday, August 13, 2019 4:24 PM", indicating this section corresponds to an earlier message in the thread than the 17:34 timestamp above it. A file identifier "EFTA00025368" is located in the bottom right corner.
+
+## Visible Text (verbatim)
+*   `Subject: RE:`
+*   `Unfortunately we’re a little over-scheduled tomorrow – we could do 2:00 tomorrow, or after 5:00. Alternatively, we could do any time on Thursday. What would you prefer?`
+*   `thanks,`
+*   `From:`
+*   `Sent: Tuesday, August 13, 2019 17:34`
+*   `To:`
+*   `Cc:`
+*   `Subject: RE:`
+*   `Actually – I mistyped. How is 12:15?`
+*   `Partner`
+*   `New York, NY 10166-4193`
+*   `Bio`
+*   `VCard<http://www.winston.com/vcards/1022.vcf>`
+*   `winston.com`
+*   `<image001.jpg>`
+*   `Sent: Tuesday, August 13, 2019 4:24 PM`
+*   `EFTA00025368`
+
+## Notable Details / Clues
+*   **Redaction Pattern:** The black bars are uniform and thick, indicating intentional data masking for privacy or legal reasons.
+*   **Email Addresses:** Wherever emails are redacted, the raw HTML tag `<mailto:` often remains visible on the left edge of the black bar (e.g., `...<mailto:[REDACTED]>`).
+*   **Timestamp Discrepancy:** There are two distinct timestamps visible: 17:34 (5:34 PM) and 4:24 PM. The 4:24 PM header appears at the bottom, suggesting the document might be scrolling upwards or displaying a specific email from an earlier time within a larger conversation.
+*   **Entity Identification:** The domain `winston.com` and the name "Partner" suggest this communication is likely related to a law firm or professional services entity named Winston.
+*   **File Number:** The code `EFTA00025368` in the corner suggests this document is part of a formal record, possibly for an investigation (EFTA often refers to Employee Free Choice Act or similar legal bodies).
+*   **Formatting Artifacts:** The text `<mailto:`, `<image001.jpg>`, and HTML-like link tags (`<http://...`) indicate this was exported from a rich-text email client.
+*   **Address:** The specific ZIP code `10166` is consistent with the Midtown Manhattan area of New York City.
+
+## Page 15 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document featuring a chain of emails with significant redaction using solid black rectangular bars to obscure personal information and specific identifiers. The layout is vertical, typical of an email client window or a printed transcript.
+
+At the very top, there is a dense block of email header information consisting primarily of `<mailto:` tags followed by long, horizontally oriented black bars. To the right of these bars are angle brackets `>` closing the tags. Interspersed are labels like "Cc:" and a partially visible "Subject: R".
+
+Below this header block, there is a short paragraph of text in a standard serif font. It asks about availability for a call at 12:45 and mentions sending a dial-in number. Below this is another black bar.
+
+Further down, the word "Partner" appears as a section header. Underneath is another thick black bar. Following that is a line of text containing an address: "New York, NY 10166-4193". There are additional redacted blocks below the address.
+
+Next is a section labeled "Bio". This area contains several long black bars obscuring bio details. Below this are hyperlinks, specifically one pointing to a VCard file at `www.winston.com/vcards/1022.vcf`. Several instances of the domain `winston.com` and its HTTP variants appear, interspersed with black bars.
+
+In the middle of the document, a timestamp reads "On Jul 30, 2019, at 1:54 PM,". Below this is another block of redacted header data labeled with "wrote:".
+
+Following the redaction block, a paragraph discusses meeting logistics, mentioning that everyone will be around but suggesting letting security know upon arrival. It mentions speaking with the recipients at 9:30 tomorrow. The sign-off reads "thanks," followed by a single black bar where a name would be.
+
+At the bottom is a section titled "----Original Message----". This footer section repeats the header format with "From:", "Sent: Tuesday, July 30, 2019 13:22", and "To:", all largely obscured by black bars covering email addresses.
+
+In the bottom right corner, there is a unique document identifier code printed in small sans-serif text.
+
+## Visible Text (verbatim)
+*   `<mailto:` followed by redacted bars
+*   `Cc:` followed by redacted bars
+*   `<x-apple-data-detectors://0/1>`
+*   `New York, NY 10166-4193<x-apple-data-detectors://0/1>`
+*   `Bio` followed by redacted text and a `|` separator.
+*   `VCard<http://www.winston.com/vcards/1022.vcf> | Emailmailto:` followed by redacted bar `|`
+*   `winston.com<http://winston.com><http://winston.com><http://winston.com><http://winston.com>`
+*   `<http://winston.com><http://www.winston.com/>`
+*   `On Jul 30, 2019, at 1:54 PM,`
+*   `<mailto:` followed by redacted bars
+*   `----Original Message----`
+*   `From:` followed by redacted bars
+*   `Sent: Tuesday, July 30, 2019 13:22`
+*   `To:` followed by redacted bars
+*   `EFTA0025369` (Bottom right corner)
+
+## Notable Details / Clues
+*   **Date Context:** The document is dated July 30, 2019.
+*   **Company Affiliation:** The domain name "winston.com" appears repeatedly, suggesting the correspondence is from an employee or entity associated with Winston & Strawn (a law firm) or a subsidiary.
+*   **Location:** A specific New York address (10166-4193) is visible, placing the sender in that region.
+*   **Security Protocol:** The text mentions "security let me know when you arrive," implying this meeting took place in a high-security building or sensitive environment.
+*   **Data Detectors:** The presence of `<x-apple-data-detectors://0/1>` suggests this document may have been processed by Apple's data privacy features or OCR software that flags PII (Personally Identifiable Information).
+*   **Redaction Pattern:** The redactions are consistent, using solid black rectangles of varying lengths rather than blurring or pixelation, which is common in legal discovery documents or leaked internal memos.
+*   **Time Discrepancy:** The email asks for a call at "12:45" but the original message footer says "13:22" (1:22 PM). The body mentions meeting at "9:30 tomorrow," which implies the emails were sent the night before or late on the 30th.
+*   **VCard Link:** The specific file `1022.vcf` suggests this is a generated business card/contact detail for a specific internal employee ID or database entry.
+
+## Page 16 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a printed document featuring two email messages stacked vertically. The majority of sensitive information, specifically names and email addresses denoted by `<mailto:` tags, has been redacted with solid black bars.
+
+**Top Email Section:**
+This appears to be a reply email based on the subject line prefix "RE:". The header block is heavily redacted but shows standard email fields like "From," "To," and "Cc."
+*   **Subject Line:** Visible text reads "Subject: RE:" followed by a long redacted bar.
+*   **Body Content:** A short, professional message confirms a meeting scheduled for the next day at 9:30 a.m. and asks who to ask for upon arrival.
+*   **Closing:** The message ends with "Thank you," followed by a signature block that is partially redacted.
+*   **Signature Block:** Visible text includes the title "Associate Attorney," a phone number starting with "D: +1," and a specific pronoun disclosure: "Pronouns: she, her, hers."
+*   **Footer Note:** A small notice at the bottom reads, "Please consider the environment before printing this e-mail."
+
+**Bottom Email Section (Original Message):**
+This section is introduced by the header "----Original Message----" and contains the forwarded history.
+*   **Date/Time:** The email timestamp is clearly visible: "Sent: Wednesday, July 24, 2019 2:32 PM".
+*   **Header Fields:** The "From," "To," and "Cc" fields are completely obscured by black bars, though `<mailto:` tags are faintly visible above the bars.
+*   **Subject Line:** Similar to the top email, it reads "Subject: RE:" followed by redaction.
+*   **Body Content:** A paragraph explaining that transcripts of court proceedings are being sent as previously promised during a conversation earlier that afternoon.
+*   **Attachment Context:** The text mentions "they are attached," implying an attachment was included in the original message (though not visible).
+
+## Visible Text (verbatim)
+**Top Email Header/Body Snippets:**
+- `<mailto: ... >` (Redacted)
+- `Cc:` (Redacted list)
+- `Subject: RE:` (Redacted)
+- `, , ,`
+- `I am writing to confirm our meeting with you tomorrow at 9:30 a.m. Whom should we ask for when we arrive?`
+- `Thank you,`
+- `[Redacted Name/Title]`
+- `Associate Attorney`
+- `D: +1 [Redacted Number]`
+- `Pronouns: she, her, hers`
+- `Please consider the environment before printing this e-mail.`
+
+**Bottom Email Header/Body Snippets:**
+- `----Original Message----`
+- `From:` (Redacted)
+- `Sent: Wednesday, July 24, 2019 2:32 PM`
+- `To:` (Redacted)
+- `Cc:` (Redacted)
+- `Subject: RE:` (Redacted)
+- `[Redacted] ,`
+- `Following up on the below and our brief conversation this afternoon, you're absolutely correct that I had said we'd send transcripts of the court proceedings thus far; they are attached.`
+
+**Document ID:**
+- `EFTA00025370` (Bottom right corner)
+
+## Notable Details / Clues
+- **Privacy/Redaction:** The extensive use of black bars indicates a document prepared for public release or legal discovery where PII (Personally Identifiable Information) has been scrubbed.
+- **Professional Context:** The titles "Associate Attorney" and the mention of "court proceedings" place this correspondence within a legal setting.
+- **Date Specificity:** The original email was sent on a Wednesday, July 24, 2019. This anchors the timeline of the event being discussed (the meeting).
+- **Inclusivity/Pronoun Disclosure:** The explicit inclusion of "Pronouns: she, her, hers" suggests a modern legal practice that prioritizes inclusive communication standards.
+- **Environmental Awareness:** The footer text "Please consider the environment before printing this e-mail" is a common corporate sustainability notice, often required by law or policy in jurisdictions like California or for federal agencies.
+- **Communication Flow:** The top email is asking for logistical confirmation (who to ask for), while the bottom email confirms a substantive action (sending court transcripts). This suggests a multi-step administrative process in an ongoing case.
+- **Typing Style:** The use of "----Original Message----" is standard client-side email formatting, indicating this was printed from a specific email client (likely Outlook or Apple Mail) rather than a raw server export.
+
+## Page 17 (DOC) [TAG:DOJ_CLEAN_V2]
+
+You also had asked about additional information about written or otherwise recorded messages from (or in connection with, or referencing) victims. While we're not currently in a position to provide additional detail about those particular records (in terms of identifying information on those records themselves), we can give you related information that is more specific and I think may be more helpful. Separate from the messages, we have contemporaneous telephone records, including records from a cell phone that was registered to your client, in her name -- those cell phone records reflect numerous phone contacts with multiple girls who were underage at the time of the calls.
+
+thank you,
+[REDACTED].
+
+----Original Message-----
+From: [REDACTED])
+Sent: Tuesday, July 23, 2019 14:55
+To: [REDACTED] <[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]><mailto:[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]>
+Cc: [REDACTED] <[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]><mailto:[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]><mailto:[REDACTED]>; [REDACTED])
+<[REDACTED]<mailto:[REDACTED]<mailto:[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]<mailto:[REDACTED]<mailto:[REDACTED]>; [REDACTED]
+[REDACTED]) <[REDACTED]<mailto:[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]<mailto:[REDACTED]<mailto:[REDACTED]>
+<mailto:[REDACTED]>>
+Subject: RE: [REDACTED]
+
+[REDACTED],
+
+Following up on our conversations last week and yesterday, and in response to your email, we are available to meet with you and [REDACTED] next week. [REDACTED]
+
+As we covered on the phone yesterday, you should feel free to reach out to any of us on the team if you have any questions as you meet with your client, and thank you in advance for copying all of our team on email communications, as we also discussed. I think I also said that we would send you the docket numbers of the primary civil cases, which are 15 Civ. 7433 (RWS) (SDNY), 17 Civ. 616 (JGK) (SDNY), and 08 Civ. 80736 (SDFL) (the CVRA litigation). I believe there are also a number of docketed civil cases involving Mr. Epstein in federal court in Florida, and there may also be additional state cases.
+
+Separately, I don't recall if I said we would send this, but in case it is useful for your consideration, attached is an example of our standard proffer agreement.
+
+In terms of scheduling, next week we are available at 2:30 on Monday; anytime on Tuesday except for 12:30 to 1:30; and at either 9:30 a.m. or 5:00 p.m. on Wednesday, due to a court conference and other meetings during the day.
+
+Please let us know if we're forgetting anything or if any additional information would be useful, and we look forward to being in touch soon.
+
+[REDACTED].
+EFTA00025371
+
+## Page 18 (DOC) [TAG:DOJ_CLEAN_V2]
+
+----Original Message-----
+From: [REDACTED] <[REDACTED] <mailto:[REDACTED]>
+<mailto:[REDACTED]><mailto:[REDACTED]<mailto:[REDACTED]>>
+Sent: Monday, July 22, 2019 12:32
+To: [REDACTED]) <[REDACTED] <mailto:[REDACTED]>
+<mailto:[REDACTED]><mailto:[REDACTED]><mailto:[REDACTED]>>
+Cc: [REDACTED] <[REDACTED] <mailto:[REDACTED]>
+<mailto:[REDACTED]><mailto:[REDACTED]><mailto:[REDACTED]>>
+Subject: [REDACTED]
+
+Hi [REDACTED]. Thank you again for your time on the phone last week. I’m following up on our conversation. First, I’m writing to confirm that we have now been formally retained in connection with the above-referenced matter. Second, we are available to meet with you on July 29 at 2 pm. Please let us know whether that date and time works for you. [REDACTED]
+
+We look forward to hearing back from you regarding the above. Many thanks.
+
+Best,
+[REDACTED]
+[REDACTED] [REDACTED]
+
+Partner
+[REDACTED]
+<x-apple-data-detectors://2/1><x-apple-data-detectors://4/1>[REDACTED]<x-apple-data-detectors://0/1>
+New York, NY 10166-4193<x-apple-data-detectors://0/1>
+
+[REDACTED]
+[REDACTED]
+
+Bio[REDACTED] |
+VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto:[REDACTED]> |
+winston.com<http://winston.com><http://winston.com><http://winston.com><http://winston.com>
+<http://winston.com><http://winston.com><http://www.winston.com/>
+
+The contents of this message may be privileged and confidential. If this message has been received in error, please delete it without reading it. Your receipt of this message is not intended to waive any applicable privilege. Please do not disseminate this message without the permission of the author. Any tax advice contained in this email was not intended to be used, and cannot be used, by you (or any other taxpayer) to avoid penalties under applicable tax laws and regulations.
+[REDACTED] [REDACTED]
+
+EFTA00025372
+
+## Structured Fields
+- **Date:** Monday, July 22, 2019 12:32
+- **Meeting Date Proposed:** July 29 at 2 pm
+- **Location:** New York, NY 10166-4193
+- **Organization:** Winston (winston.com)
+- **Doc ID:** EFTA00025372
+
+## Page 19 (DOC) [TAG:DOJ_CLEAN_V2]
+
+Partner
+
+[REDACTED]
+<x-apple-data-detectors://2/1><x-apple-data-detectors://4/1> [REDACTED] <x-apple-data-detectors://0/1>
+New York, NY 10166-4193<x-apple-data-detectors://0/1>
+
+[REDACTED]
+[REDACTED]
+Bio<[REDACTED]> |
+VCard<http://www.winston.com/vcards/1022.vcf> | Email<mailto:[REDACTED]> |
+winston.com
+<http://winston.com><http://www.winston.com/>
+
+## Structured Fields
+- **Organization:** Partner, Winston (from VCard URL)
+- **Location:** New York, NY 10166-4193
+- **Doc ID:** EFTA00025373
+- **Email:** [REDACTED]
+- **Phone/ID Tags:** <x-apple-data-detectors://2/1>, <x-apple-data-detectors://4/1>, <x-apple-data-detectors://0/1>
+

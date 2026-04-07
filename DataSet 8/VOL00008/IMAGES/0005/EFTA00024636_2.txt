@@ -1,0 +1,449 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00024636.pdf ts=2026-03-16T12:21:30 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.                                                                                                    Invoice No:                          5-541-59418
+                                                                                                                                               Invoice Date:                        Aug 14, 2000
+                                                                                                                                               Account Number:                     [REDACTED]
+                                                                                                                                               Page 1 of 12
+                                                                                                                                               FedEx Tax ID: 71-0427007
+
+JEPSTEIN & CO INC                                                                                        Questions?
+[BLOCKED]                                                                                                  Phone:                             [REDACTED]                      M-F 7-6 (CST)
+Billing Account Shipping Address:
+J EPSTEIN & CO INC
+MRS SHERMAN                                                                                               Fax:                                [REDACTED]
+[BLOCKED]                                                                                                US                                                                 Internet:                            www.fedex.com
+
+Invoice Summary Aug 14, 2000
+
+Domestic Services
+Net Transportation Charges                                              365.66
+Special Handling Charges                                                 34.66
+Total Charges . . . . . . . . . . . . . . . . . . . . . . . . . USD $..    400.32
+
+
+To ensure proper credit, please return this portion with your payment to FedEx.
+Please do not staple or fold.
+
+Remittance Advice
+
+Your Payment is due by Aug 29, 2000
+
+1144208155415941898004003256
+
+SP 01 000001 97702 A 1 ASNGLP
+[BLOCKED]                                                                                                FedEx
+JEPSTEIN & CO INC                                                                                              P.O. Box 1140
+                                                                                                                Memphis TN 38101-1140
+
+Invoice Number      Account Number     Amount Due
+5-541-59418        [REDACTED]         USD $ 400.32
+
+[ ] For change of address, check here and complete form on reverse side.
+
+EFTA00024636
+
+## Structured Fields
+*   **Organization:** FedEx
+*   **Bill To / Ship To:** J EPSTEIN & CO INC (MRS SHERMAN)
+*   **Invoice Number:** 5-541-59418
+*   **Invoice Date:** Aug 14, 2000
+*   **Payment Due Date:** Aug 29, 2000
+*   **FedEx Tax ID:** 71-0427007
+*   **Account Number:** [REDACTED]
+*   **Total Amount Due:** USD $ 400.32
+    *   Net Transportation Charges: 365.66
+    *   Special Handling Charges: 34.66
+*   **Document ID / Footer Code:** EFTA00024636
+*   **Barcode Sequence:** 1144208155415941898004003256
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+
+Invoice No: 5-541-59418
+Invoice Date: Aug 14, 2000
+Account Number: [REDACTED]
+Page 2 of 12
+
+FedEx
+Federal Express
+
+Please indicate any change in mailing address:
+Account Number: 1144-2081-6
+
+Name:
+
+Address: Apt./Suite #
+City: State: Zip:
+Home Phone ( ) Business Phone ( )
+
+## Structured Fields
+- **Invoice No:** 5-541-59418
+- **Date:** Aug 14, 2000
+- **Account Number (Top):** [REDACTED]
+- **Account Number (Form):** 1144-2081-6
+- **Organization:** FedEx Federal Express
+- **Document ID:** EFTA00024637
+
+## Page 3 (DOC) [TAG:DOJ_CLEAN_V2]
+
+FedEx.
+Invoice No: 5-541-59418
+Invoice Date: Aug 14, 2000
+Account Number: [REDACTED]
+Page 3 of 12
+
+Payment Type Summary
+Original
+Shipper
+Number of Airbills ............................ 19
+Transportation Charges ...................... 303.62
+Special Handling Charges ..................... 32.18
+Total ............................................. USD $ 335.80
+
+Number of Airbills ................................... 19
+Total Charges .......................................... USD $ 335.80
+
+Recipient
+Number of Airbills ............................ 1
+Transportation Charges ...................... 13.44
+Special Handling Charges ..................... 0.54
+Total ............................................. USD $ 13.98
+
+Number of Airbills ................................... 1
+Total Charges .......................................... USD $ 13.98
+
+Third Party
+Number of Airbills ............................ 1
+Transportation Charges ...................... 48.60
+Special Handling Charges ..................... 1.94
+Total ............................................. USD $ 50.54
+
+Number of Airbills ................................... 1
+Total Charges .......................................... USD $ 50.54
+
+TOTAL AIRBILLS .................................................... 21
+TOTAL CHARGES ............................................ USD $ 400.32
+
+EFTA00024638
+
+## Structured Fields
+- **Date:** Aug 14, 2000
+- **Invoice Number:** 5-541-59418
+- **Page:** 3 of 12
+- **Organization:** FedEx
+- **Document ID (Footer):** EFTA00024638
+
+## Page 4 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document from FedEx, specifically an invoice or payment type detail page (Page 4 of 12). The top left corner features the bold black "FedEx" logo. The top right corner contains administrative details including the Invoice Number (5-541-59418), Invoice Date (Aug 14, 2000), a redacted Account Number, and page number. Below the header is a large, solid black rectangular block that obscures what appears to be address blocks or tracking numbers typically found on shipping invoices.
+
+Below the blacked-out section, a horizontal line separates the header from specific shipment logistics. A row of text indicates the package was "Picked up: Jul 31, 2000", identifies the "Payor" as the "Shipper", and notes "Reference: NO REFERENCE INFORMATION". Following this is a paragraph explaining a "Fuel Surcharge" due to market conditions and noting a delivery attempt on Aug 02, 2000.
+
+A significant note reads "INCORRECT RECIPIENT ADDRESS," indicating the original address listed was "1315 ALBERS STREET VAN NUYS, CA 91401." Further text mentions "Distance Based Pricing, Region 8" and a statement that FedEx has audited the airbill for correct pieces, weight, and service.
+
+The lower section of the document presents a grid of data points on the left (Airbill number, Service Type FedEx 2Day, Package Type Customer Packaging, Region 8, Pieces 1, Weight 3.0 lbs/1.4 kgs, Delivered Aug 03, 2000 at 15:12, Area Code 2R, Signed By ID, Bundle ID 000). To the right of this column, sender and recipient information is listed but heavily redacted with black bars; visible names include "ANTOINETTE" and "J EPSTEIN & CO INC".
+
+On the far right, a financial breakdown lists charges: Transportation Charge ($11.02), Fuel Surcharge ($0.44), and an Address Correction fee of $10.00. The total transportation charges are summed at USD $21.46. At the bottom left is internal use tracking text, and at the very bottom right is a unique ID code: EFTA00024639.
+
+## Visible Text (verbatim)
+- **Top Right:** Invoice No: 5-541-59418 / Invoice Date: Aug 14, 2000 / Account Number: [Redacted] / Page 4 of 12
+- **Header Row:** Payment Type Detail (Original)
+- **Logistics Row:** Picked up: Jul 31, 2000 / Payor: Shipper / Reference: NO REFERENCE INFORMATION
+- **Notes:** Fuel Surcharge - FedEx must apply a temporary fuel surcharge to reflect current market conditions as they relate to fuel costs. / 1st attempt Aug 02, 2000 at 12:10 PM. / INCORRECT RECIPIENT ADDRESS / Original address - 1315 ALBERS STREET/VAN NUYS,CA 91401 / Distance Based Pricing, Region 8 / FedEx has audited this airbill for correct pieces, weight, and service. Any changes made are reflected in the invoice amount.
+- **Field Data:** Airbill 82156934353 / Service Type FedEx 2Day / Package Type Customer Packaging / Region 8 / Pieces 1 / Weight 3.0 lbs, 1.4 kgs / Delivered Aug 03, 2000 15:12 / Service Area Code 2R / Signed By 0803015525 / Bundle ID 000
+- **Sender/Recipient Block:** Sender ANTOINETTE / J EPSTEIN & CO INC / [Redacted Address] / Recipient [Redacted]
+- **Charges:** Transportation Charge 11.02 / Fuel Surcharge 0.44 / Address Correction 10.00
+- **Total:** Total Transportation Charges USD $ 21.46
+- **Footer:** FedEx Internal Use: 216332780/0012002/_03 / EFTA00024639
+
+## Notable Details / Clues
+- **Address Correction Fee:** The document explicitly charges a $10.00 fee for "Address Correction," which correlates directly with the text note stating "INCORRECT RECIPIENT ADDRESS."
+- **Delivery Timing:** The package was picked up on July 31, 2000, but not delivered until August 3, 2000, despite being a "FedEx 2Day" service. A delivery attempt was logged on August 02, 2000, at 12:10 PM (likely due to the incorrect address).
+- **Redacted Sensitive Data:** While names like "ANTOINETTE" and "J EPSTEIN & CO INC" are partially visible, specific street addresses for sender/recipient and full account numbers are blacked out for privacy.
+- **Pricing Model:** The document specifies "Distance Based Pricing," suggesting the rate was calculated based on the mileage between origin and destination rather than zone pricing.
+- **Document Sequence:** Being "Page 4 of 12" suggests this is one item within a consolidated invoice or batch of shipments for the account holder.
+- **Weight:** The package weight is listed in both Imperial (3.0 lbs) and Metric (1.4 kgs) units, standard for international or standardized shipping documents.
+- **Internal Tracking:** The text at the bottom left ("FedEx Internal Use") provides a unique tracking ID used likely by FedEx's billing system to reconcile charges.
+
+## Page 5 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Document Header:** The top left corner features the FedEx corporate logo in its distinctive bold, black typeface.
+*   **Invoice Information Block:** In the upper right section, a column of text provides administrative metadata including the Invoice Number and Date.
+*   **Redaction Masking:** The vast majority of the document's visual space is occupied by a solid, opaque black rectangle that spans vertically from just below the header to near the bottom of the page.
+*   **Page Title Indicator:** Directly above the black content box on the left side, small text reads "Payment Type Detail (Original)."
+*   **Date of Issue:** The visible date indicates the document was generated in August 2000.
+*   **Document Length:** Text at the top right identifies this specific file as "Page 5 of 12," indicating it is a multi-page report or invoice.
+*   **Account Privacy:** The "Account Number" field is visible but immediately obscured by a black block, matching the height of the account number line.
+*   **Footer Identifier:** In the bottom right corner, separate from the main document area, is a system-generated tracking code or document ID.
+*   **Layout Structure:** The layout follows a standard business invoice format with branding on the left and data fields aligned to the right, though the central data tables are missing.
+*   **Text Alignment:** The header text is left-aligned within its respective columns, while the invoice number is bolded for emphasis.
+*   **Document Status:** The "(Original)" tag in the page title suggests this might be an un-redacted source file that has been processed (redacted) for this specific view, or it denotes a copy of an original transaction record.
+
+## Visible Text (verbatim)
+*   FedEx.
+*   Invoice No: 5-541-59418
+*   Invoice Date: Aug 14, 2000
+*   Account Number: [Redacted]
+*   Page 5 of 12
+*   Payment Type Detail (Original)
+*   EFTA00024640
+
+## Notable Details / Clues
+*   **Heavy Redaction:** The central black box suggests that sensitive shipping data, customer addresses, or specific line items have been intentionally hidden, likely for privacy compliance.
+*   **Historical Context:** The date "Aug 14, 2000" places this document in the late 20th century, predating modern digital record-keeping standards common today.
+*   **Partial Visibility:** Despite the redaction, the invoice number (5-541-59418) remains fully visible and legible.
+*   **System Code:** The text "EFTA00024640" at the bottom right appears to be a legacy system identifier or a Bates stamp used for legal discovery or archival purposes.
+*   **Page Progression:** Being page 5 of 12 implies this is a middle section of a consolidated shipment list or a detailed billing statement, rather than a single-package invoice.
+*   **Missing Data Area:** The black rectangle covers where typically recipient addresses, service dates, signature codes, and cost breakdowns would be located on a FedEx invoice.
+
+## Page 6 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital scan or digital reproduction of a document header and footer, with the central content area entirely obscured by a large, solid black rectangle. In the upper left corner, the FedEx corporate logo appears in bold black sans-serif typography, with a distinct red "E" design element (though appearing greyish/black in this monochrome reproduction). To the right of the logo, a block of metadata is aligned to the top margin. This section lists specific document identifiers: an invoice number beginning with '5-541', an invoice date of August 14, 2000, and an account number that has been redacted with a solid black bar. Below this header information, just above the large black void, is a small line of grey text reading "Payment Type Detail (Original)". The majority of the page's vertical space—spanning from approximately one-quarter down to three-quarters up—is consumed by the opaque black mask, effectively hiding shipping details, tracking numbers, or cost breakdowns. At the very bottom right corner of the white background, a unique alphanumeric identifier is printed in small font. A minor scanning artifact or dust speck is visible in the bottom left margin area.
+
+## Visible Text (verbatim)
+*   **Top Left:** FedEx.
+*   **Top Right Block:**
+    *   Invoice No: 5-541-59418
+    *   Invoice Date: Aug 14, 2000
+    *   Account Number: [Redacted]
+    *   Page 6 of 12
+*   **Above Black Box:** Payment Type Detail (Original)
+*   **Bottom Right:** EFTA00024641
+
+## Notable Details / Clues
+*   **Document Status:** The text "Page 6 of 12" indicates this is a multi-page statement, likely an invoice or remittance advice broken down by specific payment types.
+*   **Data Redaction:** The account number is intentionally blacked out for privacy or security reasons. The central large black box obscures the bulk of the document content, which would typically contain origin/destination addresses and shipment details.
+*   **Date Context:** The date "Aug 14, 2000" places this document over two decades in the past, indicating it is a historical record rather than current financial data.
+*   **Document Type:** The text "Payment Type Detail (Original)" suggests this specific view or page represents the raw transaction line items from the original invoice file.
+*   **Traceability:** The code "EFTA00024641" in the bottom right serves as an internal tracking reference, likely for FedEx's customer service or claims department to locate the original physical document.
+
+## Page 7 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document header and footer typical of a FedEx invoice or billing statement. The majority of the visual space, occupying roughly the central 70% of the page, is obscured by a large, solid black rectangular block that completely hides the body content of the document. This blackout bar starts just below the header information and extends down to about two-thirds of the page height. In the top left corner, the distinctive bold "FedEx" logo appears in black against a white background. In the top right quadrant, there is a column of text containing invoice metadata. The most significant visual element besides the header/footer is the massive black rectangle which implies that sensitive or specific line-item data (like shipping details, weight, cost breakdown) has been redacted or is simply not captured in this scan/crop. Just above the top edge of the black box, faint text reads "Payment Type Detail (Original)." The bottom right corner features a faint alphanumeric tracking code.
+
+## Visible Text (verbatim)
+**Top Left:**
+*   FedEx.
+
+**Top Right Block:**
+*   Invoice No:
+*   5-541-59418
+*   Invoice Date:
+*   Aug 14, 2000
+*   Account Number:
+*   [Redacted/Black Box]
+*   Page 7 of 12
+
+**Above Black Box:**
+*   Payment Type Detail (Original)
+
+**Bottom Right:**
+*   EFTA00024642
+
+## Notable Details / Clues
+*   **Redaction Level:** The black bar is solid and opaque, suggesting a deliberate effort to hide the specific transaction details or perhaps an error in image processing that covered the main content.
+*   **Document Sequence:** The text "Page 7 of 12" indicates this is a middle page of a larger multi-page invoice document.
+*   **Date Context:** The date "Aug 14, 2000" places the document in the year 2000 (the turn of the century), giving context to the likely paper format and technology used at the time (e.g., early 2000s FedEx invoicing style).
+*   **Account Security:** The "Account Number" field is specifically covered by a black box separate from the large central block, indicating a targeted privacy redaction for customer financial data.
+*   **Header Layout:** The layout uses a standard two-column header design where specific fields (Invoice No, Date) are stacked vertically in the top right.
+*   **Watermark/ID:** The code at the bottom right (EFTA00024642) likely serves as an internal archive reference or a specific identifier for this image file within FedEx's system.
+*   **Missing "Bill To" Section:** Due to the black box, the standard bill-to and ship-to address information usually found below the header is invisible.
+*   **Logo Style:** The FedEx logo uses its classic bold, sans-serif typeface with the hidden arrow (the space between 'e' and 'x') visible.
+
+## Page 8 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital document header and footer on a white background, with a massive, solid black rectangle obscuring the central content area. In the top left corner, the standard FedEx corporate logo is visible in a dark monochrome tone. Opposite this, in the top right quadrant, a block of text provides administrative details about the document. Below the header information and above the large black box, a small line of text indicates the specific type of detail view being shown. The remainder of the page below the black box consists entirely of white negative space, suggesting that most of the actual invoice data (such as shipping addresses, tracking numbers, and cost breakdowns) has been cropped out or redacted into the black area. A unique alphanumeric identifier is placed in the bottom right corner of the document.
+
+## Visible Text (verbatim)
+*   **Top Left:** "FedEx."
+*   **Top Right Block:**
+    *   "Invoice No: 5-541-59418"
+    *   "Invoice Date: Aug 14, 2000"
+    *   "Account Number: [Redacted/Blacked Out]"
+    *   "Page 8 of 12"
+*   **Above Black Box:** "Payment Type Detail (Original)"
+*   **Bottom Right:** "EFTA00024643"
+
+## Notable Details / Clues
+*   **Document Age:** The invoice date is August 14, 2000, indicating this is a historical document from over two decades ago.
+*   **Pagination:** The text "Page 8 of 12" indicates that the sender had at least 11 other shipments or billing items on this specific invoice run, suggesting a significant volume of business for FedEx at that time.
+*   **Redaction:** The "Account Number" field is completely blocked out by a thick black bar, likely to protect sensitive financial data belonging to the client (FedEx) or the recipient.
+*   **Document Type:** The faint text "Payment Type Detail (Original)" suggests this page is part of a larger audit trail or payment processing breakdown, rather than just a standard invoice receipt.
+*   **Image Artifact:** The massive black box looks like a digital overlay used to redact information before the image was shared or published online, rather than just a scanned missing area, as the text "Payment Type Detail" remains legible just above it.
+
+## Page 9 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a single-page document identified as "FedEx" at the top left. The document appears to be a detailed invoice or payment record for shipping services.
+
+**Header and Top Section:**
+- In the upper left corner is the bold FedEx logo.
+- In the upper right corner, there are fields for Invoice No, Invoice Date, Account Number, and Page count. The Account Number field has been redacted with a black bar. A large, solid black rectangular shape dominates the center of the document, completely obscuring a significant portion of the middle text or line item details. Below the FedEx logo on the left is the text "Payment Type Detail (Original)".
+
+**Middle Section:**
+- Beneath the large black box is a horizontal divider line.
+- Above this line, there are three columns of information: "Picked up: Aug 08, 2000", "Payor: Shipper", and "Reference: NO REFERENCE INFORMATION".
+
+**Bottom Left Section (Shipment Details):**
+- A note regarding "Fuel Surcharge" is visible, explaining the necessity of applying a temporary surcharge.
+- Below that, a pricing model indicator reads "Distance Based Pricing, Region 8".
+- A list of specific shipment attributes follows:
+    - Airbill: 818455010171
+    - Service Type: FedEx Standard Overnight
+    - Package Type: FedEx Envelope
+    - Region: 8
+    - Pieces: 1
+    - Weight: N/A lbs
+    - Delivered: Aug 09, 2000 12:49
+    - Area Code: AA
+    - Bundle ID: 000
+
+**Bottom Center and Right Section (Addresses and Charges):**
+- To the left of the charges are "Sender" details listing "JEFFREY EPSTEIN" and "J EPSTEIN & CO INC".
+- The "Recipient" area to the right contains three black bars obscuring address lines.
+- Financial breakdown is listed at the far right:
+    - Transportation Charge: 11.76
+    - Fuel Surcharge: 0.47
+    - Total Transportation Charges (USD $): 12.23
+
+**Footer:**
+- Tiny text at the bottom left reads "FedEx Internal Use: 224151490/0001234/_/".
+- A document control number "EFTA00024644" is visible in the bottom right corner.
+
+## Visible Text (verbatim)
+**Top Right:**
+Invoice No: 5-541-59418
+Invoice Date: Aug 14, 2000
+Account Number: [Redacted]
+Page 9 of 12
+
+**Center Left:**
+Payment Type Detail (Original)
+
+**Below Black Box:**
+Picked up: Aug 08, 2000 | Payor: Shipper | Reference: NO REFERENCE INFORMATION
+Fuel Surcharge - FedEx must apply a temporary fuel surcharge to reflect current market conditions as they relate to fuel costs.
+Distance Based Pricing, Region 8
+
+**Shipment Data:**
+Airbill 818455010171
+Service Type FedEx Standard Overnight
+Package Type FedEx Envelope
+Region 8
+Pieces 1
+Weight N/A lbs
+Delivered Aug 09, 2000 12:49
+
+**Sender Info:**
+Sender
+JEFFREY EPSTEIN
+J EPSTEIN & CO INC
+
+**Recipient Info:**
+Recipient [Redacted]
+
+**Financials:**
+Transportation Charge ... 11.76
+Fuel Surcharge ... 0.47
+Total Transportation Charges USD $ 12.23
+
+**Other Labels:**
+Service Area Code AA
+Signed By [Redacted]
+Bundle ID 000
+FedEx Internal Use: 224151490/0001234/_/
+EFTA00024644
+
+## Notable Details / Clues
+- **Date Discrepancy:** The Invoice Date (Aug 14, 2000) is several days after the Delivery Date (Aug 09, 2000), indicating this is a retrospective billing document.
+- **Sender Identification:** The sender is clearly listed as "JEFFREY EPSTEIN" and his business entity "J EPSTEIN & CO INC".
+- **Delivery Time:** The package was picked up on Aug 08 and delivered on Aug 09 at 12:49 PM, consistent with the "FedEx Standard Overnight" service type selected.
+- **Pricing Region:** The shipment falls under "Region 8" of the FedEx Distance Based Pricing network.
+- **Packaging Type:** Despite being an overnight shipment for a commercial entity (Epstein), only one piece weighing "N/A lbs" was sent in a simple "FedEx Envelope."
+- **Financial Breakdown:** The cost is split between transportation ($11.76) and fuel surcharge ($0.47), totaling $12.23.
+- **Redactions:** Sensitive data including the Recipient's full address, the Account Number, and the signature of the recipient have been redacted with black bars to protect privacy or confidentiality.
+- **Fuel Surcharge Note:** A specific clause is printed explaining that FedEx applies a "temporary fuel surcharge to reflect current market conditions," likely due to high oil prices during that era (Year 2000).
+
+## Page 10 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a document, specifically a FedEx invoice or statement page, heavily redacted or blacked out in the central area. The top left corner features the prominent FedEx corporate logo in its standard bold, sans-serif typography with the trademark dot following the 'x'. To the right of the logo is a header block containing administrative details regarding the specific transaction or document sequence, presented in a small, legible font. The vast majority of the page's surface area—approximately two-thirds from top to bottom—is obscured by a solid black rectangular shape, indicating that sensitive line-item data has been redacted or removed for privacy. Below the blacked-out section is a white margin containing faint text on the left and a document ID on the far right. The overall layout suggests this is a printed or high-resolution digital scan of a financial record.
+
+## Visible Text (verbatim)
+*   **Logo Area:** "FedEx."
+*   **Header Block:**
+    *   "Invoice No: 5-541-59418"
+    *   "Invoice Date: Aug 14, 2000"
+    *   "Account Number: [Black Box]"
+    *   "Page 10 of 12"
+*   **Below Header:** "Payment Type Detail (Original)"
+*   **Bottom Right Corner:** "EFTA00024645"
+
+## Notable Details / Clues
+*   **Date Context:** The date listed is August 14, 2000, indicating this is an archival document from the turn of the millennium.
+*   **Document Type:** The text "Payment Type Detail (Original)" and "Page 10 of 12" confirms this is a detailed breakdown page within a larger multi-page invoice packet.
+*   **Account Redaction:** The field labeled "Account Number" has been obscured by a thick black rectangle, likely to comply with data privacy standards in the digital copy.
+*   **Footer ID:** A unique alphanumeric string "EFTA00024645" is visible at the bottom right, serving as a document reference or file identifier.
+*   **Page Status:** It is the 10th page of a total 12-page document, suggesting significant transaction volume for this account in that period.
+
+## Page 11 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Header Logo:** In the top-left corner, the black FedEx logo is clearly visible against a white background. It features the distinctive "FedEx" typography with the trademark period following it.
+*   **Invoice Metadata Block:** To the right of the logo, a column of text provides document identification details. This block includes labels for Invoice Number, Date, Account Number, and Page Number.
+*   **Black Redaction Box:** A massive, solid black rectangle dominates the visual field, covering approximately 80-90% of the vertical height of the image. It sits directly below the header text and completely obscures the central body of the document.
+*   **Sub-header Text:** Just above the top edge of the black box, faint grey text reads "Payment Type Detail (Original)". This text is partially cut off by the logo area but is legible.
+*   **Document ID Footer:** In the bottom right corner, isolated from the main content, is a string of alphanumeric characters "EFTA00024646", likely a Bates number or file reference ID used in legal discovery.
+*   **Account Number Redaction:** Under the label "Account Number:", a thick black bar is placed horizontally, completely hiding the customer's account ID.
+*   **Date Stamp:** The date provided is August 14, 2000, indicating this is a historical document from the early 21st century.
+*   **Pagination:** The text "Page 11 of 12" indicates that this image represents page eleven of a twelve-page total document.
+*   **Visual Contrast:** There is a stark contrast between the white space of the header (which remains readable) and the pitch-black area covering the rest of the paper, typical of redacted exhibits in legal files or privacy-compliant screenshots.
+
+## Visible Text (verbatim)
+*   FedEx.
+*   Invoice No: 5-541-59418
+*   Invoice Date: Aug 14, 2000
+*   Account Number: [Obscured by black bar]
+*   Page 11 of 12
+*   Payment Type Detail (Original)
+*   EFTA00024646
+
+## Notable Details / Clues
+*   **Historical Context:** The date "Aug 14, 2000" places this document two decades in the past.
+*   **Document Fragmentation:** Since this is labeled "Page 11 of 12," the content currently displayed (even if blacked out) represents one of the final pages of a multi-page invoice, which often contains totals or specific shipment details rather than the main header.
+*   **Privacy/Legal Redaction:** The complete blacking out of the main body and the account number suggests this image is from a redacted record, possibly released for public viewing or used as evidence where specific financial data must be concealed.
+*   **Carrier Identification:** The FedEx logo identifies the shipping service provider responsible for the charges detailed on this invoice.
+*   **File System Identifier:** The text "EFTA00024646" at the bottom is likely an internal document control number (Bates stamp) used by legal professionals or courts to track physical or digital documents during discovery processes.
+
+## Page 12 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a digital scan of a document header and upper body, predominantly featuring white space and distinct textual elements at the top. In the upper left corner, the "FedEx" logo appears in bold black sans-serif typography. Opposite this, in the upper right quadrant, is a block of metadata organized into four lines. This section details an invoice number, date, account status, and pagination information. Below this header area and extending nearly to the middle of the visible page is a massive, solid black rectangular shape that completely obscures the central body of the document. Just above this black rectangle, a small title reads "Payment Type Detail (Original)". The vast majority of the lower half of the image is blank white space, interrupted only by a reference ID number printed in the bottom right corner and a faint speck in the bottom left area.
+
+## Visible Text (verbatim)
+*   **Top Left:** FedEx.
+*   **Top Right Block:**
+    *   Invoice No: 5-541-59418
+    *   Invoice Date: Aug 14, 2000
+    *   Account Number: [Redacted Black Box]
+    *   Page 12 of 12
+*   **Above Black Box:** Payment Type Detail (Original)
+*   **Bottom Right Corner:** EFTA00024647
+
+## Notable Details / Clues
+*   **Pagination Context:** The text "Page 12 of 12" indicates this is the final page of a twelve-page document set.
+*   **Date Significance:** The invoice date is August 14, 2000, placing this record over two decades in the past.
+*   **Data Redaction/Obfuscation:** The large black rectangle covering the main content area suggests either intentional redaction for privacy or a technical error during the document generation/scanning process where a black box was applied. The Account Number field also has a corresponding black bar obscuring the value.
+*   **Document Type:** Based on the "Invoice No" and "Payment Type Detail," this is likely a shipping cost statement or freight bill from FedEx.
+*   **Formatting:** The layout uses a standard left-aligned header for the logo and a right-aligned block for financial data, typical of financial reporting statements.
+*   **Scanning Artifacts:** A small black dot is visible in the extreme bottom left corner, likely dust on the scanner glass or a digital artifact.
+*   **Identifier:** The alphanumeric string "EFTA00024647" at the bottom right serves as an external tracking or filing reference code, distinct from the internal FedEx invoice number.
+

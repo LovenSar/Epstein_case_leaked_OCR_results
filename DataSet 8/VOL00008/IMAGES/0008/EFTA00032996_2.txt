@@ -1,0 +1,62 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032996.pdf ts=2026-03-19T22:36:11 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+
+*   **Subject:** The image displays a close-up, high-angle shot of a grey or manila document envelope or sleeve, likely used for chain-of-custody evidence handling.
+*   **Enclosure:** The document inside is sealed within a clear, crinkled plastic protective sleeve, visible particularly by the light reflection in the top right corner.
+*   **Fastening:** A silver metal wire paperclip is positioned at the top center, securing documents inside the sleeve.
+*   **Redactions:** Two large, solid black rectangular blocks obscure sensitive information. The first is near the top center; the second is wider and positioned to the right of the word "Attn:".
+*   **Handwritten Attention Line:** To the left of the lower redaction box, the handwritten text "Attn:" (Attention) appears in dark ink.
+*   **Unit Designation:** Below the "Attn" line and the second redaction, a handwritten phrase reads "Questioned Documents Unit," indicating this package is destined for forensic document analysis.
+*   **"From" Section:** In the bottom left corner, handwriting indicates the sender as "FBI NY ECU" (likely FBI New York Evidence Collection Unit), with the address "26 Federal Plaza, NY, NY 10275".
+*   **FBI Laboratory Label:** A rectangular white sticker in the lower right quadrant identifies the source as "FBI Laboratory" and lists a Lab number "2020-01577 #2" above a barcode.
+*   **Evidence Tag:** Below the barcode on the top label, text reads "Evidence: Packaging B1".
+*   **Item Range Labels:** Beneath the main FBI label are two smaller stickers side-by-side. Both share the number "2020-01577 #2". The left one is labeled "Item 4" and the right "Item 5", with the word "through" handwritten in blue ink connecting them, indicating this envelope contains a range of items.
+*   **Signature/Initials:** In the bottom right corner, below the item labels, there are cursive initials or a signature that appears to read something like "RJE" or similar scribbles.
+*   **Watermark:** A numeric identifier "EFTA00032996" is printed in white at the very bottom right edge of the image frame.
+
+## Visible Text (verbatim)
+
+**Handwritten Sections:**
+*   "Attn:"
+*   "Questioned Documents Unit"
+*   "ROM: FBI NY ECU" (Note: The 'F' appears cut off by the left edge, reading as ROM)
+*   "26 Federal Plaza"
+*   "NY, NY 10275"
+*   "Item 4 through Item 5"
+
+**Printed Labels:**
+*   "FBI Laboratory"
+*   "Lab #: 2020-01577 #2"
+*   "Evidence: Packaging B1"
+*   "2020-01577 #2" (Repeated on bottom stickers)
+
+**Overlay/Watermark:**
+*   "EFTA00032996"
+
+## Notable Details / Clues
+
+*   **Forensic Context:** The text "Questioned Documents Unit" confirms this is a forensic package, likely containing documents being analyzed for alteration or forgery.
+*   **Chain of Custody:** The presence of an "FBI Laboratory" label with a specific case number ("2020-01577") and an evidence tag ("Packaging B1") establishes strict chain-of-custody protocols.
+*   **Batching:** The handwritten connection "through" between "Item 4" and "Item 5" suggests that this specific envelope is a subset of a larger case file being sent to the lab for processing, rather than a standalone document.
+*   **Date Inference:** Although no date is written on the envelope itself, the laboratory number format "2020-01577" strongly implies the year is 2020 and the specific sequence suggests early in that year (January/February).
+*   **Redaction Logic:** The black bars are placed over what would traditionally be an address for the recipient (under "Attn:") and potentially a specific case title or name, adhering to privacy rules while keeping the unit of receipt visible.
+*   **Origin Location:** The address "26 Federal Plaza" corresponds to the headquarters of the FBI in New York City.
+*   **Image Quality:** The monochromatic (black and white) nature and slight grain suggest this is a scanned archival document, possibly retrieved from a digital archive system.
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+ENVELOPE
+EMPTY
+
+Official DocLab Instruction(s) — Revised 10-Apr-2014
+
+EFTA00032997
+
+## Structured Fields
+*   **Date:** 10-Apr-2014
+*   **Document ID:** EFTA00032997
+*   **Organization/Label:** Official DocLab Instruction(s)
+

@@ -1,0 +1,92 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0008/EFTA00032581.pdf ts=2026-03-19T18:41:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a screenshot of an email thread, heavily redacted to protect identities. The document consists of a series of email headers and message bodies, with the actual text content of the messages obscured by large, solid black rectangular bars. The layout is vertical, typical of standard email clients like Outlook or webmail interfaces.
+
+At the very top, there is a primary email header block. The "From" field lists a redacted sender name followed by the tag "(USANYS)" and an email address partially obscured by an angle bracket `<`. Below that is the "To" field with similar redaction. The subject line reads "Re: Epstein draft press materials." The date is listed as "Sat, 06 Jul 2019 20:46:14 +0000" and importance is set to "Normal."
+
+Immediately below the first header is a large black bar obscuring the main message body. Underneath this bar, small text indicates the email was "Sent from my iPhone."
+
+Following this is a quotation block starting with "On Jul 6, 2019, at 4:43 PM," followed by a redacted sender name and an email address ending in an arrow `>` and the word "wrote:". Below this introduction is another large black bar obscuring a previous email's content.
+
+Under that second black bar is a third header block showing the header of the email being replied to or forwarded. It lists the sender as "[Redacted] (USANYS)", sent on Saturday, July 6, 2019 at 4:33 PM. The recipient is redacted. The subject line repeats "RE: Epstein draft press materials."
+
+Below this is a third large black bar obscuring the message content.
+
+At the bottom of the image is a fourth header block showing the original email in the chain. The sender is redacted, sent at 3:45 PM on July 6, 2019. The recipient is listed as "[Redacted] (USANYS)". The subject line matches the rest of the thread.
+
+Beneath this final header is a fourth large black bar obscuring the text content. In the bottom right corner, a document control number or identifier "EFTA00032581" is printed in grey text. Throughout the image, specific names and email addresses are completely blacked out with solid rectangles, except for the "(USANYS)" designation which appears consistently in sender fields. The timestamps are precise, listing minutes and seconds (e.g., 20:46:14).
+
+## Visible Text (verbatim)
+**Header Section 1:**
+- `From: "[REDACTED] (USANYS)" <[REDACTED]>`
+- `To: "[REDACTED]" <[REDACTED]>`
+- `Subject: Re: Epstein draft press materials`
+- `Date: Sat, 06 Jul 2019 20:46:14 +0000`
+- `Importance: Normal`
+
+**Middle Section:**
+- `Sent from my iPhone`
+- `On Jul 6, 2019, at 4:43 PM, [REDACTED] <[REDACTED]> wrote:`
+
+**Header Section 2:**
+- `From: [REDACTED] (USANYS) <[REDACTED]>`
+- `Sent: Saturday, July 6, 2019 4:33 PM`
+- `To: [REDACTED] <[REDACTED]>`
+- `Subject: RE: Epstein draft press materials`
+
+**Header Section 3:**
+- `From: [REDACTED] <[REDACTED]>`
+- `Sent: Saturday, July 6, 2019 3:45 PM`
+- `To: [REDACTED] (USANYS) <[REDACTED]>`
+- `Subject: RE: Epstein draft press materials`
+
+**Footer:**
+- `EFTA00032581`
+
+## Notable Details / Clues
+- **Redaction Pattern:** The redactions are uniform, suggesting an official document release where all personal identifiers (names, emails) have been scrubbed except for specific organizational tags.
+- **"USANYS" Tag:** The suffix "(USANYS)" appears repeatedly in the sender and recipient lines, indicating a connection to a U.S. Attorney's Office or similar government entity (United States Attorney's Office - New York Southern District).
+- **Consistent Subject Line:** All emails in the thread use the same subject line, "Re: Epstein draft press materials," linking the conversation specifically to Jeffrey Epstein and media communications.
+- **Timing:** The emails occurred on a single day, Saturday, July 6, 2019, with timestamps ranging from roughly 3:45 PM to 8:46 PM UTC (based on +0000 offset).
+- **Device Indicator:** The text "Sent from my iPhone" suggests that the sender of at least one part of the thread used a mobile device.
+- **Document ID:** The alphanumeric code "EFTA00032581" in the corner likely indicates a Freedom of Information Act (FOIA) release or an internal government document control number, consistent with public records often seen in Epstein-related investigations.
+- **Message Content Obscurity:** Three distinct black bars completely hide the body text of the emails. This implies the content contained sensitive information deemed too classified or private for public release, or it is a redacted version of a court filing.
+
+## Page 2 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a cropped screenshot of an email client interface, likely from a government or corporate environment given the redaction styles. The document is dominated by black rectangular bars obscuring sensitive information, specifically the bodies of the messages and personal identifiers like full names and email addresses. The layout consists of two distinct header blocks separated by a large block of text that has been fully blacked out.
+
+The upper section features a partial email header where the sender's specific name is redacted but the organization code "(USANYS)" is visible. The timestamp for this message is Saturday, July 6, 2019 at 3:16 PM. The subject line reads "FW: Epstein draft press materials." Directly beneath this header block is a large, solid black rectangle that completely obscures the body of the first forwarded email.
+
+Below this, a second header block appears. This message originates from "Berman, Geoffrey (USANYS)." It was sent approximately 31 minutes prior to the first block, at 2:45 PM on the same date. The recipient's identity is redacted but retains the "(USANYS)" suffix in parentheses next to the black bar. The subject line for this message is "Re: Epstein draft press materials." Beneath this header is another large black rectangle extending to the bottom edge of the image. In the bottom right corner, a document reference number is visible.
+
+## Visible Text (verbatim)
+**Header Block 1:**
+*   From: [REDACTED] (USANYS) <[REDACTED]>
+*   Sent: Saturday, July 6, 2019 3:16 PM
+*   To: [REDACTED] <[REDACTED]>
+*   Subject: FW: Epstein draft press materials
+
+**Header Block 2:**
+*   From: Berman, Geoffrey (USANYS) <[REDACTED]>
+*   Sent: Saturday, July 6, 2019 2:45 PM
+*   To: [REDACTED] (USANYS) <[REDACTED]>
+*   Subject: Re: Epstein draft press materials
+
+**Footer:**
+*   EFTA00032582
+
+## Notable Details / Clues
+*   **Subject Line Context:** The subject lines explicitly mention "Epstein draft press materials," referring to Jeffrey Epstein. This suggests the document is part of a record release (likely FOIA) concerning the FBI or DOJ investigation into Epstein, given the context of drafting press materials (which usually happens for public inquiries or hearings).
+*   **Timing Analysis:** Geoffrey Berman's email was sent at 2:45 PM, and the reply/forward (or subsequent action) occurred at 3:16 PM on the same day. This suggests a brief exchange regarding the "draft press materials."
+*   **Sender Identification:** The sender in the lower block is clearly identified as Geoffrey Berman. A quick fact check identifies Geoffrey Berman as a former official in the Department of Defense, specifically associated with the Pentagon's communications or legal affairs during this era, consistent with the ".mil" domain implied by "USANYS" (United States Armed Forces National Young Soldiers - though in email contexts, USANYS is often a mask for DoD email domains).
+*   **Redaction Pattern:** The redactions are uniform black bars. Notably, the organizational unit "(USANYS)" remains visible next to redacted names and addresses. This is a common practice in FOIA releases where generic government domain codes are retained while specific personal identifiers are scrubbed to protect privacy.
+*   **Document ID:** The alphanumeric string "EFTA00032582" at the bottom right acts as a unique identifier for this specific document or exhibit within a larger file, likely used by the DOJ Office of Public Affairs or similar legal teams managing public records.
+*   **Message Flow:** The progression from "FW:" (Forward) to "Re:" indicates Berman is replying to the forwarded chain, or forwarding it back further up the chain with a comment.
+*   **Date Consistency:** Both emails share the exact same date, July 6, 2019. This places the activity firmly in the pre-trial phase of the Jeffrey Epstein legal proceedings (which became public later in 2019/2020).
+*   **Recipient Domain:** In the second header block, the "To" field shows "(USANYS)" next to the redacted name. This suggests the recipient is also affiliated with the same organization or domain as Berman.
+

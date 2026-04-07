@@ -1,0 +1,64 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00016008.pdf ts=2026-03-12T20:27:28 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+JANE DOE #7 [REDACTED]
+
+| COUNT/O.A. | DATE | DEFENDANT(S) | CHARGE |
+| :--- | :--- | :--- | :--- |
+| O.A. 23 | 7/16/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 27 | 7/22/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 32 | 8/17/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 39 | 8/25/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 41 | 9/16/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 44 | 10/3/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 45 | 10/26/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 57 | 12/4/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 66 | 12/16/04 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 75 | 1/1/05 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 85 | 1/14/05 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 89 | 1/27/05 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 90 | 1/28/05 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+| O.A. 92 | 2/1/05 | [REDACTED] | Conspiracy to entice a minor to engage in prostitution |
+
+CONFIDENTIAL GRAND JURY MATERIAL
+PAGE 1 OF 2
+JANE DOE #7
+
+EFTA00016008
+
+## Structured Fields
+
+*   **Names:** JANE DOE #7
+*   **Case IDs (Count/O.A.):** O.A. 23, O.A. 27, O.A. 32, O.A. 39, O.A. 41, O.A. 44, O.A. 45, O.A. 57, O.A. 66, O.A. 75, O.A. 85, O.A. 89, O.A. 90, O.A. 92
+*   **Dates:** 7/16/04, 7/22/04, 8/17/04, 8/25/04, 9/16/04, 10/3/04, 10/26/04, 12/4/04, 12/16/04, 1/1/05, 1/14/05, 1/27/05, 1/28/05, 2/1/05
+*   **Charges:** Conspiracy to entice a minor to engage in prostitution
+*   **Document Status:** CONFIDENTIAL GRAND JURY MATERIAL
+*   **Page Number:** PAGE 1 OF 2
+*   **Document ID:** EFTA00016008
+
+## Page 2 (DOC) [TAG:DOJ_CLEAN_V2]
+
+```markdown
+**COUNT/O.A.** | **DATE** | **DEFENDANT(S)** | **CHARGE**
+---|---|---|---
+Ct. 11 | 7/22/04 - 1/31/05 | EPSTEIN [REDACTED] | Enticement of a minor to engage in prostitution
+Ct. 21 | 7/16/04 | EPSTEIN [REDACTED] HYPERION | Travel to engage in illicit sexual conduct
+Ct. 22 | 7/22/04 | EPSTEIN [REDACTED] JEGE | Travel to engage in illicit sexual conduct
+Ct. 24 | 8/19/04 | EPSTEIN [REDACTED] JEGE | Travel to engage in illicit sexual conduct
+Ct. 26 | 9/16/04 | EPSTEIN [REDACTED] JEGE | Travel to engage in illicit sexual conduct
+Ct. 27 | 10/29/04 | EPSTEIN [REDACTED] JEGE | Travel to engage in illicit sexual conduct
+Ct. 33 | 12/17/04 | EPSTEIN [REDACTED] HYPERION | Travel to engage in illicit sexual conduct
+Ct. 34 | 1/1/05 | EPSTEIN [REDACTED] HYPERION | Travel to engage in illicit sexual conduct
+Ct. 55 | 7/22/04 - 1/31/05 | EPSTEIN [REDACTED] | Recruiting, enticing, providing, or obtaining a person, knowing that she is a minor and will be caused to engage in a commercial sex act
+
+CONFIDENTIAL GRAND JURY MATERIAL PAGE 2 OF 2 JANE DOE #7
+EFTA00016009
+```
+
+## Structured Fields
+- **Dates:** 7/22/04 - 1/31/05, 7/16/04, 8/19/04, 9/16/04, 10/29/04, 12/17/04, 1/1/05
+- **Case Counts (IDs):** Ct. 11, Ct. 21, Ct. 22, Ct. 24, Ct. 26, Ct. 27, Ct. 33, Ct. 34, Ct. 55
+- **Names/Organizations:** EPSTEIN, HYPERION, JEGE
+- **Document ID:** EFTA00016009
+

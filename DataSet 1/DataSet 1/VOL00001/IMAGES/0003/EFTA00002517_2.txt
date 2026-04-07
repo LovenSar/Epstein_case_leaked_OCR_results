@@ -1,0 +1,29 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0003/EFTA00002517.pdf ts=2026-03-05T20:44:20 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+*   **Central Server Rack:** Dominating the right-center of the frame is a tall, black 19-inch open-frame server rack filled with networking hardware. The unit appears somewhat cluttered, with equipment stacked vertically including switches and servers.
+*   **Cabling Chaos:** Extending from the top of the server rack is a dense tangle of loose network cables—specifically orange, yellow, blue, and white Ethernet cables—that drape downwards in long, unsecured loops. Additional black power cords and thinner data cables are also visible.
+*   **Laptop Monitor:** Perched at the very top section of the server rack is a small laptop screen displaying a blue window with lines of text, resembling a command-line interface or system boot sequence.
+*   **Left Side Office Chair:** To the left of the rack stands a black leather swivel office chair with armrests. It sits on a wheeled base with casters.
+*   **Evidence Marker:** Resting on the seat of the black chair is a white rectangular object featuring a large, bold black letter "E" printed on it, resembling an inventory tag or evidence marker.
+*   **Left Storage Unit:** To the far left edge, partially cut off, is a dark-colored storage unit with horizontal drawers or tool compartments and visible handles.
+*   **Wall Construction:** The walls are constructed of painted white cinder blocks. Large sheets of light-colored plywood (particle board) are mounted high on the walls to cover gaps in the brickwork or conceal exposed piping/conduit.
+*   **Cable Management Trays:** Along the ceiling line at the top of the image, black wire cable trays run horizontally. These contain bundles of thick black cables running along the roof edge.
+*   **Floor Ventilation:** Near the floor, to the left of the server rack, a white flexible corrugated duct (likely for HVAC return air) runs along the base of the wall.
+*   **Right Side Shelving:** On the far right, partially obscured by the door frame, is a lower shelving unit holding plastic storage bins and black electronic equipment cases.
+*   **Mounted Wall Boxes:** On the right-hand plywood board, two white rectangular boxes (possibly small UPS units or network power supplies) are mounted near the top.
+*   **Doorway:** A thick white door jamb frames the right side of the image, indicating the photo was taken from a doorway looking into this room.
+
+## Visible Text (verbatim)
+*   On chair seat: "E"
+*   Bottom right corner watermark: "EFTA00002517"
+*   Laptop screen content: Indistinct blue text window (unintelligible due to resolution).
+
+## Notable Details / Clues
+*   **Forensic Context:** The presence of the "E" tag on the chair suggests this location may be a crime scene or an area being documented for evidence collection.
+*   **Infrastructure Age/State:** The exposed plywood and the "hairball" of loose cables hanging from the rack suggest an older, perhaps unmaintained or rapidly changing IT infrastructure setup.
+*   **Equipment Functionality:** The laptop at the top of the rack appears to be powered on, indicating active use or monitoring of the equipment below.
+*   **Cable Color Coding:** The specific colors (blue, orange, green/yellow) visible on the Ethernet cables suggest standard category 5e/6 cabling often used in structured cabling runs.
+

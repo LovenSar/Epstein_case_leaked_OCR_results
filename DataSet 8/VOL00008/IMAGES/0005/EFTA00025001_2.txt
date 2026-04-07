@@ -1,0 +1,27 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0005/EFTA00025001.pdf ts=2026-03-16T16:20:05 -->
+
+## Page 1 (DOC) [TAG:DOJ_CLEAN_V2]
+
+From: "[REDACTED] (NY) (FBI)" <[REDACTED]>
+To: "[REDACTED]" <[REDACTED], "[REDACTED] (USANYS)"
+Cc: "[REDACTED] (NYPD)" <[REDACTED]>
+Subject: Other documentation
+Date: Tue, 12 Jan 2021 17:43:21 +0000
+Attachments: (U)_Documentation_of_services.pdf;
+(U)_Documentation_of_Services_by_[REDACTED]_04_01_2020-06_30_2020.pdf;
+(U)_S-00099701-A-011.pdf.pdf; (U)_Victim_Services_Division -
+_Case_Support_Unit_Assistance.pdf
+
+## Structured Fields
+
+- **Date:** Tue, 12 Jan 2021 17:43:21 +0000
+- **From Organization:** FBI (NY)
+- **To Organizations:** USANYS
+- **Cc Organization:** NYPD
+- **Document IDs/Attachments:**
+    - (U)_Documentation_of_services.pdf
+    - (U)_Documentation_of_Services_by_[REDACTED]_04_01_2020-06_30_2020.pdf
+    - (U)_S-00099701-A-011.pdf.pdf
+    - (U)_Victim_Services_Division_-_Case_Support_Unit_Assistance.pdf
+- **Case File/Reference ID (Footer):** EFTA00025001
+

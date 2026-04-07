@@ -1,0 +1,33 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 8/VOL00008/IMAGES/0002/EFTA00015156.pdf ts=2026-03-12T13:19:16 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a formal document titled "Additional Inquiry Response" originating from law enforcement agencies. At the very top left, a timestamp reads "10/6/21, 2:44 PM," while the top center indicates the document type as "III/FBI/State Delayed Response." Below this, in bold black text, is the title "Additional Inquiry Response" followed by an ORI code "NYFBINY00" printed in red. Immediately beneath that, the text "Federal Bureau of Investigation - New York" appears in a distinct reddish-purple color. The document identifies the issuing body as the "New York State Division of Criminal Justice Services," located in the "Alfred E. Smith Building" at 80 South Swan St., Albany, New York 12210, with the telephone number "1-800-262-DCJS." A horizontal line separates this header from a name: "Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services." Further down, a section titled "III Information" features a green circular icon on the left and a red upward-pointing arrow on the right. Following an introductory sentence regarding a search request for the III (Interstate Identification Index), a massive, solid black rectangular box dominates the center of the page, obscuring any specific data or record details that would typically appear in this area. At the bottom of the document, small capital letters provide a disclaimer stating records can be obtained through the Interstate Identification Index using the appropriate NCIC transaction. The word "END" appears below this text. Finally, at the bottom right corner, page numbering reads "1/1" and a unique alphanumeric identifier "EFTA00015156" is visible.
+
+## Visible Text (verbatim)
+*   10/6/21, 2:44 PM
+*   III/FBI/State Delayed Response
+*   Additional Inquiry Response
+*   ORI: NYFBINY00
+*   Federal Bureau of Investigation - New York
+*   New York State Division of Criminal Justice Services
+*   Alfred E. Smith Building, 80 South Swan St.
+*   Albany, New York 12210. Tel:1-800-262-DCJS
+*   Michael C.Green, Executive Deputy Commissioner of the NYS Division of Criminal Justice Services
+*   III Information
+*   The following information is provided in response to your request for a search of the III based on:
+*   THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION INDEX BY USING THE APPROPRIATE NCIC TRANSACTION.
+*   END
+*   1/1
+*   EFTA00015156
+
+## Notable Details / Clues
+*   **Redaction/Obscuration:** The central portion of the document is covered by a solid black box, which likely indicates that specific search results or redacted information were intended to appear there but are not visible, or the search yielded no hits and the placeholder was filled with black for privacy/template reasons.
+*   **Delayed Response Indicator:** The header explicitly states "III/FBI/State Delayed Response," suggesting this is not an immediate automated result letter but one sent later by a human agent to address a specific inquiry.
+*   **Red Text Highlights:** The ORI code and the FBI agency name are printed in red, distinguishing them from the standard black text of the NYS Division address block.
+*   **Executive Signatory:** The document lists Michael C. Green as the Executive Deputy Commissioner, adding an official layer of authority to the response.
+*   **NCIC Reference:** The footer text references "INTERSTATE IDENTIFICATION INDEX" and "NCIC TRANSACTION," confirming this is a standard federal/state law enforcement background check response format used in the US.
+*   **Document Counting:** The "1/1" at the bottom right indicates this document consists of a single page, which is common for simple III search results letters (either negative or positive hit summaries).
+*   **Unique ID:** The string "EFTA00015156" appears to be a Bates number or a case-specific reference ID used for chain-of-custody tracking within a legal proceeding.
+

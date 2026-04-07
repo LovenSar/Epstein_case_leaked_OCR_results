@@ -1,0 +1,46 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260306_034347_2815382_a216775e source=/home/longzb/Documents/DOJ/ROOT/DataSet 5/VOL00005/IMAGES/0001/EFTA00008438.pdf ts=2026-03-09T06:55:09 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a top-down view of digital forensic evidence being prepared or stored. Central to the frame is a clear, heavy-duty anti-static evidence bag containing at least two internal hard drives stacked on top of white protective wrapping or paperwork. The bag features a distinct black grid pattern, typical for Electrostatic Discharge (ESD) protection. Two strips of red adhesive tape with "EVIDENCE" printed in bold white letters run horizontally across the front. Handwritten in black marker near the top red tape is the text "PC 8/16/17". Affixed to the lower center of the bag is a yellow rectangular label containing barcode data and detailed case information.
+
+The evidence bag rests on top of an open, light brown cardboard box, likely a shipping or packaging box (brand "SMEAD" visible on the flap). The flaps of the box are folded outward. To the right of the bag, a thin black wire or cable extends out of the frame towards the bottom right corner. Beneath the evidence bag, slightly offset to the left and right, is a small white rectangular card or document. The entire assembly sits on a floor with a speckled pattern typical of terrazzo tile, featuring flecks of grey, blue, and white.
+
+## Visible Text (verbatim)
+**On Red Tape:**
+"EVIDENCE" (repeated horizontally)
+Handwritten: "PC 8/16/17"
+
+**On Yellow Label:**
+"90A-NY-3151227 Request ID 112048 1B33"
+"08/12/2019 NYC027712 PC Derivative Copy"
+"One (1) Western Digital 1000GB HDD"
+"WD1003FZEX-00MK2A0, S/N WCC3F2783515"
+"containing the Clone Copy of 1B15 hard drive"
+"(Seagate Barracuda 500GB HDD, ST35003..." (text cut off)
+"S/N 9QM8MT6D), collected via Tapirau..." (text cut off)
+"S/N 000ECC58017156."
+
+**On Cardboard Box Flap:**
+"SMEAD" logo with barcodes
+"No. 1000EL"
+"UPC 71907"
+"Standard Box - Assembled in Mexico"
+
+**Image Metadata (Bottom Right):**
+"EFTA00008438"
+
+## Notable Details / Clues
+*   **Forensic Protocol:** The presence of a "PC Derivative Copy" label indicates that investigators are creating a copy of the data rather than analyzing the original media directly, preserving the integrity of the evidence.
+*   **"Clone Copy" Label:** This confirms the bag contains a bit-for-bit forensic image (clone) of the original drive, further emphasizing strict chain-of-custody protocols.
+*   **Anti-Static Measures:** The black grid pattern on the inner packaging and the clear outer bag are designed to prevent Electrostatic Discharge, which can damage sensitive electronic components like hard drives during transport.
+*   **Specific Hardware Identification:** The label explicitly identifies two different drives: a Western Digital 1TB drive (WD1003FZEX) and a Seagate Barracuda 500GB drive (ST3500). This suggests the device processed contained multiple storage volumes.
+*   **Case Jurisdiction:** The text "90A-NY" and "NYC027712" strongly suggests this evidence is related to a New York City police department investigation, likely from Precinct 90A (often associated with Brooklyn).
+*   **Date Discrepancy:** The yellow label lists "08/12/2019", while the handwritten note on the tape says "8/16/17". This could indicate a typo in the handwriting, or that the evidence was re-packaged/cataloged years later.
+*   **Serial Numbers:** Multiple serial numbers are visible (S/N WCC3F..., S/N 9QM8MT6D), providing unique identifiers for tracking the specific physical assets in a database.
+*   **Box Branding:** The box is manufactured by "SMEAD," a common supplier of office and shipping supplies, suggesting standard-issue packaging rather than specialized forensic evidence containers (though the bag itself is specialized).
+*   **Cable Presence:** A black wire is visible on the right, implying that power or data cables were present during seizure but may have been disconnected or placed to the side before sealing.
+*   **Tapirau Reference:** The label mentions "collected via Tapirau," which likely refers to a specific tool, kit, or protocol name used by the collecting officer, though the text is partially obscured.
+*   **Lighting and Reflection:** The strong reflection on the plastic bag suggests bright overhead fluorescent lighting typical of a police station evidence room or processing lab.
+

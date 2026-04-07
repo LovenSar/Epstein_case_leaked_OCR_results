@@ -1,0 +1,48 @@
+<!-- DOJ_FILE_META tag=DOJ_CLEAN_V2 type=pdf mode=enrich detail_multiplier=3.00 run_id=20260305_033424_1975145_daeb1134 source=/home/longzb/Documents/DOJ/ROOT/DataSet 1/DataSet 1/VOL00001/IMAGES/0004/EFTA00003096.pdf ts=2026-03-06T00:56:41 -->
+
+## Page 1 (VISION) [TAG:DOJ_CLEAN_V2]
+
+## Detailed Description
+The image displays a close-up, slightly overhead shot of a white clipboard held by a person's left hand against a concrete ground surface. The clipboard contains a printed form titled "PHOTOGRAPHIC LIST - GENERAL INFORMATION" which has been filled out with blue ink handwriting. The entire document is oriented vertically in the frame, but the text runs from right to left relative to the image edge (rotated 90 degrees clockwise). A black plastic and metal clip secures the paper on the right side of the clipboard.
+
+The form lists photographic evidence items using a grid layout with columns for "PHOTO #" and "DESCRIPTION OF PHOTOGRAPHIC SUBJECT / MISCELLANEOUS COMMENTS." The handwriting is cursive and slightly hurried, documenting a series of photos taken at a location referred to as "Beach House - Zone C." Specific entries mention technology brands like "Apple" and "Dell," suggesting the documentation of computer equipment. A large black rectangle has been placed over the "PREPARER PHOTOGRAPHER" field, redacting the name. At the bottom left (which corresponds to the signature block), there is a signature that appears to read "JMC" dated "8/12/19". A blue diagonal line crosses out some text or serves as a separator near the signature area. On the far right edge (bottom of the page in standard orientation), a blue stamp reads "NY ERT" and indicates this is page "2 OF 2".
+
+## Visible Text (verbatim)
+**Header Section:**
+- DATE: 8/12/19
+- CASE ID: 3IE-NY-302571
+- LOCATION: Little St. S... [illegible suffix] ... Zone C
+- PREPARER PHOTOGRAPHER: [Redacted with black bar]
+
+**Table List (Top to Bottom / Right to Left):**
+- 154 Cover Sheet Beach House - Zone C
+- 155 R/f to Beach house - Zone C
+- 156-161 Exterior Beach House - Zone C
+- 162-173 Entry Interior Beach House - Zone C
+- [No Number] Desk / Beach House - Zone C
+- 177 Apple Desk Top Serial Number - Beach House - Zone C
+- 178-180 Dell Risk Tag Identifying Numbers - Beach House - Zone C
+- [No Number] Emergency Contact Information - Beach House - Zone C
+- [No Number] Ext Photos - Beach House - Zone C (Partial number visible as 191)
+- 201 Cover Sheet... [illegible rest]
+- 238 Guest Room...
+- 239 Cover Sheet Sundial - Zone C
+- 240-241 Sundial - Zone C
+- 242-243 Photo log
+
+**Signature Area:**
+- [Signature]: JMC (or similar)
+- Date: 8/12/19
+
+**Stamp:**
+- NY ERT
+- 2 OF 2
+
+## Notable Details / Clues
+- **Specific Location/Zone:** The text repeatedly ends with "- Zone C," suggesting this is a specific subdivision of a larger crime scene or property (the "Beach House").
+- **Digital Forensics Context:** Mentions of "Apple Desk Top," "Dell Risk Tag Identifying Numbers," and "Emergency Contact Information" imply that investigators are documenting the seizure or location of computers and digital devices within the scene.
+- **Redaction:** The black bar over the photographer's name indicates this document is being handled with standard confidentiality or privacy protocols common in law enforcement.
+- **Date Consistency:** Both the top date (8/12/19) and the signature date match, confirming the photos were taken on August 12, 2019.
+- **Page Numbering:** The "2 OF 2" stamp indicates this is the final page of a two-page list, accounting for the high volume of photo numbers (starting from #154 up to at least #243).
+- **Environmental Context:** The background shows rough concrete, consistent with an outdoor or industrial setting like a beach house parking area or exterior walkway.
+
